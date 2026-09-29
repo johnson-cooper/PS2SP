@@ -29,6 +29,9 @@ const navItems = [
     <meta name="description" content={description} />
     <meta name="theme-color" content="#050816" />
     <meta name="color-scheme" content="dark" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" sizes="256x256" href="/brand/ps2sp-mark.png" />
+    <link rel="apple-touch-icon" href="/brand/ps2sp-mark.png" />
     <title>{pageTitle}</title>
   </head>
   <body>
@@ -42,14 +45,22 @@ const navItems = [
 
     <header class="site-header">
       <div class="header-inner">
-        <a class="brand" href="/" aria-label="PS2SP home">
-          <span class="brand-sigil" aria-hidden="true">
-            <i></i><i></i><i></i>
-          </span>
-          <span class="brand-copy">
-            <strong>PS2SP</strong>
-            <small>PlayStation 2 Software Plaza</small>
-          </span>
+        <a class="brand" href="/" aria-label="PS2SP — PlayStation 2 Software Plaza home">
+          <img
+            class="brand-wordmark"
+            src="/brand/ps2sp-wordmark.webp"
+            width="768"
+            height="256"
+            alt="PS2SP — PlayStation 2 Software Plaza"
+          />
+          <img
+            class="brand-mark-mobile"
+            src="/brand/ps2sp-mark.png"
+            width="256"
+            height="256"
+            alt=""
+            aria-hidden="true"
+          />
         </a>
 
         <nav class="primary-nav" aria-label="Primary">
@@ -81,9 +92,12 @@ const navItems = [
 
     <footer class="site-footer">
       <div class="footer-grid">
-        <div>
-          <strong>PS2SP</strong>
-          <p>Independent community index for PlayStation 2 software and ecosystem resources.</p>
+        <div class="footer-brand">
+          <img src="/brand/ps2sp-mark.png" width="256" height="256" alt="" aria-hidden="true" />
+          <div>
+            <strong>PS2SP</strong>
+            <p>Independent community index for PlayStation 2 software and ecosystem resources.</p>
+          </div>
         </div>
         <div class="footer-links">
           <a href="/projects">Software</a>
