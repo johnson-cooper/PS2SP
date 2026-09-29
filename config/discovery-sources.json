@@ -62,7 +62,6 @@
         "IcySon55"
       ],
       "curatedRepositories": [
-        "2004sp/2004sp-progressive",
         "4gordi/udpbd-server",
         "7dog123/ps2-SDL",
         "aap/ee-gcc",
@@ -164,10 +163,8 @@
         "israpps/wLaunchELF_ISR_HDD",
         "itsveenee/SNESticleAurora",
         "Jay-Jay-OPL/OPL-Theme-Editor",
-        "johnson-cooper/2004sp-client",
         "johnson-cooper/2004sp-ps2port",
         "johnson-cooper/PS2SP",
-        "johnson-cooper/vril-engine",
         "JonathanDotCel/bootcard_igr",
         "jusefn/opl-mmce",
         "K3zter/mcp2-save-splitter",
