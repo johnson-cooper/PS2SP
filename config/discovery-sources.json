@@ -1,0 +1,28 @@
+{
+  "trustedOwners": [
+    {
+      "login": "ps2dev",
+      "type": "Organization",
+      "publishByDefault": true
+    },
+    {
+      "login": "ps2homebrew",
+      "type": "Organization",
+      "publishByDefault": true
+    }
+  ],
+  "queries": [
+    "topic:ps2-homebrew",
+    "topic:playstation-2",
+    "topic:playstation2",
+    "topic:ps2dev",
+    "topic:ps2",
+    "\"PlayStation 2\" in:name,description,readme",
+    "ps2sdk in:name,description,readme",
+    "\"PS2 homebrew\" in:name,description,readme"
+  ],
+  "incrementalOnlyQueries": [
+    "ps2 in:name,description",
+    "\"ps2 port\" in:name,description,readme"
+  ]
+}
