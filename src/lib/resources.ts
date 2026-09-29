@@ -1,4 +1,4 @@
-import resourceGroups from "../../data/resources/ps2links.json";
+import resourceGroups from "../../data/resources/directory.json";
 
 export interface ResourceLink {
   name: string;

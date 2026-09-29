@@ -12,8 +12,7 @@
     "preview": "astro preview",
     "check": "astro check",
     "catalog:sync": "node scripts/sync-github.mjs",
-    "catalog:discover": "node scripts/discover-github.mjs",
-    "resources:sync": "node scripts/sync-ps2links.mjs"
+    "catalog:discover": "node scripts/discover-github.mjs"
   },
   "dependencies": {
     "astro": "^7.3.5",

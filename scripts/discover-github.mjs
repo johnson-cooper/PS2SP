@@ -229,6 +229,15 @@ function explicitRepositorySignal(repo) {
   return hasPs2Token(repo?.name) || hasPs2Token(repo?.description) || topics.some((topic) => ["ps2-homebrew", "playstation-2", "playstation2", "ps2dev", "ps2"].includes(topic));
 }
 
+function forkSpecificPs2Signal(repo, release) {
+  const topics = repo?.topics ?? [];
+  return hasPs2Token(repo?.name) ||
+    topics.some((topic) => ["ps2-homebrew", "playstation-2", "playstation2", "ps2dev", "ps2"].includes(topic)) ||
+    hasPs2Token(release?.name) ||
+    hasPs2Token(release?.tag_name) ||
+    (release?.assets ?? []).some((asset) => hasPs2Token(asset.name));
+}
+
 function maturityState(repo, readmeText, releases) {
   const stable = latestStableRelease(releases);
   const published = latestPublishedRelease(releases);
@@ -449,8 +458,19 @@ async function processCandidate(candidate, origin, { force = false, trusted = fa
   score = scored.score;
   const evidence = scored.evidence;
   const publishByDefault = Boolean(trustedConfig?.publishByDefault);
-  const strongIndependentEvidence = trustedOwner || explicitRepositorySignal(repo) || evidence.some((item) => /README|release metadata/i.test(item));
-  const forkPublishable = !repo.fork || Boolean(forkStatus) || publishByDefault;
+  const forkIndependentEvidence = trustedOwner || forkSpecificPs2Signal(repo, release);
+  const strongIndependentEvidence = repo.fork
+    ? forkIndependentEvidence
+    : (trustedOwner || explicitRepositorySignal(repo) || evidence.some((item) => /README|release metadata/i.test(item)));
+  const forkPublishable = !repo.fork || (Boolean(forkStatus) && forkIndependentEvidence) || publishByDefault;
+
+  // A fork can inherit a README full of PS2 references while its own work targets
+  // a different platform. Require fork-specific PS2 identity instead of accepting
+  // copied upstream README text as independent evidence.
+  if (repo.fork && !forkIndependentEvidence) {
+    ignored++;
+    return;
+  }
 
   if (score >= 95 && strongIndependentEvidence && forkPublishable) {
     await publishProject(repo, releases, maturity, score, evidence, origin, forkStatus);

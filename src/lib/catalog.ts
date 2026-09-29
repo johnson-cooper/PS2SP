@@ -2,9 +2,9 @@ import { getCollection } from "astro:content";
 import categories from "../../config/categories.json";
 
 export async function getProjects() {
-  return (await getCollection("projects")).sort((a, b) =>
-    a.data.name.localeCompare(b.data.name)
-  );
+  return (await getCollection("projects"))
+    .filter((project) => !project.data.hidden)
+    .sort((a, b) => a.data.name.localeCompare(b.data.name));
 }
 
 export async function getSite() {
@@ -28,7 +28,7 @@ export function projectUpdatedAt(project: Awaited<ReturnType<typeof getProjects>
 export function formatDate(value?: string | null) {
   if (!value) return "Unknown";
   const date = new Date(value);
-  if (Number.isNaN(date.getTime())) return "Unknown";
+  if (Number.isNaN(date.getTime()) || date.getUTCFullYear() < 2000) return "Unknown";
   return new Intl.DateTimeFormat("en", {
     year: "numeric",
     month: "short",

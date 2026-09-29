@@ -20,6 +20,7 @@ const headers = {
 const shardCount = Math.max(1, Number.parseInt(process.env.SYNC_SHARDS ?? "24", 10));
 const explicitShard = process.env.SYNC_SHARD == null ? null : Number.parseInt(process.env.SYNC_SHARD, 10);
 const syncAll = process.env.SYNC_ALL === "1" || process.env.SYNC_ALL === "true";
+const forceRefresh = process.env.FORCE_REFRESH === "1" || process.env.FORCE_REFRESH === "true";
 const activeShard = syncAll ? null : ((Number.isInteger(explicitShard) ? explicitShard : new Date().getUTCHours()) % shardCount + shardCount) % shardCount;
 const maxRequests = Math.max(1, Number.parseInt(process.env.MAX_SYNC_API_REQUESTS ?? "800", 10));
 const reserve = Math.max(0, Number.parseInt(process.env.GITHUB_CORE_RATE_LIMIT_RESERVE ?? "120", 10));
@@ -99,6 +100,23 @@ function latestRelease(releases) {
   return releases.find((item) => !item.draft && !item.prerelease) ?? releases.find((item) => !item.draft) ?? null;
 }
 
+function hasPs2Token(text) {
+  return /(^|[^a-z0-9])ps2([^a-z0-9]|$)/i.test(text ?? "") || /playstation\s*2/i.test(text ?? "");
+}
+
+function forkSpecificPs2Signal(repo, release) {
+  const topics = repo?.topics ?? [];
+  return hasPs2Token(repo?.name) ||
+    topics.some((topic) => ["ps2-homebrew", "playstation-2", "playstation2", "ps2dev", "ps2"].includes(topic)) ||
+    hasPs2Token(release?.name) ||
+    hasPs2Token(release?.tag_name) ||
+    (release?.assets ?? []).some((asset) => hasPs2Token(asset.name));
+}
+
+function isGenericCuratedSummary(summary) {
+  return /^PlayStation 2-related repository maintained by NathanNeurotic:/i.test(summary ?? "");
+}
+
 const names = (await fs.readdir(projectsDir)).filter((name) => name.endsWith(".md"));
 let checked = 0;
 let changed = 0;
@@ -126,12 +144,12 @@ for (const name of names) {
 
     const repoResult = await github(
       `/repos/${data.source.repository}`,
-      data.automation.github.repoEtag ?? null
+      forceRefresh ? null : (data.automation.github.repoEtag ?? null)
     );
 
     const releasesResult = await github(
       `/repos/${data.source.repository}/releases?per_page=5`,
-      data.automation.github.releasesEtag ?? null
+      forceRefresh ? null : (data.automation.github.releasesEtag ?? null)
     );
 
     if (repoResult.status === 404) {
@@ -158,6 +176,9 @@ for (const name of names) {
       if (!data.license && repo.license?.spdx_id && repo.license.spdx_id !== "NOASSERTION") {
         data.license = repo.license.spdx_id;
       }
+      if (isGenericCuratedSummary(data.summary) && repo.description?.trim()) {
+        data.summary = repo.description.trim();
+      }
     }
 
     if (releasesResult.status !== 304) {
@@ -170,6 +191,10 @@ for (const name of names) {
             url: release.html_url ?? null
           }
         : { tag: null, name: null, publishedAt: null, url: null };
+
+      if (data.discovery?.method === "github-maintained-fork" && !data.verified && repoResult.data) {
+        data.hidden = !forkSpecificPs2Signal(repoResult.data, release);
+      }
     }
 
     // Only touch the public project file when upstream state or the stored cache
@@ -194,5 +219,5 @@ for (const name of names) {
 }
 
 console.log(
-  `Catalog sync complete: shard ${activeShard ?? "all"}/${shardCount}, ${checked} checked, ${notModifiedCount} conditional 304 responses, ${changed} changed, ${unavailable} unavailable, ${requestCount} GitHub requests${rateLimited ? " (stopped early to protect rate limit)" : ""}.`
+  `Catalog sync complete: shard ${activeShard ?? "all"}/${shardCount}${forceRefresh ? " (forced refresh)" : ""}, ${checked} checked, ${notModifiedCount} conditional 304 responses, ${changed} changed, ${unavailable} unavailable, ${requestCount} GitHub requests${rateLimited ? " (stopped early to protect rate limit)" : ""}.`
 );

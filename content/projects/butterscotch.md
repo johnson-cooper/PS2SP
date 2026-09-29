@@ -1,11 +1,14 @@
 ---
 name: Butterscotch
 slug: butterscotch
-summary: "\U0001F967 An open source re-implementation of GameMaker: Studio's runner (YoYo Runner)"
+summary: "Open-source GameMaker: Studio runner with native PlayStation 2 builds, including PS2-specific ELF targets."
 categories:
-  - uncategorized
+  - runtimes
+  - ports
 tags:
   - auto-discovered
+  - ps2
+  - gamemaker
 features: []
 authors: []
 license: AGPL-3.0
@@ -32,7 +35,7 @@ automation:
 discovery:
   method: github-search
   confidence: 100
-verified: false
+verified: true
 featured: false
 ---
-Automatically discovered by PS2SP from strong PlayStation 2-specific repository signals. This entry can be expanded and curated without affecting automated repository metadata.
+Butterscotch provides native PlayStation 2 builds alongside other platform targets. PS2SP tracks the upstream project because PS2 is an explicitly supported runtime target.

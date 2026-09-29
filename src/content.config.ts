@@ -57,7 +57,8 @@ const projects = defineCollection({
       source: nullableString
     }).optional(),
     verified: z.boolean().default(false),
-    featured: z.boolean().default(false)
+    featured: z.boolean().default(false),
+    hidden: z.boolean().default(false)
   })
 });
 

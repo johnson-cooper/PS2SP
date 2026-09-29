@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/sync-github.mjs"
+      - ".github/workflows/catalog-sync.yml"
 
 permissions:
   contents: write
@@ -14,6 +19,7 @@ concurrency:
 
 jobs:
   sync:
+    if: github.repository == 'johnson-cooper/PS2SP'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
@@ -32,6 +38,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PS2SP_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           SYNC_SHARDS: "24"
+          SYNC_ALL: ${{ github.event_name == 'push' && 'true' || 'false' }}
+          FORCE_REFRESH: ${{ github.event_name == 'push' && 'true' || 'false' }}
           MAX_SYNC_API_REQUESTS: "800"
           GITHUB_CORE_RATE_LIMIT_RESERVE: "120"
         run: npm run catalog:sync
