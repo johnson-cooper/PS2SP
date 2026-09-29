@@ -1,0 +1,16 @@
+{
+  "repository": "chewi/apascan",
+  "repositoryId": "315358",
+  "url": "https://github.com/chewi/apascan",
+  "description": "PlayStation 2 hard drive partition scanner for Linux",
+  "score": 70,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "starred:NathanNeurotic",
+  "maturity": "dormant-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-09-29T04:57:53.380Z",
+  "checkedAt": "2026-09-29T04:57:53.380Z"
+}

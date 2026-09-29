@@ -1,0 +1,17 @@
+{
+  "repository": "pcm720/protopwn",
+  "repositoryId": "999880416",
+  "url": "https://github.com/pcm720/protopwn",
+  "description": "An exploit for the Protokernel PlayStation 2 systems (SCPH-10000, SCPH-15000, and DTL-H10000(S)) that enables arbitrary code execution through a flaw in the OSDSYS Browser update code.",
+  "score": 80,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2",
+    "published GitHub release present"
+  ],
+  "origin": "starred:NathanNeurotic",
+  "maturity": "released-legacy",
+  "fork": null,
+  "discoveredAt": "2026-09-29T04:57:53.380Z",
+  "checkedAt": "2026-09-29T04:57:53.380Z"
+}

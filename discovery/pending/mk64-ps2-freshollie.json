@@ -1,0 +1,19 @@
+{
+  "repository": "freshollie/mk64-ps2",
+  "repositoryId": "1159426666",
+  "url": "https://github.com/freshollie/mk64-ps2",
+  "description": "A work in progress PlayStation 2 port of Mario Kart 64 decompilation",
+  "score": 90,
+  "evidence": [
+    "repository name explicitly identifies PS2",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "starred:NathanNeurotic",
+  "maturity": "dormant-unreleased",
+  "fork": {
+    "parent": "jnmartin84/mk64-dc",
+    "source": "jnmartin84/mk64-dc"
+  },
+  "discoveredAt": "2026-09-29T04:57:53.380Z",
+  "checkedAt": "2026-09-29T04:57:53.380Z"
+}

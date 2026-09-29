@@ -1,0 +1,17 @@
+{
+  "repository": "ps2-mmce/mmceman",
+  "repositoryId": "918084859",
+  "url": "https://github.com/ps2-mmce/mmceman",
+  "description": null,
+  "score": 75,
+  "evidence": [
+    "README explicitly mentions PlayStation 2",
+    "README contains PS2 development/toolchain evidence",
+    "published GitHub release present"
+  ],
+  "origin": "starred:NathanNeurotic",
+  "maturity": "released-active",
+  "fork": null,
+  "discoveredAt": "2026-09-29T04:57:53.380Z",
+  "checkedAt": "2026-09-29T04:57:53.380Z"
+}

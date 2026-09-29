@@ -1,0 +1,16 @@
+{
+  "repository": "AdityaKumar7209/Modulo-R1-Beta-Preview---PS2",
+  "repositoryId": "1300705677",
+  "url": "https://github.com/AdityaKumar7209/Modulo-R1-Beta-Preview---PS2",
+  "description": "This is a temporary binary beta-preview repository. Modulo R1 is based on Neutrino. The completed source code will be published in a properly, and this repository will then be archived.",
+  "score": 85,
+  "evidence": [
+    "repository name explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "starred:NathanNeurotic",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-09-29T04:57:53.380Z",
+  "checkedAt": "2026-09-29T04:57:53.380Z"
+}

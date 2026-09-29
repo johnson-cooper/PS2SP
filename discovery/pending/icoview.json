@@ -1,0 +1,16 @@
+{
+  "repository": "aap/ICOview",
+  "repositoryId": "1358013271",
+  "url": "https://github.com/aap/ICOview",
+  "description": "map viewer for the ps2 game ICO",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "starred:NathanNeurotic",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-09-29T04:57:53.380Z",
+  "checkedAt": "2026-09-29T04:57:53.380Z"
+}

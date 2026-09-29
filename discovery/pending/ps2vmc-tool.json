@@ -1,0 +1,17 @@
+{
+  "repository": "bucanero/ps2vmc-tool",
+  "repositoryId": "730698681",
+  "url": "https://github.com/bucanero/ps2vmc-tool",
+  "description": "PS1/PS2 VMC memcard manager tools",
+  "score": 80,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2",
+    "published GitHub release present"
+  ],
+  "origin": "starred:NathanNeurotic",
+  "maturity": "released-active",
+  "fork": null,
+  "discoveredAt": "2026-09-29T04:57:53.380Z",
+  "checkedAt": "2026-09-29T04:57:53.380Z"
+}

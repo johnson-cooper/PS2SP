@@ -1,0 +1,16 @@
+{
+  "repository": "Ravenslofty/ps2-clang-patches",
+  "repositoryId": "148013087",
+  "url": "https://github.com/Ravenslofty/ps2-clang-patches",
+  "description": "A port of LLVM to the PS2. Early stages; help appreciated.",
+  "score": 90,
+  "evidence": [
+    "repository name explicitly identifies PS2",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "starred:NathanNeurotic",
+  "maturity": "archived",
+  "fork": null,
+  "discoveredAt": "2026-09-29T04:57:53.380Z",
+  "checkedAt": "2026-09-29T04:57:53.380Z"
+}

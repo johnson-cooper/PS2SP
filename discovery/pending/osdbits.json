@@ -1,0 +1,16 @@
+{
+  "repository": "aap/osdbits",
+  "repositoryId": "1349469481",
+  "url": "https://github.com/aap/osdbits",
+  "description": "parts of the Playstation2's OSDSYS reverse engineered",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README contains PS2 development/toolchain evidence"
+  ],
+  "origin": "starred:NathanNeurotic",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-09-29T04:57:53.380Z",
+  "checkedAt": "2026-09-29T04:57:53.380Z"
+}

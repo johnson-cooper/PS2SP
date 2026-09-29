@@ -1,0 +1,16 @@
+{
+  "repository": "N0N0/USBInsanity",
+  "repositoryId": "4429348",
+  "url": "https://github.com/N0N0/USBInsanity",
+  "description": "Manage your Playstation 2 CDVD-Images on your USB-Drive for use with OpenPS2Loader or PS2ESDL.",
+  "score": 85,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "starred:NathanNeurotic",
+  "maturity": "dormant-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-09-29T04:57:53.380Z",
+  "checkedAt": "2026-09-29T04:57:53.380Z"
+}
