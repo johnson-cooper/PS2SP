@@ -1,7 +1,9 @@
 ---
 name: DKWDRV
 slug: dkwdrv
-summary: "Unified replacement for the PlayStation 2's original PS1DRV, adding broader compatibility, fixes, configuration options, and PS1-mode features."
+summary: >-
+  Unified replacement for the PlayStation 2's original PS1DRV, adding broader
+  compatibility, fixes, configuration options, and PS1-mode features.
 categories:
   - loaders
   - emulators
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-09-29T02:36:24.544Z'
+  lastSynchronized: '2026-09-29T08:31:11.351Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"93f55822bc9ae7925d23b4b52ef78d599d406553f1f93d1642ed5467602a49e2"
-    releasesEtag: '"92d1da06bc39cbed888d1815dbc9a62e8267a318054504c33ab96eb3bf896792"'
+    repoEtag: W/"0da9792bc9c2715a4889a034cb8ea2956cda512cd5330281594356751119ef69"
+    releasesEtag: '"c0526b402f519da3f81ea1cdf335210459b66ef064f08227fbc38365b1bad196"'
 discovery:
   method: curated-owner
   confidence: 100

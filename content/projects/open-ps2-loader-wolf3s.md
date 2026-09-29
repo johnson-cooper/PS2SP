@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-05-03T10:22:51Z'
   url: 'https://github.com/Wolf3s/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-09-29T04:57:53.380Z'
+  lastSynchronized: '2026-09-29T08:31:12.413Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"35eac49a0e907d5604198cd4756a98fca73f007bc3c342771ccc44d424391881"
+    releasesEtag: W/"5bbe172784fffe6550e328c1f28374b03ffd4d70c4981522d0857a4e9db81616"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100
@@ -42,5 +45,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

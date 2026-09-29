@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/ps2dev/ps2client/releases/tag/v1.3.0'
 activity:
   lastChecked: '2026-09-29T00:27:10.402Z'
-  lastSynchronized: '2026-09-29T02:37:09.061Z'
+  lastSynchronized: '2026-09-29T08:31:13.584Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4e7f058b98136ff316565acaae5cae0ea8718b8c86e1547b5c79dbc37a4a0ddb"
-    releasesEtag: W/"03fefe27f1ad40901723e3fbd8e30662ac030f86c62fc1a8d288725ff8169fad"
+    repoEtag: W/"03eb1ca3c8fa2a1595e424e40362f1f1764eba7074a9a7966b51753107e7079f"
+    releasesEtag: W/"cf6cc6b4d32ad0d329a446511736762f4ba290e18c295ee2160bf0405df10c5e"
 discovery:
   method: curated
   confidence: 100
