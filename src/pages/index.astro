@@ -7,10 +7,10 @@ const site = (await getSite()).data;
 const projects = await getProjects();
 const resourceGroups = getResourceGroups();
 const resources = getResources();
-const featured = projects.filter((project) => project.data.featured).slice(0, 7);
+const featured = projects.filter((project) => project.data.featured).slice(0, 5);
 const recent = [...projects].sort((a, b) =>
   new Date(projectUpdatedAt(b)).getTime() - new Date(projectUpdatedAt(a)).getTime()
-).slice(0, 8);
+).slice(0, 5);
 
 const categories = new Map<string, number>();
 for (const project of projects) {
@@ -26,7 +26,7 @@ const released = projects.filter((project) => project.data.latestRelease.tag).le
   <section class="home-hero">
     <div class="hero-copy">
       <p class="eyebrow">PlayStation 2 ecosystem index</p>
-      <h1><span>Software</span><br />Plaza.</h1>
+      <h1><span>Software</span> Plaza.</h1>
       <p class="lead">{site.tagline}</p>
 
       <form class="hero-search" action="/projects" method="get">
@@ -122,7 +122,7 @@ const released = projects.filter((project) => project.data.latestRelease.tag).le
         <p class="eyebrow">Beyond repositories</p>
         <h2>Walk the wider plaza</h2>
       </div>
-      <a href="/resources">451+ resources →</a>
+      <a href="/resources">{resources.length}+ resources →</a>
     </div>
 
     <div class="ecosystem-directory">
@@ -145,7 +145,7 @@ const released = projects.filter((project) => project.data.latestRelease.tag).le
       <div><p class="eyebrow">Software map</p><h2>Browse by function</h2></div>
     </div>
     <div class="category-strip">
-      {[...categories.entries()].sort((a, b) => b[1] - a[1]).map(([id, count]) => (
+      {[...categories.entries()].sort((a, b) => b[1] - a[1]).slice(0, 12).map(([id, count]) => (
         <a href={`/category/${id}`}>
           <strong>{categoryLabel(id)}</strong>
           <span>{count}</span>

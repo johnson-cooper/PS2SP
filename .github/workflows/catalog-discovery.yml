@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "47 */2 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/discover-github.mjs"
+      - "config/discovery-sources.json"
+      - ".github/workflows/catalog-discovery.yml"
 
 permissions:
   contents: write
@@ -14,6 +20,7 @@ concurrency:
 
 jobs:
   discover:
+    if: github.repository == 'johnson-cooper/PS2SP'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:

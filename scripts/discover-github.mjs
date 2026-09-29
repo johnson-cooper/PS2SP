@@ -153,6 +153,18 @@ const defaultSources = {
   incrementalOnlyQueries: [
     "ps2 in:name,description",
     "\"ps2 port\" in:name,description,readme"
+  ],
+  starredUsers: [
+    {
+      login: "NathanNeurotic",
+      ownerHints: [
+        "ps2dev", "ps2homebrew", "ps2-mmce", "ps2wiki", "ps2store", "israpps", "GDX-X",
+        "dnunezx", "rickgaiser", "bucanero", "CosmicScale", "Luden02", "pcm720", "ps2max32",
+        "Gageformer", "saildot4k", "oMrRexD", "Docmine17", "L10N37", "Yuramash", "hitchhikr",
+        "CTurt", "PCSX2", "ninjadynamics", "elmariolo", "gdomingues", "alex-free",
+        "coffeedevsolutions", "johnson-cooper", "4gordi", "IcySon55"
+      ]
+    }
   ]
 };
 
@@ -160,16 +172,20 @@ const sources = await readJson(sourcesFile, defaultSources);
 const trustedOwners = new Map((sources.trustedOwners ?? []).map((owner) => [owner.login.toLowerCase(), owner]));
 const baseQueries = sources.queries ?? defaultSources.queries;
 const incrementalOnlyQueries = sources.incrementalOnlyQueries ?? defaultSources.incrementalOnlyQueries;
+const starredUsers = sources.starredUsers ?? defaultSources.starredUsers ?? [];
 
 const state = await readJson(stateFile, {
   version: 1,
   bootstrap: { nextMonth: currentMonth(), complete: false },
   incremental: { watermark: null },
+  starred: { users: {} },
   trustedOwnersSeeded: false
 });
 state.version = 1;
 state.bootstrap ??= { nextMonth: currentMonth(), complete: false };
 state.incremental ??= { watermark: null };
+state.starred ??= { users: {} };
+state.starred.users ??= {};
 if (!state.bootstrap.nextMonth) state.bootstrap.nextMonth = currentMonth();
 
 const publishedNames = new Set();
@@ -227,6 +243,15 @@ function latestStableRelease(releases) {
 function explicitRepositorySignal(repo) {
   const topics = repo?.topics ?? [];
   return hasPs2Token(repo?.name) || hasPs2Token(repo?.description) || topics.some((topic) => ["ps2-homebrew", "playstation-2", "playstation2", "ps2dev", "ps2"].includes(topic));
+}
+
+function starredRepositorySignal(repo, ownerHints = []) {
+  const owner = repo?.owner?.login?.toLowerCase?.() ?? "";
+  const hintedOwners = new Set(ownerHints.map((value) => String(value).toLowerCase()));
+  if (hintedOwners.has(owner) || explicitRepositorySignal(repo)) return true;
+
+  const text = `${repo?.name ?? ""} ${repo?.description ?? ""}`;
+  return /(?:\bopl\b|open[- ]ps2|wlaunchelf|ulaunchelf|freemcboot|\bfmcb\b|ps2sdk|ps2toolchain|ps2link|ps2netfs|neutrino|nhddl|popstarter|\bpops\b|mmce|sd2psx|hdd.?osd|osdsys|\bapa\b|\bpfs\b|\bhdl\b|kelf|udpbd|udpfs|gskit|tim2|psbbn|dkwdrv|mechacon|pcsx2)/i.test(text);
 }
 
 function forkSpecificPs2Signal(repo, release) {
@@ -421,7 +446,7 @@ async function queueProject(repo, maturity, score, evidence, origin, forkStatus)
   console.log(`queued ${repo.full_name} (${score}; ${maturity.state})`);
 }
 
-async function processCandidate(candidate, origin, { force = false, trusted = false } = {}) {
+async function processCandidate(candidate, origin, { force = false, trusted = false, starred = false } = {}) {
   if (!candidate?.full_name || !candidate?.id) return;
   const key = String(candidate.id);
   if (!force && processed.has(key)) return;
@@ -462,7 +487,10 @@ async function processCandidate(candidate, origin, { force = false, trusted = fa
   const strongIndependentEvidence = repo.fork
     ? forkIndependentEvidence
     : (trustedOwner || explicitRepositorySignal(repo) || evidence.some((item) => /README|release metadata/i.test(item)));
-  const forkPublishable = !repo.fork || (Boolean(forkStatus) && forkIndependentEvidence) || publishByDefault;
+  const forkPublishable = !repo.fork ||
+    (Boolean(forkStatus) && forkIndependentEvidence) ||
+    publishByDefault ||
+    (starred && forkIndependentEvidence);
 
   // A fork can inherit a README full of PS2 references while its own work targets
   // a different platform. Require fork-specific PS2 identity instead of accepting
@@ -514,6 +542,56 @@ async function seedTrustedOwners() {
     }
   }
   state.trustedOwnersSeeded = true;
+}
+
+async function seedStarredUsers() {
+  for (const source of starredUsers) {
+    const login = source?.login;
+    if (!login) continue;
+
+    const key = login.toLowerCase();
+    const record = state.starred.users[key] ?? { seenRepositoryIds: [], lastScannedAt: null };
+    const seen = new Set((record.seenRepositoryIds ?? []).map(String));
+    let scanned = 0;
+    let newStars = 0;
+    let relevant = 0;
+
+    for (let page = 1; page <= 20; page++) {
+      const repos = await github(`/users/${encodeURIComponent(login)}/starred?sort=created&direction=desc&per_page=100&page=${page}`);
+      if (!Array.isArray(repos) || repos.length === 0) break;
+
+      for (const repo of repos) {
+        const id = String(repo.id);
+        scanned++;
+        if (seen.has(id)) continue;
+
+        newStars++;
+        if (publishedIds.has(id) || publishedNames.has(repo.full_name.toLowerCase()) ||
+            pendingById.has(id) || pendingByName.has(repo.full_name.toLowerCase())) {
+          seen.add(id);
+          continue;
+        }
+
+        if (starredRepositorySignal(repo, source.ownerHints ?? [])) {
+          relevant++;
+          await processCandidate(repo, `starred:${login}`, { starred: true });
+        }
+
+        // Mark only after the candidate completed. If rate limiting interrupts
+        // processing, the unfinished repository is retried on the next run.
+        seen.add(id);
+        record.seenRepositoryIds = [...seen].slice(-5000);
+        state.starred.users[key] = record;
+      }
+
+      if (repos.length < 100) break;
+    }
+
+    record.seenRepositoryIds = [...seen].slice(-5000);
+    record.lastScannedAt = runStartedAt;
+    state.starred.users[key] = record;
+    console.log(`starred seed ${login}: ${scanned} scanned, ${newStars} new, ${relevant} PS2 candidates`);
+  }
 }
 
 async function recheckPending() {
@@ -570,6 +648,7 @@ async function bootstrapDiscovery() {
 
 try {
   await seedTrustedOwners();
+  await seedStarredUsers();
   await recheckPending();
   await incrementalDiscovery();
   await bootstrapDiscovery();
