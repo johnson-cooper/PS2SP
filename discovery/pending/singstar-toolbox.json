@@ -1,0 +1,17 @@
+{
+  "repository": "ravenDS/singstar-toolbox",
+  "repositoryId": "1035168373",
+  "url": "https://github.com/ravenDS/singstar-toolbox",
+  "description": "Make custom PS2/PS3 SingStar discs + convert UltraStar to SingStar.",
+  "score": 80,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2",
+    "published GitHub release present"
+  ],
+  "origin": "incremental:topic:ps2",
+  "maturity": "released-active",
+  "fork": null,
+  "discoveredAt": "2026-09-29T09:05:43.442Z",
+  "checkedAt": "2026-09-29T09:05:43.442Z"
+}

@@ -1,0 +1,17 @@
+{
+  "repository": "israpps/BDMAssault",
+  "repositoryId": "733119272",
+  "url": "https://github.com/israpps/BDMAssault",
+  "description": "PS2 homebrew project to bring support for EXFAT USB devices to closed source old homebrew wich loads external USB Drivers",
+  "score": 80,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README contains PS2 development/toolchain evidence",
+    "published GitHub release present"
+  ],
+  "origin": "starred:NathanNeurotic",
+  "maturity": "released-legacy",
+  "fork": null,
+  "discoveredAt": "2026-09-29T09:05:43.442Z",
+  "checkedAt": "2026-09-29T09:05:43.442Z"
+}

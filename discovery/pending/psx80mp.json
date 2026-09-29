@@ -1,0 +1,17 @@
+{
+  "repository": "alex-free/psx80mp",
+  "repositoryId": "723876741",
+  "url": "https://github.com/alex-free/psx80mp",
+  "description": "Patch PS1 and PS2 CD games to work on early PS2 models when burned to 80 minute/700MB CD-Rs.",
+  "score": 75,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2",
+    "published GitHub release present"
+  ],
+  "origin": "starred:NathanNeurotic",
+  "maturity": "released-legacy",
+  "fork": null,
+  "discoveredAt": "2026-09-29T09:05:43.442Z",
+  "checkedAt": "2026-09-29T09:05:43.442Z"
+}

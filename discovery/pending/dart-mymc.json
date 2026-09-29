@@ -3,22 +3,14 @@
   "repositoryId": "1173973984",
   "url": "https://github.com/BAD-AL/dart_mymc",
   "description": "Dart port of 'mymc', CLI & library",
-  "score": 90,
+  "score": 80,
   "evidence": [
     "ps2-homebrew topic",
-    "PS2 topic",
-    "repository pushed within the last 180 days"
+    "PS2-specific topic"
   ],
-  "origin": "github-search",
-  "maturity": {
-    "state": "active-unreleased",
-    "publishEligible": false,
-    "queueEligible": true,
-    "reasons": [
-      "no stable release found",
-      "repository has recent activity"
-    ]
-  },
+  "origin": "pending-recheck",
+  "maturity": "active-unreleased",
   "fork": null,
-  "discoveredAt": "2026-09-29T00:27:28.446Z"
+  "discoveredAt": "2026-09-29T00:27:28.446Z",
+  "checkedAt": "2026-09-29T09:05:43.442Z"
 }

@@ -1,0 +1,16 @@
+{
+  "repository": "Trixarian/NetherSX2-patch",
+  "repositoryId": "681818078",
+  "url": "https://github.com/Trixarian/NetherSX2-patch",
+  "description": "Continuation of NetherSX2 based on AetherSX2 4248",
+  "score": 85,
+  "evidence": [
+    "PS2-specific topic",
+    "published GitHub release present"
+  ],
+  "origin": "incremental:topic:ps2",
+  "maturity": "released-active",
+  "fork": null,
+  "discoveredAt": "2026-09-29T09:05:43.442Z",
+  "checkedAt": "2026-09-29T09:05:43.442Z"
+}

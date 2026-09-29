@@ -1,0 +1,17 @@
+{
+  "repository": "pcm720/nhddl",
+  "repositoryId": "851353246",
+  "url": "https://github.com/pcm720/nhddl",
+  "description": "A PS2-based launcher for Neutrino",
+  "score": 80,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2",
+    "published GitHub release present"
+  ],
+  "origin": "starred:NathanNeurotic",
+  "maturity": "released-active",
+  "fork": null,
+  "discoveredAt": "2026-09-29T09:05:43.442Z",
+  "checkedAt": "2026-09-29T09:05:43.442Z"
+}

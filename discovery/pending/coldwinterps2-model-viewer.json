@@ -1,0 +1,16 @@
+{
+  "repository": "FrankoU28/ColdWinterPS2_Model_Viewer",
+  "repositoryId": "1217054764",
+  "url": "https://github.com/FrankoU28/ColdWinterPS2_Model_Viewer",
+  "description": "Noesis plugin to visualize models from Cold Winter",
+  "score": 85,
+  "evidence": [
+    "PS2-specific topic",
+    "published GitHub release present"
+  ],
+  "origin": "incremental:topic:ps2",
+  "maturity": "released-active",
+  "fork": null,
+  "discoveredAt": "2026-09-29T09:05:43.442Z",
+  "checkedAt": "2026-09-29T09:05:43.442Z"
+}

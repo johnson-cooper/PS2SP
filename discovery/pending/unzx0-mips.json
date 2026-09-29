@@ -1,0 +1,16 @@
+{
+  "repository": "hitchhikr/unzx0_mips",
+  "repositoryId": "1386557708",
+  "url": "https://github.com/hitchhikr/unzx0_mips",
+  "description": "ZX0 decompressor for the MIPS processors",
+  "score": 80,
+  "evidence": [
+    "PS2-specific topic",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:topic:playstation-2",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-09-29T09:05:43.442Z",
+  "checkedAt": "2026-09-29T09:05:43.442Z"
+}

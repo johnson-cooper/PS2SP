@@ -1,0 +1,17 @@
+{
+  "repository": "wako69420/iso-compressor",
+  "repositoryId": "1366353159",
+  "url": "https://github.com/wako69420/iso-compressor",
+  "description": "A simple, drag-and-drop utility for Mac (with full interactive TUI support for Windows & Linux) that compresses massive PS1, PS2, and PSP .ISO and .CUE backups into highly optimized .CHD, .ZSO, or .CSO files.",
+  "score": 80,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2",
+    "published GitHub release present"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "released-active",
+  "fork": null,
+  "discoveredAt": "2026-09-29T09:05:43.442Z",
+  "checkedAt": "2026-09-29T09:05:43.442Z"
+}

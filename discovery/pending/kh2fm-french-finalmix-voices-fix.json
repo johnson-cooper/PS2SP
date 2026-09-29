@@ -1,0 +1,16 @@
+{
+  "repository": "elyesseb/kh2fm-french-finalmix-voices-fix",
+  "repositoryId": "1387617079",
+  "url": "https://github.com/elyesseb/kh2fm-french-finalmix-voices-fix",
+  "description": "Fix for KH2FM PS2 French FANDUB black screen / PCSX2 VIF crashes and silent Final Mix cutscenes (SLPM-66675)",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:topic:ps2",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-09-29T09:05:43.442Z",
+  "checkedAt": "2026-09-29T09:05:43.442Z"
+}

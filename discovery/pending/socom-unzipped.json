@@ -1,0 +1,15 @@
+{
+  "repository": "Scotho/socom-unzipped",
+  "repositoryId": "1364978940",
+  "url": "https://github.com/Scotho/socom-unzipped",
+  "description": "SOCOM II: U.S. Navy SEALs, statically recompiled for PC with self-hosted online play",
+  "score": 75,
+  "evidence": [
+    "PS2-specific topic"
+  ],
+  "origin": "incremental:topic:ps2",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-09-29T09:05:43.442Z",
+  "checkedAt": "2026-09-29T09:05:43.442Z"
+}
