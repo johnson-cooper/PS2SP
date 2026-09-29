@@ -8,6 +8,8 @@ on:
     branches: [main]
     paths:
       - "scripts/discover-github.mjs"
+      - "scripts/promote-pending.mjs"
+      - "package.json"
       - "config/discovery-sources.json"
       - ".github/workflows/catalog-discovery.yml"
 
@@ -47,6 +49,9 @@ jobs:
           INCREMENTAL_SEARCH_PAGES: "2"
           RECHECK_PENDING_LIMIT: "20"
         run: npm run catalog:discover
+
+      - name: Promote catalog-ready pending projects
+        run: npm run catalog:promote-pending
 
       - name: Validate site
         run: npm run build

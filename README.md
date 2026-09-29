@@ -100,7 +100,10 @@ Local commands:
 ```bash
 GITHUB_TOKEN=... npm run catalog:sync
 GITHUB_TOKEN=... npm run catalog:discover
+npm run catalog:promote-pending
 ```
+
+Pending discovery records are reviewed automatically by the promotion step. Released projects can be promoted at lower confidence; recent unreleased projects require much stronger PS2-specific evidence. Explicit WIP, archived, dormant/discontinued, profile, documentation-only, and list/database repositories remain in `discovery/pending/` for manual review.
 
 Force a local complete refresh:
 
