@@ -36,15 +36,26 @@ const projects = defineCollection({
       url: nullableString
     }).default({}),
     activity: z.object({
-      lastChecked: nullableString
+      lastChecked: nullableString,
+      lastSynchronized: nullableString
     }).default({}),
     automation: z.object({
-      sync: z.boolean().default(true)
+      sync: z.boolean().default(true),
+      github: z.object({
+        repoEtag: nullableString,
+        releasesEtag: nullableString
+      }).optional()
     }).default({ sync: true }),
     discovery: z.object({
       method: z.string().default("curated"),
-      confidence: z.number().min(0).max(100).default(100)
+      confidence: z.number().min(0).max(100).default(100),
+      evidence: z.array(z.string()).optional(),
+      maturity: nullableString
     }).default({ method: "curated", confidence: 100 }),
+    relationships: z.object({
+      forkOf: nullableString,
+      source: nullableString
+    }).optional(),
     verified: z.boolean().default(false),
     featured: z.boolean().default(false)
   })
