@@ -18,6 +18,8 @@ const {
 const categories = [...new Set(projects.flatMap((project) => project.data.categories))].sort((a, b) =>
   categoryLabel(a).localeCompare(categoryLabel(b))
 );
+const ps2Symbols = ["△", "○", "×", "□"];
+const categorySymbols = new Map(categories.map((category, index) => [category, ps2Symbols[index % ps2Symbols.length]]));
 ---
 
 <section class="directory-shell" data-project-directory>
@@ -46,7 +48,7 @@ const categories = [...new Set(projects.flatMap((project) => project.data.catego
         <span>Category</span>
         <select data-project-category>
           <option value="">All</option>
-          {categories.map((category) => <option value={category}>{categoryLabel(category)}</option>)}
+          {categories.map((category) => <option value={category}>{categorySymbols.get(category)} {categoryLabel(category)}</option>)}
         </select>
       </label>
     )}
@@ -105,7 +107,10 @@ const categories = [...new Set(projects.flatMap((project) => project.data.catego
           </span>
           <span class="project-index-type">
             <span class="status-dot" data-state={project.data.repository.archived ? "archived" : "tracked"}></span>
-            {categoryLabel(project.data.categories[0] ?? "uncategorized")}
+            <span class="category-badge">
+              <span class="ps2-symbol" aria-hidden="true">{categorySymbols.get(project.data.categories[0] ?? "uncategorized") ?? "◇"}</span>
+              <span>{categoryLabel(project.data.categories[0] ?? "uncategorized")}</span>
+            </span>
           </span>
           <span class="project-index-release">
             {project.data.latestRelease.tag ?? "—"}
