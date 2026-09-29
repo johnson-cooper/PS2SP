@@ -157,7 +157,15 @@ const categories = [...new Set(projects.flatMap((project) => project.data.catego
           if (mode === "release") return Number(b.dataset.release ?? 0) - Number(a.dataset.release ?? 0);
           return (a.dataset.name ?? "").localeCompare(b.dataset.name ?? "");
         });
-        for (const row of sorted) list.appendChild(row);
+        let visibleIndex = 0;
+        for (const row of sorted) {
+          list.appendChild(row);
+          if (!row.hidden) {
+            visibleIndex++;
+            const number = row.querySelector<HTMLElement>(".project-index-number");
+            if (number) number.textContent = String(visibleIndex).padStart(3, "0");
+          }
+        }
 
         if (count) count.textContent = String(visible);
         if (empty) empty.hidden = visible !== 0;
