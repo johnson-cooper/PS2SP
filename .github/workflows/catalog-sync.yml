@@ -2,14 +2,14 @@ name: Sync PS2 catalog
 
 on:
   schedule:
-    - cron: "17 0 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: ps2sp-catalog-sync
+  group: ps2sp-catalog-write
   cancel-in-progress: false
 
 jobs:
@@ -28,30 +28,26 @@ jobs:
       - name: Install dependencies
         run: npm install --no-audit --no-fund
 
-      - name: Synchronize known projects
+      - name: Synchronize one catalog shard
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PS2SP_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          SYNC_SHARDS: "24"
+          MAX_SYNC_API_REQUESTS: "800"
+          GITHUB_CORE_RATE_LIMIT_RESERVE: "120"
         run: npm run catalog:sync
-
-      - name: Discover PS2 projects
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MAX_DISCOVERY_API_REQUESTS: "450"
-          GITHUB_CORE_RATE_LIMIT_RESERVE: "250"
-          GITHUB_SEARCH_RATE_LIMIT_RESERVE: "2"
-        run: npm run catalog:discover
 
       - name: Validate site
         run: npm run build
 
       - name: Commit catalog changes
         run: |
-          if [ -z "$(git status --porcelain -- content/projects discovery/pending)" ]; then
+          if [ -z "$(git status --porcelain -- content/projects)" ]; then
             echo "Catalog already current."
             exit 0
           fi
           git config user.name "ps2sp-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add content/projects discovery/pending
-          git commit -m "chore(catalog): automated sync"
+          git add content/projects
+          git commit -m "chore(catalog): synchronize project metadata"
+          git pull --rebase origin main
           git push
