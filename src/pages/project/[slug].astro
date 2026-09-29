@@ -49,7 +49,7 @@ const updatedAt = projectUpdatedAt(project);
   </header>
 
   <div class="project-body">
-    <main class="project-content">
+    <div class="project-content">
       <section class="project-facts-strip" aria-label="Project facts">
         <div><span>Latest release</span><strong>{project.data.latestRelease.tag ?? "None tracked"}</strong></div>
         <div><span>Release date</span><strong>{formatDate(project.data.latestRelease.publishedAt)}</strong></div>
@@ -67,7 +67,7 @@ const updatedAt = projectUpdatedAt(project);
           <div class="feature-list">{project.data.features.map((feature) => <span>{feature}</span>)}</div>
         </section>
       )}
-    </main>
+    </div>
 
     <aside class="project-sidebar">
       <div class="sidebar-block">
