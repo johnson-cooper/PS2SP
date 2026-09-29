@@ -34,6 +34,7 @@ const pageTitle = title ? `${title} — ${site.title}` : `${site.title} — ${si
       </a>
       <nav aria-label="Primary">
         <a href="/projects">Software</a>
+        <a href="/resources">PS2 Directory</a>
         <a href="/updates">Updates</a>
         <a href="/about">About</a>
         <a href={site.repository}>GitHub</a>
@@ -43,7 +44,7 @@ const pageTitle = title ? `${title} — ${site.title}` : `${site.title} — ${si
       <slot />
     </main>
     <footer>
-      <p>{site.longTitle}. Catalog data is stored in Markdown and linked to upstream sources.</p>
+      <p>{site.longTitle}. Software metadata is tracked alongside a broader directory of PlayStation 2 resources and upstream sources.</p>
     </footer>
   </body>
 </html>

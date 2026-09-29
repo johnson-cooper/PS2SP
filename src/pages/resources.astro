@@ -1,0 +1,113 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getResourceGroups, getResources, resourceHost } from "../lib/resources";
+
+const groups = getResourceGroups();
+const resources = getResources();
+---
+
+<BaseLayout title="PS2 Directory">
+  <section>
+    <p class="eyebrow">The wider ecosystem</p>
+    <h1>PS2 Directory</h1>
+    <p class="lead">
+      PS2SP is not limited to GitHub repositories. This directory indexes software,
+      communities, documentation, game-specific resources, hardware projects,
+      online-play services, preservation material, PSBBN/Linux resources, media,
+      and other useful parts of the PlayStation 2 ecosystem.
+    </p>
+    <p class="resource-source">
+      Seeded from <a href="https://nathanneurotic.github.io/PS2Links/" target="_blank" rel="noopener noreferrer">PS2Links</a>
+      and synchronized from its public registry.
+    </p>
+  </section>
+
+  <section class="stats directory-stats" aria-label="Directory statistics">
+    <div class="stat"><strong>{resources.length}</strong><span>directory links</span></div>
+    <div class="stat"><strong>{groups.length}</strong><span>resource categories</span></div>
+    <div class="stat"><strong>{new Set(resources.map((resource) => resourceHost(resource.url))).size}</strong><span>linked hosts</span></div>
+    <div class="stat"><strong>PS2</strong><span>one ecosystem</span></div>
+  </section>
+
+  <div class="toolbar">
+    <input id="resource-search" type="search" placeholder="Search the PS2 ecosystem…" autocomplete="off" />
+    <select id="resource-category">
+      <option value="">All resource categories</option>
+      {groups.map((group) => <option value={group.category}>{group.category}</option>)}
+    </select>
+  </div>
+
+  <div class="category-list resource-category-list">
+    {groups.map((group) => (
+      <button class="category-link resource-category-button" type="button" data-category-jump={group.category}>
+        {group.category} · {group.links.length}
+      </button>
+    ))}
+  </div>
+
+  <div class="resource-grid" id="resource-grid">
+    {resources.map((resource) => (
+      <a
+        class="card resource-card"
+        href={resource.url}
+        target="_blank"
+        rel="noopener noreferrer"
+        data-search={[resource.name, resource.category, resourceHost(resource.url)].join(" ").toLowerCase()}
+        data-category={resource.category}
+      >
+        <div class="resource-card-head">
+          <h3>{resource.name}</h3>
+          <span aria-hidden="true">↗</span>
+        </div>
+        <p>{resource.categoryDescription}</p>
+        <div class="meta">
+          <span class="pill">{resource.category}</span>
+          <span class="pill">{resourceHost(resource.url)}</span>
+        </div>
+      </a>
+    ))}
+  </div>
+  <p class="empty" id="resource-no-results" hidden>No resources match those filters.</p>
+
+  <script>
+    const search = document.querySelector<HTMLInputElement>("#resource-search");
+    const category = document.querySelector<HTMLSelectElement>("#resource-category");
+    const cards = [...document.querySelectorAll<HTMLElement>(".resource-card")];
+    const empty = document.querySelector<HTMLElement>("#resource-no-results");
+    const jumps = [...document.querySelectorAll<HTMLButtonElement>("[data-category-jump]")];
+
+    function filterResources() {
+      if (!search || !category || !empty) return;
+      const query = search.value.trim().toLowerCase();
+      const selected = category.value;
+      let visible = 0;
+
+      for (const card of cards) {
+        const matchesText = !query || (card.dataset.search ?? "").includes(query);
+        const matchesCategory = !selected || card.dataset.category === selected;
+        const show = matchesText && matchesCategory;
+        card.hidden = !show;
+        if (show) visible++;
+      }
+
+      empty.hidden = visible !== 0;
+    }
+
+    const requestedCategory = new URLSearchParams(window.location.search).get("category");
+    if (requestedCategory && category && [...category.options].some((option) => option.value === requestedCategory)) {
+      category.value = requestedCategory;
+    }
+
+    search?.addEventListener("input", filterResources);
+    category?.addEventListener("change", filterResources);
+    for (const jump of jumps) {
+      jump.addEventListener("click", () => {
+        if (!category) return;
+        category.value = jump.dataset.categoryJump ?? "";
+        category.scrollIntoView({ behavior: "smooth", block: "center" });
+        filterResources();
+      });
+    }
+    filterResources();
+  </script>
+</BaseLayout>

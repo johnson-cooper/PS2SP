@@ -6,7 +6,7 @@ The goals are simple:
 
 - keep project pages in plain Markdown;
 - keep repository/release metadata synchronized automatically;
-- discover both current and historical PS2 software without brute-force rescanning GitHub;
+- discover both current and historical PS2 software without brute-force rescanning GitHub;\n- index non-GitHub PS2 resources such as communities, documentation, archives, hardware, mods, online services, and media;
 - deploy as a static Astro site on Cloudflare Pages;
 - keep Git as the durable source of truth;
 - require no application database or always-on backend.
@@ -150,7 +150,7 @@ The build exposes:
 
 - `/api/projects.json`
 - `/api/categories.json`
-- `/api/releases.json`
+- `/api/releases.json`\n- `/api/resources.json`
 
 This makes PS2SP usable by other websites, launchers, dashboards, and future PS2-native clients without needing an API server.
 
