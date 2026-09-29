@@ -3,22 +3,14 @@
   "repositoryId": "1350291801",
   "url": "https://github.com/arbitrative-coffeecup9612/gta-sa-vr-quest",
   "description": "Build and install the GTA San Andreas VR mod for Meta Quest from your own game files and PS2 sound assets.",
-  "score": 80,
+  "score": 75,
   "evidence": [
     "repository description explicitly identifies PS2",
-    "README explicitly mentions PlayStation 2",
-    "repository pushed within the last 180 days"
+    "README explicitly mentions PlayStation 2"
   ],
-  "origin": "github-search",
-  "maturity": {
-    "state": "active-unreleased",
-    "publishEligible": false,
-    "queueEligible": true,
-    "reasons": [
-      "no stable release found",
-      "repository has recent activity"
-    ]
-  },
+  "origin": "pending-recheck",
+  "maturity": "active-unreleased",
   "fork": null,
-  "discoveredAt": "2026-09-29T00:28:23.696Z"
+  "discoveredAt": "2026-09-29T00:28:23.696Z",
+  "checkedAt": "2026-09-29T16:39:19.086Z"
 }

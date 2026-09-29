@@ -3,22 +3,14 @@
   "repositoryId": "1393922167",
   "url": "https://github.com/plmarcos/GaragemMC3",
   "description": "Garagem 3D de Midnight Club 3 (PS2): pede a ISO, extrai, edita a customização e grava de volta numa cópia do disco. Nenhum conteúdo do jogo acompanha o repositório.",
-  "score": 80,
+  "score": 75,
   "evidence": [
     "repository description explicitly identifies PS2",
-    "README explicitly mentions PlayStation 2",
-    "repository pushed within the last 180 days"
+    "README explicitly mentions PlayStation 2"
   ],
-  "origin": "github-search",
-  "maturity": {
-    "state": "active-unreleased",
-    "publishEligible": false,
-    "queueEligible": true,
-    "reasons": [
-      "no stable release found",
-      "repository has recent activity"
-    ]
-  },
+  "origin": "pending-recheck",
+  "maturity": "active-unreleased",
   "fork": null,
-  "discoveredAt": "2026-09-29T00:28:27.191Z"
+  "discoveredAt": "2026-09-29T00:28:27.191Z",
+  "checkedAt": "2026-09-29T16:39:19.086Z"
 }

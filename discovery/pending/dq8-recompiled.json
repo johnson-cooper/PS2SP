@@ -3,23 +3,14 @@
   "repositoryId": "1383035759",
   "url": "https://github.com/Sinan-Karakaya/DQ8-Recompiled",
   "description": "Recompilation of Dragon Quest VIII (PS2) to run natively on PC and Mac.",
-  "score": 85,
+  "score": 75,
   "evidence": [
     "repository description explicitly identifies PS2",
-    "README explicitly mentions PlayStation 2",
-    "native build files present",
-    "repository pushed within the last 180 days"
+    "README explicitly mentions PlayStation 2"
   ],
-  "origin": "github-search",
-  "maturity": {
-    "state": "active-wip",
-    "publishEligible": false,
-    "queueEligible": true,
-    "reasons": [
-      "repository identifies itself as unfinished or experimental",
-      "repository has recent activity"
-    ]
-  },
+  "origin": "pending-recheck",
+  "maturity": "active-wip",
   "fork": null,
-  "discoveredAt": "2026-09-29T00:28:34.235Z"
+  "discoveredAt": "2026-09-29T00:28:34.235Z",
+  "checkedAt": "2026-09-29T16:39:19.086Z"
 }

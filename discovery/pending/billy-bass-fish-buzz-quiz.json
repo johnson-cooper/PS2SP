@@ -3,22 +3,14 @@
   "repositoryId": "1390792494",
   "url": "https://github.com/johanneswega/Billy-Bass-Fish-Buzz-Quiz",
   "description": "Four-player quiz game hosted by a Billy Bass fish. Arduino controls the fish, while Python handles the PlayStation 2 Buzz controllers, game logic and PyQt GUI.",
-  "score": 80,
+  "score": 75,
   "evidence": [
     "repository description explicitly identifies PS2",
-    "README explicitly mentions PlayStation 2",
-    "repository pushed within the last 180 days"
+    "README explicitly mentions PlayStation 2"
   ],
-  "origin": "github-search",
-  "maturity": {
-    "state": "active-unreleased",
-    "publishEligible": false,
-    "queueEligible": true,
-    "reasons": [
-      "no stable release found",
-      "repository has recent activity"
-    ]
-  },
+  "origin": "pending-recheck",
+  "maturity": "active-unreleased",
   "fork": null,
-  "discoveredAt": "2026-09-29T00:28:47.141Z"
+  "discoveredAt": "2026-09-29T00:28:47.141Z",
+  "checkedAt": "2026-09-29T16:39:19.086Z"
 }

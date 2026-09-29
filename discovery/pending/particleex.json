@@ -3,22 +3,14 @@
   "repositoryId": "1355966196",
   "url": "https://github.com/enborballer/ParticleEx",
   "description": "Restore and enhance PlayStation 2-style particle effects in GTA 3 for modern systems, achieving authentic retro visuals with improved performance.",
-  "score": 80,
+  "score": 75,
   "evidence": [
     "repository description explicitly identifies PS2",
-    "README explicitly mentions PlayStation 2",
-    "repository pushed within the last 180 days"
+    "README explicitly mentions PlayStation 2"
   ],
-  "origin": "github-search",
-  "maturity": {
-    "state": "active-unreleased",
-    "publishEligible": false,
-    "queueEligible": true,
-    "reasons": [
-      "no stable release found",
-      "repository has recent activity"
-    ]
-  },
+  "origin": "pending-recheck",
+  "maturity": "active-unreleased",
   "fork": null,
-  "discoveredAt": "2026-09-29T00:28:48.769Z"
+  "discoveredAt": "2026-09-29T00:28:48.769Z",
+  "checkedAt": "2026-09-29T16:39:19.086Z"
 }
