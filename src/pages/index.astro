@@ -20,6 +20,7 @@ for (const project of projects) {
 }
 
 const released = projects.filter((project) => project.data.latestRelease.tag).length;
+const ps2Symbols = ["△", "○", "×", "□"];
 ---
 
 <BaseLayout>
@@ -145,9 +146,9 @@ const released = projects.filter((project) => project.data.latestRelease.tag).le
       <div><p class="eyebrow">Software map</p><h2>Browse by function</h2></div>
     </div>
     <div class="category-strip">
-      {[...categories.entries()].sort((a, b) => b[1] - a[1]).slice(0, 12).map(([id, count]) => (
+      {[...categories.entries()].sort((a, b) => b[1] - a[1]).slice(0, 12).map(([id, count], index) => (
         <a href={`/category/${id}`}>
-          <strong>{categoryLabel(id)}</strong>
+          <strong><span class="ps2-symbol" aria-hidden="true">{ps2Symbols[index % ps2Symbols.length]}</span>{categoryLabel(id)}</strong>
           <span>{count}</span>
         </a>
       ))}

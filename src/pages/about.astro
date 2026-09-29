@@ -20,7 +20,25 @@ const { Content } = await render(entry);
   </header>
 
   <div class="about-layout">
-    <article class="prose project-prose"><Content /></article>
+    <article class="prose project-prose">
+      <Content />
+      <section class="credits-panel" aria-labelledby="credits-heading">
+        <p class="eyebrow">Project credits</p>
+        <h2 id="credits-heading">People behind PS2SP</h2>
+        <div class="credits-grid">
+          <a class="credit-card" href="https://github.com/johnson-cooper" target="_blank" rel="noopener noreferrer">
+            <span class="ps2-symbol credit-symbol" aria-hidden="true">△</span>
+            <span><strong>johnson-cooper</strong><small>Repository owner</small></span>
+            <span class="row-arrow" aria-hidden="true">↗</span>
+          </a>
+          <a class="credit-card" href="https://github.com/NathanNeurotic" target="_blank" rel="noopener noreferrer">
+            <span class="ps2-symbol credit-symbol" aria-hidden="true">□</span>
+            <span><strong>NathanNeurotic</strong><small>Direction &amp; curation</small></span>
+            <span class="row-arrow" aria-hidden="true">↗</span>
+          </a>
+        </div>
+      </section>
+    </article>
     <aside class="about-aside">
       <div><strong>{projects.length}</strong><span>software projects</span></div>
       <div><strong>{resources.length}</strong><span>ecosystem resources</span></div>
