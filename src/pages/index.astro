@@ -42,29 +42,29 @@ const released = projects.filter((project) => project.data.latestRelease.tag).le
       </div>
     </div>
 
-    <div class="hero-side">
-      <img
-        class="hero-emblem"
-        src="/brand/ps2sp-mark-glow.webp"
-        width="700"
-        height="659"
-        alt=""
-        aria-hidden="true"
-      />
-      <aside class="hero-console" aria-label="PS2SP catalog status">
-        <div class="console-head">
-          <span>INDEX STATUS</span>
+    <aside class="hero-console" aria-label="PS2SP catalog status">
+      <div class="console-brand">
+        <img
+          class="hero-emblem"
+          src="/brand/ps2sp-mark-glow.webp"
+          width="700"
+          height="659"
+          alt=""
+          aria-hidden="true"
+        />
+        <div class="console-brand-copy">
+          <span class="console-label">PS2SP INDEX</span>
           <span class="live-indicator"><i></i> ONLINE</span>
         </div>
-        <dl class="console-stats">
-          <div><dt>Software</dt><dd>{projects.length}</dd></div>
-          <div><dt>Resources</dt><dd>{resources.length}</dd></div>
-          <div><dt>Categories</dt><dd>{categories.size}</dd></div>
-          <div><dt>Tracked releases</dt><dd>{released}</dd></div>
-        </dl>
-        <p>Repository activity and releases are synchronized upstream. The wider directory includes websites, archives, docs, communities, hardware resources and more.</p>
-      </aside>
-    </div>
+      </div>
+      <dl class="console-stats">
+        <div><dt>Software</dt><dd>{projects.length}</dd></div>
+        <div><dt>Resources</dt><dd>{resources.length}</dd></div>
+        <div><dt>Categories</dt><dd>{categories.size}</dd></div>
+        <div><dt>Tracked releases</dt><dd>{released}</dd></div>
+      </dl>
+      <p>Repository activity and releases are synchronized upstream. The wider directory includes websites, archives, docs, communities, hardware resources and more.</p>
+    </aside>
   </section>
 
   <section class="home-split section">
