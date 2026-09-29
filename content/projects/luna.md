@@ -27,12 +27,12 @@ latestRelease:
   url: 'https://github.com/dnunezx/LUNA/releases/tag/v1.2.7-beta'
 activity:
   lastChecked: '2026-09-29T00:27:04.940Z'
-  lastSynchronized: '2026-09-29T02:36:37.617Z'
+  lastSynchronized: '2026-09-29T15:52:28.115Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3cc3468e2ce13cb6ed05767fbccc0e4a6b7e919b515a9255f4c467d55dac1f28"
-    releasesEtag: W/"742618fa390b8a570d16c8489da19663d966a4ec0aa3e02bcd07eb279f80f07b"
+    repoEtag: W/"a40ec3a1c1a94c807154d38b2aa3a31d47ff54b1a3a36ad292ad08c32a7e0b3b"
+    releasesEtag: W/"7fcd5232ec0d4fba3661ca71e08e6c1f422d50e27dff982aae69992d65efc153"
 discovery:
   method: github-search
   confidence: 100

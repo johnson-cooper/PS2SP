@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-03-10T19:27:00Z'
   url: 'https://github.com/ps2-mmce/mmceman/releases/tag/v2.1.1'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-09-29T15:52:28.764Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0114c13e780a1f1b509ed3ea02e3973d589ce6fdfa194f7e6435dde9551bbce2"
+    releasesEtag: W/"134424b6ca2095541faf148061e8895a01396aec85a8ba1c9ee24e5ed9feee40"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -41,5 +44,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

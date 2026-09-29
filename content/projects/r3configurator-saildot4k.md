@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-08-18T18:37:19Z'
   url: 'https://github.com/saildot4k/R3CONFIGURATOR/releases/tag/v1.3.2'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-09-29T15:52:35.031Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8d2d1ea4a4383a2d802685da3ba5e8ec38150eb76272cf2e0e55369766b6fd29"
+    releasesEtag: W/"6adc7143f8987156283166211e4d277310b1bc8d0589a4b53abc0cf36c3ee73a"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -42,5 +45,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

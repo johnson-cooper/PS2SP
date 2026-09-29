@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2024-09-09T08:21:33Z'
   url: 'https://github.com/grimdoomer/TonyHawksProStrcpy/releases/tag/v1.1'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-09-29T15:52:36.679Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"066a5517a47355643ea7268447eb0cc8463b7eeade50f37aef5350768a1546dd"
+    releasesEtag: W/"b84ad9f158a898c45c31e45ecda1b472db70ffa9c417a120a3be70cea332ad4f"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -40,5 +43,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

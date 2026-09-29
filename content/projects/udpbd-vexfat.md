@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2023-05-03T09:32:10Z'
   url: 'https://github.com/awaken1ng/udpbd-vexfat/releases/tag/v0.2.0'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-09-29T15:52:37.223Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ac706547b2bdc26bc4a63a791550c821846d4168f7959803ae58b8d4f4178cf6"
+    releasesEtag: W/"b82ed881fa22cf84588b32e02e83b1315368bd3af481de8c6a0ff22168b1c2d7"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -39,5 +42,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

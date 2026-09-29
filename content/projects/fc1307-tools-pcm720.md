@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-07-29T00:51:12Z'
   url: 'https://github.com/pcm720/fc1307-tools/releases/tag/V3.72A'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-09-29T15:52:26.161Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8bdcbca4f74721ac2134fb2e0b6783efff890af97d5becf8c57483538ebdb1bf"
+    releasesEtag: W/"63eca33411a953c4da7df66222ecb85d05aab7008fae026f82af8a65c3f7f166"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -42,5 +45,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
