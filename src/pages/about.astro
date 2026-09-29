@@ -1,17 +1,30 @@
 ---
 import { render } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { getSite } from "../lib/catalog";
+import { getProjects, getSite } from "../lib/catalog";
+import { getResources } from "../lib/resources";
 
 const entry = await getSite();
+const projects = await getProjects();
+const resources = getResources();
 const { Content } = await render(entry);
 ---
 
 <BaseLayout title="About">
-  <section>
-    <p class="eyebrow">About</p>
-    <h1>{entry.data.longTitle}</h1>
-    <p class="lead">{entry.data.description}</p>
-  </section>
-  <article class="prose section"><Content /></article>
+  <header class="page-hero compact">
+    <div>
+      <p class="eyebrow">About the plaza</p>
+      <h1>{entry.data.longTitle}</h1>
+      <p class="lead">{entry.data.description}</p>
+    </div>
+  </header>
+
+  <div class="about-layout">
+    <article class="prose project-prose"><Content /></article>
+    <aside class="about-aside">
+      <div><strong>{projects.length}</strong><span>software projects</span></div>
+      <div><strong>{resources.length}</strong><span>ecosystem resources</span></div>
+      <p>PS2SP separates structured software records from wider ecosystem links so a source repository, archive, forum, hardware guide and Discord community can all be indexed without pretending they are the same kind of thing.</p>
+    </aside>
+  </div>
 </BaseLayout>

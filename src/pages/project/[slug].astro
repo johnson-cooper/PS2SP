@@ -1,7 +1,7 @@
 ---
 import { render } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { categoryLabel, formatDate, getProjects } from "../../lib/catalog";
+import { categoryLabel, formatDate, getProjects, projectUpdatedAt } from "../../lib/catalog";
 
 export async function getStaticPaths() {
   const projects = await getProjects();
@@ -16,37 +16,79 @@ const { Content } = await render(project);
 const sourceUrl = project.data.source.provider === "github" && project.data.source.repository
   ? `https://github.com/${project.data.source.repository}`
   : project.data.source.url;
+const updatedAt = projectUpdatedAt(project);
 ---
 
 <BaseLayout title={project.data.name} description={project.data.summary}>
-  <header class="project-header">
-    <div>
-      <p class="eyebrow">{project.data.categories.map(categoryLabel).join(" · ")}</p>
+  <div class="breadcrumbs">
+    <a href="/projects">Software</a>
+    <span>/</span>
+    <span>{project.data.name}</span>
+  </div>
+
+  <header class="project-hero">
+    <div class="project-hero-copy">
+      <div class="project-kicker">
+        <span class="status-chip" data-state={project.data.repository.archived ? "archived" : "tracked"}>
+          <i></i>{project.data.repository.archived ? "Archived upstream" : "Tracked upstream"}
+        </span>
+        <span>{project.data.source.provider}</span>
+      </div>
       <h1>{project.data.name}</h1>
       <p class="lead">{project.data.summary}</p>
+      <div class="project-category-line">
+        {project.data.categories.map((category) => <a href={`/category/${category}`}>{categoryLabel(category)}</a>)}
+      </div>
     </div>
-    <div class="actions">
-      {project.data.latestRelease.url && <a class="button primary" href={project.data.latestRelease.url}>Latest release</a>}
-      {sourceUrl && <a class="button" href={sourceUrl}>Source</a>}
-      {project.data.homepage && <a class="button" href={project.data.homepage}>Website</a>}
+
+    <div class="project-actions">
+      {project.data.latestRelease.url && <a class="button primary" href={project.data.latestRelease.url} target="_blank" rel="noopener noreferrer">Latest release ↗</a>}
+      {sourceUrl && <a class="button" href={sourceUrl} target="_blank" rel="noopener noreferrer">Source ↗</a>}
+      {project.data.homepage && <a class="button" href={project.data.homepage} target="_blank" rel="noopener noreferrer">Website ↗</a>}
     </div>
   </header>
 
-  <section class="detail-grid">
-    <div class="detail"><span>Latest release</span><strong>{project.data.latestRelease.tag ?? "No tracked release"}</strong></div>
-    <div class="detail"><span>Release date</span><strong>{formatDate(project.data.latestRelease.publishedAt)}</strong></div>
-    <div class="detail"><span>Last commit</span><strong>{formatDate(project.data.repository.lastCommit)}</strong></div>
-    <div class="detail"><span>Repository</span><strong>{project.data.source.provider}</strong></div>
-    <div class="detail"><span>Stars</span><strong>{project.data.repository.stars.toLocaleString()}</strong></div>
-    <div class="detail"><span>Upstream status</span><strong>{project.data.repository.archived ? "Archived" : "Not archived"}</strong></div>
-  </section>
+  <div class="project-body">
+    <main class="project-content">
+      <section class="project-facts-strip" aria-label="Project facts">
+        <div><span>Latest release</span><strong>{project.data.latestRelease.tag ?? "None tracked"}</strong></div>
+        <div><span>Release date</span><strong>{formatDate(project.data.latestRelease.publishedAt)}</strong></div>
+        <div><span>Source activity</span><strong>{formatDate(project.data.repository.lastCommit)}</strong></div>
+        <div><span>PS2SP update</span><strong>{formatDate(updatedAt)}</strong></div>
+      </section>
 
-  <article class="prose"><Content /></article>
+      <article class="prose project-prose">
+        <Content />
+      </article>
 
-  {project.data.features.length > 0 && (
-    <section class="section">
-      <p class="eyebrow">Capabilities</p>
-      <div class="meta">{project.data.features.map((feature) => <span class="pill">{feature}</span>)}</div>
-    </section>
-  )}
+      {project.data.features.length > 0 && (
+        <section class="feature-section">
+          <p class="eyebrow">Capabilities</p>
+          <div class="feature-list">{project.data.features.map((feature) => <span>{feature}</span>)}</div>
+        </section>
+      )}
+    </main>
+
+    <aside class="project-sidebar">
+      <div class="sidebar-block">
+        <span class="sidebar-label">Repository</span>
+        <dl>
+          <div><dt>Provider</dt><dd>{project.data.source.provider}</dd></div>
+          <div><dt>Stars</dt><dd>{project.data.repository.stars.toLocaleString()}</dd></div>
+          <div><dt>Forks</dt><dd>{project.data.repository.forks.toLocaleString()}</dd></div>
+          <div><dt>Branch</dt><dd>{project.data.repository.defaultBranch ?? "Unknown"}</dd></div>
+          <div><dt>License</dt><dd>{project.data.license ?? "Unknown"}</dd></div>
+        </dl>
+      </div>
+
+      <div class="sidebar-block">
+        <span class="sidebar-label">Index record</span>
+        <dl>
+          <div><dt>Confidence</dt><dd>{project.data.discovery.confidence}%</dd></div>
+          <div><dt>Discovery</dt><dd>{project.data.discovery.method}</dd></div>
+          <div><dt>Verified</dt><dd>{project.data.verified ? "Yes" : "No"}</dd></div>
+        </dl>
+      </div>
+    </aside>
+  </div>
 </BaseLayout>

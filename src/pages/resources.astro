@@ -4,110 +4,124 @@ import { getResourceGroups, getResources, resourceHost } from "../lib/resources"
 
 const groups = getResourceGroups();
 const resources = getResources();
+const hosts = new Set(resources.map((resource) => resourceHost(resource.url))).size;
 ---
 
 <BaseLayout title="PS2 Directory">
-  <section>
-    <p class="eyebrow">The wider ecosystem</p>
-    <h1>PS2 Directory</h1>
-    <p class="lead">
-      PS2SP is not limited to GitHub repositories. This directory indexes software,
-      communities, documentation, game-specific resources, hardware projects,
-      online-play services, preservation material, PSBBN/Linux resources, media,
-      and other useful parts of the PlayStation 2 ecosystem.
-    </p>
-    <p class="resource-source">
-      Seeded from <a href="https://nathanneurotic.github.io/PS2Links/" target="_blank" rel="noopener noreferrer">PS2Links</a>
-      and synchronized from its public registry.
-    </p>
-  </section>
+  <header class="page-hero compact">
+    <div>
+      <p class="eyebrow">The wider ecosystem</p>
+      <h1>PS2 directory</h1>
+      <p class="lead">Not everything important lives in a Git repository. Browse community hubs, documentation, archives, game-specific resources, hardware projects, online services, preservation material, PSBBN/Linux resources, media and more.</p>
+    </div>
+    <div class="page-count"><strong>{resources.length}</strong><span>resources</span></div>
+  </header>
 
-  <section class="stats directory-stats" aria-label="Directory statistics">
-    <div class="stat"><strong>{resources.length}</strong><span>directory links</span></div>
-    <div class="stat"><strong>{groups.length}</strong><span>resource categories</span></div>
-    <div class="stat"><strong>{new Set(resources.map((resource) => resourceHost(resource.url))).size}</strong><span>linked hosts</span></div>
-    <div class="stat"><strong>PS2</strong><span>one ecosystem</span></div>
-  </section>
-
-  <div class="toolbar">
-    <input id="resource-search" type="search" placeholder="Search the PS2 ecosystem…" autocomplete="off" />
-    <select id="resource-category">
-      <option value="">All resource categories</option>
-      {groups.map((group) => <option value={group.category}>{group.category}</option>)}
-    </select>
-  </div>
-
-  <div class="category-list resource-category-list">
-    {groups.map((group) => (
-      <button class="category-link resource-category-button" type="button" data-category-jump={group.category}>
-        {group.category} · {group.links.length}
-      </button>
-    ))}
-  </div>
-
-  <div class="resource-grid" id="resource-grid">
-    {resources.map((resource) => (
-      <a
-        class="card resource-card"
-        href={resource.url}
-        target="_blank"
-        rel="noopener noreferrer"
-        data-search={[resource.name, resource.category, resourceHost(resource.url)].join(" ").toLowerCase()}
-        data-category={resource.category}
-      >
-        <div class="resource-card-head">
-          <h3>{resource.name}</h3>
-          <span aria-hidden="true">↗</span>
-        </div>
-        <p>{resource.categoryDescription}</p>
-        <div class="meta">
-          <span class="pill">{resource.category}</span>
-          <span class="pill">{resourceHost(resource.url)}</span>
-        </div>
+  <section class="resource-browser" data-resource-browser>
+    <aside class="resource-sidebar">
+      <div class="resource-sidebar-head">
+        <span>Directory sections</span>
+        <small>{groups.length} groups · {hosts} hosts</small>
+      </div>
+      <button class="resource-nav active" type="button" data-resource-nav="">All resources <span>{resources.length}</span></button>
+      {groups.map((group) => (
+        <button class="resource-nav" type="button" data-resource-nav={group.category}>
+          <span>{group.category}</span>
+          <strong>{group.links.length}</strong>
+        </button>
+      ))}
+      <a class="resource-origin" href="https://nathanneurotic.github.io/PS2Links/" target="_blank" rel="noopener noreferrer">
+        Seeded from PS2Links ↗
       </a>
-    ))}
-  </div>
-  <p class="empty" id="resource-no-results" hidden>No resources match those filters.</p>
+    </aside>
 
-  <script>
-    const search = document.querySelector<HTMLInputElement>("#resource-search");
-    const category = document.querySelector<HTMLSelectElement>("#resource-category");
-    const cards = [...document.querySelectorAll<HTMLElement>(".resource-card")];
-    const empty = document.querySelector<HTMLElement>("#resource-no-results");
-    const jumps = [...document.querySelectorAll<HTMLButtonElement>("[data-category-jump]")];
+    <div class="resource-main">
+      <label class="search-field resource-search">
+        <span class="search-glyph" aria-hidden="true">⌕</span>
+        <input data-resource-search type="search" placeholder="Search resources, categories, hosts…" autocomplete="off" />
+        <kbd>/</kbd>
+      </label>
 
-    function filterResources() {
-      if (!search || !category || !empty) return;
-      const query = search.value.trim().toLowerCase();
-      const selected = category.value;
-      let visible = 0;
+      <div class="directory-summary">
+        <strong data-resource-count>{resources.length}</strong>
+        <span>resources shown</span>
+      </div>
 
-      for (const card of cards) {
-        const matchesText = !query || (card.dataset.search ?? "").includes(query);
-        const matchesCategory = !selected || card.dataset.category === selected;
-        const show = matchesText && matchesCategory;
-        card.hidden = !show;
-        if (show) visible++;
+      <div class="resource-index">
+        <div class="resource-index-head" aria-hidden="true">
+          <span>Resource</span>
+          <span>Section</span>
+          <span>Host</span>
+        </div>
+        {resources.map((resource) => (
+          <a
+            class="resource-index-row"
+            href={resource.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            data-resource-row
+            data-category={resource.category}
+            data-search={[resource.name, resource.category, resourceHost(resource.url)].join(" ").toLowerCase()}
+          >
+            <span class="resource-index-main">
+              <strong>{resource.name}</strong>
+              <small>{resource.categoryDescription}</small>
+            </span>
+            <span class="resource-index-category">{resource.category}</span>
+            <span class="resource-index-host">{resourceHost(resource.url)} <span class="row-arrow">↗</span></span>
+          </a>
+        ))}
+      </div>
+
+      <p class="empty directory-empty" data-resource-empty hidden>No resources match those filters.</p>
+    </div>
+
+    <script>
+      const root = document.querySelector<HTMLElement>("[data-resource-browser]");
+      if (root) {
+        const search = root.querySelector<HTMLInputElement>("[data-resource-search]");
+        const rows = [...root.querySelectorAll<HTMLElement>("[data-resource-row]")];
+        const navs = [...root.querySelectorAll<HTMLButtonElement>("[data-resource-nav]")];
+        const count = root.querySelector<HTMLElement>("[data-resource-count]");
+        const empty = root.querySelector<HTMLElement>("[data-resource-empty]");
+        let selected = new URL(window.location.href).searchParams.get("category") ?? "";
+
+        function apply() {
+          const query = search?.value.trim().toLowerCase() ?? "";
+          let visible = 0;
+          for (const row of rows) {
+            const matchText = !query || (row.dataset.search ?? "").includes(query);
+            const matchCategory = !selected || row.dataset.category === selected;
+            row.hidden = !(matchText && matchCategory);
+            if (!row.hidden) visible++;
+          }
+          for (const nav of navs) nav.classList.toggle("active", (nav.dataset.resourceNav ?? "") === selected);
+          if (count) count.textContent = String(visible);
+          if (empty) empty.hidden = visible !== 0;
+        }
+
+        for (const nav of navs) {
+          nav.addEventListener("click", () => {
+            selected = nav.dataset.resourceNav ?? "";
+            const url = new URL(window.location.href);
+            if (selected) url.searchParams.set("category", selected);
+            else url.searchParams.delete("category");
+            history.replaceState({}, "", url);
+            apply();
+            root.querySelector(".resource-main")?.scrollIntoView({ behavior: "smooth", block: "start" });
+          });
+        }
+
+        search?.addEventListener("input", apply);
+        document.addEventListener("keydown", (event) => {
+          if (event.key !== "/" || event.metaKey || event.ctrlKey || event.altKey) return;
+          const target = event.target as HTMLElement | null;
+          if (target?.matches("input, textarea, select, [contenteditable='true']")) return;
+          event.preventDefault();
+          search?.focus();
+        });
+        apply();
       }
-
-      empty.hidden = visible !== 0;
-    }
-
-    const requestedCategory = new URLSearchParams(window.location.search).get("category");
-    if (requestedCategory && category && [...category.options].some((option) => option.value === requestedCategory)) {
-      category.value = requestedCategory;
-    }
-
-    search?.addEventListener("input", filterResources);
-    category?.addEventListener("change", filterResources);
-    for (const jump of jumps) {
-      jump.addEventListener("click", () => {
-        if (!category) return;
-        category.value = jump.dataset.categoryJump ?? "";
-        category.scrollIntoView({ behavior: "smooth", block: "center" });
-        filterResources();
-      });
-    }
-    filterResources();
-  </script>
+    </script>
+  </section>
 </BaseLayout>

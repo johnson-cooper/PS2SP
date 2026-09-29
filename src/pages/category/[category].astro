@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import ProjectDirectory from "../../components/ProjectDirectory.astro";
 import { categoryLabel, getProjects } from "../../lib/catalog";
 
 export async function getStaticPaths() {
@@ -15,17 +16,14 @@ const { category, projects } = Astro.props;
 ---
 
 <BaseLayout title={categoryLabel(category)}>
-  <section>
-    <p class="eyebrow">Category</p>
-    <h1>{categoryLabel(category)}</h1>
-    <p class="lead">{projects.length} indexed {projects.length === 1 ? "project" : "projects"}.</p>
-  </section>
-  <div class="grid section">
-    {projects.map((project) => (
-      <a class="card" href={`/project/${project.data.slug}`}>
-        <h3>{project.data.name}</h3>
-        <p>{project.data.summary}</p>
-      </a>
-    ))}
-  </div>
+  <header class="page-hero compact">
+    <div>
+      <p class="eyebrow">Software category</p>
+      <h1>{categoryLabel(category)}</h1>
+      <p class="lead">Browse every indexed PS2SP software entry tagged in this category.</p>
+    </div>
+    <div class="page-count"><strong>{projects.length}</strong><span>{projects.length === 1 ? "project" : "projects"}</span></div>
+  </header>
+
+  <ProjectDirectory projects={projects} showCategoryFilter={false} />
 </BaseLayout>

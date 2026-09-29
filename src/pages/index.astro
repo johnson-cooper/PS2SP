@@ -7,10 +7,10 @@ const site = (await getSite()).data;
 const projects = await getProjects();
 const resourceGroups = getResourceGroups();
 const resources = getResources();
-const featured = projects.filter((project) => project.data.featured).slice(0, 6);
+const featured = projects.filter((project) => project.data.featured).slice(0, 7);
 const recent = [...projects].sort((a, b) =>
   new Date(projectUpdatedAt(b)).getTime() - new Date(projectUpdatedAt(a)).getTime()
-).slice(0, 6);
+).slice(0, 8);
 
 const categories = new Map<string, number>();
 for (const project of projects) {
@@ -23,79 +23,123 @@ const released = projects.filter((project) => project.data.latestRelease.tag).le
 ---
 
 <BaseLayout>
-  <section class="hero">
-    <p class="eyebrow">PlayStation 2 ecosystem index</p>
-    <h1>Software Plaza.</h1>
-    <p class="lead">{site.tagline} PS2SP tracks software upstreams while also indexing the wider PS2 ecosystem: documentation, communities, hardware, mods, online services, preservation resources and more.</p>
-    <div class="actions">
-      <a class="button primary" href="/projects">Browse software</a>
-      <a class="button" href="/resources">Browse all PS2 resources</a>
-      <a class="button" href="/updates">Recent updates</a>
+  <section class="home-hero">
+    <div class="hero-copy">
+      <p class="eyebrow">PlayStation 2 ecosystem index</p>
+      <h1><span>Software</span><br />Plaza.</h1>
+      <p class="lead">{site.tagline}</p>
+
+      <form class="hero-search" action="/projects" method="get">
+        <span aria-hidden="true">⌕</span>
+        <input name="q" type="search" placeholder="Find OPL, Neutrino, SDKs, save tools, emulators…" aria-label="Search software" />
+        <button type="submit">Search</button>
+      </form>
+
+      <div class="hero-shortcuts">
+        <a href="/projects">Software index <span>→</span></a>
+        <a href="/resources">Full PS2 directory <span>→</span></a>
+        <a href="/updates">Recent activity <span>→</span></a>
+      </div>
+    </div>
+
+    <aside class="hero-console" aria-label="PS2SP catalog status">
+      <div class="console-head">
+        <span>INDEX STATUS</span>
+        <span class="live-indicator"><i></i> ONLINE</span>
+      </div>
+      <dl class="console-stats">
+        <div><dt>Software</dt><dd>{projects.length}</dd></div>
+        <div><dt>Resources</dt><dd>{resources.length}</dd></div>
+        <div><dt>Categories</dt><dd>{categories.size}</dd></div>
+        <div><dt>Tracked releases</dt><dd>{released}</dd></div>
+      </dl>
+      <p>Repository activity and releases are synchronized upstream. The wider directory includes websites, archives, docs, communities, hardware resources and more.</p>
+    </aside>
+  </section>
+
+  <section class="home-split section">
+    <div class="home-panel">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Curated entry points</p>
+          <h2>Featured software</h2>
+        </div>
+        <a href="/projects">All software →</a>
+      </div>
+
+      <div class="home-list">
+        {featured.map((project, index) => (
+          <a class="home-list-row" href={`/project/${project.data.slug}`}>
+            <span class="list-index">{String(index + 1).padStart(2, "0")}</span>
+            <span class="home-list-main">
+              <strong>{project.data.name}</strong>
+              <small>{project.data.summary}</small>
+            </span>
+            <span class="home-list-meta">{categoryLabel(project.data.categories[0] ?? "uncategorized")}</span>
+            <span class="row-arrow" aria-hidden="true">↗</span>
+          </a>
+        ))}
+      </div>
+    </div>
+
+    <div class="home-panel">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Upstream pulse</p>
+          <h2>Recent activity</h2>
+        </div>
+        <a href="/updates">All updates →</a>
+      </div>
+
+      <div class="activity-stream">
+        {recent.map((project) => (
+          <a class="activity-row" href={`/project/${project.data.slug}`}>
+            <span class="activity-date">{formatDate(projectUpdatedAt(project))}</span>
+            <span class="activity-main">
+              <strong>{project.data.name}</strong>
+              <small>{project.data.latestRelease.tag ? `Release ${project.data.latestRelease.tag}` : "Repository activity"}</small>
+            </span>
+            <span class="row-arrow" aria-hidden="true">↗</span>
+          </a>
+        ))}
+      </div>
     </div>
   </section>
 
-  <section class="stats" aria-label="Catalog statistics">
-    <div class="stat"><strong>{projects.length}</strong><span>indexed software projects</span></div>
-    <div class="stat"><strong>{resources.length}</strong><span>PS2 directory links</span></div>
-    <div class="stat"><strong>{resourceGroups.length}</strong><span>ecosystem resource groups</span></div>
-    <div class="stat"><strong>{released}</strong><span>projects with releases</span></div>
-  </section>
-
-  <section class="section">
+  <section class="section ecosystem-section">
     <div class="section-head">
-      <div><p class="eyebrow">Featured</p><h2>Core projects</h2></div>
-      <a href="/projects">View all →</a>
+      <div>
+        <p class="eyebrow">Beyond repositories</p>
+        <h2>Walk the wider plaza</h2>
+      </div>
+      <a href="/resources">451+ resources →</a>
     </div>
-    <div class="grid">
-      {featured.map((project) => (
-        <a class="card" href={`/project/${project.data.slug}`}>
-          <h3>{project.data.name}</h3>
-          <p>{project.data.summary}</p>
-          <div class="meta">
-            {project.data.categories.slice(0, 2).map((category) => <span class="pill">{categoryLabel(category)}</span>)}
-          </div>
+
+    <div class="ecosystem-directory">
+      {resourceGroups.map((group, index) => (
+        <a class="ecosystem-row" href={`/resources?category=${encodeURIComponent(group.category)}`}>
+          <span class="ecosystem-number">{String(index + 1).padStart(2, "0")}</span>
+          <span class="ecosystem-title">
+            <strong>{group.category}</strong>
+            <small>{group.description}</small>
+          </span>
+          <span class="ecosystem-count">{group.links.length}</span>
+          <span class="row-arrow" aria-hidden="true">→</span>
         </a>
       ))}
     </div>
   </section>
 
-  <section class="section">
+  <section class="section category-strip-section">
     <div class="section-head">
-      <div><p class="eyebrow">Beyond repositories</p><h2>The whole PS2 ecosystem</h2></div>
-      <a href="/resources">Open directory →</a>
+      <div><p class="eyebrow">Software map</p><h2>Browse by function</h2></div>
     </div>
-    <div class="resource-group-grid">
-      {resourceGroups.map((group) => (
-        <a class="resource-group" href={`/resources?category=${encodeURIComponent(group.category)}`}>
-          <strong>{group.category}</strong>
-          <span>{group.links.length} resources</span>
-          <p>{group.description}</p>
-        </a>
-      ))}
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="section-head">
-      <div><p class="eyebrow">Activity</p><h2>Recently updated software</h2></div>
-      <a href="/updates">All updates →</a>
-    </div>
-    <div class="grid">
-      {recent.map((project) => (
-        <a class="card" href={`/project/${project.data.slug}`}>
-          <h3>{project.data.name}</h3>
-          <p>{project.data.latestRelease.tag ? `Latest release: ${project.data.latestRelease.tag}` : "Tracking upstream development"}</p>
-          <div class="meta"><span class="pill">{formatDate(projectUpdatedAt(project))}</span></div>
-        </a>
-      ))}
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="section-head"><div><p class="eyebrow">Explore software</p><h2>Categories</h2></div></div>
-    <div class="category-list">
+    <div class="category-strip">
       {[...categories.entries()].sort((a, b) => b[1] - a[1]).map(([id, count]) => (
-        <a class="category-link" href={`/category/${id}`}>{categoryLabel(id)} · {count}</a>
+        <a href={`/category/${id}`}>
+          <strong>{categoryLabel(id)}</strong>
+          <span>{count}</span>
+        </a>
       ))}
     </div>
   </section>

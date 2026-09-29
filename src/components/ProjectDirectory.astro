@@ -1,0 +1,181 @@
+---
+import { categoryLabel, formatDate, projectUpdatedAt } from "../lib/catalog";
+
+interface Props {
+  projects: any[];
+  showCategoryFilter?: boolean;
+  heading?: string;
+  description?: string;
+}
+
+const {
+  projects,
+  showCategoryFilter = true,
+  heading,
+  description
+} = Astro.props;
+
+const categories = [...new Set(projects.flatMap((project) => project.data.categories))].sort((a, b) =>
+  categoryLabel(a).localeCompare(categoryLabel(b))
+);
+---
+
+<section class="directory-shell" data-project-directory>
+  {(heading || description) && (
+    <div class="directory-intro">
+      {heading && <h2>{heading}</h2>}
+      {description && <p>{description}</p>}
+    </div>
+  )}
+
+  <div class="directory-toolbar">
+    <label class="search-field">
+      <span class="search-glyph" aria-hidden="true">⌕</span>
+      <input
+        data-project-search
+        type="search"
+        placeholder="Search name, summary, tags, features…"
+        autocomplete="off"
+        aria-label="Search software projects"
+      />
+      <kbd>/</kbd>
+    </label>
+
+    {showCategoryFilter && (
+      <label class="select-field">
+        <span>Category</span>
+        <select data-project-category>
+          <option value="">All</option>
+          {categories.map((category) => <option value={category}>{categoryLabel(category)}</option>)}
+        </select>
+      </label>
+    )}
+
+    <label class="select-field">
+      <span>Sort</span>
+      <select data-project-sort>
+        <option value="name">A–Z</option>
+        <option value="updated">Recent activity</option>
+        <option value="release">Recent release</option>
+      </select>
+    </label>
+  </div>
+
+  <div class="directory-summary" aria-live="polite">
+    <strong data-project-count>{projects.length}</strong>
+    <span>projects shown</span>
+  </div>
+
+  <div class="project-index" data-project-list>
+    <div class="project-index-head" aria-hidden="true">
+      <span>#</span>
+      <span>Software</span>
+      <span>Type</span>
+      <span>Release</span>
+      <span>Activity</span>
+    </div>
+
+    {projects.map((project, index) => {
+      const updated = projectUpdatedAt(project);
+      const updatedMs = new Date(updated).getTime() || 0;
+      const releaseMs = new Date(project.data.latestRelease.publishedAt ?? 0).getTime() || 0;
+      const searchText = [
+        project.data.name,
+        project.data.summary,
+        ...project.data.tags,
+        ...project.data.features,
+        ...project.data.categories.map(categoryLabel)
+      ].join(" ").toLowerCase();
+
+      return (
+        <a
+          class="project-index-row"
+          href={`/project/${project.data.slug}`}
+          data-project-row
+          data-search={searchText}
+          data-categories={project.data.categories.join(" ")}
+          data-name={project.data.name.toLowerCase()}
+          data-updated={updatedMs}
+          data-release={releaseMs}
+        >
+          <span class="project-index-number">{String(index + 1).padStart(3, "0")}</span>
+          <span class="project-index-main">
+            <strong>{project.data.name}</strong>
+            <span>{project.data.summary}</span>
+          </span>
+          <span class="project-index-type">
+            <span class="status-dot" data-state={project.data.repository.archived ? "archived" : "tracked"}></span>
+            {categoryLabel(project.data.categories[0] ?? "uncategorized")}
+          </span>
+          <span class="project-index-release">
+            {project.data.latestRelease.tag ?? "—"}
+          </span>
+          <span class="project-index-activity">
+            <time datetime={updated}>{formatDate(updated)}</time>
+            <span class="row-arrow" aria-hidden="true">↗</span>
+          </span>
+        </a>
+      );
+    })}
+  </div>
+
+  <p class="empty directory-empty" data-project-empty hidden>No projects match those filters.</p>
+
+  <script>
+    const roots = document.querySelectorAll<HTMLElement>("[data-project-directory]");
+
+    for (const root of roots) {
+      const search = root.querySelector<HTMLInputElement>("[data-project-search]");
+      const category = root.querySelector<HTMLSelectElement>("[data-project-category]");
+      const sort = root.querySelector<HTMLSelectElement>("[data-project-sort]");
+      const list = root.querySelector<HTMLElement>("[data-project-list]");
+      const rows = [...root.querySelectorAll<HTMLElement>("[data-project-row]")];
+      const count = root.querySelector<HTMLElement>("[data-project-count]");
+      const empty = root.querySelector<HTMLElement>("[data-project-empty]");
+
+      const url = new URL(window.location.href);
+      const initialQuery = url.searchParams.get("q");
+      if (search && initialQuery) search.value = initialQuery;
+
+      function apply() {
+        if (!list) return;
+
+        const query = search?.value.trim().toLowerCase() ?? "";
+        const selected = category?.value ?? "";
+        let visible = 0;
+
+        for (const row of rows) {
+          const matchesText = !query || (row.dataset.search ?? "").includes(query);
+          const matchesCategory = !selected || (row.dataset.categories ?? "").split(" ").includes(selected);
+          row.hidden = !(matchesText && matchesCategory);
+          if (!row.hidden) visible++;
+        }
+
+        const mode = sort?.value ?? "name";
+        const sorted = [...rows].sort((a, b) => {
+          if (mode === "updated") return Number(b.dataset.updated ?? 0) - Number(a.dataset.updated ?? 0);
+          if (mode === "release") return Number(b.dataset.release ?? 0) - Number(a.dataset.release ?? 0);
+          return (a.dataset.name ?? "").localeCompare(b.dataset.name ?? "");
+        });
+        for (const row of sorted) list.appendChild(row);
+
+        if (count) count.textContent = String(visible);
+        if (empty) empty.hidden = visible !== 0;
+      }
+
+      search?.addEventListener("input", apply);
+      category?.addEventListener("change", apply);
+      sort?.addEventListener("change", apply);
+
+      document.addEventListener("keydown", (event) => {
+        if (event.key !== "/" || event.metaKey || event.ctrlKey || event.altKey) return;
+        const target = event.target as HTMLElement | null;
+        if (target?.matches("input, textarea, select, [contenteditable='true']")) return;
+        event.preventDefault();
+        search?.focus();
+      });
+
+      apply();
+    }
+  </script>
+</section>

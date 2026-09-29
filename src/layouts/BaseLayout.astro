@@ -11,40 +11,88 @@ const siteEntry = await getSite();
 const site = siteEntry.data;
 const { title, description = site.description } = Astro.props;
 const pageTitle = title ? `${title} — ${site.title}` : `${site.title} — ${site.longTitle}`;
+const path = Astro.url.pathname;
+
+const navItems = [
+  { href: "/projects", label: "Software", match: ["/projects", "/project/", "/category/"] },
+  { href: "/resources", label: "Directory", match: ["/resources"] },
+  { href: "/updates", label: "Updates", match: ["/updates"] },
+  { href: "/about", label: "About", match: ["/about"] }
+];
 ---
 
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
-    <meta name="theme-color" content="#050b24" />
+    <meta name="theme-color" content="#050816" />
+    <meta name="color-scheme" content="dark" />
     <title>{pageTitle}</title>
   </head>
   <body>
-    <div class="ambient" aria-hidden="true"></div>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <div class="plaza-backdrop" aria-hidden="true">
+      <div class="plaza-orbit plaza-orbit-a"></div>
+      <div class="plaza-orbit plaza-orbit-b"></div>
+      <div class="plaza-axis"></div>
+    </div>
+
     <header class="site-header">
-      <a class="brand" href="/">
-        <span class="brand-mark">PS2</span>
-        <span>
-          <strong>{site.title}</strong>
-          <small>{site.longTitle}</small>
-        </span>
-      </a>
-      <nav aria-label="Primary">
-        <a href="/projects">Software</a>
-        <a href="/resources">PS2 Directory</a>
-        <a href="/updates">Updates</a>
-        <a href="/about">About</a>
-        <a href={site.repository}>GitHub</a>
-      </nav>
+      <div class="header-inner">
+        <a class="brand" href="/" aria-label="PS2SP home">
+          <span class="brand-sigil" aria-hidden="true">
+            <i></i><i></i><i></i>
+          </span>
+          <span class="brand-copy">
+            <strong>PS2SP</strong>
+            <small>PlayStation 2 Software Plaza</small>
+          </span>
+        </a>
+
+        <nav class="primary-nav" aria-label="Primary">
+          {navItems.map((item) => {
+            const active = item.match.some((prefix) => path === prefix || path.startsWith(prefix));
+            return <a class:list={["nav-link", { active }]} href={item.href}>{item.label}</a>;
+          })}
+        </nav>
+
+        <div class="header-actions">
+          <a class="header-search" href="/projects" aria-label="Search PS2SP">
+            <span>Search</span><kbd>/</kbd>
+          </a>
+          <a class="source-link" href={site.repository} target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        </div>
+      </div>
     </header>
-    <main>
+
+    <div class="context-bar">
+      <div class="context-inner">
+        <span class="live-indicator"><i></i> live index</span>
+        <span class="context-path">PS2SP{path === "/" ? " / plaza" : path.replaceAll("/", " / ")}</span>
+      </div>
+    </div>
+
+    <main id="main-content">
       <slot />
     </main>
-    <footer>
-      <p>{site.longTitle}. Software metadata is tracked alongside a broader directory of PlayStation 2 resources and upstream sources.</p>
+
+    <footer class="site-footer">
+      <div class="footer-grid">
+        <div>
+          <strong>PS2SP</strong>
+          <p>Independent community index for PlayStation 2 software and ecosystem resources.</p>
+        </div>
+        <div class="footer-links">
+          <a href="/projects">Software</a>
+          <a href="/resources">Directory</a>
+          <a href="/updates">Updates</a>
+          <a href={site.repository}>Source</a>
+        </div>
+        <p class="legal">Not affiliated with or endorsed by Sony Interactive Entertainment. PlayStation and related marks belong to their respective owners.</p>
+      </div>
     </footer>
   </body>
 </html>

@@ -1,69 +1,20 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { categoryLabel, getProjects } from "../lib/catalog";
+import ProjectDirectory from "../components/ProjectDirectory.astro";
+import { getProjects } from "../lib/catalog";
 
 const projects = await getProjects();
-const categories = [...new Set(projects.flatMap((project) => project.data.categories))].sort();
 ---
 
 <BaseLayout title="Software">
-  <section>
-    <p class="eyebrow">Catalog</p>
-    <h1>Software</h1>
-    <p class="lead">Every visible entry comes from a Markdown project file. Search and filtering happen entirely in the browser.</p>
-  </section>
+  <header class="page-hero compact">
+    <div>
+      <p class="eyebrow">Software registry</p>
+      <h1>Software index</h1>
+      <p class="lead">A dense, searchable registry of PS2 homebrew, loaders, launchers, tools, SDKs, ports, emulators and related software. Quiet does not mean abandoned; source state is reported separately from editorial status.</p>
+    </div>
+    <div class="page-count"><strong>{projects.length}</strong><span>indexed</span></div>
+  </header>
 
-  <div class="toolbar">
-    <input id="project-search" type="search" placeholder="Search projects, tags, features…" autocomplete="off" />
-    <select id="category-filter">
-      <option value="">All categories</option>
-      {categories.map((category) => <option value={category}>{categoryLabel(category)}</option>)}
-    </select>
-  </div>
-
-  <div class="grid" id="project-grid">
-    {projects.map((project) => (
-      <a
-        class="card project-card"
-        href={`/project/${project.data.slug}`}
-        data-search={[project.data.name, project.data.summary, ...project.data.tags, ...project.data.features].join(" ").toLowerCase()}
-        data-categories={project.data.categories.join(" ")}
-      >
-        <h3>{project.data.name}</h3>
-        <p>{project.data.summary}</p>
-        <div class="meta">
-          {project.data.categories.slice(0, 2).map((category) => <span class="pill">{categoryLabel(category)}</span>)}
-          {project.data.repository.archived ? <span class="pill">Archived upstream</span> : <span class="pill status">Tracked</span>}
-        </div>
-      </a>
-    ))}
-  </div>
-  <p class="empty" id="no-results" hidden>No projects match those filters.</p>
-
-  <script>
-    const search = document.querySelector<HTMLInputElement>("#project-search");
-    const category = document.querySelector<HTMLSelectElement>("#category-filter");
-    const cards = [...document.querySelectorAll<HTMLElement>(".project-card")];
-    const empty = document.querySelector<HTMLElement>("#no-results");
-
-    function filterProjects() {
-      if (!search || !category || !empty) return;
-      const query = search.value.trim().toLowerCase();
-      const selected = category.value;
-      let visible = 0;
-
-      for (const card of cards) {
-        const matchesText = !query || (card.dataset.search ?? "").includes(query);
-        const matchesCategory = !selected || (card.dataset.categories ?? "").split(" ").includes(selected);
-        const show = matchesText && matchesCategory;
-        card.hidden = !show;
-        if (show) visible++;
-      }
-
-      empty.hidden = visible !== 0;
-    }
-
-    search?.addEventListener("input", filterProjects);
-    category?.addEventListener("change", filterProjects);
-  </script>
+  <ProjectDirectory projects={projects} />
 </BaseLayout>
