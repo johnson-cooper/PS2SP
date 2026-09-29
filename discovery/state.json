@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "bootstrap": {
+    "nextMonth": "2026-09",
+    "complete": false
+  },
+  "incremental": {
+    "watermark": null
+  },
+  "trustedOwnersSeeded": false
+}
