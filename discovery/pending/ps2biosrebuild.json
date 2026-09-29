@@ -3,23 +3,14 @@
   "repositoryId": "1329850246",
   "url": "https://github.com/yuias/PS2BiosRebuild",
   "description": "A reimplementation of the PlayStation 2 BIOS.",
-  "score": 85,
+  "score": 75,
   "evidence": [
     "repository description explicitly identifies PS2",
-    "README explicitly mentions PlayStation 2",
-    "native build files present",
-    "repository pushed within the last 180 days"
+    "README explicitly mentions PlayStation 2"
   ],
-  "origin": "github-search",
-  "maturity": {
-    "state": "active-unreleased",
-    "publishEligible": false,
-    "queueEligible": true,
-    "reasons": [
-      "no stable release found",
-      "repository has recent activity"
-    ]
-  },
+  "origin": "pending-recheck",
+  "maturity": "active-unreleased",
   "fork": null,
-  "discoveredAt": "2026-09-29T00:28:58.273Z"
+  "discoveredAt": "2026-09-29T00:28:58.273Z",
+  "checkedAt": "2026-09-29T19:41:17.144Z"
 }

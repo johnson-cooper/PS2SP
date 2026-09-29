@@ -8,9 +8,9 @@
     "PS2-specific topic",
     "README explicitly mentions PlayStation 2"
   ],
-  "origin": "incremental:topic:playstation-2",
+  "origin": "pending-recheck",
   "maturity": "active-unreleased",
   "fork": null,
   "discoveredAt": "2026-09-29T09:05:43.442Z",
-  "checkedAt": "2026-09-29T09:05:43.442Z"
+  "checkedAt": "2026-09-29T19:41:17.144Z"
 }
