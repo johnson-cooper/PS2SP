@@ -5,6 +5,8 @@ import { getResourceGroups, getResources, resourceHost } from "../lib/resources"
 const groups = getResourceGroups();
 const resources = getResources();
 const hosts = new Set(resources.map((resource) => resourceHost(resource.url))).size;
+const ps2Symbols = ["△", "○", "×", "□"];
+const categorySymbols = new Map(groups.map((group, index) => [group.category, ps2Symbols[index % ps2Symbols.length]]));
 ---
 
 <BaseLayout title="PS2 Directory">
@@ -23,10 +25,16 @@ const hosts = new Set(resources.map((resource) => resourceHost(resource.url))).s
         <span>Directory sections</span>
         <small>{groups.length} groups · {hosts} hosts</small>
       </div>
-      <button class="resource-nav active" type="button" data-resource-nav="">All resources <span>{resources.length}</span></button>
-      {groups.map((group) => (
+      <button class="resource-nav active" type="button" data-resource-nav="">
+        <span class="resource-nav-label"><span class="ps2-symbol" aria-hidden="true">◇</span><span>All resources</span></span>
+        <strong>{resources.length}</strong>
+      </button>
+      {groups.map((group, index) => (
         <button class="resource-nav" type="button" data-resource-nav={group.category}>
-          <span>{group.category}</span>
+          <span class="resource-nav-label">
+            <span class="ps2-symbol" aria-hidden="true">{ps2Symbols[index % ps2Symbols.length]}</span>
+            <span>{group.category}</span>
+          </span>
           <strong>{group.links.length}</strong>
         </button>
       ))}
@@ -64,7 +72,10 @@ const hosts = new Set(resources.map((resource) => resourceHost(resource.url))).s
               <strong>{resource.name}</strong>
               <small>{resource.categoryDescription}</small>
             </span>
-            <span class="resource-index-category">{resource.category}</span>
+            <span class="resource-index-category">
+              <span class="ps2-symbol" aria-hidden="true">{categorySymbols.get(resource.category) ?? "◇"}</span>
+              <span>{resource.category}</span>
+            </span>
             <span class="resource-index-host">{resourceHost(resource.url)} <span class="row-arrow">↗</span></span>
           </a>
         ))}
