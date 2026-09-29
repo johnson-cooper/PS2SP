@@ -55,7 +55,7 @@ const navItems = [
         <nav class="primary-nav" aria-label="Primary">
           {navItems.map((item) => {
             const active = item.match.some((prefix) => path === prefix || path.startsWith(prefix));
-            return <a class:list={["nav-link", { active }]} href={item.href}>{item.label}</a>;
+            return <a class:list={["nav-link", { active }]} href={item.href} aria-current={active ? "page" : undefined}>{item.label}</a>;
           })}
         </nav>
 
