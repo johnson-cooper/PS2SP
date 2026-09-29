@@ -477,19 +477,19 @@
           "711234484",
           "36679182"
         ],
-        "lastScannedAt": "2026-09-29T09:05:43.442Z"
+        "lastScannedAt": "2026-09-29T11:01:59.784Z"
       }
     }
   },
   "lastRun": {
-    "startedAt": "2026-09-29T10:12:10.462Z",
-    "finishedAt": "2026-09-29T10:13:38.096Z",
+    "startedAt": "2026-09-29T11:01:59.784Z",
+    "finishedAt": "2026-09-29T11:03:57.298Z",
     "requests": 350,
-    "searchRequests": 0,
-    "published": 124,
-    "queued": 0,
-    "ignored": 0,
-    "rechecked": 0,
+    "searchRequests": 12,
+    "published": 8,
+    "queued": 9,
+    "ignored": 150,
+    "rechecked": 20,
     "stoppedForRateLimit": true
   }
 }

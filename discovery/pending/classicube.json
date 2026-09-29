@@ -1,0 +1,17 @@
+{
+  "repository": "ClassiCube/ClassiCube",
+  "repositoryId": "28119786",
+  "url": "https://github.com/ClassiCube/ClassiCube",
+  "description": "Custom Minecraft Classic / ClassiCube client written in C  from scratch (formerly ClassicalSharp in C#)",
+  "score": 75,
+  "evidence": [
+    "README explicitly mentions PlayStation 2",
+    "README contains PS2 development/toolchain evidence",
+    "published GitHub release present"
+  ],
+  "origin": "incremental:\"ps2 port\" in:name,description,readme",
+  "maturity": "released-active",
+  "fork": null,
+  "discoveredAt": "2026-09-29T11:01:59.784Z",
+  "checkedAt": "2026-09-29T11:01:59.784Z"
+}

@@ -1,0 +1,16 @@
+{
+  "repository": "thieffran88/ghini-run-ps2",
+  "repositoryId": "1392777261",
+  "url": "https://github.com/thieffran88/ghini-run-ps2",
+  "description": null,
+  "score": 85,
+  "evidence": [
+    "repository name explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-09-29T11:01:59.784Z",
+  "checkedAt": "2026-09-29T11:01:59.784Z"
+}
