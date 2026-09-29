@@ -446,7 +446,7 @@ async function queueProject(repo, maturity, score, evidence, origin, forkStatus)
   console.log(`queued ${repo.full_name} (${score}; ${maturity.state})`);
 }
 
-async function processCandidate(candidate, origin, { force = false, trusted = false } = {}) {
+async function processCandidate(candidate, origin, { force = false, trusted = false, starred = false } = {}) {
   if (!candidate?.full_name || !candidate?.id) return;
   const key = String(candidate.id);
   if (!force && processed.has(key)) return;
@@ -487,7 +487,10 @@ async function processCandidate(candidate, origin, { force = false, trusted = fa
   const strongIndependentEvidence = repo.fork
     ? forkIndependentEvidence
     : (trustedOwner || explicitRepositorySignal(repo) || evidence.some((item) => /README|release metadata/i.test(item)));
-  const forkPublishable = !repo.fork || (Boolean(forkStatus) && forkIndependentEvidence) || publishByDefault;
+  const forkPublishable = !repo.fork ||
+    (Boolean(forkStatus) && forkIndependentEvidence) ||
+    publishByDefault ||
+    (starred && forkIndependentEvidence);
 
   // A fork can inherit a README full of PS2 references while its own work targets
   // a different platform. Require fork-specific PS2 identity instead of accepting
@@ -571,7 +574,7 @@ async function seedStarredUsers() {
 
         if (starredRepositorySignal(repo, source.ownerHints ?? [])) {
           relevant++;
-          await processCandidate(repo, `starred:${login}`);
+          await processCandidate(repo, `starred:${login}`, { starred: true });
         }
 
         // Mark only after the candidate completed. If rate limiting interrupts
