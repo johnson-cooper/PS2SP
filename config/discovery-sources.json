@@ -24,5 +24,43 @@
   "incrementalOnlyQueries": [
     "ps2 in:name,description",
     "\"ps2 port\" in:name,description,readme"
+  ],
+  "starredUsers": [
+    {
+      "login": "NathanNeurotic",
+      "ownerHints": [
+        "ps2dev",
+        "ps2homebrew",
+        "ps2-mmce",
+        "ps2wiki",
+        "ps2store",
+        "israpps",
+        "GDX-X",
+        "dnunezx",
+        "rickgaiser",
+        "bucanero",
+        "CosmicScale",
+        "Luden02",
+        "pcm720",
+        "ps2max32",
+        "Gageformer",
+        "saildot4k",
+        "oMrRexD",
+        "Docmine17",
+        "L10N37",
+        "Yuramash",
+        "hitchhikr",
+        "CTurt",
+        "PCSX2",
+        "ninjadynamics",
+        "elmariolo",
+        "gdomingues",
+        "alex-free",
+        "coffeedevsolutions",
+        "johnson-cooper",
+        "4gordi",
+        "IcySon55"
+      ]
+    }
   ]
 }
