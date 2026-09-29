@@ -478,18 +478,18 @@
           "36679182",
           "1386518091"
         ],
-        "lastScannedAt": "2026-09-29T19:41:17.144Z"
+        "lastScannedAt": "2026-09-29T21:04:53.429Z"
       }
     }
   },
   "lastRun": {
-    "startedAt": "2026-09-29T19:41:17.144Z",
-    "finishedAt": "2026-09-29T19:43:25.497Z",
+    "startedAt": "2026-09-29T21:04:53.429Z",
+    "finishedAt": "2026-09-29T21:06:49.010Z",
     "requests": 350,
     "searchRequests": 12,
-    "published": 3,
-    "queued": 17,
-    "ignored": 147,
+    "published": 0,
+    "queued": 20,
+    "ignored": 146,
     "rechecked": 20,
     "stoppedForRateLimit": true
   }
