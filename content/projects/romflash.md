@@ -1,0 +1,44 @@
+---
+name: romflash
+slug: romflash
+summary: Playstation 2 ROM flashing tool
+categories:
+  - uncategorized
+tags:
+  - auto-discovered
+features: []
+authors: []
+license: MIT
+homepage: null
+source:
+  provider: github
+  repository: ps2dbg/romflash
+  repositoryId: '900445727'
+repository:
+  archived: false
+  defaultBranch: main
+  stars: 12
+  forks: 0
+  lastCommit: '2026-01-12T06:43:09Z'
+latestRelease:
+  tag: latest
+  name: Latest development build
+  publishedAt: '2025-04-28T15:39:14Z'
+  url: 'https://github.com/ps2dbg/romflash/releases/tag/latest'
+activity:
+  lastSynchronized: '2026-09-29T10:12:10.462Z'
+automation:
+  sync: true
+discovery:
+  method: 'starred-curated:NathanNeurotic'
+  confidence: 100
+  evidence:
+    - 'trusted PS2 source owner: ps2dbg'
+    - repository description explicitly identifies PS2
+    - published GitHub release present
+  maturity: prerelease-only
+verified: false
+featured: false
+---
+
+Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

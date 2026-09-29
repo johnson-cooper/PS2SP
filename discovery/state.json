@@ -482,14 +482,14 @@
     }
   },
   "lastRun": {
-    "startedAt": "2026-09-29T09:05:43.442Z",
-    "finishedAt": "2026-09-29T09:07:56.922Z",
+    "startedAt": "2026-09-29T10:12:10.462Z",
+    "finishedAt": "2026-09-29T10:13:38.096Z",
     "requests": 350,
-    "searchRequests": 12,
-    "published": 47,
-    "queued": 18,
-    "ignored": 104,
-    "rechecked": 20,
+    "searchRequests": 0,
+    "published": 124,
+    "queued": 0,
+    "ignored": 0,
+    "rechecked": 0,
     "stoppedForRateLimit": true
   }
 }
