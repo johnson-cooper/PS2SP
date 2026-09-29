@@ -556,17 +556,17 @@ async function seedStarredUsers() {
 
       const parts = repository.split("/");
       if (parts.length !== 2 || !parts[0] || !parts[1]) {
-        console.warn(\`::warning::Skipping invalid curated starred repository: \${repository}\`);
+        console.warn("::warning::Skipping invalid curated starred repository: " + repository);
         continue;
       }
 
-      const repo = await github(\`/repos/\${encodeURIComponent(parts[0])}/\${encodeURIComponent(parts[1])}\`);
+      const repo = await github("/repos/" + encodeURIComponent(parts[0]) + "/" + encodeURIComponent(parts[1]));
       if (!repo) {
-        console.warn(\`::warning::Curated starred repository is unavailable: \${repository}\`);
+        console.warn("::warning::Curated starred repository is unavailable: " + repository);
         continue;
       }
 
-      await processCandidate(repo, \`starred-curated:\${login}\`, { starred: true, trusted: true });
+      await processCandidate(repo, "starred-curated:" + login, { starred: true, trusted: true });
     }
 
     const key = login.toLowerCase();
