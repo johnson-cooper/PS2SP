@@ -1,9 +1,7 @@
 ---
 name: sd2psXtd.github.io
 slug: sd2psxtd-github-io
-summary: >-
-  PlayStation 2-related repository maintained by NathanNeurotic:
-  sd2psXtd.github.io.
+summary: "Website and tools for sd2psXtd, extended SD2PSX firmware with PS2 Game ID switching, MMCE support, memory-card features, and PS1/PS2 utilities."
 categories:
   - hardware
   - utilities
@@ -42,4 +40,4 @@ discovery:
 verified: true
 featured: false
 ---
-Curated directly into PS2SP from NathanNeurotic's public PlayStation 2-related repositories. Automated synchronization owns repository and release metadata; this body can be expanded later without disabling sync.
+sd2psXtd extends SD2PSX firmware and its surrounding tools with PS2 Game ID switching, MMCEMAN/MMCEDRV integration, broader card support and additional PS1/PS2 features.

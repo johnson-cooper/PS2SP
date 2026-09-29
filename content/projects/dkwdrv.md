@@ -1,7 +1,7 @@
 ---
 name: DKWDRV
 slug: dkwdrv
-summary: 'PlayStation 2-related repository maintained by NathanNeurotic: DKWDRV.'
+summary: "Unified replacement for the PlayStation 2's original PS1DRV, adding broader compatibility, fixes, configuration options, and PS1-mode features."
 categories:
   - loaders
   - emulators
@@ -40,4 +40,4 @@ discovery:
 verified: true
 featured: false
 ---
-Curated directly into PS2SP from NathanNeurotic's public PlayStation 2-related repositories. Automated synchronization owns repository and release metadata; this body can be expanded later without disabling sync.
+DKWDRV replaces the PlayStation 2's original PS1DRV with a unified driver for PGIF and DECKARD systems, adding compatibility fixes and expanded PS1-mode behavior.

@@ -1,9 +1,10 @@
 ---
 name: ps2-SDL
 slug: ps2-sdl
-summary: 'PlayStation 2-related repository maintained by NathanNeurotic: ps2-SDL.'
+summary: "PlayStation 2 port of SDL 1.2 with PS2SDK backends for graphics, audio, input, threading, timers, and CD-ROM access."
 categories:
   - development
+  - libraries
 tags:
   - nathanneurotic
   - curated-owner
@@ -39,4 +40,4 @@ discovery:
 verified: true
 featured: false
 ---
-Curated directly into PS2SP from NathanNeurotic's public PlayStation 2-related repositories. Automated synchronization owns repository and release metadata; this body can be expanded later without disabling sync.
+ps2-SDL adapts Simple DirectMedia Layer 1.2 to PlayStation 2 through PS2SDK-specific video, audio, controller, threading, timer and CD-ROM backends.

@@ -1,9 +1,10 @@
 ---
 name: Memdusa
 slug: memdusa
-summary: 'PlayStation 2-related repository maintained by NathanNeurotic: Memdusa.'
+summary: "Network-based PlayStation 2 homebrew-launcher exploit for supported Medius games, using server-controlled memory writes to load LaunchELF."
 categories:
-  - utilities
+  - boot-tools
+  - networking
 tags:
   - nathanneurotic
   - curated-owner
@@ -39,4 +40,4 @@ discovery:
 verified: true
 featured: false
 ---
-Curated directly into PS2SP from NathanNeurotic's public PlayStation 2-related repositories. Automated synchronization owns repository and release metadata; this body can be expanded later without disabling sync.
+Memdusa uses vulnerable Medius network-game behavior on supported PlayStation 2 titles to write a payload into memory and launch homebrew.

@@ -1,10 +1,10 @@
 ---
 name: mmceman
 slug: mmceman
-summary: 'PlayStation 2-related repository maintained by NathanNeurotic: mmceman.'
+summary: "PlayStation 2 IOP modules for MMCE devices, providing card switching, Game ID communication, filesystem access, and lightweight in-game data streaming."
 categories:
   - hardware
-  - utilities
+  - development
 tags:
   - nathanneurotic
   - curated-owner
@@ -40,4 +40,4 @@ discovery:
 verified: true
 featured: false
 ---
-Curated directly into PS2SP from NathanNeurotic's public PlayStation 2-related repositories. Automated synchronization owns repository and release metadata; this body can be expanded later without disabling sync.
+MMCEMAN and MMCEDRV provide PlayStation 2-side integration for Multipurpose Memory Card Emulator devices such as SD2PSX and MemCard PRO2.

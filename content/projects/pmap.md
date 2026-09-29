@@ -1,8 +1,9 @@
 ---
 name: PMAP
 slug: pmap
-summary: 'PlayStation 2-related repository maintained by NathanNeurotic: PMAP.'
+summary: "PlayStation 2 Mechacon Adjustment Program for CD/DVD subsystem maintenance, including EEPROM service, electrical adjustment, and mechanism/skew calibration."
 categories:
+  - hardware
   - utilities
 tags:
   - nathanneurotic
@@ -39,4 +40,4 @@ discovery:
 verified: true
 featured: false
 ---
-Curated directly into PS2SP from NathanNeurotic's public PlayStation 2-related repositories. Automated synchronization owns repository and release metadata; this body can be expanded later without disabling sync.
+PMAP is a community implementation of PlayStation 2 optical-drive maintenance tooling for Mechacon, EEPROM, electrical and mechanism adjustment work.

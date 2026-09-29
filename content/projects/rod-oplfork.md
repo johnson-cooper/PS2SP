@@ -1,7 +1,7 @@
 ---
 name: rod-oplfork
 slug: rod-oplfork
-summary: 'PlayStation 2-related repository maintained by NathanNeurotic: rod-oplfork.'
+summary: "Open PS2 Loader fork for loading PS2 games and applications from HDD, USB, SMB, MX4SIO, and iLink storage."
 categories:
   - loaders
 tags:
@@ -39,4 +39,4 @@ discovery:
 verified: true
 featured: false
 ---
-Curated directly into PS2SP from NathanNeurotic's public PlayStation 2-related repositories. Automated synchronization owns repository and release metadata; this body can be expanded later without disabling sync.
+This fork is based on Open PS2 Loader, the open-source PlayStation 2 game and application loader supporting multiple local and network storage devices.

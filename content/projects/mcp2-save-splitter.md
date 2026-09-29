@@ -1,12 +1,10 @@
 ---
 name: mcp2-save-splitter
 slug: mcp2-save-splitter
-summary: >-
-  PlayStation 2-related repository maintained by NathanNeurotic:
-  mcp2-save-splitter.
+summary: "PowerShell utility that converts and splits PS2 virtual memory cards and save files into Memcard Pro 2 GameID-ready .mc2 card sets."
 categories:
   - save-tools
-  - utilities
+  - host-tools
 tags:
   - nathanneurotic
   - curated-owner
@@ -42,4 +40,4 @@ discovery:
 verified: true
 featured: false
 ---
-Curated directly into PS2SP from NathanNeurotic's public PlayStation 2-related repositories. Automated synchronization owns repository and release metadata; this body can be expanded later without disabling sync.
+MCP2 Save Splitter prepares OPL, PCSX2, Memcard Pro 2 and common save-file formats for Memcard Pro 2 GameID workflows.

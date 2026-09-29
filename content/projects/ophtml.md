@@ -1,9 +1,10 @@
 ---
 name: OPHTML
 slug: ophtml
-summary: 'PlayStation 2-related repository maintained by NathanNeurotic: OPHTML.'
+summary: "Toolchain and C99 runtime for building PlayStation 2 homebrew interfaces from HTML and CSS, baked on the host and rendered with gsKit on-console."
 categories:
-  - utilities
+  - development
+  - libraries
 tags:
   - nathanneurotic
   - curated-owner
@@ -39,4 +40,4 @@ discovery:
 verified: true
 featured: false
 ---
-Curated directly into PS2SP from NathanNeurotic's public PlayStation 2-related repositories. Automated synchronization owns repository and release metadata; this body can be expanded later without disabling sync.
+OPHTML/ps2ui moves HTML/CSS parsing, layout, text shaping and asset baking to the development machine, then replays the resulting UI data through a compact PS2 runtime.
