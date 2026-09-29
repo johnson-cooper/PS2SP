@@ -19,10 +19,10 @@ source:
   url: 'https://github.com/WR699/PS2-BlockBattle'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-09-29T07:14:13Z'
 latestRelease:
   tag: null
   name: null
@@ -30,8 +30,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-09-29T00:28:34.658Z'
+  lastSynchronized: '2026-09-29T20:47:46.262Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"fc27c9a702780d5657b08a1a15a1798efc3712dbb464e4a01ec6527b3d08a90e"
+    releasesEtag: '"d21fe1eb6efd13e3c6bd1b7f16847f30510d497104408013acbf7e82d9790973"'
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 100
@@ -45,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

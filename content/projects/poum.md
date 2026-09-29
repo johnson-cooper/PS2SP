@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2026-01-04T12:19:54Z'
   url: 'https://github.com/gecm0/POUM/releases/tag/v0.2.3'
 activity:
-  lastSynchronized: '2026-09-29T09:05:43.442Z'
+  lastSynchronized: '2026-09-29T20:47:45.747Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"692c19b8a0351d53014fb92b368e2232f17cd1587a3e7640825273a2c135485e"
+    releasesEtag: W/"f55a48a7b929d651d98fa7471c045d4487da983b763a180b958d0e4cce0bbe6d"
 discovery:
   method: pending-recheck
   confidence: 100
@@ -43,5 +46,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

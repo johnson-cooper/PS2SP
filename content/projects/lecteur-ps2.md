@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2026-09-26T13:25:53Z'
   url: 'https://github.com/Rickow/lecteur-ps2/releases/tag/v0.3.1'
 activity:
-  lastSynchronized: '2026-09-29T09:05:43.442Z'
+  lastSynchronized: '2026-09-29T20:47:43.913Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"cd86d6ba1418b0bf39090ccfe342b797decfc8c3b50bda4da52fcb762e5cfddd"
+    releasesEtag: W/"4f09d33c20ac9ce21609c5f7ec0203524ed64aeca7b2aabb85bea84438ed2217"
 discovery:
   method: 'incremental:topic:ps2'
   confidence: 100
@@ -44,5 +47,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

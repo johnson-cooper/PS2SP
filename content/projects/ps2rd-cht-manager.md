@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-08-24T02:27:53Z'
   url: 'https://github.com/TheRealNextria/PS2RD-CHT-Manager/releases/tag/Update'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-09-29T20:47:48.037Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"79f7cc2567a14930e5f113b262c9ece87f84f7d21829ba83dcb3e1243bcf6c3d"
+    releasesEtag: W/"47183217209e46f7e6b1e30d45a8c73b2ab24425fb81f8025be2bce0fb1c54d1"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -40,5 +43,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

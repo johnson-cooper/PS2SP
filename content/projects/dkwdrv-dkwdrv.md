@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-09-23T17:24:34Z'
   url: 'https://github.com/DKWDRV/DKWDRV/releases/tag/1.7.6p'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-09-29T20:47:40.446Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0dca0b2155adc2ee56b31212e29c9b61ecdbf4fc747b35fdc32f370d0c331b5d"
+    releasesEtag: W/"0580e35f625a1109c820b564bc964e6ecc7c21c6806feda780414c6795e4e41e"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -42,5 +45,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

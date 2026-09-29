@@ -10,7 +10,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -19,19 +19,23 @@ source:
   url: 'https://github.com/pepasjc/GameSync'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: master
+  stars: 1
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-09-27T13:30:10Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: 0.5.4
+  name: 'Wii U, GameCube and MiSTer clients'
+  publishedAt: '2026-09-23T11:47:05Z'
+  url: 'https://github.com/pepasjc/GameSync/releases/tag/0.5.4'
 activity:
   lastChecked: '2026-09-29T11:01:59.784Z'
+  lastSynchronized: '2026-09-29T20:47:42.267Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b18ec1de020d9a03f1a92dc656a02aa2c90255717da7b57a88266f2270040446"
+    releasesEtag: W/"369f99da27cb982f500414209c874cbc2d2118ec5470762854bbbb4f803fe8a2"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 90
@@ -45,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.
