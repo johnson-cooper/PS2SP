@@ -20,6 +20,7 @@ export function categoryLabel(id: string) {
 export function projectUpdatedAt(project: Awaited<ReturnType<typeof getProjects>>[number]) {
   return project.data.latestRelease.publishedAt ??
     project.data.repository.lastCommit ??
+    project.data.activity.lastSynchronized ??
     project.data.activity.lastChecked ??
     "1970-01-01T00:00:00Z";
 }
