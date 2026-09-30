@@ -1,0 +1,16 @@
+{
+  "repository": "nicolasserpa/shadow-the-hedgehog-recomp",
+  "repositoryId": "1397000198",
+  "url": "https://github.com/nicolasserpa/shadow-the-hedgehog-recomp",
+  "description": "Shadow the Hedgehog (PS2) static recompilation to native PC",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-09-30T09:02:30.410Z",
+  "checkedAt": "2026-09-30T09:02:30.410Z"
+}
