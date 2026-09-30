@@ -23,6 +23,21 @@ import psxPlacePs2HubGroups from "../../data/resources/psx-place-ps2-hubs.json";
 import ps2WikiIndexGroups from "../../data/resources/ps2wiki-index.json";
 import hiddenPalacePs2Groups from "../../data/resources/hidden-palace-ps2.json";
 import githubPs2ModdingGroups from "../../data/resources/github-ps2-modding.json";
+import ps2SaveIconEcosystemGroups from "../../data/resources/ps2-save-icon-ecosystem.json";
+import sksAppsLegacyGroups from "../../data/resources/sksapps-legacy.json";
+import ps2devLegacyMirrorGroups from "../../data/resources/ps2dev-legacy-mirrors.json";
+import ps2LinuxPreservationGroups from "../../data/resources/ps2linux-preservation.json";
+import internetArchivePs2Deep2Groups from "../../data/resources/internet-archive-ps2-deep-2.json";
+import ps2HomebrewOrgDocGroups from "../../data/resources/ps2homebrew-org-docs.json";
+import psxScenePreservationGroups from "../../data/resources/psx-scene-preservation.json";
+import hdlWikiLegacyGroups from "../../data/resources/hdl-wiki-legacy.json";
+import ps2MemoryCardGithubGroups from "../../data/resources/ps2-memory-card-github.json";
+import pdromsPs2ArchiveGroups from "../../data/resources/pdroms-ps2-archive.json";
+import ps2HomebrewingBlogGroups from "../../data/resources/ps2homebrewing-blog.json";
+import sourceForgePs2LegacyGroups from "../../data/resources/sourceforge-ps2-legacy.json";
+import xpecCdvdmaniaNapalmGroups from "../../data/resources/xpec-cdvdmania-napalm-mirrors.json";
+import waybackLostPs2SiteGroups from "../../data/resources/wayback-lost-ps2-sites.json";
+import internetArchivePs2DemoExtraGroups from "../../data/resources/internet-archive-ps2-demos-extra.json";
 
 export interface ResourceLink {
   name: string;
@@ -68,7 +83,22 @@ const allResourceSources = [
   ...(psxPlacePs2HubGroups as ResourceGroup[]),
   ...(ps2WikiIndexGroups as ResourceGroup[]),
   ...(hiddenPalacePs2Groups as ResourceGroup[]),
-  ...(githubPs2ModdingGroups as ResourceGroup[])
+  ...(githubPs2ModdingGroups as ResourceGroup[]),
+  ...(ps2SaveIconEcosystemGroups as ResourceGroup[]),
+  ...(sksAppsLegacyGroups as ResourceGroup[]),
+  ...(ps2devLegacyMirrorGroups as ResourceGroup[]),
+  ...(ps2LinuxPreservationGroups as ResourceGroup[]),
+  ...(internetArchivePs2Deep2Groups as ResourceGroup[]),
+  ...(ps2HomebrewOrgDocGroups as ResourceGroup[]),
+  ...(psxScenePreservationGroups as ResourceGroup[]),
+  ...(hdlWikiLegacyGroups as ResourceGroup[]),
+  ...(ps2MemoryCardGithubGroups as ResourceGroup[]),
+  ...(pdromsPs2ArchiveGroups as ResourceGroup[]),
+  ...(ps2HomebrewingBlogGroups as ResourceGroup[]),
+  ...(sourceForgePs2LegacyGroups as ResourceGroup[]),
+  ...(xpecCdvdmaniaNapalmGroups as ResourceGroup[]),
+  ...(waybackLostPs2SiteGroups as ResourceGroup[]),
+  ...(internetArchivePs2DemoExtraGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
