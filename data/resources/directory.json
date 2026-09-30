@@ -944,6 +944,222 @@
         "url": "https://web.archive.org/web/20240729132341/http://www.hwc.nat.cu/ps2-vault/hwc-projects/xebplus/",
         "favicon_url": "",
         "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Yabasic for PS2",
+        "url": "https://archive.org/details/gs_20211117192719",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2 Dumper",
+        "url": "https://archive.org/details/ps-2dumper-v-2-iso",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2Reality Media Player Pro",
+        "url": "https://archive.org/details/ps-2-reality-mediaplayer-pro",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2 VCD/DivX Player",
+        "url": "https://archive.org/details/ps-2-vcd-div-x-player-v-1.1",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Argon PS2 Media Player",
+        "url": "https://archive.org/details/argon-0.7.1",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: McLoader 1.10",
+        "url": "https://archive.org/details/mcloader_v1_10",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: McLoader 1.35",
+        "url": "https://archive.org/details/mcloader_1.35",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Memory Card Annihilator v2.0",
+        "url": "https://archive.org/details/mc-annihilator-v-2.0",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2rd 0.5",
+        "url": "https://archive.org/details/ps2rd-0.5-bin",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Open PS2 Loader",
+        "url": "https://archive.org/details/opnps-2-ld",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: LensChanger Installer",
+        "url": "https://archive.org/details/lenschanger_instv12b",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2Ident",
+        "url": "https://archive.org/details/181208-ps-2-ident-0835-bin",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: OpenTuna 2.0.1",
+        "url": "https://archive.org/details/open-tuna-2.0.1",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Cheat Device for PS2 1.7.5",
+        "url": "https://archive.org/details/cheat-device-ps-2-v-1.7.5",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: HDLGameInstaller",
+        "url": "https://archive.org/details/181208-hdlgman-client",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: FreeMcBoot 1.8b",
+        "url": "https://archive.org/details/free-mc-boot-1.8b",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Graphics Synthesizer Mode Selector (GSM)",
+        "url": "https://archive.org/details/gsmodesel",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: POPStarter r13 Beta",
+        "url": "https://archive.org/details/popstarter-r-13-beta-20190605",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Fortuna FMCB Launcher",
+        "url": "https://archive.org/details/ps-2-fortuna-fmcb-launcher-master",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: ESR",
+        "url": "https://archive.org/details/8051-esr-beta-r-9b",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2 Controller Tester",
+        "url": "https://archive.org/details/padtest_202111",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: FreeDVDBoot Source Snapshot (2020-06-29)",
+        "url": "https://archive.org/details/github.com-CTurt-FreeDVDBoot_-_2020-06-29_01-39-59",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: CogSwapLoader",
+        "url": "https://archive.org/details/COGSWAP",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS1Drv Video Mode Negater",
+        "url": "https://archive.org/details/170826-ps-1-vmode-neg-0110-bin",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Ogg Vorbis Player for PS2",
+        "url": "https://archive.org/details/oggplayer",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: LbFn MOD",
+        "url": "https://archive.org/details/hwc-lb-fn-07019wip-mod",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Sony Utility Disc Compilation v3",
+        "url": "https://archive.org/details/sony-utility-disc-compilation-v3",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2Temps and MechaCon Version Checker",
+        "url": "https://archive.org/details/ps-2-temps-and-mecha-con-version-checker-v-2.7z",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Xploder Mega Cheats v5 (PS2 EU)",
+        "url": "https://archive.org/details/xploder-mega-cheats-v5",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2ESDL Various Versions",
+        "url": "https://archive.org/details/ps2esdl-various-versions_20230205",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: mymc 2.7 PS2 Memory Card Image Utility",
+        "url": "https://archive.org/details/mymc-alpha-2.7",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Open PS2 Loader Older Releases",
+        "url": "https://archive.org/details/opl-older-releases",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2 Launcher REBUG Edition",
+        "url": "https://archive.org/details/ps-2-launcher-rebug-edition.pkg.-192.v-1.00",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2 Classics GUI 2.2.3",
+        "url": "https://archive.org/details/ps2classics_gui_2.2.3_202209",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: NapLink 1.0.1a",
+        "url": "https://archive.org/details/naplink-ps2-v1.0.1a",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PlayStation 2 MP3 Player",
+        "url": "https://archive.org/details/play-station-2-mp-3-player",
+        "favicon_url": "",
+        "thumbnail_url": ""
       }
     ]
   },
@@ -1188,6 +1404,156 @@
       {
         "name": "ZigStation2",
         "url": "https://github.com/FalsePattern/ZigStation2",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Open PS2 Loader GitHub Source Snapshot (2024-06-02)",
+        "url": "https://archive.org/details/github.com-ps2homebrew-Open-PS2-Loader_-_2024-06-02_05-17-09",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: SNESticle for PS2",
+        "url": "https://archive.org/details/ps2_20220518",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: AFTERsUN PS2 Homebrew Demo",
+        "url": "https://archive.org/details/afters-nd",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2 DreamSpec",
+        "url": "https://archive.org/details/ps-2-dream-spec-beta",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2PCE",
+        "url": "https://archive.org/details/ps2pce05",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2MaMe Bootable CD",
+        "url": "https://archive.org/details/ps-2-n-ps-2-ma-me",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2-DC64",
+        "url": "https://archive.org/details/ps2dc64",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2BOR",
+        "url": "https://archive.org/details/ps2bor-src-0.1b",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Daedalus N64 Emulator for PS2",
+        "url": "https://archive.org/details/daedalus_202110",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2fMSX 0.6b",
+        "url": "https://archive.org/details/ps2fmsx-v0.6b",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2 fMSX by 7not6",
+        "url": "https://archive.org/details/msx2_20211031",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Snes9x for PS2",
+        "url": "https://archive.org/details/packed_snes9xNTSC",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Snes Station",
+        "url": "https://archive.org/details/super-nintendo-snes-station-0.2.4-s-build-20160906",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Enceladus PS2 Lua Environment",
+        "url": "https://archive.org/details/enceladus-27b-46a-75",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2 SDKs Collection",
+        "url": "https://archive.org/details/ps2_sdks",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PlayStation 2 July 2005 SDK v3.0.3",
+        "url": "https://archive.org/details/PlayStation2July2005SDKversion3.0.3",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2 Programmer Tool Runtime/Controller Library",
+        "url": "https://archive.org/details/ps-2-programmer-tool-runtime-library-controller-library",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PCSX2 1.4.0",
+        "url": "https://archive.org/details/pcsx2-1.4.0",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PCSX2 1.6.0",
+        "url": "https://archive.org/details/pcsx2-1.6.0",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PCSX2 2.4.0 Windows x64",
+        "url": "https://archive.org/details/pcsx2-v2.4.0-windows-x64-installer_202507",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PCSX2 GitHub Source Snapshot (2024-04-28)",
+        "url": "https://archive.org/details/github.com-PCSX2-pcsx2_-_2024-04-28_17-15-26",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Beats of Rage PS2 Port",
+        "url": "https://archive.org/details/beats-of-rage-ntsc",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Cube PS2SDK Sample Demo",
+        "url": "https://archive.org/details/cube_20211117",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: ScummVM 1.7.0 for PS2",
+        "url": "https://archive.org/details/scummvm-1.7.0-ps2",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: ScummVM Older Platform Binaries with PS2 Builds",
+        "url": "https://archive.org/details/scummvm-oldbin",
         "favicon_url": "",
         "thumbnail_url": ""
       }
@@ -1880,6 +2246,18 @@
         "url": "https://www.ebay.com/itm/314357590044",
         "favicon_url": "",
         "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Memory Card Station - PS2 Card Reader",
+        "url": "https://archive.org/details/installation-cd_20220511",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: MechaPwn GitHub Source Snapshot (2024-03-28)",
+        "url": "https://archive.org/details/github.com-MechaResearch-MechaPwn_-_2024-03-28_10-38-07",
+        "favicon_url": "",
+        "thumbnail_url": ""
       }
     ]
   },
@@ -2016,6 +2394,18 @@
       {
         "name": "Team XLink Global Network Gaming",
         "url": "https://www.teamxlink.co.uk/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: DNAS H4x0r / Disc ID Utility",
+        "url": "https://archive.org/details/discidutil-v-3.0-dvd",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2 Network Access Disc (PAL)",
+        "url": "https://archive.org/details/networkDisc",
         "favicon_url": "",
         "thumbnail_url": ""
       }
@@ -2420,6 +2810,150 @@
         "url": "https://psi-rockin.github.io/ps2tek/",
         "favicon_url": "",
         "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Sony PS2 Service Manuals Collection",
+        "url": "https://archive.org/details/ps2-service-manuals",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: SCPH-30000 Series Service Manual (6th Edition)",
+        "url": "https://archive.org/details/PlayStation_2_SCPH-30000_Series_Service_Manual_6th_Edition",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: SCPH-50000 Series Service Manual (2nd Edition)",
+        "url": "https://archive.org/details/PlayStation_2_SCPH-50000_Series_Service_Manual_2nd_Edition",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Sony PS2 User's Manual",
+        "url": "https://archive.org/details/manualzilla-id-6974800",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2 BIOS Megadump",
+        "url": "https://archive.org/details/ps2-bios-megadump",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PlayStation 2 Press Kit 2001 Discs",
+        "url": "https://archive.org/details/japan2001disc2",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Official PlayStation 2 Magazine UK Special - Buyer's Guide",
+        "url": "https://archive.org/details/official-playstation-2-magazine-uk-special-buyers-guide",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PlayStation 2 Official Magazine 000 Promo Edition",
+        "url": "https://archive.org/details/playstation-2-official-magazine-000-promo-edition",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PlayStation Official Guide Book 2002 Summer - PlayStation 2",
+        "url": "https://archive.org/details/playstation-official-guide-book-2002-summer-playstation-2-ozidual",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: SCEA Santa Monica Studios 2004 Press Information",
+        "url": "https://archive.org/details/redump-id-116411",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: SCEA Gamers Day 2002 Press Info",
+        "url": "https://archive.org/details/SCEAGamersDay2002PressInfoUSA",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PlayStation 2 Press CD (Europe) - PS2 Software",
+        "url": "https://archive.org/details/redump-id-111868",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: SCEE Press Information - Corporate & Hardware - Autumn 2002",
+        "url": "https://archive.org/details/redump-id-69486",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: SCEE Software Brochure + Press Information - E3 2003",
+        "url": "https://archive.org/details/redump-id-69899",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: E3 2003 Press Information - Sony PlayStation",
+        "url": "https://archive.org/details/E32003PressInformation_SonyPlayStation",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PlayStation 2 Image Disc (Europe)",
+        "url": "https://archive.org/details/redump-id-70202",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Sega Announcement of PlayStation 2 Titles - September 2001",
+        "url": "https://archive.org/details/redump-id-66161",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PlayStation 2 Monthly Artwork Disc 1 - January 2002",
+        "url": "https://archive.org/details/nonredump-pc-31",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Sony E3 2002 Press Assets CD-ROM",
+        "url": "https://archive.org/details/SonyE32002PressInformation",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PlayStation 2 Scans",
+        "url": "https://archive.org/details/PlayStation2DemoScans",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Amplitude PS2 Press Kit",
+        "url": "https://archive.org/details/amplitude-ps2-press-kit",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: God of War II Press Materials",
+        "url": "https://archive.org/details/redump-id-70806",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: ICO PS2 High-Resolution Box Scans",
+        "url": "https://archive.org/details/ico-ps2-hiresscans",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: God of War II PS2 High-Resolution Box Scans",
+        "url": "https://archive.org/details/god-of-war-ii-ps2-hiresscans",
+        "favicon_url": "",
+        "thumbnail_url": ""
       }
     ]
   },
@@ -2604,6 +3138,30 @@
       {
         "name": "SLBB-00001",
         "url": "https://archive.org/details/SLBB-00001",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Linux for PlayStation 2 Release 1.0 (USA)",
+        "url": "https://archive.org/details/ps2_Linux_for_PlayStation_2_Release_1.0_USA",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2 Live Linux DVD",
+        "url": "https://archive.org/details/ps2linux_live_v3_pal_small_no_modchip",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PS2 Live Linux USB",
+        "url": "https://archive.org/details/ps2linux_live_v5_pal_netsurf_usb.7z",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PlayStation 2 HDDOSD 100J Browser 2.0 LBA48",
+        "url": "https://archive.org/details/PS2_HDDOSD_100J_48BIT",
         "favicon_url": "",
         "thumbnail_url": ""
       }
