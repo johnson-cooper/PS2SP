@@ -1,0 +1,232 @@
+[
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "Legacy SKS Apps PlayStation 2 mirrors preserving old loaders, exploit packages, launchers, HDD/USB utilities, media players, and scene-era tools.",
+    "links": [
+      {
+        "name": "SKS Apps — PS2 Exploits Archive",
+        "url": "https://sksapps.haldrie.com/ps2exploit.php",
+        "keywords": [
+          "PS2",
+          "SKS Apps",
+          "Free McBoot",
+          "FMCB",
+          "Independence Exploit",
+          "ESR",
+          "Memento",
+          "exploit archive"
+        ]
+      },
+      {
+        "name": "SKS Apps — PS2 HDD/USB Applications",
+        "url": "https://sksapps.haldrie.com/ps2hd.php",
+        "keywords": [
+          "PS2",
+          "SKS Apps",
+          "HDLoader",
+          "HDL",
+          "WinHIIP",
+          "USB Advance",
+          "USBUtil",
+          "OPL",
+          "HDD",
+          "USB"
+        ]
+      },
+      {
+        "name": "SKS Apps — PS2 Launchers",
+        "url": "https://sksapps.haldrie.com/ps2launchers.php",
+        "keywords": [
+          "PS2",
+          "SKS Apps",
+          "LaunchELF",
+          "KeyLauncher",
+          "PS2 OS",
+          "MCManager",
+          "Boot Advance",
+          "launcher"
+        ]
+      },
+      {
+        "name": "SKS Apps — PS2 Media Players",
+        "url": "https://sksapps.haldrie.com/ps2media.php",
+        "keywords": [
+          "PS2",
+          "SKS Apps",
+          "SMS",
+          "Reality Media Player",
+          "PS2 MediaPlayer Pro",
+          "PSS",
+          "media player"
+        ]
+      },
+      {
+        "name": "SKS Apps — PS2 Miscellaneous Applications",
+        "url": "https://sksapps.haldrie.com/ps2mis.php",
+        "keywords": [
+          "PS2",
+          "SKS Apps",
+          "Apache",
+          "CDGen",
+          "CogSwap",
+          "BIOS dump",
+          "DVD tools",
+          "misc utilities"
+        ]
+      },
+      {
+        "name": "SKS Apps — ESR Readme / Historical Documentation",
+        "url": "https://sksapps.haldrie.com/ps2esr_readme.php",
+        "keywords": [
+          "PS2",
+          "SKS Apps",
+          "ESR",
+          "DVDV",
+          "patched disc",
+          "ffgriever",
+          "readme"
+        ]
+      },
+      {
+        "name": "SKS Apps — FreeMCBoot Configurator Guide",
+        "url": "https://sksapps.haldrie.com/bootleg/tutorials/fmcb/config.php",
+        "keywords": [
+          "PS2",
+          "FMCB",
+          "Free McBoot",
+          "Configurator",
+          "FREEMCB.CNF",
+          "OSDSYS",
+          "guide"
+        ]
+      },
+      {
+        "name": "SKS Apps — FreeMCBoot via GameShark/SharkPort",
+        "url": "https://www.sksapps.haldrie.com/bootleg/tutorials/fmcb/gameshark.php",
+        "keywords": [
+          "PS2",
+          "FMCB",
+          "Free McBoot",
+          "GameShark",
+          "SharkPort",
+          "save exploit",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "SKS Apps — HDLoader on Memory Card Tutorial",
+        "url": "https://sksapps.haldrie.com/tutorials/ps2/hdexploit.php",
+        "keywords": [
+          "PS2",
+          "HDLoader",
+          "Independence Exploit",
+          "TITLE.DB",
+          "memory card",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "SKS Apps — HDLoader Overview",
+        "url": "https://sksapps.haldrie.com/bootleg/tutorials/fmcb/hdl.php",
+        "keywords": [
+          "PS2",
+          "HDLoader",
+          "HDD",
+          "HDL Dump",
+          "WinHIIP",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "SKS Apps — USB Advance Overview",
+        "url": "https://sksapps.haldrie.com/bootleg/tutorials/fmcb/usb.php",
+        "keywords": [
+          "PS2",
+          "USB Advance",
+          "USB Extreme",
+          "USBUtil",
+          "USBA Strip",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "SKS Apps — PS2 Questions & Answers",
+        "url": "https://www.sksapps.haldrie.com/tutorials/ps2/QandA.php",
+        "keywords": [
+          "PS2",
+          "SKS Apps",
+          "FAQ",
+          "ELF",
+          "IRX",
+          "ISO",
+          "HDD",
+          "Independence Exploit"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Legacy SKS Apps PS2 emulator and homebrew-development archive pages.",
+    "links": [
+      {
+        "name": "SKS Apps — PS2 Emulators Archive",
+        "url": "https://sksapps.haldrie.com/ps2emus.php",
+        "keywords": [
+          "PS2",
+          "SKS Apps",
+          "emulators",
+          "PGen",
+          "SNES Station",
+          "FCEUltra",
+          "NeoCD",
+          "PS2MAME",
+          "VICE",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "SKS Apps — Legacy PS2 Homebrew Archive Root",
+        "url": "https://sksapps.haldrie.com/",
+        "keywords": [
+          "PS2",
+          "SKS Apps",
+          "legacy",
+          "scene archive",
+          "homebrew",
+          "tools",
+          "tutorials"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "Preserved scene-era SKS Apps pages documenting old PS2 software workflows and terminology.",
+    "links": [
+      {
+        "name": "SKS Apps — Preserved Legacy Site",
+        "url": "https://sksapps.haldrie.com/",
+        "keywords": [
+          "PS2",
+          "SKS Apps",
+          "archive",
+          "legacy website",
+          "scene history",
+          "preservation"
+        ]
+      },
+      {
+        "name": "SKS Apps — FreeMCBoot Tutorial Collection",
+        "url": "https://sksapps.haldrie.com/bootleg/tutorials/fmcb/",
+        "keywords": [
+          "PS2",
+          "FMCB",
+          "Free McBoot",
+          "tutorial archive",
+          "legacy guides"
+        ]
+      }
+    ]
+  }
+]
