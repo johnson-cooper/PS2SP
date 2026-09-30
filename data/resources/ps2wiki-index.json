@@ -1,0 +1,218 @@
+[
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "PS2Wiki navigation, documentation, and PS2-specific guides indexed individually for search.",
+    "links": [
+      {
+        "name": "PS2Wiki — Home",
+        "url": "https://ps2wiki.github.io/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew wiki"
+        ]
+      },
+      {
+        "name": "PS2Wiki — Get Started",
+        "url": "https://ps2wiki.github.io/get_started.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "getting started",
+          "modding",
+          "models"
+        ]
+      },
+      {
+        "name": "PS2Wiki — Documentation",
+        "url": "https://ps2wiki.github.io/documentation.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "documentation",
+          "docs"
+        ]
+      },
+      {
+        "name": "PS2Wiki — Topics",
+        "url": "https://ps2wiki.github.io/categories.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "topics",
+          "guides"
+        ]
+      },
+      {
+        "name": "PS2Wiki — Archive",
+        "url": "https://ps2wiki.github.io/archive/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "archive",
+          "guides"
+        ]
+      },
+      {
+        "name": "PS2Wiki Docs — General",
+        "url": "https://ps2wiki.github.io/documentation/general/index.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "general",
+          "terms",
+          "accessories",
+          "mods"
+        ]
+      },
+      {
+        "name": "PS2Wiki Guide — Verify Game Backup Integrity",
+        "url": "https://ps2wiki.github.io/general/2024/02/19/verify-the-integrity-of-your-game-backups.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "Redump",
+          "MD5",
+          "verify",
+          "backup integrity"
+        ]
+      },
+      {
+        "name": "PS2Wiki Guide — Format Internal Storage",
+        "url": "https://ps2wiki.github.io/general/2024/02/04/format-ps2s-internal-storage.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "HDD",
+          "internal storage",
+          "format",
+          "wLaunchELF"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "PS2Wiki documentation for major PS2 homebrew applications and boot ecosystems.",
+    "links": [
+      {
+        "name": "PS2Wiki Docs — Open PS2 Loader",
+        "url": "https://ps2wiki.github.io/documentation/homebrew/Open-PS2-Loader/index.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "OPL",
+          "Open PS2 Loader"
+        ]
+      },
+      {
+        "name": "PS2Wiki — OPL Installation Megaguide",
+        "url": "https://ps2wiki.github.io/open-ps2-loader/2025/08/07/installation-megaguide.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "OPL",
+          "install",
+          "BDM",
+          "USB",
+          "MMCE",
+          "MX4SIO",
+          "HDD",
+          "SMB",
+          "UDPBD",
+          "iLink"
+        ]
+      },
+      {
+        "name": "PS2Wiki Docs — FreeMCBoot",
+        "url": "https://ps2wiki.github.io/documentation/homebrew/FreeMCBoot/index.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "FreeMCBoot",
+          "FMCB",
+          "boot"
+        ]
+      },
+      {
+        "name": "PS2Wiki Docs — Save Application System",
+        "url": "https://ps2wiki.github.io/documentation/homebrew/PS2-App-System/SAS/index.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "SAS",
+          "Save Application System",
+          "APP PSU"
+        ]
+      },
+      {
+        "name": "PS2Wiki Guide — Install App PSUs",
+        "url": "https://ps2wiki.github.io/ps2-app-system/sas/2024/12/13/how-to-install-app-psus.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "SAS",
+          "APP PSU",
+          "install"
+        ]
+      },
+      {
+        "name": "PS2Wiki Docs — POPStarter",
+        "url": "https://ps2wiki.github.io/documentation/homebrew/POPStarter/index.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "POPStarter",
+          "POPS",
+          "PS1"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Hardware, Mods & Accessories",
+    "description": "PS2Wiki accessory and hardware-mod guides.",
+    "links": [
+      {
+        "name": "PS2Wiki Guide — Update BlueRetro Firmware",
+        "url": "https://ps2wiki.github.io/blueretro/2024/09/23/updating-the-firmware.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "BlueRetro",
+          "Bluetooth",
+          "controller",
+          "firmware"
+        ]
+      },
+      {
+        "name": "PS2Wiki Guide — BlueRetro Button Remapping",
+        "url": "https://ps2wiki.github.io/blueretro/2024/09/23/how-to-swap-buttons-on-blueretro-via-bluetooth.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "BlueRetro",
+          "Bluetooth",
+          "controller",
+          "button remap"
+        ]
+      }
+    ]
+  }
+]
