@@ -1160,6 +1160,186 @@
         "url": "https://archive.org/details/play-station-2-mp-3-player",
         "favicon_url": "",
         "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Applications",
+        "url": "https://www.psdevwiki.com/ps2/Applications",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: DVD Player",
+        "url": "https://www.psdevwiki.com/ps2/DVD_Player",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Emulators",
+        "url": "https://www.psdevwiki.com/ps2/Emulators",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: FreeDVDBoot",
+        "url": "https://www.psdevwiki.com/ps2/FreeDVDBoot",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: FreeDVDBoot Compatibility List",
+        "url": "https://www.psdevwiki.com/ps2/FreeDVDBoot_Compatibility_List",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: FreeMCBoot/FreeHDBoot",
+        "url": "https://www.psdevwiki.com/ps2/FreeMCBoot/FreeHDBoot",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: HDD Utility Disc",
+        "url": "https://www.psdevwiki.com/ps2/HDD_Utility_Disc",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: HDL Dump",
+        "url": "https://www.psdevwiki.com/ps2/HDL_Dump",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: HDL Dump HOWTO",
+        "url": "https://www.psdevwiki.com/ps2/HDL_Dump_HOWTO",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: OPL - Open PS2 Loader",
+        "url": "https://www.psdevwiki.com/ps2/OPL_-_Open_PS2_Loader",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: OSDSYS",
+        "url": "https://www.psdevwiki.com/ps2/OSDSYS",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: PS2 Independence",
+        "url": "https://www.psdevwiki.com/ps2/PS2_Independence",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: PSMS Compatibility list",
+        "url": "https://www.psdevwiki.com/ps2/PSMS_Compatibility_list",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Swap Magic",
+        "url": "https://www.psdevwiki.com/ps2/Swap_Magic",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: System Updater",
+        "url": "https://www.psdevwiki.com/ps2/System_Updater",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Utility Disc",
+        "url": "https://www.psdevwiki.com/ps2/Utility_Disc",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Codebreaker",
+        "url": "https://consolemods.org/wiki/PS2:Codebreaker",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: FHDB",
+        "url": "https://consolemods.org/wiki/PS2:FHDB",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: FMCB",
+        "url": "https://consolemods.org/wiki/PS2:FMCB",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Fortuna/Opentuna",
+        "url": "https://consolemods.org/wiki/PS2:Fortuna/Opentuna",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: FreeDVDBoot",
+        "url": "https://consolemods.org/wiki/PS2:FreeDVDBoot",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: HDLGameInstaller",
+        "url": "https://consolemods.org/wiki/PS2:HDLGameInstaller",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: HD Loader Game Installer (HDLGameInstaller)",
+        "url": "https://consolemods.org/wiki/PS2:HD_Loader_Game_Installer_(HDLGameInstaller)",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: LaunchELF",
+        "url": "https://consolemods.org/wiki/PS2:LaunchELF",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: NTPS2",
+        "url": "https://consolemods.org/wiki/PS2:NTPS2",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Neutrino",
+        "url": "https://consolemods.org/wiki/PS2:Neutrino",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Open PS2 Loader (OPL)",
+        "url": "https://consolemods.org/wiki/PS2:Open_PS2_Loader_(OPL)",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: OrbitOPL Toolbox",
+        "url": "https://consolemods.org/wiki/PS2:OrbitOPL_Toolbox",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: PS2BBL",
+        "url": "https://consolemods.org/wiki/PS2:PS2BBL",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: PS2 Controller Tester",
+        "url": "https://consolemods.org/wiki/PS2:PS2_Controller_Tester",
+        "favicon_url": "",
+        "thumbnail_url": ""
       }
     ]
   },
@@ -1554,6 +1734,576 @@
       {
         "name": "Internet Archive: ScummVM Older Platform Binaries with PS2 Builds",
         "url": "https://archive.org/details/scummvm-oldbin",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: CPU",
+        "url": "https://www.psdevwiki.com/ps2/CPU",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Debugging Station",
+        "url": "https://www.psdevwiki.com/ps2/Debugging_Station",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Deckard",
+        "url": "https://www.psdevwiki.com/ps2/Deckard",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Device numbers",
+        "url": "https://www.psdevwiki.com/ps2/Device_numbers",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Drivers",
+        "url": "https://www.psdevwiki.com/ps2/Drivers",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: EELOAD",
+        "url": "https://www.psdevwiki.com/ps2/EELOAD",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: EE Syscalls",
+        "url": "https://www.psdevwiki.com/ps2/EE_Syscalls",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: ERX Files",
+        "url": "https://www.psdevwiki.com/ps2/ERX_Files",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: IOP",
+        "url": "https://www.psdevwiki.com/ps2/IOP",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: IOP/Deckard",
+        "url": "https://www.psdevwiki.com/ps2/IOP/Deckard",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: IRX Files",
+        "url": "https://www.psdevwiki.com/ps2/IRX_Files",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Keys",
+        "url": "https://www.psdevwiki.com/ps2/Keys",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: MBR",
+        "url": "https://www.psdevwiki.com/ps2/MBR",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Memory Map",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: PAK Files",
+        "url": "https://www.psdevwiki.com/ps2/PAK_Files",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: PSU",
+        "url": "https://www.psdevwiki.com/ps2/PSU",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: PlayStation 2 Tool",
+        "url": "https://www.psdevwiki.com/ps2/PlayStation_2_Tool",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: REL Files",
+        "url": "https://www.psdevwiki.com/ps2/REL_Files",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: ROM",
+        "url": "https://www.psdevwiki.com/ps2/ROM",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: ROM/Contents",
+        "url": "https://www.psdevwiki.com/ps2/ROM/Contents",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: S-Commands",
+        "url": "https://www.psdevwiki.com/ps2/S-Commands",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: STAR Files",
+        "url": "https://www.psdevwiki.com/ps2/STAR_Files",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Syscalls",
+        "url": "https://www.psdevwiki.com/ps2/Syscalls",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: System.cnf",
+        "url": "https://www.psdevwiki.com/ps2/System.cnf",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: System.ini",
+        "url": "https://www.psdevwiki.com/ps2/System.ini",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: TDB Start-up Card",
+        "url": "https://www.psdevwiki.com/ps2/TDB_Start-up_Card",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Xfrom",
+        "url": "https://www.psdevwiki.com/ps2/Xfrom",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Homebrew Games List",
+        "url": "https://consolemods.org/wiki/PS2:Homebrew_Games_List",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: common/include/fileXio.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/file_xio_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/usb/keyboard/include Directory Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/dir_e958439eae9e499529b4758660d27573.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/fs/romdrv Directory Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/dir_026e95636ee7a5fe61bdfe401a766815.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: Packet2 library",
+        "url": "https://ps2dev.github.io/ps2sdk/group__packet2.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: Globals",
+        "url": "https://ps2dev.github.io/ps2sdk/globals_defs_e.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/usb/camera/src/ps2cam.c File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/ps2cam_8c.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/memorycard/mcman/include/mcman.h File ...",
+        "url": "https://ps2dev.github.io/ps2sdk/mcman_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/mpeg/include/libmpeg.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/libmpeg_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/kernel/src/sifrpc.c Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/ee_2kernel_2src_2sifrpc_8c_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/usb/usbmass_bd/src/usb_mass.c Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/usb__mass_8c_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/kernel/include/kernel.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/kernel_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: intrman.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/intrman_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/memorycard/mcserv Directory Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/dir_841d05e6e469c6e67dc741c932691089.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: common/include/tamtypes.h Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/tamtypes_8h_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: File List",
+        "url": "https://ps2dev.github.io/ps2sdk/files.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: common/include/sys/random.h Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/random_8h_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: Data Fields",
+        "url": "https://ps2dev.github.io/ps2sdk/functions_s.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: tools/bin2c/src/bin2c.c Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/bin2c_8c_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: excepman.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/excepman_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: common/include/iox_stat.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/iox__stat_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/erl/include/erl.h Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/erl_8h_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/draw/include/draw_blending.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/draw__blending_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/rpc/pad/src/libpad.c Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/libpad_8c_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/dvrp/dvrdv Directory Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/dir_afbf9061e6cd2939a0cc5b3ca7d5328d.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/libcglue/src/sjis.c File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/sjis_8c.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/startup/src/crt0.c Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/ee_2startup_2src_2crt0_8c_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/system/alloc/include/alloc.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/alloc_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/draw/include/draw3d.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/draw3d_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/kernel/include/fileio.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/fileio_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/rpc/remote/include Directory Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/dir_fa645703e9d75d6dc5aaf566568fec79.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/system/iomanx/src/iomanX.c File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/ioman_x_8c.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/kernel/include/timer.h Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/timer_8h_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/rpc/hdd/include/libhdd.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/libhdd_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/draw/include/draw2d.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/draw2d_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/sio/sio2man/src/log.c File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/log_8c.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/kernel/include/sifdma.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/sifdma_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/sbv/src/patch_enable_lmb.c File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/patch__enable__lmb_8c.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/kernel/src/osd_config.c File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/osd__config_8c.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: Globals",
+        "url": "https://ps2dev.github.io/ps2sdk/globals_eval.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: iop/fs/bdm/src/bdm.c Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/bdm_8c_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: common/include/netman.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/netman_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/system/threadman/include/thbase.h File ...",
+        "url": "https://ps2dev.github.io/ps2sdk/thbase_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/rpc/secr/src/libsecr.c Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/libsecr_8c_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/sbv Directory Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/dir_3c99d3595cafa99f0e2683197c97edf9.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/sound/audsrv/src/cdrom.c File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/cdrom_8c.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: Data Fields",
+        "url": "https://ps2dev.github.io/ps2sdk/functions_f.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/tcpip/tcpip/src/ps2ip.c File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/iop_2tcpip_2tcpip_2src_2ps2ip_8c.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/arcade/acatad/src/acatad.c Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/acatad_8c_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/arcade/accore/src/dev9.c Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/dev9_8c_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: Types",
+        "url": "https://ps2dev.github.io/ps2sdk/group__packet2__types.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/debug/include/debug.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/ee_2debug_2include_2debug_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/kernel/include/sio.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/sio_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: Data Structure Index",
+        "url": "https://ps2dev.github.io/ps2sdk/classes.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/sio/sio2man/include/xsio2man.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/xsio2man_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/system/siftoo/src/siftoo.c Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/siftoo_8c_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: ee/kernel/src/debug.c Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/debug_8c_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: math3d.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/math3d_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/kernel/src/initsys.c File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/initsys_8c.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/kernel/src/osdsrc/src/ExecPS2.c Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/_exec_p_s2_8c_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/network/tcpip/src/ps2ip.c Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/ee_2network_2tcpip_2src_2ps2ip_8c_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/kernel/src/delaythread.c Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/delaythread_8c_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/cdvd/cdvdman/include/cdvdman.h Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/cdvdman_8h_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/font/include/font.h File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/font_8h.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/rpc/filexio/include/fileXio_rpc.h Source File",
+        "url": "https://ps2dev.github.io/ps2sdk/file_xio__rpc_8h_source.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: ee/kernel/src/sio.c File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/sio_8c.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/cdvd/cdfs/src Directory Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/dir_bfefd3566efd1047bfb5ae95f609b467.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2SDK Docs: PS2SDK: iop/sio/sio2man/src/sio2man.c File Reference",
+        "url": "https://ps2dev.github.io/ps2sdk/sio2man_8c.html",
         "favicon_url": "",
         "thumbnail_url": ""
       }
@@ -2258,6 +3008,576 @@
         "url": "https://archive.org/details/github.com-MechaResearch-MechaPwn_-_2024-03-28_10-38-07",
         "favicon_url": "",
         "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: A/V out electronics",
+        "url": "https://www.psdevwiki.com/ps2/A/V_out_electronics",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Arcade Boards",
+        "url": "https://www.psdevwiki.com/ps2/Arcade_Boards",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Bios",
+        "url": "https://www.psdevwiki.com/ps2/Bios",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: CDVD Drive",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: CXD9764GP",
+        "url": "https://www.psdevwiki.com/ps2/CXD9764GP",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Chassis types",
+        "url": "https://www.psdevwiki.com/ps2/Chassis_types",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Clocks",
+        "url": "https://www.psdevwiki.com/ps2/Clocks",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: ConsoleID",
+        "url": "https://www.psdevwiki.com/ps2/ConsoleID",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Controllers",
+        "url": "https://www.psdevwiki.com/ps2/Controllers",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: DEV9C",
+        "url": "https://www.psdevwiki.com/ps2/DEV9C",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: DRAM",
+        "url": "https://www.psdevwiki.com/ps2/DRAM",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: DSP",
+        "url": "https://www.psdevwiki.com/ps2/DSP",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: DVRP",
+        "url": "https://www.psdevwiki.com/ps2/DVRP",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: EE+GS",
+        "url": "https://www.psdevwiki.com/ps2/EE%2BGS",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: EmotionEngine",
+        "url": "https://www.psdevwiki.com/ps2/EmotionEngine",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Emotion Engine",
+        "url": "https://www.psdevwiki.com/ps2/Emotion_Engine",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: EyeToy",
+        "url": "https://www.psdevwiki.com/ps2/EyeToy",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Fan",
+        "url": "https://www.psdevwiki.com/ps2/Fan",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: GD-011",
+        "url": "https://www.psdevwiki.com/ps2/GD-011",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: GD-012",
+        "url": "https://www.psdevwiki.com/ps2/GD-012",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: GD-013",
+        "url": "https://www.psdevwiki.com/ps2/GD-013",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: GH-001",
+        "url": "https://www.psdevwiki.com/ps2/GH-001",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: GH-003",
+        "url": "https://www.psdevwiki.com/ps2/GH-003",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: GH-004",
+        "url": "https://www.psdevwiki.com/ps2/GH-004",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: GH-005",
+        "url": "https://www.psdevwiki.com/ps2/GH-005",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: GH-006",
+        "url": "https://www.psdevwiki.com/ps2/GH-006",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: GH-007",
+        "url": "https://www.psdevwiki.com/ps2/GH-007",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: GH-010",
+        "url": "https://www.psdevwiki.com/ps2/GH-010",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: GH-022",
+        "url": "https://www.psdevwiki.com/ps2/GH-022",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: GScube",
+        "url": "https://www.psdevwiki.com/ps2/GScube",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Graphics Synthesizer",
+        "url": "https://www.psdevwiki.com/ps2/Graphics_Synthesizer",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: HDD controller",
+        "url": "https://www.psdevwiki.com/ps2/HDD_controller",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Hard Drive",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Heatsink",
+        "url": "https://www.psdevwiki.com/ps2/Heatsink",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Interfaces",
+        "url": "https://www.psdevwiki.com/ps2/Interfaces",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: KHS-400A",
+        "url": "https://www.psdevwiki.com/ps2/KHS-400A",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: KHS-400B",
+        "url": "https://www.psdevwiki.com/ps2/KHS-400B",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: KHS-400C",
+        "url": "https://www.psdevwiki.com/ps2/KHS-400C",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: MechaCon",
+        "url": "https://www.psdevwiki.com/ps2/MechaCon",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: MechaCon/Dragon EEPROM layout",
+        "url": "https://www.psdevwiki.com/ps2/MechaCon/Dragon_EEPROM_layout",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: MechaCon/SPC970 EEPROM layout",
+        "url": "https://www.psdevwiki.com/ps2/MechaCon/SPC970_EEPROM_layout",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: MechaCon/UART commands",
+        "url": "https://www.psdevwiki.com/ps2/MechaCon/UART_commands",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: MechaCon/UART commands/Dragon",
+        "url": "https://www.psdevwiki.com/ps2/MechaCon/UART_commands/Dragon",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: MechaCon/UART commands/SPC970",
+        "url": "https://www.psdevwiki.com/ps2/MechaCon/UART_commands/SPC970",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: MechaCon Firmware",
+        "url": "https://www.psdevwiki.com/ps2/MechaCon_Firmware",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Memory Card",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Card",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Modchips",
+        "url": "https://www.psdevwiki.com/ps2/Modchips",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Motherboards",
+        "url": "https://www.psdevwiki.com/ps2/Motherboards",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Multitap",
+        "url": "https://www.psdevwiki.com/ps2/Multitap",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Peripherals",
+        "url": "https://www.psdevwiki.com/ps2/Peripherals",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Pickups",
+        "url": "https://www.psdevwiki.com/ps2/Pickups",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: PlayStation 2",
+        "url": "https://www.psdevwiki.com/ps2/PlayStation_2",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Power",
+        "url": "https://www.psdevwiki.com/ps2/Power",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Power Supply",
+        "url": "https://www.psdevwiki.com/ps2/Power_Supply",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Prototypes",
+        "url": "https://www.psdevwiki.com/ps2/Prototypes",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: RF-Amp",
+        "url": "https://www.psdevwiki.com/ps2/RF-Amp",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: RTC",
+        "url": "https://www.psdevwiki.com/ps2/RTC",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Rambus DRAM",
+        "url": "https://www.psdevwiki.com/ps2/Rambus_DRAM",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Remote Control",
+        "url": "https://www.psdevwiki.com/ps2/Remote_Control",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: SBIOS",
+        "url": "https://www.psdevwiki.com/ps2/SBIOS",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: SCPH-50009",
+        "url": "https://www.psdevwiki.com/ps2/SCPH-50009",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: SF-HD7",
+        "url": "https://www.psdevwiki.com/ps2/SF-HD7",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: SKU Models",
+        "url": "https://www.psdevwiki.com/ps2/SKU_Models",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: SKU Regioning",
+        "url": "https://www.psdevwiki.com/ps2/SKU_Regioning",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: SPEED",
+        "url": "https://www.psdevwiki.com/ps2/SPEED",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: SPU2",
+        "url": "https://www.psdevwiki.com/ps2/SPU2",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: SSBUS controller",
+        "url": "https://www.psdevwiki.com/ps2/SSBUS_controller",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Sony BRAVIA KDL22PX300",
+        "url": "https://www.psdevwiki.com/ps2/Sony_BRAVIA_KDL22PX300",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Sony WEGA HVX Series",
+        "url": "https://www.psdevwiki.com/ps2/Sony_WEGA_HVX_Series",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Storage",
+        "url": "https://www.psdevwiki.com/ps2/Storage",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: SysCon",
+        "url": "https://www.psdevwiki.com/ps2/SysCon",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Test points",
+        "url": "https://www.psdevwiki.com/ps2/Test_points",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Test points/CDVD analog",
+        "url": "https://www.psdevwiki.com/ps2/Test_points/CDVD_analog",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Test points/MechaCon UART",
+        "url": "https://www.psdevwiki.com/ps2/Test_points/MechaCon_UART",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Thermal",
+        "url": "https://www.psdevwiki.com/ps2/Thermal",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Thermal sensors",
+        "url": "https://www.psdevwiki.com/ps2/Thermal_sensors",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: USB",
+        "url": "https://www.psdevwiki.com/ps2/USB",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Versions (unofficial)",
+        "url": "https://www.psdevwiki.com/ps2/Versions_(unofficial)",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Audio Information",
+        "url": "https://consolemods.org/wiki/PS2:Audio_Information",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: EE Serial Output",
+        "url": "https://consolemods.org/wiki/PS2:EE_Serial_Output",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Fan Replacement",
+        "url": "https://consolemods.org/wiki/PS2:Fan_Replacement",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Hard Drive Compatibility",
+        "url": "https://consolemods.org/wiki/PS2:Hard_Drive_Compatibility",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: MechaCon Crash",
+        "url": "https://consolemods.org/wiki/PS2:MechaCon_Crash",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Mechapwn",
+        "url": "https://consolemods.org/wiki/PS2:Mechapwn",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: PS2 Model Differences",
+        "url": "https://consolemods.org/wiki/PS2:PS2_Model_Differences",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: PSX HDD Imaging",
+        "url": "https://consolemods.org/wiki/PS2:PSX_HDD_Imaging",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Power Supply Repair",
+        "url": "https://consolemods.org/wiki/PS2:Power_Supply_Repair",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Region Information",
+        "url": "https://consolemods.org/wiki/PS2:Region_Information",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Resetting Component Video Out Setting",
+        "url": "https://consolemods.org/wiki/PS2:Resetting_Component_Video_Out_Setting",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: SATA Board for LAN Adapter",
+        "url": "https://consolemods.org/wiki/PS2:SATA_Board_for_LAN_Adapter",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Slim Hard Drive Mods",
+        "url": "https://consolemods.org/wiki/PS2:Slim_Hard_Drive_Mods",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Using a Broken PSX as a PS2",
+        "url": "https://consolemods.org/wiki/PS2:Using_a_Broken_PSX_as_a_PS2",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Using a broken PSX as a PS2",
+        "url": "https://consolemods.org/wiki/PS2:Using_a_broken_PSX_as_a_PS2",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Video Cables",
+        "url": "https://consolemods.org/wiki/PS2:Video_Cables",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Video Output Notes",
+        "url": "https://consolemods.org/wiki/PS2:Video_Output_Notes",
+        "favicon_url": "",
+        "thumbnail_url": ""
       }
     ]
   },
@@ -2406,6 +3726,42 @@
       {
         "name": "Internet Archive: PS2 Network Access Disc (PAL)",
         "url": "https://archive.org/details/networkDisc",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: DNAS",
+        "url": "https://www.psdevwiki.com/ps2/DNAS",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Network Access Disc",
+        "url": "https://www.psdevwiki.com/ps2/Network_Access_Disc",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Network Adaptor Start-Up Disc",
+        "url": "https://www.psdevwiki.com/ps2/Network_Adaptor_Start-Up_Disc",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: DNAS",
+        "url": "https://consolemods.org/wiki/PS2:DNAS",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Setting up LAN multiplayer",
+        "url": "https://consolemods.org/wiki/PS2:Setting_up_LAN_multiplayer",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: XLink Kai",
+        "url": "https://consolemods.org/wiki/PS2:XLink_Kai",
         "favicon_url": "",
         "thumbnail_url": ""
       }
@@ -2954,6 +4310,174 @@
         "url": "https://archive.org/details/god-of-war-ii-ps2-hiresscans",
         "favicon_url": "",
         "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: CDVD Commands",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Commands",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Games With Alternative Display Modes",
+        "url": "https://www.psdevwiki.com/ps2/Games_With_Alternative_Display_Modes",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: ICN Files",
+        "url": "https://www.psdevwiki.com/ps2/ICN_Files",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Languages",
+        "url": "https://www.psdevwiki.com/ps2/Languages",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: MagicGate",
+        "url": "https://www.psdevwiki.com/ps2/MagicGate",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Magic Gate",
+        "url": "https://www.psdevwiki.com/ps2/Magic_Gate",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Main Page",
+        "url": "https://www.psdevwiki.com/ps2/Main_Page",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: PMAP",
+        "url": "https://www.psdevwiki.com/ps2/PMAP",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: PS1DRV",
+        "url": "https://www.psdevwiki.com/ps2/PS1DRV",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: PS2 Heavy Gamers",
+        "url": "https://www.psdevwiki.com/ps2/PS2_Heavy_Gamers",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: PS2 Teams",
+        "url": "https://www.psdevwiki.com/ps2/PS2_Teams",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: PSX",
+        "url": "https://www.psdevwiki.com/ps2/PSX",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: PlayStation 2 - PS2",
+        "url": "https://www.psdevwiki.com/ps2/PlayStation_2_-_PS2",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Removed",
+        "url": "https://www.psdevwiki.com/ps2/Removed",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Savedata",
+        "url": "https://www.psdevwiki.com/ps2/Savedata",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Vulnerabilities",
+        "url": "https://www.psdevwiki.com/ps2/Vulnerabilities",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Backing up PS2 Games",
+        "url": "https://consolemods.org/wiki/PS2:Backing_up_PS2_Games",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Creating Game Backups",
+        "url": "https://consolemods.org/wiki/PS2:Creating_Game_Backups",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Creating Game Save Backups",
+        "url": "https://consolemods.org/wiki/PS2:Creating_Game_Save_Backups",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Error Screens",
+        "url": "https://consolemods.org/wiki/PS2:Error_Screens",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Frequently Asked Questions (FAQ)",
+        "url": "https://consolemods.org/wiki/PS2:Frequently_Asked_Questions_(FAQ)",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Games with Alternative Display Modes",
+        "url": "https://consolemods.org/wiki/PS2:Games_with_Alternative_Display_Modes",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Getting started",
+        "url": "https://consolemods.org/wiki/PS2:Getting_started",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Hdl dump",
+        "url": "https://consolemods.org/wiki/PS2:Hdl_dump",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: PS1 and PS2 Compatibility",
+        "url": "https://consolemods.org/wiki/PS2:PS1_and_PS2_Compatibility",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: PS2 Mods Wiki",
+        "url": "https://consolemods.org/wiki/PS2:PS2_Mods_Wiki",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Playing Game Backups",
+        "url": "https://consolemods.org/wiki/PS2:Playing_Game_Backups",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "ConsoleMods PS2: Scene History",
+        "url": "https://consolemods.org/wiki/PS2:Scene_History",
+        "favicon_url": "",
+        "thumbnail_url": ""
       }
     ]
   },
@@ -3162,6 +4686,18 @@
       {
         "name": "Internet Archive: PlayStation 2 HDDOSD 100J Browser 2.0 LBA48",
         "url": "https://archive.org/details/PS2_HDDOSD_100J_48BIT",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: Broadband Navigator",
+        "url": "https://www.psdevwiki.com/ps2/Broadband_Navigator",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2 Developer Wiki: PSX Update Disc",
+        "url": "https://www.psdevwiki.com/ps2/PSX_Update_Disc",
         "favicon_url": "",
         "thumbnail_url": ""
       }
