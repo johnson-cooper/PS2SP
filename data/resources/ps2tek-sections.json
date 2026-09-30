@@ -1,0 +1,1843 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Deep section-level index of ps2tek hardware and low-level PlayStation 2 internals documentation.",
+    "links": [
+      {
+        "name": "ps2tek: PS2 Overview",
+        "url": "https://psi-rockin.github.io/ps2tek/#ps2overview",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "PS2 Overview",
+          "PS2",
+          "Overview"
+        ]
+      },
+      {
+        "name": "ps2tek: Memory Map",
+        "url": "https://psi-rockin.github.io/ps2tek/#memorymap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "Memory Map",
+          "Memory",
+          "Map"
+        ]
+      },
+      {
+        "name": "ps2tek: I/O Maps",
+        "url": "https://psi-rockin.github.io/ps2tek/#iomaps",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "I/O Maps",
+          "I",
+          "O",
+          "Maps"
+        ]
+      },
+      {
+        "name": "ps2tek: Emotion Engine (EE)",
+        "url": "https://psi-rockin.github.io/ps2tek/#ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "Emotion Engine (EE)",
+          "Emotion",
+          "Engine",
+          "EE"
+        ]
+      },
+      {
+        "name": "ps2tek: EE Timers",
+        "url": "https://psi-rockin.github.io/ps2tek/#eetimers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "EE Timers",
+          "EE",
+          "Timers"
+        ]
+      },
+      {
+        "name": "ps2tek: Graphics Interface (GIF)",
+        "url": "https://psi-rockin.github.io/ps2tek/#gif",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "Graphics Interface (GIF)",
+          "Graphics",
+          "Interface",
+          "GIF"
+        ]
+      },
+      {
+        "name": "ps2tek: DMA Controller (DMAC)",
+        "url": "https://psi-rockin.github.io/ps2tek/#dmac",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "DMA Controller (DMAC)",
+          "DMA",
+          "Controller",
+          "DMAC"
+        ]
+      },
+      {
+        "name": "ps2tek: Graphics Synthesizer (GS)",
+        "url": "https://psi-rockin.github.io/ps2tek/#gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "Graphics Synthesizer (GS)",
+          "Graphics",
+          "Synthesizer",
+          "GS"
+        ]
+      },
+      {
+        "name": "ps2tek: Vector Interface (VIF)",
+        "url": "https://psi-rockin.github.io/ps2tek/#vif",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "Vector Interface (VIF)",
+          "Vector",
+          "Interface",
+          "VIF"
+        ]
+      },
+      {
+        "name": "ps2tek: Vector Unit (VU)",
+        "url": "https://psi-rockin.github.io/ps2tek/#vu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "Vector Unit (VU)",
+          "Vector",
+          "Unit",
+          "VU"
+        ]
+      },
+      {
+        "name": "ps2tek: Image Processing Unit (IPU)",
+        "url": "https://psi-rockin.github.io/ps2tek/#ipu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "Image Processing Unit (IPU)",
+          "Image",
+          "Processing",
+          "Unit",
+          "IPU"
+        ]
+      },
+      {
+        "name": "ps2tek: EE Interrupt Controller (INTC)",
+        "url": "https://psi-rockin.github.io/ps2tek/#eeintc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "EE Interrupt Controller (INTC)",
+          "EE",
+          "Interrupt",
+          "Controller",
+          "INTC"
+        ]
+      },
+      {
+        "name": "ps2tek: IOP Hardware and Peripherals",
+        "url": "https://psi-rockin.github.io/ps2tek/#iophardware",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "IOP Hardware and Peripherals",
+          "IOP",
+          "Hardware",
+          "and",
+          "Peripherals"
+        ]
+      },
+      {
+        "name": "ps2tek: Subsystem Interface (SIF)",
+        "url": "https://psi-rockin.github.io/ps2tek/#sif",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "Subsystem Interface (SIF)",
+          "Subsystem",
+          "Interface",
+          "SIF"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS",
+        "url": "https://psi-rockin.github.io/ps2tek/#bios",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS",
+          "BIOS"
+        ]
+      },
+      {
+        "name": "ps2tek: EE Architecture",
+        "url": "https://psi-rockin.github.io/ps2tek/#eearchitecture",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "EE Architecture",
+          "EE",
+          "Architecture"
+        ]
+      },
+      {
+        "name": "ps2tek: EE Registers",
+        "url": "https://psi-rockin.github.io/ps2tek/#eeregisters",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "EE Registers",
+          "EE",
+          "Registers"
+        ]
+      },
+      {
+        "name": "ps2tek: EE Instruction Decoding",
+        "url": "https://psi-rockin.github.io/ps2tek/#eeinstructiondecoding",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "EE Instruction Decoding",
+          "EE",
+          "Instruction",
+          "Decoding"
+        ]
+      },
+      {
+        "name": "ps2tek: EE RDRAM Initialization",
+        "url": "https://psi-rockin.github.io/ps2tek/#eerdram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "EE RDRAM Initialization",
+          "EE",
+          "RDRAM",
+          "Initialization"
+        ]
+      },
+      {
+        "name": "ps2tek: EE COP0 Registers",
+        "url": "https://psi-rockin.github.io/ps2tek/#eecop0registers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "EE COP0 Registers",
+          "EE",
+          "COP0",
+          "Registers"
+        ]
+      },
+      {
+        "name": "ps2tek: EE COP0 Exception Handling",
+        "url": "https://psi-rockin.github.io/ps2tek/#eecop0exceptionhandling",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "EE COP0 Exception Handling",
+          "EE",
+          "COP0",
+          "Exception",
+          "Handling"
+        ]
+      },
+      {
+        "name": "ps2tek: EE COP0 Memory Management",
+        "url": "https://psi-rockin.github.io/ps2tek/#eecop0memorymanagement",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "EE COP0 Memory Management",
+          "EE",
+          "COP0",
+          "Memory",
+          "Management"
+        ]
+      },
+      {
+        "name": "ps2tek: EE COP0 Caches",
+        "url": "https://psi-rockin.github.io/ps2tek/#eecop0caches",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "EE COP0 Caches",
+          "EE",
+          "COP0",
+          "Caches"
+        ]
+      },
+      {
+        "name": "ps2tek: EE COP0 Timer",
+        "url": "https://psi-rockin.github.io/ps2tek/#eecop0timer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "EE COP0 Timer",
+          "EE",
+          "COP0",
+          "Timer"
+        ]
+      },
+      {
+        "name": "ps2tek: EE COP1 Registers",
+        "url": "https://psi-rockin.github.io/ps2tek/#eecop1registers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "EE COP1 Registers",
+          "EE",
+          "COP1",
+          "Registers"
+        ]
+      },
+      {
+        "name": "ps2tek: EE COP1 Floating Point Format",
+        "url": "https://psi-rockin.github.io/ps2tek/#eecop1floatingpointformat",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "EE COP1 Floating Point Format",
+          "EE",
+          "COP1",
+          "Floating",
+          "Point",
+          "Format"
+        ]
+      },
+      {
+        "name": "ps2tek: GIF I/O Registers",
+        "url": "https://psi-rockin.github.io/ps2tek/#gifio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "GIF I/O Registers",
+          "GIF",
+          "I",
+          "O",
+          "Registers"
+        ]
+      },
+      {
+        "name": "ps2tek: GIF Tags",
+        "url": "https://psi-rockin.github.io/ps2tek/#giftags",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "GIF Tags",
+          "GIF",
+          "Tags"
+        ]
+      },
+      {
+        "name": "ps2tek: GIF Data Formats",
+        "url": "https://psi-rockin.github.io/ps2tek/#gifdataformats",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "GIF Data Formats",
+          "GIF",
+          "Data",
+          "Formats"
+        ]
+      },
+      {
+        "name": "ps2tek: GIF PATH3 Masking",
+        "url": "https://psi-rockin.github.io/ps2tek/#gifpath3masking",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "GIF PATH3 Masking",
+          "GIF",
+          "PATH3",
+          "Masking"
+        ]
+      },
+      {
+        "name": "ps2tek: DMAC I/O Registers",
+        "url": "https://psi-rockin.github.io/ps2tek/#dmacio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "DMAC I/O Registers",
+          "DMAC",
+          "I",
+          "O",
+          "Registers"
+        ]
+      },
+      {
+        "name": "ps2tek: DMAC Chain Mode",
+        "url": "https://psi-rockin.github.io/ps2tek/#dmacchainmode",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "DMAC Chain Mode",
+          "DMAC",
+          "Chain",
+          "Mode"
+        ]
+      },
+      {
+        "name": "ps2tek: DMAC MFIFO",
+        "url": "https://psi-rockin.github.io/ps2tek/#dmacmfifo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "DMAC MFIFO",
+          "DMAC",
+          "MFIFO"
+        ]
+      },
+      {
+        "name": "ps2tek: DMAC Interrupts",
+        "url": "https://psi-rockin.github.io/ps2tek/#dmacint",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "DMAC Interrupts",
+          "DMAC",
+          "Interrupts"
+        ]
+      },
+      {
+        "name": "ps2tek: GS Register List",
+        "url": "https://psi-rockin.github.io/ps2tek/#gsregisterlist",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "GS Register List",
+          "GS",
+          "Register",
+          "List"
+        ]
+      },
+      {
+        "name": "ps2tek: GS Primitives",
+        "url": "https://psi-rockin.github.io/ps2tek/#gsprimitives",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "GS Primitives",
+          "GS",
+          "Primitives"
+        ]
+      },
+      {
+        "name": "ps2tek: GS Vertex Attributes",
+        "url": "https://psi-rockin.github.io/ps2tek/#gsvertexattributes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "GS Vertex Attributes",
+          "GS",
+          "Vertex",
+          "Attributes"
+        ]
+      },
+      {
+        "name": "ps2tek: GS Frame and Z Buffers",
+        "url": "https://psi-rockin.github.io/ps2tek/#gsframeandzbuffers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "GS Frame and Z Buffers",
+          "GS",
+          "Frame",
+          "and",
+          "Z",
+          "Buffers"
+        ]
+      },
+      {
+        "name": "ps2tek: GS Transfers",
+        "url": "https://psi-rockin.github.io/ps2tek/#gstransfers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "GS Transfers",
+          "GS",
+          "Transfers"
+        ]
+      },
+      {
+        "name": "ps2tek: GS Textures",
+        "url": "https://psi-rockin.github.io/ps2tek/#gstextures",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "GS Textures",
+          "GS",
+          "Textures"
+        ]
+      },
+      {
+        "name": "ps2tek: GS Fog",
+        "url": "https://psi-rockin.github.io/ps2tek/#gsfog",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "GS Fog",
+          "GS",
+          "Fog"
+        ]
+      },
+      {
+        "name": "ps2tek: GS Alpha Blending",
+        "url": "https://psi-rockin.github.io/ps2tek/#gsalphablending",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "GS Alpha Blending",
+          "GS",
+          "Alpha",
+          "Blending"
+        ]
+      },
+      {
+        "name": "ps2tek: GS Tests and Pixel Control",
+        "url": "https://psi-rockin.github.io/ps2tek/#gstestsandpixelcontrol",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "GS Tests and Pixel Control",
+          "GS",
+          "Tests",
+          "and",
+          "Pixel",
+          "Control"
+        ]
+      },
+      {
+        "name": "ps2tek: GS Special Effects",
+        "url": "https://psi-rockin.github.io/ps2tek/#gsspecialeffects",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "GS Special Effects",
+          "GS",
+          "Special",
+          "Effects"
+        ]
+      },
+      {
+        "name": "ps2tek: VIF I/O Registers",
+        "url": "https://psi-rockin.github.io/ps2tek/#vifioregisters",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "VIF I/O Registers",
+          "VIF",
+          "I",
+          "O",
+          "Registers"
+        ]
+      },
+      {
+        "name": "ps2tek: VIF Commands",
+        "url": "https://psi-rockin.github.io/ps2tek/#vifcommands",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "VIF Commands",
+          "VIF",
+          "Commands"
+        ]
+      },
+      {
+        "name": "ps2tek: VIF UNPACK",
+        "url": "https://psi-rockin.github.io/ps2tek/#vifunpack",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "VIF UNPACK",
+          "VIF",
+          "UNPACK"
+        ]
+      },
+      {
+        "name": "ps2tek: VU Architecture",
+        "url": "https://psi-rockin.github.io/ps2tek/#vuarchitecture",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "VU Architecture",
+          "VU",
+          "Architecture"
+        ]
+      },
+      {
+        "name": "ps2tek: VU Registers",
+        "url": "https://psi-rockin.github.io/ps2tek/#vuregisters",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "VU Registers",
+          "VU",
+          "Registers"
+        ]
+      },
+      {
+        "name": "ps2tek: VU Instruction Format",
+        "url": "https://psi-rockin.github.io/ps2tek/#vuinstructionformat",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "VU Instruction Format",
+          "VU",
+          "Instruction",
+          "Format"
+        ]
+      },
+      {
+        "name": "ps2tek: VU Pipelining",
+        "url": "https://psi-rockin.github.io/ps2tek/#vupipelining",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "VU Pipelining",
+          "VU",
+          "Pipelining"
+        ]
+      },
+      {
+        "name": "ps2tek: IPU I/O Registers",
+        "url": "https://psi-rockin.github.io/ps2tek/#ipuioregisters",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "IPU I/O Registers",
+          "IPU",
+          "I",
+          "O",
+          "Registers"
+        ]
+      },
+      {
+        "name": "ps2tek: IPU Commands",
+        "url": "https://psi-rockin.github.io/ps2tek/#ipucommands",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "IPU Commands",
+          "IPU",
+          "Commands"
+        ]
+      },
+      {
+        "name": "ps2tek: CDVD Drive",
+        "url": "https://psi-rockin.github.io/ps2tek/#cdvd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "CDVD Drive",
+          "CDVD",
+          "Drive"
+        ]
+      },
+      {
+        "name": "ps2tek: SPU2",
+        "url": "https://psi-rockin.github.io/ps2tek/#spu2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "SPU2",
+          "SPU2"
+        ]
+      },
+      {
+        "name": "ps2tek: SIO2",
+        "url": "https://psi-rockin.github.io/ps2tek/#sio2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "SIO2",
+          "SIO2"
+        ]
+      },
+      {
+        "name": "ps2tek: IOP Interrupt Controller",
+        "url": "https://psi-rockin.github.io/ps2tek/#iopint",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "IOP Interrupt Controller",
+          "IOP",
+          "Interrupt",
+          "Controller"
+        ]
+      },
+      {
+        "name": "ps2tek: IOP DMA",
+        "url": "https://psi-rockin.github.io/ps2tek/#iopdma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "IOP DMA",
+          "IOP",
+          "DMA"
+        ]
+      },
+      {
+        "name": "ps2tek: IOP Timers",
+        "url": "https://psi-rockin.github.io/ps2tek/#ioptimers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "IOP Timers",
+          "IOP",
+          "Timers"
+        ]
+      },
+      {
+        "name": "ps2tek: IOP Console",
+        "url": "https://psi-rockin.github.io/ps2tek/#iopconsole",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "IOP Console",
+          "IOP",
+          "Console"
+        ]
+      },
+      {
+        "name": "ps2tek: CDVD I/O Ports",
+        "url": "https://psi-rockin.github.io/ps2tek/#cdvdioports",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "CDVD I/O Ports",
+          "CDVD",
+          "I",
+          "O",
+          "Ports"
+        ]
+      },
+      {
+        "name": "ps2tek: CDVD N-Commands",
+        "url": "https://psi-rockin.github.io/ps2tek/#cdvdncommands",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "CDVD N-Commands",
+          "CDVD",
+          "N",
+          "Commands"
+        ]
+      },
+      {
+        "name": "ps2tek: CDVD Reads and Seeks",
+        "url": "https://psi-rockin.github.io/ps2tek/#cdvdreadsandseeks",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "CDVD Reads and Seeks",
+          "CDVD",
+          "Reads",
+          "and",
+          "Seeks"
+        ]
+      },
+      {
+        "name": "ps2tek: CDVD S-Commands",
+        "url": "https://psi-rockin.github.io/ps2tek/#cdvdscommands",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "CDVD S-Commands",
+          "CDVD",
+          "S",
+          "Commands"
+        ]
+      },
+      {
+        "name": "ps2tek: SPU2 AutoDMA",
+        "url": "https://psi-rockin.github.io/ps2tek/#spu2autodma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "SPU2 AutoDMA",
+          "SPU2",
+          "AutoDMA"
+        ]
+      },
+      {
+        "name": "ps2tek: SIO2 Registers",
+        "url": "https://psi-rockin.github.io/ps2tek/#sio2registers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "SIO2 Registers",
+          "SIO2",
+          "Registers"
+        ]
+      },
+      {
+        "name": "ps2tek: SIO2 PS2 Memory Cards",
+        "url": "https://psi-rockin.github.io/ps2tek/#sio2ps2memcards",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "SIO2 PS2 Memory Cards",
+          "SIO2",
+          "PS2",
+          "Memory",
+          "Cards"
+        ]
+      },
+      {
+        "name": "ps2tek: SIO2 PS2 Memory Card Filesystem",
+        "url": "https://psi-rockin.github.io/ps2tek/#sio2ps2memcardfilesystem",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "SIO2 PS2 Memory Card Filesystem",
+          "SIO2",
+          "PS2",
+          "Memory",
+          "Card",
+          "Filesystem"
+        ]
+      },
+      {
+        "name": "ps2tek: SIO2 Controller Commands",
+        "url": "https://psi-rockin.github.io/ps2tek/#sio2controllercommands",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "SIO2 Controller Commands",
+          "SIO2",
+          "Controller",
+          "Commands"
+        ]
+      },
+      {
+        "name": "ps2tek: SIO2 Standard Controllers",
+        "url": "https://psi-rockin.github.io/ps2tek/#sio2standardcontrollers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "SIO2 Standard Controllers",
+          "SIO2",
+          "Standard",
+          "Controllers"
+        ]
+      },
+      {
+        "name": "ps2tek: SIF Registers",
+        "url": "https://psi-rockin.github.io/ps2tek/#sifregisters",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "SIF Registers",
+          "SIF",
+          "Registers"
+        ]
+      },
+      {
+        "name": "ps2tek: SIF DMA",
+        "url": "https://psi-rockin.github.io/ps2tek/#sifdma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "SIF DMA",
+          "SIF",
+          "DMA"
+        ]
+      },
+      {
+        "name": "ps2tek: SIF RPC Basics",
+        "url": "https://psi-rockin.github.io/ps2tek/#sifrpcbasics",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "SIF RPC Basics",
+          "SIF",
+          "RPC",
+          "Basics"
+        ]
+      },
+      {
+        "name": "ps2tek: SIF RPC Structures",
+        "url": "https://psi-rockin.github.io/ps2tek/#sifrpcstructs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "SIF RPC Structures",
+          "SIF",
+          "RPC",
+          "Structures"
+        ]
+      },
+      {
+        "name": "ps2tek: SIF RPC Commands",
+        "url": "https://psi-rockin.github.io/ps2tek/#sifrpccommands",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "SIF RPC Commands",
+          "SIF",
+          "RPC",
+          "Commands"
+        ]
+      },
+      {
+        "name": "ps2tek: SIF RPC System Servers",
+        "url": "https://psi-rockin.github.io/ps2tek/#sifrpcsystemservers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "SIF RPC System Servers",
+          "SIF",
+          "RPC",
+          "System",
+          "Servers"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP Reboot",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopreboot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP Reboot",
+          "BIOS",
+          "IOP",
+          "Reboot"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS File Structure",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosfilestructure",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS File Structure",
+          "BIOS",
+          "File",
+          "Structure"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS Boot Process",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosbootprocess",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS Boot Process",
+          "BIOS",
+          "Boot",
+          "Process"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS EE Threading",
+        "url": "https://psi-rockin.github.io/ps2tek/#bioseethreading",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS EE Threading",
+          "BIOS",
+          "EE",
+          "Threading"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS EE Syscalls",
+        "url": "https://psi-rockin.github.io/ps2tek/#bioseesyscalls",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS EE Syscalls",
+          "BIOS",
+          "EE",
+          "Syscalls"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS EE Patches",
+        "url": "https://psi-rockin.github.io/ps2tek/#bioseepatches",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS EE Patches",
+          "BIOS",
+          "EE",
+          "Patches"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS PlayStation Compatibility",
+        "url": "https://psi-rockin.github.io/ps2tek/#biospscompatibility",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS PlayStation Compatibility",
+          "BIOS",
+          "PlayStation",
+          "Compatibility"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP Module Linking",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopmodulelinking",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP Module Linking",
+          "BIOS",
+          "IOP",
+          "Module",
+          "Linking"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP Module List",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopmodulelist",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP Module List",
+          "BIOS",
+          "IOP",
+          "Module",
+          "List"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOPBOOT",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopiopboot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOPBOOT",
+          "BIOS",
+          "IOPBOOT"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP SYSMEM",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopsysmem",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP SYSMEM",
+          "BIOS",
+          "IOP",
+          "SYSMEM"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP LOADCORE",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosioploadcore",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP LOADCORE",
+          "BIOS",
+          "IOP",
+          "LOADCORE"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP EXCEPMAN",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopexcepman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP EXCEPMAN",
+          "BIOS",
+          "IOP",
+          "EXCEPMAN"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP INTRMAN",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopintrman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP INTRMAN",
+          "BIOS",
+          "IOP",
+          "INTRMAN"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP SSBUSC",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopssbusc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP SSBUSC",
+          "BIOS",
+          "IOP",
+          "SSBUSC"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP DMACMAN",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopdmacman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP DMACMAN",
+          "BIOS",
+          "IOP",
+          "DMACMAN"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP TIMRMAN",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosioptimrman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP TIMRMAN",
+          "BIOS",
+          "IOP",
+          "TIMRMAN"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP SYSCLIB",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopsysclib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP SYSCLIB",
+          "BIOS",
+          "IOP",
+          "SYSCLIB"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP HEAPLIB",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopheaplib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP HEAPLIB",
+          "BIOS",
+          "IOP",
+          "HEAPLIB"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP EECONF",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopeeconf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP EECONF",
+          "BIOS",
+          "IOP",
+          "EECONF"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP THREADMAN",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopthreadman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP THREADMAN",
+          "BIOS",
+          "IOP",
+          "THREADMAN"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP VBLANK",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopvblank",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP VBLANK",
+          "BIOS",
+          "IOP",
+          "VBLANK"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP IOMAN",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopioman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP IOMAN",
+          "BIOS",
+          "IOP",
+          "IOMAN"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP MODLOAD",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopmodload",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP MODLOAD",
+          "BIOS",
+          "IOP",
+          "MODLOAD"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP ROMDRV",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopromdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP ROMDRV",
+          "BIOS",
+          "IOP",
+          "ROMDRV"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP STDIO",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopstdio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP STDIO",
+          "BIOS",
+          "IOP",
+          "STDIO"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP SIFMAN",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopsifman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP SIFMAN",
+          "BIOS",
+          "IOP",
+          "SIFMAN"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP Greeting",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopigreeting",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP Greeting",
+          "BIOS",
+          "IOP",
+          "Greeting"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP SIFCMD",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopsifcmd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP SIFCMD",
+          "BIOS",
+          "IOP",
+          "SIFCMD"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP LOADFILE",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosioploadfile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP LOADFILE",
+          "BIOS",
+          "IOP",
+          "LOADFILE"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP CDVDMAN",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopcdvdman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP CDVDMAN",
+          "BIOS",
+          "IOP",
+          "CDVDMAN"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP CDVDFSV",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopcdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP CDVDFSV",
+          "BIOS",
+          "IOP",
+          "CDVDFSV"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP SIFINIT",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopsifinit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP SIFINIT",
+          "BIOS",
+          "IOP",
+          "SIFINIT"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP FILEIO",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopfileio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP FILEIO",
+          "BIOS",
+          "IOP",
+          "FILEIO"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP SECRMAN",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopsecrman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP SECRMAN",
+          "BIOS",
+          "IOP",
+          "SECRMAN"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP EESYNC",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopeesync",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP EESYNC",
+          "BIOS",
+          "IOP",
+          "EESYNC"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP LIBSD",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosioplibsd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP LIBSD",
+          "BIOS",
+          "IOP",
+          "LIBSD"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP SIO2MAN",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopsio2man",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP SIO2MAN",
+          "BIOS",
+          "IOP",
+          "SIO2MAN"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP MCMAN",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopmcman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP MCMAN",
+          "BIOS",
+          "IOP",
+          "MCMAN"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP MCSERV",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopmcserv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP MCSERV",
+          "BIOS",
+          "IOP",
+          "MCSERV"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP PADMAN",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosioppadman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP PADMAN",
+          "BIOS",
+          "IOP",
+          "PADMAN"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP THBASE",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopthbase",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP THBASE",
+          "BIOS",
+          "IOP",
+          "THBASE"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP THEVENT",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopthevent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP THEVENT",
+          "BIOS",
+          "IOP",
+          "THEVENT"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP THSEMAP",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopthsemap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP THSEMAP",
+          "BIOS",
+          "IOP",
+          "THSEMAP"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP THMSGBX",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopthmsgbx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP THMSGBX",
+          "BIOS",
+          "IOP",
+          "THMSGBX"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP THFPOOL",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopthfpool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP THFPOOL",
+          "BIOS",
+          "IOP",
+          "THFPOOL"
+        ]
+      },
+      {
+        "name": "ps2tek: BIOS IOP THVPOOL",
+        "url": "https://psi-rockin.github.io/ps2tek/#biosiopthvpool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2tek",
+          "hardware internals",
+          "reverse engineering",
+          "BIOS IOP THVPOOL",
+          "BIOS",
+          "IOP",
+          "THVPOOL"
+        ]
+      }
+    ]
+  }
+]
