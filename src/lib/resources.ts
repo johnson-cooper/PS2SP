@@ -47,6 +47,22 @@ import hiddenPalaceAssetGroups from "../../data/resources/hidden-palace-ps2-asse
 import hiddenPalaceVideoGroups from "../../data/resources/hidden-palace-ps2-videos.json";
 import ps2ModchipTutorialGroups from "../../data/resources/ps2-modchip-tutorials-index.json";
 import ps2ServiceManualHardwareGroups from "../../data/resources/ps2-service-manuals-hardware-docs.json";
+import ps2devGithubDeepGroups from "../../data/resources/ps2dev-github-deep.json";
+import ps2SaveIconDeep2Groups from "../../data/resources/ps2-save-icon-deep-2.json";
+import ps2wikiSasAppsDeepGroups from "../../data/resources/ps2wiki-sas-apps-deep.json";
+import ps2OnlineDnasPreservationGroups from "../../data/resources/ps2-online-dnas-preservation.json";
+import pouetPs2DemosceneGroups from "../../data/resources/pouet-ps2-demoscene.json";
+import assemblerGamesPs2TechnicalGroups from "../../data/resources/assemblergames-ps2-technical.json";
+import ps2BootExploitHistoryGroups from "../../data/resources/ps2-boot-exploits-history.json";
+import internetArchivePs2DevHomebrewExtraGroups from "../../data/resources/internet-archive-ps2-dev-homebrew-extra.json";
+import ps2HomebrewStoreIndexGroups from "../../data/resources/ps2-homebrew-store-index.json";
+import ps2wikiDeepPageGroups from "../../data/resources/ps2wiki-deep-pages.json";
+import waybackPs2devCvs1Groups from "../../data/resources/wayback-ps2dev-cvs-1.json";
+import waybackPs2devCvs2Groups from "../../data/resources/wayback-ps2dev-cvs-2.json";
+import waybackPs2devCvs3Groups from "../../data/resources/wayback-ps2dev-cvs-3.json";
+import waybackFreemcbootPageGroups from "../../data/resources/wayback-freemcboot-pages.json";
+import waybackPs2SceneProjectGroups from "../../data/resources/wayback-ps2-scene-projects.json";
+import ps2homebrewGithubDeepGroups from "../../data/resources/ps2homebrew-github-deep.json";
 
 export interface ResourceLink {
   name: string;
@@ -116,7 +132,23 @@ const allResourceSources = [
   ...(hiddenPalaceAssetGroups as ResourceGroup[]),
   ...(hiddenPalaceVideoGroups as ResourceGroup[]),
   ...(ps2ModchipTutorialGroups as ResourceGroup[]),
-  ...(ps2ServiceManualHardwareGroups as ResourceGroup[])
+  ...(ps2ServiceManualHardwareGroups as ResourceGroup[]),
+  ...(ps2devGithubDeepGroups as ResourceGroup[]),
+  ...(ps2SaveIconDeep2Groups as ResourceGroup[]),
+  ...(ps2wikiSasAppsDeepGroups as ResourceGroup[]),
+  ...(ps2OnlineDnasPreservationGroups as ResourceGroup[]),
+  ...(pouetPs2DemosceneGroups as ResourceGroup[]),
+  ...(assemblerGamesPs2TechnicalGroups as ResourceGroup[]),
+  ...(ps2BootExploitHistoryGroups as ResourceGroup[]),
+  ...(internetArchivePs2DevHomebrewExtraGroups as ResourceGroup[]),
+  ...(ps2HomebrewStoreIndexGroups as ResourceGroup[]),
+  ...(ps2wikiDeepPageGroups as ResourceGroup[]),
+  ...(waybackPs2devCvs1Groups as ResourceGroup[]),
+  ...(waybackPs2devCvs2Groups as ResourceGroup[]),
+  ...(waybackPs2devCvs3Groups as ResourceGroup[]),
+  ...(waybackFreemcbootPageGroups as ResourceGroup[]),
+  ...(waybackPs2SceneProjectGroups as ResourceGroup[]),
+  ...(ps2homebrewGithubDeepGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
