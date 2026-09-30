@@ -4,12 +4,17 @@ import pcsx2WikiExtraGroups from "../../data/resources/pcsx2-wiki-extra.json";
 import pcsx2WikiExtra2Groups from "../../data/resources/pcsx2-wiki-extra-2.json";
 import pcsx2WikiExtra3Groups from "../../data/resources/pcsx2-wiki-extra-3.json";
 import repairResourceGroups from "../../data/resources/repair-index.json";
+import consoleModsPs2Groups from "../../data/resources/consolemods-ps2.json";
+import ps2sdkDocGroups from "../../data/resources/ps2sdk-docs.json";
+import pcsx2DocGroups from "../../data/resources/pcsx2-docs.json";
+import ps2devWikiSectionGroups from "../../data/resources/ps2devwiki-sections.json";
 
 export interface ResourceLink {
   name: string;
   url: string;
   favicon_url?: string;
   thumbnail_url?: string;
+  keywords?: string[];
 }
 
 export interface ResourceGroup {
@@ -29,7 +34,11 @@ const allResourceSources = [
   ...(pcsx2WikiExtraGroups as ResourceGroup[]),
   ...(pcsx2WikiExtra2Groups as ResourceGroup[]),
   ...(pcsx2WikiExtra3Groups as ResourceGroup[]),
-  ...(repairResourceGroups as ResourceGroup[])
+  ...(repairResourceGroups as ResourceGroup[]),
+  ...(consoleModsPs2Groups as ResourceGroup[]),
+  ...(ps2sdkDocGroups as ResourceGroup[]),
+  ...(pcsx2DocGroups as ResourceGroup[]),
+  ...(ps2devWikiSectionGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
