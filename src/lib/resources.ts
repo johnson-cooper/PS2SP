@@ -1,5 +1,6 @@
 import resourceGroups from "../../data/resources/directory.json";
 import pcsx2WikiExtraGroups from "../../data/resources/pcsx2-wiki-extra.json";
+import pcsx2WikiExtra2Groups from "../../data/resources/pcsx2-wiki-extra-2.json";
 import repairResourceGroups from "../../data/resources/repair-index.json";
 
 export interface ResourceLink {
@@ -23,6 +24,7 @@ export interface ResourceEntry extends ResourceLink {
 const allResourceSources = [
   ...(resourceGroups as ResourceGroup[]),
   ...(pcsx2WikiExtraGroups as ResourceGroup[]),
+  ...(pcsx2WikiExtra2Groups as ResourceGroup[]),
   ...(repairResourceGroups as ResourceGroup[])
 ];
 
