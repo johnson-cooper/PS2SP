@@ -1,0 +1,16 @@
+{
+  "repository": "nagato-18/GTA-San-Andreas-versi-n-steam-Mods",
+  "repositoryId": "1398548499",
+  "url": "https://github.com/nagato-18/GTA-San-Andreas-versi-n-steam-Mods",
+  "description": "Configuración de GTA San Andreas 1.0 con correcciones, soporte widescreen, 60 FPS y aspecto visual clásico de PS2.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-09-30T21:02:43.742Z",
+  "checkedAt": "2026-09-30T21:02:43.742Z"
+}

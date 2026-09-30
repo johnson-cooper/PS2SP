@@ -9,9 +9,9 @@
     "README explicitly mentions PlayStation 2",
     "published GitHub release present"
   ],
-  "origin": "incremental:ps2 in:name,description",
+  "origin": "pending-recheck",
   "maturity": "historical-or-discontinued",
   "fork": null,
   "discoveredAt": "2026-09-30T16:31:42.278Z",
-  "checkedAt": "2026-09-30T16:31:42.278Z"
+  "checkedAt": "2026-09-30T21:02:43.742Z"
 }
