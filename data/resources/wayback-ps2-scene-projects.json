@@ -1,0 +1,296 @@
+[
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "Recovered individual pages from historical PS2-Scene project subdomains: HDL Dump, PS2Dev, NeoCD/PS2 and PVCS, including documentation, source, changelogs, downloads and project history.",
+    "links": [
+      {
+        "name": "Wayback HDL Dump — home",
+        "url": "https://web.archive.org/web/20040819010921/http://hdldump.ps2-scene.org/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "HDL Dump",
+          "home"
+        ]
+      },
+      {
+        "name": "Wayback HDL Dump — CHANGELOG",
+        "url": "https://web.archive.org/web/20070427054030/http://hdldump.ps2-scene.org/CHANGELOG",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "HDL Dump",
+          "CHANGELOG"
+        ]
+      },
+      {
+        "name": "Wayback HDL Dump — howto",
+        "url": "https://web.archive.org/web/20040819075245/http://hdldump.ps2-scene.org/howto.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "HDL Dump",
+          "howto"
+        ]
+      },
+      {
+        "name": "Wayback HDL Dump — Linux Unix",
+        "url": "https://web.archive.org/web/20040914105349/http://hdldump.ps2-scene.org/Linux_Unix.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "HDL Dump",
+          "Linux",
+          "Unix"
+        ]
+      },
+      {
+        "name": "Wayback HDL Dump — old versions",
+        "url": "https://web.archive.org/web/20051208014119/http://hdldump.ps2-scene.org/old_versions.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "HDL Dump",
+          "old",
+          "versions"
+        ]
+      },
+      {
+        "name": "Wayback HDL Dump — source",
+        "url": "https://web.archive.org/web/20040819075331/http://hdldump.ps2-scene.org/source.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "HDL Dump",
+          "source"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev PS2-Scene — home",
+        "url": "https://web.archive.org/web/20040802224733/http://ps2dev.ps2-scene.org/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "PS2Dev PS2-Scene",
+          "home"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev PS2-Scene — 2extract",
+        "url": "https://web.archive.org/web/20050214212418/http://ps2dev.ps2-scene.org/2extract.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "PS2Dev PS2-Scene",
+          "2extract"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev PS2-Scene — about",
+        "url": "https://web.archive.org/web/20040807043145/http://ps2dev.ps2-scene.org/about.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "PS2Dev PS2-Scene",
+          "about"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev PS2-Scene — index",
+        "url": "https://web.archive.org/web/20041019073209/http://ps2dev.ps2-scene.org/index.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "PS2Dev PS2-Scene",
+          "index"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev PS2-Scene — kmem",
+        "url": "https://web.archive.org/web/20050614012539/http://ps2dev.ps2-scene.org/kmem.htm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "PS2Dev PS2-Scene",
+          "kmem"
+        ]
+      },
+      {
+        "name": "Wayback NeoCD/PS2 — home",
+        "url": "https://web.archive.org/web/20040815094031/http://www.neocd.ps2-scene.org/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "NeoCD/PS2",
+          "home"
+        ]
+      },
+      {
+        "name": "Wayback NeoCD/PS2 — download",
+        "url": "https://web.archive.org/web/20040818042510/http://neocd.ps2-scene.org/download.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "NeoCD/PS2",
+          "download"
+        ]
+      },
+      {
+        "name": "Wayback NeoCD/PS2 — home",
+        "url": "https://web.archive.org/web/20040818042702/http://neocd.ps2-scene.org/home.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "NeoCD/PS2",
+          "home"
+        ]
+      },
+      {
+        "name": "Wayback NeoCD/PS2 — links",
+        "url": "https://web.archive.org/web/20040818042744/http://neocd.ps2-scene.org/links.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "NeoCD/PS2",
+          "links"
+        ]
+      },
+      {
+        "name": "Wayback NeoCD/PS2 — news",
+        "url": "https://web.archive.org/web/20040818043026/http://neocd.ps2-scene.org/news.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "NeoCD/PS2",
+          "news"
+        ]
+      },
+      {
+        "name": "Wayback NeoCD/PS2 — screenshots",
+        "url": "https://web.archive.org/web/20040818043122/http://neocd.ps2-scene.org/screenshots.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "NeoCD/PS2",
+          "screenshots"
+        ]
+      },
+      {
+        "name": "Wayback PVCS — home",
+        "url": "https://web.archive.org/web/20040928055852/http://pvcs.ps2-scene.org/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "PVCS",
+          "home"
+        ]
+      },
+      {
+        "name": "Wayback PVCS — about",
+        "url": "https://web.archive.org/web/20041015182918/http://pvcs.ps2-scene.org/about.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "PVCS",
+          "about"
+        ]
+      },
+      {
+        "name": "Wayback PVCS — docs",
+        "url": "https://web.archive.org/web/20041015183531/http://pvcs.ps2-scene.org/docs.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "PVCS",
+          "docs"
+        ]
+      },
+      {
+        "name": "Wayback PVCS — download",
+        "url": "https://web.archive.org/web/20041015184433/http://pvcs.ps2-scene.org/download.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "PVCS",
+          "download"
+        ]
+      },
+      {
+        "name": "Wayback PVCS — main",
+        "url": "https://web.archive.org/web/20041204135543/http://pvcs.ps2-scene.org/main.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-Scene",
+          "Wayback",
+          "legacy project",
+          "PVCS",
+          "main"
+        ]
+      }
+    ]
+  }
+]

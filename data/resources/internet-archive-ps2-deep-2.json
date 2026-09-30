@@ -1,0 +1,571 @@
+[
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "Additional Internet Archive mirrors of PS2 homebrew applications, utilities, loaders, save tools, media software, and scene-era packages.",
+    "links": [
+      {
+        "name": "Internet Archive — PS2 AIO Project",
+        "url": "https://archive.org/details/aio-project-ps2-v201",
+        "keywords": [
+          "PS2",
+          "homebrew",
+          "AIO",
+          "uLaunchELF",
+          "FMCB",
+          "tools",
+          "archive"
+        ]
+      },
+      {
+        "name": "Internet Archive — RadShell",
+        "url": "https://archive.org/details/radshell",
+        "keywords": [
+          "PS2",
+          "homebrew",
+          "RadShell",
+          "command line",
+          "automation",
+          "ps2dev"
+        ]
+      },
+      {
+        "name": "Internet Archive — USBUtil 2.0 Full English",
+        "url": "https://archive.org/details/USBUtilV2.0FullEnglish",
+        "keywords": [
+          "PS2",
+          "USBUtil",
+          "USB Advance",
+          "game management",
+          "utility"
+        ]
+      },
+      {
+        "name": "Internet Archive — Swap Magic 3.8 Coder CD",
+        "url": "https://archive.org/details/swap-magic-3.8-coder-cd",
+        "keywords": [
+          "PS2",
+          "Swap Magic",
+          "Coder",
+          "homebrew boot",
+          "legacy"
+        ]
+      },
+      {
+        "name": "Internet Archive — Memory Card Annihilator",
+        "url": "https://archive.org/details/mc-annihilator-v-2.0",
+        "keywords": [
+          "PS2",
+          "Memory Card Annihilator",
+          "memory card",
+          "format",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive — Memory Card Station",
+        "url": "https://archive.org/details/installation-cd_20220511",
+        "keywords": [
+          "PS2",
+          "Memory Card Station",
+          "save transfer",
+          "card reader",
+          "utility"
+        ]
+      },
+      {
+        "name": "Internet Archive — MC Formatter",
+        "url": "https://archive.org/details/mcformatter",
+        "keywords": [
+          "PS2",
+          "MC Formatter",
+          "memory card",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive — USB Advance",
+        "url": "https://archive.org/details/USBADVN",
+        "keywords": [
+          "PS2",
+          "USB Advance",
+          "homebrew",
+          "loader",
+          "USB"
+        ]
+      },
+      {
+        "name": "Internet Archive — HD Project",
+        "url": "https://archive.org/details/hd-project-v-1.081",
+        "keywords": [
+          "PS2",
+          "HD Project",
+          "homebrew",
+          "HDD",
+          "utility"
+        ]
+      },
+      {
+        "name": "Internet Archive — Simple Media System 2.9 Rev 4",
+        "url": "https://archive.org/details/sms-version-2.9-rev.-4",
+        "keywords": [
+          "PS2",
+          "SMS",
+          "Simple Media System",
+          "media player",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive — PS2Reality Media Player Pro",
+        "url": "https://archive.org/details/ps-2-reality-mediaplayer-pro",
+        "keywords": [
+          "PS2",
+          "PS2Reality",
+          "media player",
+          "homebrew",
+          "network"
+        ]
+      },
+      {
+        "name": "Internet Archive — Argon Media Player",
+        "url": "https://archive.org/details/argon-0.7.1",
+        "keywords": [
+          "PS2",
+          "Argon",
+          "media player",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive — PS2OS 0.3",
+        "url": "https://archive.org/details/ps-2-os-0.3-24bit-cd",
+        "keywords": [
+          "PS2",
+          "PS2OS",
+          "homebrew",
+          "shell",
+          "launcher"
+        ]
+      },
+      {
+        "name": "Internet Archive — PS2Temps / MechaCon Version Checker",
+        "url": "https://archive.org/details/ps-2-temps-and-mecha-con-version-checker-v-2.7z",
+        "keywords": [
+          "PS2",
+          "MechaCon",
+          "temperature",
+          "version checker",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive — HDLGameInstaller",
+        "url": "https://archive.org/details/181208-hdlgman-client",
+        "keywords": [
+          "PS2",
+          "HDLGameInstaller",
+          "HDD",
+          "homebrew",
+          "installer"
+        ]
+      },
+      {
+        "name": "Internet Archive — Yabasic for PS2 + Recovered Homebrew",
+        "url": "https://archive.org/details/gs_20211117192719",
+        "keywords": [
+          "PS2",
+          "Yabasic",
+          "homebrew",
+          "programming",
+          "recovered programs"
+        ]
+      },
+      {
+        "name": "Internet Archive — PS2 Qbert Homebrew",
+        "url": "https://archive.org/details/qbert_202111",
+        "keywords": [
+          "PS2",
+          "homebrew game",
+          "Qbert",
+          "custom game"
+        ]
+      },
+      {
+        "name": "Internet Archive — Tetris for PS2 Homebrew",
+        "url": "https://archive.org/details/tetris_202111",
+        "keywords": [
+          "PS2",
+          "homebrew game",
+          "Tetris",
+          "custom game"
+        ]
+      },
+      {
+        "name": "Internet Archive — Cube PS2SDK Demo",
+        "url": "https://archive.org/details/cube_20211117",
+        "keywords": [
+          "PS2",
+          "PS2SDK",
+          "demo",
+          "homebrew",
+          "sample"
+        ]
+      },
+      {
+        "name": "Internet Archive — InfoGB-HD",
+        "url": "https://archive.org/details/info-gb-hd-v-1-1",
+        "keywords": [
+          "PS2",
+          "InfoGB",
+          "Game Boy emulator",
+          "homebrew",
+          "emulator"
+        ]
+      },
+      {
+        "name": "Internet Archive — PS2VICE 1.14 Source",
+        "url": "https://archive.org/details/ps2vice-1.14-src",
+        "keywords": [
+          "PS2",
+          "VICE",
+          "Commodore 64",
+          "emulator",
+          "source",
+          "homebrew"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "Additional allowed Internet Archive PS2 preservation material: prototypes, demos, kiosk/trial discs, manuals, press assets, dev documentation, and pre-release builds. Retail game fullsets are intentionally excluded.",
+    "links": [
+      {
+        "name": "Internet Archive — PS2 TOOL General Guide",
+        "url": "https://archive.org/details/ps2_tool_guide",
+        "keywords": [
+          "PS2",
+          "TOOL",
+          "DTL-T10000",
+          "development hardware",
+          "manual",
+          "documentation"
+        ]
+      },
+      {
+        "name": "Internet Archive — Sony PlayStation 2 Manuals Collection",
+        "url": "https://archive.org/details/SonyPlaystation2Manuals_201812",
+        "keywords": [
+          "PS2",
+          "manuals",
+          "documentation",
+          "preservation",
+          "instruction manuals"
+        ]
+      },
+      {
+        "name": "Internet Archive — Daredevil PS2 Prototype",
+        "url": "https://archive.org/details/daredevil-PS2",
+        "keywords": [
+          "PS2",
+          "prototype",
+          "unreleased",
+          "canceled",
+          "Daredevil",
+          "development build"
+        ]
+      },
+      {
+        "name": "Internet Archive — Herdy Gerdy PS2 Prototype 2002-01-15",
+        "url": "https://archive.org/details/herdy-gerdy-2002-01-15-sony-playstation-2-prototype",
+        "keywords": [
+          "PS2",
+          "prototype",
+          "Herdy Gerdy",
+          "development build",
+          "pre-release"
+        ]
+      },
+      {
+        "name": "Internet Archive — Ar Tonelico 2 Preview/Debug Prototype",
+        "url": "https://archive.org/details/artonelico2preview",
+        "keywords": [
+          "PS2",
+          "prototype",
+          "debug build",
+          "preview build",
+          "Ar Tonelico 2"
+        ]
+      },
+      {
+        "name": "Internet Archive — Ratchet & Clank UYA May 2004 Prototype",
+        "url": "https://archive.org/details/RatchetAndClankUYAMay2004",
+        "keywords": [
+          "PS2",
+          "prototype",
+          "Ratchet & Clank",
+          "pre-release",
+          "development build"
+        ]
+      },
+      {
+        "name": "Internet Archive — Simpsons Hit & Run PS2 Alpha",
+        "url": "https://archive.org/details/SHAR-Alpha",
+        "keywords": [
+          "PS2",
+          "prototype",
+          "alpha",
+          "Simpsons Hit & Run",
+          "development build"
+        ]
+      },
+      {
+        "name": "Internet Archive — Oni 2 Canceled PS2 Prototype",
+        "url": "https://archive.org/details/oni-2-prototype-ps2",
+        "keywords": [
+          "PS2",
+          "prototype",
+          "unreleased",
+          "canceled",
+          "Oni 2"
+        ]
+      },
+      {
+        "name": "Internet Archive — Twisted Metal Harbor City Prototype",
+        "url": "https://archive.org/details/TwistedMetalHarborCity20050811",
+        "keywords": [
+          "PS2",
+          "prototype",
+          "unreleased",
+          "Twisted Metal Harbor City",
+          "development build"
+        ]
+      },
+      {
+        "name": "Internet Archive — Need for Speed Underground 2 PS2 Builds",
+        "url": "https://archive.org/details/nfsu2_builds",
+        "keywords": [
+          "PS2",
+          "prototype",
+          "build collection",
+          "Need for Speed Underground 2",
+          "pre-release"
+        ]
+      },
+      {
+        "name": "Internet Archive — PlayStation 2 Demo ISO Collection",
+        "url": "https://archive.org/details/Playstation2Demos-OfficialU.S.PlayStationMagazineIssues60-69",
+        "keywords": [
+          "PS2",
+          "demo collection",
+          "OPM",
+          "magazine demo",
+          "demo disc"
+        ]
+      },
+      {
+        "name": "Internet Archive — PS1 and PS2 Demo Disc Archive",
+        "url": "https://archive.org/details/scus-97189_202007",
+        "keywords": [
+          "PS2",
+          "demo collection",
+          "demo discs",
+          "PS1",
+          "PS2",
+          "preservation"
+        ]
+      },
+      {
+        "name": "Internet Archive — PlayStation 2 Demo Disc PBPX-95514",
+        "url": "https://archive.org/details/pbpx-95514",
+        "keywords": [
+          "PS2",
+          "demo disc",
+          "PBPX-95514",
+          "trial",
+          "preservation"
+        ]
+      },
+      {
+        "name": "Internet Archive — PlayStation 2 Demo Disc PBPX-95506",
+        "url": "https://archive.org/details/playstation2demodiscpbpx95506",
+        "keywords": [
+          "PS2",
+          "demo disc",
+          "PBPX-95506",
+          "launch demo",
+          "PAL"
+        ]
+      },
+      {
+        "name": "Internet Archive — PlayStation 2 Demo Disc 2.1",
+        "url": "https://archive.org/details/scus97117",
+        "keywords": [
+          "PS2",
+          "demo disc",
+          "2.1",
+          "SCUS",
+          "demo"
+        ]
+      },
+      {
+        "name": "Internet Archive — PlayStation 2 Demo Disc PBPX-95205",
+        "url": "https://archive.org/details/ps2demodiscpbpx95205",
+        "keywords": [
+          "PS2",
+          "demo disc",
+          "PBPX-95205",
+          "Yabasic",
+          "demo"
+        ]
+      },
+      {
+        "name": "Internet Archive — Sony PS2 Kiosk Demo Disc 2.7",
+        "url": "https://archive.org/details/PS2KIOSK2point7",
+        "keywords": [
+          "PS2",
+          "kiosk demo",
+          "NFR",
+          "demo disc",
+          "preservation"
+        ]
+      },
+      {
+        "name": "Internet Archive — Namco Transmission 3.2",
+        "url": "https://archive.org/details/NAMCO",
+        "keywords": [
+          "PS2",
+          "demo disc",
+          "Namco",
+          "early builds",
+          "prototype",
+          "demo"
+        ]
+      },
+      {
+        "name": "Internet Archive — McDonald's Happy Disc",
+        "url": "https://archive.org/details/mcdonalds-original-happy-disc-ps2",
+        "keywords": [
+          "PS2",
+          "demo disc",
+          "McDonald's",
+          "trial",
+          "Japan",
+          "rare demo"
+        ]
+      },
+      {
+        "name": "Internet Archive — McDonald's Happy Disc Parappa/Piposaru",
+        "url": "https://archive.org/details/mc-donalds-happy-disc-parappa-the-rapper-2-piposaru-2001-j",
+        "keywords": [
+          "PS2",
+          "demo disc",
+          "McDonald's",
+          "Parappa",
+          "Piposaru",
+          "rare demo"
+        ]
+      },
+      {
+        "name": "Internet Archive — Guitar Hero II Kiosk Demo",
+        "url": "https://archive.org/details/GH2-Kiosk-PS2",
+        "keywords": [
+          "PS2",
+          "kiosk demo",
+          "Guitar Hero II",
+          "demo disc"
+        ]
+      },
+      {
+        "name": "Internet Archive — Burnout 3 Trial Version",
+        "url": "https://archive.org/details/burnout3-jptrial",
+        "keywords": [
+          "PS2",
+          "trial version",
+          "demo",
+          "Burnout 3",
+          "Japan"
+        ]
+      },
+      {
+        "name": "Internet Archive — Official US PlayStation Magazine Demo 100",
+        "url": "https://archive.org/details/official-u.-s.-play-station-magazine-demo-disc-100",
+        "keywords": [
+          "PS2",
+          "OPM",
+          "demo disc",
+          "magazine",
+          "demo"
+        ]
+      },
+      {
+        "name": "Internet Archive — Official US PlayStation Magazine Demo 104",
+        "url": "https://archive.org/details/ouspsm-104-scus-97532",
+        "keywords": [
+          "PS2",
+          "OPM",
+          "demo disc",
+          "SCUS-97532",
+          "demo"
+        ]
+      },
+      {
+        "name": "Internet Archive — Official UK PlayStation 2 Magazine Demo 90",
+        "url": "https://archive.org/details/sced-54415",
+        "keywords": [
+          "PS2",
+          "OPM2",
+          "demo disc",
+          "SCED-54415",
+          "UK"
+        ]
+      },
+      {
+        "name": "Internet Archive — PlayStation 2 PAL Promo / NFR Collection",
+        "url": "https://archive.org/details/playstation2-pal-promos",
+        "keywords": [
+          "PS2",
+          "promo",
+          "NFR",
+          "not for resale",
+          "demo",
+          "preservation"
+        ]
+      },
+      {
+        "name": "Internet Archive — PurePure 2 Volume 2 Demo Disc",
+        "url": "https://archive.org/details/purepure2volume2",
+        "keywords": [
+          "PS2",
+          "demo disc",
+          "PurePure 2",
+          "Japan",
+          "trial"
+        ]
+      },
+      {
+        "name": "Internet Archive — PlayStation 2 Press Kit 2001 Discs",
+        "url": "https://archive.org/details/japan2001disc2",
+        "keywords": [
+          "PS2",
+          "press kit",
+          "press disc",
+          "2001",
+          "assets",
+          "preservation"
+        ]
+      },
+      {
+        "name": "Internet Archive — PS2 BIOS Megadump",
+        "url": "https://archive.org/details/ps2-bios-megadump",
+        "keywords": [
+          "PS2",
+          "BIOS",
+          "firmware",
+          "technical preservation",
+          "versions"
+        ]
+      }
+    ]
+  }
+]

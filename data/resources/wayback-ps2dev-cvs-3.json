@@ -1,0 +1,1472 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Recovered individual pages from the original ps2dev.org CVS archive, continued via Wayback CDX resume key.",
+    "links": [
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib ee Makefile",
+        "url": "https://web.archive.org/web/20050722205953/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/ee/Makefile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "ee",
+          "Makefile"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib ee Makefile.include",
+        "url": "https://web.archive.org/web/20050722210042/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/ee/Makefile.include",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "ee",
+          "Makefile",
+          "include"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib ee Makefile.template",
+        "url": "https://web.archive.org/web/20050722205949/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/ee/Makefile.template",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "ee",
+          "Makefile",
+          "template"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib ee samples",
+        "url": "https://web.archive.org/web/20050722210035/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/ee/samples/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "ee",
+          "samples"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib ee samples hello",
+        "url": "https://web.archive.org/web/20050725095452/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/ee/samples/hello/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "ee",
+          "samples",
+          "hello"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib ee samples kernel",
+        "url": "https://web.archive.org/web/20050725095448/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/ee/samples/kernel/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "ee",
+          "samples",
+          "kernel"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib ee samples Makefile",
+        "url": "https://web.archive.org/web/20050725095417/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/ee/samples/Makefile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "ee",
+          "samples",
+          "Makefile"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib ee samples mc",
+        "url": "https://web.archive.org/web/20050725095423/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/ee/samples/mc/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "ee",
+          "samples",
+          "mc"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib ee samples memcard",
+        "url": "https://web.archive.org/web/20050725095415/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/ee/samples/memcard/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "ee",
+          "samples",
+          "memcard"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib ee samples pad",
+        "url": "https://web.archive.org/web/20050725095444/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/ee/samples/pad/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "ee",
+          "samples",
+          "pad"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib ee startup",
+        "url": "https://web.archive.org/web/20050722210030/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/ee/startup/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "ee",
+          "startup"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib ee startup Attic",
+        "url": "https://web.archive.org/web/20050725095402/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/ee/startup/Attic/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "ee",
+          "startup",
+          "Attic"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib ee startup crt0.s",
+        "url": "https://web.archive.org/web/20050725095353/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/ee/startup/crt0.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "ee",
+          "startup",
+          "crt0",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib ee startup linkfile",
+        "url": "https://web.archive.org/web/20050725095357/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/ee/startup/linkfile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "ee",
+          "startup",
+          "linkfile"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib ee startup Makefile",
+        "url": "https://web.archive.org/web/20050725095410/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/ee/startup/Makefile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "ee",
+          "startup",
+          "Makefile"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib ID",
+        "url": "https://web.archive.org/web/20050720151732/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/ID",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "ID"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop",
+        "url": "https://web.archive.org/web/20050720151730/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include",
+        "url": "https://web.archive.org/web/20050722205904/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include Attic",
+        "url": "https://web.archive.org/web/20050725094053/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/Attic/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "Attic"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include cdvd.h",
+        "url": "https://web.archive.org/web/20050725094109/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/cdvd.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "cdvd",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include fileio.h",
+        "url": "https://web.archive.org/web/20050725094106/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/fileio.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "fileio",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include heaplib.h",
+        "url": "https://web.archive.org/web/20050725094015/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/heaplib.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "heaplib",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include intrman.h",
+        "url": "https://web.archive.org/web/20050725094026/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/intrman.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "intrman",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include ioman.h",
+        "url": "https://web.archive.org/web/20050725094021/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/ioman.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "ioman",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include kernel.h",
+        "url": "https://web.archive.org/web/20050725094003/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/kernel.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "kernel",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include libsd.h",
+        "url": "https://web.archive.org/web/20050725094035/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/libsd.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "libsd",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include loadcore.h",
+        "url": "https://web.archive.org/web/20050725093958/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/loadcore.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "loadcore",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include modload.h",
+        "url": "https://web.archive.org/web/20050725094049/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/modload.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "modload",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include ps2debug.h",
+        "url": "https://web.archive.org/web/20050725094012/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/ps2debug.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "ps2debug",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include stdio.h",
+        "url": "https://web.archive.org/web/20050725094045/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/stdio.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "stdio",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include stdlib.h",
+        "url": "https://web.archive.org/web/20050725094017/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/stdlib.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "stdlib",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include sysclib.h",
+        "url": "https://web.archive.org/web/20050725094041/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/sysclib.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "sysclib",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include sysmem.h",
+        "url": "https://web.archive.org/web/20050725094038/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/sysmem.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "sysmem",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include thbase.h",
+        "url": "https://web.archive.org/web/20050725094100/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/thbase.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "thbase",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include thsemap.h",
+        "url": "https://web.archive.org/web/20050725094030/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/thsemap.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "thsemap",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include timer.h",
+        "url": "https://web.archive.org/web/20050725094006/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/timer.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "timer",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include usbd.h",
+        "url": "https://web.archive.org/web/20050725094056/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/usbd.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "usbd",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop include vblank.h",
+        "url": "https://web.archive.org/web/20050725094112/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/include/vblank.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "include",
+          "vblank",
+          "h"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop lib",
+        "url": "https://web.archive.org/web/20050722205918/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/lib/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "lib"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop lib Attic",
+        "url": "https://web.archive.org/web/20050725094305/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/lib/Attic/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "lib",
+          "Attic"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop lib Makefile",
+        "url": "https://web.archive.org/web/20050725094311/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/lib/Makefile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "lib",
+          "Makefile"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel",
+        "url": "https://web.archive.org/web/20050722205910/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel Attic",
+        "url": "https://web.archive.org/web/20050725094238/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/Attic/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "Attic"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel iop cdvdman.s",
+        "url": "https://web.archive.org/web/20050725094217/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/iop_cdvdman.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "iop",
+          "cdvdman",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel iop heaplib.s",
+        "url": "https://web.archive.org/web/20050725094248/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/iop_heaplib.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "iop",
+          "heaplib",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel iop intrman.s",
+        "url": "https://web.archive.org/web/20050725094207/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/iop_intrman.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "iop",
+          "intrman",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel iop ioman.s",
+        "url": "https://web.archive.org/web/20050725094131/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/iop_ioman.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "iop",
+          "ioman",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel iop libsd.s",
+        "url": "https://web.archive.org/web/20050725094242/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/iop_libsd.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "iop",
+          "libsd",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel iop loadcore.s",
+        "url": "https://web.archive.org/web/20050725094259/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/iop_loadcore.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "iop",
+          "loadcore",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel iop modload.s",
+        "url": "https://web.archive.org/web/20050725094228/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/iop_modload.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "iop",
+          "modload",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel iop sifcmd.s",
+        "url": "https://web.archive.org/web/20050725094144/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/iop_sifcmd.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "iop",
+          "sifcmd",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel iop sifman.s",
+        "url": "https://web.archive.org/web/20050725094141/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/iop_sifman.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "iop",
+          "sifman",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel iop stdio.s",
+        "url": "https://web.archive.org/web/20050725094155/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/iop_stdio.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "iop",
+          "stdio",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel iop sysclib.s",
+        "url": "https://web.archive.org/web/20050725094134/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/iop_sysclib.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "iop",
+          "sysclib",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel iop sysmem.s",
+        "url": "https://web.archive.org/web/20050725094232/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/iop_sysmem.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "iop",
+          "sysmem",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel iop thbase.s",
+        "url": "https://web.archive.org/web/20050725094223/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/iop_thbase.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "iop",
+          "thbase",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel iop thsemap.s",
+        "url": "https://web.archive.org/web/20050725094250/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/iop_thsemap.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "iop",
+          "thsemap",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel iop usbd.s",
+        "url": "https://web.archive.org/web/20050725094150/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/iop_usbd.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "iop",
+          "usbd",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel iop vblank.s",
+        "url": "https://web.archive.org/web/20050725094137/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/iop_vblank.s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "iop",
+          "vblank",
+          "s"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop libkernel Makefile",
+        "url": "https://web.archive.org/web/20050725094203/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/libkernel/Makefile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "libkernel",
+          "Makefile"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop Makefile",
+        "url": "https://web.archive.org/web/20050722205907/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/Makefile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "Makefile"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop sample",
+        "url": "https://web.archive.org/web/20050722205901/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/sample/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "sample"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop sample Attic",
+        "url": "https://web.archive.org/web/20050725093954/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/sample/Attic/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "sample",
+          "Attic"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop sample filedriver",
+        "url": "https://web.archive.org/web/20050725093944/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/sample/filedriver/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "sample",
+          "filedriver"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop sample hello",
+        "url": "https://web.archive.org/web/20050725093951/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/sample/hello/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "sample",
+          "hello"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop sample Makefile",
+        "url": "https://web.archive.org/web/20050725093947/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/sample/Makefile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "sample",
+          "Makefile"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop utils",
+        "url": "https://web.archive.org/web/20050722205857/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/utils/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "utils"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop utils elf2irx",
+        "url": "https://web.archive.org/web/20050725093939/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/utils/elf2irx/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "utils",
+          "elf2irx"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop utils irxdump",
+        "url": "https://web.archive.org/web/20050725093931/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/utils/irxdump/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "utils",
+          "irxdump"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib iop utils Makefile",
+        "url": "https://web.archive.org/web/20050725093935/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/iop/utils/Makefile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "iop",
+          "utils",
+          "Makefile"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib LICENSE",
+        "url": "https://web.archive.org/web/20050720151713/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/LICENSE",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "LICENSE"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib Makefile",
+        "url": "https://web.archive.org/web/20050720151738/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/Makefile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "Makefile"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib Makefile.eeglobal",
+        "url": "https://web.archive.org/web/20050720151704/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/Makefile.eeglobal",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "Makefile",
+          "eeglobal"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib Makefile.eeglobal cpp",
+        "url": "https://web.archive.org/web/20050720151718/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/Makefile.eeglobal_cpp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "Makefile",
+          "eeglobal",
+          "cpp"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib Makefile.iopglobal",
+        "url": "https://web.archive.org/web/20050720151701/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/Makefile.iopglobal",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "Makefile",
+          "iopglobal"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib Makefile.pref",
+        "url": "https://web.archive.org/web/20050720151747/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/Makefile.pref",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "Makefile",
+          "pref"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib README",
+        "url": "https://web.archive.org/web/20050720151723/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/README",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "README"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive ps2lib README.old",
+        "url": "https://web.archive.org/web/20050720151707/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/ps2lib/README.old",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "ps2lib",
+          "README",
+          "old"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive SuperDrivers",
+        "url": "https://web.archive.org/web/20050124080100/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/SuperDrivers/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "SuperDrivers"
+        ]
+      },
+      {
+        "name": "Wayback PS2Dev CVS — archive SuperDrivers README",
+        "url": "https://web.archive.org/web/20050720152046/http://ps2dev.org/cgi-bin/viewcvs.cgi/archive/SuperDrivers/README",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "Wayback",
+          "CVS",
+          "source archive",
+          "legacy development",
+          "archive",
+          "SuperDrivers",
+          "README"
+        ]
+      }
+    ]
+  }
+]

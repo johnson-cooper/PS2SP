@@ -1,0 +1,660 @@
+[
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "Granular ConsoleMods Wiki coverage for PlayStation 2 modding, repair, hardware, boot exploits, loaders, networking, compatibility, video, scene history, and adjacent PS2-relevant PlayStation hardware pages.",
+    "links": [
+      {
+        "name": "ConsoleMods PS2 — Audio Information",
+        "url": "https://consolemods.org/wiki/PS2:Audio_Information",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Audio Information",
+          "Audio",
+          "Information"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Creating Game Backups",
+        "url": "https://consolemods.org/wiki/PS2:Creating_Game_Backups",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Creating Game Backups",
+          "Creating",
+          "Game",
+          "Backups"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Creating Game Save Backups",
+        "url": "https://consolemods.org/wiki/PS2:Creating_Game_Save_Backups",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Creating Game Save Backups",
+          "Creating",
+          "Game",
+          "Save",
+          "Backups"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — DNAS",
+        "url": "https://consolemods.org/wiki/PS2:DNAS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "DNAS",
+          "DNAS"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — EE Serial Output",
+        "url": "https://consolemods.org/wiki/PS2:EE_Serial_Output",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "EE Serial Output",
+          "EE",
+          "Serial",
+          "Output"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Error Screens",
+        "url": "https://consolemods.org/wiki/PS2:Error_Screens",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Error Screens",
+          "Error",
+          "Screens"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Fan Replacement",
+        "url": "https://consolemods.org/wiki/PS2:Fan_Replacement",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Fan Replacement",
+          "Fan",
+          "Replacement"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — FHDB",
+        "url": "https://consolemods.org/wiki/PS2:FHDB",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "FHDB",
+          "FHDB"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — FMCB",
+        "url": "https://consolemods.org/wiki/PS2:FMCB",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "FMCB",
+          "FMCB"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Fortuna/Opentuna",
+        "url": "https://consolemods.org/wiki/PS2:Fortuna/Opentuna",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Fortuna/Opentuna",
+          "Fortuna/Opentuna"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — FreeDVDBoot",
+        "url": "https://consolemods.org/wiki/PS2:FreeDVDBoot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "FreeDVDBoot",
+          "FreeDVDBoot"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Frequently Asked Questions (FAQ)",
+        "url": "https://consolemods.org/wiki/PS2:Frequently_Asked_Questions_(FAQ)",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Frequently Asked Questions (FAQ)",
+          "Frequently",
+          "Asked",
+          "Questions",
+          "(FAQ)"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Games with Alternative Display Modes",
+        "url": "https://consolemods.org/wiki/PS2:Games_with_Alternative_Display_Modes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Games with Alternative Display Modes",
+          "Games",
+          "with",
+          "Alternative",
+          "Display",
+          "Modes"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Getting started",
+        "url": "https://consolemods.org/wiki/PS2:Getting_started",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Getting started",
+          "Getting",
+          "started"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — LaunchELF",
+        "url": "https://consolemods.org/wiki/PS2:LaunchELF",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "LaunchELF",
+          "LaunchELF"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — MechaCon Crash",
+        "url": "https://consolemods.org/wiki/PS2:MechaCon_Crash",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "MechaCon Crash",
+          "MechaCon",
+          "Crash"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Mechapwn",
+        "url": "https://consolemods.org/wiki/PS2:Mechapwn",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Mechapwn",
+          "Mechapwn"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Model Differences",
+        "url": "https://consolemods.org/wiki/PS2:Model_Differences",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Model Differences",
+          "Model",
+          "Differences"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Neutrino",
+        "url": "https://consolemods.org/wiki/PS2:Neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Neutrino",
+          "Neutrino"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — NTPS2",
+        "url": "https://consolemods.org/wiki/PS2:NTPS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "NTPS2",
+          "NTPS2"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Open PS2 Loader (OPL)",
+        "url": "https://consolemods.org/wiki/PS2:Open_PS2_Loader_(OPL)",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Open PS2 Loader (OPL)",
+          "Open",
+          "PS2",
+          "Loader",
+          "(OPL)"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — OrbitOPL Toolbox",
+        "url": "https://consolemods.org/wiki/PS2:OrbitOPL_Toolbox",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "OrbitOPL Toolbox",
+          "OrbitOPL",
+          "Toolbox"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Playing Game Backups",
+        "url": "https://consolemods.org/wiki/PS2:Playing_Game_Backups",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Playing Game Backups",
+          "Playing",
+          "Game",
+          "Backups"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Power Supply Repair",
+        "url": "https://consolemods.org/wiki/PS2:Power_Supply_Repair",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Power Supply Repair",
+          "Power",
+          "Supply",
+          "Repair"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — PS1 and PS2 Compatibility",
+        "url": "https://consolemods.org/wiki/PS2:PS1_and_PS2_Compatibility",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "PS1 and PS2 Compatibility",
+          "PS1",
+          "and",
+          "PS2",
+          "Compatibility"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — PS2 Mods Wiki",
+        "url": "https://consolemods.org/wiki/PS2:PS2_Mods_Wiki",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "PS2 Mods Wiki",
+          "PS2",
+          "Mods",
+          "Wiki"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — PS2BBL",
+        "url": "https://consolemods.org/wiki/PS2:PS2BBL",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "PS2BBL",
+          "PS2BBL"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — PSX HDD Imaging",
+        "url": "https://consolemods.org/wiki/PS2:PSX_HDD_Imaging",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "PSX HDD Imaging",
+          "PSX",
+          "HDD",
+          "Imaging"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Region Information",
+        "url": "https://consolemods.org/wiki/PS2:Region_Information",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Region Information",
+          "Region",
+          "Information"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Resetting Component Video Out Setting",
+        "url": "https://consolemods.org/wiki/PS2:Resetting_Component_Video_Out_Setting",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Resetting Component Video Out Setting",
+          "Resetting",
+          "Component",
+          "Video",
+          "Out",
+          "Setting"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — SATA Board for LAN Adapter",
+        "url": "https://consolemods.org/wiki/PS2:SATA_Board_for_LAN_Adapter",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "SATA Board for LAN Adapter",
+          "SATA",
+          "Board",
+          "for",
+          "LAN",
+          "Adapter"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Scene History",
+        "url": "https://consolemods.org/wiki/PS2:Scene_History",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Scene History",
+          "Scene",
+          "History"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Slim Hard Drive Mods",
+        "url": "https://consolemods.org/wiki/PS2:Slim_Hard_Drive_Mods",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Slim Hard Drive Mods",
+          "Slim",
+          "Hard",
+          "Drive",
+          "Mods"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Using a Broken PSX as a PS2",
+        "url": "https://consolemods.org/wiki/PS2:Using_a_Broken_PSX_as_a_PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Using a Broken PSX as a PS2",
+          "Using",
+          "a",
+          "Broken",
+          "PSX",
+          "as",
+          "a",
+          "PS2"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Video Cables",
+        "url": "https://consolemods.org/wiki/PS2:Video_Cables",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Video Cables",
+          "Video",
+          "Cables"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — Video Output Notes",
+        "url": "https://consolemods.org/wiki/PS2:Video_Output_Notes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "Video Output Notes",
+          "Video",
+          "Output",
+          "Notes"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2 — XLink Kai",
+        "url": "https://consolemods.org/wiki/PS2:XLink_Kai",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "modding",
+          "repair",
+          "documentation",
+          "XLink Kai",
+          "XLink",
+          "Kai"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2-related — PS1 Connector Pinouts",
+        "url": "https://consolemods.org/wiki/PS1:Connector_Pinouts",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "hardware",
+          "documentation",
+          "PS1 Connector Pinouts",
+          "PS1",
+          "Connector",
+          "Pinouts"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2-related — MemCard PRO",
+        "url": "https://consolemods.org/wiki/PS1:MemCard_PRO",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "hardware",
+          "documentation",
+          "MemCard PRO",
+          "MemCard",
+          "PRO"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2-related — PlayStation Series AV Multi Out",
+        "url": "https://consolemods.org/wiki/AV:PlayStation_Series_AV_Multi_Out",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "hardware",
+          "documentation",
+          "PlayStation Series AV Multi Out",
+          "PlayStation",
+          "Series",
+          "AV",
+          "Multi",
+          "Out"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2-related — Sony Model Prefixes",
+        "url": "https://consolemods.org/wiki/AV:Sony_Model_Prefixes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "hardware",
+          "documentation",
+          "Sony Model Prefixes",
+          "Sony",
+          "Model",
+          "Prefixes"
+        ]
+      },
+      {
+        "name": "ConsoleMods PS2-related — PS1 Video Cables",
+        "url": "https://consolemods.org/wiki/PS1:Video_Cables",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ConsoleMods",
+          "hardware",
+          "documentation",
+          "PS1 Video Cables",
+          "PS1",
+          "Video",
+          "Cables"
+        ]
+      }
+    ]
+  }
+]

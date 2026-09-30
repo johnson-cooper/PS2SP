@@ -1,0 +1,302 @@
+[
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "Mirrors and surviving copies of lost or partially lost PlayStation 2 development sites, forums, file mirrors, and scene-era technical discussions.",
+    "links": [
+      {
+        "name": "Lukasz.dk — Mirrored PS2Dev Forum Index",
+        "url": "http://lukasz.dk/mirror/forums.ps2dev.org/index3705.html",
+        "keywords": [
+          "PS2",
+          "ps2dev",
+          "forum mirror",
+          "legacy",
+          "archive",
+          "scene history"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — Mirrored PS2 Development Forum",
+        "url": "http://lukasz.dk/mirror/forums.ps2dev.org/viewforum8a83.html",
+        "keywords": [
+          "PS2",
+          "ps2dev",
+          "PS2 Development",
+          "forum mirror",
+          "programming",
+          "archive"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — PS2Dev DISC Project",
+        "url": "https://www.cygwin.lukasz.dk/mirror/forums.ps2dev.org/viewtopicdcf3.html?t=43",
+        "keywords": [
+          "PS2",
+          "ps2dev",
+          "toolchain",
+          "PS2DEV DISC",
+          "development history",
+          "archive"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — Properly Building PS2SDK",
+        "url": "http://www.lukasz.dk/mirror/forums.ps2dev.org/viewtopic030d.html?t=10183",
+        "keywords": [
+          "PS2",
+          "PS2SDK",
+          "toolchain",
+          "MinGW",
+          "Cygwin",
+          "build",
+          "legacy forum"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — Installing PS2SDK on OS X",
+        "url": "https://lukasz.dk/mirror/forums.ps2dev.org/viewtopic4524.html?t=4134",
+        "keywords": [
+          "PS2",
+          "PS2SDK",
+          "OS X",
+          "Mac",
+          "toolchain",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — IRX Modules Documentation Discussion",
+        "url": "https://oopo.lukasz.dk/mirror/forums.ps2dev.org/viewtopic1ab5.html?t=8546",
+        "keywords": [
+          "PS2",
+          "IRX",
+          "IOP modules",
+          "dependencies",
+          "exports",
+          "reverse engineering",
+          "ps2dev"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — GDB on PS2",
+        "url": "http://lukasz.dk/mirror/forums.ps2dev.org/viewtopicb920.html",
+        "keywords": [
+          "PS2",
+          "GDB",
+          "debugger",
+          "remote debugging",
+          "ps2dev"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — PS2 Elf Packer Discussion",
+        "url": "https://lukasz.dk/mirror/forums.ps2dev.org/viewtopiccdf4.html",
+        "keywords": [
+          "PS2",
+          "ELF",
+          "packer",
+          "compression",
+          "ps2dev"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — PS2 Packer Thread",
+        "url": "https://lukasz.dk/mirror/forums.ps2dev.org/viewtopic3a03.html?t=524",
+        "keywords": [
+          "PS2",
+          "ps2-packer",
+          "ELF",
+          "compression",
+          "ps2link"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — PS2 Memory Dump Discussion",
+        "url": "http://lukasz.dk/mirror/forums.ps2dev.org/viewtopic37ac.html",
+        "keywords": [
+          "PS2",
+          "memory dump",
+          "debugging",
+          "reverse engineering"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — PS2 Network Discussion",
+        "url": "http://lukasz.dk/mirror/forums.ps2dev.org/viewtopic35c8.html",
+        "keywords": [
+          "PS2",
+          "network",
+          "Ethernet",
+          "ps2ip",
+          "sockets",
+          "ps2dev"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — SMAP from EE",
+        "url": "https://lukasz.dk/mirror/forums.ps2dev.org/viewtopicb526.html?t=239",
+        "keywords": [
+          "PS2",
+          "SMAP",
+          "EE",
+          "Ethernet",
+          "DEV9",
+          "ps2ip"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — ps2smap.irx Fails to Load",
+        "url": "http://lukasz.dk/mirror/forums.ps2dev.org/viewtopic7efe.html",
+        "keywords": [
+          "PS2",
+          "SMAP",
+          "IRX",
+          "network",
+          "IOP",
+          "debugging"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — SifInitRpc / FreeMcBoot Thread",
+        "url": "https://lukasz.dk/mirror/forums.ps2dev.org/viewtopiccf52.html",
+        "keywords": [
+          "PS2",
+          "SIF",
+          "SifInitRpc",
+          "Free McBoot",
+          "IOP reset",
+          "RPC"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — libmpeg / IPU Discussion",
+        "url": "https://lukasz.dk/mirror/forums.ps2dev.org/viewtopicb01d.html?t=7058",
+        "keywords": [
+          "PS2",
+          "libmpeg",
+          "IPU",
+          "MPEG",
+          "SMS",
+          "PS2SDK"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — Doom PS2 Port Discussion",
+        "url": "http://lukasz.dk/mirror/forums.ps2dev.org/viewtopic8490.html",
+        "keywords": [
+          "PS2",
+          "Doom",
+          "port",
+          "homebrew",
+          "engine",
+          "ps2dev"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — Methods for Datafile Access",
+        "url": "https://lukasz.dk/mirror/forums.ps2dev.org/viewtopic20ee.html?t=7778",
+        "keywords": [
+          "PS2",
+          "ROMFS",
+          "ps2link",
+          "host I/O",
+          "homebrew development"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — HDD API / hddCheckPresent Thread",
+        "url": "https://lukasz.dk/mirror/forums.ps2dev.org/viewtopic0748.html?t=401",
+        "keywords": [
+          "PS2",
+          "HDD",
+          "libhdd",
+          "IRX",
+          "APA",
+          "development"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — PS2 ATAD Thread",
+        "url": "https://lukasz.dk/mirror/forums.ps2dev.org/viewtopic28cb.html?t=769",
+        "keywords": [
+          "PS2",
+          "ATAD",
+          "HDD",
+          "UDMA",
+          "IDE",
+          "driver"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — Screenshot Support for ps2link",
+        "url": "https://oopo.lukasz.dk/mirror/forums.ps2dev.org/viewtopic5247.html?t=11996",
+        "keywords": [
+          "PS2",
+          "ps2link",
+          "screenshot",
+          "GS",
+          "debugging",
+          "ps2client"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — PS2 Professional Engines",
+        "url": "http://lukasz.dk/mirror/forums.ps2dev.org/viewtopic3151.html",
+        "keywords": [
+          "PS2",
+          "game engine",
+          "RenderWare",
+          "professional engine",
+          "development history"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — PS2MENU Homebrew Software Tests",
+        "url": "http://lukasz.dk/mirror/forums.ps2dev.org/viewtopic8ba9.html",
+        "keywords": [
+          "PS2",
+          "PS2MENU",
+          "homebrew",
+          "compatibility",
+          "legacy"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — Start-up Methods / reload1-ps2link",
+        "url": "https://oopo.lukasz.dk/mirror/forums.ps2dev.org/viewtopic98b0-2.html?t=8913",
+        "keywords": [
+          "PS2",
+          "reload1",
+          "ps2link",
+          "PS2 Linux",
+          "homebrew boot",
+          "legacy"
+        ]
+      },
+      {
+        "name": "Current PS2Dev Forum Archive — IRX Modules Docs",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=8546",
+        "keywords": [
+          "PS2",
+          "ps2dev",
+          "IRX",
+          "IOP",
+          "archive",
+          "forum"
+        ]
+      },
+      {
+        "name": "Current PS2Dev Forum Archive — Start-up Question",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=8913",
+        "keywords": [
+          "PS2",
+          "ps2dev",
+          "boot methods",
+          "PS2 Linux",
+          "reload1",
+          "archive"
+        ]
+      }
+    ]
+  }
+]

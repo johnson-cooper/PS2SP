@@ -1,0 +1,848 @@
+[
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "Recovered pages from the original FreeMcBoot.info site, including FreeMcBoot 1.7 documentation, installation methods, ESR/HDLoader/uLaunchELF/SMS integration, configuration, injection, and a preserved multi-part PS2 guide.",
+    "links": [
+      {
+        "name": "Wayback FreeMcBoot — FreeMcBoot 1.7 — about",
+        "url": "https://web.archive.org/web/20130503224753/http://freemcboot.info/1.7/about.htm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "FreeMcBoot",
+          "1.7",
+          "—",
+          "about"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — FreeMcBoot 1.7 — apps",
+        "url": "https://web.archive.org/web/20130503075650/http://freemcboot.info/1.7/apps.htm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "FreeMcBoot",
+          "1.7",
+          "—",
+          "apps"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — FreeMcBoot 1.7 — inject",
+        "url": "https://web.archive.org/web/20130503083752/http://freemcboot.info/1.7/inject.htm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "FreeMcBoot",
+          "1.7",
+          "—",
+          "inject"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — FreeMcBoot 1.7 — modules",
+        "url": "https://web.archive.org/web/20130503083820/http://freemcboot.info/1.7/modules.htm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "FreeMcBoot",
+          "1.7",
+          "—",
+          "modules"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — about",
+        "url": "https://web.archive.org/web/20110717231100/http://freemcboot.info/about.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "about"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — advanced",
+        "url": "https://web.archive.org/web/20110717231105/http://freemcboot.info/advanced.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "advanced"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — armax",
+        "url": "https://web.archive.org/web/20110717230949/http://freemcboot.info/armax.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "armax"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — armax2",
+        "url": "https://web.archive.org/web/20110717230954/http://freemcboot.info/armax2.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "armax2"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — codebreaker",
+        "url": "https://web.archive.org/web/20110717231110/http://freemcboot.info/codebreaker.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "codebreaker"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — config",
+        "url": "https://web.archive.org/web/20110711135544/http://freemcboot.info/config.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "config"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — contact",
+        "url": "https://web.archive.org/web/20110717231115/http://freemcboot.info/contact.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "contact"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — disc",
+        "url": "https://web.archive.org/web/20110717231120/http://freemcboot.info/disc.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "disc"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — edit",
+        "url": "https://web.archive.org/web/20110717230959/http://freemcboot.info/edit.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "edit"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — esr",
+        "url": "https://web.archive.org/web/20110622070636/http://freemcboot.info/esr.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "esr"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — gameshark",
+        "url": "https://web.archive.org/web/20110717231125/http://freemcboot.info/gameshark.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "gameshark"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — gameshark2",
+        "url": "https://web.archive.org/web/20110717231005/http://freemcboot.info/gameshark2.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "gameshark2"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — hdl",
+        "url": "https://web.archive.org/web/20110624052738/http://freemcboot.info/hdl.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "hdl"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — hdloader",
+        "url": "https://web.archive.org/web/20110624052743/http://freemcboot.info/hdloader.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "hdloader"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — help",
+        "url": "https://web.archive.org/web/20110717231010/http://freemcboot.info/help.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "help"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — index",
+        "url": "https://web.archive.org/web/20110717231140/http://freemcboot.info/index.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "index"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — inject",
+        "url": "https://web.archive.org/web/20141027195638/http://freemcboot.info/inject.php",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "inject"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — license",
+        "url": "https://web.archive.org/web/20110717231015/http://freemcboot.info/license.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "license"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — memor32",
+        "url": "https://web.archive.org/web/20110621234928/http://freemcboot.info/memor32.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "memor32"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — noobie",
+        "url": "https://web.archive.org/web/20110621234933/http://freemcboot.info/noobie.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "noobie"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 10e",
+        "url": "https://web.archive.org/web/20120512015456/http://freemcboot.info/ps2%20ohje/10e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "10e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 11e",
+        "url": "https://web.archive.org/web/20120512020341/http://freemcboot.info/ps2%20ohje/11e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "11e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 12e",
+        "url": "https://web.archive.org/web/20120512031315/http://freemcboot.info/ps2%20ohje/12e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "12e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 13e",
+        "url": "https://web.archive.org/web/20120512031321/http://freemcboot.info/ps2%20ohje/13e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "13e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 14e",
+        "url": "https://web.archive.org/web/20120512031327/http://freemcboot.info/ps2%20ohje/14e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "14e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 15e",
+        "url": "https://web.archive.org/web/20120512031415/http://freemcboot.info/ps2%20ohje/15e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "15e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 16e",
+        "url": "https://web.archive.org/web/20120512031421/http://freemcboot.info/ps2%20ohje/16e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "16e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 17e",
+        "url": "https://web.archive.org/web/20120512031426/http://freemcboot.info/ps2%20ohje/17e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "17e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 18e",
+        "url": "https://web.archive.org/web/20120512031338/http://freemcboot.info/ps2%20ohje/18e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "18e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 2",
+        "url": "https://web.archive.org/web/20120501073113/http://freemcboot.info/ps2%20ohje/2.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "2"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 2e",
+        "url": "https://web.archive.org/web/20120115174002/http://freemcboot.info/ps2%20ohje/2e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "2e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 3",
+        "url": "https://web.archive.org/web/20120830220116/http://freemcboot.info/ps2%20ohje/3.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "3"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 3e",
+        "url": "https://web.archive.org/web/20120115184137/http://freemcboot.info/ps2%20ohje/3e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "3e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 4",
+        "url": "https://web.archive.org/web/20120901200729/http://freemcboot.info/ps2%20ohje/4.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "4"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 4e",
+        "url": "https://web.archive.org/web/20120115180645/http://freemcboot.info/ps2%20ohje/4e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "4e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 5",
+        "url": "https://web.archive.org/web/20121219080858/http://freemcboot.info/ps2%20ohje/5.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "5"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 5e",
+        "url": "https://web.archive.org/web/20120209025916/http://freemcboot.info/ps2%20ohje/5e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "5e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 6",
+        "url": "https://web.archive.org/web/20151120175633/http://freemcboot.info/ps2%20ohje/6.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "6"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 6e",
+        "url": "https://web.archive.org/web/20120209025921/http://freemcboot.info/ps2%20ohje/6e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "6e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 7e",
+        "url": "https://web.archive.org/web/20120210043000/http://freemcboot.info/ps2%20ohje/7e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "7e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 8e",
+        "url": "https://web.archive.org/web/20120512031435/http://freemcboot.info/ps2%20ohje/8e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "8e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — 9e",
+        "url": "https://web.archive.org/web/20120512020404/http://freemcboot.info/ps2%20ohje/9e.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "9e"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — index",
+        "url": "https://web.archive.org/web/20120504173323/http://freemcboot.info/ps2%20ohje/index.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "index"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — PS2 Guide — indexe",
+        "url": "https://web.archive.org/web/20120115145458/http://freemcboot.info/ps2%20ohje/indexe.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "PS2",
+          "Guide",
+          "—",
+          "indexe"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — sms",
+        "url": "https://web.archive.org/web/20110717231020/http://freemcboot.info/sms.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "sms"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — swap",
+        "url": "https://web.archive.org/web/20130707152649/http://freemcboot.info/swap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "swap"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — swapmagic",
+        "url": "https://web.archive.org/web/20110713153927/http://freemcboot.info/swapmagic.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "swapmagic"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — ule",
+        "url": "https://web.archive.org/web/20110717231025/http://freemcboot.info/ule.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "ule"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — usb",
+        "url": "https://web.archive.org/web/20110717231030/http://freemcboot.info/usb.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "usb"
+        ]
+      },
+      {
+        "name": "Wayback FreeMcBoot — video",
+        "url": "https://web.archive.org/web/20110716081714/http://freemcboot.info/video.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeMcBoot",
+          "FMCB",
+          "FreeVast",
+          "Wayback",
+          "legacy documentation",
+          "video"
+        ]
+      }
+    ]
+  }
+]

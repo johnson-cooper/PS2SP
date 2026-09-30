@@ -1,0 +1,714 @@
+[
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "GitHub repositories tagged for Open PS2 Loader, OpenPS2Loader, or FreeMCBoot, including forks, themes, tools, plugins, storage/network helpers, and boot environments.",
+    "links": [
+      {
+        "name": "GitHub: AnimMouse/POPS-binaries",
+        "url": "https://github.com/AnimMouse/POPS-binaries",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "freemcboot",
+          "AnimMouse",
+          "POPS",
+          "binaries"
+        ]
+      },
+      {
+        "name": "GitHub: azagramac/fsOPL",
+        "url": "https://github.com/azagramac/fsOPL",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "azagramac",
+          "fsOPL"
+        ]
+      },
+      {
+        "name": "GitHub: brainstream/OPL-PC-Tools",
+        "url": "https://github.com/brainstream/OPL-PC-Tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "brainstream",
+          "OPL",
+          "PC",
+          "Tools"
+        ]
+      },
+      {
+        "name": "GitHub: Chrispsz/OPL-Mod-PTBR",
+        "url": "https://github.com/Chrispsz/OPL-Mod-PTBR",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "Chrispsz",
+          "OPL",
+          "Mod",
+          "PTBR"
+        ]
+      },
+      {
+        "name": "GitHub: GDX-X/PFS-BatchKit-Manager",
+        "url": "https://github.com/GDX-X/PFS-BatchKit-Manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "freemcboot",
+          "GDX",
+          "X",
+          "PFS",
+          "BatchKit",
+          "Manager"
+        ]
+      },
+      {
+        "name": "GitHub: gecm0/POUM",
+        "url": "https://github.com/gecm0/POUM",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "gecm0",
+          "POUM"
+        ]
+      },
+      {
+        "name": "GitHub: hacan359/Open-PS2-Loader",
+        "url": "https://github.com/hacan359/Open-PS2-Loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "hacan359",
+          "Open",
+          "PS2",
+          "Loader"
+        ]
+      },
+      {
+        "name": "GitHub: hacan359/xerabora",
+        "url": "https://github.com/hacan359/xerabora",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "hacan359",
+          "xerabora"
+        ]
+      },
+      {
+        "name": "GitHub: IceWeedo/PS2BBL-OpenTuna-Update-Pack",
+        "url": "https://github.com/IceWeedo/PS2BBL-OpenTuna-Update-Pack",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "openps2loader",
+          "freemcboot",
+          "IceWeedo",
+          "PS2BBL",
+          "OpenTuna",
+          "Update",
+          "Pack"
+        ]
+      },
+      {
+        "name": "GitHub: israpps/Funtuna-Fork",
+        "url": "https://github.com/israpps/Funtuna-Fork",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "freemcboot",
+          "israpps",
+          "Funtuna",
+          "Fork"
+        ]
+      },
+      {
+        "name": "GitHub: kau19an/ps2drp",
+        "url": "https://github.com/kau19an/ps2drp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "kau19an",
+          "ps2drp"
+        ]
+      },
+      {
+        "name": "GitHub: L10N37/Open-PS2-Loader-Extended-APA",
+        "url": "https://github.com/L10N37/Open-PS2-Loader-Extended-APA",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "L10N37",
+          "Open",
+          "PS2",
+          "Loader",
+          "Extended",
+          "APA"
+        ]
+      },
+      {
+        "name": "GitHub: Loubear111/PS2FreeMCBootGuide",
+        "url": "https://github.com/Loubear111/PS2FreeMCBootGuide",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "freemcboot",
+          "Loubear111",
+          "PS2FreeMCBootGuide"
+        ]
+      },
+      {
+        "name": "GitHub: loushen/PS2-tools",
+        "url": "https://github.com/loushen/PS2-tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "freemcboot",
+          "loushen",
+          "PS2",
+          "tools"
+        ]
+      },
+      {
+        "name": "GitHub: NathanNeurotic/FreeMcBoot-Installer-UMCS",
+        "url": "https://github.com/NathanNeurotic/FreeMcBoot-Installer-UMCS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "freemcboot",
+          "NathanNeurotic",
+          "FreeMcBoot",
+          "Installer",
+          "UMCS"
+        ]
+      },
+      {
+        "name": "GitHub: NathanNeurotic/FreeMcTuna",
+        "url": "https://github.com/NathanNeurotic/FreeMcTuna",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "freemcboot",
+          "NathanNeurotic",
+          "FreeMcTuna"
+        ]
+      },
+      {
+        "name": "GitHub: NathanNeurotic/Open-PS2-Loader",
+        "url": "https://github.com/NathanNeurotic/Open-PS2-Loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "openps2loader",
+          "NathanNeurotic",
+          "Open",
+          "PS2",
+          "Loader"
+        ]
+      },
+      {
+        "name": "GitHub: officialjuicedesigns/OPL-Evolution",
+        "url": "https://github.com/officialjuicedesigns/OPL-Evolution",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "officialjuicedesigns",
+          "OPL",
+          "Evolution"
+        ]
+      },
+      {
+        "name": "GitHub: oMrRexD/xerabora-android",
+        "url": "https://github.com/oMrRexD/xerabora-android",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "oMrRexD",
+          "xerabora",
+          "android"
+        ]
+      },
+      {
+        "name": "GitHub: ps2homebrew/Open-PS2-Loader",
+        "url": "https://github.com/ps2homebrew/Open-PS2-Loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "ps2homebrew",
+          "Open",
+          "PS2",
+          "Loader"
+        ]
+      },
+      {
+        "name": "GitHub: Raisess/ps2opl2iso",
+        "url": "https://github.com/Raisess/ps2opl2iso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "Raisess",
+          "ps2opl2iso"
+        ]
+      },
+      {
+        "name": "GitHub: retronas/retronas",
+        "url": "https://github.com/retronas/retronas",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "openps2loader",
+          "retronas",
+          "retronas"
+        ]
+      },
+      {
+        "name": "GitHub: sellerie98/FreeMCBootConf",
+        "url": "https://github.com/sellerie98/FreeMCBootConf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "freemcboot",
+          "sellerie98",
+          "FreeMCBootConf"
+        ]
+      },
+      {
+        "name": "GitHub: SvenGDK/Open-PS2-Loader",
+        "url": "https://github.com/SvenGDK/Open-PS2-Loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "openps2loader",
+          "SvenGDK",
+          "Open",
+          "PS2",
+          "Loader"
+        ]
+      },
+      {
+        "name": "GitHub: Zsubzeroz/PyOPL-Utility",
+        "url": "https://github.com/Zsubzeroz/PyOPL-Utility",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "Zsubzeroz",
+          "PyOPL",
+          "Utility"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Custom Content & Game Mods",
+    "description": "GitHub repositories tagged for Open PS2 Loader, OpenPS2Loader, or FreeMCBoot, including forks, themes, tools, plugins, storage/network helpers, and boot environments.",
+    "links": [
+      {
+        "name": "GitHub: PixeliGer/OPL-Theme-DeckyOS",
+        "url": "https://github.com/PixeliGer/OPL-Theme-DeckyOS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "PixeliGer",
+          "OPL",
+          "Theme",
+          "DeckyOS"
+        ]
+      },
+      {
+        "name": "GitHub: PixeliGer/OPL-Theme-Ominence",
+        "url": "https://github.com/PixeliGer/OPL-Theme-Ominence",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "PixeliGer",
+          "OPL",
+          "Theme",
+          "Ominence"
+        ]
+      },
+      {
+        "name": "GitHub: PixeliGer/OPL-Theme-OPLAdvance",
+        "url": "https://github.com/PixeliGer/OPL-Theme-OPLAdvance",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "PixeliGer",
+          "OPL",
+          "Theme",
+          "OPLAdvance"
+        ]
+      },
+      {
+        "name": "GitHub: PixeliGer/OPL-Theme-PadOS",
+        "url": "https://github.com/PixeliGer/OPL-Theme-PadOS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "PixeliGer",
+          "OPL",
+          "Theme",
+          "PadOS"
+        ]
+      },
+      {
+        "name": "GitHub: PixeliGer/OPL-Theme-Pixel-Prime",
+        "url": "https://github.com/PixeliGer/OPL-Theme-Pixel-Prime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "PixeliGer",
+          "OPL",
+          "Theme",
+          "Pixel",
+          "Prime"
+        ]
+      },
+      {
+        "name": "GitHub: telephoneboxbrouhaha811/OPL-Theme-DeckyOS",
+        "url": "https://github.com/telephoneboxbrouhaha811/OPL-Theme-DeckyOS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "telephoneboxbrouhaha811",
+          "OPL",
+          "Theme",
+          "DeckyOS"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "GitHub repositories tagged for Open PS2 Loader, OpenPS2Loader, or FreeMCBoot, including forks, themes, tools, plugins, storage/network helpers, and boot environments.",
+    "links": [
+      {
+        "name": "GitHub: GDX-X/OPL-Games-Infos-Database-Project",
+        "url": "https://github.com/GDX-X/OPL-Games-Infos-Database-Project",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "openps2loader",
+          "GDX",
+          "X",
+          "OPL",
+          "Games",
+          "Infos",
+          "Database",
+          "Project"
+        ]
+      },
+      {
+        "name": "GitHub: GDX-X/PS2-OPL-CFG-Compatibility-Database",
+        "url": "https://github.com/GDX-X/PS2-OPL-CFG-Compatibility-Database",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "GDX",
+          "X",
+          "PS2",
+          "OPL",
+          "CFG",
+          "Compatibility",
+          "Database"
+        ]
+      },
+      {
+        "name": "GitHub: grayespinoza/docker-opl-pc-tools",
+        "url": "https://github.com/grayespinoza/docker-opl-pc-tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "grayespinoza",
+          "docker",
+          "opl",
+          "pc",
+          "tools"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Online Gaming & Network Play",
+    "description": "GitHub repositories tagged for Open PS2 Loader, OpenPS2Loader, or FreeMCBoot, including forks, themes, tools, plugins, storage/network helpers, and boot environments.",
+    "links": [
+      {
+        "name": "GitHub: Equiel-1703/ps2-network-manager",
+        "url": "https://github.com/Equiel-1703/ps2-network-manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "openps2loader",
+          "Equiel",
+          "1703",
+          "ps2",
+          "network",
+          "manager"
+        ]
+      },
+      {
+        "name": "GitHub: GorGylka/Server2PS2",
+        "url": "https://github.com/GorGylka/Server2PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "openps2loader",
+          "GorGylka",
+          "Server2PS2"
+        ]
+      },
+      {
+        "name": "GitHub: GorGylka/UDPBD-A5-V11",
+        "url": "https://github.com/GorGylka/UDPBD-A5-V11",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "openps2loader",
+          "GorGylka",
+          "UDPBD",
+          "A5",
+          "V11"
+        ]
+      },
+      {
+        "name": "GitHub: lucasonline0/opl-linux-toolbox",
+        "url": "https://github.com/lucasonline0/opl-linux-toolbox",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "lucasonline0",
+          "opl",
+          "linux",
+          "toolbox"
+        ]
+      },
+      {
+        "name": "GitHub: prodeveloper0/pyudpbd",
+        "url": "https://github.com/prodeveloper0/pyudpbd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "FreeMCBoot",
+          "GitHub",
+          "repository",
+          "open-ps2-loader",
+          "prodeveloper0",
+          "pyudpbd"
+        ]
+      }
+    ]
+  }
+]

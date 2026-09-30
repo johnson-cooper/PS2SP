@@ -1,0 +1,595 @@
+[
+  {
+    "category": "Hardware, Mods & Accessories",
+    "description": "Granular PS2 modchip documentation covering Crystal Chip, DMS, Ghost 2, Matrix Infinity, installation diagrams, firmware/team files, scripting, archived vendor sites, and preserved modchip resources.",
+    "links": [
+      {
+        "name": "PS2 Modchip Tutorials — sitemap.xml",
+        "url": "https://ps2modchiptutorials.com/sitemap.xml",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "sitemap.xml",
+          "sitemap.xml"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — PS2 Modchip Tutorials",
+        "url": "https://ps2modchiptutorials.com",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "PS2 Modchip Tutorials"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Overview",
+        "url": "https://ps2modchiptutorials.com/crystal-chips",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "crystal",
+          "chips",
+          "Overview"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Crystal Chips Archived Website",
+        "url": "https://ps2modchiptutorials.com/crystal-chips/cc-archived",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "crystal",
+          "chips",
+          "cc",
+          "archived",
+          "Crystal Chips Archived Website"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Team Files",
+        "url": "https://ps2modchiptutorials.com/crystal-chips/cc-files",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "crystal",
+          "chips",
+          "cc",
+          "files",
+          "Team Files"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — 1.1+ Install Diagrams",
+        "url": "https://ps2modchiptutorials.com/crystal-chips/cc-install",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "crystal",
+          "chips",
+          "cc",
+          "install",
+          "1.1+ Install Diagrams"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — PBT Scripting",
+        "url": "https://ps2modchiptutorials.com/crystal-chips/cc-scripting",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "crystal",
+          "chips",
+          "cc",
+          "scripting",
+          "PBT Scripting"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Video Tutorials",
+        "url": "https://ps2modchiptutorials.com/crystal-chips/cc-vids",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "crystal",
+          "chips",
+          "cc",
+          "vids",
+          "Video Tutorials"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Written Tutorials",
+        "url": "https://ps2modchiptutorials.com/crystal-chips/cc-writeups",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "crystal",
+          "chips",
+          "cc",
+          "writeups",
+          "Written Tutorials"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — CC 1.0 Install Diagrams",
+        "url": "https://ps2modchiptutorials.com/crystal-chips/cc10-install",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "crystal",
+          "chips",
+          "cc10",
+          "install",
+          "CC 1.0 Install Diagrams"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Placeholder. Will probablly be last chip(s) to be updated",
+        "url": "https://ps2modchiptutorials.com/dms3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "dms3",
+          "Placeholder. Will probablly be last chip(s) to be updated"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Overview",
+        "url": "https://ps2modchiptutorials.com/dms4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "dms4",
+          "Overview"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Archived Website",
+        "url": "https://ps2modchiptutorials.com/dms4/dms4-archived",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "dms4",
+          "dms4",
+          "archived",
+          "Archived Website"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Team Files",
+        "url": "https://ps2modchiptutorials.com/dms4/dms4-files",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "dms4",
+          "dms4",
+          "files",
+          "Team Files"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Install Diagrams",
+        "url": "https://ps2modchiptutorials.com/dms4/dms4-install",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "dms4",
+          "dms4",
+          "install",
+          "Install Diagrams"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — DMS4 Scripting",
+        "url": "https://ps2modchiptutorials.com/dms4/dms4-scripting",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "dms4",
+          "dms4",
+          "scripting",
+          "DMS4 Scripting"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Video Tutorials",
+        "url": "https://ps2modchiptutorials.com/dms4/dms4-vids",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "dms4",
+          "dms4",
+          "vids",
+          "Video Tutorials"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Written Tutorials",
+        "url": "https://ps2modchiptutorials.com/dms4/dms4-writeups",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "dms4",
+          "dms4",
+          "writeups",
+          "Written Tutorials"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Overview",
+        "url": "https://ps2modchiptutorials.com/ghost2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "ghost2",
+          "Overview"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Ghost 2 Archived Website",
+        "url": "https://ps2modchiptutorials.com/ghost2/ghost2-archived",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "ghost2",
+          "ghost2",
+          "archived",
+          "Ghost 2 Archived Website"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Team Files",
+        "url": "https://ps2modchiptutorials.com/ghost2/ghost2-files",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "ghost2",
+          "ghost2",
+          "files",
+          "Team Files"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Install Diagrams",
+        "url": "https://ps2modchiptutorials.com/ghost2/ghost2-install",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "ghost2",
+          "ghost2",
+          "install",
+          "Install Diagrams"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Video Tutorials",
+        "url": "https://ps2modchiptutorials.com/ghost2/ghost2-vids",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "ghost2",
+          "ghost2",
+          "vids",
+          "Video Tutorials"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Written Tutorials",
+        "url": "https://ps2modchiptutorials.com/ghost2/ghost2-writeups",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "ghost2",
+          "ghost2",
+          "writeups",
+          "Written Tutorials"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Homebrew Downloads",
+        "url": "https://ps2modchiptutorials.com/homebrew",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "homebrew",
+          "Homebrew Downloads"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Overview",
+        "url": "https://ps2modchiptutorials.com/mi",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "mi",
+          "Overview"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Archived Website",
+        "url": "https://ps2modchiptutorials.com/mi/mi-archived",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "mi",
+          "mi",
+          "archived",
+          "Archived Website"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Team Files",
+        "url": "https://ps2modchiptutorials.com/mi/mi-files",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "mi",
+          "mi",
+          "files",
+          "Team Files"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Install Diagrams",
+        "url": "https://ps2modchiptutorials.com/mi/mi-install",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "mi",
+          "mi",
+          "install",
+          "Install Diagrams"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Video Tutorials",
+        "url": "https://ps2modchiptutorials.com/mi/mi-vids",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "mi",
+          "mi",
+          "vids",
+          "Video Tutorials"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Written Tutorials",
+        "url": "https://ps2modchiptutorials.com/mi/mi-writeups",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "mi",
+          "mi",
+          "writeups",
+          "Written Tutorials"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Matrix Picfix Flex PCB",
+        "url": "https://ps2modchiptutorials.com/misc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "misc",
+          "Matrix Picfix Flex PCB"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — Matrix Picfix",
+        "url": "https://ps2modchiptutorials.com/misc/picfix",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "misc",
+          "picfix",
+          "Matrix Picfix"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Tutorials — [DMS X-B.I.T Chip ]",
+        "url": "https://ps2modchiptutorials.com/dms4/dms-site-backup/cgi-bin/xbit/site7f7d.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "installation",
+          "firmware",
+          "archive",
+          "documentation",
+          "dms4",
+          "dms",
+          "site",
+          "backup",
+          "cgi",
+          "bin",
+          "xbit",
+          "site7f7d.html",
+          "[DMS X-B.I.T Chip ]"
+        ]
+      },
+      {
+        "name": "GitHub — PS2 Modchip Files Archive",
+        "url": "https://github.com/m4x10187/ps2-modchip-files",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "archive",
+          "DMS3",
+          "Messiah 2",
+          "Crystal Chip",
+          "H2O",
+          "firmware",
+          "install diagrams"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,520 @@
+[
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "Deep index of PlayStation 2 memory-card saves, icon.sys/ICN formats, save containers, memory-card filesystem research, and historical save-development documentation.",
+    "links": [
+      {
+        "name": "PS2 Save Tools — Documents Index",
+        "url": "https://www.ps2savetools.com/documents",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save",
+          "memory card",
+          "documentation",
+          "file formats"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — icon.sys Format",
+        "url": "https://www.ps2savetools.com/documents/iconsys-format",
+        "keywords": [
+          "PS2",
+          "icon.sys",
+          "save icon",
+          "memory card",
+          "PS2D",
+          "Shift-JIS",
+          "browser icon"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — PS2 Icon Format v0.5",
+        "url": "https://www.ps2savetools.com/documents/ps2-icon-format-v05",
+        "keywords": [
+          "PS2",
+          "ICN",
+          "3D icon",
+          "save icon",
+          "icon format",
+          "memory card"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — PS2 Icon Format PDF",
+        "url": "https://www.ps2savetools.com/ps2icon-0.5.pdf",
+        "keywords": [
+          "PS2",
+          "ICN",
+          "3D icon",
+          "save icon",
+          "geometry",
+          "texture",
+          "animation"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — PlayStation 2 Memory Card File System",
+        "url": "https://www.ps2savetools.com/documents/playstation-2-memory-card-file-system",
+        "keywords": [
+          "PS2",
+          "memory card",
+          "filesystem",
+          "FAT",
+          "superblock",
+          "ECC",
+          "directory"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — Memory Card File System (legacy path)",
+        "url": "https://www.ps2savetools.com/ps2memcardformat.html",
+        "keywords": [
+          "PS2",
+          "memory card filesystem",
+          "mymc",
+          "Ross Ridge",
+          "format"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — PS2 AR Max Save Format",
+        "url": "https://www.ps2savetools.com/documents/ps2-ar-max-save-format",
+        "keywords": [
+          "PS2",
+          "AR Max",
+          "MAX",
+          "save format",
+          "compression",
+          "CRC32"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — XPS Format",
+        "url": "https://www.ps2savetools.com/documents/xps-format",
+        "keywords": [
+          "PS2",
+          "XPort",
+          "SharkPort",
+          "XPS",
+          "save format"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — EMS PSU Save Format",
+        "url": "https://www.ps2savetools.com/documents/ps2-save-game-format-for-ems-adapter-psu",
+        "keywords": [
+          "PS2",
+          "PSU",
+          "EMS",
+          "save format",
+          "uLaunchELF"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — PS2 YABASIC PSU Format",
+        "url": "https://www.ps2savetools.com/documents/ps2-yabasic-file-psu-file-format",
+        "keywords": [
+          "PS2",
+          "YABASIC",
+          "PSU",
+          "save format"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — PSVFormat.pas",
+        "url": "https://www.ps2savetools.com/documents/psvformatpas",
+        "keywords": [
+          "PS2",
+          "PSV",
+          "PS3",
+          "save format",
+          "Pascal"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — Code Save Structure",
+        "url": "https://www.ps2savetools.com/documents/code-save-structure",
+        "keywords": [
+          "PS2",
+          "cheat save",
+          "code save",
+          "save structure"
+        ]
+      },
+      {
+        "name": "PS2 Developer Wiki — Savedata",
+        "url": "https://www.psdevwiki.com/ps2/Savedata",
+        "keywords": [
+          "PS2",
+          "savedata",
+          "PSU",
+          "CBS",
+          "MAX",
+          "XPS",
+          "PSV",
+          "VMC",
+          "VME"
+        ]
+      },
+      {
+        "name": "PS2 Developer Wiki — ICN Files",
+        "url": "https://www.psdevwiki.com/ps2/ICN_Files",
+        "keywords": [
+          "PS2",
+          "ICN",
+          "3D save icon",
+          "animation",
+          "texture",
+          "geometry"
+        ]
+      },
+      {
+        "name": "PS2 Developer Wiki — PSU Format",
+        "url": "https://www.psdevwiki.com/ps2/PSU",
+        "keywords": [
+          "PS2",
+          "PSU",
+          "save archive",
+          "uLaunchELF",
+          "mymcplus"
+        ]
+      },
+      {
+        "name": "Ghulbus — PS2 IconSys Library & Tools",
+        "url": "https://www.ghulbus-inc.de/projects/ps2iconsys/index.html",
+        "keywords": [
+          "PS2",
+          "IconSys",
+          "icon.sys",
+          "ICN",
+          "C++",
+          "OBJ",
+          "3D icon"
+        ]
+      },
+      {
+        "name": "GitHub — ticky/ps2iconsys",
+        "url": "https://github.com/ticky/ps2iconsys",
+        "keywords": [
+          "PS2",
+          "IconSys",
+          "icon.sys",
+          "ICN",
+          "OBJ",
+          "TGA",
+          "save icon",
+          "source"
+        ]
+      },
+      {
+        "name": "GitHub — ps2dev/mymc",
+        "url": "https://github.com/ps2dev/mymc",
+        "keywords": [
+          "PS2",
+          "mymc",
+          "memory card",
+          "PS2 save",
+          "icon.sys",
+          "PSU",
+          "MAX",
+          "XPS"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "Historical and modern PS2 save-management, icon-creation, transfer, conversion, exploit, and memory-card utilities.",
+    "links": [
+      {
+        "name": "PS2 Save Tools — Downloads Index",
+        "url": "https://www.ps2savetools.com/downloads",
+        "keywords": [
+          "PS2",
+          "save tools",
+          "downloads",
+          "memory card",
+          "utilities"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — Misc Tools",
+        "url": "https://www.ps2savetools.com/downloads/misc-tools",
+        "keywords": [
+          "PS2",
+          "save utilities",
+          "icon tools",
+          "memory card tools"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — PS2 Save Development",
+        "url": "https://www.ps2savetools.com/downloads/ps2-save-development",
+        "keywords": [
+          "PS2",
+          "save development",
+          "source code",
+          "libraries",
+          "icon tools"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — Transfer Software",
+        "url": "https://www.ps2savetools.com/downloads/transfer-software",
+        "keywords": [
+          "PS2",
+          "SharkPort",
+          "XPort",
+          "Memory Station",
+          "transfer",
+          "save"
+        ]
+      },
+      {
+        "name": "PS2 Save Builder 0.8x",
+        "url": "https://www.ps2savetools.com/download/ps2-save-builder",
+        "keywords": [
+          "PS2",
+          "Save Builder",
+          "MAX",
+          "CBS",
+          "PSU",
+          "XPS",
+          "SharkPort",
+          "XPort",
+          "icon.sys"
+        ]
+      },
+      {
+        "name": "PSV Exporter",
+        "url": "https://www.ps2savetools.com/download/psv-exporter",
+        "keywords": [
+          "PS2",
+          "PSV",
+          "PS3",
+          "save converter",
+          "AR Max",
+          "MCS"
+        ]
+      },
+      {
+        "name": "Milkshape PS2 Icon Importer/Exporter",
+        "url": "https://www.ps2savetools.com/download/milkshape-ps2-icon-importer-exporter",
+        "keywords": [
+          "PS2",
+          "ICN",
+          "3D icon",
+          "MilkShape",
+          "save icon",
+          "importer",
+          "exporter"
+        ]
+      },
+      {
+        "name": "bmp2icon",
+        "url": "https://www.ps2savetools.com/download/bmp2icon",
+        "keywords": [
+          "PS2",
+          "ICN",
+          "bmp2icon",
+          "128x128",
+          "save icon",
+          "3D icon"
+        ]
+      },
+      {
+        "name": "PSUView",
+        "url": "https://www.ps2savetools.com/download/psuview",
+        "keywords": [
+          "PS2",
+          "PSUView",
+          "PSU",
+          "save icon viewer",
+          "memory card"
+        ]
+      },
+      {
+        "name": "PSUView Loader",
+        "url": "https://www.ps2savetools.com/download/psuview-loader",
+        "keywords": [
+          "PS2",
+          "PSUView",
+          "PSU",
+          "loader",
+          "save"
+        ]
+      },
+      {
+        "name": "MC ICON.SYS Generator",
+        "url": "https://www.ps2savetools.com/downloads/misc-tools",
+        "keywords": [
+          "PS2",
+          "MC ICON.SYS Generator",
+          "icon.sys",
+          "memory card icon"
+        ]
+      },
+      {
+        "name": "nPort Index Generator",
+        "url": "https://www.ps2savetools.com/download/nport-index-generator",
+        "keywords": [
+          "PS2",
+          "nPort",
+          "save transfer",
+          "index generator"
+        ]
+      },
+      {
+        "name": "nPort Source",
+        "url": "https://www.ps2savetools.com/download/nport-source",
+        "keywords": [
+          "PS2",
+          "nPort",
+          "source code",
+          "save transfer"
+        ]
+      },
+      {
+        "name": "GamePhoenix Save Manager",
+        "url": "https://www.ps2savetools.com/download/gamephoenix",
+        "keywords": [
+          "PS2",
+          "GamePhoenix",
+          "save manager",
+          "Java",
+          "hex editor"
+        ]
+      },
+      {
+        "name": "Save Slicer Source",
+        "url": "https://www.ps2savetools.com/download/save-slicer-source",
+        "keywords": [
+          "PS2",
+          "Save Slicer",
+          "source",
+          "save hacking",
+          "development"
+        ]
+      },
+      {
+        "name": "texcompressed",
+        "url": "https://www.ps2savetools.com/download/texcompressed",
+        "keywords": [
+          "PS2",
+          "ICN",
+          "texture compression",
+          "save icon",
+          "developer tool"
+        ]
+      },
+      {
+        "name": "EMS Memory Adapter USB Software",
+        "url": "https://www.ps2savetools.com/download/ems-memory-adapter-usb",
+        "keywords": [
+          "PS2",
+          "EMS",
+          "memory adapter",
+          "USB",
+          "save transfer"
+        ]
+      },
+      {
+        "name": "EMS Memory Adapter Parallel Software",
+        "url": "https://www.ps2savetools.com/download/ems-memory-adapter-parallel-port",
+        "keywords": [
+          "PS2",
+          "EMS",
+          "memory adapter",
+          "parallel",
+          "save transfer"
+        ]
+      },
+      {
+        "name": "Memory Station Software",
+        "url": "https://www.ps2savetools.com/download/memory-station",
+        "keywords": [
+          "PS2",
+          "Memory Station",
+          "save transfer",
+          "memory card"
+        ]
+      },
+      {
+        "name": "SharkPort v2 Software",
+        "url": "https://www.ps2savetools.com/download/sharkport-v2-software",
+        "keywords": [
+          "PS2",
+          "SharkPort",
+          "XPort",
+          "save transfer"
+        ]
+      },
+      {
+        "name": "XPort v2 Software US",
+        "url": "https://www.ps2savetools.com/download/xport-v2-software-us",
+        "keywords": [
+          "PS2",
+          "XPort",
+          "SharkPort",
+          "save transfer"
+        ]
+      },
+      {
+        "name": "Win32 Command-Line XPort Utility",
+        "url": "https://www.ps2savetools.com/download/win32-command-line-xport-utility",
+        "keywords": [
+          "PS2",
+          "XPort",
+          "command line",
+          "save utility",
+          "Independence Exploit"
+        ]
+      },
+      {
+        "name": "Linux Memory Card Directory Limit Patch",
+        "url": "https://www.ps2savetools.com/download/linux-memory-card-dir-limit-patch",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "memory card",
+          "MCFS",
+          "patch",
+          "directory limit"
+        ]
+      },
+      {
+        "name": "PS2 Independence Exploit Source Package",
+        "url": "https://www.ps2savetools.com/download/exploit-source-package",
+        "keywords": [
+          "PS2",
+          "Independence Exploit",
+          "source",
+          "memory card exploit"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — Exploit Save Files (nPort)",
+        "url": "https://www.ps2savetools.com/download/exploit-save-files-nport-format",
+        "keywords": [
+          "PS2",
+          "Independence Exploit",
+          "nPort",
+          "save",
+          "boot exploit"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — Exploit Save Files (EMS)",
+        "url": "https://www.ps2savetools.com/download/exploit-save-files-ems-format",
+        "keywords": [
+          "PS2",
+          "Independence Exploit",
+          "EMS",
+          "save",
+          "boot exploit"
+        ]
+      }
+    ]
+  }
+]

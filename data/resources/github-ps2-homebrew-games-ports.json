@@ -1,0 +1,362 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "PS2 homebrew games, ports, engines, demos, and game-development projects explicitly tagged for PlayStation 2.",
+    "links": [
+      {
+        "name": "GitHub PS2 project: allogic/Nippon",
+        "url": "https://github.com/allogic/Nippon",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "port",
+          "allogic",
+          "Nippon"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: BlackLineInteractive/Climax_Game_Engine_Toolkit",
+        "url": "https://github.com/BlackLineInteractive/Climax_Game_Engine_Toolkit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "game development",
+          "game engine",
+          "BlackLineInteractive",
+          "Climax",
+          "Game",
+          "Engine",
+          "Toolkit"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: blazium-games/blazium-toolchain",
+        "url": "https://github.com/blazium-games/blazium-toolchain",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "game engine",
+          "blazium",
+          "games",
+          "blazium",
+          "toolchain"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: DTGillespie/GameSphere",
+        "url": "https://github.com/DTGillespie/GameSphere",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "game development",
+          "DTGillespie",
+          "GameSphere"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: fdivitto/FabGL",
+        "url": "https://github.com/fdivitto/FabGL",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "game engine",
+          "fdivitto",
+          "FabGL"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: glampert/ps2-homebrew",
+        "url": "https://github.com/glampert/ps2-homebrew",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "homebrew game",
+          "glampert",
+          "ps2",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: glampert/quake2-ps2",
+        "url": "https://github.com/glampert/quake2-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "homebrew game",
+          "game development",
+          "glampert",
+          "quake2",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: gly-engine/gly-engine",
+        "url": "https://github.com/gly-engine/gly-engine",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "game engine",
+          "gly",
+          "engine",
+          "gly",
+          "engine"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: gly-engine/love",
+        "url": "https://github.com/gly-engine/love",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "game engine",
+          "gly",
+          "engine",
+          "love"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: h4570/tyra",
+        "url": "https://github.com/h4570/tyra",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "game development",
+          "game engine",
+          "h4570",
+          "tyra"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: helworks/helengine-demo-disc",
+        "url": "https://github.com/helworks/helengine-demo-disc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "game development",
+          "game engine",
+          "helworks",
+          "helengine",
+          "demo",
+          "disc"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: helworks/helengine-ps2",
+        "url": "https://github.com/helworks/helengine-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "game development",
+          "game engine",
+          "helworks",
+          "helengine",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: ProjectDreamland/area51",
+        "url": "https://github.com/ProjectDreamland/area51",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "game development",
+          "game engine",
+          "ProjectDreamland",
+          "area51"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: Rider-UwU-Black/R2Engine",
+        "url": "https://github.com/Rider-UwU-Black/R2Engine",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "game engine",
+          "Rider",
+          "UwU",
+          "Black",
+          "R2Engine"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: robfernan/PS2-Programming",
+        "url": "https://github.com/robfernan/PS2-Programming",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "game development",
+          "robfernan",
+          "PS2",
+          "Programming"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: sigmaco/rwsdk-v3.5-ps2",
+        "url": "https://github.com/sigmaco/rwsdk-v3.5-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "game engine",
+          "sigmaco",
+          "rwsdk",
+          "v3",
+          "5",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: sounddrill31/sm64-port",
+        "url": "https://github.com/sounddrill31/sm64-port",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "port",
+          "sounddrill31",
+          "sm64",
+          "port"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: vs-sr-dev/pc-rpgmaker3",
+        "url": "https://github.com/vs-sr-dev/pc-rpgmaker3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "game engine",
+          "vs",
+          "sr",
+          "dev",
+          "pc",
+          "rpgmaker3"
+        ]
+      },
+      {
+        "name": "GitHub PS2 project: xaskasdf/biw_engine",
+        "url": "https://github.com/xaskasdf/biw_engine",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "port",
+          "engine",
+          "development",
+          "GitHub",
+          "game development",
+          "game engine",
+          "xaskasdf",
+          "biw",
+          "engine"
+        ]
+      }
+    ]
+  }
+]

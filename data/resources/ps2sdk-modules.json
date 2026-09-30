@@ -1,0 +1,161 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Named PS2SDK Doxygen API groups and modules.",
+    "links": [
+      {
+        "name": "PS2SDK Module — NETIF Flags",
+        "url": "https://ps2dev.github.io/ps2sdk/group__netif__flags.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "module",
+          "API",
+          "network",
+          "netif",
+          "flags"
+        ]
+      },
+      {
+        "name": "PS2SDK Module — LOADFILE",
+        "url": "https://ps2dev.github.io/ps2sdk/group__loadfile.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "module",
+          "API",
+          "LOADFILE",
+          "ELF loading",
+          "RPC"
+        ]
+      },
+      {
+        "name": "PS2SDK Module — Packet2",
+        "url": "https://ps2dev.github.io/ps2sdk/group__packet2.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "module",
+          "API",
+          "packet2",
+          "DMA packet",
+          "GIF",
+          "VIF"
+        ]
+      },
+      {
+        "name": "PS2SDK Module — Packet2 Chain",
+        "url": "https://ps2dev.github.io/ps2sdk/group__packet2__chain.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "module",
+          "API",
+          "packet2",
+          "DMA chain"
+        ]
+      },
+      {
+        "name": "PS2SDK Module — Packet2 Types",
+        "url": "https://ps2dev.github.io/ps2sdk/group__packet2__types.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "module",
+          "API",
+          "packet2",
+          "types",
+          "DMA"
+        ]
+      },
+      {
+        "name": "PS2SDK Module — Packet2 Utilities",
+        "url": "https://ps2dev.github.io/ps2sdk/group__packet2__utils.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "module",
+          "API",
+          "packet2",
+          "utilities"
+        ]
+      },
+      {
+        "name": "PS2SDK Module — Packet2 VIF",
+        "url": "https://ps2dev.github.io/ps2sdk/group__packet2__vif.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "module",
+          "API",
+          "packet2",
+          "VIF",
+          "Vector Interface"
+        ]
+      },
+      {
+        "name": "PS2SDK Module — FakeHost",
+        "url": "https://ps2dev.github.io/ps2sdk/group__fakehost.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "module",
+          "API",
+          "FakeHost",
+          "host filesystem",
+          "debugging"
+        ]
+      },
+      {
+        "name": "PS2SDK Module — PS2NetFS",
+        "url": "https://ps2dev.github.io/ps2sdk/group__ps2netfs.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "module",
+          "API",
+          "PS2NetFS",
+          "network filesystem",
+          "host"
+        ]
+      },
+      {
+        "name": "PS2SDK Module — IOP Manager",
+        "url": "https://ps2dev.github.io/ps2sdk/group__iopmgr.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "module",
+          "API",
+          "IOPMGR",
+          "IOP",
+          "module manager"
+        ]
+      },
+      {
+        "name": "PS2SDK Module — DEVFS",
+        "url": "https://ps2dev.github.io/ps2sdk/group__devfs.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "module",
+          "API",
+          "DEVFS",
+          "device filesystem",
+          "IOP"
+        ]
+      }
+    ]
+  }
+]

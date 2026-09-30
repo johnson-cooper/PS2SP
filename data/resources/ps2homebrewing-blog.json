@@ -1,0 +1,772 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Individual posts from the surviving PS2 Homebrewing development blog, preserving PS2Doom, PS2VICE, gsKit/libito experiments, Nicky Boum, JammerPS2, build notes, source releases, and scene-era development history.",
+    "links": [
+      {
+        "name": "PS2 Homebrewing Archive — Still Alive 2",
+        "url": "https://ps2homebrewing.wordpress.com/2012/06/10/still-alive-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Still",
+          "Alive",
+          "2"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Makefiles",
+        "url": "https://ps2homebrewing.wordpress.com/2010/06/10/makefiles",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Makefiles"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — My Ps2client Is Mute",
+        "url": "https://ps2homebrewing.wordpress.com/2010/08/27/my-ps2client-is-mute",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "My",
+          "Ps2client",
+          "Is",
+          "Mute"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Still Alive",
+        "url": "https://ps2homebrewing.wordpress.com/2011/08/11/still-alive",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Still",
+          "Alive"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Nicky Boum Ps2",
+        "url": "https://ps2homebrewing.wordpress.com/2010/12/25/nicky-boum-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Nicky",
+          "Boum",
+          "Ps2"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Netbeans Kicks Ass",
+        "url": "https://ps2homebrewing.wordpress.com/2010/09/19/netbeans-kicks-ass",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Netbeans",
+          "Kicks",
+          "Ass"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Valueable Myps2 Sources Part 2",
+        "url": "https://ps2homebrewing.wordpress.com/2010/09/19/valueable-myps2-sources-part-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Valueable",
+          "Myps2",
+          "Sources",
+          "Part",
+          "2"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Valueable Myps2 Sources",
+        "url": "https://ps2homebrewing.wordpress.com/2010/08/27/valueable-myps2-sources",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Valueable",
+          "Myps2",
+          "Sources"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — PS2Doom v1.0.5.0",
+        "url": "https://ps2homebrewing.wordpress.com/2010/03/21/ps2doom-v1-0-5-0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "PS2Doom",
+          "v1.0.5.0"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Its Official",
+        "url": "https://ps2homebrewing.wordpress.com/2009/12/30/its-official",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Its",
+          "Official"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Inspiration From The Other Side",
+        "url": "https://ps2homebrewing.wordpress.com/2009/12/25/inspiration-from-the-other-side",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Inspiration",
+          "From",
+          "The",
+          "Other",
+          "Side"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Ho Ho Ho",
+        "url": "https://ps2homebrewing.wordpress.com/2009/12/25/ho-ho-ho",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Ho",
+          "Ho",
+          "Ho"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Ps2doom V1 0 4 1",
+        "url": "https://ps2homebrewing.wordpress.com/2009/06/12/ps2doom-v1-0-4-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Ps2doom",
+          "V1",
+          "0",
+          "4",
+          "1"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — PS2Doom v1.0.4.0",
+        "url": "https://ps2homebrewing.wordpress.com/2009/05/31/ps2doom-v1-0-4-0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "PS2Doom",
+          "v1.0.4.0"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — PS2Doom v1.0.3.0",
+        "url": "https://ps2homebrewing.wordpress.com/2009/05/01/ps2doom-v1030",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "PS2Doom",
+          "v1.0.3.0"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Ps2doom V1022",
+        "url": "https://ps2homebrewing.wordpress.com/2009/04/20/ps2doom-v1022",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Ps2doom",
+          "V1022"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Jammerps2 Cannon Fodder Edition",
+        "url": "https://ps2homebrewing.wordpress.com/2009/04/12/jammerps2-cannon-fodder-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Jammerps2",
+          "Cannon",
+          "Fodder",
+          "Edition"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Strafe Support For Ps2doom",
+        "url": "https://ps2homebrewing.wordpress.com/2009/03/15/strafe-support-for-ps2doom",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Strafe",
+          "Support",
+          "For",
+          "Ps2doom"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Ps2doom V1021",
+        "url": "https://ps2homebrewing.wordpress.com/2009/03/12/ps2doom-v1021",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Ps2doom",
+          "V1021"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Ps2doom V1020",
+        "url": "https://ps2homebrewing.wordpress.com/2009/03/01/ps2doom-v1020",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Ps2doom",
+          "V1020"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Ps2doom With Proper Sound At Last",
+        "url": "https://ps2homebrewing.wordpress.com/2009/02/24/ps2doom-with-proper-sound-at-last",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Ps2doom",
+          "With",
+          "Proper",
+          "Sound",
+          "At",
+          "Last"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Sound In Ps2doom Closer Than Ever",
+        "url": "https://ps2homebrewing.wordpress.com/2009/02/22/sound-in-ps2doom-closer-than-ever",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Sound",
+          "In",
+          "Ps2doom",
+          "Closer",
+          "Than",
+          "Ever"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Good News Regarding The Mixer",
+        "url": "https://ps2homebrewing.wordpress.com/2009/02/07/good-news-regarding-the-mixer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Good",
+          "News",
+          "Regarding",
+          "The",
+          "Mixer"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Hacking Ps2vice",
+        "url": "https://ps2homebrewing.wordpress.com/2008/02/03/hacking-ps2vice",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Hacking",
+          "Ps2vice"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Done At Last",
+        "url": "https://ps2homebrewing.wordpress.com/2008/01/26/done-at-last",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Done",
+          "At",
+          "Last"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Sources Of Natal 2007 Available",
+        "url": "https://ps2homebrewing.wordpress.com/2009/01/18/sources-of-natal-2007-available",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Sources",
+          "Of",
+          "Natal",
+          "2007",
+          "Available"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Ps2doom Time For Updates",
+        "url": "https://ps2homebrewing.wordpress.com/2008/12/29/ps2doom-time-for-updates",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Ps2doom",
+          "Time",
+          "For",
+          "Updates"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Ps2doom The Quest For Sound",
+        "url": "https://ps2homebrewing.wordpress.com/2008/10/04/ps2doom-the-quest-for-sound",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Ps2doom",
+          "The",
+          "Quest",
+          "For",
+          "Sound"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Lsdldoom Ps2 Update 5",
+        "url": "https://ps2homebrewing.wordpress.com/2008/04/27/lsdldoom-ps2-update-5",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Lsdldoom",
+          "Ps2",
+          "Update",
+          "5"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — My New Nick",
+        "url": "https://ps2homebrewing.wordpress.com/2008/08/03/my-new-nick",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "My",
+          "New",
+          "Nick"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Some Updates",
+        "url": "https://ps2homebrewing.wordpress.com/2008/08/03/some-updates",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Some",
+          "Updates"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Beginners And Noobs Are Not The Same",
+        "url": "https://ps2homebrewing.wordpress.com/2008/07/12/beginners-and-noobs-are-not-the-same",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Beginners",
+          "And",
+          "Noobs",
+          "Are",
+          "Not",
+          "The",
+          "Same"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — My Adventures In Gslib Part 2",
+        "url": "https://ps2homebrewing.wordpress.com/2008/05/14/my-adventures-in-gslib-part-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "My",
+          "Adventures",
+          "In",
+          "Gslib",
+          "Part",
+          "2"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — And Now For Something You All Were Expecting",
+        "url": "https://ps2homebrewing.wordpress.com/2008/06/08/and-now-for-something-you-all-were-expecting",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "And",
+          "Now",
+          "For",
+          "Something",
+          "You",
+          "All",
+          "Were",
+          "Expecting"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Still About Gskit And Interlaced Mode Part 2",
+        "url": "https://ps2homebrewing.wordpress.com/2008/05/15/still-about-gskit-and-interlaced-mode-part-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Still",
+          "About",
+          "Gskit",
+          "And",
+          "Interlaced",
+          "Mode",
+          "Part",
+          "2"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Still About Gskit And Interlaced Mode",
+        "url": "https://ps2homebrewing.wordpress.com/2008/05/14/still-about-gskit-and-interlaced-mode",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Still",
+          "About",
+          "Gskit",
+          "And",
+          "Interlaced",
+          "Mode"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — My Adventures in Libito – part 2",
+        "url": "https://ps2homebrewing.wordpress.com/2008/05/08/my-adventures-in-libito-part-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "My",
+          "Adventures",
+          "in",
+          "Libito",
+          "–",
+          "part",
+          "2"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — My Adventures In Gslib",
+        "url": "https://ps2homebrewing.wordpress.com/2008/05/06/my-adventures-in-gslib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "My",
+          "Adventures",
+          "In",
+          "Gslib"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — My Adventures In Libito",
+        "url": "https://ps2homebrewing.wordpress.com/2008/05/06/my-adventures-in-libito",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "My",
+          "Adventures",
+          "In",
+          "Libito"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Lsdldoom Ps2 Building Instructions",
+        "url": "https://ps2homebrewing.wordpress.com/2008/04/19/lsdldoom-ps2-building-instructions",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Lsdldoom",
+          "Ps2",
+          "Building",
+          "Instructions"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Lsdldoom Ps2 Update 2",
+        "url": "https://ps2homebrewing.wordpress.com/2008/03/26/lsdldoom-ps2-update-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Lsdldoom",
+          "Ps2",
+          "Update",
+          "2"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Lsdldoom Ps2 Update 4",
+        "url": "https://ps2homebrewing.wordpress.com/2008/04/11/lsdldoom-ps2-update-4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Lsdldoom",
+          "Ps2",
+          "Update",
+          "4"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Lsdldoom Ps2 Update 3",
+        "url": "https://ps2homebrewing.wordpress.com/2008/04/05/lsdldoom-ps2-update-3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Lsdldoom",
+          "Ps2",
+          "Update",
+          "3"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Public Sources",
+        "url": "https://ps2homebrewing.wordpress.com/2008/04/05/public-sources",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Public",
+          "Sources"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Bugs",
+        "url": "https://ps2homebrewing.wordpress.com/2008/03/24/bugs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Bugs"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Lsdldoom Ps2 Update 1",
+        "url": "https://ps2homebrewing.wordpress.com/2008/03/24/lsdldoom-ps2-update-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Lsdldoom",
+          "Ps2",
+          "Update",
+          "1"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Lsdldoom Ps2 Another Flavour Of Doom For The Ps2",
+        "url": "https://ps2homebrewing.wordpress.com/2008/03/21/lsdldoom-ps2-another-flavour-of-doom-for-the-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Lsdldoom",
+          "Ps2",
+          "Another",
+          "Flavour",
+          "Of",
+          "Doom",
+          "For",
+          "The",
+          "Ps2"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Modified Ps2 Port Of Doom Update 1",
+        "url": "https://ps2homebrewing.wordpress.com/2008/03/16/modified-ps2-port-of-doom-update-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Modified",
+          "Ps2",
+          "Port",
+          "Of",
+          "Doom",
+          "Update",
+          "1"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Modified Ps2 Port Of Doom",
+        "url": "https://ps2homebrewing.wordpress.com/2008/02/19/modified-ps2-port-of-doom",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Modified",
+          "Ps2",
+          "Port",
+          "Of",
+          "Doom"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — Free Svn Repository",
+        "url": "https://ps2homebrewing.wordpress.com/2007/12/25/free-svn-repository",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "Free",
+          "Svn",
+          "Repository"
+        ]
+      },
+      {
+        "name": "PS2 Homebrewing Archive — First Post",
+        "url": "https://ps2homebrewing.wordpress.com/2007/12/25/first-post",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Homebrewing",
+          "legacy blog",
+          "homebrew development",
+          "First",
+          "Post"
+        ]
+      }
+    ]
+  }
+]

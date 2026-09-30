@@ -1,0 +1,542 @@
+[
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "Additional granular PS2Wiki pages for terminology, controller differences, OPL flavors, SAS warnings/indicators, storage concepts, archives, source links and other PS2-specific documentation.",
+    "links": [
+      {
+        "name": "PS2Wiki Deep — format ps2s internal storage",
+        "url": "https://ps2wiki.github.io/general/2024/02/04/format-ps2s-internal-storage.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "general",
+          "2024",
+          "02",
+          "04",
+          "format",
+          "ps2s",
+          "internal",
+          "storage",
+          "html",
+          "format ps2s internal storage"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — verify the integrity of your game backups",
+        "url": "https://ps2wiki.github.io/general/2024/02/19/verify-the-integrity-of-your-game-backups.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "general",
+          "2024",
+          "02",
+          "19",
+          "verify",
+          "the",
+          "integrity",
+          "of",
+          "your",
+          "game",
+          "backups",
+          "html",
+          "verify the integrity of your game backups"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — sas warnings megapost",
+        "url": "https://ps2wiki.github.io/ps2-app-system/sas/2024/08/19/sas-warnings-megapost.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "ps2",
+          "app",
+          "system",
+          "sas",
+          "2024",
+          "08",
+          "19",
+          "sas",
+          "warnings",
+          "megapost",
+          "html",
+          "sas warnings megapost"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — how to swap buttons on blueretro via bluetooth",
+        "url": "https://ps2wiki.github.io/blueretro/2024/09/23/how-to-swap-buttons-on-blueretro-via-bluetooth.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "blueretro",
+          "2024",
+          "09",
+          "23",
+          "how",
+          "to",
+          "swap",
+          "buttons",
+          "on",
+          "blueretro",
+          "via",
+          "bluetooth",
+          "html",
+          "how to swap buttons on blueretro via bluetooth"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — updating the firmware",
+        "url": "https://ps2wiki.github.io/blueretro/2024/09/23/updating-the-firmware.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "blueretro",
+          "2024",
+          "09",
+          "23",
+          "updating",
+          "the",
+          "firmware",
+          "html",
+          "updating the firmware"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — how to install app psus",
+        "url": "https://ps2wiki.github.io/ps2-app-system/sas/2024/12/13/how-to-install-app-psus.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "ps2",
+          "app",
+          "system",
+          "sas",
+          "2024",
+          "12",
+          "13",
+          "how",
+          "to",
+          "install",
+          "app",
+          "psus",
+          "html",
+          "how to install app psus"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — installation megaguide",
+        "url": "https://ps2wiki.github.io/open-ps2-loader/2025/08/07/installation-megaguide.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "open",
+          "ps2",
+          "loader",
+          "2025",
+          "08",
+          "07",
+          "installation",
+          "megaguide",
+          "html",
+          "installation megaguide"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — about",
+        "url": "https://ps2wiki.github.io/about.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "about",
+          "html",
+          "about"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — categories",
+        "url": "https://ps2wiki.github.io/categories.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "categories",
+          "html",
+          "categories"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — differences between DualShock3 and DualShock4 controllers",
+        "url": "https://ps2wiki.github.io/documentation/general/differences-between-DualShock3-and-DualShock4-controllers/differences-between-DualShock3-and-DualShock4-controllers.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "documentation",
+          "general",
+          "differences",
+          "between",
+          "DualShock3",
+          "and",
+          "DualShock4",
+          "controllers",
+          "differences",
+          "between",
+          "DualShock3",
+          "and",
+          "DualShock4",
+          "controllers",
+          "html",
+          "differences between DualShock3 and DualShock4 controllers"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — documentation",
+        "url": "https://ps2wiki.github.io/documentation.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "documentation",
+          "html",
+          "documentation"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — get started",
+        "url": "https://ps2wiki.github.io/get_started.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "get",
+          "started",
+          "html",
+          "get started"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — general",
+        "url": "https://ps2wiki.github.io/documentation/general",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "documentation",
+          "general",
+          "general"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — POPStarter",
+        "url": "https://ps2wiki.github.io/documentation/homebrew/POPStarter",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "documentation",
+          "homebrew",
+          "POPStarter",
+          "POPStarter"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — FreeMCBoot",
+        "url": "https://ps2wiki.github.io/documentation/homebrew/FreeMCBoot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "documentation",
+          "homebrew",
+          "FreeMCBoot",
+          "FreeMCBoot"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — SAS",
+        "url": "https://ps2wiki.github.io/documentation/homebrew/PS2-App-System/SAS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "documentation",
+          "homebrew",
+          "PS2",
+          "App",
+          "System",
+          "SAS",
+          "SAS"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — Open PS2 Loader",
+        "url": "https://ps2wiki.github.io/documentation/homebrew/Open-PS2-Loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "documentation",
+          "homebrew",
+          "Open",
+          "PS2",
+          "Loader",
+          "Open PS2 Loader"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — archive",
+        "url": "https://ps2wiki.github.io/archive",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "archive",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — The PS2 Homebrew Wiki | PS2Wiki",
+        "url": "https://ps2wiki.github.io",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "The PS2 Homebrew Wiki | PS2Wiki"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — indicators and warnings",
+        "url": "https://ps2wiki.github.io/documentation/homebrew/PS2-App-System/SAS/indicators-and-warnings/indicators-and-warnings.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "documentation",
+          "homebrew",
+          "PS2",
+          "App",
+          "System",
+          "SAS",
+          "indicators",
+          "and",
+          "warnings",
+          "indicators",
+          "and",
+          "warnings",
+          "html",
+          "indicators and warnings"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — internal memory vs external memory",
+        "url": "https://ps2wiki.github.io/documentation/general/internal-memory-vs-external-memory/internal-memory-vs-external-memory.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "documentation",
+          "general",
+          "internal",
+          "memory",
+          "vs",
+          "external",
+          "memory",
+          "internal",
+          "memory",
+          "vs",
+          "external",
+          "memory",
+          "html",
+          "internal memory vs external memory"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — links and sources",
+        "url": "https://ps2wiki.github.io/links_and_sources.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "links",
+          "and",
+          "sources",
+          "html",
+          "links and sources"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — news",
+        "url": "https://ps2wiki.github.io/archive/news.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "archive",
+          "news",
+          "html",
+          "news"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — opl flavors",
+        "url": "https://ps2wiki.github.io/documentation/homebrew/Open-PS2-Loader/opl-flavors/opl-flavors.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "documentation",
+          "homebrew",
+          "Open",
+          "PS2",
+          "Loader",
+          "opl",
+          "flavors",
+          "opl",
+          "flavors",
+          "html",
+          "opl flavors"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — tags",
+        "url": "https://ps2wiki.github.io/tags.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "tags",
+          "html",
+          "tags"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — terms and acronyms",
+        "url": "https://ps2wiki.github.io/documentation/general/terms-and-acronyms/terms-and-acronyms.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "documentation",
+          "general",
+          "terms",
+          "and",
+          "acronyms",
+          "terms",
+          "and",
+          "acronyms",
+          "html",
+          "terms and acronyms"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — tips",
+        "url": "https://ps2wiki.github.io/archive/tips.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "archive",
+          "tips",
+          "html",
+          "tips"
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — Save Application System Apps Archive | SAS ...",
+        "url": "https://ps2wiki.github.io/sas-apps-archive",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "sas",
+          "apps",
+          "archive",
+          "Save Application System Apps Archive | SAS ..."
+        ]
+      },
+      {
+        "name": "PS2Wiki Deep — Unified MemoryCard Setup | SAS Apps Archive",
+        "url": "https://ps2wiki.github.io/sas-apps-archive/psu-categories/umcs.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Wiki",
+          "homebrew",
+          "documentation",
+          "sas",
+          "apps",
+          "archive",
+          "psu",
+          "categories",
+          "umcs",
+          "html",
+          "Unified MemoryCard Setup | SAS Apps Archive"
+        ]
+      }
+    ]
+  }
+]

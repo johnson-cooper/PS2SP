@@ -1,0 +1,424 @@
+[
+  {
+    "category": "PSBBN & PS2 Linux",
+    "description": "Granular tutorials from Dr Henry S. Fortuna's preserved PlayStation 2 Linux Games Programming site, covering VU0/VU1, graphics, matrices, lighting, networking, audio, collisions, texturing and game frameworks.",
+    "links": [
+      {
+        "name": "PS2 Linux Games Programming — VU1 Vertex Transformation",
+        "url": "http://ps2-edu.tensioncore.com/vutut1/vutut1.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "VU1",
+          "vertex transformation",
+          "Vector Unit"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — VU1 Frustum Clipping",
+        "url": "http://ps2-edu.tensioncore.com/vutut6/vutut6.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "VU1",
+          "frustum clipping",
+          "Vector Unit"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — Bitmap Font Class",
+        "url": "http://ps2-edu.tensioncore.com/font/font.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "bitmap font",
+          "text rendering",
+          "debug text"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — Sky Box",
+        "url": "https://ps2-edu.tensioncore.com/sky/sky.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "sky box",
+          "3D",
+          "rendering"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — VU1 3D Object Rendering",
+        "url": "http://ps2-edu.tensioncore.com/vutut4/vutut4.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "VU1",
+          "3D",
+          "cube",
+          "rendering"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — Rendering Many Similar Models",
+        "url": "http://ps2-edu.tensioncore.com/many/many.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "3D",
+          "models",
+          "textures",
+          "rendering"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — Quaternions",
+        "url": "http://ps2-edu.tensioncore.com/quat/quat.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "quaternion",
+          "rotation",
+          "3D math"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — 2D Drawing / GIF Pipeline",
+        "url": "http://ps2-edu.tensioncore.com/2ddp1/2ddp1.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "GIF",
+          "Graphics Synthesizer",
+          "2D",
+          "rendering"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — Split Screen Rendering",
+        "url": "https://ps2-edu.tensioncore.com/split/split.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "split screen",
+          "dual view",
+          "rendering"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — VU1 UV Texture Mapping",
+        "url": "http://ps2-edu.tensioncore.com/vutut2/vutut2.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "VU1",
+          "UV",
+          "texture mapping"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — VU1 STQ Perspective-Correct Texturing",
+        "url": "http://ps2-edu.tensioncore.com/vutut3/vutut3.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "VU1",
+          "STQ",
+          "perspective correct",
+          "texture mapping"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — MIPS Assembly on the Emotion Engine",
+        "url": "http://ps2-edu.tensioncore.com/asm/asm.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "MIPS",
+          "assembly",
+          "Emotion Engine",
+          "GCC"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — VU0 Programming",
+        "url": "http://ps2-edu.tensioncore.com/vu0/vu0.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "VU0",
+          "Vector Unit",
+          "SIMD",
+          "vectors"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — 2D Collision Detection and Response",
+        "url": "http://ps2-edu.tensioncore.com/collide/collide.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "collision detection",
+          "2D",
+          "game programming"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — World Transformation Matrix",
+        "url": "http://ps2-edu.tensioncore.com/wmat/wmat.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "world matrix",
+          "transformation",
+          "3D math"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — VU1 Backface Culling",
+        "url": "http://ps2-edu.tensioncore.com/backf/backf.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "VU1",
+          "backface culling",
+          "rendering"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — Directional and Ambient Lighting",
+        "url": "http://ps2-edu.tensioncore.com/light1/light1.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "lighting",
+          "ambient light",
+          "directional light",
+          "3D"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — Legacy PS2 Linux Programming Site",
+        "url": "http://ps2-edu.tensioncore.com/old/index.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "PS2 Linux",
+          "legacy site",
+          "Henry Fortuna"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — UDP Networking Tutorial",
+        "url": "http://ps2-edu.tensioncore.com/udpnet/udpnet.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "UDP",
+          "networking",
+          "PS2 Linux",
+          "multiplayer"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — Z Buffer",
+        "url": "https://ps2-edu.tensioncore.com/zbuf/zbuf.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "Z buffer",
+          "depth buffer",
+          "rendering"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — Game Framework",
+        "url": "http://ps2-edu.tensioncore.com/gframe/gframe.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "game framework",
+          "PS2 Linux",
+          "template"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — Sprite Matrix Transformations",
+        "url": "http://ps2-edu.tensioncore.com/spmat/spmat.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "sprite",
+          "matrix",
+          "2D",
+          "transform"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — Audio Framework",
+        "url": "http://ps2-edu.tensioncore.com/audiofw/audiofw.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "audio",
+          "sound",
+          "PS2 Linux",
+          "SPU"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — Specular Highlights",
+        "url": "http://ps2-edu.tensioncore.com/spclr/spclr.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "specular",
+          "lighting",
+          "3D"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — 3D Graphics API for PS2 Linux",
+        "url": "http://ps2-edu.tensioncore.com/3dapi/3dapi.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "3D API",
+          "VU memory",
+          "lighting",
+          "PS2 Linux"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — 2D Animation",
+        "url": "http://ps2-edu.tensioncore.com/anim2d/anim2d.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "2D animation",
+          "sprite",
+          "rendering"
+        ]
+      },
+      {
+        "name": "PS2 Linux Games Programming — Texture Mapping",
+        "url": "http://ps2-edu.tensioncore.com/texmap1/texmap1.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "tutorial",
+          "game development",
+          "texture mapping",
+          "PS2 Linux",
+          "graphics"
+        ]
+      }
+    ]
+  }
+]

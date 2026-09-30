@@ -1,0 +1,429 @@
+[
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "Surviving X-PEC, CDVDMANIA, and Napalm-X mirrors preserving early PS2 HDD, modchip, CDVD, MagicGate, and developer documentation.",
+    "links": [
+      {
+        "name": "X-PEC — Sony PlayStation 2 Modifications Archive",
+        "url": "http://ps2.x-pec.com",
+        "keywords": [
+          "PS2",
+          "X-PEC",
+          "legacy site",
+          "modding",
+          "HDD",
+          "DMS",
+          "preservation"
+        ]
+      },
+      {
+        "name": "X-PEC — PS2 Applications",
+        "url": "http://ps2.x-pec.com/applications_ps2",
+        "keywords": [
+          "PS2",
+          "X-PEC",
+          "applications",
+          "homebrew",
+          "legacy software"
+        ]
+      },
+      {
+        "name": "X-PEC — PC Applications for PS2",
+        "url": "http://ps2.x-pec.com/applications_pc",
+        "keywords": [
+          "PS2",
+          "X-PEC",
+          "PS2Link",
+          "PC tools",
+          "ELF",
+          "IRX"
+        ]
+      },
+      {
+        "name": "X-PEC — PS2 Model Differences",
+        "url": "http://ps2.x-pec.com/ps2_differences",
+        "keywords": [
+          "PS2",
+          "X-PEC",
+          "models",
+          "hardware revisions",
+          "SCPH"
+        ]
+      },
+      {
+        "name": "X-PEC — Bootable PS2 Disc Guide",
+        "url": "http://ps2.x-pec.com/bootable_ps2_disc.html",
+        "keywords": [
+          "PS2",
+          "bootable disc",
+          "SYSTEM.CNF",
+          "ELF",
+          "CDVD",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "X-PEC — DMS DEV1 Technical Information",
+        "url": "http://ps2.x-pec.com/dms_dev1_tech.html",
+        "keywords": [
+          "PS2",
+          "DMS3",
+          "DEV1",
+          "memory card",
+          "development mode",
+          "technical"
+        ]
+      },
+      {
+        "name": "X-PEC — DMS DEV2 Technical Information",
+        "url": "http://ps2.x-pec.com/dms_dev2_tech.html",
+        "keywords": [
+          "PS2",
+          "DMS3",
+          "DEV2",
+          "HDD",
+          "development mode",
+          "technical"
+        ]
+      },
+      {
+        "name": "X-PEC — DMS Explorer Technical Archive",
+        "url": "http://ps2.x-pec.com/files/dms_explorer_tech",
+        "keywords": [
+          "PS2",
+          "DMS Explorer",
+          "memory card",
+          "HDD",
+          "FTP",
+          "legacy forum"
+        ]
+      },
+      {
+        "name": "X-PEC — DMS3 Operation & Configuration",
+        "url": "http://ps2.x-pec.com/dms3_operation.html",
+        "keywords": [
+          "PS2",
+          "DMS3",
+          "modchip",
+          "DEV1",
+          "DEV2",
+          "configuration"
+        ]
+      },
+      {
+        "name": "X-PEC — DMS Flash/Firmware Upgrade",
+        "url": "http://ps2.x-pec.com/dms_flash_upgrade",
+        "keywords": [
+          "PS2",
+          "DMS3",
+          "firmware",
+          "flash",
+          "modchip"
+        ]
+      },
+      {
+        "name": "X-PEC — DMS Configuration Menu",
+        "url": "http://ps2.x-pec.com/dms_configuration_menu",
+        "keywords": [
+          "PS2",
+          "DMS3",
+          "configuration menu",
+          "modchip"
+        ]
+      },
+      {
+        "name": "X-PEC — PS2 Hard Drive Compatibility Chart",
+        "url": "https://ps2drives.x-pec.com",
+        "keywords": [
+          "PS2",
+          "HDD",
+          "hard drive",
+          "compatibility",
+          "HDLoader",
+          "network adapter",
+          "X-PEC"
+        ]
+      },
+      {
+        "name": "X-PEC — DMS HDD Format Tool",
+        "url": "http://ps2.x-pec.com/dms_hdd_format",
+        "keywords": [
+          "PS2",
+          "DMS",
+          "HDD format",
+          "APA",
+          "filesystem"
+        ]
+      },
+      {
+        "name": "X-PEC — DMS HDD Dump Tool",
+        "url": "http://ps2.x-pec.com/dms_hdd_dump",
+        "keywords": [
+          "PS2",
+          "DMS",
+          "HDD dump",
+          "CDVD",
+          "filesystem"
+        ]
+      },
+      {
+        "name": "X-PEC — DMS DEV2 HDD Explorer",
+        "url": "http://ps2.x-pec.com/dms_dev2_hdd_explorer",
+        "keywords": [
+          "PS2",
+          "DMS",
+          "DEV2",
+          "HDD Explorer",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "X-PEC — DMS DEV1 Explorer",
+        "url": "http://ps2.x-pec.com/dms_dev1_explorer",
+        "keywords": [
+          "PS2",
+          "DMS",
+          "DEV1",
+          "memory card",
+          "INSTALL.CNF"
+        ]
+      },
+      {
+        "name": "X-PEC — PS2Ownz HDD Tool Archive",
+        "url": "http://ps2.x-pec.com/hdd_tool",
+        "keywords": [
+          "PS2",
+          "PS2Ownz",
+          "HDD Tool",
+          "filesystem",
+          "legacy"
+        ]
+      },
+      {
+        "name": "CDVDMANIA Mirror — Documentation Index",
+        "url": "https://lukasz.dk/mirror/cdvdmania/docsps2.html",
+        "keywords": [
+          "PS2",
+          "CDVDMANIA",
+          "CDVDMAN",
+          "MCSERV",
+          "SECRMAN",
+          "PS2 programming",
+          "mirror"
+        ]
+      },
+      {
+        "name": "CDVDMANIA Mirror — CDVDMAN API Quick Reference",
+        "url": "http://lukasz.dk/mirror/cdvdmania/cdvdapi.html",
+        "keywords": [
+          "PS2",
+          "CDVDMAN",
+          "sceCd",
+          "API",
+          "CDVD",
+          "IOP"
+        ]
+      },
+      {
+        "name": "CDVDMANIA Mirror — CDVDMAN Description",
+        "url": "http://lukasz.dk/mirror/cdvdmania/ps2pdocs/cdvdman/title.html",
+        "keywords": [
+          "PS2",
+          "CDVDMAN",
+          "CDVD driver",
+          "BIOS",
+          "IOP",
+          "ROM"
+        ]
+      },
+      {
+        "name": "CDVDMANIA Mirror — SECRMAN / MagicGate",
+        "url": "http://www.lukasz.dk/mirror/cdvdmania/secrman.html",
+        "keywords": [
+          "PS2",
+          "SECRMAN",
+          "MagicGate",
+          "MechaCon",
+          "encryption",
+          "IRX"
+        ]
+      },
+      {
+        "name": "CDVDMANIA Mirror — Downloads",
+        "url": "https://lukasz.dk/mirror/cdvdmania/downloads.html",
+        "keywords": [
+          "PS2",
+          "CDVDMANIA",
+          "IOP modules",
+          "CDVDMAN",
+          "DEV9",
+          "downloads"
+        ]
+      },
+      {
+        "name": "CDVDMANIA Mirror — sceCdInit",
+        "url": "http://lukasz.dk/mirror/cdvdmania/ps2pdocs/cdvdman/scecdinit.html",
+        "keywords": [
+          "PS2",
+          "sceCdInit",
+          "CDVDMAN",
+          "interrupts",
+          "DMA"
+        ]
+      },
+      {
+        "name": "CDVDMANIA Mirror — sceCdRead",
+        "url": "http://lukasz.dk/mirror/cdvdmania/ps2pdocs/cdvdman/scecdread.html",
+        "keywords": [
+          "PS2",
+          "sceCdRead",
+          "CDVD",
+          "sector read",
+          "CDVDMAN"
+        ]
+      },
+      {
+        "name": "CDVDMANIA Mirror — sceCdGetToc",
+        "url": "http://lukasz.dk/mirror/cdvdmania/ps2pdocs/cdvdman/scecdgettoc.html",
+        "keywords": [
+          "PS2",
+          "sceCdGetToc",
+          "TOC",
+          "CDVD",
+          "CDVDMAN"
+        ]
+      },
+      {
+        "name": "CDVDMANIA Mirror — sceCdReadClock",
+        "url": "http://www.lukasz.dk/mirror/cdvdmania/ps2pdocs/cdvdman/scecdreadclock.html",
+        "keywords": [
+          "PS2",
+          "sceCdReadClock",
+          "RTC",
+          "CDVDMAN"
+        ]
+      },
+      {
+        "name": "CDVDMANIA Mirror — sceCdApplySCmd",
+        "url": "https://lukasz.dk/mirror/cdvdmania/ps2pdocs/cdvdman/scecdapplyscmd.html",
+        "keywords": [
+          "PS2",
+          "sceCdApplySCmd",
+          "S-Command",
+          "MechaCon",
+          "CDVD"
+        ]
+      },
+      {
+        "name": "CDVDMANIA Mirror — sceCdReadDvdDualInfo",
+        "url": "https://lukasz.dk/mirror/cdvdmania/ps2pdocs/cdvdman/scecdreaddvddualinfo.html",
+        "keywords": [
+          "PS2",
+          "DVD9",
+          "dual layer",
+          "sceCdReadDvdDualInfo",
+          "CDVD"
+        ]
+      },
+      {
+        "name": "CDVDMANIA Mirror — sceCdRI / iLink ID",
+        "url": "http://lukasz.dk/mirror/cdvdmania/ps2pdocs/cdvdman/scecdri.html",
+        "keywords": [
+          "PS2",
+          "sceCdRI",
+          "iLink ID",
+          "console ID",
+          "CDVD"
+        ]
+      },
+      {
+        "name": "CDVDMANIA Mirror — sceCdlFILE Structure",
+        "url": "http://lukasz.dk/mirror/cdvdmania/ps2pdocs/cdvdman/scecdlfile.html",
+        "keywords": [
+          "PS2",
+          "sceCdlFILE",
+          "CDVD",
+          "filesystem",
+          "file structure"
+        ]
+      },
+      {
+        "name": "CDVDMANIA Mirror — sceCdCLOCK Structure",
+        "url": "https://lukasz.dk/mirror/cdvdmania/ps2pdocs/cdvdman/scecdclock.html",
+        "keywords": [
+          "PS2",
+          "sceCdCLOCK",
+          "RTC",
+          "CDVDMAN",
+          "structure"
+        ]
+      },
+      {
+        "name": "CDVDMANIA Mirror — Link Archive",
+        "url": "https://lukasz.dk/mirror/cdvdmania/links.html",
+        "keywords": [
+          "PS2",
+          "CDVDMANIA",
+          "ps2dev.ps2-scene.org",
+          "legacy links",
+          "mirror"
+        ]
+      },
+      {
+        "name": "Napalm-X Mirror — Duke's PS2 Coding / Bootable CDR Guide",
+        "url": "https://lukasz.dk/mirror/duke.napalm-x.com/napalm-x.thegypsy.com/duke/html/how2.html",
+        "keywords": [
+          "PS2",
+          "Napalm-X",
+          "Duke",
+          "bootable CDR",
+          "homebrew",
+          "early PS2 development",
+          "mirror"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Hardware, Mods & Accessories",
+    "description": "Surviving X-PEC installation/photo guides for early PS2 modchips and hardware revisions.",
+    "links": [
+      {
+        "name": "X-PEC — PS2 v3 DMS3 v2 Installation",
+        "url": "http://ps2.x-pec.com/ps2_v3-dms3_v2/ps2_v3-dms3_v2.html",
+        "keywords": [
+          "PS2",
+          "v3",
+          "DMS3",
+          "modchip",
+          "installation",
+          "hardware"
+        ]
+      },
+      {
+        "name": "X-PEC — PS2 v7 Duo Installation",
+        "url": "http://ps2.x-pec.com/ps2_v7-duo/ps2_v7-duo.html",
+        "keywords": [
+          "PS2",
+          "v7",
+          "Duo",
+          "modchip",
+          "installation",
+          "hardware"
+        ]
+      },
+      {
+        "name": "X-PEC — PS2 v3 Gap Duo 2 SE Installation",
+        "url": "http://ps2.x-pec.com/ps2_v3_gap-duo_2_se/ps2_v3_gap-duo_2_se.html",
+        "keywords": [
+          "PS2",
+          "v3",
+          "Duo 2 SE",
+          "modchip",
+          "installation",
+          "hardware"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,415 @@
+[
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "Granular PS2 Homebrew Store index covering current apps, diagnostics, loaders, PC tools, system apps, memory-card structures, exploits and device-specific boot methods.",
+    "links": [
+      {
+        "name": "PS2 Homebrew Store — sitemap.xml",
+        "url": "https://ps2homebrewstore.com/sitemap.xml",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "sitemap.xml",
+          "sitemap.xml"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — PS2 Homebrew Store",
+        "url": "https://ps2homebrewstore.com",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "PS2 Homebrew Store"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Apps",
+        "url": "https://ps2homebrewstore.com/apps",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "apps",
+          "Apps"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Diagnostic Service Tools",
+        "url": "https://ps2homebrewstore.com/diag",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "diag",
+          "Diagnostic Service Tools"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Emulators",
+        "url": "https://ps2homebrewstore.com/emulators",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "emulators",
+          "Emulators"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Exploits: Which PS2 Model do you have?",
+        "url": "https://ps2homebrewstore.com/exploits",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "exploits",
+          "Exploits: Which PS2 Model do you have?"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Sony / Other Memory Card Exploits",
+        "url": "https://ps2homebrewstore.com/exploits/kelfbinder-tutorial",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "exploits",
+          "kelfbinder",
+          "tutorial",
+          "Sony / Other Memory Card Exploits"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Loadbooter mc",
+        "url": "https://ps2homebrewstore.com/exploits/loadbooter-mc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "exploits",
+          "loadbooter",
+          "mc",
+          "Loadbooter mc"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Loadbooter mcp2",
+        "url": "https://ps2homebrewstore.com/exploits/loadbooter-mcp2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "exploits",
+          "loadbooter",
+          "mcp2",
+          "Loadbooter mcp2"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Loadbooter sd2psx",
+        "url": "https://ps2homebrewstore.com/exploits/loadbooter-sd2psx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "exploits",
+          "loadbooter",
+          "sd2psx",
+          "Loadbooter sd2psx"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Loadbooter",
+        "url": "https://ps2homebrewstore.com/exploits/loadbooter",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "exploits",
+          "loadbooter",
+          "Loadbooter"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — exploits/protopwn-mc",
+        "url": "https://ps2homebrewstore.com/exploits/protopwn-mc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "exploits",
+          "protopwn",
+          "mc",
+          "exploits/protopwn-mc"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Protopwn mcp2",
+        "url": "https://ps2homebrewstore.com/exploits/protopwn-mcp2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "exploits",
+          "protopwn",
+          "mcp2",
+          "Protopwn mcp2"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Protopwn sd2psx",
+        "url": "https://ps2homebrewstore.com/exploits/protopwn-sd2psx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "exploits",
+          "protopwn",
+          "sd2psx",
+          "Protopwn sd2psx"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Protopwn",
+        "url": "https://ps2homebrewstore.com/exploits/protopwn",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "exploits",
+          "protopwn",
+          "Protopwn"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — exploits/tuna-mc",
+        "url": "https://ps2homebrewstore.com/exploits/tuna-mc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "exploits",
+          "tuna",
+          "mc",
+          "exploits/tuna-mc"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — exploits/tuna-mcp2",
+        "url": "https://ps2homebrewstore.com/exploits/tuna-mcp2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "exploits",
+          "tuna",
+          "mcp2",
+          "exploits/tuna-mcp2"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Tuna sd2psx",
+        "url": "https://ps2homebrewstore.com/exploits/tuna-sd2psx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "exploits",
+          "tuna",
+          "sd2psx",
+          "Tuna sd2psx"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Tuna",
+        "url": "https://ps2homebrewstore.com/exploits/tuna",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "exploits",
+          "tuna",
+          "Tuna"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Games",
+        "url": "https://ps2homebrewstore.com/games",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "games",
+          "Games"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — ISO Loaders",
+        "url": "https://ps2homebrewstore.com/loaders",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "loaders",
+          "ISO Loaders"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — PC Tools",
+        "url": "https://ps2homebrewstore.com/pc-tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "pc",
+          "tools",
+          "PC Tools"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Tutorial: How to use this sites content",
+        "url": "https://ps2homebrewstore.com/site_tutorial",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "site",
+          "tutorial",
+          "Tutorial: How to use this sites content"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Icon Indicators and Warnings",
+        "url": "https://ps2homebrewstore.com/site_tutorial/icon_meanings",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "site",
+          "tutorial",
+          "icon",
+          "meanings",
+          "Icon Indicators and Warnings"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — System Apps",
+        "url": "https://ps2homebrewstore.com/sys_apps",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "sys",
+          "apps",
+          "System Apps"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — UMCS",
+        "url": "https://ps2homebrewstore.com/umcs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "umcs",
+          "UMCS"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Index2 - PS2 Homebrew Store",
+        "url": "https://ps2homebrewstore.com/umcs/index2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "apps",
+          "tools",
+          "guides",
+          "umcs",
+          "index2",
+          "Index2 - PS2 Homebrew Store"
+        ]
+      }
+    ]
+  }
+]

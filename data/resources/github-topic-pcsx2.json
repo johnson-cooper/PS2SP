@@ -1,0 +1,1599 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "GitHub repositories explicitly tagged with PCSX2, covering PS2 emulation, frontends, tools, patches, databases, integrations, and related utilities.",
+    "links": [
+      {
+        "name": "GitHub: a-n-t-i-b-a-r-y-o-n/libpnach",
+        "url": "https://github.com/a-n-t-i-b-a-r-y-o-n/libpnach",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "a",
+          "n",
+          "t",
+          "i",
+          "b",
+          "a",
+          "r",
+          "y",
+          "o",
+          "n",
+          "libpnach"
+        ]
+      },
+      {
+        "name": "GitHub: a-n-t-i-b-a-r-y-o-n/pnach-qt",
+        "url": "https://github.com/a-n-t-i-b-a-r-y-o-n/pnach-qt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "a",
+          "n",
+          "t",
+          "i",
+          "b",
+          "a",
+          "r",
+          "y",
+          "o",
+          "n",
+          "pnach",
+          "qt"
+        ]
+      },
+      {
+        "name": "GitHub: adifreza/playwdgames",
+        "url": "https://github.com/adifreza/playwdgames",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "adifreza",
+          "playwdgames"
+        ]
+      },
+      {
+        "name": "GitHub: AHCoder/galaxy-integration-ps2",
+        "url": "https://github.com/AHCoder/galaxy-integration-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "AHCoder",
+          "galaxy",
+          "integration",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub: Alan-bur/PS2M4K",
+        "url": "https://github.com/Alan-bur/PS2M4K",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Alan",
+          "bur",
+          "PS2M4K"
+        ]
+      },
+      {
+        "name": "GitHub: Alby1987/BuzzMultiBuzzersPlugin",
+        "url": "https://github.com/Alby1987/BuzzMultiBuzzersPlugin",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Alby1987",
+          "BuzzMultiBuzzersPlugin"
+        ]
+      },
+      {
+        "name": "GitHub: andshrew/Sly2-Cutscene-Skip",
+        "url": "https://github.com/andshrew/Sly2-Cutscene-Skip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "andshrew",
+          "Sly2",
+          "Cutscene",
+          "Skip"
+        ]
+      },
+      {
+        "name": "GitHub: AznIronMan/ES-DE-DEPLOY",
+        "url": "https://github.com/AznIronMan/ES-DE-DEPLOY",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "AznIronMan",
+          "ES",
+          "DE",
+          "DEPLOY"
+        ]
+      },
+      {
+        "name": "GitHub: BRAGme/pcsx2-rtx-remix",
+        "url": "https://github.com/BRAGme/pcsx2-rtx-remix",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "BRAGme",
+          "pcsx2",
+          "rtx",
+          "remix"
+        ]
+      },
+      {
+        "name": "GitHub: bronchitic-bunt160/kaizen-pc-script-tool",
+        "url": "https://github.com/bronchitic-bunt160/kaizen-pc-script-tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "bronchitic",
+          "bunt160",
+          "kaizen",
+          "pc",
+          "script",
+          "tool"
+        ]
+      },
+      {
+        "name": "GitHub: caol64/sakatsuku04",
+        "url": "https://github.com/caol64/sakatsuku04",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "caol64",
+          "sakatsuku04"
+        ]
+      },
+      {
+        "name": "GitHub: chaoticgd/vutrace",
+        "url": "https://github.com/chaoticgd/vutrace",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "chaoticgd",
+          "vutrace"
+        ]
+      },
+      {
+        "name": "GitHub: chiragkrishna/Install-and-update-Emulators",
+        "url": "https://github.com/chiragkrishna/Install-and-update-Emulators",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "chiragkrishna",
+          "Install",
+          "and",
+          "update",
+          "Emulators"
+        ]
+      },
+      {
+        "name": "GitHub: ckiscxrsed/Mortal-Kombat-Deception-ReShade-Pack",
+        "url": "https://github.com/ckiscxrsed/Mortal-Kombat-Deception-ReShade-Pack",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "ckiscxrsed",
+          "Mortal",
+          "Kombat",
+          "Deception",
+          "ReShade",
+          "Pack"
+        ]
+      },
+      {
+        "name": "GitHub: coye2/UNCANNY",
+        "url": "https://github.com/coye2/UNCANNY",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "coye2",
+          "UNCANNY"
+        ]
+      },
+      {
+        "name": "GitHub: dmang-dev/mcp-pine",
+        "url": "https://github.com/dmang-dev/mcp-pine",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "dmang",
+          "dev",
+          "mcp",
+          "pine"
+        ]
+      },
+      {
+        "name": "GitHub: elyesseb/kh2fm-french-finalmix-voices-fix",
+        "url": "https://github.com/elyesseb/kh2fm-french-finalmix-voices-fix",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "elyesseb",
+          "kh2fm",
+          "french",
+          "finalmix",
+          "voices",
+          "fix"
+        ]
+      },
+      {
+        "name": "GitHub: eric-wen-dev-it/PCSXMemoryEditor",
+        "url": "https://github.com/eric-wen-dev-it/PCSXMemoryEditor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "eric",
+          "wen",
+          "dev",
+          "it",
+          "PCSXMemoryEditor"
+        ]
+      },
+      {
+        "name": "GitHub: ffooll-bit/hm-sth-companion",
+        "url": "https://github.com/ffooll-bit/hm-sth-companion",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "ffooll",
+          "bit",
+          "hm",
+          "sth",
+          "companion"
+        ]
+      },
+      {
+        "name": "GitHub: Fuindin/PSG2SaveEditor",
+        "url": "https://github.com/Fuindin/PSG2SaveEditor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Fuindin",
+          "PSG2SaveEditor"
+        ]
+      },
+      {
+        "name": "GitHub: Goatman13/ps2_ida_vu_micro",
+        "url": "https://github.com/Goatman13/ps2_ida_vu_micro",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Goatman13",
+          "ps2",
+          "ida",
+          "vu",
+          "micro"
+        ]
+      },
+      {
+        "name": "GitHub: GuhClemente/Karamelo",
+        "url": "https://github.com/GuhClemente/Karamelo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "GuhClemente",
+          "Karamelo"
+        ]
+      },
+      {
+        "name": "GitHub: HenriqZimer/pcsx2-helm-chart",
+        "url": "https://github.com/HenriqZimer/pcsx2-helm-chart",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "HenriqZimer",
+          "pcsx2",
+          "helm",
+          "chart"
+        ]
+      },
+      {
+        "name": "GitHub: HertzPerfumer/Pcsx2-Full-Version",
+        "url": "https://github.com/HertzPerfumer/Pcsx2-Full-Version",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "HertzPerfumer",
+          "Pcsx2",
+          "Full",
+          "Version"
+        ]
+      },
+      {
+        "name": "GitHub: hhirsch/emu-deck-metal-gear",
+        "url": "https://github.com/hhirsch/emu-deck-metal-gear",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "hhirsch",
+          "emu",
+          "deck",
+          "metal",
+          "gear"
+        ]
+      },
+      {
+        "name": "GitHub: hkmodd/PCSX2-MCP",
+        "url": "https://github.com/hkmodd/PCSX2-MCP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "hkmodd",
+          "PCSX2",
+          "MCP"
+        ]
+      },
+      {
+        "name": "GitHub: HUEVOMAN77/Cenit",
+        "url": "https://github.com/HUEVOMAN77/Cenit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "HUEVOMAN77",
+          "Cenit"
+        ]
+      },
+      {
+        "name": "GitHub: iampopovich/PCSX2-emulator-Snap",
+        "url": "https://github.com/iampopovich/PCSX2-emulator-Snap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "iampopovich",
+          "PCSX2",
+          "emulator",
+          "Snap"
+        ]
+      },
+      {
+        "name": "GitHub: Jackicus/GNOME-Games-Library",
+        "url": "https://github.com/Jackicus/GNOME-Games-Library",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Jackicus",
+          "GNOME",
+          "Games",
+          "Library"
+        ]
+      },
+      {
+        "name": "GitHub: jgdscarvalho/CE-Toolkit",
+        "url": "https://github.com/jgdscarvalho/CE-Toolkit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "jgdscarvalho",
+          "CE",
+          "Toolkit"
+        ]
+      },
+      {
+        "name": "GitHub: karma12gaming/karmas_pnach",
+        "url": "https://github.com/karma12gaming/karmas_pnach",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "karma12gaming",
+          "karmas",
+          "pnach"
+        ]
+      },
+      {
+        "name": "GitHub: kb777only/gow_overlay",
+        "url": "https://github.com/kb777only/gow_overlay",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "kb777only",
+          "gow",
+          "overlay"
+        ]
+      },
+      {
+        "name": "GitHub: leon-junio/pro-evolution-soccer-save-fixer",
+        "url": "https://github.com/leon-junio/pro-evolution-soccer-save-fixer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "leon",
+          "junio",
+          "pro",
+          "evolution",
+          "soccer",
+          "save",
+          "fixer"
+        ]
+      },
+      {
+        "name": "GitHub: Made-in-Slovakia/rac",
+        "url": "https://github.com/Made-in-Slovakia/rac",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Made",
+          "in",
+          "Slovakia",
+          "rac"
+        ]
+      },
+      {
+        "name": "GitHub: mininxd/SAVESX2",
+        "url": "https://github.com/mininxd/SAVESX2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "mininxd",
+          "SAVESX2"
+        ]
+      },
+      {
+        "name": "GitHub: mishamyrt/ps2-codes",
+        "url": "https://github.com/mishamyrt/ps2-codes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "mishamyrt",
+          "ps2",
+          "codes"
+        ]
+      },
+      {
+        "name": "GitHub: momenbasel/ConsoleMini",
+        "url": "https://github.com/momenbasel/ConsoleMini",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "momenbasel",
+          "ConsoleMini"
+        ]
+      },
+      {
+        "name": "GitHub: mostdak1ng/The-Warriors-Freecam",
+        "url": "https://github.com/mostdak1ng/The-Warriors-Freecam",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "mostdak1ng",
+          "The",
+          "Warriors",
+          "Freecam"
+        ]
+      },
+      {
+        "name": "GitHub: msaifuddin/SoulCalibur2",
+        "url": "https://github.com/msaifuddin/SoulCalibur2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "msaifuddin",
+          "SoulCalibur2"
+        ]
+      },
+      {
+        "name": "GitHub: n1ckoates/steamdeck-emulation",
+        "url": "https://github.com/n1ckoates/steamdeck-emulation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "n1ckoates",
+          "steamdeck",
+          "emulation"
+        ]
+      },
+      {
+        "name": "GitHub: paulo101977/sdlarch-rl",
+        "url": "https://github.com/paulo101977/sdlarch-rl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "paulo101977",
+          "sdlarch",
+          "rl"
+        ]
+      },
+      {
+        "name": "GitHub: PCSX2-PlayStation-Emulator/.github",
+        "url": "https://github.com/PCSX2-PlayStation-Emulator/.github",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "PCSX2",
+          "PlayStation",
+          "Emulator",
+          "github"
+        ]
+      },
+      {
+        "name": "GitHub: PCSX2/pcsx2",
+        "url": "https://github.com/PCSX2/pcsx2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "PCSX2",
+          "pcsx2"
+        ]
+      },
+      {
+        "name": "GitHub: pocokhc/pcsx2-1.4.0-rr",
+        "url": "https://github.com/pocokhc/pcsx2-1.4.0-rr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "pocokhc",
+          "pcsx2",
+          "1",
+          "4",
+          "0",
+          "rr"
+        ]
+      },
+      {
+        "name": "GitHub: retrosavecloud/client",
+        "url": "https://github.com/retrosavecloud/client",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "retrosavecloud",
+          "client"
+        ]
+      },
+      {
+        "name": "GitHub: sashkinbro/EmuCoreX",
+        "url": "https://github.com/sashkinbro/EmuCoreX",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "sashkinbro",
+          "EmuCoreX"
+        ]
+      },
+      {
+        "name": "GitHub: Saupernova13/pcsx2-bt3-60fps",
+        "url": "https://github.com/Saupernova13/pcsx2-bt3-60fps",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Saupernova13",
+          "pcsx2",
+          "bt3",
+          "60fps"
+        ]
+      },
+      {
+        "name": "GitHub: Saupernova13/pcsx2-kh2fm-60fps",
+        "url": "https://github.com/Saupernova13/pcsx2-kh2fm-60fps",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Saupernova13",
+          "pcsx2",
+          "kh2fm",
+          "60fps"
+        ]
+      },
+      {
+        "name": "GitHub: Saupernova13/pcsxroo",
+        "url": "https://github.com/Saupernova13/pcsxroo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Saupernova13",
+          "pcsxroo"
+        ]
+      },
+      {
+        "name": "GitHub: shoui520/vitasx2",
+        "url": "https://github.com/shoui520/vitasx2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "shoui520",
+          "vitasx2"
+        ]
+      },
+      {
+        "name": "GitHub: sweatydeveloper/minha_colecao",
+        "url": "https://github.com/sweatydeveloper/minha_colecao",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "sweatydeveloper",
+          "minha",
+          "colecao"
+        ]
+      },
+      {
+        "name": "GitHub: Swordmaster3214/PSMove-DSU",
+        "url": "https://github.com/Swordmaster3214/PSMove-DSU",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Swordmaster3214",
+          "PSMove",
+          "DSU"
+        ]
+      },
+      {
+        "name": "GitHub: teuzowebdeveloper9/play-with-claude",
+        "url": "https://github.com/teuzowebdeveloper9/play-with-claude",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "teuzowebdeveloper9",
+          "play",
+          "with",
+          "claude"
+        ]
+      },
+      {
+        "name": "GitHub: TheOnlyZac/dagviz",
+        "url": "https://github.com/TheOnlyZac/dagviz",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "TheOnlyZac",
+          "dagviz"
+        ]
+      },
+      {
+        "name": "GitHub: TheOnlyZac/jewel",
+        "url": "https://github.com/TheOnlyZac/jewel",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "TheOnlyZac",
+          "jewel"
+        ]
+      },
+      {
+        "name": "GitHub: TheOnlyZac/sly-string-toolkit",
+        "url": "https://github.com/TheOnlyZac/sly-string-toolkit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "TheOnlyZac",
+          "sly",
+          "string",
+          "toolkit"
+        ]
+      },
+      {
+        "name": "GitHub: Valeryebalzacian578/azures-pc-script-hub",
+        "url": "https://github.com/Valeryebalzacian578/azures-pc-script-hub",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Valeryebalzacian578",
+          "azures",
+          "pc",
+          "script",
+          "hub"
+        ]
+      },
+      {
+        "name": "GitHub: valters-tomsons/Spectabis",
+        "url": "https://github.com/valters-tomsons/Spectabis",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "valters",
+          "tomsons",
+          "Spectabis"
+        ]
+      },
+      {
+        "name": "GitHub: vilarby/csss",
+        "url": "https://github.com/vilarby/csss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "vilarby",
+          "csss"
+        ]
+      },
+      {
+        "name": "GitHub: wako69420/iso-compressor",
+        "url": "https://github.com/wako69420/iso-compressor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "wako69420",
+          "iso",
+          "compressor"
+        ]
+      },
+      {
+        "name": "GitHub: williamdc92/Ps2Builder",
+        "url": "https://github.com/williamdc92/Ps2Builder",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "williamdc92",
+          "Ps2Builder"
+        ]
+      },
+      {
+        "name": "GitHub: xan1242/GT4Twitch",
+        "url": "https://github.com/xan1242/GT4Twitch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "xan1242",
+          "GT4Twitch"
+        ]
+      },
+      {
+        "name": "GitHub: XboxEmulationHub/XBSX2",
+        "url": "https://github.com/XboxEmulationHub/XBSX2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "XboxEmulationHub",
+          "XBSX2"
+        ]
+      },
+      {
+        "name": "GitHub: Xinerki/autops2",
+        "url": "https://github.com/Xinerki/autops2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Xinerki",
+          "autops2"
+        ]
+      },
+      {
+        "name": "GitHub: XXXBold/PCSX2_MultiConfigTool",
+        "url": "https://github.com/XXXBold/PCSX2_MultiConfigTool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "XXXBold",
+          "PCSX2",
+          "MultiConfigTool"
+        ]
+      },
+      {
+        "name": "GitHub: zzamizz/ooze",
+        "url": "https://github.com/zzamizz/ooze",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "zzamizz",
+          "ooze"
+        ]
+      },
+      {
+        "name": "GitHub: zzamizz/syhax",
+        "url": "https://github.com/zzamizz/syhax",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "zzamizz",
+          "syhax"
+        ]
+      },
+      {
+        "name": "GitHub: zzamizz/weed-sheet",
+        "url": "https://github.com/zzamizz/weed-sheet",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "zzamizz",
+          "weed",
+          "sheet"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Custom Content & Game Mods",
+    "description": "GitHub repositories explicitly tagged with PCSX2, covering PS2 emulation, frontends, tools, patches, databases, integrations, and related utilities.",
+    "links": [
+      {
+        "name": "GitHub: BMT619/Speed-Racer-PCSX2-HD-Texture-Pack",
+        "url": "https://github.com/BMT619/Speed-Racer-PCSX2-HD-Texture-Pack",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "BMT619",
+          "Speed",
+          "Racer",
+          "PCSX2",
+          "HD",
+          "Texture",
+          "Pack"
+        ]
+      },
+      {
+        "name": "GitHub: bulbous-urination693/PCSX2_CoverSync",
+        "url": "https://github.com/bulbous-urination693/PCSX2_CoverSync",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "bulbous",
+          "urination693",
+          "PCSX2",
+          "CoverSync"
+        ]
+      },
+      {
+        "name": "GitHub: cylfox/sotc-camera-patches",
+        "url": "https://github.com/cylfox/sotc-camera-patches",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "cylfox",
+          "sotc",
+          "camera",
+          "patches"
+        ]
+      },
+      {
+        "name": "GitHub: derikcalixto/PCSX2_CoverSync",
+        "url": "https://github.com/derikcalixto/PCSX2_CoverSync",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "derikcalixto",
+          "PCSX2",
+          "CoverSync"
+        ]
+      },
+      {
+        "name": "GitHub: desukuran/p3fes-us-trainer",
+        "url": "https://github.com/desukuran/p3fes-us-trainer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "desukuran",
+          "p3fes",
+          "us",
+          "trainer"
+        ]
+      },
+      {
+        "name": "GitHub: eternights/XboxTexturePack.TheWarriors",
+        "url": "https://github.com/eternights/XboxTexturePack.TheWarriors",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "eternights",
+          "XboxTexturePack",
+          "TheWarriors"
+        ]
+      },
+      {
+        "name": "GitHub: igorciz777/Misc-PCSX2-Cheats",
+        "url": "https://github.com/igorciz777/Misc-PCSX2-Cheats",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "igorciz777",
+          "Misc",
+          "PCSX2",
+          "Cheats"
+        ]
+      },
+      {
+        "name": "GitHub: ike9000e/game-patches-or-codes",
+        "url": "https://github.com/ike9000e/game-patches-or-codes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "ike9000e",
+          "game",
+          "patches",
+          "or",
+          "codes"
+        ]
+      },
+      {
+        "name": "GitHub: jbonadiman/cover-downloader",
+        "url": "https://github.com/jbonadiman/cover-downloader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "jbonadiman",
+          "cover",
+          "downloader"
+        ]
+      },
+      {
+        "name": "GitHub: KaedeIchigo/ac2aa-hd-texture-pack",
+        "url": "https://github.com/KaedeIchigo/ac2aa-hd-texture-pack",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "KaedeIchigo",
+          "ac2aa",
+          "hd",
+          "texture",
+          "pack"
+        ]
+      },
+      {
+        "name": "GitHub: KidGbzin/Cheat-Engine",
+        "url": "https://github.com/KidGbzin/Cheat-Engine",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "KidGbzin",
+          "Cheat",
+          "Engine"
+        ]
+      },
+      {
+        "name": "GitHub: KrystianLesniak/pcsx2_patches_list",
+        "url": "https://github.com/KrystianLesniak/pcsx2_patches_list",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "KrystianLesniak",
+          "pcsx2",
+          "patches",
+          "list"
+        ]
+      },
+      {
+        "name": "GitHub: Neokitsune5/NamcoXCapcom-Russian-Patch",
+        "url": "https://github.com/Neokitsune5/NamcoXCapcom-Russian-Patch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Neokitsune5",
+          "NamcoXCapcom",
+          "Russian",
+          "Patch"
+        ]
+      },
+      {
+        "name": "GitHub: NiV-L-A/SlyMultiTrainer",
+        "url": "https://github.com/NiV-L-A/SlyMultiTrainer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "NiV",
+          "L",
+          "A",
+          "SlyMultiTrainer"
+        ]
+      },
+      {
+        "name": "GitHub: re-s2/textures",
+        "url": "https://github.com/re-s2/textures",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "re",
+          "s2",
+          "textures"
+        ]
+      },
+      {
+        "name": "GitHub: xlenore/ps2-covers",
+        "url": "https://github.com/xlenore/ps2-covers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "xlenore",
+          "ps2",
+          "covers"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Online Gaming & Network Play",
+    "description": "GitHub repositories explicitly tagged with PCSX2, covering PS2 emulation, frontends, tools, patches, databases, integrations, and related utilities.",
+    "links": [
+      {
+        "name": "GitHub: jeddyhhh/TW04OnlineServer",
+        "url": "https://github.com/jeddyhhh/TW04OnlineServer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "jeddyhhh",
+          "TW04OnlineServer"
+        ]
+      },
+      {
+        "name": "GitHub: Trixarian/NetherSX2-classic",
+        "url": "https://github.com/Trixarian/NetherSX2-classic",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Trixarian",
+          "NetherSX2",
+          "classic"
+        ]
+      },
+      {
+        "name": "GitHub: Trixarian/NetherSX2-patch",
+        "url": "https://github.com/Trixarian/NetherSX2-patch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Trixarian",
+          "NetherSX2",
+          "patch"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "GitHub repositories explicitly tagged with PCSX2, covering PS2 emulation, frontends, tools, patches, databases, integrations, and related utilities.",
+    "links": [
+      {
+        "name": "GitHub: dheison0/ps2-game-manager",
+        "url": "https://github.com/dheison0/ps2-game-manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "dheison0",
+          "ps2",
+          "game",
+          "manager"
+        ]
+      },
+      {
+        "name": "GitHub: elysiummachines/react-game-launcher",
+        "url": "https://github.com/elysiummachines/react-game-launcher",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "elysiummachines",
+          "react",
+          "game",
+          "launcher"
+        ]
+      },
+      {
+        "name": "GitHub: evnzt/PlayStation-Save-Manager",
+        "url": "https://github.com/evnzt/PlayStation-Save-Manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "evnzt",
+          "PlayStation",
+          "Save",
+          "Manager"
+        ]
+      },
+      {
+        "name": "GitHub: G4brym/mymc-py",
+        "url": "https://github.com/G4brym/mymc-py",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "G4brym",
+          "mymc",
+          "py"
+        ]
+      },
+      {
+        "name": "GitHub: MechaDragonX/GameDiscLoader",
+        "url": "https://github.com/MechaDragonX/GameDiscLoader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "MechaDragonX",
+          "GameDiscLoader"
+        ]
+      },
+      {
+        "name": "GitHub: new-penguin/libretro-pcsx2-launcher-antimicrox",
+        "url": "https://github.com/new-penguin/libretro-pcsx2-launcher-antimicrox",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "new",
+          "penguin",
+          "libretro",
+          "pcsx2",
+          "launcher",
+          "antimicrox"
+        ]
+      },
+      {
+        "name": "GitHub: ran-j/Ps2GamesLauncher",
+        "url": "https://github.com/ran-j/Ps2GamesLauncher",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "ran",
+          "j",
+          "Ps2GamesLauncher"
+        ]
+      },
+      {
+        "name": "GitHub: roguesaloon/launchbox-plugin_pcsx2-configurator-next",
+        "url": "https://github.com/roguesaloon/launchbox-plugin_pcsx2-configurator-next",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "roguesaloon",
+          "launchbox",
+          "plugin",
+          "pcsx2",
+          "configurator",
+          "next"
+        ]
+      },
+      {
+        "name": "GitHub: Sir-MmD/PCSX2-Installer",
+        "url": "https://github.com/Sir-MmD/PCSX2-Installer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Sir",
+          "MmD",
+          "PCSX2",
+          "Installer"
+        ]
+      },
+      {
+        "name": "GitHub: thestr4ng3r/mymcplus",
+        "url": "https://github.com/thestr4ng3r/mymcplus",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "thestr4ng3r",
+          "mymcplus"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "GitHub repositories explicitly tagged with PCSX2, covering PS2 emulation, frontends, tools, patches, databases, integrations, and related utilities.",
+    "links": [
+      {
+        "name": "GitHub: dafrenchyman/KodiRetroPlayerDocker",
+        "url": "https://github.com/dafrenchyman/KodiRetroPlayerDocker",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "dafrenchyman",
+          "KodiRetroPlayerDocker"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Hardware, Mods & Accessories",
+    "description": "GitHub repositories explicitly tagged with PCSX2, covering PS2 emulation, frontends, tools, patches, databases, integrations, and related utilities.",
+    "links": [
+      {
+        "name": "GitHub: Coruge-to/DenGo-Controller-Converter",
+        "url": "https://github.com/Coruge-to/DenGo-Controller-Converter",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "Coruge",
+          "to",
+          "DenGo",
+          "Controller",
+          "Converter"
+        ]
+      },
+      {
+        "name": "GitHub: lawlmoeaung/ps2-memory-card-manager",
+        "url": "https://github.com/lawlmoeaung/ps2-memory-card-manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "GitHub",
+          "repository",
+          "lawlmoeaung",
+          "ps2",
+          "memory",
+          "card",
+          "manager"
+        ]
+      }
+    ]
+  }
+]

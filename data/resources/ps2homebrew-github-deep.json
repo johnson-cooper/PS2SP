@@ -1,0 +1,600 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Granular index of the ps2homebrew GitHub organization, including active and preserved loaders, launchers, filesystems, network tools, emulators, diagnostics, OpenTuna internals, OSD libraries and older homebrew projects.",
+    "links": [
+      {
+        "name": "PS2Homebrew GitHub — Open-PS2-Loader",
+        "url": "https://github.com/ps2homebrew/Open-PS2-Loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "Open-PS2-Loader",
+          "Open",
+          "PS2",
+          "Loader"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — Fceumm-PS2",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "Fceumm-PS2",
+          "Fceumm",
+          "PS2"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — PS2Ident",
+        "url": "https://github.com/ps2homebrew/PS2Ident",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "PS2Ident",
+          "PS2Ident"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — Open-PS2-Loader-lang",
+        "url": "https://github.com/ps2homebrew/Open-PS2-Loader-lang",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "Open-PS2-Loader-lang",
+          "Open",
+          "PS2",
+          "Loader",
+          "lang"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — Open-PS2-Loader-Compatibility-list",
+        "url": "https://github.com/ps2homebrew/Open-PS2-Loader-Compatibility-list",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "Open-PS2-Loader-Compatibility-list",
+          "Open",
+          "PS2",
+          "Loader",
+          "Compatibility",
+          "list"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — wOPL",
+        "url": "https://github.com/ps2homebrew/wOPL",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "wOPL",
+          "wOPL"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — ps2homebrew",
+        "url": "https://github.com/ps2homebrew/ps2homebrew",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "ps2homebrew",
+          "ps2homebrew"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — ps2-unpacker",
+        "url": "https://github.com/ps2homebrew/ps2-unpacker",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "ps2-unpacker",
+          "ps2",
+          "unpacker"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — pgen",
+        "url": "https://github.com/ps2homebrew/pgen",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "pgen",
+          "pgen"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — kelftool",
+        "url": "https://github.com/ps2homebrew/kelftool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "kelftool",
+          "kelftool"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — PS2HDDTester",
+        "url": "https://github.com/ps2homebrew/PS2HDDTester",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "PS2HDDTester",
+          "PS2HDDTester"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — ps2dev_forwarder",
+        "url": "https://github.com/ps2homebrew/ps2dev_forwarder",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "ps2dev_forwarder",
+          "ps2dev",
+          "forwarder"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — quake1_ps2",
+        "url": "https://github.com/ps2homebrew/quake1_ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "quake1_ps2",
+          "quake1",
+          "ps2"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — Open-PS2-Loader-User-Guide",
+        "url": "https://github.com/ps2homebrew/Open-PS2-Loader-User-Guide",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "Open-PS2-Loader-User-Guide",
+          "Open",
+          "PS2",
+          "Loader",
+          "User",
+          "Guide"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — ps2homebrew.github.io",
+        "url": "https://github.com/ps2homebrew/ps2homebrew.github.io",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "ps2homebrew.github.io",
+          "ps2homebrew",
+          "github",
+          "io"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — ps2ftpd",
+        "url": "https://github.com/ps2homebrew/ps2ftpd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "ps2ftpd",
+          "ps2ftpd"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — ps2Perf",
+        "url": "https://github.com/ps2homebrew/ps2Perf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "ps2Perf",
+          "ps2Perf"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — ps2menu",
+        "url": "https://github.com/ps2homebrew/ps2menu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "ps2menu",
+          "ps2menu"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — ps2vfs",
+        "url": "https://github.com/ps2homebrew/ps2vfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "ps2vfs",
+          "ps2vfs"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — ps2img",
+        "url": "https://github.com/ps2homebrew/ps2img",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "ps2img",
+          "ps2img"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — ps2debug",
+        "url": "https://github.com/ps2homebrew/ps2debug",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "ps2debug",
+          "ps2debug"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — ps2ftp",
+        "url": "https://github.com/ps2homebrew/ps2ftp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "ps2ftp",
+          "ps2ftp"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — Double-Unofficial-Open-PS2-Loader-lang",
+        "url": "https://github.com/ps2homebrew/Double-Unofficial-Open-PS2-Loader-lang",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "Double-Unofficial-Open-PS2-Loader-lang",
+          "Double",
+          "Unofficial",
+          "Open",
+          "PS2",
+          "Loader",
+          "lang"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — wLaunchELF",
+        "url": "https://github.com/ps2homebrew/wLaunchELF",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "wLaunchELF",
+          "wLaunchELF"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — OPL-Launcher",
+        "url": "https://github.com/ps2homebrew/OPL-Launcher",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "OPL-Launcher",
+          "OPL",
+          "Launcher"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — HDDChecker",
+        "url": "https://github.com/ps2homebrew/HDDChecker",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "HDDChecker",
+          "HDDChecker"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — usb_mass",
+        "url": "https://github.com/ps2homebrew/usb_mass",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "usb_mass",
+          "usb",
+          "mass"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — usbhdfsd",
+        "url": "https://github.com/ps2homebrew/usbhdfsd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "usbhdfsd",
+          "usbhdfsd"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — pcsx2",
+        "url": "https://github.com/ps2homebrew/pcsx2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "pcsx2",
+          "pcsx2"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — PS1VModeNeg",
+        "url": "https://github.com/ps2homebrew/PS1VModeNeg",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "PS1VModeNeg",
+          "PS1VModeNeg"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — OSD-Initialization-Libraries",
+        "url": "https://github.com/ps2homebrew/OSD-Initialization-Libraries",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "OSD-Initialization-Libraries",
+          "OSD",
+          "Initialization",
+          "Libraries"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — HDLGameInstaller",
+        "url": "https://github.com/ps2homebrew/HDLGameInstaller",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "HDLGameInstaller",
+          "HDLGameInstaller"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — altimit",
+        "url": "https://github.com/ps2homebrew/altimit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "altimit",
+          "altimit"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — opentuna-installer",
+        "url": "https://github.com/ps2homebrew/opentuna-installer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "opentuna-installer",
+          "opentuna",
+          "installer"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — isjpcm",
+        "url": "https://github.com/ps2homebrew/isjpcm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "isjpcm",
+          "isjpcm"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — opentuna-payload",
+        "url": "https://github.com/ps2homebrew/opentuna-payload",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "opentuna-payload",
+          "opentuna",
+          "payload"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — opentuna-RLE",
+        "url": "https://github.com/ps2homebrew/opentuna-RLE",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "opentuna-RLE",
+          "opentuna",
+          "RLE"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — myPS2",
+        "url": "https://github.com/ps2homebrew/myPS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "myPS2",
+          "myPS2"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — hdl-dump",
+        "url": "https://github.com/ps2homebrew/hdl-dump",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "hdl-dump",
+          "hdl",
+          "dump"
+        ]
+      },
+      {
+        "name": "PS2Homebrew GitHub — gslib",
+        "url": "https://github.com/ps2homebrew/gslib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2homebrew",
+          "GitHub",
+          "homebrew",
+          "source code",
+          "gslib",
+          "gslib"
+        ]
+      }
+    ]
+  }
+]

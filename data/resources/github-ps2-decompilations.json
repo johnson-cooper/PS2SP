@@ -1,0 +1,717 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "PS2 decompilation and reverse-engineering repositories explicitly tagged for both decompilation and PlayStation 2.",
+    "links": [
+      {
+        "name": "GitHub PS2 decomp: aaaaaaaaaaway/chulip-decomp",
+        "url": "https://github.com/aaaaaaaaaaway/chulip-decomp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "aaaaaaaaaaway",
+          "chulip",
+          "decomp"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/ben10alienforce",
+        "url": "https://github.com/Cwf1997/ben10alienforce",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "ben10alienforce"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/ben10protectorofearth",
+        "url": "https://github.com/Cwf1997/ben10protectorofearth",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "ben10protectorofearth"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/defjamvendetta",
+        "url": "https://github.com/Cwf1997/defjamvendetta",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "defjamvendetta"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/disneysstitchexperiment626",
+        "url": "https://github.com/Cwf1997/disneysstitchexperiment626",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "disneysstitchexperiment626"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/hauntingground",
+        "url": "https://github.com/Cwf1997/hauntingground",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "hauntingground"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/havencalloftheking",
+        "url": "https://github.com/Cwf1997/havencalloftheking",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "havencalloftheking"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/kimpossiblewhatstheswitch",
+        "url": "https://github.com/Cwf1997/kimpossiblewhatstheswitch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "kimpossiblewhatstheswitch"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/kuon",
+        "url": "https://github.com/Cwf1997/kuon",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "kuon"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/monsterhouse",
+        "url": "https://github.com/Cwf1997/monsterhouse",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "monsterhouse"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/monstersinc",
+        "url": "https://github.com/Cwf1997/monstersinc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "monstersinc"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/nicktoonsattackofthetoybots",
+        "url": "https://github.com/Cwf1997/nicktoonsattackofthetoybots",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "nicktoonsattackofthetoybots"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/nicktoonsbattleforvolcanoisland",
+        "url": "https://github.com/Cwf1997/nicktoonsbattleforvolcanoisland",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "nicktoonsbattleforvolcanoisland"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/nicktoonsunite",
+        "url": "https://github.com/Cwf1997/nicktoonsunite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "nicktoonsunite"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/pkoutoftheshadows",
+        "url": "https://github.com/Cwf1997/pkoutoftheshadows",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "pkoutoftheshadows"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/ruleofrose",
+        "url": "https://github.com/Cwf1997/ruleofrose",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "ruleofrose"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/shaunpalmersprosnowboarder",
+        "url": "https://github.com/Cwf1997/shaunpalmersprosnowboarder",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "shaunpalmersprosnowboarder"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/supermanshadowofapokolips",
+        "url": "https://github.com/Cwf1997/supermanshadowofapokolips",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "supermanshadowofapokolips"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/takandtheguardiansofgross",
+        "url": "https://github.com/Cwf1997/takandtheguardiansofgross",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "takandtheguardiansofgross"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/takandthepowerofjuju",
+        "url": "https://github.com/Cwf1997/takandthepowerofjuju",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "takandthepowerofjuju"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/tarzanuntamed",
+        "url": "https://github.com/Cwf1997/tarzanuntamed",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "tarzanuntamed"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/thegrimadventuresofbillyandmandy",
+        "url": "https://github.com/Cwf1997/thegrimadventuresofbillyandmandy",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "thegrimadventuresofbillyandmandy"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/themummyreturns",
+        "url": "https://github.com/Cwf1997/themummyreturns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "themummyreturns"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/thescorpionkingriseoftheakkadian",
+        "url": "https://github.com/Cwf1997/thescorpionkingriseoftheakkadian",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "thescorpionkingriseoftheakkadian"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/thesecretsaturdaysbeastsofthe5thsun",
+        "url": "https://github.com/Cwf1997/thesecretsaturdaysbeastsofthe5thsun",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "thesecretsaturdaysbeastsofthe5thsun"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Cwf1997/treasureplanet",
+        "url": "https://github.com/Cwf1997/treasureplanet",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Cwf1997",
+          "treasureplanet"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: denzi-gh/crashwoc-decomp-ps2",
+        "url": "https://github.com/denzi-gh/crashwoc-decomp-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "denzi",
+          "gh",
+          "crashwoc",
+          "decomp",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: entriphy/kl2_lv_decomp",
+        "url": "https://github.com/entriphy/kl2_lv_decomp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "entriphy",
+          "kl2",
+          "lv",
+          "decomp"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Fantaskink/SOTC",
+        "url": "https://github.com/Fantaskink/SOTC",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Fantaskink",
+          "SOTC"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: jacobleeharris/tmhc",
+        "url": "https://github.com/jacobleeharris/tmhc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "jacobleeharris",
+          "tmhc"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: makmal0962/th06-ps2",
+        "url": "https://github.com/makmal0962/th06-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "makmal0962",
+          "th06",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: MarkusMaal/FlipnicDecomp",
+        "url": "https://github.com/MarkusMaal/FlipnicDecomp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "MarkusMaal",
+          "FlipnicDecomp"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: mateuszklysz/Lombyte",
+        "url": "https://github.com/mateuszklysz/Lombyte",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "mateuszklysz",
+          "Lombyte"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Mikompilation/Mikompilation",
+        "url": "https://github.com/Mikompilation/Mikompilation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "Mikompilation",
+          "Mikompilation"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: parappadev/parappa2",
+        "url": "https://github.com/parappadev/parappa2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "parappadev",
+          "parappa2"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Raikaru/mwccps2-debugger",
+        "url": "https://github.com/Raikaru/mwccps2-debugger",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Raikaru",
+          "mwccps2",
+          "debugger"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Raikaru/Persona4-Decompilation",
+        "url": "https://github.com/Raikaru/Persona4-Decompilation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "Raikaru",
+          "Persona4",
+          "Decompilation"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: snaku/Persona3-FES-Decompilation",
+        "url": "https://github.com/snaku/Persona3-FES-Decompilation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "snaku",
+          "Persona3",
+          "FES",
+          "Decompilation"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: Tatsh/resonance",
+        "url": "https://github.com/Tatsh/resonance",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "playstation-2 decompilation",
+          "Tatsh",
+          "resonance"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: theclub654/ProjectCane",
+        "url": "https://github.com/theclub654/ProjectCane",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "theclub654",
+          "ProjectCane"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: TheOnlyZac/sly1",
+        "url": "https://github.com/TheOnlyZac/sly1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "TheOnlyZac",
+          "sly1"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: ValakTurtle/Xenosaga-I-Decomp",
+        "url": "https://github.com/ValakTurtle/Xenosaga-I-Decomp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "ValakTurtle",
+          "Xenosaga",
+          "I",
+          "Decomp"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: vs-sr-dev/pc-rpgmaker3",
+        "url": "https://github.com/vs-sr-dev/pc-rpgmaker3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "playstation-2 decompilation",
+          "vs",
+          "sr",
+          "dev",
+          "pc",
+          "rpgmaker3"
+        ]
+      },
+      {
+        "name": "GitHub PS2 decomp: YacaloX-Studios/cnk-decomp",
+        "url": "https://github.com/YacaloX-Studios/cnk-decomp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "decomp",
+          "decompilation",
+          "reverse engineering",
+          "GitHub",
+          "ps2 decompilation",
+          "YacaloX",
+          "Studios",
+          "cnk",
+          "decomp"
+        ]
+      }
+    ]
+  }
+]

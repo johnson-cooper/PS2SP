@@ -1,0 +1,1518 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "GitHub repositories explicitly tagged for PS2 homebrew, ps2dev, PS2SDK, or PlayStation 2 homebrew development.",
+    "links": [
+      {
+        "name": "GitHub: alekszverr-jpg/quake2-ps2",
+        "url": "https://github.com/alekszverr-jpg/quake2-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "alekszverr",
+          "jpg",
+          "quake2",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub: azagramac/ps2-bios-extract-modules",
+        "url": "https://github.com/azagramac/ps2-bios-extract-modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "ps2dev",
+          "azagramac",
+          "ps2",
+          "bios",
+          "extract",
+          "modules"
+        ]
+      },
+      {
+        "name": "GitHub: azagramac/ps2-eth",
+        "url": "https://github.com/azagramac/ps2-eth",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "ps2sdk",
+          "azagramac",
+          "ps2",
+          "eth"
+        ]
+      },
+      {
+        "name": "GitHub: azagramac/ps2-link",
+        "url": "https://github.com/azagramac/ps2-link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "azagramac",
+          "ps2",
+          "link"
+        ]
+      },
+      {
+        "name": "GitHub: ButterscotchRunner/Butterscotch",
+        "url": "https://github.com/ButterscotchRunner/Butterscotch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "ps2sdk",
+          "ButterscotchRunner",
+          "Butterscotch"
+        ]
+      },
+      {
+        "name": "GitHub: citronalco/ps2-libogg",
+        "url": "https://github.com/citronalco/ps2-libogg",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "citronalco",
+          "ps2",
+          "libogg"
+        ]
+      },
+      {
+        "name": "GitHub: citronalco/ps2-libtremor",
+        "url": "https://github.com/citronalco/ps2-libtremor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "citronalco",
+          "ps2",
+          "libtremor"
+        ]
+      },
+      {
+        "name": "GitHub: citronalco/ps2-libvorbis",
+        "url": "https://github.com/citronalco/ps2-libvorbis",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "citronalco",
+          "ps2",
+          "libvorbis"
+        ]
+      },
+      {
+        "name": "GitHub: cwood/ps2mc",
+        "url": "https://github.com/cwood/ps2mc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "cwood",
+          "ps2mc"
+        ]
+      },
+      {
+        "name": "GitHub: DanielLMcGuire/chrome-dino-cpp",
+        "url": "https://github.com/DanielLMcGuire/chrome-dino-cpp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "ps2sdk",
+          "DanielLMcGuire",
+          "chrome",
+          "dino",
+          "cpp"
+        ]
+      },
+      {
+        "name": "GitHub: davifernandobastosdeassiss-coder/DaviDevPS",
+        "url": "https://github.com/davifernandobastosdeassiss-coder/DaviDevPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "davifernandobastosdeassiss",
+          "coder",
+          "DaviDevPS"
+        ]
+      },
+      {
+        "name": "GitHub: dhustkoder/unes",
+        "url": "https://github.com/dhustkoder/unes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "dhustkoder",
+          "unes"
+        ]
+      },
+      {
+        "name": "GitHub: djpadbit/ps2-stuff",
+        "url": "https://github.com/djpadbit/ps2-stuff",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "djpadbit",
+          "ps2",
+          "stuff"
+        ]
+      },
+      {
+        "name": "GitHub: dnunezx/LUNA",
+        "url": "https://github.com/dnunezx/LUNA",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "ps2dev",
+          "dnunezx",
+          "LUNA"
+        ]
+      },
+      {
+        "name": "GitHub: dywbe/MKV2PSS_PreRendering_Windows",
+        "url": "https://github.com/dywbe/MKV2PSS_PreRendering_Windows",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "dywbe",
+          "MKV2PSS",
+          "PreRendering",
+          "Windows"
+        ]
+      },
+      {
+        "name": "GitHub: fabricio-vgl/essentials-emu",
+        "url": "https://github.com/fabricio-vgl/essentials-emu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "fabricio",
+          "vgl",
+          "essentials",
+          "emu"
+        ]
+      },
+      {
+        "name": "GitHub: fabricio-vgl/nostalgia-collection",
+        "url": "https://github.com/fabricio-vgl/nostalgia-collection",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "fabricio",
+          "vgl",
+          "nostalgia",
+          "collection"
+        ]
+      },
+      {
+        "name": "GitHub: Fantaskink/SOTC",
+        "url": "https://github.com/Fantaskink/SOTC",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "Fantaskink",
+          "SOTC"
+        ]
+      },
+      {
+        "name": "GitHub: FatBaldDad/PS2-Chip-Slayer",
+        "url": "https://github.com/FatBaldDad/PS2-Chip-Slayer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "FatBaldDad",
+          "PS2",
+          "Chip",
+          "Slayer"
+        ]
+      },
+      {
+        "name": "GitHub: gdomingues/ps2-klient",
+        "url": "https://github.com/gdomingues/ps2-klient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "gdomingues",
+          "ps2",
+          "klient"
+        ]
+      },
+      {
+        "name": "GitHub: glampert/ps2-homebrew",
+        "url": "https://github.com/glampert/ps2-homebrew",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "ps2sdk",
+          "glampert",
+          "ps2",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "GitHub: glampert/quake2-ps2",
+        "url": "https://github.com/glampert/quake2-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "ps2sdk",
+          "glampert",
+          "quake2",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub: glampert/vclpp",
+        "url": "https://github.com/glampert/vclpp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "ps2dev",
+          "ps2sdk",
+          "glampert",
+          "vclpp"
+        ]
+      },
+      {
+        "name": "GitHub: hacan359/xerabora",
+        "url": "https://github.com/hacan359/xerabora",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "hacan359",
+          "xerabora"
+        ]
+      },
+      {
+        "name": "GitHub: helworks/helengine-ps2",
+        "url": "https://github.com/helworks/helengine-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "helworks",
+          "helengine",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub: Hoang7393/lmp",
+        "url": "https://github.com/Hoang7393/lmp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "Hoang7393",
+          "lmp"
+        ]
+      },
+      {
+        "name": "GitHub: Kannagi/LMP3D",
+        "url": "https://github.com/Kannagi/LMP3D",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "Kannagi",
+          "LMP3D"
+        ]
+      },
+      {
+        "name": "GitHub: karasq/PS2InfoGB",
+        "url": "https://github.com/karasq/PS2InfoGB",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "ps2dev",
+          "karasq",
+          "PS2InfoGB"
+        ]
+      },
+      {
+        "name": "GitHub: kelsno/ps2dev-converter",
+        "url": "https://github.com/kelsno/ps2dev-converter",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "kelsno",
+          "ps2dev",
+          "converter"
+        ]
+      },
+      {
+        "name": "GitHub: leidav/ps2-cmake-template",
+        "url": "https://github.com/leidav/ps2-cmake-template",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "leidav",
+          "ps2",
+          "cmake",
+          "template"
+        ]
+      },
+      {
+        "name": "GitHub: makmal0962/th06-ps2",
+        "url": "https://github.com/makmal0962/th06-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "makmal0962",
+          "th06",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub: Matisiowy/MikosCraft",
+        "url": "https://github.com/Matisiowy/MikosCraft",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "Matisiowy",
+          "MikosCraft"
+        ]
+      },
+      {
+        "name": "GitHub: Melodieshusband/gta-sa-ps2-mod-converter",
+        "url": "https://github.com/Melodieshusband/gta-sa-ps2-mod-converter",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "Melodieshusband",
+          "gta",
+          "sa",
+          "ps2",
+          "mod",
+          "converter"
+        ]
+      },
+      {
+        "name": "GitHub: MrPowerGamerBR/FlappyFuralhaPS2",
+        "url": "https://github.com/MrPowerGamerBR/FlappyFuralhaPS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "MrPowerGamerBR",
+          "FlappyFuralhaPS2"
+        ]
+      },
+      {
+        "name": "GitHub: NathanNeurotic/NathanNeurotic",
+        "url": "https://github.com/NathanNeurotic/NathanNeurotic",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "NathanNeurotic",
+          "NathanNeurotic"
+        ]
+      },
+      {
+        "name": "GitHub: obiot/NeoPop-PS2",
+        "url": "https://github.com/obiot/NeoPop-PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "obiot",
+          "NeoPop",
+          "PS2"
+        ]
+      },
+      {
+        "name": "GitHub: OdeRelic/OdeRelic",
+        "url": "https://github.com/OdeRelic/OdeRelic",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "playstation-2-homebrew",
+          "OdeRelic",
+          "OdeRelic"
+        ]
+      },
+      {
+        "name": "GitHub: projectcrayon/binutils-gdb",
+        "url": "https://github.com/projectcrayon/binutils-gdb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "projectcrayon",
+          "binutils",
+          "gdb"
+        ]
+      },
+      {
+        "name": "GitHub: projectcrayon/gcc",
+        "url": "https://github.com/projectcrayon/gcc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "projectcrayon",
+          "gcc"
+        ]
+      },
+      {
+        "name": "GitHub: projectcrayon/newlib",
+        "url": "https://github.com/projectcrayon/newlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "projectcrayon",
+          "newlib"
+        ]
+      },
+      {
+        "name": "GitHub: projectcrayon/pthread-embedded",
+        "url": "https://github.com/projectcrayon/pthread-embedded",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "projectcrayon",
+          "pthread",
+          "embedded"
+        ]
+      },
+      {
+        "name": "GitHub: ps2dev/ps2toolchain",
+        "url": "https://github.com/ps2dev/ps2toolchain",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "ps2dev",
+          "ps2toolchain"
+        ]
+      },
+      {
+        "name": "GitHub: Rider-UwU-Black/R2Engine",
+        "url": "https://github.com/Rider-UwU-Black/R2Engine",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "playstation-2-homebrew",
+          "Rider",
+          "UwU",
+          "Black",
+          "R2Engine"
+        ]
+      },
+      {
+        "name": "GitHub: sammwyy/jellyfish",
+        "url": "https://github.com/sammwyy/jellyfish",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "playstation-2-homebrew",
+          "sammwyy",
+          "jellyfish"
+        ]
+      },
+      {
+        "name": "GitHub: sammwyy/ps2-homebrew-sample",
+        "url": "https://github.com/sammwyy/ps2-homebrew-sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "ps2sdk",
+          "sammwyy",
+          "ps2",
+          "homebrew",
+          "sample"
+        ]
+      },
+      {
+        "name": "GitHub: ShyavanS/NTPS2",
+        "url": "https://github.com/ShyavanS/NTPS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "ps2sdk",
+          "ShyavanS",
+          "NTPS2"
+        ]
+      },
+      {
+        "name": "GitHub: tatokis/libxmp-lite-ps2",
+        "url": "https://github.com/tatokis/libxmp-lite-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "ps2sdk",
+          "tatokis",
+          "libxmp",
+          "lite",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub: TimoSalomaki/EmotionEngineDisassembler",
+        "url": "https://github.com/TimoSalomaki/EmotionEngineDisassembler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "ps2sdk",
+          "TimoSalomaki",
+          "EmotionEngineDisassembler"
+        ]
+      },
+      {
+        "name": "GitHub: VTSTech/VTSPS2-CRC32",
+        "url": "https://github.com/VTSTech/VTSPS2-CRC32",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "VTSTech",
+          "VTSPS2",
+          "CRC32"
+        ]
+      },
+      {
+        "name": "GitHub: VTSTech/VTSPS2-EJECT",
+        "url": "https://github.com/VTSTech/VTSPS2-EJECT",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "VTSTech",
+          "VTSPS2",
+          "EJECT"
+        ]
+      },
+      {
+        "name": "GitHub: Wolf3s/prboom-plus",
+        "url": "https://github.com/Wolf3s/prboom-plus",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "Wolf3s",
+          "prboom",
+          "plus"
+        ]
+      },
+      {
+        "name": "GitHub: xan1242/MC3CarRandomizer",
+        "url": "https://github.com/xan1242/MC3CarRandomizer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "xan1242",
+          "MC3CarRandomizer"
+        ]
+      },
+      {
+        "name": "GitHub: ZapolyarnyDev/gsKit3d",
+        "url": "https://github.com/ZapolyarnyDev/gsKit3d",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "ZapolyarnyDev",
+          "gsKit3d"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "GitHub repositories explicitly tagged for PS2 homebrew, ps2dev, PS2SDK, or PlayStation 2 homebrew development.",
+    "links": [
+      {
+        "name": "GitHub: aleelyoshi/FreeDVDBoot-YoshiMod",
+        "url": "https://github.com/aleelyoshi/FreeDVDBoot-YoshiMod",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "aleelyoshi",
+          "FreeDVDBoot",
+          "YoshiMod"
+        ]
+      },
+      {
+        "name": "GitHub: BAD-AL/dart_mymc",
+        "url": "https://github.com/BAD-AL/dart_mymc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "BAD",
+          "AL",
+          "dart",
+          "mymc"
+        ]
+      },
+      {
+        "name": "GitHub: BAD-AL/mymc_web",
+        "url": "https://github.com/BAD-AL/mymc_web",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "BAD",
+          "AL",
+          "mymc",
+          "web"
+        ]
+      },
+      {
+        "name": "GitHub: binkynz/ps2-usbhdl",
+        "url": "https://github.com/binkynz/ps2-usbhdl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "ps2sdk",
+          "binkynz",
+          "ps2",
+          "usbhdl"
+        ]
+      },
+      {
+        "name": "GitHub: Doreyresponsible758/ps2dev-installer-bundle",
+        "url": "https://github.com/Doreyresponsible758/ps2dev-installer-bundle",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "ps2sdk",
+          "Doreyresponsible758",
+          "ps2dev",
+          "installer",
+          "bundle"
+        ]
+      },
+      {
+        "name": "GitHub: hacan359/Open-PS2-Loader",
+        "url": "https://github.com/hacan359/Open-PS2-Loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "ps2sdk",
+          "hacan359",
+          "Open",
+          "PS2",
+          "Loader"
+        ]
+      },
+      {
+        "name": "GitHub: israpps/Funtuna-Fork",
+        "url": "https://github.com/israpps/Funtuna-Fork",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "israpps",
+          "Funtuna",
+          "Fork"
+        ]
+      },
+      {
+        "name": "GitHub: israpps/PlayStation2-Basic-BootLoader",
+        "url": "https://github.com/israpps/PlayStation2-Basic-BootLoader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "israpps",
+          "PlayStation2",
+          "Basic",
+          "BootLoader"
+        ]
+      },
+      {
+        "name": "GitHub: Manoplay/playstation2-application-framework",
+        "url": "https://github.com/Manoplay/playstation2-application-framework",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "Manoplay",
+          "playstation2",
+          "application",
+          "framework"
+        ]
+      },
+      {
+        "name": "GitHub: NathanNeurotic/launcHER",
+        "url": "https://github.com/NathanNeurotic/launcHER",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "ps2dev",
+          "NathanNeurotic",
+          "launcHER"
+        ]
+      },
+      {
+        "name": "GitHub: NathanNeurotic/ps2dev-installer-bundle",
+        "url": "https://github.com/NathanNeurotic/ps2dev-installer-bundle",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "ps2sdk",
+          "NathanNeurotic",
+          "ps2dev",
+          "installer",
+          "bundle"
+        ]
+      },
+      {
+        "name": "GitHub: oMrRexD/wLaunchELF_R3Z_FTP",
+        "url": "https://github.com/oMrRexD/wLaunchELF_R3Z_FTP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "oMrRexD",
+          "wLaunchELF",
+          "R3Z",
+          "FTP"
+        ]
+      },
+      {
+        "name": "GitHub: PunishedSnake/fhdb-bootstrap-manager",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "PunishedSnake",
+          "fhdb",
+          "bootstrap",
+          "manager"
+        ]
+      },
+      {
+        "name": "GitHub: saildot4k/wLaunchELF_R3Z",
+        "url": "https://github.com/saildot4k/wLaunchELF_R3Z",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "saildot4k",
+          "wLaunchELF",
+          "R3Z"
+        ]
+      },
+      {
+        "name": "GitHub: SvenGDK/PSX-XMB-Manager",
+        "url": "https://github.com/SvenGDK/PSX-XMB-Manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "SvenGDK",
+          "PSX",
+          "XMB",
+          "Manager"
+        ]
+      },
+      {
+        "name": "GitHub: sync-on-luma/xebplus-neutrino-loader-plugin",
+        "url": "https://github.com/sync-on-luma/xebplus-neutrino-loader-plugin",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "sync",
+          "on",
+          "luma",
+          "xebplus",
+          "neutrino",
+          "loader",
+          "plugin"
+        ]
+      },
+      {
+        "name": "GitHub: VTSTech/PS2_FORTUNA_Launcher",
+        "url": "https://github.com/VTSTech/PS2_FORTUNA_Launcher",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "VTSTech",
+          "PS2",
+          "FORTUNA",
+          "Launcher"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Custom Content & Game Mods",
+    "description": "GitHub repositories explicitly tagged for PS2 homebrew, ps2dev, PS2SDK, or PlayStation 2 homebrew development.",
+    "links": [
+      {
+        "name": "GitHub: PixeliGer/OPL-Theme-DeckyOS",
+        "url": "https://github.com/PixeliGer/OPL-Theme-DeckyOS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "PixeliGer",
+          "OPL",
+          "Theme",
+          "DeckyOS"
+        ]
+      },
+      {
+        "name": "GitHub: PixeliGer/OPL-Theme-Ominence",
+        "url": "https://github.com/PixeliGer/OPL-Theme-Ominence",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "PixeliGer",
+          "OPL",
+          "Theme",
+          "Ominence"
+        ]
+      },
+      {
+        "name": "GitHub: PixeliGer/OPL-Theme-OPLAdvance",
+        "url": "https://github.com/PixeliGer/OPL-Theme-OPLAdvance",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "PixeliGer",
+          "OPL",
+          "Theme",
+          "OPLAdvance"
+        ]
+      },
+      {
+        "name": "GitHub: PixeliGer/OPL-Theme-PadOS",
+        "url": "https://github.com/PixeliGer/OPL-Theme-PadOS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "PixeliGer",
+          "OPL",
+          "Theme",
+          "PadOS"
+        ]
+      },
+      {
+        "name": "GitHub: PixeliGer/OPL-Theme-Pixel-Prime",
+        "url": "https://github.com/PixeliGer/OPL-Theme-Pixel-Prime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "PixeliGer",
+          "OPL",
+          "Theme",
+          "Pixel",
+          "Prime"
+        ]
+      },
+      {
+        "name": "GitHub: PS2HomeDeveloper/ps2-tim2-tool",
+        "url": "https://github.com/PS2HomeDeveloper/ps2-tim2-tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "PS2HomeDeveloper",
+          "ps2",
+          "tim2",
+          "tool"
+        ]
+      },
+      {
+        "name": "GitHub: sync-on-luma/PS2-widescreen-cheats",
+        "url": "https://github.com/sync-on-luma/PS2-widescreen-cheats",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "sync",
+          "on",
+          "luma",
+          "PS2",
+          "widescreen",
+          "cheats"
+        ]
+      },
+      {
+        "name": "GitHub: telephoneboxbrouhaha811/OPL-Theme-DeckyOS",
+        "url": "https://github.com/telephoneboxbrouhaha811/OPL-Theme-DeckyOS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "telephoneboxbrouhaha811",
+          "OPL",
+          "Theme",
+          "DeckyOS"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Online Gaming & Network Play",
+    "description": "GitHub repositories explicitly tagged for PS2 homebrew, ps2dev, PS2SDK, or PlayStation 2 homebrew development.",
+    "links": [
+      {
+        "name": "GitHub: cripfoun159/EyeToy-Chat-online-server-",
+        "url": "https://github.com/cripfoun159/EyeToy-Chat-online-server-",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "cripfoun159",
+          "EyeToy",
+          "Chat",
+          "online",
+          "server"
+        ]
+      },
+      {
+        "name": "GitHub: FatBaldDad/PS2-EtherDrive",
+        "url": "https://github.com/FatBaldDad/PS2-EtherDrive",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "FatBaldDad",
+          "PS2",
+          "EtherDrive"
+        ]
+      },
+      {
+        "name": "GitHub: GorGylka/Server2PS2",
+        "url": "https://github.com/GorGylka/Server2PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "GorGylka",
+          "Server2PS2"
+        ]
+      },
+      {
+        "name": "GitHub: GorGylka/UDPBD-A5-V11",
+        "url": "https://github.com/GorGylka/UDPBD-A5-V11",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "GorGylka",
+          "UDPBD",
+          "A5",
+          "V11"
+        ]
+      },
+      {
+        "name": "GitHub: lucasonline0/opl-linux-toolbox",
+        "url": "https://github.com/lucasonline0/opl-linux-toolbox",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2-homebrew",
+          "lucasonline0",
+          "opl",
+          "linux",
+          "toolbox"
+        ]
+      },
+      {
+        "name": "GitHub: YAGAMI55/udpfsd_opizerolts_openwrt",
+        "url": "https://github.com/YAGAMI55/udpfsd_opizerolts_openwrt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "YAGAMI55",
+          "udpfsd",
+          "opizerolts",
+          "openwrt"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Hardware, Mods & Accessories",
+    "description": "GitHub repositories explicitly tagged for PS2 homebrew, ps2dev, PS2SDK, or PlayStation 2 homebrew development.",
+    "links": [
+      {
+        "name": "GitHub: adlerosn/ps2joysrv",
+        "url": "https://github.com/adlerosn/ps2joysrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "adlerosn",
+          "ps2joysrv"
+        ]
+      },
+      {
+        "name": "GitHub: islandcontroller/ps2ded-oss",
+        "url": "https://github.com/islandcontroller/ps2ded-oss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "islandcontroller",
+          "ps2ded",
+          "oss"
+        ]
+      },
+      {
+        "name": "GitHub: islandcontroller/ps2ded-vscode",
+        "url": "https://github.com/islandcontroller/ps2ded-vscode",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "islandcontroller",
+          "ps2ded",
+          "vscode"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "GitHub repositories explicitly tagged for PS2 homebrew, ps2dev, PS2SDK, or PlayStation 2 homebrew development.",
+    "links": [
+      {
+        "name": "GitHub: doctorspider42/tyraX",
+        "url": "https://github.com/doctorspider42/tyraX",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "doctorspider42",
+          "tyraX"
+        ]
+      },
+      {
+        "name": "GitHub: ps2dev-mirror/doc",
+        "url": "https://github.com/ps2dev-mirror/doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2dev",
+          "ps2dev",
+          "mirror",
+          "doc"
+        ]
+      },
+      {
+        "name": "GitHub: terremoth/awesome-ps2",
+        "url": "https://github.com/terremoth/awesome-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "homebrew",
+          "development",
+          "ps2sdk",
+          "terremoth",
+          "awesome",
+          "ps2"
+        ]
+      }
+    ]
+  }
+]
