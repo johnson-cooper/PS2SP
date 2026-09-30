@@ -1,0 +1,393 @@
+[
+  {
+    "category": "Hardware, Mods & Accessories",
+    "description": "Official and independently preserved PS2 service manuals, hardware references, schematics, board documentation, and repair resources.",
+    "links": [
+      {
+        "name": "GamingDoc PS2 — Technical Documentation Sony PlayStation 2",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "sony",
+          "playstation",
+          "2",
+          "Technical Documentation Sony PlayStation 2"
+        ]
+      },
+      {
+        "name": "GamingDoc PS2 — Official Technical Documentation Sony PlayStation 2",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "official",
+          "Official Technical Documentation Sony PlayStation 2"
+        ]
+      },
+      {
+        "name": "GamingDoc PS2 — Service Manuals",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "service",
+          "manuals",
+          "Service Manuals"
+        ]
+      },
+      {
+        "name": "GamingDoc PS2 — Level-1 Service and Procedures Manual (Version 4.0)",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/level-1-service-and-procedures-manual-version-4-0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "level",
+          "1",
+          "service",
+          "and",
+          "procedures",
+          "manual",
+          "version",
+          "4",
+          "0",
+          "Level-1 Service and Procedures Manual (Version 4.0)"
+        ]
+      },
+      {
+        "name": "GamingDoc PS2 — Level-1 Service and Procedures Manual (Version 5.0)",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/level-1-service-and-procedures-manual-version-5-0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "level",
+          "1",
+          "service",
+          "and",
+          "procedures",
+          "manual",
+          "version",
+          "5",
+          "0",
+          "Level-1 Service and Procedures Manual (Version 5.0)"
+        ]
+      },
+      {
+        "name": "GamingDoc PS2 — SCPH-30000 Series Service Manual (2nd Edition)",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/level-1-service-and-procedures-manual-version-4-0-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "level",
+          "1",
+          "service",
+          "and",
+          "procedures",
+          "manual",
+          "version",
+          "4",
+          "0",
+          "2",
+          "SCPH-30000 Series Service Manual (2nd Edition)"
+        ]
+      },
+      {
+        "name": "GamingDoc PS2 — SCPH-30000 Series Service Manual (6th Edition)",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-30000-series-service-manual-6th-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "scph",
+          "30000",
+          "series",
+          "service",
+          "manual",
+          "6th",
+          "edition",
+          "SCPH-30000 Series Service Manual (6th Edition)"
+        ]
+      },
+      {
+        "name": "GamingDoc PS2 — SCPH-30000R Series Service Manual (1st Edition)",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/level-1-service-and-procedures-manual-version-4-0-2-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "level",
+          "1",
+          "service",
+          "and",
+          "procedures",
+          "manual",
+          "version",
+          "4",
+          "0",
+          "2",
+          "2",
+          "SCPH-30000R Series Service Manual (1st Edition)"
+        ]
+      },
+      {
+        "name": "GamingDoc PS2 — SCPH-30000/35000 Series Service Manual (4th Edition)",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-30000-35000-series-service-manual-4th-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "scph",
+          "30000",
+          "35000",
+          "series",
+          "service",
+          "manual",
+          "4th",
+          "edition",
+          "SCPH-30000/35000 Series Service Manual (4th Edition)"
+        ]
+      },
+      {
+        "name": "GamingDoc PS2 — SCPH-30000R Series Service Manual (4th Edition)",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-30000r-series-service-manual-4th-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "scph",
+          "30000r",
+          "series",
+          "service",
+          "manual",
+          "4th",
+          "edition",
+          "SCPH-30000R Series Service Manual (4th Edition)"
+        ]
+      },
+      {
+        "name": "GamingDoc PS2 — SCPH-30000R Series Service Manual (6th Edition)",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-30000r-series-service-manual-6th-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "scph",
+          "30000r",
+          "series",
+          "service",
+          "manual",
+          "6th",
+          "edition",
+          "SCPH-30000R Series Service Manual (6th Edition)"
+        ]
+      },
+      {
+        "name": "GamingDoc PS2 — SCPH-39000 Series Service Manual (1st Edition)",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-39000-series-service-manual-1st-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "scph",
+          "39000",
+          "series",
+          "service",
+          "manual",
+          "1st",
+          "edition",
+          "SCPH-39000 Series Service Manual (1st Edition)"
+        ]
+      },
+      {
+        "name": "GamingDoc PS2 — SCPH-39000 Series Service Manual (2nd Edition)",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-39000-series-service-manual-2nd-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "scph",
+          "39000",
+          "series",
+          "service",
+          "manual",
+          "2nd",
+          "edition",
+          "SCPH-39000 Series Service Manual (2nd Edition)"
+        ]
+      },
+      {
+        "name": "GamingDoc PS2 — SCPH-39000 Series Service Manual (4th Edition)",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-39000-series-service-manual-4th-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "scph",
+          "39000",
+          "series",
+          "service",
+          "manual",
+          "4th",
+          "edition",
+          "SCPH-39000 Series Service Manual (4th Edition)"
+        ]
+      },
+      {
+        "name": "GamingDoc PS2 — SCPH-50000 Series Service Manual (2nd Edition)",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-50000-series-service-manual-2nd-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "scph",
+          "50000",
+          "series",
+          "service",
+          "manual",
+          "2nd",
+          "edition",
+          "SCPH-50000 Series Service Manual (2nd Edition)"
+        ]
+      },
+      {
+        "name": "GamingDoc PS2 — SCPH-50000 Series Service Manual (2nd Edition)",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-50000-series-service-manual-2nd-edition-gh026",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "scph",
+          "50000",
+          "series",
+          "service",
+          "manual",
+          "2nd",
+          "edition",
+          "gh026",
+          "SCPH-50000 Series Service Manual (2nd Edition)"
+        ]
+      },
+      {
+        "name": "GamingDoc PS2 — SCPH-70000 Series Service Manual (1st Edition)",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-70000-series-service-manual-1st-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GamingDoc",
+          "service manual",
+          "technical documentation",
+          "repair",
+          "schematic",
+          "scph",
+          "70000",
+          "series",
+          "service",
+          "manual",
+          "1st",
+          "edition",
+          "SCPH-70000 Series Service Manual (1st Edition)"
+        ]
+      },
+      {
+        "name": "AssemblerGames Archive — PS2 Hardware Documentation and Service Manuals",
+        "url": "https://assemblergames-archive.com/printthread.php?tid=18049",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "service manual",
+          "schematics",
+          "block diagram",
+          "wiring",
+          "hardware documentation",
+          "AssemblerGames archive"
+        ]
+      },
+      {
+        "name": "ConsoleArtisan — Sony PlayStation 2 Repair Reference",
+        "url": "https://consoleartisan.com/reference/ps2/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "repair",
+          "GH board",
+          "motherboard",
+          "service manual",
+          "schematic",
+          "laser",
+          "PSU",
+          "reference"
+        ]
+      }
+    ]
+  }
+]
