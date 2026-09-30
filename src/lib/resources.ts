@@ -11,6 +11,7 @@ import ps2devWikiSectionGroups from "../../data/resources/ps2devwiki-sections.js
 import ps2tekSectionGroups from "../../data/resources/ps2tek-sections.json";
 import ps2HomeIndexGroups from "../../data/resources/ps2home-index.json";
 import consoleModsHomebrewGameGroups from "../../data/resources/consolemods-homebrew-games.json";
+import psxPlacePs2ResourceGroups from "../../data/resources/psx-place-ps2-resources.json";
 import githubPlayStation2TopicGroups from "../../data/resources/github-topic-playstation-2.json";
 import githubPs2TopicGroups from "../../data/resources/github-topic-ps2.json";
 import githubPlaystation2TopicGroups from "../../data/resources/github-topic-playstation2.json";
@@ -98,6 +99,7 @@ const allResourceSources = [
   ...(ps2tekSectionGroups as ResourceGroup[]),
   ...(ps2HomeIndexGroups as ResourceGroup[]),
   ...(consoleModsHomebrewGameGroups as ResourceGroup[]),
+  ...(psxPlacePs2ResourceGroups as ResourceGroup[]),
   ...(githubPlayStation2TopicGroups as ResourceGroup[]),
   ...(githubPs2TopicGroups as ResourceGroup[]),
   ...(githubPlaystation2TopicGroups as ResourceGroup[]),
