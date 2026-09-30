@@ -1694,6 +1694,492 @@
         "url": "https://www.ps2-home.com/forum/viewforum.php?f=125",
         "favicon_url": "",
         "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: OPL (Open PS2 Loader)",
+        "url": "https://www.psx-place.com/resources/opl-open-ps2-loader.372/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: VTSPS2-HBDL - HomeBrew DownLoader hbdl.vts-tech.org",
+        "url": "https://www.psx-place.com/resources/vtsps2-hbdl-homebrew-downloader-hbdl-vts-tech-org.947/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PS2-Launcher",
+        "url": "https://www.psx-place.com/resources/ps2-launcher.1708/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PlayStation 2 Basic BootLoader",
+        "url": "https://www.psx-place.com/resources/playstation-2-basic-bootloader.1314/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: RETROLauncher",
+        "url": "https://www.psx-place.com/resources/retrolauncher.1532/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Ember",
+        "url": "https://www.psx-place.com/resources/ember.1755/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PSUja",
+        "url": "https://www.psx-place.com/resources/psuja.1570/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: FunTuna (Free McBoot for Fortuna)",
+        "url": "https://www.psx-place.com/resources/funtuna-free-mcboot-for-fortuna.993/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: myPS2 by ntba2",
+        "url": "https://www.psx-place.com/resources/myps2-by-ntba2.676/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: FORTUNA Launcher by VTSTech",
+        "url": "https://www.psx-place.com/resources/fortuna-launcher-by-vtstech.887/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: [REVIVED] Simple-Media-System (SMS) and Simple-Media-Converter!",
+        "url": "https://www.psx-place.com/resources/revived-simple-media-system-sms-and-simple-media-converter.1752/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: DKWDRV",
+        "url": "https://www.psx-place.com/resources/dkwdrv.1255/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: FreeDVDBoot by CTurt",
+        "url": "https://www.psx-place.com/resources/freedvdboot-by-cturt.953/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PlayStation Basic Bootloader Extended (PS2BBL E)",
+        "url": "https://www.psx-place.com/resources/playstation-basic-bootloader-extended-ps2bbl-e.1736/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: SMS (Simple Media System) 2.9 REV 4",
+        "url": "https://www.psx-place.com/resources/sms-simple-media-system-2-9-rev-4.374/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: [FORK] launcHER",
+        "url": "https://www.psx-place.com/resources/fork-launcher.1792/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Graphics Synthesizer Mode Selector (GSM)",
+        "url": "https://www.psx-place.com/resources/graphics-synthesizer-mode-selector-gsm.678/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PAKer Utility",
+        "url": "https://www.psx-place.com/resources/paker-utility.886/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PlayStation 2 AIO Project",
+        "url": "https://www.psx-place.com/resources/playstation-2-aio-project.277/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PS3 - PS2 Classics GUI",
+        "url": "https://www.psx-place.com/resources/ps2-classics-gui.638/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PSXLauncher.ELF by vegito_93",
+        "url": "https://www.psx-place.com/resources/psxlauncher-elf-by-vegito_93.689/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PS2-Launcher by Irfanlesnar",
+        "url": "https://www.psx-place.com/resources/ps2-launcher-by-irfanlesnar.1708/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PSXiSO Compression Tool",
+        "url": "https://www.psx-place.com/resources/psxiso-compression-tool.1258/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PS4  PS2-FPKG  v0.7-Beta",
+        "url": "https://www.psx-place.com/resources/ps2-fpkg.1628/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PS3 - PS2 .psu Save Manager",
+        "url": "https://www.psx-place.com/resources/ps2-psu-save-manager.1782/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: ESR - Extra info",
+        "url": "https://www.psx-place.com/resources/esr.951/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: LUNA (Lightweight Unified Neutrino Access)",
+        "url": "https://www.psx-place.com/resources/luna-lightweight-unified-neutrino-access.1785/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Free McTuna! OpenTuna Installers with Free MCBoots via PS2BBL!",
+        "url": "https://www.psx-place.com/resources/free-mctuna-opentuna-installers-with-free-mcboots-via-ps2bbl.1514/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PPF-o-Matic",
+        "url": "https://www.psx-place.com/resources/ppf-o-matic.507/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PS2OS",
+        "url": "https://www.psx-place.com/resources/ps2os.1671/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: OPL conf_apps MAKER - Extra info",
+        "url": "https://www.psx-place.com/resources/opl-conf_apps-maker.1109/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: ESR Launcher",
+        "url": "https://www.psx-place.com/resources/esr-launcher.1526/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: OPLUtil by IsseiYoshida - Extra info",
+        "url": "https://www.psx-place.com/resources/oplutil-by-isseiyoshida.1493/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: KELFBinder 2",
+        "url": "https://www.psx-place.com/resources/kelfbinder-2.1324/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Geotron",
+        "url": "https://www.psx-place.com/resources/geotron.414/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: OPL (Open PS2 Loader & GSM) 0.9.3",
+        "url": "https://www.psx-place.com/resources/opl-open-ps2-loader-gsm-0-9-3.371/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Sega Master System (PSMS Reloaded) 0.4",
+        "url": "https://www.psx-place.com/resources/sega-master-system-psms-reloaded-0-4.352/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: wLaunchELF",
+        "url": "https://www.psx-place.com/resources/wlaunchelf.713/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: ESR GUI by ffgriever - History",
+        "url": "https://www.psx-place.com/resources/esr-gui-by-ffgriever.682/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: CDGenPS2",
+        "url": "https://www.psx-place.com/resources/cdgenps2.698/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: neutrino by rickgaiser - Extra info",
+        "url": "https://www.psx-place.com/resources/neutrino-by-rickgaiser.1531/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: [FORK] RiptOPL (Customized Open-PS2-Loader)",
+        "url": "https://www.psx-place.com/resources/fork-riptopl-customized-open-ps2-loader.1711/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: HWC's OSDSYS Launcher - History",
+        "url": "https://www.psx-place.com/resources/hwcs-osdsys-launcher.954/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: ESR by ffgriever",
+        "url": "https://www.psx-place.com/resources/esr-by-ffgriever.680/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: ps2-taradino",
+        "url": "https://www.psx-place.com/resources/ps2-taradino.1646/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Commodore 64 (VICE 1.22) NTSC pre-configured",
+        "url": "https://www.psx-place.com/resources/commodore-64-vice-1-22-ntsc-pre-configured.364/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Playstation 2 External Storage Device games Loader (PS2ESDL)",
+        "url": "https://www.psx-place.com/resources/playstation-2-external-storage-device-games-loader-ps2esdl.699/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: OPL Scanner",
+        "url": "https://www.psx-place.com/resources/opl-scanner.1418/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: OPL based GUI/frontend for Neutrino",
+        "url": "https://www.psx-place.com/resources/opl-based-gui-frontend-for-neutrino.1497/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: FMCB 1.9 for OpenTuna",
+        "url": "https://www.psx-place.com/resources/fmcb-1-9-for-opentuna.1177/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: OPL-Launcher",
+        "url": "https://www.psx-place.com/resources/opl-launcher.1187/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: XEB+ neutrino Launcher Plugin  v2.8.4.2",
+        "url": "https://www.psx-place.com/resources/xeb-neutrino-launcher-plugin.1572/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: FMCB\\FHDB Noobie Package",
+        "url": "https://www.psx-place.com/resources/fmcb-fhdb-noobie-package.721/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: wLaunchELF 4.43x_ISR - Updates | Page 2",
+        "url": "https://www.psx-place.com/resources/wlaunchelf-4-43x_isr.1112/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: wLaunchELF R3Z fork",
+        "url": "https://www.psx-place.com/resources/wlaunchelf-r3z-fork.1721/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: unofficial LaunchELF kHn",
+        "url": "https://www.psx-place.com/resources/unofficial-launchelf-khn.1534/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: [OUTDATED] MINIMAL FORTUNA LAUNCHER",
+        "url": "https://www.psx-place.com/resources/outdated-minimal-fortuna-launcher.1111/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: uLE (u Launch Elf) WIP 7",
+        "url": "https://www.psx-place.com/resources/ule-u-launch-elf-wip-7.367/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: [Obsolete] uLE 2-TB Edition (u Launch Elf) 4.43a",
+        "url": "https://www.psx-place.com/resources/obsolete-ule-2-tb-edition-u-launch-elf-4-43a.298/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: iLaunchELF",
+        "url": "https://www.psx-place.com/resources/ilaunchelf.741/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: LbFn (with updated libcdvd)",
+        "url": "https://www.psx-place.com/resources/lbfn-with-updated-libcdvd.971/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PFS BatchKit Manager (2TB) Support",
+        "url": "https://www.psx-place.com/resources/pfs-batchkit-manager-2tb-support.1202/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: OpenTuna",
+        "url": "https://www.psx-place.com/resources/opentuna.1142/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: BDMAssault",
+        "url": "https://www.psx-place.com/resources/bdmassault.1393/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: OPL Manager - Tool to manage your games!",
+        "url": "https://www.psx-place.com/resources/opl-manager-tool-to-manage-your-games.663/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PS2Ident",
+        "url": "https://www.psx-place.com/resources/ps2ident.1155/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PS2SPLASH",
+        "url": "https://www.psx-place.com/resources/ps2splash.1081/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Playstation 2 Identification Tool",
+        "url": "https://www.psx-place.com/resources/playstation-2-identification-tool.711/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Reboot (Reboot ELF)",
+        "url": "https://www.psx-place.com/resources/reboot-reboot-elf.348/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Playstation 2 Identification Tool",
+        "url": "https://www.psx-place.com/resources/playstation-2-identification-tool.368/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: HDLBATCH",
+        "url": "https://www.psx-place.com/resources/hdlbatch.881/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Merry Xmas! (an ESR Launcher hidden as an Easter Egg)",
+        "url": "https://www.psx-place.com/resources/merry-xmas-an-esr-launcher-hidden-as-an-easter-egg.1206/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: KELFTOOL -FMCB COMPATIBLE FORK-",
+        "url": "https://www.psx-place.com/resources/kelftool-fmcb-compatible-fork.1104/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: XtremeEliteBoot+'s Dashboard Special Xmas Showcase",
+        "url": "https://www.psx-place.com/resources/xtremeeliteboot-s-dashboard-special-xmas-showcase.1318/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: HDLGameInstaller  0.821 (09\\12\\2018)",
+        "url": "https://www.psx-place.com/resources/hdlgameinstaller.709/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Power Off (Power Off ELF)",
+        "url": "https://www.psx-place.com/resources/power-off-power-off-elf.349/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Vice HD",
+        "url": "https://www.psx-place.com/resources/vice-hd.1426/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Commandments",
+        "url": "https://www.psx-place.com/resources/commandments.1427/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Plasma",
+        "url": "https://www.psx-place.com/resources/plasma.1441/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: OrbitPS2 Manager by Luden02",
+        "url": "https://www.psx-place.com/resources/orbitps2-manager-by-luden02.1789/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: OPL-PORT -Avengers (OpenBOR) Neill Corlett's MOD",
+        "url": "https://www.psx-place.com/resources/opl-port-avengers-openbor-neill-corletts-mod.338/",
+        "favicon_url": "",
+        "thumbnail_url": ""
       }
     ]
   },
@@ -2900,6 +3386,96 @@
         "url": "https://ps2-linux.tensioncore.com/docs/psxide/index.html",
         "favicon_url": "",
         "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: RetroArch (PS2)",
+        "url": "https://www.psx-place.com/resources/retroarch-ps2.765/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PS2Link",
+        "url": "https://www.psx-place.com/resources/ps2link.949/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PicoDrive for the PlayStation 2 (port) by SP193",
+        "url": "https://www.psx-place.com/resources/picodrive-for-the-playstation-2-port-by-sp193.717/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: SoftDev2",
+        "url": "https://www.psx-place.com/resources/softdev2.1189/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PS2DreamSpec",
+        "url": "https://www.psx-place.com/resources/ps2dreamspec.447/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: VecX",
+        "url": "https://www.psx-place.com/resources/vecx.449/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PlayLua",
+        "url": "https://www.psx-place.com/resources/playlua.706/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PS3 - PS1 and PS2 Emulator Mods",
+        "url": "https://www.psx-place.com/resources/ps1-and-ps2-emulator-mods.1490/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Super Nintendo (SnesStation) 0.2.4S",
+        "url": "https://www.psx-place.com/resources/super-nintendo-snesstation-0-2-4s.294/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PS2SX",
+        "url": "https://www.psx-place.com/resources/ps2sx.1185/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: SCUMM VM (LAST USB+IHD compatible version) ...",
+        "url": "https://www.psx-place.com/resources/scumm-vm-last-usb-ihd-compatible-version-think-you-can-still-find-this-elsewhere-compare-them.375/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Kernelloader -  Browse /BlackRhino Linux Distribution/Live Linux DVD/PS2 Live Linux DVD v3 at SourceForge.net",
+        "url": "https://www.psx-place.com/resources/ps2-linux-live-dvd.860/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: OPL 0.8 (CHILDPROOF) Boot from APPS Menu for OLDER Emulators",
+        "url": "https://www.psx-place.com/resources/opl-0-8-childproof-boot-from-apps-menu-for-older-emulators.370/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Pnacher (Linux)",
+        "url": "https://www.psx-place.com/resources/ps2-pnacher-linux.1172/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: FCEUmm-PS2",
+        "url": "https://www.psx-place.com/resources/fceumm-ps2.685/",
+        "favicon_url": "",
+        "thumbnail_url": ""
       }
     ]
   },
@@ -3540,6 +4116,90 @@
       {
         "name": "PS2-HOME: PS2 Game Modding APPS",
         "url": "https://www.ps2-home.com/forum/viewforum.php?f=101",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Recovery for Dummies",
+        "url": "https://www.psx-place.com/resources/recovery-for-dummies.1520/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Patch Engine by pelvicthrustman",
+        "url": "https://www.psx-place.com/resources/ps2-patch-engine-by-pelvicthrustman.694/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Cheat Device (Continuation)",
+        "url": "https://www.psx-place.com/resources/cheat-device-continuation.1350/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: POPStarter",
+        "url": "https://www.psx-place.com/resources/popstarter.683/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: ADR Patcher (Adrenalin Patcher) by MacTheFork",
+        "url": "https://www.psx-place.com/resources/adr-patcher-adrenalin-patcher-by-macthefork.1268/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Retro GEM POPStarter Starter",
+        "url": "https://www.psx-place.com/resources/retro-gem-popstarter-starter.1415/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: [OPL THEME] thm_PS2",
+        "url": "https://www.psx-place.com/resources/opl-theme-thm_ps2.1612/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: OPL THEME (Theme uCit -aka Split Screen) by UniqueUserName",
+        "url": "https://www.psx-place.com/resources/opl-theme-theme-ucit-aka-split-screen-by-uniqueusername.376/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Coverart Collection (from currently-uncompleted uCit-2.0-Project) Max Resolution for OPL 0.9.3",
+        "url": "https://www.psx-place.com/resources/ps2-coverart-collection-from-currently-uncompleted-ucit-2-0-project-max-resolution-for-opl-0-9-3.596/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: [OPL THEME] inceBtion",
+        "url": "https://www.psx-place.com/resources/opl-theme-incebtion.1443/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: We Love Katamari (NTSC-U) Wide screen patch",
+        "url": "https://www.psx-place.com/resources/we-love-katamari-ntsc-u-wide-screen-patch.509/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Wild Arms 3 (NTSC-U) Wide screen patch",
+        "url": "https://www.psx-place.com/resources/wild-arms-3-ntsc-u-wide-screen-patch.510/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Wild Arms 4 (NTSC-U) Wide screen patch",
+        "url": "https://www.psx-place.com/resources/wild-arms-4-ntsc-u-wide-screen-patch.511/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: POPSLoader for MMCE and MX4SIO (Fork)",
+        "url": "https://www.psx-place.com/resources/popsloader-for-mmce-and-mx4sio-fork.1665/",
         "favicon_url": "",
         "thumbnail_url": ""
       }
@@ -4526,6 +5186,168 @@
         "url": "https://www.ps2-home.com/forum/viewforum.php?f=153",
         "favicon_url": "",
         "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: NHDDL",
+        "url": "https://www.psx-place.com/resources/nhddl.1489/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Playstation 2 soft-Region Faker",
+        "url": "https://www.psx-place.com/resources/playstation-2-soft-region-faker.852/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PS2HDDTester",
+        "url": "https://www.psx-place.com/resources/ps2hddtester.1417/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: DMS HDD Explorer",
+        "url": "https://www.psx-place.com/resources/dms-hdd-explorer.1673/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Super Nintendo (SNES Station- ffgriever MOD) 0.2.4 USB-HDD",
+        "url": "https://www.psx-place.com/resources/super-nintendo-snes-station-ffgriever-mod-0-2-4-usb-hdd.351/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Memory Card Annihilator coded by ffgriever, gfx by Berion",
+        "url": "https://www.psx-place.com/resources/memory-card-annihilator-coded-by-ffgriever-gfx-by-berion.673/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: wLaunchELF 4.43x_isr_mechaemu",
+        "url": "https://www.psx-place.com/resources/wlaunchelf-4-43x_isr_mechaemu.1537/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: MechaPwn by MechaResearch",
+        "url": "https://www.psx-place.com/resources/mechapwn-by-mecharesearch.1154/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: wLaunchELF ISR_HDD",
+        "url": "https://www.psx-place.com/resources/wlaunchelf-isr_hdd.1174/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: [OBSOLETE] FMCB (Free Memory Card Boot) ... Newest version available",
+        "url": "https://www.psx-place.com/resources/obsolete-fmcb-free-memory-card-boot-newest-version-available.373/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: [FORK] POPSLoader for MMCE, MX4SIO, USB, and APAHDD",
+        "url": "https://www.psx-place.com/resources/fork-popsloader-for-mmce-mx4sio-usb-and-apahdd.1665/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Memory Card Inspector",
+        "url": "https://www.psx-place.com/resources/ps2-memory-card-inspector.1778/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Playstation 2 Master Disc Patcher for MechaPwn  1.03",
+        "url": "https://www.psx-place.com/resources/playstation-2-master-disc-patcher-for-mechapwn.1219/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Mechacon Crash test application",
+        "url": "https://www.psx-place.com/resources/mechacon-crash-test-application.1409/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: HDD Bootstrap Manager - Updates",
+        "url": "https://www.psx-place.com/resources/ps2-hdd-bootstrap-manager.1768/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Retro GEM Disc Launcher",
+        "url": "https://www.psx-place.com/resources/retro-gem-disc-launcher.1442/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Free Memory Card Boot (FMCB)\\Free Harddisk Drive Boot (FHDB) - Extra info",
+        "url": "https://www.psx-place.com/resources/free-memory-card-boot-fmcb-free-harddisk-drive-boot-fhdb.712/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: [FORK] POPSLoader for MMCE, MX4SIO, USB, and APAHDD - Stabilization Optimization Updates",
+        "url": "https://www.psx-place.com/resources/fork-popsloader-for-mmce-mx4sio-usb-and-apahdd-stabilization-optimization-updates.1665/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: HDD Decryption Helper",
+        "url": "https://www.psx-place.com/resources/ps2-hdd-decryption-helper.1507/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Widescreen PNACH Files",
+        "url": "https://www.psx-place.com/resources/ps2-widescreen-pnach-files.543/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Open PS2 Loader Widescreen Cheats",
+        "url": "https://www.psx-place.com/resources/open-ps2-loader-widescreen-cheats.854/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PS2force480p by asmodean",
+        "url": "https://www.psx-place.com/resources/ps2force480p-by-asmodean.856/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Auto Modellista (PAL-E) Widescreen patch",
+        "url": "https://www.psx-place.com/resources/auto-modellista-pal-e-widescreen-patch.512/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Resident Evil: Code Veronica X (NTSC-U) Widescreen patch",
+        "url": "https://www.psx-place.com/resources/resident-evil-code-veronica-x-ntsc-u-widescreen-patch.515/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Richard Burns Rally (PAL-E) WideScreen patch",
+        "url": "https://www.psx-place.com/resources/richard-burns-rally-pal-e-widescreen-patch.516/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Death by Degrees (NTSC-U) WideScreen patch",
+        "url": "https://www.psx-place.com/resources/death-by-degrees-ntsc-u-widescreen-patch.517/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: Dead or Alive 2: Hardcore (NTSC-U) Widescreen patch",
+        "url": "https://www.psx-place.com/resources/dead-or-alive-2-hardcore-ntsc-u-widescreen-patch.514/",
+        "favicon_url": "",
+        "thumbnail_url": ""
       }
     ]
   },
@@ -4734,6 +5556,12 @@
       {
         "name": "PS2-HOME: Miscellaneous Game Modding Support and Tutorials Forum",
         "url": "https://www.ps2-home.com/forum/viewforum.php?f=25",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: KELFTool (DNASLoad fork)",
+        "url": "https://www.psx-place.com/resources/kelftool-dnasload-fork.1319/",
         "favicon_url": "",
         "thumbnail_url": ""
       }
@@ -5844,6 +6672,24 @@
       {
         "name": "PS2 Linux Community: PlayStation 2 Mouse Wheel Mini-HOWTO",
         "url": "https://ps2-linux.tensioncore.com/download/mozilla-ps2/ps2mousewheel.html",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: PSBBN Definitive Project",
+        "url": "https://www.psx-place.com/resources/psbbn-definitive-project.1512/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: DESR XMB Installer",
+        "url": "https://www.psx-place.com/resources/desr-xmb-installer.1779/",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PSX-Place: OSDMenu",
+        "url": "https://www.psx-place.com/resources/osdmenu.1588/",
         "favicon_url": "",
         "thumbnail_url": ""
       }
