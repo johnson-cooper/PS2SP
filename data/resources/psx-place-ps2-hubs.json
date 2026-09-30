@@ -1,0 +1,174 @@
+[
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "PSX-Place PlayStation 2 resource categories indexed as searchable hubs for its PS2 homebrew archive.",
+    "links": [
+      {
+        "name": "PSX-Place PS2 Resources",
+        "url": "https://www.psx-place.com/resources/categories/playstation-2-ps2.7/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "resources",
+          "homebrew archive"
+        ]
+      },
+      {
+        "name": "PSX-Place PS2 Apps",
+        "url": "https://www.psx-place.com/resources/categories/apps.23/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "apps",
+          "applications",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PSX-Place PS2 Tools",
+        "url": "https://www.psx-place.com/resources/categories/tools.24/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "tools",
+          "utilities",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PSX-Place PS2 XtremeEliteBoot+ (XEB+)",
+        "url": "https://www.psx-place.com/resources/categories/xtremeeliteboot-xeb.51/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "XEB+",
+          "XtremeEliteBoot",
+          "dashboard"
+        ]
+      },
+      {
+        "name": "PSX-Place PS2 XEB+ Plugins",
+        "url": "https://www.psx-place.com/resources/categories/plugins.52/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "XEB+",
+          "plugins"
+        ]
+      },
+      {
+        "name": "PSX-Place PS2 XEB+ Themes",
+        "url": "https://www.psx-place.com/resources/categories/themes.53/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "XEB+",
+          "themes"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "PSX-Place PS2 emulators, homebrew games, ports, and PS2-homebrew compatibility resources.",
+    "links": [
+      {
+        "name": "PSX-Place PS2 Emulators",
+        "url": "https://www.psx-place.com/resources/categories/emulators.21/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "emulators",
+          "emulation",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PSX-Place PS2 Homebrew Games",
+        "url": "https://www.psx-place.com/resources/categories/homebrew-games.22/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew games",
+          "custom games",
+          "ports"
+        ]
+      },
+      {
+        "name": "PSX-Place PS2 Homebrew on PS4",
+        "url": "https://www.psx-place.com/resources/categories/ps2-homebrew-on-ps4.43/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "PS4",
+          "PS2 Classics",
+          "homebrew compatibility"
+        ]
+      },
+      {
+        "name": "PSX-Place PS2 Homebrew on PS4 — Emulators",
+        "url": "https://www.psx-place.com/resources/categories/emulators.47/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "PS4",
+          "PS2 homebrew",
+          "emulators"
+        ]
+      },
+      {
+        "name": "PSX-Place PS2 Homebrew on PS4 — Games & Ports",
+        "url": "https://www.psx-place.com/resources/categories/games-ports.48/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "PS4",
+          "PS2 homebrew",
+          "games",
+          "ports"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Custom Content & Game Mods",
+    "description": "PSX-Place PS2 themes and widescreen-patch resource hubs.",
+    "links": [
+      {
+        "name": "PSX-Place PS2 OPL Themes",
+        "url": "https://www.psx-place.com/resources/categories/opl-themes.50/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "OPL",
+          "themes",
+          "Open PS2 Loader"
+        ]
+      },
+      {
+        "name": "PSX-Place PS2 Widescreen Patches",
+        "url": "https://www.psx-place.com/resources/categories/widescreen-patches.40/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "widescreen",
+          "patches",
+          "16:9"
+        ]
+      }
+    ]
+  }
+]
