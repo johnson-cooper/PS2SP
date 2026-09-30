@@ -1,0 +1,209 @@
+[
+  {
+    "category": "PSBBN & PS2 Linux",
+    "description": "Preserved Linux for PlayStation 2, BlackRhino, Kernelloader, community mirrors, old package repositories, and historical PS2 Linux resources.",
+    "links": [
+      {
+        "name": "Archived Official Linux for PlayStation 2 Site",
+        "url": "https://web.archive.org/web/20100524023205/http://playstation2-linux.com:80/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Linux",
+          "official site",
+          "Wayback",
+          "archive"
+        ]
+      },
+      {
+        "name": "Linux for PlayStation 2 Community Mirror",
+        "url": "https://ps2-linux.tensioncore.com/projects/ps2linux.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "playstation2-linux.com",
+          "community mirror",
+          "forums",
+          "files",
+          "documentation"
+        ]
+      },
+      {
+        "name": "BlackRhino GNU/Linux Mirror — Home",
+        "url": "https://ps2linux.no-ip.info/blackrhino.xrhino.com/",
+        "keywords": [
+          "PS2",
+          "BlackRhino",
+          "Linux",
+          "Debian",
+          "mirror",
+          "PS2 Linux"
+        ]
+      },
+      {
+        "name": "BlackRhino GNU/Linux Mirror — Download",
+        "url": "https://ps2linux.no-ip.info/blackrhino.xrhino.com/?page=download",
+        "keywords": [
+          "PS2",
+          "BlackRhino",
+          "Linux",
+          "base image",
+          "APT",
+          "download"
+        ]
+      },
+      {
+        "name": "BlackRhino GNU/Linux Mirror — Installation HOW-TO",
+        "url": "https://ps2linux.no-ip.info/blackrhino.xrhino.com/?page=howto",
+        "keywords": [
+          "PS2",
+          "BlackRhino",
+          "Linux",
+          "install",
+          "HOWTO",
+          "HDD"
+        ]
+      },
+      {
+        "name": "BlackRhino APT Repository Backup",
+        "url": "https://blackrhino.micolous.id.au/",
+        "keywords": [
+          "PS2",
+          "BlackRhino",
+          "APT",
+          "repository",
+          "package mirror",
+          "Linux"
+        ]
+      },
+      {
+        "name": "ArchiveOS — Linux for PlayStation 2",
+        "url": "https://archiveos.org/linux-for-ps2/",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "ArchiveOS",
+          "distribution",
+          "preservation"
+        ]
+      },
+      {
+        "name": "SourceForge Kernelloader Project",
+        "url": "https://sourceforge.net/projects/kernelloader/",
+        "keywords": [
+          "PS2",
+          "Kernelloader",
+          "Linux",
+          "Mega Man",
+          "homebrew",
+          "kernel"
+        ]
+      },
+      {
+        "name": "SourceForge Kernelloader — BlackRhino Base Image",
+        "url": "https://sourceforge.net/projects/kernelloader/files/BlackRhino%20Linux%20Distribution/Base%20Image/",
+        "keywords": [
+          "PS2",
+          "BlackRhino",
+          "Linux",
+          "base image",
+          "Kernelloader"
+        ]
+      },
+      {
+        "name": "SourceForge Kernelloader — Gentoo PS2",
+        "url": "https://sourceforge.net/projects/kernelloader/files/Sony%20Linux%20Toolkit/Package%20Update%20Files/gentoo-ps2/",
+        "keywords": [
+          "PS2",
+          "Gentoo",
+          "Linux",
+          "toolkit",
+          "Kernelloader"
+        ]
+      },
+      {
+        "name": "PS2Dev Forum Mirror — PS2 Linux on USB Memory",
+        "url": "https://lukasz.dk/mirror/forums.ps2dev.org/viewtopicdf4d.html?t=10156",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "USB",
+          "BlackRhino",
+          "Kernelloader",
+          "legacy forum"
+        ]
+      },
+      {
+        "name": "PS2Dev Forum Mirror — PS2 Linux with NFS Root",
+        "url": "https://lukasz.dk/mirror/forums.ps2dev.org/viewtopic75bc.html?t=12969",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "NFS",
+          "BlackRhino",
+          "network boot",
+          "Kernelloader"
+        ]
+      },
+      {
+        "name": "PS2Dev Forum Mirror — PS2 Linux as NFS Server",
+        "url": "https://lukasz.dk/mirror/forums.ps2dev.org/viewtopic72d8.html?t=11917",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "NFS server",
+          "network",
+          "Kernelloader"
+        ]
+      },
+      {
+        "name": "Internet Archive — PS2 Linux Sources",
+        "url": "https://archive.org/details/linux-playstation2-sources",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "source code",
+          "GPL",
+          "PSBBN",
+          "kernel",
+          "preservation"
+        ]
+      },
+      {
+        "name": "Internet Archive — PS2 Live Linux DVD",
+        "url": "https://archive.org/details/ps2linux_live_v3_pal_small_no_modchip",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "Live DVD",
+          "BlackRhino",
+          "Kernelloader",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive — PS2 Live Linux USB",
+        "url": "https://archive.org/details/ps2linux_live_v5_pal_netsurf_usb.7z",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "Live USB",
+          "BlackRhino",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive — Linux for PlayStation 2 Release 1.0 USA",
+        "url": "https://archive.org/details/ps2_Linux_for_PlayStation_2_Release_1.0_USA",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "official kit",
+          "Release 1.0",
+          "USA",
+          "preservation"
+        ]
+      }
+    ]
+  }
+]
