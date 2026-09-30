@@ -1,0 +1,377 @@
+[
+  {
+    "category": "Online Gaming & Network Play",
+    "description": "PlayStation 2 online-service preservation: DNAS replacement, Medius/GameSpy server emulation, DNS revival services, LAN tunneling, restored game servers, and historical packet-capture/reverse-engineering discussions.",
+    "links": [
+      {
+        "name": "PS2DevWiki — DNAS",
+        "url": "https://www.psdevwiki.com/ps2/DNAS",
+        "keywords": [
+          "PS2",
+          "DNAS",
+          "Dynamic Network Authentication System",
+          "server replacement",
+          "DNASrep",
+          "Medius",
+          "online"
+        ]
+      },
+      {
+        "name": "GitHub — FogNo23/DNASrep",
+        "url": "https://github.com/FogNo23/DNASrep",
+        "keywords": [
+          "PS2",
+          "DNAS",
+          "DNASrep",
+          "packet replay",
+          "authentication",
+          "online preservation"
+        ]
+      },
+      {
+        "name": "GitHub — gh0stl1ne/DNASrep",
+        "url": "https://github.com/gh0stl1ne/DNASrep",
+        "keywords": [
+          "PS2",
+          "DNAS",
+          "DNASrep",
+          "PSX DESR",
+          "authentication",
+          "server"
+        ]
+      },
+      {
+        "name": "GitHub — Zackmon/DNASrep",
+        "url": "https://github.com/Zackmon/DNASrep",
+        "keywords": [
+          "PS2",
+          "DNAS",
+          "DNASrep",
+          "server replacement"
+        ]
+      },
+      {
+        "name": "GitHub — benjamin238/DNASrep",
+        "url": "https://github.com/benjamin238/DNASrep",
+        "keywords": [
+          "PS2",
+          "DNAS",
+          "DNASrep",
+          "server replacement"
+        ]
+      },
+      {
+        "name": "GitHub — NoTjugotre/dnasrep-go",
+        "url": "https://github.com/NoTjugotre/dnasrep-go",
+        "keywords": [
+          "PS2",
+          "DNAS",
+          "DNASrep",
+          "Go",
+          "server replacement"
+        ]
+      },
+      {
+        "name": "GitHub — hashsploit/clank",
+        "url": "https://github.com/hashsploit/clank",
+        "keywords": [
+          "PS2",
+          "Medius",
+          "SCE-RT",
+          "RTIME",
+          "server emulator",
+          "Ratchet and Clank",
+          "online"
+        ]
+      },
+      {
+        "name": "GitHub — hashsploit/clank-dnas",
+        "url": "https://github.com/hashsploit/clank-dnas",
+        "keywords": [
+          "PS2",
+          "DNAS",
+          "Clank",
+          "Medius",
+          "authentication",
+          "server"
+        ]
+      },
+      {
+        "name": "GitHub — Horizon Private Server",
+        "url": "https://github.com/Horizon-Private-Server/horizon-server",
+        "keywords": [
+          "PS2",
+          "Medius",
+          "Horizon",
+          "server emulator",
+          "SCE-RT",
+          "online"
+        ]
+      },
+      {
+        "name": "GitHub — Deadlocked Server",
+        "url": "https://github.com/Dnawrkshp/deadlocked-server",
+        "keywords": [
+          "PS2",
+          "Ratchet Deadlocked",
+          "Gladiator",
+          "Medius",
+          "private server",
+          "online"
+        ]
+      },
+      {
+        "name": "GitHub — Horizon Deadlocked Patch",
+        "url": "https://github.com/Horizon-Private-Server/horizon-deadlocked-patch",
+        "keywords": [
+          "PS2",
+          "Ratchet Deadlocked",
+          "Horizon",
+          "Medius",
+          "patch",
+          "online"
+        ]
+      },
+      {
+        "name": "GitHub — EQOA Return Home Game Server",
+        "url": "https://github.com/EQOAReturnHome/EQOAGameServer",
+        "keywords": [
+          "PS2",
+          "EverQuest Online Adventures",
+          "EQOA",
+          "private server",
+          "revival",
+          "online"
+        ]
+      },
+      {
+        "name": "GitHub — .hack//fragment Lobby Server",
+        "url": "https://github.com/Zero1UP/FragmentLobbyServer",
+        "keywords": [
+          "PS2",
+          ".hack fragment",
+          "private server",
+          "lobby",
+          "online revival"
+        ]
+      },
+      {
+        "name": "GitHub — Battle Gear 3 Revival",
+        "url": "https://github.com/NoTjugotre/BattleGear3-revival",
+        "keywords": [
+          "PS2",
+          "Battle Gear 3",
+          "private server",
+          "revival",
+          "online"
+        ]
+      },
+      {
+        "name": "PS Rewired — PS2/PSP/PS3 Server Revival",
+        "url": "https://psrewired.com/",
+        "keywords": [
+          "PS2",
+          "PS Rewired",
+          "private servers",
+          "DNS",
+          "online revival",
+          "Medius"
+        ]
+      },
+      {
+        "name": "PlayStation 2 Online — Community Server Status",
+        "url": "https://www.ps2online.com/",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "OpenSpy",
+          "server status",
+          "community"
+        ]
+      },
+      {
+        "name": "OpenSpy — GameSpy Replacement Service",
+        "url": "https://openspy.org/faq",
+        "keywords": [
+          "PS2",
+          "OpenSpy",
+          "GameSpy",
+          "matchmaking",
+          "server browser",
+          "NAT",
+          "online revival"
+        ]
+      },
+      {
+        "name": "Team XLink — PlayStation 2",
+        "url": "https://www.teamxlink.co.uk/wiki/PlayStation_2",
+        "keywords": [
+          "PS2",
+          "XLink Kai",
+          "LAN tunneling",
+          "system link",
+          "supported games",
+          "network"
+        ]
+      },
+      {
+        "name": "Team XLink — PS2 Setup Guide",
+        "url": "https://www.teamxlink.co.uk/wiki/PlayStation_2_XLink_Kai_Setup",
+        "keywords": [
+          "PS2",
+          "XLink Kai",
+          "setup",
+          "network adapter",
+          "LAN",
+          "tunneling"
+        ]
+      },
+      {
+        "name": "Team XLink — PCSX2 XLink Kai Setup",
+        "url": "https://teamxlink.co.uk/wiki/PCSX2_XLink_Kai_Setup",
+        "keywords": [
+          "PS2",
+          "PCSX2",
+          "XLink Kai",
+          "LAN",
+          "emulator",
+          "online"
+        ]
+      },
+      {
+        "name": "Team XLink — XLink Kai Evolution VII",
+        "url": "https://www.teamxlink.co.uk/xlink_kai.php",
+        "keywords": [
+          "PS2",
+          "XLink Kai",
+          "Evolution VII",
+          "LAN tunneling",
+          "legacy"
+        ]
+      },
+      {
+        "name": "PS2 Online Gaming — DNAS Forever",
+        "url": "https://ps2onlinegaming.com/viewtopic.php?t=1990",
+        "keywords": [
+          "PS2",
+          "DNAS",
+          "DNASrep",
+          "packet replay",
+          "server preservation",
+          "2016"
+        ]
+      },
+      {
+        "name": "PS2 Online Gaming — Saving DNAS Packets",
+        "url": "https://ps2onlinegaming.com/viewtopic.php?t=1976",
+        "keywords": [
+          "PS2",
+          "DNAS",
+          "packet capture",
+          "PCAP",
+          "server preservation",
+          "DNS"
+        ]
+      },
+      {
+        "name": "PS2 Online Gaming — DNAS/DNS/Wiki Preservation Thread",
+        "url": "https://ps2onlinegaming.com/viewtopic.php?t=1993",
+        "keywords": [
+          "PS2",
+          "DNAS",
+          "DNS",
+          "online preservation",
+          "custom server"
+        ]
+      },
+      {
+        "name": "PS2 Online Gaming — No23 DNAS Replacement History",
+        "url": "https://ps2onlinegaming.com/viewtopic.php?t=1975",
+        "keywords": [
+          "PS2",
+          "No23",
+          "DNAS replacement",
+          "Outbreak",
+          "Monster Hunter",
+          "preservation"
+        ]
+      },
+      {
+        "name": "PS2 Online Gaming — EQOA Private Server",
+        "url": "https://ps2onlinegaming.com/viewtopic.php?t=1858",
+        "keywords": [
+          "PS2",
+          "EQOA",
+          "EverQuest Online Adventures",
+          "private server",
+          "DNAS",
+          "revival"
+        ]
+      },
+      {
+        "name": "PS2 Online Gaming — Monster Hunter Dos Private Server",
+        "url": "https://ps2onlinegaming.com/viewtopic.php?t=2272",
+        "keywords": [
+          "PS2",
+          "Monster Hunter Dos",
+          "private server",
+          "DNAS",
+          "KDDI",
+          "reverse engineering"
+        ]
+      },
+      {
+        "name": "PS2 Online Gaming — OPL and DNAS Patching",
+        "url": "https://www.ps2onlinegaming.com/viewtopic.php?t=2199",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "DNAS",
+          "patching",
+          "online",
+          "HDD"
+        ]
+      },
+      {
+        "name": "PS2 Online Gaming — Historical Subscription Games List",
+        "url": "https://www.ps2onlinegaming.com/viewtopic.php?t=1885",
+        "keywords": [
+          "PS2",
+          "online history",
+          "subscription",
+          "Final Fantasy XI",
+          "Outbreak",
+          "EQOA",
+          "private server"
+        ]
+      },
+      {
+        "name": "Wayback — SCE-RT / Medius Site",
+        "url": "https://web.archive.org/web/*/http://www.sce-rt.scea.com/",
+        "keywords": [
+          "PS2",
+          "SCE-RT",
+          "Medius",
+          "RTIME",
+          "Sony online middleware",
+          "Wayback",
+          "networking"
+        ]
+      },
+      {
+        "name": "Wayback — RTIME Inc.",
+        "url": "https://web.archive.org/web/*/http://www.rtimeinc.com/",
+        "keywords": [
+          "PS2",
+          "RTIME",
+          "Medius",
+          "SCE-RT",
+          "network middleware",
+          "Wayback"
+        ]
+      }
+    ]
+  }
+]
