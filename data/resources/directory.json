@@ -1340,6 +1340,360 @@
         "url": "https://consolemods.org/wiki/PS2:PS2_Controller_Tester",
         "favicon_url": "",
         "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: ESR",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=10&t=15",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: FreeDVDBoot",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=123&t=9653",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: FreeMcBoot (FMCB/FHDB)",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=11&t=1890",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: GS Mode Selector (GSM)",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=12&t=53",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: MasterCode Finder",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=27&t=92",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: OPL NEW BETAs",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=83&t=3",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: OPL v1.1.0 (STABLE)",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=83&t=11576",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: OPL Manager",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=13&t=189",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PNACH Converter",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=27&t=94",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 FORTUNA Project",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=120&t=8542",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PSXVCD",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=74&t=2895",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Simple Media System (SMS)",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=14&t=18",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: uLaunchELF (uLE)",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=16&t=1895",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: USBUTIL",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=27&t=1240",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: ...More Apps",
+        "url": "https://www.ps2-home.com/forum/search.php?keywords=&terms=all&author=&attr_id=1&sc=1&sf=all&sr=topics&sk=i&sd=a&st=0&ch=-1&t=0&submit=Search",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: ...Misc. Downloads",
+        "url": "https://www.ps2-home.com/forum/search.php?keywords=&terms=all&author=&attr_id=2&sc=1&sf=all&sr=topics&sk=i&sd=a&st=0&ch=-1&t=0&submit=Search",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: ESR Game Compatibility List",
+        "url": "https://www.ps2-home.com/forum/app.php/esr-game-compatibility-list-1",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: OPL Game Compatibility List",
+        "url": "https://www.ps2-home.com/forum/page/opl-game-compatibility-list-1",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: USBUtil Extreme RIP ISO Compability List",
+        "url": "https://www.ps2-home.com/forum/app.php/page/usbutil-rip-iso-compability-chart",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: FMCB and uLE - EMERGENCY TIPS",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=11&t=2716",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Free McBoot Installation Guide",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=96&t=1248",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Open PS2 Loader (OPL) Guide",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=50&t=12040",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Open PS2 Loader (OPL) Tutorials",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=50",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Simple Media System (SMS) Guide",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?p=22#p22",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Troubleshoot Games for OPL",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=50&t=176",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: uLaunchELF Guide",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?p=21#p21",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: DESR Music Injector - MP3 mus…",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=15&p=52332#p52332",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: FMCB / FHDB Tutorials and FAQs",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=97",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: OPL Tutorials and FAQs",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=77",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: ESR Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=10",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: FreeDVDBoot Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=123",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Free MCBoot (FMCB) and Free HDBoot (FHDB) Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=11",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: FMCB / FHDB Tutorials and FAQs",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=96",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: GS Mode Selector (GSM) Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=12",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Open PS2 Loader (OPL) Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=13",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: OPL APPS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=83",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: OPL Manager (OPLM)",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=66",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: OPL Wishlist Requests",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=90",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 FORTUNA Project Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=120",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 FORTUNA APPS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=129",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 FORTUNA Tutorials and FAQs",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=154",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Simple Media System (SMS) / PS2 Media Players Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=14",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: uLaunchELF (uLE or wLE) Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=16",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Other Homebrew APPS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=107",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: DESR Music Injector - MP3 mus…",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=107&p=52332#p52332",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PSXVCD Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=75",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Tools",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=26",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Request PS2 Tools Here",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=28",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 and PC Tools",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=27",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: All APPS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=108",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: All DOWNLOADS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=148",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Other Homebrew APPS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=149",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: OPL APPS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=84",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: WIP APPS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=151",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: How to Submit Tools (or WIP p…",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=27&p=870#p870",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: OPL Manager (OPLM) Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=64",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: OPL Manager (OPLM) Wishlist Requests",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=116",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PSXVCD Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=74",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: USBUtil Support Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=125",
+        "favicon_url": "",
+        "thumbnail_url": ""
       }
     ]
   },
@@ -2306,6 +2660,90 @@
         "url": "https://ps2dev.github.io/ps2sdk/sio2man_8c.html",
         "favicon_url": "",
         "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2PSXe Compatibility Game List",
+        "url": "https://www.ps2-home.com/forum/page/ps2psxe_compatibility_game_list",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2PSXe Developer's Tutorial",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?p=23#p23",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2SDK / DEV Tutorials and FAQs",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=104",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Emulators",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=18",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2PSXe Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=20",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Retro Emulators Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=21",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Retro Emulators APPS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=99",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Programming and PS2SDK-DEV APPS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=122",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Retro Emulators APPS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=100",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Coding and Developing",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=38",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Programming Chat and PS2SDK-DEV Support Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=40",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: APPS and DOWNLOADS (PS2 Programming and PS2SDK-DEV)",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=121",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Tutorials (PS2 Programming and PS2SDK-DEV)",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=103",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Development In 2026",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=40&p=52325#p52325",
+        "favicon_url": "",
+        "thumbnail_url": ""
       }
     ]
   },
@@ -2742,6 +3180,210 @@
       {
         "name": "Widescreen Game Patches",
         "url": "https://forums.pcsx2.net/Thread-PCSX2-Widescreen-Game-Patches?pid=271674#pid271674",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: POPStarter (BETA)",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=19&t=1819",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: POPStarter APPS and Downloads",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=81",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: POPStarter Game Compatibility List",
+        "url": "https://www.ps2-home.com/forum/app.php/page/popstarter-compatibility-list-1",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS1 Cheat Codes (A-Z)",
+        "url": "https://www.ps2-home.com/forum/page/ps1-cheats-1",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Cheat Codes (A-Z)",
+        "url": "https://www.ps2-home.com/forum/page/ps2_raw_cheats_1",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Game Saves (A-Z)",
+        "url": "https://www.ps2-home.com/forum/app.php/ps2-game-saves-1",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Homebrew Games Collection",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=85",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: POPStarter Guide and Wiki",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=19&t=144",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: POPStarter Tutorials",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=54",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Troubleshoot Games for POPStarter",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=54&t=5311",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: ARTICLES",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=133",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Game Saves (Downloads)",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=71",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 ps2rd RAW Cheat Codes",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=73",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS1 Homebrew Games Collection",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=92",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Homebrew Games Collection",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=86",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: POPStarter Tutorials and FAQs",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=78",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS1 Game Modding Tutorials and FAQs",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=106",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Game Modding Tutorials and FAQs",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=79",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: OPL Theme Support Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=109",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: OPL Theme and ART Tutorials and FAQs",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=111",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: POPStarter Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=19",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: POPStarter Game Fix Codes",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=117",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: POPStarter Wishlist Requests",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=128",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: POPStarter Game Fix Codes",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=118",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS1 Cheat Codes",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=119",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS1 Game Modding Tutorials",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=105",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS1 Homebrew Games Collection",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=91",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Game Modding Support Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=24",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Game Modding APPS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=58",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Game Modding Tutorials",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=59",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Game Saves (Downloads)",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=70",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 ps2rd RAW Cheat Codes",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=55",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: POPStarter APPS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=82",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Game Modding APPS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=101",
         "favicon_url": "",
         "thumbnail_url": ""
       }
@@ -3578,6 +4220,156 @@
         "url": "https://consolemods.org/wiki/PS2:Video_Output_Notes",
         "favicon_url": "",
         "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS1 Widescreen Cheat Codes",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?t=568",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Games - Known Differences Between Regional Releases",
+        "url": "https://www.ps2-home.com/forum/app.php/page/ps2-games-known-differences-between-regional-releases",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Games that support 240p",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?t=60",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Games that support 480p (without Cheats)",
+        "url": "https://www.ps2-home.com/forum/app.php/page/ps2-games-with-progressive-and-widescreen-default-display-modes",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Games that support Dolby Pro Logic II",
+        "url": "https://www.ps2-home.com/forum/page/ps2-games-dolby-pro-logic-ii-list-1",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Games that support Multi-Tap",
+        "url": "https://www.ps2-home.com/forum/page/ps2-games-multitap-list-1",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: How to Identify Clone (FAKE) PS2 Memory Cards",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=30&t=3291",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: List of Compatible Internal HDDs for the PS2",
+        "url": "https://www.ps2-home.com/forum/app.php/page/list-of-compatible-internal-hdds-for-a-phat-ps2",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: List of Compatible OPL PADEMU USB Bluetooth Adapters",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=30&t=7447",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: List of Compatible USB HDDs for the PS2",
+        "url": "https://www.ps2-home.com/forum/app.php/page/ps2-usb-hdd-compatibility-list-with-opl-and-popstarter",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: List of PS2 Consoles Compatible with FMCB",
+        "url": "https://www.ps2-home.com/forum/app.php/page/fmcb-compatible-ps2-models-chart",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Hardware Tutorials and FAQs",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=80",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: HDD Game Installer APPs - Support Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=126",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Hardware",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=29",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Hardware Chat and Support Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=30",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: HARDWARE ADAPTERS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=145",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Hardware APPS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=69",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Hardware Tutorials",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=52",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: MechaCon Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=127",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Modchips",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=33",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Modchips Support Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=37",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Modchips Hardware",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=130",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Modchips APPS",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=114",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Modchips Tutorials",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=113",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: MODCHIP INFO",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=153",
+        "favicon_url": "",
+        "thumbnail_url": ""
       }
     ]
   },
@@ -3762,6 +4554,30 @@
       {
         "name": "ConsoleMods PS2: XLink Kai",
         "url": "https://consolemods.org/wiki/PS2:XLink_Kai",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: How to Identify Clone (FAKE) PS2 Network Adaptors",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=30&t=5946",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Online Game Multi-Player Support",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=112",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Online Game Multi-Player Servers",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=98",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Miscellaneous Game Modding Support and Tutorials Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=25",
         "favicon_url": "",
         "thumbnail_url": ""
       }
@@ -4476,6 +5292,102 @@
       {
         "name": "ConsoleMods PS2: Scene History",
         "url": "https://consolemods.org/wiki/PS2:Scene_History",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS1 Games List (A-Z) with matching GAME IDs",
+        "url": "https://www.ps2-home.com/forum/page/ps1-game-list-1",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Games List (A-Z) with matching GAME IDs",
+        "url": "https://www.ps2-home.com/forum/page/ps2-game-list-1",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2ESDL Game Compatibility List",
+        "url": "https://www.ps2-home.com/forum/page/ps2esdl-game-compatibility-list-1",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: List of Commonly Used Acronyms in the PS2 Scene",
+        "url": "https://www.ps2-home.com/forum/app.php/page/list-of-commonly-used-acronyms-in-the-ps2-scene",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2Ident: List of Collected and Missing Data",
+        "url": "https://www.ps2-home.com/forum/app.php/page/ps2ident-list-of-collected-and-missing-data",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Run Homebrew on PS2 SLIM 90K Series",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=34&t=3378",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: ...Forum Guides",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=2&t=185",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: ...More Guides",
+        "url": "https://www.ps2-home.com/forum/search.php?keywords=&terms=all&author=&attr_id=4&sc=1&sf=all&sr=topics&sk=i&sd=a&st=0&ch=-1&t=0&submit=Search",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: FAQS",
+        "url": "https://www.ps2-home.com/forum/search.php?keywords=&terms=all&author=&attr_id=41&sc=1&sf=all&sr=topics&sk=i&sd=a&st=0&ch=-1&t=0&submit=Search",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Game Lists Collection",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=89",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Help and Tutorials",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=31",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Tutorials, Tips, and Guides Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=32",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: FAQs",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=146",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: All Tutorials",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=147",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: PS2 Homebrew",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=9",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PS2-HOME: Other Homebrew Projects Forum",
+        "url": "https://www.ps2-home.com/forum/viewforum.php?f=17",
         "favicon_url": "",
         "thumbnail_url": ""
       }
