@@ -1,0 +1,1129 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "PS2 development engines, SDK/toolchain components, emulators, homebrew game projects, samples, debugging tools, and programming resources discovered through PS2 DEV WORLD.",
+    "links": [
+      {
+        "name": "PS2 DEV WORLD — AthenaEnv",
+        "url": "https://github.com/DanielSant0s/AthenaEnv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "engine",
+          "Lua",
+          "game development"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — BennuGD",
+        "url": "https://www.bennugd.org",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "engine",
+          "game development",
+          "BennuGD"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Enceladus",
+        "url": "https://github.com/DanielSant0s/Enceladus",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "engine",
+          "runtime",
+          "game development"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Nichola's PS2 Engine",
+        "url": "https://github.com/nicholas477/PS2-Engine",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "engine",
+          "C++",
+          "game development"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — PlayLua Engine",
+        "url": "https://github.com/cejtok/playluaengine",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "PlayLua",
+          "Lua",
+          "engine"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — RenderWare SDK 3.1 Archive",
+        "url": "https://archive.org/details/rw310-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "RenderWare",
+          "engine",
+          "SDK",
+          "PS2 development"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Tyra",
+        "url": "https://github.com/h4570/tyra",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "Tyra",
+          "3D engine",
+          "PS2SDK"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Xenity Engine",
+        "url": "https://github.com/Fewnity",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "Xenity",
+          "engine",
+          "game development"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Prussia SDK",
+        "url": "https://github.com/Ravenslofty/prussia",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "Prussia",
+          "SDK",
+          "PS2 development"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — DobieStation",
+        "url": "https://github.com/PSI-Rockin/DobieStation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "emulator",
+          "DobieStation"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — BEEBeM PS2",
+        "url": "https://archive.org/details/beebem-1b3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "emulator",
+          "BBC Micro",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — DKWDRV",
+        "url": "https://github.com/DKWDRV",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "DKWDRV",
+          "PS1",
+          "driver",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Emotion Engine Disassembler",
+        "url": "https://github.com/TimoSalomaki/EmotionEngineDisassembler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "Emotion Engine",
+          "disassembler",
+          "reverse engineering"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — PS2rd Remote Debugger",
+        "url": "https://github.com/mlafeldt/ps2rd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "ps2rd",
+          "remote debugger",
+          "cheats"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — vutrace",
+        "url": "https://github.com/chaoticgd/vutrace",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "VU",
+          "trace",
+          "Vector Unit",
+          "debugging"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Game With Car",
+        "url": "https://github.com/freebytego/gwc-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "homebrew game",
+          "game project"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — PrBoom-Plus PS2",
+        "url": "https://github.com/Wolf3s/prboom-plus/tree/ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "Doom",
+          "port",
+          "PrBoom"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Rock Paper and Scissors",
+        "url": "https://github.com/GDQR/Rock-paper-and-scissors",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "homebrew game",
+          "custom game"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — TyraTale",
+        "url": "https://github.com/Br4k2n/TyraTale",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "homebrew game",
+          "Tyra",
+          "custom game"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Undertale PS2",
+        "url": "https://github.com/KreitinnSoftware/Undertale-PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "port",
+          "Undertale",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Beats of Rage PS2 Source",
+        "url": "https://archive.org/details/ps2bor-src-0.1b",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "Beats of Rage",
+          "homebrew",
+          "source",
+          "port"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Bit of War PS2",
+        "url": "https://github.com/PS2GAMESDEV/Bit-of-War-PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "homebrew game",
+          "custom game",
+          "God of War inspired"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — PS2 Emotion Engine Library Sample Listings",
+        "url": "https://archive.org/details/ps-2-emotion-engine-library-sample-program-listings/mode/2up",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "Emotion Engine",
+          "sample code",
+          "library",
+          "programming"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — PS2SDK Install Tutorial Playlist",
+        "url": "https://www.youtube.com/watch?v=wEVsYnqjOLA&list=PLeIaNbfDd3fYj3fwXQNdg3kCrcYmJIS_A",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "PS2SDK",
+          "tutorial",
+          "toolchain",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Making a PS2 Game — Tom Marks",
+        "url": "https://www.youtube.com/watch?v=kX_JpzxR2Qg&list=PLFZsvEE0TWOsFhZr-9KwLED3Rzlwra_Rm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "game development",
+          "tutorial",
+          "PS2SDK"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — Balls",
+        "url": "https://www.youtube.com/watch?v=uR9HFBeBNSk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "sample",
+          "demo",
+          "PS2SDK"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — Bitmap 2D",
+        "url": "https://www.youtube.com/watch?v=pBzF0DnRV8s",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "sample",
+          "2D",
+          "bitmap"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — Car Showroom",
+        "url": "https://www.youtube.com/watch?v=cMxbgFGt1UA",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "sample",
+          "3D",
+          "car"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — CLUT",
+        "url": "https://www.youtube.com/watch?v=xeTE0t7kZvw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "sample",
+          "CLUT",
+          "graphics"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — Colors",
+        "url": "https://www.youtube.com/watch?v=_PkHu1wgnNU",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "sample",
+          "graphics",
+          "colors"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — Cube",
+        "url": "https://www.youtube.com/watch?v=kOGauz4D0tE",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "sample",
+          "cube",
+          "3D"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — Cube VU1",
+        "url": "https://www.youtube.com/watch?v=jYyWH41bAXA",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "sample",
+          "VU1",
+          "Vector Unit",
+          "3D"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — Dragons",
+        "url": "https://www.youtube.com/watch?v=5wa62sykzvM",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "sample",
+          "3D",
+          "demo"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — Fire",
+        "url": "https://www.youtube.com/watch?v=CtNrQEHGgKg",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "sample",
+          "graphics",
+          "fire"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — Hello World",
+        "url": "https://www.youtube.com/watch?v=9MMv0GKHWSw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "sample",
+          "hello world",
+          "PS2SDK"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — Many Teapots",
+        "url": "https://www.youtube.com/watch?v=xEP-Gy3e3EA",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "sample",
+          "3D",
+          "teapot"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — PS2 Reality",
+        "url": "https://www.youtube.com/watch?v=LrUwEuIqIko",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "sample",
+          "PS2 Reality",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — PS2DEV Oddments",
+        "url": "https://www.youtube.com/watch?v=g-6exhU3Y_0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "PS2Dev",
+          "Oddments",
+          "demo"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — Ray Tracing",
+        "url": "https://www.youtube.com/watch?v=bzUQgqRxfuM",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "ray tracing",
+          "sample",
+          "graphics"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — Space",
+        "url": "https://www.youtube.com/watch?v=e5IKioq_tBg",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "sample",
+          "space",
+          "graphics"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — Text",
+        "url": "https://www.youtube.com/watch?v=FUcu1qOcvfQ",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "sample",
+          "text",
+          "font"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Sample — World",
+        "url": "https://www.youtube.com/watch?v=KndHMgM57l4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "PS2 DEV WORLD",
+          "sample",
+          "world",
+          "3D"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "PS2 architecture, manuals, educational papers, official hardware documentation, low-level programming references, Linux material, and preserved technical documents.",
+    "links": [
+      {
+        "name": "PS2 DEV WORLD Docs — PlayStation2 in Higher Education",
+        "url": "https://ps2-edu.tensioncore.com/articles/ps2ed.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "higher education",
+          "games programming"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — Higher Education Academy PS2 Presentation",
+        "url": "https://ps2-edu.tensioncore.com/articles/HEA_files/frame.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "higher education",
+          "presentation",
+          "PS2 Linux"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — Teaching Console Games Programming with PS2 Linux Kit",
+        "url": "https://ps2-edu.tensioncore.com/articles/cgaige04.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "PS2 Linux",
+          "education",
+          "game programming",
+          "paper"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — PS2 Direct Memory Access Controller",
+        "url": "https://ps2-edu.tensioncore.com/articles/dmac.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "DMAC",
+          "DMA",
+          "Emotion Engine"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — Using the DMAC in Games Programming",
+        "url": "https://ps2-edu.tensioncore.com/articles/dmac2a.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "DMAC",
+          "DMA",
+          "games programming"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — PS2 Overview / ps2tek",
+        "url": "https://psi-rockin.github.io/ps2tek",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "ps2tek",
+          "architecture",
+          "registers",
+          "hardware"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — PlayStation 2 Architecture — Rodrigo Copetti",
+        "url": "https://www.copetti.org/writings/consoles/playstation-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "architecture",
+          "hardware",
+          "analysis"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — EE Core Instruction Set Manual",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/EE_Core_Instruction_Set_Manual.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "Emotion Engine",
+          "EE",
+          "instruction set",
+          "manual"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — EE Core User's Manual",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/EE_Core_Users_Manual.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "Emotion Engine",
+          "EE",
+          "manual"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — EE Overview Manual",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/EE_Overview_Manual.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "Emotion Engine",
+          "overview",
+          "manual"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — EE User's Manual",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/EE_Users_Manual.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "Emotion Engine",
+          "EE",
+          "manual"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — GS User's Manual",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/GS_Users_Manual.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "Graphics Synthesizer",
+          "GS",
+          "manual"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — GS User's Manual Supplement",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/GS_Users_Manual_Supplement.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "Graphics Synthesizer",
+          "GS",
+          "supplement"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — MIPS Calling Convention Summary",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/MIPS_Calling_Conventions_Summary.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "MIPS",
+          "calling convention",
+          "R5900"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — SPU2 Overview Manual",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/SPU2_Overview_Manual.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "SPU2",
+          "sound",
+          "audio",
+          "manual"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — VU User's Manual",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/VU_Users_Manual.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "Vector Unit",
+          "VU",
+          "manual"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — PS2 Linux Games Programming — Dr Henry S Fortuna",
+        "url": "https://ps2-edu.tensioncore.com/index.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "game programming"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — DOT3 Normal Mapping on PS2",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/ps2_normalmapping.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "normal mapping",
+          "graphics",
+          "3D"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — Vector Unit Instruction Manual",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/vu-instruction-manual.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "Vector Unit",
+          "VU",
+          "instruction manual"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — PlayStation 2 Optimisations",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/PS2Optimisations.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "optimization",
+          "performance",
+          "Emotion Engine"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — IOP / Deckard",
+        "url": "https://www.psdevwiki.com/ps2/IOP/Deckard",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "Deckard",
+          "IOP",
+          "PPC"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — PPC Monitor",
+        "url": "https://israpps.github.io/PPC-Monitor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "Deckard",
+          "PPC Monitor",
+          "debugging"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — Designing and Programming the Emotion Engine",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/eeprogramming.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "Emotion Engine",
+          "programming",
+          "EE"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — PAD Low-Level Specs",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/padspecs.txt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "controller",
+          "PAD",
+          "protocol",
+          "low level"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — Sony's Emotionally Charged Chip",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/Sony's%20Emotionally%20Charged%20Chip.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "Emotion Engine",
+          "Sony",
+          "architecture"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — TX79 Core Architecture",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/tx79architecture.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "TX79",
+          "R5900",
+          "architecture"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — Vector Unit Architecture for Emotion Synthesis",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/Vector%20Unit%20Architecture%20for%20Emotion%20Synthesis.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "Vector Unit",
+          "VU",
+          "architecture"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD Docs — Portuguese PS2 Processor Architecture Paper",
+        "url": "https://www.inf.ufrgs.br/~flavio/ensino/cmp237/PlayStation2.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical documentation",
+          "PS2 DEV WORLD",
+          "architecture",
+          "Portuguese",
+          "processor",
+          "education"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Hardware, Mods & Accessories",
+    "description": "Individual official PlayStation 2 service manuals organized by console revision and motherboard family.",
+    "links": [
+      {
+        "name": "PS2 Service Manual — Level-1 Service & Procedures Manual v4.0",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/level-1-service-and-procedures-manual-version-4-0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "repair",
+          "hardware",
+          "service manual",
+          "service manual",
+          "Level 1"
+        ]
+      },
+      {
+        "name": "PS2 Service Manual — Level-1 Service & Procedures Manual v5.0",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/level-1-service-and-procedures-manual-version-5-0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "repair",
+          "hardware",
+          "service manual",
+          "service manual",
+          "Level 1"
+        ]
+      },
+      {
+        "name": "PS2 Service Manual — SCPH-30000 Service Manual 2nd Ed GH-004/005/006/007",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/level-1-service-and-procedures-manual-version-4-0-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "repair",
+          "hardware",
+          "service manual",
+          "SCPH-30000",
+          "GH-004",
+          "GH-005",
+          "GH-006",
+          "GH-007"
+        ]
+      },
+      {
+        "name": "PS2 Service Manual — SCPH-30000 Service Manual 6th Ed GH-010/012",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-30000-series-service-manual-6th-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "repair",
+          "hardware",
+          "service manual",
+          "SCPH-30000",
+          "GH-010",
+          "GH-012"
+        ]
+      },
+      {
+        "name": "PS2 Service Manual — SCPH-30000R Service Manual 1st Ed GH-013/014",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/level-1-service-and-procedures-manual-version-4-0-2-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "repair",
+          "hardware",
+          "service manual",
+          "SCPH-30000R",
+          "GH-013",
+          "GH-014"
+        ]
+      },
+      {
+        "name": "PS2 Service Manual — SCPH-30000/35000 Service Manual 4th Ed GH-013",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-30000-35000-series-service-manual-4th-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "repair",
+          "hardware",
+          "service manual",
+          "SCPH-30000",
+          "SCPH-35000",
+          "GH-013"
+        ]
+      },
+      {
+        "name": "PS2 Service Manual — SCPH-30000R Service Manual 4th Ed GH-015",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-30000r-series-service-manual-4th-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "repair",
+          "hardware",
+          "service manual",
+          "SCPH-30000R",
+          "GH-015"
+        ]
+      },
+      {
+        "name": "PS2 Service Manual — SCPH-30000R Service Manual 6th Ed GH-015",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-30000r-series-service-manual-6th-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "repair",
+          "hardware",
+          "service manual",
+          "SCPH-30000R",
+          "GH-015"
+        ]
+      },
+      {
+        "name": "PS2 Service Manual — SCPH-39000 Service Manual 1st Ed GH-017",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-39000-series-service-manual-1st-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "repair",
+          "hardware",
+          "service manual",
+          "SCPH-39000",
+          "GH-017"
+        ]
+      },
+      {
+        "name": "PS2 Service Manual — SCPH-39000 Service Manual 2nd Ed GH-017/019",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-39000-series-service-manual-2nd-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "repair",
+          "hardware",
+          "service manual",
+          "SCPH-39000",
+          "GH-017",
+          "GH-019"
+        ]
+      },
+      {
+        "name": "PS2 Service Manual — SCPH-39000 Service Manual 4th Ed GH-022",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-39000-series-service-manual-4th-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "repair",
+          "hardware",
+          "service manual",
+          "SCPH-39000",
+          "GH-022"
+        ]
+      },
+      {
+        "name": "PS2 Service Manual — SCPH-50000 Service Manual 2nd Ed GH-023",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-50000-series-service-manual-2nd-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "repair",
+          "hardware",
+          "service manual",
+          "SCPH-50000",
+          "GH-023"
+        ]
+      },
+      {
+        "name": "PS2 Service Manual — SCPH-50000 Service Manual 2nd Ed GH-026",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-50000-series-service-manual-2nd-edition-gh026",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "repair",
+          "hardware",
+          "service manual",
+          "SCPH-50000",
+          "GH-026"
+        ]
+      },
+      {
+        "name": "PS2 Service Manual — SCPH-70000 Service Manual 1st Ed GH-035",
+        "url": "https://gamingdoc.org/technical-documentation/consoles/sony-playstation-2/official/service-manuals/scph-70000-series-service-manual-1st-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "repair",
+          "hardware",
+          "service manual",
+          "SCPH-70000",
+          "GH-035",
+          "slim"
+        ]
+      }
+    ]
+  }
+]
