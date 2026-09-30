@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2019-05-03T02:25:51Z'
   url: 'https://github.com/VTSTech/PS2-OPL-CFG/releases/tag/v0.0.1-r10'
 activity:
-  lastSynchronized: '2026-09-29T09:05:43.442Z'
+  lastSynchronized: '2026-09-30T06:43:56.869Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"138d0f85448e323c39ce967112b855aebd6065c3c605bce20616551627341688"
+    releasesEtag: W/"ea38924665a039e3cbe17335e74d13e43ca11174349d6698861e90aa898e5b34"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100
@@ -40,5 +43,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

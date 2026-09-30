@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-08-04T21:32:58Z'
   url: 'https://github.com/pcm720/udpfsd/releases/tag/v0.1.7'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-09-30T06:44:00.250Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"9e85d2bc024d28e46f467023b863a1170845036477a39fbf396c73ed536ff747"
+    releasesEtag: W/"489f25bb38b89def8a5ca293e200972db5451d99b083c98d2afc62d04dad59b2"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -40,5 +43,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
