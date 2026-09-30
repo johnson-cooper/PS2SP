@@ -1,0 +1,286 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Deeply indexed PS2 documentation and reference pages for precise search coverage.",
+    "links": [
+      {
+        "name": "PCSX2 Docs: Controllers",
+        "url": "https://pcsx2.net/docs/configuration/controllers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "controllers"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Bios",
+        "url": "https://pcsx2.net/docs/setup/bios",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "bios"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Running",
+        "url": "https://pcsx2.net/docs/setup/running",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "running"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Discs",
+        "url": "https://pcsx2.net/docs/setup/discs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "discs"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Requirements",
+        "url": "https://pcsx2.net/docs/setup/requirements",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "requirements"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Building",
+        "url": "https://pcsx2.net/docs/advanced/building",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "building"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Cli",
+        "url": "https://pcsx2.net/docs/advanced/cli",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "cli"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Debugger",
+        "url": "https://pcsx2.net/docs/advanced/debugger",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "debugger"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Gsdumprunner",
+        "url": "https://pcsx2.net/docs/advanced/gsdumprunner",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "gsdumprunner"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Miscellaneous",
+        "url": "https://pcsx2.net/docs/advanced/miscellaneous",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "miscellaneous"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Psx",
+        "url": "https://pcsx2.net/docs/advanced/psx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "psx"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Writing Patches",
+        "url": "https://pcsx2.net/docs/advanced/writing-patches",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "writing",
+          "patches"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: General",
+        "url": "https://pcsx2.net/docs/configuration/general",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "general"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Memcards",
+        "url": "https://pcsx2.net/docs/configuration/memcards",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "memcards"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Contributing",
+        "url": "https://pcsx2.net/docs/contributing",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "contributing"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Advanced Formatting",
+        "url": "https://pcsx2.net/docs/contributing/advanced_formatting",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "advanced",
+          "formatting"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Formatting",
+        "url": "https://pcsx2.net/docs/contributing/formatting",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "formatting"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Git",
+        "url": "https://pcsx2.net/docs/contributing/git",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "git"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: General",
+        "url": "https://pcsx2.net/docs/troubleshooting/general",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "general"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Identify",
+        "url": "https://pcsx2.net/docs/troubleshooting/identify",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "identify"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Linux",
+        "url": "https://pcsx2.net/docs/troubleshooting/linux",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "linux"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Performance",
+        "url": "https://pcsx2.net/docs/troubleshooting/performance",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "performance"
+        ]
+      },
+      {
+        "name": "PCSX2 Docs: Windows",
+        "url": "https://pcsx2.net/docs/troubleshooting/windows",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PCSX2",
+          "emulation",
+          "emulator",
+          "windows"
+        ]
+      }
+    ]
+  }
+]
