@@ -13,7 +13,7 @@ tags:
 features: []
 authors: []
 license: null
-homepage: null
+homepage: 'https://ps2iodb.com'
 source:
   provider: github
   repository: Issung/PS2IODB
@@ -21,19 +21,23 @@ source:
   url: 'https://github.com/Issung/PS2IODB'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
-  forks: 0
-  lastCommit: null
+  defaultBranch: main
+  stars: 7
+  forks: 3
+  lastCommit: '2026-09-29T11:02:13Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: mymc++v0.1
+  name: MYMC++ Alpha v0.1
+  publishedAt: '2023-10-24T09:16:11Z'
+  url: 'https://github.com/Issung/PS2IODB/releases/tag/mymc%2B%2Bv0.1'
 activity:
   lastChecked: '2026-09-29T00:28:45.199Z'
+  lastSynchronized: '2026-09-30T13:44:08.423Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e1318ee09a3e5dba7cec05b350a3d3ef10cdb8f6fa5e723bfaecca581193a83b"
+    releasesEtag: W/"47d9a19ff71a3151f0a5e5567ed04a28a5c3af1637657b47b2a4aae755162369"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 90
@@ -47,5 +51,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

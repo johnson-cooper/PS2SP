@@ -27,12 +27,12 @@ latestRelease:
   url: 'https://github.com/karasq/PS2InfoGB/releases/tag/rev.6c'
 activity:
   lastChecked: '2026-09-29T00:27:12.222Z'
-  lastSynchronized: '2026-09-29T02:37:12.666Z'
+  lastSynchronized: '2026-09-30T13:44:07.887Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c5bff3de4d63e992ad313a417458030a82a3a748b7688d29a47164136e3775af"
-    releasesEtag: W/"c3d6088f602469105e8680c884193575f51ee08a3d8751d8058a47e38d90e807"
+    repoEtag: W/"f281b5b1fb039d2ba0c2f09925538ad5cc680043c1825d1361fe474e055a341e"
+    releasesEtag: W/"5ac8e66f0740cc0fbd42cf8bcfc211e7578b5073d0fe12e8ddb96ac823a8b551"
 discovery:
   method: github-search
   confidence: 100

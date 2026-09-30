@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-09-06T01:09:16Z'
   url: 'https://github.com/bucanero/ps2vmc-tool/releases/tag/v2.0.0'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-09-30T13:44:09.482Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"03e7c44d0318adae0eb0b37b29ddccde6d67b360e6b826e9cf1fe7c4bfb2c173"
+    releasesEtag: W/"95f70417cb74565490263f7685aaf9393e802c0da37926f54e31779591d1c28e"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -41,5 +44,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
