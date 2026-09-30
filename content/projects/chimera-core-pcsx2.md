@@ -19,19 +19,24 @@ source:
   url: 'https://github.com/ToolAssisted-run/chimera-core-pcsx2'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-09-28T10:44:38Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: nightly-2026-09-28
+  name: Nightly 2026-09-28
+  publishedAt: '2026-09-28T10:44:39Z'
+  url: >-
+    https://github.com/ToolAssisted-run/chimera-core-pcsx2/releases/tag/nightly-2026-09-28
 activity:
   lastChecked: '2026-09-29T00:28:45.721Z'
+  lastSynchronized: '2026-09-30T23:49:58.240Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"31e503eb989b07a0c2ca57da263fd9ed69ac013dbeda73c221414de4e6088abe"
+    releasesEtag: W/"bb6eef143a462b20ea13a05e25eea2ea0a8b06a716c4425e927e3de266be9296"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 90
@@ -45,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.
