@@ -1,0 +1,132 @@
+[
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "Surviving and archived PSX-Scene-era pages, mirrors, and historical references for major PS2 homebrew projects and scene infrastructure.",
+    "links": [
+      {
+        "name": "PSX-Scene Wayback — Forum Snapshot (2014)",
+        "url": "https://web.archive.org/web/20141025042527/http://psx-scene.com/forums/forum.php",
+        "keywords": [
+          "PS2",
+          "PSX-Scene",
+          "PS2-Scene",
+          "Wayback",
+          "forum archive",
+          "homebrew",
+          "scene history"
+        ]
+      },
+      {
+        "name": "PSX-Place — PSX-Scene: A Way to Go Back in Time",
+        "url": "https://www.psx-place.com/threads/psx-scene-a-way-to-go-back-in-time.20476/",
+        "keywords": [
+          "PS2",
+          "PSX-Scene",
+          "PS2-Scene",
+          "archive",
+          "backup",
+          "history",
+          "lost website"
+        ]
+      },
+      {
+        "name": "PSX-Place — PSX-Scene Archive Thread Page 2",
+        "url": "https://www.psx-place.com/threads/psx-scene-a-way-to-go-back-in-time.20476/page-2",
+        "keywords": [
+          "PS2",
+          "PSX-Scene",
+          "backup",
+          "archive download",
+          "lost website"
+        ]
+      },
+      {
+        "name": "Archived HDL Dump / PS2-Scene Project Site",
+        "url": "http://web.archive.org/web/20061220090822/http://hdldump.ps2-scene.org/",
+        "keywords": [
+          "PS2",
+          "HDL Dump",
+          "hdl_dumb",
+          "PS2-Scene",
+          "HDD",
+          "Wayback",
+          "legacy project"
+        ]
+      },
+      {
+        "name": "PS2Dev Mirror — PS2-Scene.org Down? Thread",
+        "url": "http://ps2dev.com/mirror/forums.ps2dev.org/viewtopic2ad0.html?t=545",
+        "keywords": [
+          "PS2",
+          "PS2-Scene",
+          "PSX-Scene",
+          "downtime",
+          "scene history",
+          "mirror"
+        ]
+      },
+      {
+        "name": "Lukasz CDVDMANIA Links — PS2-Scene Development References",
+        "url": "https://lukasz.dk/mirror/cdvdmania/links.html",
+        "keywords": [
+          "PS2",
+          "CDVDMANIA",
+          "ps2-scene.org",
+          "ps2dev",
+          "mirror",
+          "legacy"
+        ]
+      },
+      {
+        "name": "PS2Homebrew OPL Theme Gallery — Preserved PSX-Scene Themes",
+        "url": "https://www.ps2homebrew.org/Open-PS2-Loader-User-Guide/theme-gallery.html",
+        "keywords": [
+          "PS2",
+          "PSX-Scene",
+          "OPL themes",
+          "lost themes",
+          "preservation",
+          "THM"
+        ]
+      },
+      {
+        "name": "PS2Dev Forum — Homebrew Booting on Unmodified Consoles",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=672",
+        "keywords": [
+          "PS2",
+          "PS2-Scene",
+          "homebrew boot",
+          "unmodified console",
+          "Independence Exploit",
+          "legacy forum"
+        ]
+      },
+      {
+        "name": "X-PEC Mirror — DMS Explorer Technical Archive",
+        "url": "http://ps2.x-pec.com/files/dms_explorer_tech/",
+        "keywords": [
+          "PS2",
+          "DMS Explorer",
+          "HDD",
+          "FTP",
+          "memory card",
+          "PS2-Scene",
+          "legacy mirror"
+        ]
+      },
+      {
+        "name": "GitHub ps2logo — Preserved PS2 Disc Security Explanation",
+        "url": "https://github.com/mlafeldt/ps2logo/blob/master/Documentation/PS2_Disc_Security_explanations.htm",
+        "keywords": [
+          "PS2",
+          "disc security",
+          "logo decryptor",
+          "PS2-Scene",
+          "MechaCon",
+          "authentication",
+          "preserved document"
+        ]
+      }
+    ]
+  }
+]
