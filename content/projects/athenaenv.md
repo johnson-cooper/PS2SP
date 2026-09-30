@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/DanielSant0s/AthenaEnv/releases/tag/latest'
 activity:
   lastChecked: '2026-09-29T00:27:00.178Z'
-  lastSynchronized: '2026-09-29T02:36:19.740Z'
+  lastSynchronized: '2026-09-30T19:20:40.887Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2936200e9948882fb8f6cdc96a1048686df5c2143c7e78461f5213023ebbb4d3"
-    releasesEtag: W/"7ad56911c4eb294822c33c22eba3740b83ee67c1634869ae0a68fc758fb01901"
+    repoEtag: W/"176f13dd5db60e4777701d3988d1a6c58c2119a35d37c31acb8420b6e0dee440"
+    releasesEtag: W/"27622d6a565336a479a6b88e190704d943f1dc6ffbab2c28aa4f91817b24682a"
 discovery:
   method: curated
   confidence: 100

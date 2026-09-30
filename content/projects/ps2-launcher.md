@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/Irfanlesnar/PS2-Launcher/releases/tag/v4.0.0'
 activity:
   lastChecked: '2026-09-29T00:29:07.917Z'
-  lastSynchronized: '2026-09-29T02:37:02.381Z'
+  lastSynchronized: '2026-09-30T19:20:47.218Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b298aa302e966dc35a2819a248c1eecaae837d61791760d60932aa1293fc56e4"
-    releasesEtag: W/"513ba172ce6b8cc8731d5e0219af79163f9029f29856820bf3d597e8cb6adf51"
+    repoEtag: W/"443f9da077ee1d5c0c420334b5293bf6e1a4ea37343dc8ad7272d149e4976602"
+    releasesEtag: W/"f833afd2afc168c09a245cd3d0b4021878bc8f044f37e89730564bdd50b7e3f0"
 discovery:
   method: github-search
   confidence: 100
