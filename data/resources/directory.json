@@ -3476,6 +3476,564 @@
         "url": "https://www.psx-place.com/resources/fceumm-ps2.685/",
         "favicon_url": "",
         "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Controllers",
+        "url": "https://pcsx2.net/docs/configuration/controllers",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Dumping BIOS",
+        "url": "https://pcsx2.net/docs/setup/bios",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Dumping Discs",
+        "url": "https://pcsx2.net/docs/setup/discs",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Building PCSX2",
+        "url": "https://pcsx2.net/docs/advanced/building",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Command Line Options",
+        "url": "https://pcsx2.net/docs/advanced/cli",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Debugger",
+        "url": "https://pcsx2.net/docs/advanced/debugger",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: gsdumprunner",
+        "url": "https://pcsx2.net/docs/advanced/gsdumprunner",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: miscellaneous",
+        "url": "https://pcsx2.net/docs/advanced/miscellaneous",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Backwards Compatibility",
+        "url": "https://pcsx2.net/docs/advanced/psx",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Writing Patches",
+        "url": "https://pcsx2.net/docs/advanced/writing-patches",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Advanced",
+        "url": "https://pcsx2.net/docs/category/advanced",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Configuration",
+        "url": "https://pcsx2.net/docs/category/configuration",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Contributing",
+        "url": "https://pcsx2.net/docs/category/contributing",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Setup",
+        "url": "https://pcsx2.net/docs/category/setup",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Troubleshooting",
+        "url": "https://pcsx2.net/docs/category/troubleshooting",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: General Information",
+        "url": "https://pcsx2.net/docs/configuration/general",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Memory Cards",
+        "url": "https://pcsx2.net/docs/configuration/memcards",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Contributing to PCSX2",
+        "url": "https://pcsx2.net/docs/contributing",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: advanced formatting",
+        "url": "https://pcsx2.net/docs/contributing/advanced_formatting",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: formatting",
+        "url": "https://pcsx2.net/docs/contributing/formatting",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Using Git",
+        "url": "https://pcsx2.net/docs/contributing/git",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: System Requirements",
+        "url": "https://pcsx2.net/docs/setup/requirements",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Running PCSX2",
+        "url": "https://pcsx2.net/docs/setup/running",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: General Issues",
+        "url": "https://pcsx2.net/docs/troubleshooting/general",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Diagnosing & Reporting",
+        "url": "https://pcsx2.net/docs/troubleshooting/identify",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Linux Issues",
+        "url": "https://pcsx2.net/docs/troubleshooting/linux",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Performance Issues",
+        "url": "https://pcsx2.net/docs/troubleshooting/performance",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Docs: Windows Issues",
+        "url": "https://pcsx2.net/docs/troubleshooting/windows",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: 64-bit Recompilation",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/64-bit_Recompilation",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: A new kind of fullscreen!",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/A_new_kind_of_fullscreen!",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Advanced memory management",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Advanced_memory_management",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Benchmarking Multithreaded PCSX2",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Benchmarking_Multithreaded_PCSX2",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: C++ exceptions can be an optimization",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/C%2B%2B_exceptions_can_be_an_optimization",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Chroot and 64-bit Linux",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Chroot_and_64-bit_Linux",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Code Formatting Guidelines",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Code_Formatting_Guidelines",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Commenting Etiquette",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Commenting_Etiquette",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Compiling on Linux",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Compiling_on_Linux",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Compiling on Windows",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Compiling_on_Windows",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Contributing To-Do List",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Contributing_To-Do_List",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Developers blog",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Developers_blog",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Events o' Plenty",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Events_o'_Plenty",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: GNU Debugger Tips",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/GNU_Debugger_Tips",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: GSdx Debug",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/GSdx_Debug",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Git Survival Guide",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Git_Survival_Guide",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Google Code svn repository comments archive",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Google_Code_svn_repository_comments_archive",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Google Code svn repository comments archive/1 to 999",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Google_Code_svn_repository_comments_archive/1_to_999",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Google Code svn repository comments archive 1000 to 1249",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Google_Code_svn_repository_comments_archive_1000_to_1249",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Google Code svn repository comments archive 1250 to 1499",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Google_Code_svn_repository_comments_archive_1250_to_1499",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Google Code svn repository comments archive 1500 to 1999",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Google_Code_svn_repository_comments_archive_1500_to_1999",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Google Code svn repository comments archive 1 to 999",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Google_Code_svn_repository_comments_archive_1_to_999",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Google Code svn repository comments archive 2000 to 2499",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Google_Code_svn_repository_comments_archive_2000_to_2499",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Google Code svn repository comments archive 2500 to 2999",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Google_Code_svn_repository_comments_archive_2500_to_2999",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Google Code svn repository comments archive 3000 to 3499",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Google_Code_svn_repository_comments_archive_3000_to_3499",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Google Code svn repository comments archive 3500 to 3999",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Google_Code_svn_repository_comments_archive_3500_to_3999",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Google Code svn repository comments archive 4000 to 4499",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Google_Code_svn_repository_comments_archive_4000_to_4499",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Google Code svn repository comments archive 4500 to 4749",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Google_Code_svn_repository_comments_archive_4500_to_4749",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Google Code svn repository comments archive 4750 to 4999",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Google_Code_svn_repository_comments_archive_4750_to_4999",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Google Code svn repository comments archive 5000 to 5499",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Google_Code_svn_repository_comments_archive_5000_to_5499",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Google Code svn repository comments archive 5500 to 5999",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Google_Code_svn_repository_comments_archive_5500_to_5999",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Graphics Synthesizer, GPUs and Dual Cores",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Graphics_Synthesizer%2C_GPUs_and_Dual_Cores",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: How to Create Useful and Valid Issues",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/How_to_Create_Useful_and_Valid_Issues",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: IPC Protocol",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/IPC_Protocol",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Introduction to Dynamic Recompilation",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Introduction_to_Dynamic_Recompilation",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: MMU mini-series",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/MMU_mini-series",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: MSVC 2008 optimizer fail",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/MSVC_2008_optimizer_fail",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Main documentation",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Main_documentation",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Measuring the Benefits of wxWidgets",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Measuring_the_Benefits_of_wxWidgets",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Nightmare on Floating-Point Street",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Nightmare_on_Floating-Point_Street",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: PCSX2 Build Scripts",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/PCSX2_Build_Scripts",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: PCSX2 EE Recompiler",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/PCSX2_EE_Recompiler",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: PCSX2 Optimization",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/PCSX2_Optimization",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: PS2's Programmable DMA",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/PS2's_Programmable_DMA",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: PS2 VU (Vector Unit) Documentation Part 1",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/PS2_VU_(Vector_Unit)_Documentation_Part_1",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Passing Settings Between Threads",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Passing_Settings_Between_Threads",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Path 3 Masking / Geometry Syncing",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Path_3_Masking_/_Geometry_Syncing",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Recompilers: All 'dems buzzwords?",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Recompilers%3A_All_'dems_buzzwords%3F",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Reverb Engine",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Reverb_Engine",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: SPU2 is more than just sound!",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/SPU2_is_more_than_just_sound!",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: So maybe it's about time we explained VTLB",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/So_maybe_it's_about_time_we_explained_VTLB",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Supported Languages",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Supported_Languages",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: The PCSX2 Program Flow",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/The_PCSX2_Program_Flow",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: The return of the Commandline!",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/The_return_of_the_Commandline!",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Thread Counting",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Thread_Counting",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Thread Synchronization",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Thread_Synchronization",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Threading Advanced",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Threading_Advanced",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Threading Basics",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Threading_Basics",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Threading VU1",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Threading_VU1",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Translation Guide",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Translation_Guide",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Using Poedit",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Using_Poedit",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: VirtualAlloc on Linux",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/VirtualAlloc_on_Linux",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: Virtual Memory",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/Virtual_Memory",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: What's clamping? And why do we need it?",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/What's_clamping%3F_And_why_do_we_need_it%3F",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "PCSX2 Wiki Docs: WxWidgets Coding Strategies",
+        "url": "https://wiki.pcsx2.net/index.php/PCSX2_Documentation/WxWidgets_Coding_Strategies",
+        "favicon_url": "",
+        "thumbnail_url": ""
       }
     ]
   },
@@ -3934,12 +4492,6 @@
         "thumbnail_url": ""
       },
       {
-        "name": "PS2-HOME: PS1 Cheat Codes (A-Z)",
-        "url": "https://www.ps2-home.com/forum/page/ps1-cheats-1",
-        "favicon_url": "",
-        "thumbnail_url": ""
-      },
-      {
         "name": "PS2-HOME: PS2 Cheat Codes (A-Z)",
         "url": "https://www.ps2-home.com/forum/page/ps2_raw_cheats_1",
         "favicon_url": "",
@@ -3994,12 +4546,6 @@
         "thumbnail_url": ""
       },
       {
-        "name": "PS2-HOME: PS1 Homebrew Games Collection",
-        "url": "https://www.ps2-home.com/forum/viewforum.php?f=92",
-        "favicon_url": "",
-        "thumbnail_url": ""
-      },
-      {
         "name": "PS2-HOME: PS2 Homebrew Games Collection",
         "url": "https://www.ps2-home.com/forum/viewforum.php?f=86",
         "favicon_url": "",
@@ -4008,12 +4554,6 @@
       {
         "name": "PS2-HOME: POPStarter Tutorials and FAQs",
         "url": "https://www.ps2-home.com/forum/viewforum.php?f=78",
-        "favicon_url": "",
-        "thumbnail_url": ""
-      },
-      {
-        "name": "PS2-HOME: PS1 Game Modding Tutorials and FAQs",
-        "url": "https://www.ps2-home.com/forum/viewforum.php?f=106",
         "favicon_url": "",
         "thumbnail_url": ""
       },
@@ -4068,12 +4608,6 @@
       {
         "name": "PS2-HOME: PS1 Game Modding Tutorials",
         "url": "https://www.ps2-home.com/forum/viewforum.php?f=105",
-        "favicon_url": "",
-        "thumbnail_url": ""
-      },
-      {
-        "name": "PS2-HOME: PS1 Homebrew Games Collection",
-        "url": "https://www.ps2-home.com/forum/viewforum.php?f=91",
         "favicon_url": "",
         "thumbnail_url": ""
       },
@@ -5034,12 +5568,6 @@
       {
         "name": "ConsoleMods PS2: Video Output Notes",
         "url": "https://consolemods.org/wiki/PS2:Video_Output_Notes",
-        "favicon_url": "",
-        "thumbnail_url": ""
-      },
-      {
-        "name": "PS2-HOME: PS1 Widescreen Cheat Codes",
-        "url": "https://www.ps2-home.com/forum/viewtopic.php?t=568",
         "favicon_url": "",
         "thumbnail_url": ""
       },
@@ -6276,12 +6804,6 @@
       {
         "name": "ConsoleMods PS2: Scene History",
         "url": "https://consolemods.org/wiki/PS2:Scene_History",
-        "favicon_url": "",
-        "thumbnail_url": ""
-      },
-      {
-        "name": "PS2-HOME: PS1 Games List (A-Z) with matching GAME IDs",
-        "url": "https://www.ps2-home.com/forum/page/ps1-game-list-1",
         "favicon_url": "",
         "thumbnail_url": ""
       },
