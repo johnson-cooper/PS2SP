@@ -47,7 +47,7 @@ const allResourceSources = [
 
 export function getResourceGroups(): ResourceGroup[] {
   const groups = new Map<string, ResourceGroup>();
-  const seenUrls = new Set<string>();
+  const linksByUrl = new Map<string, ResourceLink>();
 
   for (const source of allResourceSources) {
     let group = groups.get(source.category);
@@ -62,9 +62,22 @@ export function getResourceGroups(): ResourceGroup[] {
 
     for (const link of source.links) {
       const key = link.url.replace(/\/+$/, "");
-      if (seenUrls.has(key)) continue;
-      seenUrls.add(key);
-      group.links.push(link);
+      const existing = linksByUrl.get(key);
+      if (existing) {
+        const mergedKeywords = new Set([
+          ...(existing.keywords ?? []),
+          ...(link.keywords ?? []),
+          link.name
+        ]);
+        existing.keywords = [...mergedKeywords];
+        if (!existing.favicon_url && link.favicon_url) existing.favicon_url = link.favicon_url;
+        if (!existing.thumbnail_url && link.thumbnail_url) existing.thumbnail_url = link.thumbnail_url;
+        continue;
+      }
+
+      const stored = { ...link };
+      linksByUrl.set(key, stored);
+      group.links.push(stored);
     }
   }
 
