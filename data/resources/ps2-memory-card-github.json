@@ -1,0 +1,615 @@
+[
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "PS2 memory-card, VMC, save-conversion, icon.sys, save-icon, and card-image tools discovered beyond the traditional scene archives.",
+    "links": [
+      {
+        "name": "GitHub — NathanNeurotic/PS2-icon-sys-to-txt",
+        "url": "https://github.com/NathanNeurotic/PS2-icon-sys-to-txt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "icon.sys",
+          "title",
+          "save icon",
+          "NathanNeurotic",
+          "PS2",
+          "icon",
+          "sys",
+          "to",
+          "txt"
+        ]
+      },
+      {
+        "name": "GitHub — NathanNeurotic/PS2-icon.sys-titler-and-title.cfg-writer",
+        "url": "https://github.com/NathanNeurotic/PS2-icon.sys-titler-and-title.cfg-writer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "icon.sys",
+          "title.cfg",
+          "HDD OSD",
+          "NathanNeurotic",
+          "PS2",
+          "icon",
+          "sys",
+          "titler",
+          "and",
+          "title",
+          "cfg",
+          "writer"
+        ]
+      },
+      {
+        "name": "GitHub — MightyDuke/ico2gltf",
+        "url": "https://github.com/MightyDuke/ico2gltf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "PS2 save icon",
+          "ICN",
+          "glTF",
+          "MightyDuke",
+          "ico2gltf"
+        ]
+      },
+      {
+        "name": "GitHub — craigshaw/ps2mcd",
+        "url": "https://github.com/craigshaw/ps2mcd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "memory card",
+          "FUSE",
+          "filesystem",
+          "craigshaw",
+          "ps2mcd"
+        ]
+      },
+      {
+        "name": "GitHub — PS2OldGamer/PS2-MemCard-Manager",
+        "url": "https://github.com/PS2OldGamer/PS2-MemCard-Manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "memory card",
+          "manager",
+          "save",
+          "PS2OldGamer",
+          "PS2",
+          "MemCard",
+          "Manager"
+        ]
+      },
+      {
+        "name": "GitHub — Chrisser73/ps2-save-tool",
+        "url": "https://github.com/Chrisser73/ps2-save-tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "save converter",
+          "PSU",
+          "save",
+          "Chrisser73",
+          "ps2",
+          "save",
+          "tool"
+        ]
+      },
+      {
+        "name": "GitHub — BAD-AL/mymc_web",
+        "url": "https://github.com/BAD-AL/mymc_web",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "mymc",
+          "memory card image",
+          "web",
+          "BAD",
+          "AL",
+          "mymc",
+          "web"
+        ]
+      },
+      {
+        "name": "GitHub — CalmCreative/mymc",
+        "url": "https://github.com/CalmCreative/mymc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "mymc",
+          "memory card image",
+          "save",
+          "CalmCreative",
+          "mymc"
+        ]
+      },
+      {
+        "name": "GitHub — craigshaw/ps2mcs",
+        "url": "https://github.com/craigshaw/ps2mcs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "memory card server",
+          "memory card image",
+          "network",
+          "craigshaw",
+          "ps2mcs"
+        ]
+      },
+      {
+        "name": "GitHub — craigshaw/ps2mcc",
+        "url": "https://github.com/craigshaw/ps2mcc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "memory card client",
+          "memory card image",
+          "network",
+          "craigshaw",
+          "ps2mcc"
+        ]
+      },
+      {
+        "name": "GitHub — sadolit/memcard-reaver",
+        "url": "https://github.com/sadolit/memcard-reaver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "memory card image",
+          "recovery",
+          "forensics",
+          "sadolit",
+          "memcard",
+          "reaver"
+        ]
+      },
+      {
+        "name": "GitHub — bbsan2k/mcfat_standalone",
+        "url": "https://github.com/bbsan2k/mcfat_standalone",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "memory card filesystem",
+          "MCFS",
+          "FAT",
+          "bbsan2k",
+          "mcfat",
+          "standalone"
+        ]
+      },
+      {
+        "name": "GitHub — XDaoFangxiX/MemoryCard",
+        "url": "https://github.com/XDaoFangxiX/MemoryCard",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "PS2 memory card",
+          "image",
+          "tool",
+          "XDaoFangxiX",
+          "MemoryCard"
+        ]
+      },
+      {
+        "name": "GitHub — SomaDaydream/ps2mcs-ps1support",
+        "url": "https://github.com/SomaDaydream/ps2mcs-ps1support",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "PS2MCS",
+          "PS1 support",
+          "memory card",
+          "SomaDaydream",
+          "ps2mcs",
+          "ps1support"
+        ]
+      },
+      {
+        "name": "GitHub — Issung/PS2IODB",
+        "url": "https://github.com/Issung/PS2IODB",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "PlayStation 2 memory card",
+          "hardware",
+          "interface",
+          "Issung",
+          "PS2IODB"
+        ]
+      },
+      {
+        "name": "GitHub — Uncle-Uee/PSXMC",
+        "url": "https://github.com/Uncle-Uee/PSXMC",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "PlayStation memory card",
+          "PS2",
+          "tool",
+          "Uncle",
+          "Uee",
+          "PSXMC"
+        ]
+      },
+      {
+        "name": "GitHub — McCaulay/pypsu",
+        "url": "https://github.com/McCaulay/pypsu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "PSU",
+          "save archive",
+          "Python",
+          "McCaulay",
+          "pypsu"
+        ]
+      },
+      {
+        "name": "GitHub — pcm720/psu-go",
+        "url": "https://github.com/pcm720/psu-go",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "PSU",
+          "save archive",
+          "Go",
+          "pcm720",
+          "psu",
+          "go"
+        ]
+      },
+      {
+        "name": "GitHub — lawlmoeaung/ps2-memory-card-manager",
+        "url": "https://github.com/lawlmoeaung/ps2-memory-card-manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "PS2 save",
+          "PSU",
+          "MAX",
+          "CBS",
+          "manager",
+          "lawlmoeaung",
+          "ps2",
+          "memory",
+          "card",
+          "manager"
+        ]
+      },
+      {
+        "name": "GitHub — MegaBitmap/PS2-VMC-GUI",
+        "url": "https://github.com/MegaBitmap/PS2-VMC-GUI",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "VMC",
+          "virtual memory card",
+          "GUI",
+          "MegaBitmap",
+          "PS2",
+          "VMC",
+          "GUI"
+        ]
+      },
+      {
+        "name": "GitHub — ninjadynamics/vmc",
+        "url": "https://github.com/ninjadynamics/vmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "VMC",
+          "virtual memory card",
+          "PS2",
+          "ninjadynamics",
+          "vmc"
+        ]
+      },
+      {
+        "name": "GitHub — PS2OldGamer/PS2-VMC-Viewer",
+        "url": "https://github.com/PS2OldGamer/PS2-VMC-Viewer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "VMC",
+          "viewer",
+          "memory card",
+          "PS2OldGamer",
+          "PS2",
+          "VMC",
+          "Viewer"
+        ]
+      },
+      {
+        "name": "GitHub — zenaror/PS2-VMC-GUI-python",
+        "url": "https://github.com/zenaror/PS2-VMC-GUI-python",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "VMC",
+          "GUI",
+          "Python",
+          "zenaror",
+          "PS2",
+          "VMC",
+          "GUI",
+          "python"
+        ]
+      },
+      {
+        "name": "GitHub — thestr4ng3r/mymcplus",
+        "url": "https://github.com/thestr4ng3r/mymcplus",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "mymcplus",
+          "memory card",
+          "save manager",
+          "thestr4ng3r",
+          "mymcplus"
+        ]
+      },
+      {
+        "name": "GitHub — PCSX2/myMCpp",
+        "url": "https://github.com/PCSX2/myMCpp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "myMC++",
+          "memory card",
+          "PCSX2",
+          "PCSX2",
+          "myMCpp"
+        ]
+      },
+      {
+        "name": "GitHub — BAD-AL/dart_mymc",
+        "url": "https://github.com/BAD-AL/dart_mymc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "mymc",
+          "Dart",
+          "memory card",
+          "BAD",
+          "AL",
+          "dart",
+          "mymc"
+        ]
+      },
+      {
+        "name": "GitHub — G4brym/mymc-py",
+        "url": "https://github.com/G4brym/mymc-py",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "mymc",
+          "Python",
+          "memory card",
+          "G4brym",
+          "mymc",
+          "py"
+        ]
+      },
+      {
+        "name": "GitHub — renantescaro/python-mymc-ps2",
+        "url": "https://github.com/renantescaro/python-mymc-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "mymc",
+          "Python",
+          "PS2 memory card",
+          "renantescaro",
+          "python",
+          "mymc",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub — Cyberbulat/mymc-for-ps2-mem-cards",
+        "url": "https://github.com/Cyberbulat/mymc-for-ps2-mem-cards",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "mymc",
+          "physical memory card",
+          "PS2",
+          "Cyberbulat",
+          "mymc",
+          "for",
+          "ps2",
+          "mem",
+          "cards"
+        ]
+      },
+      {
+        "name": "GitHub — Zhangby0417/mymc-ps2cd",
+        "url": "https://github.com/Zhangby0417/mymc-ps2cd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "save",
+          "GitHub",
+          "mymc",
+          "PS2 CD",
+          "memory card",
+          "Zhangby0417",
+          "mymc",
+          "ps2cd"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "Open-source PS2 save/icon and memory-card implementations useful as technical references for card formats and save structures.",
+    "links": [
+      {
+        "name": "GitHub Reference — ps2dev/mymc",
+        "url": "https://github.com/ps2dev/mymc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical reference",
+          "source code",
+          "memory card image",
+          "PSU",
+          "save icon",
+          "ps2dev",
+          "mymc"
+        ]
+      },
+      {
+        "name": "GitHub Reference — ticky/ps2iconsys",
+        "url": "https://github.com/ticky/ps2iconsys",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical reference",
+          "source code",
+          "icon.sys",
+          "ICN",
+          "save icon",
+          "ticky",
+          "ps2iconsys"
+        ]
+      },
+      {
+        "name": "GitHub Reference — bbsan2k/mcfat_standalone",
+        "url": "https://github.com/bbsan2k/mcfat_standalone",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical reference",
+          "source code",
+          "MCFS",
+          "memory card filesystem",
+          "filesystem",
+          "bbsan2k",
+          "mcfat",
+          "standalone"
+        ]
+      },
+      {
+        "name": "GitHub Reference — craigshaw/ps2mcd",
+        "url": "https://github.com/craigshaw/ps2mcd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical reference",
+          "source code",
+          "memory card filesystem",
+          "FUSE",
+          "reverse engineering",
+          "craigshaw",
+          "ps2mcd"
+        ]
+      },
+      {
+        "name": "GitHub Reference — pcm720/psu-go",
+        "url": "https://github.com/pcm720/psu-go",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "technical reference",
+          "source code",
+          "PSU format",
+          "save archive",
+          "implementation",
+          "pcm720",
+          "psu",
+          "go"
+        ]
+      }
+    ]
+  }
+]
