@@ -108,6 +108,16 @@ const ps2Symbols = ["△", "○", "×", "□"];
           }
         }
 
+        function urlTerms(value: string) {
+          try {
+            const parsed = new URL(value);
+            return decodeURIComponent([parsed.pathname, parsed.search, parsed.hash].join(" "))
+              .replace(/[\\/_?&=:#.+%-]+/g, " ");
+          } catch {
+            return value;
+          }
+        }
+
         function makeRow(entry: SearchEntry) {
           const anchor = document.createElement("a");
           anchor.className = "resource-index-row";
@@ -203,7 +213,14 @@ const ps2Symbols = ["△", "○", "×", "□"];
                   category: group.category,
                   categoryDescription: group.description,
                   host,
-                  search: [link.name, group.category, host, ...(link.keywords ?? [])].join(" ").toLowerCase()
+                  search: [
+                    link.name,
+                    group.category,
+                    group.description,
+                    host,
+                    urlTerms(link.url),
+                    ...(link.keywords ?? [])
+                  ].join(" ").toLowerCase()
                 };
               })
             );
