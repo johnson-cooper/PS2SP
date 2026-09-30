@@ -1,0 +1,182 @@
+[
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "Additional Internet Archive preservation material focused on PS2 homebrew, development tools, SDK-era software, service documentation, memory-card tooling, and boot exploits rather than retail game collections.",
+    "links": [
+      {
+        "name": "Internet Archive — FreeMcBoot 1.8b Archive",
+        "url": "https://archive.org/details/free-mc-boot-1.8b",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "preservation",
+          "FreeMcBoot",
+          "FMCB",
+          "2008",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive — PS2Link 1.52 Archive",
+        "url": "https://archive.org/details/ps2link-1.52",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "preservation",
+          "PS2Link",
+          "debugging",
+          "network",
+          "ELF loader"
+        ]
+      },
+      {
+        "name": "Internet Archive — Unsorted PS2 Homebrew Preservation Set",
+        "url": "https://archive.org/details/ps2homebrewroms",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "preservation",
+          "homebrew archive",
+          "PS2Link",
+          "Pukklink",
+          "Identification Tool",
+          "utilities"
+        ]
+      },
+      {
+        "name": "Internet Archive — MechaPwn Source Snapshot",
+        "url": "https://archive.org/details/github.com-MechaResearch-MechaPwn_-_2024-03-28_10-38-07",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "preservation",
+          "MechaPwn",
+          "source snapshot",
+          "MechaCon",
+          "preservation"
+        ]
+      },
+      {
+        "name": "Internet Archive — PlayStation 2 July 2005 SDK v3.0.3",
+        "url": "https://archive.org/details/PlayStation2July2005SDKversion3.0.3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "preservation",
+          "SDK",
+          "development kit",
+          "2005",
+          "3.0.3",
+          "developer tools"
+        ]
+      },
+      {
+        "name": "Internet Archive — SN Systems Console Development Tools Archive",
+        "url": "https://archive.org/details/sn_sys_consoles_2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "preservation",
+          "SN Systems",
+          "ProDG",
+          "development tools",
+          "compiler",
+          "debugger"
+        ]
+      },
+      {
+        "name": "Internet Archive — Sony PS2 Service Manuals Collection",
+        "url": "https://archive.org/details/ps2-service-manuals",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "preservation",
+          "service manual",
+          "PS2 TOOL",
+          "repair",
+          "schematics",
+          "hardware"
+        ]
+      },
+      {
+        "name": "Internet Archive — RenderWare Engine v3.6 Archive",
+        "url": "https://archive.org/details/rw-36-031126",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "preservation",
+          "RenderWare",
+          "PS2 development",
+          "game engine",
+          "SDK",
+          "Criterion"
+        ]
+      },
+      {
+        "name": "Internet Archive — ATWINMON v1.13 INET Prototype / Artist Tool Monitor",
+        "url": "https://archive.org/details/ATWINMONv113INETSep82003prototype",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "preservation",
+          "ATWINMON",
+          "Artist Tool Monitor",
+          "graphics",
+          "sound",
+          "development tool"
+        ]
+      },
+      {
+        "name": "Internet Archive — Memory Card Station PS2 Card Reader Software",
+        "url": "https://archive.org/details/installation-cd_20220511",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "preservation",
+          "memory card",
+          "card reader",
+          "save transfer",
+          "software"
+        ]
+      },
+      {
+        "name": "Internet Archive — OpenTuna 2.0.1 Archive",
+        "url": "https://archive.org/details/open-tuna-2.0.1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "preservation",
+          "OpenTuna",
+          "Fortuna",
+          "memory card exploit",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive — PS2 Live Linux v3 PAL",
+        "url": "https://archive.org/details/ps2linux_live_v3_pal_small_no_modchip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "preservation",
+          "PS2 Linux",
+          "live DVD",
+          "BlackRhino",
+          "Kernelloader"
+        ]
+      }
+    ]
+  }
+]
