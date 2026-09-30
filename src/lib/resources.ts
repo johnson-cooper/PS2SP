@@ -38,6 +38,15 @@ import sourceForgePs2LegacyGroups from "../../data/resources/sourceforge-ps2-leg
 import xpecCdvdmaniaNapalmGroups from "../../data/resources/xpec-cdvdmania-napalm-mirrors.json";
 import waybackLostPs2SiteGroups from "../../data/resources/wayback-lost-ps2-sites.json";
 import internetArchivePs2DemoExtraGroups from "../../data/resources/internet-archive-ps2-demos-extra.json";
+import hiddenPalacePrototype1Groups from "../../data/resources/hidden-palace-ps2-prototypes-1.json";
+import hiddenPalacePrototype2Groups from "../../data/resources/hidden-palace-ps2-prototypes-2.json";
+import hiddenPalacePrototype3Groups from "../../data/resources/hidden-palace-ps2-prototypes-3.json";
+import hiddenPalacePrototype4Groups from "../../data/resources/hidden-palace-ps2-prototypes-4.json";
+import hiddenPalaceDemoGroups from "../../data/resources/hidden-palace-ps2-demos.json";
+import hiddenPalaceAssetGroups from "../../data/resources/hidden-palace-ps2-assets.json";
+import hiddenPalaceVideoGroups from "../../data/resources/hidden-palace-ps2-videos.json";
+import ps2ModchipTutorialGroups from "../../data/resources/ps2-modchip-tutorials-index.json";
+import ps2ServiceManualHardwareGroups from "../../data/resources/ps2-service-manuals-hardware-docs.json";
 
 export interface ResourceLink {
   name: string;
@@ -98,7 +107,16 @@ const allResourceSources = [
   ...(sourceForgePs2LegacyGroups as ResourceGroup[]),
   ...(xpecCdvdmaniaNapalmGroups as ResourceGroup[]),
   ...(waybackLostPs2SiteGroups as ResourceGroup[]),
-  ...(internetArchivePs2DemoExtraGroups as ResourceGroup[])
+  ...(internetArchivePs2DemoExtraGroups as ResourceGroup[]),
+  ...(hiddenPalacePrototype1Groups as ResourceGroup[]),
+  ...(hiddenPalacePrototype2Groups as ResourceGroup[]),
+  ...(hiddenPalacePrototype3Groups as ResourceGroup[]),
+  ...(hiddenPalacePrototype4Groups as ResourceGroup[]),
+  ...(hiddenPalaceDemoGroups as ResourceGroup[]),
+  ...(hiddenPalaceAssetGroups as ResourceGroup[]),
+  ...(hiddenPalaceVideoGroups as ResourceGroup[]),
+  ...(ps2ModchipTutorialGroups as ResourceGroup[]),
+  ...(ps2ServiceManualHardwareGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
