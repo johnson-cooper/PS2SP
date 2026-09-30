@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2024-08-15T23:08:45Z'
   url: 'https://github.com/GDX-X/Universal-PS-X-Serial-ID/releases/tag/1.1'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-09-30T00:27:52.584Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"17ac508135b11ece72768cc6606ddf10ee2399f2cd9f0a488b65f5845577b42d"
+    releasesEtag: W/"17a70a65b12b64b9f46e90a15c3fd25e7f8fa56c81e1f987804875c70ea0e056"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -39,5 +42,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

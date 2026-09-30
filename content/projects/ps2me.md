@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/Wellinator/PS2ME/releases/tag/v1.4.0'
 activity:
   lastChecked: '2026-09-29T00:27:13.094Z'
-  lastSynchronized: '2026-09-29T02:37:14.938Z'
+  lastSynchronized: '2026-09-30T00:27:51.118Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6274a129c342de5269054ff341c64fe208d5188b6d9a43e8f0ebaf9c0ad6e904"
-    releasesEtag: W/"dfce955e66620b5ec00bf09c24f1dbe2746bff4fc2c805890bc431ac92d43a40"
+    repoEtag: W/"a5e5e2c919089ac79df47ab5e17e6419abad54c8686d4d892871b99b1b39dc1d"
+    releasesEtag: W/"835ba978de1c8ba8d4e12c30c24da83113eee52e0a67376707677f6eb763959e"
 discovery:
   method: curated
   confidence: 100
