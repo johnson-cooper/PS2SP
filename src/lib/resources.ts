@@ -21,6 +21,7 @@ import githubPs2HomebrewGamePortGroups from "../../data/resources/github-ps2-hom
 import ps2devWikiDeepSectionGroups from "../../data/resources/ps2devwiki-deep-sections.json";
 import psxPlacePs2HubGroups from "../../data/resources/psx-place-ps2-hubs.json";
 import ps2WikiIndexGroups from "../../data/resources/ps2wiki-index.json";
+import hiddenPalacePs2Groups from "../../data/resources/hidden-palace-ps2.json";
 
 export interface ResourceLink {
   name: string;
@@ -64,7 +65,8 @@ const allResourceSources = [
   ...(githubPs2HomebrewGamePortGroups as ResourceGroup[]),
   ...(ps2devWikiDeepSectionGroups as ResourceGroup[]),
   ...(psxPlacePs2HubGroups as ResourceGroup[]),
-  ...(ps2WikiIndexGroups as ResourceGroup[])
+  ...(ps2WikiIndexGroups as ResourceGroup[]),
+  ...(hiddenPalacePs2Groups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
