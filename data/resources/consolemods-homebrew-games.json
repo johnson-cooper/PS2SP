@@ -316,6 +316,181 @@
           "ports",
           "custom games"
         ]
+      },
+      {
+        "name": "GameHacking.org: PlayStation 2 Database",
+        "url": "https://gamehacking.org/?sys=ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "cheats",
+          "codes",
+          "game hacking",
+          "CodeBreaker",
+          "Action Replay"
+        ]
+      },
+      {
+        "name": "PS2ME: J2ME Launcher for PlayStation 2",
+        "url": "https://wellinator.github.io/PS2ME/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2ME",
+          "J2ME",
+          "phoneME",
+          "Java",
+          "MIDlet",
+          "PS2SDK",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "SKSApps: PlayStation 2 ELF Menu Launchers",
+        "url": "https://sksapps.haldrie.com/ps2launchers.php",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "SKSApps",
+          "LaunchELF",
+          "uLaunchELF",
+          "ELF launchers",
+          "homebrew archive"
+        ]
+      },
+      {
+        "name": "GitHub: mast1c0re PS2 USB ELF Loader",
+        "url": "https://github.com/McCaulay/mast1c0re-ps2-usb-elf-loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "mast1c0re",
+          "USB ELF loader",
+          "PS4",
+          "PS5",
+          "Okage Shadow King",
+          "ELF"
+        ]
+      },
+      {
+        "name": "Internet Archive: PS2 Homebrew ROMs Collection",
+        "url": "https://archive.org/details/ps2homebrewroms",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "homebrew games",
+          "ports",
+          "custom games",
+          "archive"
+        ]
+      },
+      {
+        "name": "Scribd: PS2 ELF Files and Descriptions",
+        "url": "https://www.scribd.com/document/794253400/Config",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ELF",
+          "PS2ESDL",
+          "config",
+          "launcher",
+          "apps"
+        ]
+      },
+      {
+        "name": "Digital Foundry: PlayStation 2 Games Browse",
+        "url": "https://www.digitalfoundry.net/games/browse?system=ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Digital Foundry",
+          "games",
+          "technical analysis",
+          "performance"
+        ]
+      },
+      {
+        "name": "ROMhacking.net Forum: Expanding/Adding Sections to a PS2 ELF",
+        "url": "https://www.romhacking.net/forum/index.php?topic=25160.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ELF",
+          "sections",
+          "binary",
+          "modding",
+          "reverse engineering",
+          "ROMhacking"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store: 3D Pinball Player PSU",
+        "url": "https://downloads.ps2homebrewstore.com/SAS/GME_3DPINBALL-PLAYER.psu",
+        "keywords": [
+          "PS2",
+          "3D Pinball",
+          "Space Cadet",
+          "homebrew",
+          "PSU",
+          "SAS"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store: 3D Pinball Assets",
+        "url": "https://downloads.ps2homebrewstore.com/NON-SAS/3DPINBALL.zip",
+        "keywords": [
+          "PS2",
+          "3D Pinball",
+          "Space Cadet",
+          "homebrew",
+          "assets"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store: Hermes PSU",
+        "url": "https://downloads.ps2homebrewstore.com/SAS/GME_HERMES.psu",
+        "keywords": [
+          "PS2",
+          "Hermes",
+          "homebrew",
+          "PSU",
+          "SAS"
+        ]
+      },
+      {
+        "name": "Internet Archive: Super Mario 64 for PS2",
+        "url": "https://archive.org/details/super-mario-64-for-ps-2",
+        "keywords": [
+          "PS2",
+          "Super Mario 64",
+          "SM64",
+          "homebrew port",
+          "custom game"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store: Super Mario 64 PSU",
+        "url": "https://downloads.ps2homebrewstore.com/SAS/GME_SM64.psu",
+        "keywords": [
+          "PS2",
+          "Super Mario 64",
+          "SM64",
+          "homebrew",
+          "PSU",
+          "SAS"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store: Super Mario 64 ZIP",
+        "url": "https://downloads.ps2homebrewstore.com/NON-SAS/GME_SM64.zip",
+        "keywords": [
+          "PS2",
+          "Super Mario 64",
+          "SM64",
+          "homebrew",
+          "ZIP"
+        ]
       }
     ]
   }
