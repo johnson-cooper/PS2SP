@@ -1,0 +1,287 @@
+[
+  {
+    "category": "PS2 Save Data, Icons & Memory-Card Formats",
+    "description": "Technical references and utilities for PlayStation 2 save containers, icon.sys/icon formats, memory-card filesystems, transfer formats, and save-development workflows.",
+    "links": [
+      {
+        "name": "PS2 Save Tools — Documents",
+        "url": "https://www.ps2savetools.com/documents/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save",
+          "memory card",
+          "icon.sys",
+          "PS2 Save Tools"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — .xps Format",
+        "url": "https://www.ps2savetools.com/documents/xps-format/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save",
+          "memory card",
+          "icon.sys",
+          "PS2 Save Tools"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — Code Save Structure",
+        "url": "https://www.ps2savetools.com/documents/code-save-structure/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save",
+          "memory card",
+          "icon.sys",
+          "PS2 Save Tools"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — icon.sys Format",
+        "url": "https://www.ps2savetools.com/documents/iconsys-format/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save",
+          "memory card",
+          "icon.sys",
+          "PS2 Save Tools"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — PlayStation 2 Memory Card File System",
+        "url": "https://www.ps2savetools.com/documents/playstation-2-memory-card-file-system/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save",
+          "memory card",
+          "icon.sys",
+          "PS2 Save Tools"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — AR Max Save Format",
+        "url": "https://www.ps2savetools.com/documents/ps2-ar-max-save-format/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save",
+          "memory card",
+          "icon.sys",
+          "PS2 Save Tools"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — PS2 Icon Format v0.5",
+        "url": "https://www.ps2savetools.com/documents/ps2-icon-format-v05/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save",
+          "memory card",
+          "icon.sys",
+          "PS2 Save Tools"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — EMS Adapter .PSU Format",
+        "url": "https://www.ps2savetools.com/documents/ps2-save-game-format-for-ems-adapter-psu/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save",
+          "memory card",
+          "icon.sys",
+          "PS2 Save Tools"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — YABASIC PSU Format",
+        "url": "https://www.ps2savetools.com/documents/ps2-yabasic-file-psu-file-format/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save",
+          "memory card",
+          "icon.sys",
+          "PS2 Save Tools"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — PSVFormat.pas",
+        "url": "https://www.ps2savetools.com/documents/psvformatpas/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save",
+          "memory card",
+          "icon.sys",
+          "PS2 Save Tools"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — PS2 Independence Exploit",
+        "url": "https://www.ps2savetools.com/downloads/ps2-independence-exploit/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save",
+          "memory card",
+          "icon.sys",
+          "PS2 Save Tools"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — PS2 Save Development",
+        "url": "https://www.ps2savetools.com/downloads/ps2-save-development/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save",
+          "memory card",
+          "icon.sys",
+          "PS2 Save Tools"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — Support Utilities",
+        "url": "https://www.ps2savetools.com/downloads/support-utilities/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save",
+          "memory card",
+          "icon.sys",
+          "PS2 Save Tools"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — Transfer Software",
+        "url": "https://www.ps2savetools.com/downloads/transfer-software/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save",
+          "memory card",
+          "icon.sys",
+          "PS2 Save Tools"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Development, Reverse Engineering & Historical References",
+    "description": "Development environments, historical developer forums, hardware manuals, low-level documentation, reverse-engineering references, and preserved PlayStation 2 development material.",
+    "links": [
+      {
+        "name": "PS2Dev.org Forums — General Development Archive",
+        "url": "https://forums.ps2dev.org/viewforum.php?f=1",
+        "keywords": [
+          "PS2Dev",
+          "forum",
+          "development",
+          "homebrew",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Docs — Curated PS2 Hardware and Development Manuals",
+        "url": "https://github.com/ninjadynamics/PS2Docs",
+        "keywords": [
+          "PS2Docs",
+          "GS",
+          "VU",
+          "SPU2",
+          "manual",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Development Tools, Tutorials and References",
+        "url": "https://github.com/playstation2-development/ps2dev-world",
+        "keywords": [
+          "PS2",
+          "development",
+          "tools",
+          "tutorials",
+          "PS2SDK",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2 Linux Archive — libHdd / APA / PFS Reference",
+        "url": "https://ps2linux.no-ip.info/playstation2-linux.com/download/apa/libhdd_ref.pdf",
+        "keywords": [
+          "PS2 Linux",
+          "APA",
+          "PFS",
+          "HDD",
+          "libHdd",
+          "filesystem"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Files Archive",
+        "url": "https://github.com/m4x10187/ps2-modchip-files",
+        "keywords": [
+          "PS2",
+          "modchip",
+          "diagrams",
+          "firmware",
+          "flash",
+          "archive"
+        ]
+      },
+      {
+        "name": "Versatile1 — PS2 OPL Guides",
+        "url": "https://versatile1.wordpress.com/tag/opl/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "Open PS2 Loader",
+          "FMCB",
+          "SMB",
+          "guide"
+        ]
+      },
+      {
+        "name": "Versatile1 — PS2 SMB Guides",
+        "url": "https://versatile1.wordpress.com/tag/smb/",
+        "keywords": [
+          "PS2",
+          "SMB",
+          "network",
+          "OPL",
+          "guide"
+        ]
+      },
+      {
+        "name": "Versatile1 — PS2 USBExtreme / USB Loading Guides",
+        "url": "https://versatile1.wordpress.com/tag/usbextreme/",
+        "keywords": [
+          "PS2",
+          "USBExtreme",
+          "USB Advance",
+          "USB",
+          "guide"
+        ]
+      },
+      {
+        "name": "Versatile1 — PS2 Modding Guides",
+        "url": "https://versatile1.wordpress.com/category/modding/",
+        "keywords": [
+          "PS2",
+          "modding",
+          "FMCB",
+          "USB",
+          "OPL",
+          "guide"
+        ]
+      }
+    ]
+  }
+]
