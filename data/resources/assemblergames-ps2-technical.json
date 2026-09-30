@@ -1,0 +1,262 @@
+[
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "Selected high-value PlayStation 2 technical, development-hardware, repair, HDD-OSD, reverse-engineering, POPS and prototype discussions preserved by the ASSEMblergames archive.",
+    "links": [
+      {
+        "name": "ASSEMblergames Archive — PS2 Network Adapter SATA Mod Help",
+        "url": "https://assemblergames-archive.com/thread-60307.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblergames",
+          "archive",
+          "legacy forum",
+          "SATA",
+          "network adapter",
+          "HDD",
+          "48-bit LBA",
+          "HDLoader",
+          "OPL"
+        ]
+      },
+      {
+        "name": "ASSEMblergames Archive — PS2 DTL-H9000X",
+        "url": "https://assemblergames-archive.com/thread-60607.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblergames",
+          "archive",
+          "legacy forum",
+          "DTL-H9000X",
+          "TEST",
+          "development hardware",
+          "SCPH-90000"
+        ]
+      },
+      {
+        "name": "ASSEMblergames Archive — PS2 SCPH-10000 Black Screen Repair",
+        "url": "https://assemblergames-archive.com/thread-60395-page-2.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblergames",
+          "archive",
+          "legacy forum",
+          "SCPH-10000",
+          "repair",
+          "clock generator",
+          "boot failure"
+        ]
+      },
+      {
+        "name": "ASSEMblergames Archive — POPS / POPStarter Megathread",
+        "url": "https://assemblergames-archive.com/thread-38642-page-247.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblergames",
+          "archive",
+          "legacy forum",
+          "POPS",
+          "POPStarter",
+          "PS1",
+          "HDD",
+          "VCD",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "ASSEMblergames Archive — Retail PS2 Executables with Debugging Symbols",
+        "url": "https://assemblergames-archive.com/thread-44281.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblergames",
+          "archive",
+          "legacy forum",
+          "debug symbols",
+          "ELF",
+          "reverse engineering",
+          "GCC",
+          "development"
+        ]
+      },
+      {
+        "name": "ASSEMblergames Archive — Ghidra PS2 / MIPS R5900",
+        "url": "https://assemblergames-archive.com/thread-60805.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblergames",
+          "archive",
+          "legacy forum",
+          "Ghidra",
+          "MIPS R5900",
+          "reverse engineering",
+          "Emotion Engine"
+        ]
+      },
+      {
+        "name": "ASSEMblergames Archive — PS2 Development HDD Questions",
+        "url": "https://assemblergames-archive.com/thread-34233.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblergames",
+          "archive",
+          "legacy forum",
+          "DTL-H10010",
+          "PS2 TOOL",
+          "development HDD",
+          "PCMCIA"
+        ]
+      },
+      {
+        "name": "ASSEMblergames Archive — PS2 TEST Browser Crash / Hardware Discussion",
+        "url": "https://assemblergames-archive.com/thread-28924-page-2.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblergames",
+          "archive",
+          "legacy forum",
+          "PS2 TEST",
+          "DTL",
+          "development hardware",
+          "RAM",
+          "browser"
+        ]
+      },
+      {
+        "name": "ASSEMblergames Archive — PS2 TEST DTL-H30000 U + FMCB",
+        "url": "https://assemblergames-archive.com/post-798157.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblergames",
+          "archive",
+          "legacy forum",
+          "PS2 TEST",
+          "DTL-H30000",
+          "FMCB",
+          "Free McBoot",
+          "development unit"
+        ]
+      },
+      {
+        "name": "ASSEMblergames Archive — Adding Icons to HDLoader / KERMIT Games",
+        "url": "https://assemblergames-archive.com/post-574644.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblergames",
+          "archive",
+          "legacy forum",
+          "HDD OSD",
+          "HDLoader",
+          "KERMIT",
+          "icon.sys",
+          "HDD icons"
+        ]
+      },
+      {
+        "name": "ASSEMblergames Archive — PS2 HDD-OSD Modding",
+        "url": "https://www.assemblergames-archive.com/thread-59041-nextnewest.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblergames",
+          "archive",
+          "legacy forum",
+          "HDD OSD",
+          "PSBBN",
+          "HDD Utility Disc",
+          "APA",
+          "browser"
+        ]
+      },
+      {
+        "name": "ASSEMblergames Archive — PS2 DVD Player Modifications",
+        "url": "https://assemblergames-archive.com/thread-37430-lastpost.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblergames",
+          "archive",
+          "legacy forum",
+          "DVD Player",
+          "progressive scan",
+          "DVD Player 3.11J",
+          "modification"
+        ]
+      },
+      {
+        "name": "ASSEMblergames Archive — PS2 LA Chip / Coil Repair",
+        "url": "https://assemblergames-archive.com/thread-9182-lastpost.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblergames",
+          "archive",
+          "legacy forum",
+          "LA chip",
+          "laser",
+          "coil",
+          "repair",
+          "SCPH-50001"
+        ]
+      },
+      {
+        "name": "ASSEMblergames Archive — Sony Programming & Development Archive Index",
+        "url": "https://assemblergames-archive.com/archive/index.php/forum-15-78.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblergames",
+          "archive",
+          "legacy forum",
+          "PS2 TOOL",
+          "DTL-H2000",
+          "DTL-H2700",
+          "TEST",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "ASSEMblergames Archive — Brainstorming PS3 Controller on PSX/PS2",
+        "url": "https://assemblergames-archive.com/thread-43005-newpost.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblergames",
+          "archive",
+          "legacy forum",
+          "PS3 controller",
+          "PS2 controller",
+          "wireless",
+          "adapter",
+          "hardware"
+        ]
+      },
+      {
+        "name": "ASSEMblergames Archive — PS2 Prototype Preservation Thread — Ratchet & Clank Going Commando",
+        "url": "https://assemblergames-archive.com/thread-59620.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblergames",
+          "archive",
+          "legacy forum",
+          "prototype",
+          "pre-release",
+          "Ratchet & Clank",
+          "development build",
+          "preservation"
+        ]
+      }
+    ]
+  }
+]
