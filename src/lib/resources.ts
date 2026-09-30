@@ -10,6 +10,15 @@ import pcsx2DocGroups from "../../data/resources/pcsx2-docs.json";
 import ps2devWikiSectionGroups from "../../data/resources/ps2devwiki-sections.json";
 import ps2tekSectionGroups from "../../data/resources/ps2tek-sections.json";
 import ps2HomeIndexGroups from "../../data/resources/ps2home-index.json";
+import githubPlayStation2TopicGroups from "../../data/resources/github-topic-playstation-2.json";
+import githubPs2TopicGroups from "../../data/resources/github-topic-ps2.json";
+import githubPlaystation2TopicGroups from "../../data/resources/github-topic-playstation2.json";
+import githubHomebrewDevTopicGroups from "../../data/resources/github-topic-homebrew-dev.json";
+import githubPcsx2TopicGroups from "../../data/resources/github-topic-pcsx2.json";
+import githubOplFmcbTopicGroups from "../../data/resources/github-topic-opl-fmcb.json";
+import githubPs2DecompGroups from "../../data/resources/github-ps2-decompilations.json";
+import githubPs2HomebrewGamePortGroups from "../../data/resources/github-ps2-homebrew-games-ports.json";
+import ps2devWikiDeepSectionGroups from "../../data/resources/ps2devwiki-deep-sections.json";
 
 export interface ResourceLink {
   name: string;
@@ -42,7 +51,16 @@ const allResourceSources = [
   ...(pcsx2DocGroups as ResourceGroup[]),
   ...(ps2devWikiSectionGroups as ResourceGroup[]),
   ...(ps2tekSectionGroups as ResourceGroup[]),
-  ...(ps2HomeIndexGroups as ResourceGroup[])
+  ...(ps2HomeIndexGroups as ResourceGroup[]),
+  ...(githubPlayStation2TopicGroups as ResourceGroup[]),
+  ...(githubPs2TopicGroups as ResourceGroup[]),
+  ...(githubPlaystation2TopicGroups as ResourceGroup[]),
+  ...(githubHomebrewDevTopicGroups as ResourceGroup[]),
+  ...(githubPcsx2TopicGroups as ResourceGroup[]),
+  ...(githubOplFmcbTopicGroups as ResourceGroup[]),
+  ...(githubPs2DecompGroups as ResourceGroup[]),
+  ...(githubPs2HomebrewGamePortGroups as ResourceGroup[]),
+  ...(ps2devWikiDeepSectionGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
