@@ -1,0 +1,251 @@
+[
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "Surviving PS2Homebrew.org application pages and granular Open PS2 Loader documentation preserved as individually searchable references.",
+    "links": [
+      {
+        "name": "PS2Homebrew.org — Open PS2 Loader",
+        "url": "http://www.ps2homebrew.org/Open-PS2-Loader",
+        "keywords": [
+          "PS2",
+          "Open PS2 Loader",
+          "OPL",
+          "legacy project site",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — OPL User Guide",
+        "url": "https://www.ps2homebrew.org/Open-PS2-Loader-User-Guide/index.html",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "Open PS2 Loader",
+          "user guide",
+          "documentation"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — OPL Main Menu",
+        "url": "https://www.ps2homebrew.org/Open-PS2-Loader-User-Guide/menu.html",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "menu",
+          "settings",
+          "documentation"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — OPL Display Settings",
+        "url": "https://www.ps2homebrew.org/Open-PS2-Loader-User-Guide/display-settings.html",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "display settings",
+          "GUI",
+          "documentation"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — OPL Game Settings",
+        "url": "http://www.ps2homebrew.org/Open-PS2-Loader-User-Guide/game-settings.html",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "compatibility modes",
+          "game settings"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — OPL Network Config",
+        "url": "https://www.ps2homebrew.org/Open-PS2-Loader-User-Guide/network-config.html",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "SMB",
+          "network",
+          "IP",
+          "Ethernet"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — OPL HDL Server",
+        "url": "https://www.ps2homebrew.org/Open-PS2-Loader-User-Guide/hdl-server.html",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "HDL server",
+          "HDD",
+          "network install"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — OPL Directory Tree",
+        "url": "https://www.ps2homebrew.org/Open-PS2-Loader-User-Guide/tree-structure.html",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "ART",
+          "CFG",
+          "VMC",
+          "THM",
+          "directory structure",
+          "USB",
+          "SMB",
+          "HDD"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — OPL ART Guide",
+        "url": "https://www.ps2homebrew.org/Open-PS2-Loader-User-Guide/art.html",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "ART",
+          "cover art",
+          "COV",
+          "ICO",
+          "background",
+          "images"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — OPL Theme Gallery",
+        "url": "https://www.ps2homebrew.org/Open-PS2-Loader-User-Guide/theme-gallery.html",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "theme",
+          "THM",
+          "PSX-Scene",
+          "lost themes",
+          "preservation"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — OPL Widescreen Guide",
+        "url": "https://www.ps2homebrew.org/Open-PS2-Loader-User-Guide/widescreen.html",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "widescreen",
+          "16:9",
+          "patches"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — OPL Cheat Settings / PS2RD",
+        "url": "https://www.ps2homebrew.org/Open-PS2-Loader-User-Guide/cheat-settings.html",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "PS2RD",
+          "cheats",
+          "pnach",
+          "code engine"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — OPL In-Game Reset",
+        "url": "https://www.ps2homebrew.org/Open-PS2-Loader-User-Guide/igr.html",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "IGR",
+          "in-game reset",
+          "exit path"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — OPL Settings",
+        "url": "https://www.ps2homebrew.org/Open-PS2-Loader-User-Guide/settings.html",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "settings",
+          "USB",
+          "HDD",
+          "SMB",
+          "applications"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Surviving Simple Media System documentation and historical PS2Homebrew.org project pages.",
+    "links": [
+      {
+        "name": "PS2Homebrew.org — Simple Media System Manual",
+        "url": "https://www.ps2homebrew.org/SMS/en/index.html",
+        "keywords": [
+          "PS2",
+          "SMS",
+          "Simple Media System",
+          "media player",
+          "manual",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — SMS Skinning Guide",
+        "url": "https://www.ps2homebrew.org/SMS/en/usage-skin.html",
+        "keywords": [
+          "PS2",
+          "SMS",
+          "skin",
+          "theme",
+          "GUI",
+          "Simple Media System"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — SMS DHCP FAQ",
+        "url": "https://www.ps2homebrew.org/SMS/en/faq-dhcp.html",
+        "keywords": [
+          "PS2",
+          "SMS",
+          "DHCP",
+          "network",
+          "Ethernet",
+          "IP"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — SMS Bootable CDR Guide",
+        "url": "http://www.ps2homebrew.org/SMS/pt/installation-bootablecdr.html",
+        "keywords": [
+          "PS2",
+          "SMS",
+          "bootable CD",
+          "CDR",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — SMS Bootable DVDR Guide",
+        "url": "http://www.ps2homebrew.org/SMS/pt/installation-bootabledvdr.html",
+        "keywords": [
+          "PS2",
+          "SMS",
+          "bootable DVD",
+          "DVDR",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2Homebrew.org — Project Archive Root",
+        "url": "http://www.ps2homebrew.org",
+        "keywords": [
+          "PS2",
+          "homebrew",
+          "legacy site",
+          "Open PS2 Loader",
+          "SMS",
+          "project archive"
+        ]
+      }
+    ]
+  }
+]
