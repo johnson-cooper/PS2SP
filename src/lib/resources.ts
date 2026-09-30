@@ -8,6 +8,8 @@ import consoleModsPs2Groups from "../../data/resources/consolemods-ps2.json";
 import ps2sdkDocGroups from "../../data/resources/ps2sdk-docs.json";
 import pcsx2DocGroups from "../../data/resources/pcsx2-docs.json";
 import ps2devWikiSectionGroups from "../../data/resources/ps2devwiki-sections.json";
+import ps2tekSectionGroups from "../../data/resources/ps2tek-sections.json";
+import ps2HomeIndexGroups from "../../data/resources/ps2home-index.json";
 
 export interface ResourceLink {
   name: string;
@@ -38,7 +40,9 @@ const allResourceSources = [
   ...(consoleModsPs2Groups as ResourceGroup[]),
   ...(ps2sdkDocGroups as ResourceGroup[]),
   ...(pcsx2DocGroups as ResourceGroup[]),
-  ...(ps2devWikiSectionGroups as ResourceGroup[])
+  ...(ps2devWikiSectionGroups as ResourceGroup[]),
+  ...(ps2tekSectionGroups as ResourceGroup[]),
+  ...(ps2HomeIndexGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
