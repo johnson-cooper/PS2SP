@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "category": "Hardware, Mods & Accessories",
+    "description": "Hardware modifications, repairs, adapters, storage devices, controllers and physical PS2 accessories.",
+    "links": [
+      {
+        "name": "iFixit: PlayStation 2 Repair Hub",
+        "url": "https://www.ifixit.com/Device/PlayStation_2",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: PlayStation 2 Slimline SCPH-700xx Repair Hub",
+        "url": "https://www.ifixit.com/Device/PlayStation_2_Slimline",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: DualShock 2 Repair Hub",
+        "url": "https://www.ifixit.com/Device/DualShock_2",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: PlayStation 2 Disc Drive Replacement",
+        "url": "https://www.ifixit.com/Guide/PlayStation+2+Disc+Drive+Replacement/1404",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: PlayStation 2 Power Board Replacement",
+        "url": "https://www.ifixit.com/Guide/PlayStation+2+Power+Board+Replacement/1402",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: PlayStation 2 Top Cover Replacement",
+        "url": "https://www.ifixit.com/Guide/PlayStation+2+Top+Cover+Replacement/1390",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: PlayStation 2 Teardown",
+        "url": "https://www.ifixit.com/Teardown/PlayStation+2+Teardown/1253",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: Sony PlayStation 2 Teardown",
+        "url": "https://www.ifixit.com/Teardown/Sony+PlayStation+2+Teardown/1250",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: PlayStation 2 Optical Disc Drive Lens Cleaning",
+        "url": "https://www.ifixit.com/Guide/PlayStation+2+Optical+Disc+Drive+Lens+Cleaning/1331",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: PlayStation 2 Slimline Clock Battery Replacement",
+        "url": "https://www.ifixit.com/Guide/PlayStation+2+Slimline+Clock+Battery+Replacement/19959",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: PlayStation 2 Slimline Optical Drive Replacement (19965)",
+        "url": "https://www.ifixit.com/Guide/PlayStation+2+Slimline+Optical+Drive+Replacement/19965",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: PlayStation 2 Slimline Optical Drive Replacement (9698)",
+        "url": "https://www.ifixit.com/Guide/PlayStation+2+Slimline+Optical+Drive+Replacement/9698",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: PlayStation 2 Slimline PVR-802W Laser Replacement",
+        "url": "https://www.ifixit.com/Guide/PlayStation+2+Slimline+PVR-802W+Laser+Replacement/135413",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: PlayStation 2 Slimline Teardown",
+        "url": "https://www.ifixit.com/Teardown/PlayStation+2+Slimline+Teardown/54961",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: PlayStation 2 Slimline Teardown/Disassembly",
+        "url": "https://www.ifixit.com/Teardown/PlayStation+2+Slimline+Teardown-Disassembly/9694",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: Disassembling PlayStation 2 Slimline Outer Shell",
+        "url": "https://www.ifixit.com/Guide/Disassembling+PlayStation+2+Slimline+Outer+Shell/19700",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: Third-Party DualShock 2 Wireless Controller Analog Stick Replacement",
+        "url": "https://www.ifixit.com/Guide/3rd+party+DualShock+2+Wireless+Controller+Analog+Stick+Replacement/95784",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "iFixit: DualShock 2 D-Pad Replacement",
+        "url": "https://www.ifixit.com/Guide/DualShock+2+D-Pad+Replacement/155821",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Repair Wiki: PlayStation 2",
+        "url": "https://repair.wiki/w/PlayStation_2",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      }
+    ]
+  }
+]
