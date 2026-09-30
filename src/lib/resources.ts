@@ -69,6 +69,7 @@ import userSubmittedPs2LinkGroups from "../../data/resources/user-submitted-ps2-
 import ps2DevWikiComDeepGroups from "../../data/resources/ps2devwiki-com-deep.json";
 import ps2DeepExpansionGroups from "../../data/resources/ps2-deep-expansion-2026-09-30.json";
 import crawledLegacyPs2DeepGroups from "../../data/resources/crawled-legacy-ps2-deep-2026-09-30.json";
+import ps2DevForumsLinuxDeepGroups from "../../data/resources/ps2dev-forums-linux-deep-2026-09-30.json";
 
 export interface ResourceLink {
   name: string;
@@ -160,7 +161,8 @@ const allResourceSources = [
   ...(userSubmittedPs2LinkGroups as ResourceGroup[]),
   ...(ps2DevWikiComDeepGroups as ResourceGroup[]),
   ...(ps2DeepExpansionGroups as ResourceGroup[]),
-  ...(crawledLegacyPs2DeepGroups as ResourceGroup[])
+  ...(crawledLegacyPs2DeepGroups as ResourceGroup[]),
+  ...(ps2DevForumsLinuxDeepGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
