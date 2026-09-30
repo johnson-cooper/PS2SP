@@ -19,6 +19,7 @@ import githubOplFmcbTopicGroups from "../../data/resources/github-topic-opl-fmcb
 import githubPs2DecompGroups from "../../data/resources/github-ps2-decompilations.json";
 import githubPs2HomebrewGamePortGroups from "../../data/resources/github-ps2-homebrew-games-ports.json";
 import ps2devWikiDeepSectionGroups from "../../data/resources/ps2devwiki-deep-sections.json";
+import psxPlacePs2HubGroups from "../../data/resources/psx-place-ps2-hubs.json";
 
 export interface ResourceLink {
   name: string;
@@ -60,7 +61,8 @@ const allResourceSources = [
   ...(githubOplFmcbTopicGroups as ResourceGroup[]),
   ...(githubPs2DecompGroups as ResourceGroup[]),
   ...(githubPs2HomebrewGamePortGroups as ResourceGroup[]),
-  ...(ps2devWikiDeepSectionGroups as ResourceGroup[])
+  ...(ps2devWikiDeepSectionGroups as ResourceGroup[]),
+  ...(psxPlacePs2HubGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
