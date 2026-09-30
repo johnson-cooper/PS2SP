@@ -1,0 +1,170 @@
+[
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "Technical and utility pages from the surviving Japanese HDL-Wiki, preserving HDLoader-era PS2 HDD, exploit, save-tool, USB, and disc-rebuilding knowledge.",
+    "links": [
+      {
+        "name": "HDL-Wiki — Tools Index",
+        "url": "https://w.atwiki.jp/hdlwiki/pages/36.html",
+        "keywords": [
+          "PS2",
+          "HDL-Wiki",
+          "HDLoader",
+          "tools",
+          "LaunchELF",
+          "HDL_DUMP",
+          "TITLE.DB",
+          "PS2Menu"
+        ]
+      },
+      {
+        "name": "HDL-Wiki — PS2 Save Builder",
+        "url": "https://w.atwiki.jp/hdlwiki/pages/604.html",
+        "keywords": [
+          "PS2",
+          "PS2 Save Builder",
+          "PWS",
+          "MAX",
+          "CBS",
+          "PSU",
+          "NPO",
+          "XPS",
+          "save formats"
+        ]
+      },
+      {
+        "name": "HDL-Wiki — LaunchELF",
+        "url": "https://w.atwiki.jp/hdlwiki/pages/601.html",
+        "keywords": [
+          "PS2",
+          "LaunchELF",
+          "BOOT.ELF",
+          "file manager",
+          "launcher",
+          "legacy"
+        ]
+      },
+      {
+        "name": "HDL-Wiki — HDD Information",
+        "url": "https://w.atwiki.jp/hdlwiki/pages/26.html",
+        "keywords": [
+          "PS2",
+          "HDD",
+          "HDLoader",
+          "LBA48",
+          "137GB",
+          "IDE",
+          "APA"
+        ]
+      },
+      {
+        "name": "HDL-Wiki — USB Storage",
+        "url": "https://w.atwiki.jp/hdlwiki/pages/34.html",
+        "keywords": [
+          "PS2",
+          "USB storage",
+          "USB memory",
+          "MBR",
+          "partition table",
+          "HDL"
+        ]
+      },
+      {
+        "name": "HDL-Wiki — Frequently Asked Questions",
+        "url": "https://w.atwiki.jp/hdlwiki/pages/33.html",
+        "keywords": [
+          "PS2",
+          "HDLoader",
+          "HDD",
+          "FAQ",
+          "IDE",
+          "network adapter"
+        ]
+      },
+      {
+        "name": "HDL-Wiki — Disc Rebuilding",
+        "url": "https://w.atwiki.jp/hdlwiki/pages/27.html",
+        "keywords": [
+          "PS2",
+          "disc rebuilding",
+          "ISO",
+          "LBA",
+          "CDVD",
+          "CDLoader",
+          "DVDLoader"
+        ]
+      },
+      {
+        "name": "HDL-Wiki — PS2 Software Rebuilding",
+        "url": "https://w.atwiki.jp/hdlwiki/pages/596.html",
+        "keywords": [
+          "PS2",
+          "software rebuilding",
+          "ISO",
+          "DVD9",
+          "dual layer",
+          "LBA",
+          "tools"
+        ]
+      },
+      {
+        "name": "HDL-Wiki — Cheat / Modification Codes",
+        "url": "https://w.atwiki.jp/hdlwiki/pages/30.html",
+        "keywords": [
+          "PS2",
+          "HDLoader",
+          "cheat",
+          "patch",
+          "ELF",
+          "binary edit",
+          "network IP"
+        ]
+      },
+      {
+        "name": "HDL-Wiki — Motherboard / Chassis Identification",
+        "url": "https://w.atwiki.jp/hdlwiki/pages/32.html",
+        "keywords": [
+          "PS2",
+          "motherboard",
+          "chassis",
+          "SCPH",
+          "HDD compatibility",
+          "exploit",
+          "hardware revision"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "Historical index pages from Japan's HDL-Wiki and its preserved PS2 scene link graph.",
+    "links": [
+      {
+        "name": "HDL-Wiki — Complete Page List",
+        "url": "https://w.atwiki.jp/hdlwiki/list",
+        "keywords": [
+          "PS2",
+          "HDL-Wiki",
+          "page index",
+          "archive",
+          "Japanese PS2 scene",
+          "HDLoader"
+        ]
+      },
+      {
+        "name": "HDL-Wiki — Legacy PS2 Scene Link Index",
+        "url": "https://w.atwiki.jp/hdlwiki/pages/17.html",
+        "keywords": [
+          "PS2",
+          "HDL-Wiki",
+          "PS2Scene",
+          "PS2NFO",
+          "PS2World.it",
+          "PSXForum",
+          "legacy links",
+          "scene history"
+        ]
+      }
+    ]
+  }
+]
