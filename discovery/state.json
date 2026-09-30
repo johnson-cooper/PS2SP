@@ -476,20 +476,21 @@
           "333501877",
           "711234484",
           "36679182",
-          "1386518091"
+          "1386518091",
+          "1394573606"
         ],
-        "lastScannedAt": "2026-09-29T21:04:53.429Z"
+        "lastScannedAt": "2026-09-30T01:38:05.435Z"
       }
     }
   },
   "lastRun": {
-    "startedAt": "2026-09-29T21:04:53.429Z",
-    "finishedAt": "2026-09-29T21:06:49.010Z",
+    "startedAt": "2026-09-30T01:38:05.435Z",
+    "finishedAt": "2026-09-30T01:39:54.566Z",
     "requests": 350,
     "searchRequests": 12,
     "published": 0,
-    "queued": 20,
-    "ignored": 146,
+    "queued": 22,
+    "ignored": 144,
     "rechecked": 20,
     "stoppedForRateLimit": true
   }

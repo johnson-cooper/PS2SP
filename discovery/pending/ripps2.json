@@ -1,0 +1,17 @@
+{
+  "repository": "akilluminati47/RIPPS2",
+  "repositoryId": "1394573606",
+  "url": "https://github.com/akilluminati47/RIPPS2",
+  "description": "PS2-inspired front end: web theme beta now, custom OPL theme + RIPPS2.elf next",
+  "score": 70,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "published GitHub release present",
+    "release contains a PS2-style ELF asset"
+  ],
+  "origin": "starred:NathanNeurotic",
+  "maturity": "prerelease-only",
+  "fork": null,
+  "discoveredAt": "2026-09-30T01:38:05.435Z",
+  "checkedAt": "2026-09-30T01:38:05.435Z"
+}
