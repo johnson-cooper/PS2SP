@@ -68,6 +68,7 @@ const ps2Symbols = ["△", "○", "×", "□"];
       interface ApiLink {
         name: string;
         url: string;
+        keywords?: string[];
       }
 
       interface ApiGroup {
@@ -202,7 +203,7 @@ const ps2Symbols = ["△", "○", "×", "□"];
                   category: group.category,
                   categoryDescription: group.description,
                   host,
-                  search: [link.name, group.category, host].join(" ").toLowerCase()
+                  search: [link.name, group.category, host, ...(link.keywords ?? [])].join(" ").toLowerCase()
                 };
               })
             );
