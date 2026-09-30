@@ -1,0 +1,1511 @@
+[
+  {
+    "category": "Hardware, Mods & Accessories",
+    "description": "Deep section-level PS2 Developer Wiki indexing so individual hardware, software, exploit, boot, storage, and low-level concepts are directly searchable.",
+    "links": [
+      {
+        "name": "PS2DevWiki: Hard Drive — Overview",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#Overview",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Hard Drive",
+          "Overview",
+          "HDD",
+          "ATA",
+          "IDE",
+          "APA",
+          "PFS"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Hard Drive — Models",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#Models",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Hard Drive",
+          "Models",
+          "HDD",
+          "ATA",
+          "IDE",
+          "APA",
+          "PFS"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Hard Drive — SCPH-20400",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#SCPH-20400",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Hard Drive",
+          "SCPH-20400",
+          "HDD",
+          "ATA",
+          "IDE",
+          "APA",
+          "PFS"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Hard Drive — SCPH-20401",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#SCPH-20401",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Hard Drive",
+          "SCPH-20401",
+          "HDD",
+          "ATA",
+          "IDE",
+          "APA",
+          "PFS"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Hard Drive — DTL-H20400",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#DTL-H20400",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Hard Drive",
+          "DTL-H20400",
+          "HDD",
+          "ATA",
+          "IDE",
+          "APA",
+          "PFS"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Hard Drive — OEM drives used",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#OEM_drives_used",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Hard Drive",
+          "OEM drives used",
+          "HDD",
+          "ATA",
+          "IDE",
+          "APA",
+          "PFS"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Hard Drive — Sony custom ATA commands",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#Sony_custom_ATA_commands",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Hard Drive",
+          "Sony custom ATA commands",
+          "HDD",
+          "ATA",
+          "IDE",
+          "APA",
+          "PFS"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Hard Drive — Security Sector",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#Security_Sector",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Hard Drive",
+          "Security Sector",
+          "HDD",
+          "ATA",
+          "IDE",
+          "APA",
+          "PFS"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Hard Drive — DNAS Authentication",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#DNAS_Authentication",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Hard Drive",
+          "DNAS Authentication",
+          "HDD",
+          "ATA",
+          "IDE",
+          "APA",
+          "PFS"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Hard Drive — Bundles including the hard drive",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#Bundles_including_the_hard_drive",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Hard Drive",
+          "Bundles including the hard drive",
+          "HDD",
+          "ATA",
+          "IDE",
+          "APA",
+          "PFS"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Hard Drive — Japan",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#Japan",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Hard Drive",
+          "Japan",
+          "HDD",
+          "ATA",
+          "IDE",
+          "APA",
+          "PFS"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Hard Drive — US",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#US",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Hard Drive",
+          "US",
+          "HDD",
+          "ATA",
+          "IDE",
+          "APA",
+          "PFS"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Hard Drive — Europe",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#Europe",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Hard Drive",
+          "Europe",
+          "HDD",
+          "ATA",
+          "IDE",
+          "APA",
+          "PFS"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Hard Drive — Pinouts",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#Pinouts",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Hard Drive",
+          "Pinouts",
+          "HDD",
+          "ATA",
+          "IDE",
+          "APA",
+          "PFS"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Hard Drive — Patents",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#Patents",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Hard Drive",
+          "Patents",
+          "HDD",
+          "ATA",
+          "IDE",
+          "APA",
+          "PFS"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive — Overview",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#Overview",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "CDVD Drive",
+          "Overview",
+          "CDVD",
+          "optical drive",
+          "laser",
+          "pickup",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive — \"Lasers\"/Pickups",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#%22Lasers%22%2FPickups",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "CDVD Drive",
+          "\"Lasers\"/Pickups",
+          "CDVD",
+          "optical drive",
+          "laser",
+          "pickup",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive — Electronics",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#Electronics",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "CDVD Drive",
+          "Electronics",
+          "CDVD",
+          "optical drive",
+          "laser",
+          "pickup",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive — Mechanics",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#Mechanics",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "CDVD Drive",
+          "Mechanics",
+          "CDVD",
+          "optical drive",
+          "laser",
+          "pickup",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive — Fat drive assemblies",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#Fat_drive_assemblies",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "CDVD Drive",
+          "Fat drive assemblies",
+          "CDVD",
+          "optical drive",
+          "laser",
+          "pickup",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive — A/A+ chassis drive block",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#A%2FA%2B_chassis_drive_block",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "CDVD Drive",
+          "A/A+ chassis drive block",
+          "CDVD",
+          "optical drive",
+          "laser",
+          "pickup",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive — B/B' chassis drive block",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#B%2FB'_chassis_drive_block",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "CDVD Drive",
+          "B/B' chassis drive block",
+          "CDVD",
+          "optical drive",
+          "laser",
+          "pickup",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive — C/C' chassis drive block",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#C%2FC'_chassis_drive_block",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "CDVD Drive",
+          "C/C' chassis drive block",
+          "CDVD",
+          "optical drive",
+          "laser",
+          "pickup",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive — D/D' chassis drive block",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#D%2FD'_chassis_drive_block",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "CDVD Drive",
+          "D/D' chassis drive block",
+          "CDVD",
+          "optical drive",
+          "laser",
+          "pickup",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive — F/G chassis drive block",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#F%2FG_chassis_drive_block",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "CDVD Drive",
+          "F/G chassis drive block",
+          "CDVD",
+          "optical drive",
+          "laser",
+          "pickup",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive — H/I chassis drive block",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#H%2FI_chassis_drive_block",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "CDVD Drive",
+          "H/I chassis drive block",
+          "CDVD",
+          "optical drive",
+          "laser",
+          "pickup",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive — Slim drive assemblies",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#Slim_drive_assemblies",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "CDVD Drive",
+          "Slim drive assemblies",
+          "CDVD",
+          "optical drive",
+          "laser",
+          "pickup",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive — Sony assemblies",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#Sony_assemblies",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "CDVD Drive",
+          "Sony assemblies",
+          "CDVD",
+          "optical drive",
+          "laser",
+          "pickup",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive — Mitsumi assemblies",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#Mitsumi_assemblies",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "CDVD Drive",
+          "Mitsumi assemblies",
+          "CDVD",
+          "optical drive",
+          "laser",
+          "pickup",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive — Sankyo/Philips assemblies",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#Sankyo%2FPhilips_assemblies",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "CDVD Drive",
+          "Sankyo/Philips assemblies",
+          "CDVD",
+          "optical drive",
+          "laser",
+          "pickup",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive — Trivia",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#Trivia",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "CDVD Drive",
+          "Trivia",
+          "CDVD",
+          "optical drive",
+          "laser",
+          "pickup",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Network Adaptor — Overview",
+        "url": "https://www.psdevwiki.com/ps2/Network_Adaptor#Overview",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Network Adaptor",
+          "Overview",
+          "network adaptor",
+          "DEV9",
+          "SPEED",
+          "Ethernet",
+          "HDD",
+          "IDE"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Network Adaptor — Models",
+        "url": "https://www.psdevwiki.com/ps2/Network_Adaptor#Models",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Network Adaptor",
+          "Models",
+          "network adaptor",
+          "DEV9",
+          "SPEED",
+          "Ethernet",
+          "HDD",
+          "IDE"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Network Adaptor — SCPH-10190",
+        "url": "https://www.psdevwiki.com/ps2/Network_Adaptor#SCPH-10190",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Network Adaptor",
+          "SCPH-10190",
+          "network adaptor",
+          "DEV9",
+          "SPEED",
+          "Ethernet",
+          "HDD",
+          "IDE"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Network Adaptor — SCPH-10250",
+        "url": "https://www.psdevwiki.com/ps2/Network_Adaptor#SCPH-10250",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Network Adaptor",
+          "SCPH-10250",
+          "network adaptor",
+          "DEV9",
+          "SPEED",
+          "Ethernet",
+          "HDD",
+          "IDE"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Network Adaptor — SCPH-10281",
+        "url": "https://www.psdevwiki.com/ps2/Network_Adaptor#SCPH-10281",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Network Adaptor",
+          "SCPH-10281",
+          "network adaptor",
+          "DEV9",
+          "SPEED",
+          "Ethernet",
+          "HDD",
+          "IDE"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Network Adaptor — SCPH-10350",
+        "url": "https://www.psdevwiki.com/ps2/Network_Adaptor#SCPH-10350",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Network Adaptor",
+          "SCPH-10350",
+          "network adaptor",
+          "DEV9",
+          "SPEED",
+          "Ethernet",
+          "HDD",
+          "IDE"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Network Adaptor — DTL-H10100",
+        "url": "https://www.psdevwiki.com/ps2/Network_Adaptor#DTL-H10100",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Network Adaptor",
+          "DTL-H10100",
+          "network adaptor",
+          "DEV9",
+          "SPEED",
+          "Ethernet",
+          "HDD",
+          "IDE"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Network Adaptor — DTL-H10040",
+        "url": "https://www.psdevwiki.com/ps2/Network_Adaptor#DTL-H10040",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Network Adaptor",
+          "DTL-H10040",
+          "network adaptor",
+          "DEV9",
+          "SPEED",
+          "Ethernet",
+          "HDD",
+          "IDE"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Network Adaptor — Slim consoles",
+        "url": "https://www.psdevwiki.com/ps2/Network_Adaptor#Slim_consoles",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Network Adaptor",
+          "Slim consoles",
+          "network adaptor",
+          "DEV9",
+          "SPEED",
+          "Ethernet",
+          "HDD",
+          "IDE"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Network Adaptor — Unofficial clones",
+        "url": "https://www.psdevwiki.com/ps2/Network_Adaptor#Unofficial_clones",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Network Adaptor",
+          "Unofficial clones",
+          "network adaptor",
+          "DEV9",
+          "SPEED",
+          "Ethernet",
+          "HDD",
+          "IDE"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Network Adaptor — Board revisions",
+        "url": "https://www.psdevwiki.com/ps2/Network_Adaptor#Board_revisions",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Network Adaptor",
+          "Board revisions",
+          "network adaptor",
+          "DEV9",
+          "SPEED",
+          "Ethernet",
+          "HDD",
+          "IDE"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Deep section-level PS2 Developer Wiki indexing so individual hardware, software, exploit, boot, storage, and low-level concepts are directly searchable.",
+    "links": [
+      {
+        "name": "PS2DevWiki: Memory Map — EE Virtual/Physical Memory Map",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#EE_Virtual%2FPhysical_Memory_Map",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Memory Map",
+          "EE Virtual/Physical Memory Map",
+          "memory map",
+          "registers",
+          "EE",
+          "IOP",
+          "hardware registers"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Memory Map — Hardware Mapped Registers",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#Hardware_Mapped_Registers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Memory Map",
+          "Hardware Mapped Registers",
+          "memory map",
+          "registers",
+          "EE",
+          "IOP",
+          "hardware registers"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Memory Map — EE Map",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#EE_Map",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Memory Map",
+          "EE Map",
+          "memory map",
+          "registers",
+          "EE",
+          "IOP",
+          "hardware registers"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Memory Map — EE Timers",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#EE_Timers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Memory Map",
+          "EE Timers",
+          "memory map",
+          "registers",
+          "EE",
+          "IOP",
+          "hardware registers"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Memory Map — Image Processing Unit (IPU)",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#Image_Processing_Unit_(IPU)",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Memory Map",
+          "Image Processing Unit (IPU)",
+          "memory map",
+          "registers",
+          "EE",
+          "IOP",
+          "hardware registers"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Memory Map — Graphics Interface (GIF)",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#Graphics_Interface_(GIF)",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Memory Map",
+          "Graphics Interface (GIF)",
+          "memory map",
+          "registers",
+          "EE",
+          "IOP",
+          "hardware registers"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Memory Map — DMA Controller (DMAC)",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#DMA_Controller_(DMAC)",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Memory Map",
+          "DMA Controller (DMAC)",
+          "memory map",
+          "registers",
+          "EE",
+          "IOP",
+          "hardware registers"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Memory Map — Interrupt Controller (INTC)",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#Interrupt_Controller_(INTC)",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Memory Map",
+          "Interrupt Controller (INTC)",
+          "memory map",
+          "registers",
+          "EE",
+          "IOP",
+          "hardware registers"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Memory Map — Subsystem Interface (SIF)",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#Subsystem_Interface_(SIF)",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Memory Map",
+          "Subsystem Interface (SIF)",
+          "memory map",
+          "registers",
+          "EE",
+          "IOP",
+          "hardware registers"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Memory Map — Privileged GS registers",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#Privileged_GS_registers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Memory Map",
+          "Privileged GS registers",
+          "memory map",
+          "registers",
+          "EE",
+          "IOP",
+          "hardware registers"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Memory Map — IOP Map",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#IOP_Map",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Memory Map",
+          "IOP Map",
+          "memory map",
+          "registers",
+          "EE",
+          "IOP",
+          "hardware registers"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Memory Map — CDVD Drive",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#CDVD_Drive",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Memory Map",
+          "CDVD Drive",
+          "memory map",
+          "registers",
+          "EE",
+          "IOP",
+          "hardware registers"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Memory Map — Interrupt Control",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#Interrupt_Control",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Memory Map",
+          "Interrupt Control",
+          "memory map",
+          "registers",
+          "EE",
+          "IOP",
+          "hardware registers"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Memory Map — DMA registers",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#DMA_registers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Memory Map",
+          "DMA registers",
+          "memory map",
+          "registers",
+          "EE",
+          "IOP",
+          "hardware registers"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Memory Map — IOP Timers",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#IOP_Timers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Memory Map",
+          "IOP Timers",
+          "memory map",
+          "registers",
+          "EE",
+          "IOP",
+          "hardware registers"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: OSDSYS — Overview",
+        "url": "https://www.psdevwiki.com/ps2/OSDSYS#Overview",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "OSDSYS",
+          "Overview",
+          "OSDSYS",
+          "browser",
+          "BIOS",
+          "ROM",
+          "boot"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: OSDSYS — Command line parameters",
+        "url": "https://www.psdevwiki.com/ps2/OSDSYS#Command_line_parameters",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "OSDSYS",
+          "Command line parameters",
+          "OSDSYS",
+          "browser",
+          "BIOS",
+          "ROM",
+          "boot"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: OSDSYS — Decompression",
+        "url": "https://www.psdevwiki.com/ps2/OSDSYS#Decompression",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "OSDSYS",
+          "Decompression",
+          "OSDSYS",
+          "browser",
+          "BIOS",
+          "ROM",
+          "boot"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: OSDSYS — Patents",
+        "url": "https://www.psdevwiki.com/ps2/OSDSYS#Patents",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "OSDSYS",
+          "Patents",
+          "OSDSYS",
+          "browser",
+          "BIOS",
+          "ROM",
+          "boot"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: PS1DRV — HW Registers",
+        "url": "https://www.psdevwiki.com/ps2/PS1DRV#HW_Registers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "PS1DRV",
+          "HW Registers",
+          "PS1DRV",
+          "PS1 compatibility",
+          "PGIF",
+          "GPU",
+          "Deckard"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: PS1DRV — PS1DRV 1.1.0",
+        "url": "https://www.psdevwiki.com/ps2/PS1DRV#PS1DRV_1.1.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "PS1DRV",
+          "PS1DRV 1.1.0",
+          "PS1DRV",
+          "PS1 compatibility",
+          "PGIF",
+          "GPU",
+          "Deckard"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: PS1DRV — GP1 commands handling",
+        "url": "https://www.psdevwiki.com/ps2/PS1DRV#GP1_commands_handling",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "PS1DRV",
+          "GP1 commands handling",
+          "PS1DRV",
+          "PS1 compatibility",
+          "PGIF",
+          "GPU",
+          "Deckard"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: PS1DRV — Hardcoded Settings",
+        "url": "https://www.psdevwiki.com/ps2/PS1DRV#Hardcoded_Settings",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "PS1DRV",
+          "Hardcoded Settings",
+          "PS1DRV",
+          "PS1 compatibility",
+          "PGIF",
+          "GPU",
+          "Deckard"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: PS1DRV — Overview",
+        "url": "https://www.psdevwiki.com/ps2/PS1DRV#Overview",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "PS1DRV",
+          "Overview",
+          "PS1DRV",
+          "PS1 compatibility",
+          "PGIF",
+          "GPU",
+          "Deckard"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: PS1DRV — Config values explanation",
+        "url": "https://www.psdevwiki.com/ps2/PS1DRV#Config_values_explanation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "PS1DRV",
+          "Config values explanation",
+          "PS1DRV",
+          "PS1 compatibility",
+          "PGIF",
+          "GPU",
+          "Deckard"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: PS1DRV — Special",
+        "url": "https://www.psdevwiki.com/ps2/PS1DRV#Special",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "PS1DRV",
+          "Special",
+          "PS1DRV",
+          "PS1 compatibility",
+          "PGIF",
+          "GPU",
+          "Deckard"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "Deep section-level PS2 Developer Wiki indexing so individual hardware, software, exploit, boot, storage, and low-level concepts are directly searchable.",
+    "links": [
+      {
+        "name": "PS2DevWiki: OPL - Open PS2 Loader — OPL",
+        "url": "https://www.psdevwiki.com/ps2/OPL_-_Open_PS2_Loader#OPL",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "OPL - Open PS2 Loader",
+          "OPL",
+          "OPL",
+          "Open PS2 Loader",
+          "USB",
+          "SMB",
+          "HDD"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: OPL - Open PS2 Loader — Setup guide",
+        "url": "https://www.psdevwiki.com/ps2/OPL_-_Open_PS2_Loader#Setup_guide",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "OPL - Open PS2 Loader",
+          "Setup guide",
+          "OPL",
+          "Open PS2 Loader",
+          "USB",
+          "SMB",
+          "HDD"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: OPL - Open PS2 Loader — USB",
+        "url": "https://www.psdevwiki.com/ps2/OPL_-_Open_PS2_Loader#USB",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "OPL - Open PS2 Loader",
+          "USB",
+          "OPL",
+          "Open PS2 Loader",
+          "USB",
+          "SMB",
+          "HDD"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: OPL - Open PS2 Loader — SMB",
+        "url": "https://www.psdevwiki.com/ps2/OPL_-_Open_PS2_Loader#SMB",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "OPL - Open PS2 Loader",
+          "SMB",
+          "OPL",
+          "Open PS2 Loader",
+          "USB",
+          "SMB",
+          "HDD"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: OPL - Open PS2 Loader — PC",
+        "url": "https://www.psdevwiki.com/ps2/OPL_-_Open_PS2_Loader#PC",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "OPL - Open PS2 Loader",
+          "PC",
+          "OPL",
+          "Open PS2 Loader",
+          "USB",
+          "SMB",
+          "HDD"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: OPL - Open PS2 Loader — PS2",
+        "url": "https://www.psdevwiki.com/ps2/OPL_-_Open_PS2_Loader#PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "OPL - Open PS2 Loader",
+          "PS2",
+          "OPL",
+          "Open PS2 Loader",
+          "USB",
+          "SMB",
+          "HDD"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: OPL - Open PS2 Loader — HDD",
+        "url": "https://www.psdevwiki.com/ps2/OPL_-_Open_PS2_Loader#HDD",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "OPL - Open PS2 Loader",
+          "HDD",
+          "OPL",
+          "Open PS2 Loader",
+          "USB",
+          "SMB",
+          "HDD"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: FreeMCBoot/FreeHDBoot — Description",
+        "url": "https://www.psdevwiki.com/ps2/FreeMCBoot/FreeHDBoot#Description",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "FreeMCBoot/FreeHDBoot",
+          "Description",
+          "FreeMCBoot",
+          "FreeHDBoot",
+          "FMCB",
+          "FHDB",
+          "boot exploit"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: FreeMCBoot/FreeHDBoot — Preface",
+        "url": "https://www.psdevwiki.com/ps2/FreeMCBoot/FreeHDBoot#Preface",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "FreeMCBoot/FreeHDBoot",
+          "Preface",
+          "FreeMCBoot",
+          "FreeHDBoot",
+          "FMCB",
+          "FHDB",
+          "boot exploit"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: FreeMCBoot/FreeHDBoot — How To Use",
+        "url": "https://www.psdevwiki.com/ps2/FreeMCBoot/FreeHDBoot#How_To_Use",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "FreeMCBoot/FreeHDBoot",
+          "How To Use",
+          "FreeMCBoot",
+          "FreeHDBoot",
+          "FMCB",
+          "FHDB",
+          "boot exploit"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: FreeMCBoot/FreeHDBoot — Known Bugs",
+        "url": "https://www.psdevwiki.com/ps2/FreeMCBoot/FreeHDBoot#Known_Bugs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "FreeMCBoot/FreeHDBoot",
+          "Known Bugs",
+          "FreeMCBoot",
+          "FreeHDBoot",
+          "FMCB",
+          "FHDB",
+          "boot exploit"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: FreeMCBoot/FreeHDBoot — Additional Notes",
+        "url": "https://www.psdevwiki.com/ps2/FreeMCBoot/FreeHDBoot#Additional_Notes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "FreeMCBoot/FreeHDBoot",
+          "Additional Notes",
+          "FreeMCBoot",
+          "FreeHDBoot",
+          "FMCB",
+          "FHDB",
+          "boot exploit"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: FreeMCBoot/FreeHDBoot — Notes Regarding The Sources",
+        "url": "https://www.psdevwiki.com/ps2/FreeMCBoot/FreeHDBoot#Notes_Regarding_The_Sources",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "FreeMCBoot/FreeHDBoot",
+          "Notes Regarding The Sources",
+          "FreeMCBoot",
+          "FreeHDBoot",
+          "FMCB",
+          "FHDB",
+          "boot exploit"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: FreeMCBoot/FreeHDBoot — Supported Languages",
+        "url": "https://www.psdevwiki.com/ps2/FreeMCBoot/FreeHDBoot#Supported_Languages",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "FreeMCBoot/FreeHDBoot",
+          "Supported Languages",
+          "FreeMCBoot",
+          "FreeHDBoot",
+          "FMCB",
+          "FHDB",
+          "boot exploit"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "Deep section-level PS2 Developer Wiki indexing so individual hardware, software, exploit, boot, storage, and low-level concepts are directly searchable.",
+    "links": [
+      {
+        "name": "PS2DevWiki: Vulnerabilities — Hardware",
+        "url": "https://www.psdevwiki.com/ps2/Vulnerabilities#Hardware",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Vulnerabilities",
+          "Hardware",
+          "vulnerability",
+          "exploit",
+          "security",
+          "swap"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Vulnerabilities — Modchips",
+        "url": "https://www.psdevwiki.com/ps2/Vulnerabilities#Modchips",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Vulnerabilities",
+          "Modchips",
+          "vulnerability",
+          "exploit",
+          "security",
+          "swap"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Vulnerabilities — CD/DVD Swap tricks",
+        "url": "https://www.psdevwiki.com/ps2/Vulnerabilities#CD%2FDVD_Swap_tricks",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Vulnerabilities",
+          "CD/DVD Swap tricks",
+          "vulnerability",
+          "exploit",
+          "security",
+          "swap"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Vulnerabilities — PS2 Disc Swap Trick",
+        "url": "https://www.psdevwiki.com/ps2/Vulnerabilities#PS2_Disc_Swap_Trick",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Vulnerabilities",
+          "PS2 Disc Swap Trick",
+          "vulnerability",
+          "exploit",
+          "security",
+          "swap"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Vulnerabilities — Swap Magic",
+        "url": "https://www.psdevwiki.com/ps2/Vulnerabilities#Swap_Magic",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS2 Developer Wiki",
+          "Vulnerabilities",
+          "Swap Magic",
+          "vulnerability",
+          "exploit",
+          "security",
+          "swap"
+        ]
+      }
+    ]
+  }
+]
