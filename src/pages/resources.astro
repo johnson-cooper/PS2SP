@@ -68,6 +68,7 @@ const ps2Symbols = ["△", "○", "×", "□"];
       interface ApiLink {
         name: string;
         url: string;
+        keywords?: string[];
       }
 
       interface ApiGroup {
@@ -104,6 +105,16 @@ const ps2Symbols = ["△", "○", "×", "□"];
             return new URL(value).hostname.replace(/^www\./, "");
           } catch {
             return "external resource";
+          }
+        }
+
+        function urlTerms(value: string) {
+          try {
+            const parsed = new URL(value);
+            return decodeURIComponent([parsed.pathname, parsed.search, parsed.hash].join(" "))
+              .replace(/[\\/_?&=:#.+%-]+/g, " ");
+          } catch {
+            return value;
           }
         }
 
@@ -202,7 +213,14 @@ const ps2Symbols = ["△", "○", "×", "□"];
                   category: group.category,
                   categoryDescription: group.description,
                   host,
-                  search: [link.name, group.category, host].join(" ").toLowerCase()
+                  search: [
+                    link.name,
+                    group.category,
+                    group.description,
+                    host,
+                    urlTerms(link.url),
+                    ...(link.keywords ?? [])
+                  ].join(" ").toLowerCase()
                 };
               })
             );

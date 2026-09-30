@@ -1,0 +1,445 @@
+[
+  {
+    "category": "Hardware, Mods & Accessories",
+    "description": "Deeply indexed PS2 documentation and reference pages for precise search coverage.",
+    "links": [
+      {
+        "name": "PS2DevWiki: MechaCon Security",
+        "url": "https://www.psdevwiki.com/ps2/MechaCon#Security",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "MechaCon",
+          "security",
+          "MagicGate",
+          "KELF",
+          "disc authentication"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: MechaCon EEPROM Layout",
+        "url": "https://www.psdevwiki.com/ps2/MechaCon#EEPROM_layout",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "MechaCon",
+          "EEPROM",
+          "Dragon",
+          "SPC970"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: MechaCon Error States",
+        "url": "https://www.psdevwiki.com/ps2/MechaCon#Error_states",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "MechaCon",
+          "errors",
+          "LED",
+          "overheat",
+          "fan"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Hard Drive Security and HDDID",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#Security_and_authentication_/_HDDID",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "HDD",
+          "HDDID",
+          "ATA",
+          "security",
+          "authentication"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Hard Drive APA/PFS Storage",
+        "url": "https://www.psdevwiki.com/ps2/Hard_Drive#Partitions",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "HDD",
+          "APA",
+          "PFS",
+          "partition",
+          "storage"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Network Adaptor Ethernet Hardware",
+        "url": "https://www.psdevwiki.com/ps2/Network_Adaptor#Ethernet",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "network adapter",
+          "ethernet",
+          "SMAP",
+          "DEV9",
+          "SPEED"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Network Adaptor HDD Interface",
+        "url": "https://www.psdevwiki.com/ps2/Network_Adaptor#HDD",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "network adapter",
+          "HDD",
+          "IDE",
+          "ATA",
+          "DEV9"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive Optical Pickups",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#Optical_pickup",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "CDVD",
+          "laser",
+          "pickup",
+          "KHS",
+          "SF-HD"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD Drive Mechanics",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Drive#Drive_mechanism",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "CDVD",
+          "drive",
+          "tray",
+          "spindle",
+          "mechanism"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Motherboard Revisions",
+        "url": "https://www.psdevwiki.com/ps2/Motherboards#Motherboards",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "motherboard",
+          "GH",
+          "revision",
+          "chassis",
+          "board"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Deeply indexed PS2 documentation and reference pages for precise search coverage.",
+    "links": [
+      {
+        "name": "PS2DevWiki: EE Physical Memory Map",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#EE_Physical_Memory_Map",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "EE",
+          "Emotion Engine",
+          "memory map",
+          "MMIO",
+          "registers"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: IOP Physical Memory Map",
+        "url": "https://www.psdevwiki.com/ps2/Memory_Map#IOP_Physical_Memory_Map",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "IOP",
+          "memory map",
+          "MMIO",
+          "R3000"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: EE Syscall Table",
+        "url": "https://www.psdevwiki.com/ps2/EE_Syscalls#Syscalls",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "EE",
+          "syscalls",
+          "kernel",
+          "API"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: IRX Module Format",
+        "url": "https://www.psdevwiki.com/ps2/IRX_Files#IRX",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "IRX",
+          "IOP module",
+          "ELF",
+          "module"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: ROM Contents",
+        "url": "https://www.psdevwiki.com/ps2/ROM/Contents#Contents",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "ROM",
+          "ROM0",
+          "ROM1",
+          "EROM",
+          "IOPRP"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: EELOAD Arguments",
+        "url": "https://www.psdevwiki.com/ps2/EELOAD#Parameters",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "EELOAD",
+          "ELF",
+          "arguments",
+          "IOP modules"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "Deeply indexed PS2 documentation and reference pages for precise search coverage.",
+    "links": [
+      {
+        "name": "PS2DevWiki: CDVD N-Commands",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Commands#N-Commands",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "CDVD",
+          "N-command",
+          "MechaCon",
+          "disc"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: CDVD S-Commands",
+        "url": "https://www.psdevwiki.com/ps2/CDVD_Commands#S-Commands",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "CDVD",
+          "S-command",
+          "MechaCon",
+          "secure"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: MagicGate Authentication",
+        "url": "https://www.psdevwiki.com/ps2/MagicGate#Authentication",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "MagicGate",
+          "authentication",
+          "memory card",
+          "KELF"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: PS1DRV Compatibility Layer",
+        "url": "https://www.psdevwiki.com/ps2/PS1DRV#Overview",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PS1DRV",
+          "PS1",
+          "backward compatibility",
+          "PGIF"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Vulnerabilities - PS2 Independence",
+        "url": "https://www.psdevwiki.com/ps2/Vulnerabilities#PS2_Independence",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "exploit",
+          "PS2 Independence",
+          "TITLE.DB",
+          "PS1DRV"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: Vulnerabilities - FreeDVDBoot",
+        "url": "https://www.psdevwiki.com/ps2/Vulnerabilities#FreeDVDBoot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "exploit",
+          "FreeDVDBoot",
+          "DVD player"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: PSX DESR HDD and XMB",
+        "url": "https://www.psdevwiki.com/ps2/PSX#Special_files",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PSX",
+          "DESR",
+          "XMB",
+          "xfrom",
+          "HDD",
+          "xosdmain"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "Deeply indexed PS2 documentation and reference pages for precise search coverage.",
+    "links": [
+      {
+        "name": "PS2DevWiki: FreeDVDBoot Slim Setup",
+        "url": "https://www.psdevwiki.com/ps2/FreeDVDBoot#Slim",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "FreeDVDBoot",
+          "slim",
+          "DVD player",
+          "exploit"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: FreeDVDBoot Phat Setup",
+        "url": "https://www.psdevwiki.com/ps2/FreeDVDBoot#Phat",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "FreeDVDBoot",
+          "fat",
+          "phat",
+          "DVD player",
+          "exploit"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: OPL Compatibility",
+        "url": "https://www.psdevwiki.com/ps2/OPL_-_Open_PS2_Loader#Compatibility",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "OPL",
+          "Open PS2 Loader",
+          "compatibility",
+          "game modes"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: OPL Storage Devices",
+        "url": "https://www.psdevwiki.com/ps2/OPL_-_Open_PS2_Loader#Devices",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "OPL",
+          "USB",
+          "SMB",
+          "HDD",
+          "MX4SIO",
+          "iLink",
+          "BDM"
+        ]
+      },
+      {
+        "name": "PS2DevWiki: FreeMCBoot Compatibility",
+        "url": "https://www.psdevwiki.com/ps2/FreeMCBoot/FreeHDBoot#Compatibility",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "FMCB",
+          "FreeMCBoot",
+          "FHDB",
+          "FreeHDBoot",
+          "compatibility"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PSBBN & PS2 Linux",
+    "description": "Deeply indexed PS2 documentation and reference pages for precise search coverage.",
+    "links": [
+      {
+        "name": "PS2DevWiki: Broadband Navigator Versions",
+        "url": "https://www.psdevwiki.com/ps2/Broadband_Navigator#Versions",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "PSBBN",
+          "Broadband Navigator",
+          "versions",
+          "HDD"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Online Gaming & Network Play",
+    "description": "Deeply indexed PS2 documentation and reference pages for precise search coverage.",
+    "links": [
+      {
+        "name": "PS2DevWiki: DNAS Authentication",
+        "url": "https://www.psdevwiki.com/ps2/DNAS#Authentication",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DevWiki",
+          "DNAS",
+          "online",
+          "authentication",
+          "disc ID"
+        ]
+      }
+    ]
+  }
+]
