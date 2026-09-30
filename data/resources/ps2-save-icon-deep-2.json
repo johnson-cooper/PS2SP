@@ -1,0 +1,185 @@
+[
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "Additional PS2 save-icon, SIO2, memory-card filesystem, icon.sys/ICN and save-format references from independent implementations and mirrors.",
+    "links": [
+      {
+        "name": "eightMB — PS2 Memory Card Image Tool",
+        "url": "https://github.com/sevonj/eightmb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "MCFS",
+          "icon.sys",
+          "ICN",
+          "3D save icon",
+          "texture",
+          "animation"
+        ]
+      },
+      {
+        "name": "PS2SDK Sample — Memory Card icon.sys / ICN Creation",
+        "url": "https://github.com/ps2dev/ps2sdk/blob/master/ee/rpc/memorycard/samples/mc_example.c",
+        "keywords": [
+          "PS2",
+          "PS2SDK",
+          "memory card",
+          "icon.sys",
+          "ICN",
+          "bmp2icon",
+          "sample",
+          "source"
+        ]
+      },
+      {
+        "name": "RedPanda — PS2 SIO2 Documentation",
+        "url": "https://redpanda4552.github.io/ps2-sio2-docs/",
+        "keywords": [
+          "PS2",
+          "SIO2",
+          "memory card",
+          "controller",
+          "serial interface",
+          "protocol",
+          "hardware documentation"
+        ]
+      },
+      {
+        "name": "PCSX2 Reference — PS2 Memory Card File System",
+        "url": "https://github.com/PCSX2/pcsx2/blob/master/pcsx2/Reference/PS2-MemoryCardFileSystem.htm",
+        "keywords": [
+          "PS2",
+          "PCSX2",
+          "memory card filesystem",
+          "MCFS",
+          "ECC",
+          "FAT",
+          "Ross Ridge"
+        ]
+      },
+      {
+        "name": "Aaru Docs Mirror — PlayStation 2 Memory Card File System",
+        "url": "https://github.com/aaru-dps/docs/blob/devel/PlayStation%202%20Memory%20Card%20File%20System.html",
+        "keywords": [
+          "PS2",
+          "memory card filesystem",
+          "MCFS",
+          "technical documentation",
+          "mirror"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — Technical Breakdown of Memory Card FS and Tools",
+        "url": "https://www.ps2savetools.com/2007/07/01/technical-breakdown-of-the-playstation-2-memory-card-file-system-and-tools/",
+        "keywords": [
+          "PS2",
+          "memory card",
+          "filesystem",
+          "MCFS",
+          "PS2 Save Tools",
+          "technical breakdown"
+        ]
+      },
+      {
+        "name": "PS3 Developer Wiki — PS2 Savedata",
+        "url": "https://www.psdevwiki.com/ps3/PS2_Savedata",
+        "keywords": [
+          "PS2",
+          "savedata",
+          "memory card",
+          "PSV",
+          "PSU",
+          "VMC",
+          "PS3",
+          "format"
+        ]
+      },
+      {
+        "name": "Hikari no Yume — Transfer PS2 Saves to PCSX2",
+        "url": "https://hikari.noyu.me/blog/2021-05-23-transferring-ps2-saves-from-memory-card-to-pcsx2.html",
+        "keywords": [
+          "PS2",
+          "memory card",
+          "PCSX2",
+          "PSV Exporter",
+          "mymc",
+          "save transfer",
+          "guide"
+        ]
+      },
+      {
+        "name": "PyPI — ps2mc",
+        "url": "https://pypi.org/project/ps2mc/",
+        "keywords": [
+          "PS2",
+          "memory card",
+          "Python",
+          "MCFS",
+          "save",
+          "library"
+        ]
+      },
+      {
+        "name": "PyPI — ps2mc-browser",
+        "url": "https://pypi.org/project/ps2mc-browser/",
+        "keywords": [
+          "PS2",
+          "memory card",
+          "browser",
+          "Python",
+          "save",
+          "icon"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "Additional PS2 save/icon viewers, converters, HDD-OSD icon packs, and memory-card utilities.",
+    "links": [
+      {
+        "name": "GitHub — caol64/ps2mc-browser",
+        "url": "https://github.com/caol64/ps2mc-browser",
+        "keywords": [
+          "PS2",
+          "memory card",
+          "save browser",
+          "3D icon",
+          "ICN",
+          "RLE",
+          "A1B5G5R5",
+          "export"
+        ]
+      },
+      {
+        "name": "PSX-Place — PSX Icon Pack for HDDOSD",
+        "url": "https://www.psx-place.com/threads/psx-icon-pack-for-hddosd.33655/",
+        "keywords": [
+          "PS2",
+          "HDDOSD",
+          "icon.sys",
+          "ICN",
+          "PSX icons",
+          "Blender",
+          "3D icon",
+          "HDD OSD"
+        ]
+      },
+      {
+        "name": "PSX-Place — HDDOSD Tag Archive",
+        "url": "https://www.psx-place.com/tags/hddosd/",
+        "keywords": [
+          "PS2",
+          "HDDOSD",
+          "HDD OSD",
+          "icons",
+          "APA",
+          "OSDSYS",
+          "browser",
+          "homebrew"
+        ]
+      }
+    ]
+  }
+]
