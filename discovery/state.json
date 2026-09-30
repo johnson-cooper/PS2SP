@@ -490,18 +490,18 @@
           "1185590488",
           "543101941"
         ],
-        "lastScannedAt": "2026-09-30T09:02:30.410Z"
+        "lastScannedAt": "2026-09-30T16:31:42.278Z"
       }
     }
   },
   "lastRun": {
-    "startedAt": "2026-09-30T09:02:30.410Z",
-    "finishedAt": "2026-09-30T09:04:34.976Z",
+    "startedAt": "2026-09-30T16:31:42.278Z",
+    "finishedAt": "2026-09-30T16:33:48.524Z",
     "requests": 350,
     "searchRequests": 12,
-    "published": 3,
-    "queued": 22,
-    "ignored": 142,
+    "published": 2,
+    "queued": 25,
+    "ignored": 139,
     "rechecked": 20,
     "stoppedForRateLimit": true
   }

@@ -1,0 +1,16 @@
+{
+  "repository": "abdelbasitdev-del/platforms-games-app",
+  "repositoryId": "1397436077",
+  "url": "https://github.com/abdelbasitdev-del/platforms-games-app",
+  "description": "Mobile app  build with Flutter & Dart to discover best emulators for retro platforms (psp,ps2,ps3,xbox 360) . Release APK ready.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-09-30T16:31:42.278Z",
+  "checkedAt": "2026-09-30T16:31:42.278Z"
+}
