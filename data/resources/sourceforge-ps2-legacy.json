@@ -1,0 +1,281 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Legacy and surviving SourceForge projects directly tied to PlayStation 2 development, emulation, game creation, ports, and open-source tooling.",
+    "links": [
+      {
+        "name": "SourceForge — PlayLua",
+        "url": "https://sourceforge.net/projects/playlua/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PlayLua",
+          "IDE",
+          "game development",
+          "Lua",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "SourceForge — Experimental PlayStation 2 Emulator",
+        "url": "https://sourceforge.net/projects/eps2emu/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "emulator",
+          "experimental",
+          "legacy"
+        ]
+      },
+      {
+        "name": "SourceForge — PS2 Emulator Framework",
+        "url": "https://sourceforge.net/projects/ps2frame/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "emulator framework",
+          "emulation",
+          "legacy"
+        ]
+      },
+      {
+        "name": "SourceForge — Original PCSX2 Project Archive",
+        "url": "https://sourceforge.net/projects/pcsx2/",
+        "keywords": [
+          "PS2",
+          "PCSX2",
+          "emulator",
+          "legacy releases",
+          "source archive"
+        ]
+      },
+      {
+        "name": "SourceForge — PCSX2 0.8.1 Archive",
+        "url": "https://sourceforge.net/projects/pcsx2/files/PCSX2/0.8.1/",
+        "keywords": [
+          "PS2",
+          "PCSX2",
+          "0.8.1",
+          "old release",
+          "emulator history"
+        ]
+      },
+      {
+        "name": "SourceForge — Play! PlayStation 2 Emulator Mirror",
+        "url": "https://sourceforge.net/projects/play.mirror/",
+        "keywords": [
+          "PS2",
+          "Play!",
+          "PlayStation 2 emulator",
+          "cross platform"
+        ]
+      },
+      {
+        "name": "SourceForge — Rockbot",
+        "url": "https://sourceforge.net/projects/rockbot-game/",
+        "keywords": [
+          "PS2",
+          "Rockbot",
+          "homebrew game",
+          "game engine",
+          "port"
+        ]
+      },
+      {
+        "name": "SourceForge — Bricks-OS",
+        "url": "https://sourceforge.net/projects/bricks-os/",
+        "keywords": [
+          "PS2",
+          "Bricks OS",
+          "operating system",
+          "game consoles",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "SourceForge — 240p Test Suite",
+        "url": "https://sourceforge.net/projects/testsuite240p/",
+        "keywords": [
+          "PS2",
+          "240p Test Suite",
+          "video test",
+          "homebrew",
+          "display",
+          "upscaler"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "Legacy SourceForge utilities and loader projects for OPL, PS2 storage, compatibility databases, and boot workflows.",
+    "links": [
+      {
+        "name": "SourceForge — E2OPL",
+        "url": "https://sourceforge.net/projects/e2opl/",
+        "keywords": [
+          "PS2",
+          "E2OPL",
+          "Open PS2 Loader",
+          "EXT2",
+          "USB",
+          "loader"
+        ]
+      },
+      {
+        "name": "SourceForge — JLojch",
+        "url": "https://sourceforge.net/projects/jlojch/",
+        "keywords": [
+          "PS2",
+          "JLojch",
+          "compatibility database",
+          "HDD",
+          "USB",
+          "network",
+          "OPL"
+        ]
+      },
+      {
+        "name": "SourceForge — JLojch Android",
+        "url": "https://sourceforge.net/projects/jlojchandroid/",
+        "keywords": [
+          "PS2",
+          "JLojch",
+          "Android",
+          "OPL",
+          "PCSX2",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "SourceForge — MementoDiscPatcher",
+        "url": "https://sourceforge.net/projects/mementodiscpatc/",
+        "keywords": [
+          "PS2",
+          "Memento",
+          "disc patcher",
+          "FreeVast",
+          "ESR",
+          "homebrew boot"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PSBBN & PS2 Linux",
+    "description": "SourceForge PS2 Linux, Kernelloader, BlackRhino, Debian, Gentoo, and Sony Linux Toolkit preservation pages.",
+    "links": [
+      {
+        "name": "SourceForge — Kernelloader",
+        "url": "https://sourceforge.net/projects/kernelloader/",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "Kernelloader",
+          "bootloader",
+          "BlackRhino"
+        ]
+      },
+      {
+        "name": "SourceForge — Kernelloader 2.4",
+        "url": "https://sourceforge.net/projects/kernelloader/files/Kernelloader/Kernelloader%202.4/",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "Kernelloader",
+          "2.4",
+          "legacy"
+        ]
+      },
+      {
+        "name": "SourceForge — Kernelloader 3.0",
+        "url": "https://sourceforge.net/projects/kernelloader/files/Kernelloader/Kernelloader%203.0/",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "Kernelloader",
+          "3.0",
+          "slim",
+          "fat"
+        ]
+      },
+      {
+        "name": "SourceForge — PS2 Live Linux DVD v3",
+        "url": "https://sourceforge.net/projects/kernelloader/files/BlackRhino%20Linux%20Distribution/Live%20Linux%20DVD/PS2%20Live%20Linux%20DVD%20v3/",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "BlackRhino",
+          "Live DVD",
+          "Kernelloader"
+        ]
+      },
+      {
+        "name": "SourceForge — PS2 Live Linux USB v5",
+        "url": "https://sourceforge.net/projects/kernelloader/files/BlackRhino%20Linux%20Distribution/Live%20Linux%20USB/PS2%20Live%20Linux%20USB%20v5/",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "BlackRhino",
+          "Live USB",
+          "NetSurf"
+        ]
+      },
+      {
+        "name": "SourceForge — PS2 Debian 5.0",
+        "url": "https://sourceforge.net/projects/kernelloader/files/Debian%205.0/",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "Debian",
+          "Lenny",
+          "Kernelloader"
+        ]
+      },
+      {
+        "name": "SourceForge — Sony Linux Toolkit Archive",
+        "url": "https://sourceforge.net/projects/kernelloader/files/Sony%20Linux%20Toolkit/",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "Sony Linux Toolkit",
+          "official toolkit",
+          "archive"
+        ]
+      },
+      {
+        "name": "SourceForge — Gentoo PS2",
+        "url": "https://sourceforge.net/projects/kernelloader/files/Sony%20Linux%20Toolkit/Package%20Update%20Files/gentoo-ps2/",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "Gentoo",
+          "Sony Linux Toolkit"
+        ]
+      },
+      {
+        "name": "SourceForge — PS2GL Toolkit Update",
+        "url": "https://sourceforge.net/projects/kernelloader/files/Sony%20Linux%20Toolkit/Package%20Update%20Files/ps2gl/",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "PS2GL",
+          "OpenGL",
+          "Sony Linux Toolkit"
+        ]
+      },
+      {
+        "name": "SourceForge — PS2 Linux 2.6 Test Files",
+        "url": "https://sourceforge.net/projects/kernelloader/files/Linux%202.6/Linux%202.6%20Test%20Files%20Version%2011/",
+        "keywords": [
+          "PS2",
+          "Linux 2.6",
+          "kernel",
+          "APA",
+          "gamepad",
+          "Kernelloader"
+        ]
+      }
+    ]
+  }
+]
