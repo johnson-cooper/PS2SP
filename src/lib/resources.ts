@@ -68,6 +68,7 @@ import ps2homebrewGithubDeepGroups from "../../data/resources/ps2homebrew-github
 import userSubmittedPs2LinkGroups from "../../data/resources/user-submitted-ps2-links-2026-09-30.json";
 import ps2DevWikiComDeepGroups from "../../data/resources/ps2devwiki-com-deep.json";
 import ps2DeepExpansionGroups from "../../data/resources/ps2-deep-expansion-2026-09-30.json";
+import crawledLegacyPs2DeepGroups from "../../data/resources/crawled-legacy-ps2-deep-2026-09-30.json";
 
 export interface ResourceLink {
   name: string;
@@ -158,7 +159,8 @@ const allResourceSources = [
   ...(ps2homebrewGithubDeepGroups as ResourceGroup[]),
   ...(userSubmittedPs2LinkGroups as ResourceGroup[]),
   ...(ps2DevWikiComDeepGroups as ResourceGroup[]),
-  ...(ps2DeepExpansionGroups as ResourceGroup[])
+  ...(ps2DeepExpansionGroups as ResourceGroup[]),
+  ...(crawledLegacyPs2DeepGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
