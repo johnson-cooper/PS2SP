@@ -1148,6 +1148,18 @@
         "url": "https://archive.org/details/ps2classics_gui_2.2.3_202209",
         "favicon_url": "",
         "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: NapLink 1.0.1a",
+        "url": "https://archive.org/details/naplink-ps2-v1.0.1a",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: PlayStation 2 MP3 Player",
+        "url": "https://archive.org/details/play-station-2-mp-3-player",
+        "favicon_url": "",
+        "thumbnail_url": ""
       }
     ]
   },
@@ -1518,6 +1530,30 @@
       {
         "name": "Internet Archive: PCSX2 GitHub Source Snapshot (2024-04-28)",
         "url": "https://archive.org/details/github.com-PCSX2-pcsx2_-_2024-04-28_17-15-26",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Beats of Rage PS2 Port",
+        "url": "https://archive.org/details/beats-of-rage-ntsc",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: Cube PS2SDK Sample Demo",
+        "url": "https://archive.org/details/cube_20211117",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: ScummVM 1.7.0 for PS2",
+        "url": "https://archive.org/details/scummvm-1.7.0-ps2",
+        "favicon_url": "",
+        "thumbnail_url": ""
+      },
+      {
+        "name": "Internet Archive: ScummVM Older Platform Binaries with PS2 Builds",
+        "url": "https://archive.org/details/scummvm-oldbin",
         "favicon_url": "",
         "thumbnail_url": ""
       }
