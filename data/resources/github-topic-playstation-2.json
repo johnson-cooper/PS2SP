@@ -1,0 +1,3373 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "GitHub repositories explicitly tagged with the PlayStation 2 topic, including homebrew, tools, emulators, hardware, mods, ports, research, decomps, and related PS2 work.",
+    "links": [
+      {
+        "name": "GitHub: 0x5abe/vifterpreter",
+        "url": "https://github.com/0x5abe/vifterpreter",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "0x5abe",
+          "vifterpreter"
+        ]
+      },
+      {
+        "name": "GitHub: 1theory/Archipelago-ZOE",
+        "url": "https://github.com/1theory/Archipelago-ZOE",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "1theory",
+          "Archipelago",
+          "ZOE"
+        ]
+      },
+      {
+        "name": "GitHub: 78edu/playstation2-bios-extract",
+        "url": "https://github.com/78edu/playstation2-bios-extract",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "78edu",
+          "playstation2",
+          "bios",
+          "extract"
+        ]
+      },
+      {
+        "name": "GitHub: aaaaaaaaaaway/chulip-decomp",
+        "url": "https://github.com/aaaaaaaaaaway/chulip-decomp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "aaaaaaaaaaway",
+          "chulip",
+          "decomp"
+        ]
+      },
+      {
+        "name": "GitHub: allkern/iris",
+        "url": "https://github.com/allkern/iris",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "allkern",
+          "iris"
+        ]
+      },
+      {
+        "name": "GitHub: allkern/r3000d",
+        "url": "https://github.com/allkern/r3000d",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "allkern",
+          "r3000d"
+        ]
+      },
+      {
+        "name": "GitHub: AnimMouse/POPS-binaries",
+        "url": "https://github.com/AnimMouse/POPS-binaries",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "AnimMouse",
+          "POPS",
+          "binaries"
+        ]
+      },
+      {
+        "name": "GitHub: azagramac/linux-kernel-playstation2",
+        "url": "https://github.com/azagramac/linux-kernel-playstation2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "azagramac",
+          "linux",
+          "kernel",
+          "playstation2"
+        ]
+      },
+      {
+        "name": "GitHub: azagramac/ps2-bios-extract-modules",
+        "url": "https://github.com/azagramac/ps2-bios-extract-modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "azagramac",
+          "ps2",
+          "bios",
+          "extract",
+          "modules"
+        ]
+      },
+      {
+        "name": "GitHub: azagramac/ps2-eth",
+        "url": "https://github.com/azagramac/ps2-eth",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "azagramac",
+          "ps2",
+          "eth"
+        ]
+      },
+      {
+        "name": "GitHub: azagramac/ps2-link",
+        "url": "https://github.com/azagramac/ps2-link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "azagramac",
+          "ps2",
+          "link"
+        ]
+      },
+      {
+        "name": "GitHub: BrunoAndradeDinis/Play-v2-cloud",
+        "url": "https://github.com/BrunoAndradeDinis/Play-v2-cloud",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "BrunoAndradeDinis",
+          "Play",
+          "v2",
+          "cloud"
+        ]
+      },
+      {
+        "name": "GitHub: ButterscotchRunner/Butterscotch",
+        "url": "https://github.com/ButterscotchRunner/Butterscotch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "ButterscotchRunner",
+          "Butterscotch"
+        ]
+      },
+      {
+        "name": "GitHub: CosmicScale/PS2-Modetest",
+        "url": "https://github.com/CosmicScale/PS2-Modetest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "CosmicScale",
+          "PS2",
+          "Modetest"
+        ]
+      },
+      {
+        "name": "GitHub: cwadge/junk-drawer",
+        "url": "https://github.com/cwadge/junk-drawer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "cwadge",
+          "junk",
+          "drawer"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/ben10alienforce",
+        "url": "https://github.com/Cwf1997/ben10alienforce",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "ben10alienforce"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/ben10protectorofearth",
+        "url": "https://github.com/Cwf1997/ben10protectorofearth",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "ben10protectorofearth"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/defjamvendetta",
+        "url": "https://github.com/Cwf1997/defjamvendetta",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "defjamvendetta"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/disneysstitchexperiment626",
+        "url": "https://github.com/Cwf1997/disneysstitchexperiment626",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "disneysstitchexperiment626"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/hauntingground",
+        "url": "https://github.com/Cwf1997/hauntingground",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "hauntingground"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/havencalloftheking",
+        "url": "https://github.com/Cwf1997/havencalloftheking",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "havencalloftheking"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/kimpossiblewhatstheswitch",
+        "url": "https://github.com/Cwf1997/kimpossiblewhatstheswitch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "kimpossiblewhatstheswitch"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/kuon",
+        "url": "https://github.com/Cwf1997/kuon",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "kuon"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/monsterhouse",
+        "url": "https://github.com/Cwf1997/monsterhouse",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "monsterhouse"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/monstersinc",
+        "url": "https://github.com/Cwf1997/monstersinc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "monstersinc"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/nicktoonsattackofthetoybots",
+        "url": "https://github.com/Cwf1997/nicktoonsattackofthetoybots",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "nicktoonsattackofthetoybots"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/nicktoonsbattleforvolcanoisland",
+        "url": "https://github.com/Cwf1997/nicktoonsbattleforvolcanoisland",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "nicktoonsbattleforvolcanoisland"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/nicktoonsunite",
+        "url": "https://github.com/Cwf1997/nicktoonsunite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "nicktoonsunite"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/pkoutoftheshadows",
+        "url": "https://github.com/Cwf1997/pkoutoftheshadows",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "pkoutoftheshadows"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/ruleofrose",
+        "url": "https://github.com/Cwf1997/ruleofrose",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "ruleofrose"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/shaunpalmersprosnowboarder",
+        "url": "https://github.com/Cwf1997/shaunpalmersprosnowboarder",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "shaunpalmersprosnowboarder"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/supermanshadowofapokolips",
+        "url": "https://github.com/Cwf1997/supermanshadowofapokolips",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "supermanshadowofapokolips"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/takandtheguardiansofgross",
+        "url": "https://github.com/Cwf1997/takandtheguardiansofgross",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "takandtheguardiansofgross"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/takandthepowerofjuju",
+        "url": "https://github.com/Cwf1997/takandthepowerofjuju",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "takandthepowerofjuju"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/tarzanuntamed",
+        "url": "https://github.com/Cwf1997/tarzanuntamed",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "tarzanuntamed"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/thegrimadventuresofbillyandmandy",
+        "url": "https://github.com/Cwf1997/thegrimadventuresofbillyandmandy",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "thegrimadventuresofbillyandmandy"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/themummyreturns",
+        "url": "https://github.com/Cwf1997/themummyreturns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "themummyreturns"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/thescorpionkingriseoftheakkadian",
+        "url": "https://github.com/Cwf1997/thescorpionkingriseoftheakkadian",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "thescorpionkingriseoftheakkadian"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/thesecretsaturdaysbeastsofthe5thsun",
+        "url": "https://github.com/Cwf1997/thesecretsaturdaysbeastsofthe5thsun",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "thesecretsaturdaysbeastsofthe5thsun"
+        ]
+      },
+      {
+        "name": "GitHub: Cwf1997/treasureplanet",
+        "url": "https://github.com/Cwf1997/treasureplanet",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Cwf1997",
+          "treasureplanet"
+        ]
+      },
+      {
+        "name": "GitHub: dhustkoder/pschip8",
+        "url": "https://github.com/dhustkoder/pschip8",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "dhustkoder",
+          "pschip8"
+        ]
+      },
+      {
+        "name": "GitHub: eric-wen-dev-it/PCSXMemoryEditor",
+        "url": "https://github.com/eric-wen-dev-it/PCSXMemoryEditor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "eric",
+          "wen",
+          "dev",
+          "it",
+          "PCSXMemoryEditor"
+        ]
+      },
+      {
+        "name": "GitHub: Fantaskink/SOTC",
+        "url": "https://github.com/Fantaskink/SOTC",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Fantaskink",
+          "SOTC"
+        ]
+      },
+      {
+        "name": "GitHub: FatBaldDad/PS2-Button-Butler",
+        "url": "https://github.com/FatBaldDad/PS2-Button-Butler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "FatBaldDad",
+          "PS2",
+          "Button",
+          "Butler"
+        ]
+      },
+      {
+        "name": "GitHub: FatBaldDad/PS2-Chip-Slayer",
+        "url": "https://github.com/FatBaldDad/PS2-Chip-Slayer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "FatBaldDad",
+          "PS2",
+          "Chip",
+          "Slayer"
+        ]
+      },
+      {
+        "name": "GitHub: FatBaldDad/PS2-Layzr-Savre",
+        "url": "https://github.com/FatBaldDad/PS2-Layzr-Savre",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "FatBaldDad",
+          "PS2",
+          "Layzr",
+          "Savre"
+        ]
+      },
+      {
+        "name": "GitHub: FatBaldDad/PS2-PICfix2",
+        "url": "https://github.com/FatBaldDad/PS2-PICfix2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "FatBaldDad",
+          "PS2",
+          "PICfix2"
+        ]
+      },
+      {
+        "name": "GitHub: FeelipeRibeiro/ARMSX2-compat",
+        "url": "https://github.com/FeelipeRibeiro/ARMSX2-compat",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "FeelipeRibeiro",
+          "ARMSX2",
+          "compat"
+        ]
+      },
+      {
+        "name": "GitHub: FranklyGD/Playstation-2-Clock",
+        "url": "https://github.com/FranklyGD/Playstation-2-Clock",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "FranklyGD",
+          "Playstation",
+          "2",
+          "Clock"
+        ]
+      },
+      {
+        "name": "GitHub: FrankoU28/ColdWinterPS2_Model_Viewer",
+        "url": "https://github.com/FrankoU28/ColdWinterPS2_Model_Viewer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "FrankoU28",
+          "ColdWinterPS2",
+          "Model",
+          "Viewer"
+        ]
+      },
+      {
+        "name": "GitHub: gdomingues/ps2-klient",
+        "url": "https://github.com/gdomingues/ps2-klient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "gdomingues",
+          "ps2",
+          "klient"
+        ]
+      },
+      {
+        "name": "GitHub: gecm0/POUM",
+        "url": "https://github.com/gecm0/POUM",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "gecm0",
+          "POUM"
+        ]
+      },
+      {
+        "name": "GitHub: GithubPrankster/ps2kit",
+        "url": "https://github.com/GithubPrankster/ps2kit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "GithubPrankster",
+          "ps2kit"
+        ]
+      },
+      {
+        "name": "GitHub: GiuseppePorcheddu/PsxLib",
+        "url": "https://github.com/GiuseppePorcheddu/PsxLib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "GiuseppePorcheddu",
+          "PsxLib"
+        ]
+      },
+      {
+        "name": "GitHub: glampert/ps2-homebrew",
+        "url": "https://github.com/glampert/ps2-homebrew",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "glampert",
+          "ps2",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "GitHub: GrantBenR/PS2-VAG-Extract-Rust",
+        "url": "https://github.com/GrantBenR/PS2-VAG-Extract-Rust",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "GrantBenR",
+          "PS2",
+          "VAG",
+          "Extract",
+          "Rust"
+        ]
+      },
+      {
+        "name": "GitHub: Gui-Tora/dmc-recomp",
+        "url": "https://github.com/Gui-Tora/dmc-recomp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Gui",
+          "Tora",
+          "dmc",
+          "recomp"
+        ]
+      },
+      {
+        "name": "GitHub: Gundorada-Workshop/OpenCloud",
+        "url": "https://github.com/Gundorada-Workshop/OpenCloud",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Gundorada",
+          "Workshop",
+          "OpenCloud"
+        ]
+      },
+      {
+        "name": "GitHub: h4570/tyra",
+        "url": "https://github.com/h4570/tyra",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "h4570",
+          "tyra"
+        ]
+      },
+      {
+        "name": "GitHub: hashsploit/clank",
+        "url": "https://github.com/hashsploit/clank",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "hashsploit",
+          "clank"
+        ]
+      },
+      {
+        "name": "GitHub: hashsploit/medius-crypto",
+        "url": "https://github.com/hashsploit/medius-crypto",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "hashsploit",
+          "medius",
+          "crypto"
+        ]
+      },
+      {
+        "name": "GitHub: hashsploit/packet-captures",
+        "url": "https://github.com/hashsploit/packet-captures",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "hashsploit",
+          "packet",
+          "captures"
+        ]
+      },
+      {
+        "name": "GitHub: hitchhikr/unzx0_mips",
+        "url": "https://github.com/hitchhikr/unzx0_mips",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "hitchhikr",
+          "unzx0",
+          "mips"
+        ]
+      },
+      {
+        "name": "GitHub: hopesgit/Budokai3AP",
+        "url": "https://github.com/hopesgit/Budokai3AP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "hopesgit",
+          "Budokai3AP"
+        ]
+      },
+      {
+        "name": "GitHub: httin/autonomous-vehicle",
+        "url": "https://github.com/httin/autonomous-vehicle",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "httin",
+          "autonomous",
+          "vehicle"
+        ]
+      },
+      {
+        "name": "GitHub: HunterStanton/JAM-Unpacker",
+        "url": "https://github.com/HunterStanton/JAM-Unpacker",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "HunterStanton",
+          "JAM",
+          "Unpacker"
+        ]
+      },
+      {
+        "name": "GitHub: infval/Fceumm-PS2",
+        "url": "https://github.com/infval/Fceumm-PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "infval",
+          "Fceumm",
+          "PS2"
+        ]
+      },
+      {
+        "name": "GitHub: infval/PSMS-Reloaded-New",
+        "url": "https://github.com/infval/PSMS-Reloaded-New",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "infval",
+          "PSMS",
+          "Reloaded",
+          "New"
+        ]
+      },
+      {
+        "name": "GitHub: infval/pzzcompressor_jojo",
+        "url": "https://github.com/infval/pzzcompressor_jojo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "infval",
+          "pzzcompressor",
+          "jojo"
+        ]
+      },
+      {
+        "name": "GitHub: ishiyakazuo/snes2ps",
+        "url": "https://github.com/ishiyakazuo/snes2ps",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "ishiyakazuo",
+          "snes2ps"
+        ]
+      },
+      {
+        "name": "GitHub: jgdscarvalho/CE-Toolkit",
+        "url": "https://github.com/jgdscarvalho/CE-Toolkit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "jgdscarvalho",
+          "CE",
+          "Toolkit"
+        ]
+      },
+      {
+        "name": "GitHub: jmgk77/CHIP8",
+        "url": "https://github.com/jmgk77/CHIP8",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "jmgk77",
+          "CHIP8"
+        ]
+      },
+      {
+        "name": "GitHub: jonnypaes/hl1-ps2-gui-sdk",
+        "url": "https://github.com/jonnypaes/hl1-ps2-gui-sdk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "jonnypaes",
+          "hl1",
+          "ps2",
+          "gui",
+          "sdk"
+        ]
+      },
+      {
+        "name": "GitHub: jonnypaes/ps2cd",
+        "url": "https://github.com/jonnypaes/ps2cd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "jonnypaes",
+          "ps2cd"
+        ]
+      },
+      {
+        "name": "GitHub: joukop/ESF-file-format",
+        "url": "https://github.com/joukop/ESF-file-format",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "joukop",
+          "ESF",
+          "file",
+          "format"
+        ]
+      },
+      {
+        "name": "GitHub: jpd002/Play-",
+        "url": "https://github.com/jpd002/Play-",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "jpd002",
+          "Play"
+        ]
+      },
+      {
+        "name": "GitHub: Kannagi/LMP3D",
+        "url": "https://github.com/Kannagi/LMP3D",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Kannagi",
+          "LMP3D"
+        ]
+      },
+      {
+        "name": "GitHub: karwakamu/WWtBaMPS2tool",
+        "url": "https://github.com/karwakamu/WWtBaMPS2tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "karwakamu",
+          "WWtBaMPS2tool"
+        ]
+      },
+      {
+        "name": "GitHub: kelsno/ps2dev-converter",
+        "url": "https://github.com/kelsno/ps2dev-converter",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "kelsno",
+          "ps2dev",
+          "converter"
+        ]
+      },
+      {
+        "name": "GitHub: Kevin-Do/Playstation2Intro",
+        "url": "https://github.com/Kevin-Do/Playstation2Intro",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Kevin",
+          "Do",
+          "Playstation2Intro"
+        ]
+      },
+      {
+        "name": "GitHub: Kolyadual/dualgamingcentre",
+        "url": "https://github.com/Kolyadual/dualgamingcentre",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Kolyadual",
+          "dualgamingcentre"
+        ]
+      },
+      {
+        "name": "GitHub: L1games/jps2-jar",
+        "url": "https://github.com/L1games/jps2-jar",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "L1games",
+          "jps2",
+          "jar"
+        ]
+      },
+      {
+        "name": "GitHub: leidav/ps2-cmake-template",
+        "url": "https://github.com/leidav/ps2-cmake-template",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "leidav",
+          "ps2",
+          "cmake",
+          "template"
+        ]
+      },
+      {
+        "name": "GitHub: LMauricius/EmuDiscer",
+        "url": "https://github.com/LMauricius/EmuDiscer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "LMauricius",
+          "EmuDiscer"
+        ]
+      },
+      {
+        "name": "GitHub: madrxx/hoihoi-en",
+        "url": "https://github.com/madrxx/hoihoi-en",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "madrxx",
+          "hoihoi",
+          "en"
+        ]
+      },
+      {
+        "name": "GitHub: MaiRiosIPla/Buzzers",
+        "url": "https://github.com/MaiRiosIPla/Buzzers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "MaiRiosIPla",
+          "Buzzers"
+        ]
+      },
+      {
+        "name": "GitHub: Mark65537/saves-Playstation2",
+        "url": "https://github.com/Mark65537/saves-Playstation2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Mark65537",
+          "saves",
+          "Playstation2"
+        ]
+      },
+      {
+        "name": "GitHub: MarkusMaal/FlipnicPatterns",
+        "url": "https://github.com/MarkusMaal/FlipnicPatterns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "MarkusMaal",
+          "FlipnicPatterns"
+        ]
+      },
+      {
+        "name": "GitHub: Matisiowy/MikosCraft",
+        "url": "https://github.com/Matisiowy/MikosCraft",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Matisiowy",
+          "MikosCraft"
+        ]
+      },
+      {
+        "name": "GitHub: matlo/GIMX",
+        "url": "https://github.com/matlo/GIMX",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "matlo",
+          "GIMX"
+        ]
+      },
+      {
+        "name": "GitHub: mewmewdevart/DevCommunityPortfolioChallenge2026",
+        "url": "https://github.com/mewmewdevart/DevCommunityPortfolioChallenge2026",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "mewmewdevart",
+          "DevCommunityPortfolioChallenge2026"
+        ]
+      },
+      {
+        "name": "GitHub: mholeys/roadtrip-choroq-tools",
+        "url": "https://github.com/mholeys/roadtrip-choroq-tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "mholeys",
+          "roadtrip",
+          "choroq",
+          "tools"
+        ]
+      },
+      {
+        "name": "GitHub: Mikompilation/Obscura",
+        "url": "https://github.com/Mikompilation/Obscura",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Mikompilation",
+          "Obscura"
+        ]
+      },
+      {
+        "name": "GitHub: mirou1611/AstraRecomp",
+        "url": "https://github.com/mirou1611/AstraRecomp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "mirou1611",
+          "AstraRecomp"
+        ]
+      },
+      {
+        "name": "GitHub: mostdak1ng/The-Warriors-Freecam",
+        "url": "https://github.com/mostdak1ng/The-Warriors-Freecam",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "mostdak1ng",
+          "The",
+          "Warriors",
+          "Freecam"
+        ]
+      },
+      {
+        "name": "GitHub: MrPowerGamerBR/FlappyFuralhaPS2",
+        "url": "https://github.com/MrPowerGamerBR/FlappyFuralhaPS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "MrPowerGamerBR",
+          "FlappyFuralhaPS2"
+        ]
+      },
+      {
+        "name": "GitHub: msaifuddin/SoulCalibur2",
+        "url": "https://github.com/msaifuddin/SoulCalibur2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "msaifuddin",
+          "SoulCalibur2"
+        ]
+      },
+      {
+        "name": "GitHub: mustang86/ffxii-archades-pinewood-chops-map",
+        "url": "https://github.com/mustang86/ffxii-archades-pinewood-chops-map",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "mustang86",
+          "ffxii",
+          "archades",
+          "pinewood",
+          "chops",
+          "map"
+        ]
+      },
+      {
+        "name": "GitHub: N0N0/USBInsanity",
+        "url": "https://github.com/N0N0/USBInsanity",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "N0N0",
+          "USBInsanity"
+        ]
+      },
+      {
+        "name": "GitHub: nandanhere/PiPyPS2",
+        "url": "https://github.com/nandanhere/PiPyPS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "nandanhere",
+          "PiPyPS2"
+        ]
+      },
+      {
+        "name": "GitHub: native-m/VU0Math",
+        "url": "https://github.com/native-m/VU0Math",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "native",
+          "m",
+          "VU0Math"
+        ]
+      },
+      {
+        "name": "GitHub: NiV-L-A/CLPS2C",
+        "url": "https://github.com/NiV-L-A/CLPS2C",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "NiV",
+          "L",
+          "A",
+          "CLPS2C"
+        ]
+      },
+      {
+        "name": "GitHub: NiV-L-A/CLPS2C-Compiler",
+        "url": "https://github.com/NiV-L-A/CLPS2C-Compiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "NiV",
+          "L",
+          "A",
+          "CLPS2C",
+          "Compiler"
+        ]
+      },
+      {
+        "name": "GitHub: NiV-L-A/vscode-clps2c",
+        "url": "https://github.com/NiV-L-A/vscode-clps2c",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "NiV",
+          "L",
+          "A",
+          "vscode",
+          "clps2c"
+        ]
+      },
+      {
+        "name": "GitHub: NotEnoughPhotons/reCOM",
+        "url": "https://github.com/NotEnoughPhotons/reCOM",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "NotEnoughPhotons",
+          "reCOM"
+        ]
+      },
+      {
+        "name": "GitHub: npiriou/mountainizer",
+        "url": "https://github.com/npiriou/mountainizer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "npiriou",
+          "mountainizer"
+        ]
+      },
+      {
+        "name": "GitHub: obiot/NeoCD-PS2",
+        "url": "https://github.com/obiot/NeoCD-PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "obiot",
+          "NeoCD",
+          "PS2"
+        ]
+      },
+      {
+        "name": "GitHub: obiot/Pang-ps2",
+        "url": "https://github.com/obiot/Pang-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "obiot",
+          "Pang",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub: OdeRelic/OdeRelic",
+        "url": "https://github.com/OdeRelic/OdeRelic",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "OdeRelic",
+          "OdeRelic"
+        ]
+      },
+      {
+        "name": "GitHub: ookii-tsuki/ps2-playground",
+        "url": "https://github.com/ookii-tsuki/ps2-playground",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "ookii",
+          "tsuki",
+          "ps2",
+          "playground"
+        ]
+      },
+      {
+        "name": "GitHub: Pablitus666/PS2Tools",
+        "url": "https://github.com/Pablitus666/PS2Tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Pablitus666",
+          "PS2Tools"
+        ]
+      },
+      {
+        "name": "GitHub: ps2homebrew/Fceumm-PS2",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "ps2homebrew",
+          "Fceumm",
+          "PS2"
+        ]
+      },
+      {
+        "name": "GitHub: PSRewired/netslum-web",
+        "url": "https://github.com/PSRewired/netslum-web",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "PSRewired",
+          "netslum",
+          "web"
+        ]
+      },
+      {
+        "name": "GitHub: PSRewired/RetroDNS",
+        "url": "https://github.com/PSRewired/RetroDNS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "PSRewired",
+          "RetroDNS"
+        ]
+      },
+      {
+        "name": "GitHub: Quincunx33/PS2-WebXperience",
+        "url": "https://github.com/Quincunx33/PS2-WebXperience",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Quincunx33",
+          "PS2",
+          "WebXperience"
+        ]
+      },
+      {
+        "name": "GitHub: Raikaru/mwccps2-debugger",
+        "url": "https://github.com/Raikaru/mwccps2-debugger",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Raikaru",
+          "mwccps2",
+          "debugger"
+        ]
+      },
+      {
+        "name": "GitHub: Raikaru/Persona4-Decompilation",
+        "url": "https://github.com/Raikaru/Persona4-Decompilation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Raikaru",
+          "Persona4",
+          "Decompilation"
+        ]
+      },
+      {
+        "name": "GitHub: ravenDS/flatout-blender-tools",
+        "url": "https://github.com/ravenDS/flatout-blender-tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "ravenDS",
+          "flatout",
+          "blender",
+          "tools"
+        ]
+      },
+      {
+        "name": "GitHub: Rickow/lecteur-ps2",
+        "url": "https://github.com/Rickow/lecteur-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Rickow",
+          "lecteur",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub: Rider-UwU-Black/R2Engine",
+        "url": "https://github.com/Rider-UwU-Black/R2Engine",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Rider",
+          "UwU",
+          "Black",
+          "R2Engine"
+        ]
+      },
+      {
+        "name": "GitHub: RompEmu/RompEmu",
+        "url": "https://github.com/RompEmu/RompEmu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "RompEmu",
+          "RompEmu"
+        ]
+      },
+      {
+        "name": "GitHub: SaifRJ/playstation-2-ltra",
+        "url": "https://github.com/SaifRJ/playstation-2-ltra",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "SaifRJ",
+          "playstation",
+          "2",
+          "ltra"
+        ]
+      },
+      {
+        "name": "GitHub: saildot4k/PS2_PicFix_Flex_Cables",
+        "url": "https://github.com/saildot4k/PS2_PicFix_Flex_Cables",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "saildot4k",
+          "PS2",
+          "PicFix",
+          "Flex",
+          "Cables"
+        ]
+      },
+      {
+        "name": "GitHub: sammwyy/jellyfish",
+        "url": "https://github.com/sammwyy/jellyfish",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "sammwyy",
+          "jellyfish"
+        ]
+      },
+      {
+        "name": "GitHub: sammwyy/ps2-homebrew-sample",
+        "url": "https://github.com/sammwyy/ps2-homebrew-sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "sammwyy",
+          "ps2",
+          "homebrew",
+          "sample"
+        ]
+      },
+      {
+        "name": "GitHub: Saupernova13/pcsxroo",
+        "url": "https://github.com/Saupernova13/pcsxroo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Saupernova13",
+          "pcsxroo"
+        ]
+      },
+      {
+        "name": "GitHub: Scotho/socom-unzipped",
+        "url": "https://github.com/Scotho/socom-unzipped",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Scotho",
+          "socom",
+          "unzipped"
+        ]
+      },
+      {
+        "name": "GitHub: SgtBilko76/ARMSX2-3D",
+        "url": "https://github.com/SgtBilko76/ARMSX2-3D",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "SgtBilko76",
+          "ARMSX2",
+          "3D"
+        ]
+      },
+      {
+        "name": "GitHub: ShrNme/TM3_Tools",
+        "url": "https://github.com/ShrNme/TM3_Tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "ShrNme",
+          "TM3",
+          "Tools"
+        ]
+      },
+      {
+        "name": "GitHub: ShyavanS/NTPS2",
+        "url": "https://github.com/ShyavanS/NTPS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "ShyavanS",
+          "NTPS2"
+        ]
+      },
+      {
+        "name": "GitHub: sigmaco/rwsdk-v3.1-ps2",
+        "url": "https://github.com/sigmaco/rwsdk-v3.1-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "sigmaco",
+          "rwsdk",
+          "v3",
+          "1",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub: sigmaco/rwsdk-v3.5-ps2",
+        "url": "https://github.com/sigmaco/rwsdk-v3.5-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "sigmaco",
+          "rwsdk",
+          "v3",
+          "5",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub: SOM3-1/Retro",
+        "url": "https://github.com/SOM3-1/Retro",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "SOM3",
+          "1",
+          "Retro"
+        ]
+      },
+      {
+        "name": "GitHub: Speedy11CZ/clank",
+        "url": "https://github.com/Speedy11CZ/clank",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Speedy11CZ",
+          "clank"
+        ]
+      },
+      {
+        "name": "GitHub: SukkoPera/PsxNewLib",
+        "url": "https://github.com/SukkoPera/PsxNewLib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "SukkoPera",
+          "PsxNewLib"
+        ]
+      },
+      {
+        "name": "GitHub: swosho/ps2-bankmod-batch",
+        "url": "https://github.com/swosho/ps2-bankmod-batch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "swosho",
+          "ps2",
+          "bankmod",
+          "batch"
+        ]
+      },
+      {
+        "name": "GitHub: tatokis/libxmp-lite-ps2",
+        "url": "https://github.com/tatokis/libxmp-lite-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "tatokis",
+          "libxmp",
+          "lite",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub: Tatsh/resonance",
+        "url": "https://github.com/Tatsh/resonance",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Tatsh",
+          "resonance"
+        ]
+      },
+      {
+        "name": "GitHub: TeamOrbi/Project-Cortex",
+        "url": "https://github.com/TeamOrbi/Project-Cortex",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "TeamOrbi",
+          "Project",
+          "Cortex"
+        ]
+      },
+      {
+        "name": "GitHub: terremoth/athenaenv-pkgs",
+        "url": "https://github.com/terremoth/athenaenv-pkgs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "terremoth",
+          "athenaenv",
+          "pkgs"
+        ]
+      },
+      {
+        "name": "GitHub: terremoth/zeus-pm",
+        "url": "https://github.com/terremoth/zeus-pm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "terremoth",
+          "zeus",
+          "pm"
+        ]
+      },
+      {
+        "name": "GitHub: teuzowebdeveloper9/play-with-claude",
+        "url": "https://github.com/teuzowebdeveloper9/play-with-claude",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "teuzowebdeveloper9",
+          "play",
+          "with",
+          "claude"
+        ]
+      },
+      {
+        "name": "GitHub: TheFakeMontyOnTheRun/space-trashman-blues",
+        "url": "https://github.com/TheFakeMontyOnTheRun/space-trashman-blues",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "TheFakeMontyOnTheRun",
+          "space",
+          "trashman",
+          "blues"
+        ]
+      },
+      {
+        "name": "GitHub: Theldus/NIM",
+        "url": "https://github.com/Theldus/NIM",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Theldus",
+          "NIM"
+        ]
+      },
+      {
+        "name": "GitHub: TheMorc/MilkyTrackerPS2",
+        "url": "https://github.com/TheMorc/MilkyTrackerPS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "TheMorc",
+          "MilkyTrackerPS2"
+        ]
+      },
+      {
+        "name": "GitHub: TheOnlyZac/sly1",
+        "url": "https://github.com/TheOnlyZac/sly1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "TheOnlyZac",
+          "sly1"
+        ]
+      },
+      {
+        "name": "GitHub: ticky/homebrew-playstation",
+        "url": "https://github.com/ticky/homebrew-playstation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "ticky",
+          "homebrew",
+          "playstation"
+        ]
+      },
+      {
+        "name": "GitHub: ticky/ps2icon",
+        "url": "https://github.com/ticky/ps2icon",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "ticky",
+          "ps2icon"
+        ]
+      },
+      {
+        "name": "GitHub: ticky/ps2iconsys",
+        "url": "https://github.com/ticky/ps2iconsys",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "ticky",
+          "ps2iconsys"
+        ]
+      },
+      {
+        "name": "GitHub: TimoSalomaki/EmotionEngineDisassembler",
+        "url": "https://github.com/TimoSalomaki/EmotionEngineDisassembler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "TimoSalomaki",
+          "EmotionEngineDisassembler"
+        ]
+      },
+      {
+        "name": "GitHub: turnimator/ps2pi",
+        "url": "https://github.com/turnimator/ps2pi",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "turnimator",
+          "ps2pi"
+        ]
+      },
+      {
+        "name": "GitHub: valters-tomsons/Spectabis",
+        "url": "https://github.com/valters-tomsons/Spectabis",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "valters",
+          "tomsons",
+          "Spectabis"
+        ]
+      },
+      {
+        "name": "GitHub: Venomalia/HDcube",
+        "url": "https://github.com/Venomalia/HDcube",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Venomalia",
+          "HDcube"
+        ]
+      },
+      {
+        "name": "GitHub: Veryzon/rwsdk-v3.1-ps2",
+        "url": "https://github.com/Veryzon/rwsdk-v3.1-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Veryzon",
+          "rwsdk",
+          "v3",
+          "1",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub: vs-sr-dev/pc-extermination",
+        "url": "https://github.com/vs-sr-dev/pc-extermination",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "vs",
+          "sr",
+          "dev",
+          "pc",
+          "extermination"
+        ]
+      },
+      {
+        "name": "GitHub: vs-sr-dev/pc-rpgmaker3",
+        "url": "https://github.com/vs-sr-dev/pc-rpgmaker3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "vs",
+          "sr",
+          "dev",
+          "pc",
+          "rpgmaker3"
+        ]
+      },
+      {
+        "name": "GitHub: wasaylor/r5900-opcodes",
+        "url": "https://github.com/wasaylor/r5900-opcodes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "wasaylor",
+          "r5900",
+          "opcodes"
+        ]
+      },
+      {
+        "name": "GitHub: wasaylor/unzap",
+        "url": "https://github.com/wasaylor/unzap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "wasaylor",
+          "unzap"
+        ]
+      },
+      {
+        "name": "GitHub: WhatAboutGaming/Twitch-Plays-Stuff",
+        "url": "https://github.com/WhatAboutGaming/Twitch-Plays-Stuff",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "WhatAboutGaming",
+          "Twitch",
+          "Plays",
+          "Stuff"
+        ]
+      },
+      {
+        "name": "GitHub: williamdc92/Ps2Builder",
+        "url": "https://github.com/williamdc92/Ps2Builder",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "williamdc92",
+          "Ps2Builder"
+        ]
+      },
+      {
+        "name": "GitHub: xan1242/GT3FreeCam",
+        "url": "https://github.com/xan1242/GT3FreeCam",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "xan1242",
+          "GT3FreeCam"
+        ]
+      },
+      {
+        "name": "GitHub: xan1242/GT3NoInterlace",
+        "url": "https://github.com/xan1242/GT3NoInterlace",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "xan1242",
+          "GT3NoInterlace"
+        ]
+      },
+      {
+        "name": "GitHub: xan1242/GT4Twitch",
+        "url": "https://github.com/xan1242/GT4Twitch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "xan1242",
+          "GT4Twitch"
+        ]
+      },
+      {
+        "name": "GitHub: xan1242/gtseq2midi",
+        "url": "https://github.com/xan1242/gtseq2midi",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "xan1242",
+          "gtseq2midi"
+        ]
+      },
+      {
+        "name": "GitHub: xan1242/MC3CarRandomizer",
+        "url": "https://github.com/xan1242/MC3CarRandomizer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "xan1242",
+          "MC3CarRandomizer"
+        ]
+      },
+      {
+        "name": "GitHub: xan1242/NFSMW-PS2-ICE",
+        "url": "https://github.com/xan1242/NFSMW-PS2-ICE",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "xan1242",
+          "NFSMW",
+          "PS2",
+          "ICE"
+        ]
+      },
+      {
+        "name": "GitHub: xaskasdf/ps2_model_demo",
+        "url": "https://github.com/xaskasdf/ps2_model_demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "xaskasdf",
+          "ps2",
+          "model",
+          "demo"
+        ]
+      },
+      {
+        "name": "GitHub: yumboy11/POS2",
+        "url": "https://github.com/yumboy11/POS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "yumboy11",
+          "POS2"
+        ]
+      },
+      {
+        "name": "GitHub: zihang-huang/sin",
+        "url": "https://github.com/zihang-huang/sin",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "zihang",
+          "huang",
+          "sin"
+        ]
+      },
+      {
+        "name": "GitHub: zzamizz/weed-sheet",
+        "url": "https://github.com/zzamizz/weed-sheet",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "zzamizz",
+          "weed",
+          "sheet"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Online Gaming & Network Play",
+    "description": "GitHub repositories explicitly tagged with the PlayStation 2 topic, including homebrew, tools, emulators, hardware, mods, ports, research, decomps, and related PS2 work.",
+    "links": [
+      {
+        "name": "GitHub: FoRTu/docker-ps2smb",
+        "url": "https://github.com/FoRTu/docker-ps2smb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "FoRTu",
+          "docker",
+          "ps2smb"
+        ]
+      },
+      {
+        "name": "GitHub: GorGylka/Server2PS2",
+        "url": "https://github.com/GorGylka/Server2PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "GorGylka",
+          "Server2PS2"
+        ]
+      },
+      {
+        "name": "GitHub: GorGylka/UDPBD-A5-V11",
+        "url": "https://github.com/GorGylka/UDPBD-A5-V11",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "GorGylka",
+          "UDPBD",
+          "A5",
+          "V11"
+        ]
+      },
+      {
+        "name": "GitHub: joukop/EQOA-server",
+        "url": "https://github.com/joukop/EQOA-server",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "joukop",
+          "EQOA",
+          "server"
+        ]
+      },
+      {
+        "name": "GitHub: lucasonline0/opl-linux-toolbox",
+        "url": "https://github.com/lucasonline0/opl-linux-toolbox",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "lucasonline0",
+          "opl",
+          "linux",
+          "toolbox"
+        ]
+      },
+      {
+        "name": "GitHub: PSRewired/FragmentServer",
+        "url": "https://github.com/PSRewired/FragmentServer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "PSRewired",
+          "FragmentServer"
+        ]
+      },
+      {
+        "name": "GitHub: Trixarian/NetherSX2-classic",
+        "url": "https://github.com/Trixarian/NetherSX2-classic",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Trixarian",
+          "NetherSX2",
+          "classic"
+        ]
+      },
+      {
+        "name": "GitHub: Trixarian/NetherSX2-patch",
+        "url": "https://github.com/Trixarian/NetherSX2-patch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Trixarian",
+          "NetherSX2",
+          "patch"
+        ]
+      },
+      {
+        "name": "GitHub: YAGAMI55/udpfsd_opizerolts_openwrt",
+        "url": "https://github.com/YAGAMI55/udpfsd_opizerolts_openwrt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "YAGAMI55",
+          "udpfsd",
+          "opizerolts",
+          "openwrt"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PSBBN & PS2 Linux",
+    "description": "GitHub repositories explicitly tagged with the PlayStation 2 topic, including homebrew, tools, emulators, hardware, mods, ports, research, decomps, and related PS2 work.",
+    "links": [
+      {
+        "name": "GitHub: CosmicScale/psbbn-art-database",
+        "url": "https://github.com/CosmicScale/psbbn-art-database",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "CosmicScale",
+          "psbbn",
+          "art",
+          "database"
+        ]
+      },
+      {
+        "name": "GitHub: CosmicScale/PSBBN-Definitive-Project",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "CosmicScale",
+          "PSBBN",
+          "Definitive",
+          "Project"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "GitHub repositories explicitly tagged with the PlayStation 2 topic, including homebrew, tools, emulators, hardware, mods, ports, research, decomps, and related PS2 work.",
+    "links": [
+      {
+        "name": "GitHub: aleelyoshi/FreeDVDBoot-YoshiMod",
+        "url": "https://github.com/aleelyoshi/FreeDVDBoot-YoshiMod",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "aleelyoshi",
+          "FreeDVDBoot",
+          "YoshiMod"
+        ]
+      },
+      {
+        "name": "GitHub: azagramac/fsOPL",
+        "url": "https://github.com/azagramac/fsOPL",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "azagramac",
+          "fsOPL"
+        ]
+      },
+      {
+        "name": "GitHub: binkynz/ps2-usbhdl",
+        "url": "https://github.com/binkynz/ps2-usbhdl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "binkynz",
+          "ps2",
+          "usbhdl"
+        ]
+      },
+      {
+        "name": "GitHub: brainstream/OPL-PC-Tools",
+        "url": "https://github.com/brainstream/OPL-PC-Tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "brainstream",
+          "OPL",
+          "PC",
+          "Tools"
+        ]
+      },
+      {
+        "name": "GitHub: brunlx/OPL-Future---BETA",
+        "url": "https://github.com/brunlx/OPL-Future---BETA",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "brunlx",
+          "OPL",
+          "Future",
+          "BETA"
+        ]
+      },
+      {
+        "name": "GitHub: desrdev/ghidra-fr60",
+        "url": "https://github.com/desrdev/ghidra-fr60",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "desrdev",
+          "ghidra",
+          "fr60"
+        ]
+      },
+      {
+        "name": "GitHub: dheison0/ps2-game-manager",
+        "url": "https://github.com/dheison0/ps2-game-manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "dheison0",
+          "ps2",
+          "game",
+          "manager"
+        ]
+      },
+      {
+        "name": "GitHub: G4brym/mymc-py",
+        "url": "https://github.com/G4brym/mymc-py",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "G4brym",
+          "mymc",
+          "py"
+        ]
+      },
+      {
+        "name": "GitHub: GDX-X/PFS-BatchKit-Manager",
+        "url": "https://github.com/GDX-X/PFS-BatchKit-Manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "GDX",
+          "X",
+          "PFS",
+          "BatchKit",
+          "Manager"
+        ]
+      },
+      {
+        "name": "GitHub: hacan359/Open-PS2-Loader",
+        "url": "https://github.com/hacan359/Open-PS2-Loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "hacan359",
+          "Open",
+          "PS2",
+          "Loader"
+        ]
+      },
+      {
+        "name": "GitHub: israpps/HDL-Batch-installer",
+        "url": "https://github.com/israpps/HDL-Batch-installer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "israpps",
+          "HDL",
+          "Batch",
+          "installer"
+        ]
+      },
+      {
+        "name": "GitHub: israpps/PAKerUtility",
+        "url": "https://github.com/israpps/PAKerUtility",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "israpps",
+          "PAKerUtility"
+        ]
+      },
+      {
+        "name": "GitHub: israpps/wLaunchELF_ISR",
+        "url": "https://github.com/israpps/wLaunchELF_ISR",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "israpps",
+          "wLaunchELF",
+          "ISR"
+        ]
+      },
+      {
+        "name": "GitHub: IsseiYoshida/OPLUtil",
+        "url": "https://github.com/IsseiYoshida/OPLUtil",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "IsseiYoshida",
+          "OPLUtil"
+        ]
+      },
+      {
+        "name": "GitHub: jeffqchen/PS2EasyHDD",
+        "url": "https://github.com/jeffqchen/PS2EasyHDD",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "jeffqchen",
+          "PS2EasyHDD"
+        ]
+      },
+      {
+        "name": "GitHub: leyed0/PFS_HDD_Manager_VS",
+        "url": "https://github.com/leyed0/PFS_HDD_Manager_VS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "leyed0",
+          "PFS",
+          "HDD",
+          "Manager",
+          "VS"
+        ]
+      },
+      {
+        "name": "GitHub: Loubear111/PS2FreeMCBootGuide",
+        "url": "https://github.com/Loubear111/PS2FreeMCBootGuide",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Loubear111",
+          "PS2FreeMCBootGuide"
+        ]
+      },
+      {
+        "name": "GitHub: luissilva1044894/Icon-pack-for-HDL-Batch-installer",
+        "url": "https://github.com/luissilva1044894/Icon-pack-for-HDL-Batch-installer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "luissilva1044894",
+          "Icon",
+          "pack",
+          "for",
+          "HDL",
+          "Batch",
+          "installer"
+        ]
+      },
+      {
+        "name": "GitHub: MechaDragonX/GameDiscLoader",
+        "url": "https://github.com/MechaDragonX/GameDiscLoader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "MechaDragonX",
+          "GameDiscLoader"
+        ]
+      },
+      {
+        "name": "GitHub: PCSX2/myMCpp",
+        "url": "https://github.com/PCSX2/myMCpp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "PCSX2",
+          "myMCpp"
+        ]
+      },
+      {
+        "name": "GitHub: plmarcos/mc3-music-manager",
+        "url": "https://github.com/plmarcos/mc3-music-manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "plmarcos",
+          "mc3",
+          "music",
+          "manager"
+        ]
+      },
+      {
+        "name": "GitHub: PunishedSnake/fhdb-bootstrap-manager",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "PunishedSnake",
+          "fhdb",
+          "bootstrap",
+          "manager"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Technical Documentation & Preservation",
+    "description": "GitHub repositories explicitly tagged with the PlayStation 2 topic, including homebrew, tools, emulators, hardware, mods, ports, research, decomps, and related PS2 work.",
+    "links": [
+      {
+        "name": "GitHub: CosmicScale/HDD-OSD-Icon-Database",
+        "url": "https://github.com/CosmicScale/HDD-OSD-Icon-Database",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "CosmicScale",
+          "HDD",
+          "OSD",
+          "Icon",
+          "Database"
+        ]
+      },
+      {
+        "name": "GitHub: Docmine17/Open-PS2-Loader-HTTP",
+        "url": "https://github.com/Docmine17/Open-PS2-Loader-HTTP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Docmine17",
+          "Open",
+          "PS2",
+          "Loader",
+          "HTTP"
+        ]
+      },
+      {
+        "name": "GitHub: Docmine17/ZSO-Converter",
+        "url": "https://github.com/Docmine17/ZSO-Converter",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Docmine17",
+          "ZSO",
+          "Converter"
+        ]
+      },
+      {
+        "name": "GitHub: doctorspider42/tyraX",
+        "url": "https://github.com/doctorspider42/tyraX",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "doctorspider42",
+          "tyraX"
+        ]
+      },
+      {
+        "name": "GitHub: ps2dev-mirror/doc",
+        "url": "https://github.com/ps2dev-mirror/doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "ps2dev",
+          "mirror",
+          "doc"
+        ]
+      },
+      {
+        "name": "GitHub: terremoth/awesome-ps2",
+        "url": "https://github.com/terremoth/awesome-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "terremoth",
+          "awesome",
+          "ps2"
+        ]
+      },
+      {
+        "name": "GitHub: Tom-Bruise/PS2-OPL-CFG-Database",
+        "url": "https://github.com/Tom-Bruise/PS2-OPL-CFG-Database",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Tom",
+          "Bruise",
+          "PS2",
+          "OPL",
+          "CFG",
+          "Database"
+        ]
+      },
+      {
+        "name": "GitHub: vs-sr-dev/gc-talesofsymphonia-doc",
+        "url": "https://github.com/vs-sr-dev/gc-talesofsymphonia-doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "vs",
+          "sr",
+          "dev",
+          "gc",
+          "talesofsymphonia",
+          "doc"
+        ]
+      },
+      {
+        "name": "GitHub: vs-sr-dev/ps2-talesofdestiny2-doc",
+        "url": "https://github.com/vs-sr-dev/ps2-talesofdestiny2-doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "vs",
+          "sr",
+          "dev",
+          "ps2",
+          "talesofdestiny2",
+          "doc"
+        ]
+      },
+      {
+        "name": "GitHub: vs-sr-dev/ps2-talesofrebirth-doc",
+        "url": "https://github.com/vs-sr-dev/ps2-talesofrebirth-doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "vs",
+          "sr",
+          "dev",
+          "ps2",
+          "talesofrebirth",
+          "doc"
+        ]
+      },
+      {
+        "name": "GitHub: vs-sr-dev/ps2-talesoftheabyss-doc",
+        "url": "https://github.com/vs-sr-dev/ps2-talesoftheabyss-doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "vs",
+          "sr",
+          "dev",
+          "ps2",
+          "talesoftheabyss",
+          "doc"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Custom Content & Game Mods",
+    "description": "GitHub repositories explicitly tagged with the PlayStation 2 topic, including homebrew, tools, emulators, hardware, mods, ports, research, decomps, and related PS2 work.",
+    "links": [
+      {
+        "name": "GitHub: Andiweli/OPL-Theme-PS2pops",
+        "url": "https://github.com/Andiweli/OPL-Theme-PS2pops",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Andiweli",
+          "OPL",
+          "Theme",
+          "PS2pops"
+        ]
+      },
+      {
+        "name": "GitHub: Chardelyce/PS2-Switch-theme",
+        "url": "https://github.com/Chardelyce/PS2-Switch-theme",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Chardelyce",
+          "PS2",
+          "Switch",
+          "theme"
+        ]
+      },
+      {
+        "name": "GitHub: igorciz777/Kengo-3-Translation-Project",
+        "url": "https://github.com/igorciz777/Kengo-3-Translation-Project",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "igorciz777",
+          "Kengo",
+          "3",
+          "Translation",
+          "Project"
+        ]
+      },
+      {
+        "name": "GitHub: KidGbzin/Cheat-Engine",
+        "url": "https://github.com/KidGbzin/Cheat-Engine",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "KidGbzin",
+          "Cheat",
+          "Engine"
+        ]
+      },
+      {
+        "name": "GitHub: NiV-L-A/SlyMultiTrainer",
+        "url": "https://github.com/NiV-L-A/SlyMultiTrainer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "NiV",
+          "L",
+          "A",
+          "SlyMultiTrainer"
+        ]
+      },
+      {
+        "name": "GitHub: re-s2/textures",
+        "url": "https://github.com/re-s2/textures",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "re",
+          "s2",
+          "textures"
+        ]
+      },
+      {
+        "name": "GitHub: root670/CheatDevicePS2",
+        "url": "https://github.com/root670/CheatDevicePS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "root670",
+          "CheatDevicePS2"
+        ]
+      },
+      {
+        "name": "GitHub: Zerron21/bootStation-theme",
+        "url": "https://github.com/Zerron21/bootStation-theme",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "Zerron21",
+          "bootStation",
+          "theme"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Hardware, Mods & Accessories",
+    "description": "GitHub repositories explicitly tagged with the PlayStation 2 topic, including homebrew, tools, emulators, hardware, mods, ports, research, decomps, and related PS2 work.",
+    "links": [
+      {
+        "name": "GitHub: 78edu/ps2-matrix-infinity-modchip-dump",
+        "url": "https://github.com/78edu/ps2-matrix-infinity-modchip-dump",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "78edu",
+          "ps2",
+          "matrix",
+          "infinity",
+          "modchip",
+          "dump"
+        ]
+      },
+      {
+        "name": "GitHub: adlerosn/ps2joysrv",
+        "url": "https://github.com/adlerosn/ps2joysrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "adlerosn",
+          "ps2joysrv"
+        ]
+      },
+      {
+        "name": "GitHub: bigw00d/mbedos2-bluepill-ps2controller-host",
+        "url": "https://github.com/bigw00d/mbedos2-bluepill-ps2controller-host",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "bigw00d",
+          "mbedos2",
+          "bluepill",
+          "ps2controller",
+          "host"
+        ]
+      },
+      {
+        "name": "GitHub: igorciz777/TXR-PS2-Controller-Tweaks",
+        "url": "https://github.com/igorciz777/TXR-PS2-Controller-Tweaks",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "igorciz777",
+          "TXR",
+          "PS2",
+          "Controller",
+          "Tweaks"
+        ]
+      },
+      {
+        "name": "GitHub: intricate/ps2-memory-card",
+        "url": "https://github.com/intricate/ps2-memory-card",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "intricate",
+          "ps2",
+          "memory",
+          "card"
+        ]
+      },
+      {
+        "name": "GitHub: islandcontroller/ps2ded-oss",
+        "url": "https://github.com/islandcontroller/ps2ded-oss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "islandcontroller",
+          "ps2ded",
+          "oss"
+        ]
+      },
+      {
+        "name": "GitHub: islandcontroller/ps2ded-sce",
+        "url": "https://github.com/islandcontroller/ps2ded-sce",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "islandcontroller",
+          "ps2ded",
+          "sce"
+        ]
+      },
+      {
+        "name": "GitHub: islandcontroller/ps2ded-vscode",
+        "url": "https://github.com/islandcontroller/ps2ded-vscode",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "islandcontroller",
+          "ps2ded",
+          "vscode"
+        ]
+      },
+      {
+        "name": "GitHub: islandcontroller/ps3mca",
+        "url": "https://github.com/islandcontroller/ps3mca",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "islandcontroller",
+          "ps3mca"
+        ]
+      },
+      {
+        "name": "GitHub: lawlmoeaung/ps2-memory-card-manager",
+        "url": "https://github.com/lawlmoeaung/ps2-memory-card-manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "lawlmoeaung",
+          "ps2",
+          "memory",
+          "card",
+          "manager"
+        ]
+      },
+      {
+        "name": "GitHub: PhilboBaggins/teensy-ps2-controller-interface",
+        "url": "https://github.com/PhilboBaggins/teensy-ps2-controller-interface",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "PhilboBaggins",
+          "teensy",
+          "ps2",
+          "controller",
+          "interface"
+        ]
+      },
+      {
+        "name": "GitHub: StarGate01/ArduinoPSX",
+        "url": "https://github.com/StarGate01/ArduinoPSX",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "StarGate01",
+          "ArduinoPSX"
+        ]
+      },
+      {
+        "name": "GitHub: SukkoPera/OpenPSX2AmigaPadAdapter",
+        "url": "https://github.com/SukkoPera/OpenPSX2AmigaPadAdapter",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "SukkoPera",
+          "OpenPSX2AmigaPadAdapter"
+        ]
+      },
+      {
+        "name": "GitHub: SukkoPera/PsxControllerShield",
+        "url": "https://github.com/SukkoPera/PsxControllerShield",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "SukkoPera",
+          "PsxControllerShield"
+        ]
+      },
+      {
+        "name": "GitHub: veroxzik/arduino-psx-controller",
+        "url": "https://github.com/veroxzik/arduino-psx-controller",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "repository",
+          "playstation-2",
+          "veroxzik",
+          "arduino",
+          "psx",
+          "controller"
+        ]
+      }
+    ]
+  }
+]
