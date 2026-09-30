@@ -22,6 +22,7 @@ import ps2devWikiDeepSectionGroups from "../../data/resources/ps2devwiki-deep-se
 import psxPlacePs2HubGroups from "../../data/resources/psx-place-ps2-hubs.json";
 import ps2WikiIndexGroups from "../../data/resources/ps2wiki-index.json";
 import hiddenPalacePs2Groups from "../../data/resources/hidden-palace-ps2.json";
+import githubPs2ModdingGroups from "../../data/resources/github-ps2-modding.json";
 
 export interface ResourceLink {
   name: string;
@@ -66,7 +67,8 @@ const allResourceSources = [
   ...(ps2devWikiDeepSectionGroups as ResourceGroup[]),
   ...(psxPlacePs2HubGroups as ResourceGroup[]),
   ...(ps2WikiIndexGroups as ResourceGroup[]),
-  ...(hiddenPalacePs2Groups as ResourceGroup[])
+  ...(hiddenPalacePs2Groups as ResourceGroup[]),
+  ...(githubPs2ModdingGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
