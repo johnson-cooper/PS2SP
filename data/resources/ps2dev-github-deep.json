@@ -1,0 +1,470 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Granular index of the PS2Dev organization's core repositories and individual ps2sdk-ports libraries so toolchain, graphics, debugging, networking, SDK and port names are directly searchable.",
+    "links": [
+      {
+        "name": "PS2Dev GitHub — ps2sdk",
+        "url": "https://github.com/ps2dev/ps2sdk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "ps2sdk"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — ps2dev",
+        "url": "https://github.com/ps2dev/ps2dev",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "ps2dev"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — ps2toolchain",
+        "url": "https://github.com/ps2dev/ps2toolchain",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "ps2toolchain"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — ps2link",
+        "url": "https://github.com/ps2dev/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "ps2link"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — ps2sdk-ports",
+        "url": "https://github.com/ps2dev/ps2sdk-ports",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "ps2sdk-ports"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — ps2-packer",
+        "url": "https://github.com/ps2dev/ps2-packer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "ps2-packer"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — ps2client",
+        "url": "https://github.com/ps2dev/ps2client",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "ps2client"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — gsKit",
+        "url": "https://github.com/ps2dev/gsKit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "gsKit"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — ps2gl",
+        "url": "https://github.com/ps2dev/ps2gl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "ps2gl"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — ps2toolchain-ee",
+        "url": "https://github.com/ps2dev/ps2toolchain-ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "ps2toolchain-ee"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — ps2gdb",
+        "url": "https://github.com/ps2dev/ps2gdb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "ps2gdb"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — ps2eth",
+        "url": "https://github.com/ps2dev/ps2eth",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "ps2eth"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — ps2toolchain-iop",
+        "url": "https://github.com/ps2dev/ps2toolchain-iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "ps2toolchain-iop"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — ps2toolchain-dvp",
+        "url": "https://github.com/ps2dev/ps2toolchain-dvp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "ps2toolchain-dvp"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — ps2dev-docker",
+        "url": "https://github.com/ps2dev/ps2dev-docker",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "ps2dev-docker"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — ps2stuff",
+        "url": "https://github.com/ps2dev/ps2stuff",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "ps2stuff"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — ps2dev.github.io",
+        "url": "https://github.com/ps2dev/ps2dev.github.io",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "ps2dev.github.io"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — mymc",
+        "url": "https://github.com/ps2dev/mymc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "mymc"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — libtap",
+        "url": "https://github.com/ps2dev/libtap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "libtap"
+        ]
+      },
+      {
+        "name": "PS2Dev GitHub — libconfuse",
+        "url": "https://github.com/ps2dev/libconfuse",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2dev",
+          "GitHub",
+          "homebrew development",
+          "SDK",
+          "toolchain",
+          "libconfuse"
+        ]
+      },
+      {
+        "name": "PS2SDK Ports — aalib",
+        "url": "https://github.com/ps2dev/ps2sdk-ports/tree/master/aalib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "ps2sdk-ports",
+          "library",
+          "port",
+          "aalib"
+        ]
+      },
+      {
+        "name": "PS2SDK Ports — hash-library",
+        "url": "https://github.com/ps2dev/ps2sdk-ports/tree/master/hash-library",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "ps2sdk-ports",
+          "library",
+          "port",
+          "hash-library"
+        ]
+      },
+      {
+        "name": "PS2SDK Ports — libid3tag",
+        "url": "https://github.com/ps2dev/ps2sdk-ports/tree/master/libid3tag",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "ps2sdk-ports",
+          "library",
+          "port",
+          "libid3tag"
+        ]
+      },
+      {
+        "name": "PS2SDK Ports — libjpeg_ps2_addons",
+        "url": "https://github.com/ps2dev/ps2sdk-ports/tree/master/libjpeg_ps2_addons",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "ps2sdk-ports",
+          "library",
+          "port",
+          "libjpeg_ps2_addons"
+        ]
+      },
+      {
+        "name": "PS2SDK Ports — libmad",
+        "url": "https://github.com/ps2dev/ps2sdk-ports/tree/master/libmad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "ps2sdk-ports",
+          "library",
+          "port",
+          "libmad"
+        ]
+      },
+      {
+        "name": "PS2SDK Ports — madplay",
+        "url": "https://github.com/ps2dev/ps2sdk-ports/tree/master/madplay",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "ps2sdk-ports",
+          "library",
+          "port",
+          "madplay"
+        ]
+      },
+      {
+        "name": "PS2SDK Ports — ode",
+        "url": "https://github.com/ps2dev/ps2sdk-ports/tree/master/ode",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "ps2sdk-ports",
+          "library",
+          "port",
+          "ode"
+        ]
+      },
+      {
+        "name": "PS2SDK Ports — romfs",
+        "url": "https://github.com/ps2dev/ps2sdk-ports/tree/master/romfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "ps2sdk-ports",
+          "library",
+          "port",
+          "romfs"
+        ]
+      },
+      {
+        "name": "PS2SDK Ports — sdl",
+        "url": "https://github.com/ps2dev/ps2sdk-ports/tree/master/sdl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "ps2sdk-ports",
+          "library",
+          "port",
+          "sdl"
+        ]
+      },
+      {
+        "name": "PS2SDK Ports — sdlgfx",
+        "url": "https://github.com/ps2dev/ps2sdk-ports/tree/master/sdlgfx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "ps2sdk-ports",
+          "library",
+          "port",
+          "sdlgfx"
+        ]
+      },
+      {
+        "name": "PS2SDK Ports — sdlimage",
+        "url": "https://github.com/ps2dev/ps2sdk-ports/tree/master/sdlimage",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "ps2sdk-ports",
+          "library",
+          "port",
+          "sdlimage"
+        ]
+      },
+      {
+        "name": "PS2SDK Ports — sdlmixer",
+        "url": "https://github.com/ps2dev/ps2sdk-ports/tree/master/sdlmixer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "ps2sdk-ports",
+          "library",
+          "port",
+          "sdlmixer"
+        ]
+      },
+      {
+        "name": "PS2SDK Ports — sdlttf",
+        "url": "https://github.com/ps2dev/ps2sdk-ports/tree/master/sdlttf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "ps2sdk-ports",
+          "library",
+          "port",
+          "sdlttf"
+        ]
+      },
+      {
+        "name": "PS2SDK Ports — unzip",
+        "url": "https://github.com/ps2dev/ps2sdk-ports/tree/master/unzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2SDK",
+          "ps2sdk-ports",
+          "library",
+          "port",
+          "unzip"
+        ]
+      }
+    ]
+  }
+]
