@@ -65,6 +65,7 @@ import waybackPs2devCvs3Groups from "../../data/resources/wayback-ps2dev-cvs-3.j
 import waybackFreemcbootPageGroups from "../../data/resources/wayback-freemcboot-pages.json";
 import waybackPs2SceneProjectGroups from "../../data/resources/wayback-ps2-scene-projects.json";
 import ps2homebrewGithubDeepGroups from "../../data/resources/ps2homebrew-github-deep.json";
+import userSubmittedPs2LinkGroups from "../../data/resources/user-submitted-ps2-links-2026-09-30.json";
 
 export interface ResourceLink {
   name: string;
@@ -152,7 +153,8 @@ const allResourceSources = [
   ...(waybackPs2devCvs3Groups as ResourceGroup[]),
   ...(waybackFreemcbootPageGroups as ResourceGroup[]),
   ...(waybackPs2SceneProjectGroups as ResourceGroup[]),
-  ...(ps2homebrewGithubDeepGroups as ResourceGroup[])
+  ...(ps2homebrewGithubDeepGroups as ResourceGroup[]),
+  ...(userSubmittedPs2LinkGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
