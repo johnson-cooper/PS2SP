@@ -1,0 +1,322 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Curated PS2 homebrew games, ports, prototypes, source code, release pages and archival references.",
+    "links": [
+      {
+        "name": "ConsoleMods PS2: Homebrew Games List",
+        "url": "https://consolemods.org/wiki/PS2:Homebrew_Games_List",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew games",
+          "homebrew ports",
+          "prototypes",
+          "Ballion PS2",
+          "Dave Gnukem",
+          "Fruit'Y",
+          "Guitar Fun",
+          "Hermes - Run A La Carte",
+          "Kahtzee",
+          "NIM",
+          "Pintor",
+          "PS2 Patience",
+          "PS2-Racer",
+          "Rockbot",
+          "Shippy 1984",
+          "SuperTux",
+          "The Dungeon Game",
+          "XUMP - The Final Run",
+          "3D Pinball - Space Cadet",
+          "Barulandia",
+          "Bastet",
+          "Flashback (REminiscence)",
+          "Geotron",
+          "Half-Life: Blue Shift",
+          "Ifcaro's Tetris",
+          "Jump 'n Bump",
+          "LsdlDoom-PS2",
+          "Makeshift Duckhunt",
+          "Meritous",
+          "M-PS2Craft",
+          "Nicky Boum",
+          "njam",
+          "PANG",
+          "PrBoom-Plus",
+          "PS2Invaders",
+          "PS2 SDL DOOM",
+          "PS2 SDL DOOM Resurrection",
+          "PS2-Taradino",
+          "Qbert",
+          "Quake for PS2",
+          "Real Waiting Simulator",
+          "Snow Bros: Nick and Tom",
+          "Space Invaders for PS2",
+          "Super Mario 64",
+          "Super Mario War",
+          "Tetris",
+          "Tyrian",
+          "Wolf4SDL-PS2",
+          "YETI3D",
+          "Xrick"
+        ]
+      },
+      {
+        "name": "Internet Archive: PS2 Homebrew Games Archive",
+        "url": "https://archive.org/download/ps2homebrewroms/homebrew%20games/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew games",
+          "homebrew collection",
+          "custom games"
+        ]
+      },
+      {
+        "name": "SMS Power: Ballion PS2",
+        "url": "https://www.smspower.org/Homebrew/DangerousDemolition-GG",
+        "keywords": [
+          "PS2",
+          "Ballion",
+          "homebrew",
+          "Crillion"
+        ]
+      },
+      {
+        "name": "RetroGuru: Hermes",
+        "url": "https://www.retroguru.com/hermes/",
+        "keywords": [
+          "PS2",
+          "Hermes",
+          "Run A La Carte",
+          "Pintor",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "GitHub: SuperTux PS2",
+        "url": "https://github.com/headshot2017/supertux-ps2",
+        "keywords": [
+          "PS2",
+          "SuperTux",
+          "homebrew port",
+          "source"
+        ]
+      },
+      {
+        "name": "GitHub: The Dungeon Game PS2 Demo",
+        "url": "https://github.com/glampert/ps2-homebrew/tree/main/source/demos/dungeon_game",
+        "keywords": [
+          "PS2",
+          "The Dungeon Game",
+          "glampert",
+          "homebrew",
+          "demo",
+          "source"
+        ]
+      },
+      {
+        "name": "RetroGuru: XUMP - The Final Run",
+        "url": "https://www.retroguru.com/xump/",
+        "keywords": [
+          "PS2",
+          "XUMP",
+          "The Final Run",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "GitHub: 3D Pinball Space Cadet PS2 Releases",
+        "url": "https://github.com/headshot2017/3dpinball-ps2/releases",
+        "keywords": [
+          "PS2",
+          "3D Pinball",
+          "Space Cadet",
+          "homebrew port",
+          "releases"
+        ]
+      },
+      {
+        "name": "GitHub: 3D Pinball Space Cadet PS2 Source",
+        "url": "https://github.com/headshot2017/3dpinball-ps2",
+        "keywords": [
+          "PS2",
+          "3D Pinball",
+          "Space Cadet",
+          "homebrew port",
+          "source"
+        ]
+      },
+      {
+        "name": "GitHub: Barulandia PS2 Releases",
+        "url": "https://github.com/jmgk77/BARULANDIA.PS2/releases",
+        "keywords": [
+          "PS2",
+          "Barulandia",
+          "homebrew port",
+          "releases"
+        ]
+      },
+      {
+        "name": "GitHub: Barulandia PS2 Source",
+        "url": "https://github.com/jmgk77/BARULANDIA.PS2",
+        "keywords": [
+          "PS2",
+          "Barulandia",
+          "homebrew port",
+          "source"
+        ]
+      },
+      {
+        "name": "ModDB: Half-Life Blue Shift PlayStation 2 Mod",
+        "url": "https://www.moddb.com/mods/half-life-blue-shift-playstation-2-mod",
+        "keywords": [
+          "PS2",
+          "Half-Life",
+          "Blue Shift",
+          "PlayStation 2",
+          "mod",
+          "port"
+        ]
+      },
+      {
+        "name": "Ifcaro: Tetris for PS2",
+        "url": "https://www.ifcaro.net/programas/ifcaros-tetris-para-ps2/",
+        "keywords": [
+          "PS2",
+          "Ifcaro",
+          "Tetris",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Wayback: Jump 'n Bump PS2 Source",
+        "url": "https://web.archive.org/web/20160322072141/http://www.megidish.net/jnb/blood/jumpnbump-1.50-ps2src.tar.gz",
+        "keywords": [
+          "PS2",
+          "Jump n Bump",
+          "source",
+          "homebrew port"
+        ]
+      },
+      {
+        "name": "Wayback: Gil Megidish Jump 'n Bump PS2 Page",
+        "url": "https://web.archive.org/web/20160322072141/http://www.megidish.net/jnb/",
+        "keywords": [
+          "PS2",
+          "Jump n Bump",
+          "Gil Megidish",
+          "homebrew port"
+        ]
+      },
+      {
+        "name": "GitHub: Meritous PS2",
+        "url": "https://github.com/Nop90-Ps2/Meritous_PS2",
+        "keywords": [
+          "PS2",
+          "Meritous",
+          "homebrew port",
+          "source"
+        ]
+      },
+      {
+        "name": "PS2 Revival Project: M-PS2Craft",
+        "url": "https://ps2revivalproject.jimdofree.com/juegos-games/m-ps2craft/",
+        "keywords": [
+          "PS2",
+          "M-PS2Craft",
+          "Minecraft",
+          "homebrew port"
+        ]
+      },
+      {
+        "name": "GitHub: PrBoom-Plus PS2",
+        "url": "https://github.com/Wolf3s/prboom-plus",
+        "keywords": [
+          "PS2",
+          "PrBoom-Plus",
+          "DOOM",
+          "homebrew port",
+          "source"
+        ]
+      },
+      {
+        "name": "Lukasz Bruun: PS2 Homebrew",
+        "url": "http://www.lukasz.dk/",
+        "keywords": [
+          "PS2",
+          "PS2 SDL DOOM",
+          "Lukasz Bruun",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "GitHub: PS2 SDL DOOM Resurrection",
+        "url": "https://github.com/israpps/ps2doom",
+        "keywords": [
+          "PS2",
+          "DOOM",
+          "SDL DOOM",
+          "Resurrection",
+          "homebrew port",
+          "source"
+        ]
+      },
+      {
+        "name": "GitHub: PS2-Taradino",
+        "url": "https://github.com/Wolf3s/taradino",
+        "keywords": [
+          "PS2",
+          "Taradino",
+          "Rise of the Triad",
+          "homebrew port",
+          "source"
+        ]
+      },
+      {
+        "name": "GitHub: Super Mario 64 PS2 Port",
+        "url": "https://github.com/sounddrill31/sm64-port",
+        "keywords": [
+          "PS2",
+          "Super Mario 64",
+          "SM64",
+          "homebrew port",
+          "source"
+        ]
+      },
+      {
+        "name": "GitHub: Wolf4SDL PS2 Releases",
+        "url": "https://github.com/Wolf3s/Wolf4SDL-PS2/releases",
+        "keywords": [
+          "PS2",
+          "Wolf4SDL",
+          "Wolfenstein 3D",
+          "Spear of Destiny",
+          "homebrew port",
+          "releases"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store: Games",
+        "url": "https://ps2homebrewstore.com/games/",
+        "keywords": [
+          "PS2",
+          "homebrew games",
+          "ports",
+          "custom games"
+        ]
+      },
+      {
+        "name": "PSX-Place: PS2 Homebrew Games Resources",
+        "url": "https://www.psx-place.com/resources/categories/homebrew-games.22/?order=title",
+        "keywords": [
+          "PS2",
+          "homebrew games",
+          "PSX-Place",
+          "ports",
+          "custom games"
+        ]
+      }
+    ]
+  }
+]
