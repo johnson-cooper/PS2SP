@@ -1,0 +1,547 @@
+[
+  {
+    "category": "Spanish PS2 Scene & Compatibility — ElOtroLado",
+    "description": "Granular ElOtroLado PlayStation 2 scene reference covering homebrew, exploits, hardware, OPL, Neutrino, NHDDL, wLaunchELF, MX4SIO/MMCE, ESR, USB loading, and HDD compatibility.",
+    "links": [
+      {
+        "name": "ElOtroLado PS2 — Exploit en PlayStation 2",
+        "url": "https://www.elotrolado.net/wiki/Exploit_en_PlayStation_2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — PlayStation 2",
+        "url": "https://www.elotrolado.net/wiki/Playstation_2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Scene de PlayStation 2",
+        "url": "https://www.elotrolado.net/wiki/Scene_de_PlayStation_2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Características de PlayStation 2",
+        "url": "https://www.elotrolado.net/wiki/Caracter%C3%ADsticas_de_PlayStation_2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Playstation 2 Classics",
+        "url": "https://www.elotrolado.net/wiki/Playstation_2_Classics",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Compatibilidad juegos Ps2 en HD interno - Letra V",
+        "url": "https://www.elotrolado.net/wiki/Compatibilidad_juegos_Ps2_en_HD_interno_-_Letra_V",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Compatibilidad juegos Ps2 en HD interno - Letra O",
+        "url": "https://www.elotrolado.net/wiki/Compatibilidad_juegos_Ps2_en_HD_interno_-_Letra_O",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Compatibilidad juegos Ps2 en HD interno - Letra P",
+        "url": "https://www.elotrolado.net/wiki/Compatibilidad_juegos_Ps2_en_HD_interno_-_Letra_P",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Compatibilidad juegos Ps2 en HD interno - Letra B",
+        "url": "https://www.elotrolado.net/wiki/Compatibilidad_juegos_Ps2_en_HD_interno_-_Letra_B",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Compatibilidad juegos Ps2 en HD interno - Letra M",
+        "url": "https://www.elotrolado.net/wiki/Compatibilidad_juegos_Ps2_en_HD_interno_-_Letra_M",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Compatibilidad juegos Ps2 en HD interno - Letra N",
+        "url": "https://www.elotrolado.net/wiki/Compatibilidad_juegos_Ps2_en_HD_interno_-_Letra_N",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Compatibilidad juegos Ps2 en HD interno - Letra C",
+        "url": "https://www.elotrolado.net/wiki/Compatibilidad_juegos_Ps2_en_HD_interno_-_Letra_C",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Compatibilidad juegos Ps2 en HD interno - Letra K",
+        "url": "https://www.elotrolado.net/wiki/Compatibilidad_juegos_Ps2_en_HD_interno_-_Letra_K",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Compatibilidad juegos Ps2 en HD interno - Letra A",
+        "url": "https://www.elotrolado.net/wiki/Compatibilidad_juegos_Ps2_en_HD_interno_-_Letra_A",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Compatibilidad juegos Ps2 en HD interno - Letra Q",
+        "url": "https://www.elotrolado.net/wiki/Compatibilidad_juegos_Ps2_en_HD_interno_-_Letra_Q",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Compatibilidad juegos Ps2 en HD interno - Letra E",
+        "url": "https://www.elotrolado.net/wiki/Compatibilidad_juegos_Ps2_en_HD_interno_-_Letra_E",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Compatibilidad juegos Ps2 en HD interno - Letra H",
+        "url": "https://www.elotrolado.net/wiki/Compatibilidad_juegos_Ps2_en_HD_interno_-_Letra_H",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Compatibilidad juegos Ps2 en HD interno - Letra X",
+        "url": "https://www.elotrolado.net/wiki/Compatibilidad_juegos_Ps2_en_HD_interno_-_Letra_X",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Compatibilidad juegos Ps2 en HD interno - Letra F",
+        "url": "https://www.elotrolado.net/wiki/Compatibilidad_juegos_Ps2_en_HD_interno_-_Letra_F",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Lista de juegos de PS2 probados en HD",
+        "url": "https://www.elotrolado.net/wiki/Lista_de_juegos_de_PS2_probados_en_HD",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Open PS2 Loader",
+        "url": "https://www.elotrolado.net/wiki/OPL",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Neutrino",
+        "url": "https://www.elotrolado.net/wiki/Neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Listado de juegos compatibles con usbextreme ...",
+        "url": "https://www.elotrolado.net/wiki/Listado_de_juegos_compatibles_con_usbextreme_usbadvance_y_opl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — MX4SIO vs MMCE",
+        "url": "https://www.elotrolado.net/wiki/MX4SIO_vs_MMCE",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — wLaunchELF",
+        "url": "https://www.elotrolado.net/wiki/WLaunchELF",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      },
+      {
+        "name": "ElOtroLado PS2 — Listado de compatibilidad ESR",
+        "url": "https://www.elotrolado.net/wiki/Listado_de_compatibilidad_ESR",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ElOtroLado",
+          "scene",
+          "homebrew",
+          "compatibility"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Brazilian PS2 Scene — PS2City",
+    "description": "PS2City pages focused on PlayStation 2 homebrew, OPL, FMCB, POPStarter, uLaunchELF, PCSX2 development/testing, save utilities, and scene tutorials; retail game-download pages are excluded.",
+    "links": [
+      {
+        "name": "PS2City — [PS2] Criando ícones para o save do Open PS2 Loader",
+        "url": "https://ps2city.wordpress.com/2015/05/19/ps2-criando-icones-para-o-save-do-open-ps2-loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2City — Open PS2 Loader - A cidade do seu PS2",
+        "url": "https://ps2city.wordpress.com/2015/05/15/open-ps2-loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2City — POPStarter via rede (Rev 13 WIP06 Beta 10)",
+        "url": "https://ps2city.wordpress.com/2015/11/02/popstarter-via-rede-rev-13-wip06-beta-10",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2City — [TUTORIAL] Como criar e editar VMC's para o Open PS2 Loader",
+        "url": "https://ps2city.wordpress.com/2015/06/12/tutorial-como-criar-e-editar-vmcs-para-o-open-ps2-loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2City — Open PS2 Loader 0.9.4 r928 + Tradução PT-BR [PSX-SCENE ...",
+        "url": "https://ps2city.wordpress.com/2016/09/20/open-ps2-loader-0-9-4-r928-traducao-pt-br",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2City — Tutorial Completo – Como rodar seus jogos em iso vía rede ...",
+        "url": "https://ps2city.wordpress.com/2015/10/14/tutorial-completo-como-rodar-seus-jogos-em-iso-via-rede-smb-com-o-open-ps2-loader-0-9-3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2City — https://ps2city.wordpress.com/2015/10/15/open-ps2-loader-0-9-4-r937-traducao",
+        "url": "https://ps2city.wordpress.com/2015/10/15/open-ps2-loader-0-9-4-r937-traducao",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2City — PCSX2 1.4.0 : O melhor emulador de PS2 existente + Tutorial",
+        "url": "https://ps2city.wordpress.com/2016/02/05/pcsx2-1-4-0-o-melhor-emulador-de-ps2-existente-tutorial",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2City — https://ps2city.wordpress.com/2016/01/24/atualizacao-novo-popstarter-rev13-wip-06-beta-14",
+        "url": "https://ps2city.wordpress.com/2016/01/24/atualizacao-novo-popstarter-rev13-wip-06-beta-14",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2City — https://ps2city.wordpress.com/2016/05/01/mc-annhillator-v2-0",
+        "url": "https://ps2city.wordpress.com/2016/05/01/mc-annhillator-v2-0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2City — https://ps2city.wordpress.com/lista-de-tutoriais-no-blog",
+        "url": "https://ps2city.wordpress.com/lista-de-tutoriais-no-blog",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2City — https://ps2city.wordpress.com/2019/03/15/s-o-s-save2me-um-buscador-rapido-de-saves-de-ps2",
+        "url": "https://ps2city.wordpress.com/2019/03/15/s-o-s-save2me-um-buscador-rapido-de-saves-de-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2City — Open PS2 Loader 0.9.4 r973 + Tradução PT-BR",
+        "url": "https://ps2city.wordpress.com/2016/09/09/open-ps2-loader-atualizacao",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2City — https://ps2city.wordpress.com/2015/05/22/jogando-compilacoes-pela-usb-smb-internet-rede-ou-hdd",
+        "url": "https://ps2city.wordpress.com/2015/05/22/jogando-compilacoes-pela-usb-smb-internet-rede-ou-hdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2City — [FERRAMENTA] uLaunchELF + Imagens - A cidade do seu PS2",
+        "url": "https://ps2city.wordpress.com/2015/06/12/ferramenta-ulaunchelf-imagens",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2City — https://ps2city.wordpress.com/2016/05/11/novo-forum-de-consoles-do-hard-level",
+        "url": "https://ps2city.wordpress.com/2016/05/11/novo-forum-de-consoles-do-hard-level",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2City — https://ps2city.wordpress.com/2016/01/24/atualizacao-novo-free-mc-boot-1-95-v0-97",
+        "url": "https://ps2city.wordpress.com/2016/01/24/atualizacao-novo-free-mc-boot-1-95-v0-97",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Brasil",
+          "OPL",
+          "FMCB",
+          "POPStarter",
+          "homebrew"
+        ]
+      }
+    ]
+  }
+]

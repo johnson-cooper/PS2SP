@@ -1,18 +1,19 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import ProjectDirectory from "../../components/ProjectDirectory.astro";
-import { categoryLabel, getProjects } from "../../lib/catalog";
+import { categoryLabel } from "../../lib/catalog";
+import { getSoftwareCatalog } from "../../lib/software";
 
 export async function getStaticPaths() {
-  const projects = await getProjects();
-  const categories = [...new Set(projects.flatMap((project) => project.data.categories))];
+  const software = await getSoftwareCatalog();
+  const categories = [...new Set(software.flatMap((entry) => entry.categories))];
   return categories.map((category) => ({
     params: { category },
-    props: { category, projects: projects.filter((project) => project.data.categories.includes(category)) }
+    props: { category, entries: software.filter((entry) => entry.categories.includes(category)) }
   }));
 }
 
-const { category, projects } = Astro.props;
+const { category, entries } = Astro.props;
 ---
 
 <BaseLayout title={categoryLabel(category)}>
@@ -22,8 +23,8 @@ const { category, projects } = Astro.props;
       <h1>{categoryLabel(category)}</h1>
       <p class="lead">Browse every indexed PS2SP software entry tagged in this category.</p>
     </div>
-    <div class="page-count"><strong>{projects.length}</strong><span>{projects.length === 1 ? "project" : "projects"}</span></div>
+    <div class="page-count"><strong>{entries.length}</strong><span>{entries.length === 1 ? "entry" : "entries"}</span></div>
   </header>
 
-  <ProjectDirectory projects={projects} showCategoryFilter={false} />
+  <ProjectDirectory entries={entries} showCategoryFilter={false} />
 </BaseLayout>

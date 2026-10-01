@@ -1,0 +1,82 @@
+[
+  {
+    "category": "Game Hacking, Cheats & Reverse Engineering",
+    "description": "PlayStation 2 cheat-code databases, reverse-engineering references, memory hacking tools, debuggers, and code-hacking documentation.",
+    "links": [
+      {
+        "name": "GameHacking.org — PS2 Code Database",
+        "url": "https://gamehacking.org/?sys=ps2",
+        "keywords": ["PS2", "PlayStation 2", "cheats", "codes", "GameShark", "CodeBreaker", "Action Replay"]
+      },
+      {
+        "name": "GameHacking.org — PS2 Hacking Library",
+        "url": "https://gamehacking.org/library",
+        "keywords": ["PS2", "PlayStation 2", "MIPS", "PS2Dis", "hacking guides", "opcodes", "syscalls"]
+      },
+      {
+        "name": "GameHacking.org Wiki — Hacking PlayStation 2",
+        "url": "https://wiki.gamehacking.org/Hacking_PlayStation_2",
+        "keywords": ["PS2", "PlayStation 2", "GameShark", "Action Replay", "CodeBreaker", "code types"]
+      },
+      {
+        "name": "GameHacking.org — Project Artemis for PS2",
+        "url": "https://gamehacking.org/artemis",
+        "keywords": ["PS2", "PlayStation 2", "Artemis", "PS2rd", "PS2CC", "debugger", "memory hacking"]
+      }
+    ]
+  },
+  {
+    "category": "Homebrew Applications & Utilities",
+    "description": "Native PlayStation 2 homebrew applications, launchers, loaders, utilities, ports, and supporting project pages.",
+    "links": [
+      {
+        "name": "PS2ME — J2ME on PlayStation 2",
+        "url": "https://wellinator.github.io/PS2ME/",
+        "keywords": ["PS2ME", "J2ME", "phoneME", "PS2SDK", "homebrew", "ELF", "MIDP"]
+      },
+      {
+        "name": "mast1c0re PS2 USB ELF Loader",
+        "url": "https://github.com/McCaulay/mast1c0re-ps2-usb-elf-loader",
+        "keywords": ["mast1c0re", "Okage Shadow King", "USB", "ELF", "loader", "PS2"]
+      }
+    ]
+  },
+  {
+    "category": "Legacy Homebrew & Application Archives",
+    "description": "Preserved PlayStation 2 homebrew applications, historical launcher collections, mirrors, and archived community downloads.",
+    "links": [
+      {
+        "name": "SKS Apps — PlayStation 2 ELF Menu Launchers",
+        "url": "https://sksapps.haldrie.com/ps2launchers.php",
+        "keywords": ["SKS Apps", "uLaunchELF", "LaunchELF", "ELF", "launcher", "PS2"]
+      },
+      {
+        "name": "Internet Archive — Unsorted PS2 Homebrews",
+        "url": "https://archive.org/details/ps2homebrewroms",
+        "keywords": ["Internet Archive", "PS2 homebrew", "homebrew collection", "preservation", "ELF"]
+      }
+    ]
+  },
+  {
+    "category": "Documentation & Technical References",
+    "description": "Technical notes, reference material, configuration documentation, and preserved information useful for PlayStation 2 development and homebrew.",
+    "links": [
+      {
+        "name": "PS2 ELF Files and Descriptions",
+        "url": "https://www.scribd.com/document/794253400/Config",
+        "keywords": ["PS2", "ELF", "configuration", "homebrew", "documentation"]
+      }
+    ]
+  },
+  {
+    "category": "Analysis, Research & Game Information",
+    "description": "PlayStation 2-focused technical analysis, game research, comparisons, performance coverage, and reference indexes.",
+    "links": [
+      {
+        "name": "Digital Foundry — PlayStation 2 Games",
+        "url": "https://www.digitalfoundry.net/games/browse?system=ps2",
+        "keywords": ["Digital Foundry", "PS2", "PlayStation 2", "analysis", "performance", "games"]
+      }
+    ]
+  }
+]

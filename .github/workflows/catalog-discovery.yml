@@ -48,6 +48,8 @@ jobs:
           BOOTSTRAP_SEARCH_PAGES: "3"
           INCREMENTAL_SEARCH_PAGES: "2"
           RECHECK_PENDING_LIMIT: "20"
+          FORK_NETWORK_ROOTS_PER_RUN: "30"
+          FORK_NETWORK_PAGES_PER_ROOT: "5"
         run: npm run catalog:discover
 
       - name: Promote catalog-ready pending projects

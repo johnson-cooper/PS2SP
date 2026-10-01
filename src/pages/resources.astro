@@ -6,6 +6,42 @@ const groups = getResourceGroups();
 const resources = getResources();
 const hosts = new Set(resources.map((resource) => resourceHost(resource.url))).size;
 const ps2Symbols = ["△", "○", "×", "□"];
+
+function resourceFamily(category: string) {
+  const value = category.toLowerCase();
+  if (/homebrew|software|application|utility|github|sourceforge|port|emulator|loader|launcher|save application|store/.test(value)) return "Software & Homebrew";
+  if (/hardware|repair|service manual|modchip|board|accessor|portable|motherboard/.test(value)) return "Hardware & Repair";
+  if (/exploit|vulnerabil|security|boot exploit|hacking/.test(value)) return "Exploits & Security";
+  if (/online|dnas|network|server|rewired/.test(value)) return "Online & Networking";
+  if (/prototype|demo|unreleased|hidden palace|demoscene/.test(value)) return "Demos & Prototypes";
+  if (/archive|preservation|wayback|legacy|mirror|history/.test(value)) return "Preservation & Archives";
+  if (/brazil|spanish|community|forum|scene|psx-place|ps2-home|regional/.test(value)) return "Communities & Regional";
+  if (/development|sdk|technical|programming|ps2dev|linux|reverse|documentation|wiki|docs/.test(value)) return "Development & Technical";
+  if (/compatib|guide|tutorial|reference|save|icon/.test(value)) return "Guides & Reference";
+  return "Other PS2 Resources";
+}
+
+const familyCounts = new Map<string, number>();
+for (const resource of resources) {
+  const family = resourceFamily(resource.category);
+  familyCounts.set(family, (familyCounts.get(family) ?? 0) + 1);
+}
+const families = [...familyCounts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+
+const genericTags = new Set(["ps2","playstation 2","playstation2"]);
+const tagCounts = new Map<string, { label: string; count: number }>();
+for (const resource of resources) {
+  for (const rawTag of resource.keywords ?? []) {
+    const label = String(rawTag).trim();
+    const key = label.toLowerCase();
+    if (!label || genericTags.has(key) || label.length > 38) continue;
+    const current = tagCounts.get(key);
+    tagCounts.set(key, { label: current?.label ?? label, count: (current?.count ?? 0) + 1 });
+  }
+}
+const popularTags = [...tagCounts.entries()]
+  .sort((a, b) => b[1].count - a[1].count || a[1].label.localeCompare(b[1].label))
+  .slice(0, 18);
 ---
 
 <BaseLayout title="PS2 Directory">
@@ -13,7 +49,7 @@ const ps2Symbols = ["△", "○", "×", "□"];
     <div>
       <p class="eyebrow">The wider ecosystem</p>
       <h1>PS2 directory</h1>
-      <p class="lead">Not everything important lives in a Git repository. Search deeply indexed PS2 documentation, communities, hardware references, compatibility data, archives, tools, game-specific resources and more.</p>
+      <p class="lead">Search deeply indexed PS2 documentation, communities, hardware references, exploits, archives, tools, demos, prototypes, regional scene material and more.</p>
     </div>
     <div class="page-count"><strong>{resources.length}</strong><span>resources</span></div>
   </header>
@@ -21,34 +57,82 @@ const ps2Symbols = ["△", "○", "×", "□"];
   <section class="resource-browser" data-resource-browser>
     <aside class="resource-sidebar">
       <div class="resource-sidebar-head">
-        <span>Directory sections</span>
-        <small>{groups.length} groups · {hosts} hosts</small>
+        <span>Resource families</span>
+        <small>{groups.length} sections · {hosts} hosts</small>
       </div>
-      <button class="resource-nav active" type="button" data-resource-nav="">
-        <span class="resource-nav-label"><span class="ps2-symbol" aria-hidden="true">◇</span><span>All resources</span></span>
+      <button class="resource-nav active" type="button" data-resource-family="">
+        <span class="resource-nav-label"><span class="ps2-symbol" aria-hidden="true">◇</span><span>Everything</span></span>
         <strong>{resources.length}</strong>
       </button>
-      {groups.map((group, index) => (
-        <button class="resource-nav" type="button" data-resource-nav={group.category}>
+      {families.map(([family, count], index) => (
+        <button class="resource-nav" type="button" data-resource-family={family}>
           <span class="resource-nav-label">
             <span class="ps2-symbol" aria-hidden="true">{ps2Symbols[index % ps2Symbols.length]}</span>
-            <span>{group.category}</span>
+            <span>{family}</span>
           </span>
-          <strong>{group.links.length}</strong>
+          <strong>{count}</strong>
         </button>
       ))}
     </aside>
 
     <div class="resource-main">
-      <label class="search-field resource-search">
-        <span class="search-glyph" aria-hidden="true">⌕</span>
-        <input data-resource-search type="search" placeholder="Search titles, serials, docs, categories, hosts…" autocomplete="off" />
-        <kbd>/</kbd>
-      </label>
+      <div class="resource-toolbar">
+        <label class="search-field resource-search">
+          <span class="search-glyph" aria-hidden="true">⌕</span>
+          <input data-resource-search type="search" placeholder="Search titles, tags, hosts, docs, projects…" autocomplete="off" />
+          <kbd>/</kbd>
+        </label>
 
-      <div class="directory-summary">
-        <strong data-resource-count>{resources.length}</strong>
-        <span>resources match</span>
+        <label class="select-field">
+          <span>Section</span>
+          <select data-resource-category>
+            <option value="">All sections</option>
+            {groups.map((group) => <option value={group.category}>{group.category} ({group.links.length})</option>)}
+          </select>
+        </label>
+
+        <label class="select-field">
+          <span>Host</span>
+          <select data-resource-host>
+            <option value="">All hosts</option>
+          </select>
+        </label>
+
+        <label class="select-field">
+          <span>Tag</span>
+          <select data-resource-tag>
+            <option value="">All tags</option>
+          </select>
+        </label>
+
+        <label class="select-field">
+          <span>Sort</span>
+          <select data-resource-sort>
+            <option value="name">A–Z</option>
+            <option value="section">Section</option>
+            <option value="host">Host</option>
+          </select>
+        </label>
+
+        <button class="filter-clear" type="button" data-resource-clear>Clear</button>
+      </div>
+
+      {popularTags.length > 0 && (
+        <div class="quick-filter-strip" aria-label="Popular resource tags">
+          <span class="quick-filter-label">Popular tags</span>
+          <div class="quick-filter-list">
+            {popularTags.map(([key, tag]) => (
+              <button type="button" class="filter-chip" data-resource-quick-tag={key}>
+                <span>{tag.label}</span><strong>{tag.count}</strong>
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <div class="directory-summary directory-summary-rich">
+        <div><strong data-resource-count>{resources.length}</strong><span> resources match</span></div>
+        <small data-resource-filter-state>Everything indexed</small>
       </div>
 
       <div class="resource-index">
@@ -56,6 +140,7 @@ const ps2Symbols = ["△", "○", "×", "□"];
           <span>Resource</span>
           <span>Section</span>
           <span>Host</span>
+          <span>Report</span>
         </div>
         <div data-resource-results aria-live="polite"></div>
       </div>
@@ -80,25 +165,47 @@ const ps2Symbols = ["△", "○", "×", "□"];
       interface SearchEntry extends ApiLink {
         category: string;
         categoryDescription: string;
+        family: string;
         host: string;
+        tagKeys: string[];
         search: string;
       }
 
       const root = document.querySelector<HTMLElement>("[data-resource-browser]");
       if (root) {
         const search = root.querySelector<HTMLInputElement>("[data-resource-search]");
-        const navs = [...root.querySelectorAll<HTMLButtonElement>("[data-resource-nav]")];
+        const familyNavs = [...root.querySelectorAll<HTMLButtonElement>("[data-resource-family]")];
+        const category = root.querySelector<HTMLSelectElement>("[data-resource-category]");
+        const host = root.querySelector<HTMLSelectElement>("[data-resource-host]");
+        const tag = root.querySelector<HTMLSelectElement>("[data-resource-tag]");
+        const sort = root.querySelector<HTMLSelectElement>("[data-resource-sort]");
+        const clear = root.querySelector<HTMLButtonElement>("[data-resource-clear]");
+        const quickTags = [...root.querySelectorAll<HTMLButtonElement>("[data-resource-quick-tag]")];
         const count = root.querySelector<HTMLElement>("[data-resource-count]");
+        const filterState = root.querySelector<HTMLElement>("[data-resource-filter-state]");
         const empty = root.querySelector<HTMLElement>("[data-resource-empty]");
         const results = root.querySelector<HTMLElement>("[data-resource-results]");
         const more = root.querySelector<HTMLButtonElement>("[data-resource-more]");
         const symbols = ["△", "○", "×", "□"];
         const categorySymbols = new Map<string, string>();
-        navs.slice(1).forEach((nav, index) => categorySymbols.set(nav.dataset.resourceNav ?? "", symbols[index % symbols.length]));
 
-        let selected = new URL(window.location.href).searchParams.get("category") ?? "";
+        let selectedFamily = new URL(window.location.href).searchParams.get("family") ?? "";
         let entries: SearchEntry[] = [];
-        let visibleLimit = 250;
+        let visibleLimit = 200;
+
+        function familyOf(value: string) {
+          const category = value.toLowerCase();
+          if (/homebrew|software|application|utility|github|sourceforge|port|emulator|loader|launcher|save application|store/.test(category)) return "Software & Homebrew";
+          if (/hardware|repair|service manual|modchip|board|accessor|portable|motherboard/.test(category)) return "Hardware & Repair";
+          if (/exploit|vulnerabil|security|boot exploit|hacking/.test(category)) return "Exploits & Security";
+          if (/online|dnas|network|server|rewired/.test(category)) return "Online & Networking";
+          if (/prototype|demo|unreleased|hidden palace|demoscene/.test(category)) return "Demos & Prototypes";
+          if (/archive|preservation|wayback|legacy|mirror|history/.test(category)) return "Preservation & Archives";
+          if (/brazil|spanish|community|forum|scene|psx-place|ps2-home|regional/.test(category)) return "Communities & Regional";
+          if (/development|sdk|technical|programming|ps2dev|linux|reverse|documentation|wiki|docs/.test(category)) return "Development & Technical";
+          if (/compatib|guide|tutorial|reference|save|icon/.test(category)) return "Guides & Reference";
+          return "Other PS2 Resources";
+        }
 
         function hostOf(value: string) {
           try {
@@ -118,9 +225,21 @@ const ps2Symbols = ["△", "○", "×", "□"];
           }
         }
 
+        function visibleTags(entry: SearchEntry) {
+          const generic = new Set(["ps2", "playstation 2", "playstation2"]);
+          return (entry.keywords ?? [])
+            .map((value) => String(value).trim())
+            .filter((value) => value && !generic.has(value.toLowerCase()) && value.length <= 28)
+            .filter((value, index, all) => all.findIndex((other) => other.toLowerCase() === value.toLowerCase()) === index)
+            .slice(0, 4);
+        }
+
         function makeRow(entry: SearchEntry) {
+          const row = document.createElement("div");
+          row.className = "resource-index-row";
+
           const anchor = document.createElement("a");
-          anchor.className = "resource-index-row";
+          anchor.className = "resource-index-link";
           anchor.href = entry.url;
           anchor.target = "_blank";
           anchor.rel = "noopener noreferrer";
@@ -133,64 +252,165 @@ const ps2Symbols = ["△", "○", "×", "□"];
           small.textContent = entry.categoryDescription;
           main.append(strong, small);
 
-          const category = document.createElement("span");
-          category.className = "resource-index-category";
+          const rowTags = visibleTags(entry);
+          if (rowTags.length) {
+            const tags = document.createElement("span");
+            tags.className = "row-tag-list";
+            tags.setAttribute("aria-label", "Tags");
+            for (const value of rowTags) {
+              const chip = document.createElement("span");
+              chip.className = "row-tag";
+              chip.textContent = value;
+              tags.append(chip);
+            }
+            main.append(tags);
+          }
+
+          const categoryCell = document.createElement("span");
+          categoryCell.className = "resource-index-category";
           const symbol = document.createElement("span");
           symbol.className = "ps2-symbol";
           symbol.setAttribute("aria-hidden", "true");
           symbol.textContent = categorySymbols.get(entry.category) ?? "◇";
           const categoryName = document.createElement("span");
           categoryName.textContent = entry.category;
-          category.append(symbol, categoryName);
+          categoryCell.append(symbol, categoryName);
 
-          const host = document.createElement("span");
-          host.className = "resource-index-host";
-          host.append(document.createTextNode(entry.host + " "));
+          const hostCell = document.createElement("span");
+          hostCell.className = "resource-index-host";
+          hostCell.append(document.createTextNode(entry.host + " "));
           const arrow = document.createElement("span");
           arrow.className = "row-arrow";
           arrow.textContent = "↗";
-          host.append(arrow);
+          hostCell.append(arrow);
 
-          anchor.append(main, category, host);
-          return anchor;
+          anchor.append(main, categoryCell, hostCell);
+
+          const report = document.createElement("a");
+          report.className = "resource-report-link";
+          report.target = "_blank";
+          report.rel = "noopener noreferrer";
+          report.textContent = "Broken?";
+          report.setAttribute("aria-label", `Report broken link: ${entry.name}`);
+          const issueTitle = `Broken link: ${entry.name}`;
+          const issueBody = [
+            "### Broken resource link",
+            "",
+            `- Resource: ${entry.name}`,
+            `- URL: ${entry.url}`,
+            `- Section: ${entry.category}`,
+            "",
+            "The link appears to be broken, unavailable, or no longer points to the indexed PS2 resource."
+          ].join("\\n");
+          report.href = `https://github.com/johnson-cooper/PS2SP/issues/new?title=${encodeURIComponent(issueTitle)}&body=${encodeURIComponent(issueBody)}`;
+
+          row.append(anchor, report);
+          return row;
+        }
+
+        function syncUrl() {
+          const next = new URL(window.location.href);
+          const values: Array<[string, string]> = [
+            ["q", search?.value.trim() ?? ""],
+            ["family", selectedFamily],
+            ["category", category?.value ?? ""],
+            ["host", host?.value ?? ""],
+            ["tag", tag?.value ?? ""],
+            ["sort", sort?.value && sort.value !== "name" ? sort.value : ""]
+          ];
+          for (const [key, value] of values) {
+            if (value) next.searchParams.set(key, value);
+            else next.searchParams.delete(key);
+          }
+          history.replaceState({}, "", next);
         }
 
         function apply(resetLimit = true) {
-          if (resetLimit) visibleLimit = 250;
+          if (resetLimit) visibleLimit = 200;
           const query = search?.value.trim().toLowerCase() ?? "";
+          const selectedCategory = category?.value ?? "";
+          const selectedHost = host?.value ?? "";
+          const selectedTag = tag?.value ?? "";
           const filtered = entries.filter((entry) => {
             const matchText = !query || entry.search.includes(query);
-            const matchCategory = !selected || entry.category === selected;
-            return matchText && matchCategory;
+            const matchFamily = !selectedFamily || entry.family === selectedFamily;
+            const matchCategory = !selectedCategory || entry.category === selectedCategory;
+            const matchHost = !selectedHost || entry.host === selectedHost;
+            const matchTag = !selectedTag || entry.tagKeys.includes(selectedTag);
+            return matchText && matchFamily && matchCategory && matchHost && matchTag;
+          });
+
+          const mode = sort?.value ?? "name";
+          filtered.sort((a, b) => {
+            if (mode === "host") return a.host.localeCompare(b.host) || a.name.localeCompare(b.name);
+            if (mode === "section") return a.category.localeCompare(b.category) || a.name.localeCompare(b.name);
+            return a.name.localeCompare(b.name);
           });
 
           if (count) count.textContent = String(filtered.length);
           if (empty) empty.hidden = filtered.length !== 0;
-          if (results) {
-            results.replaceChildren(...filtered.slice(0, visibleLimit).map(makeRow));
-          }
+          if (results) results.replaceChildren(...filtered.slice(0, visibleLimit).map(makeRow));
           if (more) {
             more.hidden = filtered.length <= visibleLimit;
-            more.textContent = `Load more results (${Math.min(250, Math.max(0, filtered.length - visibleLimit))} next)`;
+            more.textContent = `Load more results (${Math.min(200, Math.max(0, filtered.length - visibleLimit))} next)`;
           }
-          for (const nav of navs) nav.classList.toggle("active", (nav.dataset.resourceNav ?? "") === selected);
+
+          for (const nav of familyNavs) {
+            nav.classList.toggle("active", (nav.dataset.resourceFamily ?? "") === selectedFamily);
+          }
+          for (const chip of quickTags) {
+            chip.classList.toggle("active", (chip.dataset.resourceQuickTag ?? "") === selectedTag);
+          }
+
+          const active: string[] = [];
+          if (query) active.push(`search “${search?.value.trim()}”`);
+          if (selectedFamily) active.push(selectedFamily);
+          if (selectedCategory) active.push(selectedCategory);
+          if (selectedHost) active.push(selectedHost);
+          if (selectedTag && tag) active.push(`tag: ${tag.options[tag.selectedIndex]?.text.replace(/\s+\(\d+\)$/, "") ?? selectedTag}`);
+          if (filterState) filterState.textContent = active.length ? active.join(" · ") : "Everything indexed";
+
+          syncUrl();
         }
 
-        for (const nav of navs) {
+        for (const nav of familyNavs) {
           nav.addEventListener("click", () => {
-            selected = nav.dataset.resourceNav ?? "";
-            const url = new URL(window.location.href);
-            if (selected) url.searchParams.set("category", selected);
-            else url.searchParams.delete("category");
-            history.replaceState({}, "", url);
+            const value = nav.dataset.resourceFamily ?? "";
+            selectedFamily = selectedFamily === value && value ? "" : value;
+            if (category) category.value = "";
             apply();
-            root.querySelector(".resource-main")?.scrollIntoView({ behavior: "smooth", block: "start" });
           });
         }
 
         search?.addEventListener("input", () => apply());
+        category?.addEventListener("change", () => {
+          if (category.value) selectedFamily = familyOf(category.value);
+          apply();
+        });
+        host?.addEventListener("change", () => apply());
+        tag?.addEventListener("change", () => apply());
+        sort?.addEventListener("change", () => apply());
+        clear?.addEventListener("click", () => {
+          selectedFamily = "";
+          if (search) search.value = "";
+          if (category) category.value = "";
+          if (host) host.value = "";
+          if (tag) tag.value = "";
+          if (sort) sort.value = "name";
+          apply();
+        });
+
+        for (const chip of quickTags) {
+          chip.addEventListener("click", () => {
+            if (!tag) return;
+            const value = chip.dataset.resourceQuickTag ?? "";
+            tag.value = tag.value === value ? "" : value;
+            apply();
+          });
+        }
+
         more?.addEventListener("click", () => {
-          visibleLimit += 250;
+          visibleLimit += 200;
           apply(false);
         });
 
@@ -205,25 +425,85 @@ const ps2Symbols = ["△", "○", "×", "□"];
         fetch("/api/resources.json")
           .then((response) => response.json())
           .then((payload: { groups: ApiGroup[] }) => {
+            const hostCounts = new Map<string, number>();
+            const tagCounts = new Map<string, { label: string; count: number }>();
+            const genericTags = new Set(["ps2", "playstation 2", "playstation2"]);
+
+            payload.groups.forEach((group, index) => categorySymbols.set(group.category, symbols[index % symbols.length]));
             entries = payload.groups.flatMap((group) =>
               group.links.map((link) => {
-                const host = hostOf(link.url);
+                const resourceHost = hostOf(link.url);
+                hostCounts.set(resourceHost, (hostCounts.get(resourceHost) ?? 0) + 1);
+
+                const tagKeys: string[] = [];
+                for (const rawTag of link.keywords ?? []) {
+                  const label = String(rawTag).trim();
+                  const key = label.toLowerCase();
+                  if (!label || genericTags.has(key) || label.length > 38) continue;
+                  tagKeys.push(key);
+                  const current = tagCounts.get(key);
+                  tagCounts.set(key, { label: current?.label ?? label, count: (current?.count ?? 0) + 1 });
+                }
+
                 return {
                   ...link,
                   category: group.category,
                   categoryDescription: group.description,
-                  host,
+                  family: familyOf(group.category),
+                  host: resourceHost,
+                  tagKeys: [...new Set(tagKeys)],
                   search: [
                     link.name,
                     group.category,
                     group.description,
-                    host,
+                    familyOf(group.category),
+                    resourceHost,
                     urlTerms(link.url),
                     ...(link.keywords ?? [])
                   ].join(" ").toLowerCase()
                 };
               })
             );
+
+            if (host) {
+              const sortedHosts = Array.from(hostCounts.entries()).sort((a, b) => {
+                const countDelta = b[1] - a[1];
+                return countDelta || a[0].localeCompare(b[0]);
+              });
+              for (const hostEntry of sortedHosts) {
+                const value = hostEntry[0];
+                const total = hostEntry[1];
+                const option = document.createElement("option");
+                option.value = value;
+                option.textContent = `${value} (${total})`;
+                host.append(option);
+              }
+            }
+
+            if (tag) {
+              const sortedTags = Array.from(tagCounts.entries())
+                .sort((a, b) => {
+                  const countDelta = b[1].count - a[1].count;
+                  return countDelta || a[1].label.localeCompare(b[1].label);
+                })
+                .slice(0, 500);
+              for (const tagEntry of sortedTags) {
+                const key = tagEntry[0];
+                const item = tagEntry[1];
+                const option = document.createElement("option");
+                option.value = key;
+                option.textContent = `${item.label} (${item.count})`;
+                tag.append(option);
+              }
+            }
+
+            const url = new URL(window.location.href);
+            if (search) search.value = url.searchParams.get("q") ?? "";
+            if (category) category.value = url.searchParams.get("category") ?? "";
+            if (host) host.value = url.searchParams.get("host") ?? "";
+            if (tag) tag.value = url.searchParams.get("tag") ?? "";
+            if (sort) sort.value = url.searchParams.get("sort") ?? "name";
+            if (!selectedFamily && category?.value) selectedFamily = familyOf(category.value);
             apply();
           })
           .catch(() => {

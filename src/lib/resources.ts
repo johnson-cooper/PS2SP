@@ -65,6 +65,18 @@ import waybackPs2devCvs3Groups from "../../data/resources/wayback-ps2dev-cvs-3.j
 import waybackFreemcbootPageGroups from "../../data/resources/wayback-freemcboot-pages.json";
 import waybackPs2SceneProjectGroups from "../../data/resources/wayback-ps2-scene-projects.json";
 import ps2homebrewGithubDeepGroups from "../../data/resources/ps2homebrew-github-deep.json";
+import userSubmittedPs2LinkGroups from "../../data/resources/user-submitted-ps2-links-2026-09-30.json";
+import ps2DevWikiComDeepGroups from "../../data/resources/ps2devwiki-com-deep.json";
+import ps2DeepExpansionGroups from "../../data/resources/ps2-deep-expansion-2026-09-30.json";
+import crawledLegacyPs2DeepGroups from "../../data/resources/crawled-legacy-ps2-deep-2026-09-30.json";
+import ps2DevForumsLinuxDeepGroups from "../../data/resources/ps2dev-forums-linux-deep-2026-09-30.json";
+import ps2ProgrammingLinuxOnlineDeepGroups from "../../data/resources/ps2-programming-linux-online-deep-2026-09-30.json";
+import ps2CommunityDeepGroups from "../../data/resources/ps2-community-deep-2026-09-30.json";
+import internetArchivePs2Deep3Groups from "../../data/resources/internet-archive-ps2-deep-3-2026-09-30.json";
+import manualHardwareExploitsRegionalGroups from "../../data/resources/manual-hardware-exploits-regional-2026-09-30.json";
+import regionalSceneDeepGroups from "../../data/resources/regional-scene-deep-2026-09-30.json";
+import sourceforgeColdevFanportGroups from "../../data/resources/sourceforge-coldev-fanports-2026-09-30.json";
+import bitbuiltQuadeGussePs2DeepGroups from "../../data/resources/bitbuilt-quade-gusse-ps2-deep-2026-09-30.json";
 
 export interface ResourceLink {
   name: string;
@@ -152,7 +164,19 @@ const allResourceSources = [
   ...(waybackPs2devCvs3Groups as ResourceGroup[]),
   ...(waybackFreemcbootPageGroups as ResourceGroup[]),
   ...(waybackPs2SceneProjectGroups as ResourceGroup[]),
-  ...(ps2homebrewGithubDeepGroups as ResourceGroup[])
+  ...(ps2homebrewGithubDeepGroups as ResourceGroup[]),
+  ...(userSubmittedPs2LinkGroups as ResourceGroup[]),
+  ...(ps2DevWikiComDeepGroups as ResourceGroup[]),
+  ...(ps2DeepExpansionGroups as ResourceGroup[]),
+  ...(crawledLegacyPs2DeepGroups as ResourceGroup[]),
+  ...(ps2DevForumsLinuxDeepGroups as ResourceGroup[]),
+  ...(ps2ProgrammingLinuxOnlineDeepGroups as ResourceGroup[]),
+  ...(ps2CommunityDeepGroups as ResourceGroup[]),
+  ...(internetArchivePs2Deep3Groups as ResourceGroup[]),
+  ...(manualHardwareExploitsRegionalGroups as ResourceGroup[]),
+  ...(regionalSceneDeepGroups as ResourceGroup[]),
+  ...(sourceforgeColdevFanportGroups as ResourceGroup[]),
+  ...(bitbuiltQuadeGussePs2DeepGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {

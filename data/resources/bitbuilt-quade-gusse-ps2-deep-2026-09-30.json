@@ -1,0 +1,1457 @@
+[
+  {
+    "category": "BitBuilt — PS2 Hardware, Portable & Board Engineering",
+    "description": "Individual BitBuilt PlayStation 2 hardware-engineering threads covering motherboard trimming, board scans, PS2 portables, Ultra Slim builds, power systems, controller interfaces, Raspberry Pi/SMB networking, SD loading, repair, and custom PCB work.",
+    "links": [
+      {
+        "name": "BitBuilt PS2 — [Release] A PS2 Portable",
+        "url": "https://bitbuilt.net/forums/threads/release-a-ps2-portable.7161",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "[Release] A PS2 Portable"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — [2026 Contest Entry] NEXUS-M — PS2 Reimagined with ...",
+        "url": "https://bitbuilt.net/forums/threads/2026-contest-entry-nexus-m-%E2%80%94-ps2-reimagined-with-custom-multi-chip-system.7376",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "[2026 Contest Entry] NEXUS-M — PS2 Reimagined with ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — ps2 | BitBuilt - Giving Life to Old Consoles",
+        "url": "https://bitbuilt.net/forums/tags/ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "ps2 | BitBuilt - Giving Life to Old Consoles"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Solved - batteries on PS2 Portable",
+        "url": "https://bitbuilt.net/forums/threads/batteries-on-ps2-portable.6322",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Solved - batteries on PS2 Portable"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Mini PS2 Slim Build",
+        "url": "https://bitbuilt.net/forums/threads/mini-ps2-slim-build.7020",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Mini PS2 Slim Build"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Worklog - Making second PS2 portable",
+        "url": "https://bitbuilt.net/forums/threads/making-second-ps2-portable.4966",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Worklog - Making second PS2 portable"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — PS2 Ultra Slim | Page 16",
+        "url": "https://bitbuilt.net/forums/threads/ps2-ultra-slim.5077",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "PS2 Ultra Slim | Page 16"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Board scan - PS2 79000 Compendium",
+        "url": "https://bitbuilt.net/forums/threads/ps2-79000-compendium.4764",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Board scan - PS2 79000 Compendium"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — PS2 Portable Ultimate Version (my 4° modelo)",
+        "url": "https://bitbuilt.net/forums/threads/ps2-portable-ultimate-version-my-4%C2%B0-modelo.2874",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "PS2 Portable Ultimate Version (my 4° modelo)"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Release - PS2-PSU",
+        "url": "https://bitbuilt.net/forums/threads/ps2-psu.6712",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Release - PS2-PSU"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — PS2 SMB with a Raspberry Pi or how to load games at ...",
+        "url": "https://bitbuilt.net/forums/threads/ps2-smb-with-a-raspberry-pi-or-how-to-load-games-at-near-full-speed.1780",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "PS2 SMB with a Raspberry Pi or how to load games at ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Worklog - Some PS2 Project",
+        "url": "https://bitbuilt.net/forums/threads/some-ps2-project.5433",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Worklog - Some PS2 Project"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Question - Help needed with my PS2 Ultra Slim Mod",
+        "url": "https://bitbuilt.net/forums/threads/help-needed-with-my-ps2-ultra-slim-mod.7232",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Question - Help needed with my PS2 Ultra Slim Mod"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Worklog - PIS2, a long overdue ps2 portable | Page 4",
+        "url": "https://bitbuilt.net/forums/threads/pis2-a-long-overdue-ps2-portable.1681",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Worklog - PIS2, a long overdue ps2 portable | Page 4"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — ps2 portable",
+        "url": "https://bitbuilt.net/forums/tags/ps2-portable",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "ps2 portable"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Question - Ps2 ultraslim mod no reset pad",
+        "url": "https://bitbuilt.net/forums/threads/ps2-ultraslim-mod-no-reset-pad.5515",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Question - Ps2 ultraslim mod no reset pad"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — PS2 PMS",
+        "url": "https://bitbuilt.net/forums/threads/ps2-pms.6730",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "PS2 PMS"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — The PS2 Eclipse",
+        "url": "https://bitbuilt.net/forums/threads/the-ps2-eclipse.4448",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "The PS2 Eclipse"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Worklog - Original PS2 Controllers and Pressure Sensitivity",
+        "url": "https://bitbuilt.net/forums/threads/original-ps2-controllers-and-pressure-sensitivity.6643",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Worklog - Original PS2 Controllers and Pressure Sensitivity"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Worklog - An attempt to recreate the PS2 PCB | Page 2",
+        "url": "https://bitbuilt.net/forums/threads/an-attempt-to-recreate-the-ps2-pcb.4786",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Worklog - An attempt to recreate the PS2 PCB | Page 2"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Creating custom ROMs for the PS2 | Page 2",
+        "url": "https://bitbuilt.net/forums/threads/creating-custom-roms-for-the-ps2.6503",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Creating custom ROMs for the PS2 | Page 2"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Use raspberry pi to load ps1 and ps2 games over SMB ...",
+        "url": "https://bitbuilt.net/forums/threads/ps2-smb-use-raspberry-pi-to-load-ps1-and-ps2-games-over-smb-portability-optimizations.3371",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Use raspberry pi to load ps1 and ps2 games over SMB ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — My PS2 does not want to turn on",
+        "url": "https://bitbuilt.net/forums/threads/my-ps2-does-not-want-to-turn-on.1740",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "My PS2 does not want to turn on"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — PS2 SCPH-77004 only starts for one second",
+        "url": "https://bitbuilt.net/forums/threads/ps2-scph-77004-only-starts-for-one-second.6723",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "PS2 SCPH-77004 only starts for one second"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Question - [Last question UPDATED] Questions about my PS2 ...",
+        "url": "https://bitbuilt.net/forums/threads/last-question-updated-questions-about-my-ps2-slim-scph-77004-project-samba-router-and-ssd-integrated.5012",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Question - [Last question UPDATED] Questions about my PS2 ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — The PS2 Razer | BitBuilt - Giving Life to Old Consoles",
+        "url": "https://bitbuilt.net/forums/threads/the-ps2-razer.2296",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "The PS2 Razer | BitBuilt - Giving Life to Old Consoles"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Question - PS2 Slim (UltraSlim) freezing after booting up on ...",
+        "url": "https://bitbuilt.net/forums/threads/ps2-slim-ultraslim-freezing-after-booting-up-on-main-menu.7253",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Question - PS2 Slim (UltraSlim) freezing after booting up on ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Guide - Configuring your PS2 portable for SD loading (79k ...",
+        "url": "https://bitbuilt.net/forums/threads/configuring-your-ps2-portable-for-sd-loading-79k-models.4977",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Guide - Configuring your PS2 portable for SD loading (79k ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Worklog - current progress to custom ps2 \"super slim ...",
+        "url": "https://bitbuilt.net/forums/threads/current-progress-to-custom-ps2-super-slim.6538",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Worklog - current progress to custom ps2 \"super slim ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Release - Ps2 scph-79000 with a simple mod running with a ...",
+        "url": "https://bitbuilt.net/forums/threads/ps2-scph-79000-with-a-simple-mod-running-with-a-single-18650.4924",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Release - Ps2 scph-79000 with a simple mod running with a ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Y2K's PS2 Ultra Slim | BitBuilt - Giving Life to Old Consoles",
+        "url": "https://bitbuilt.net/forums/threads/y2ks-ps2-ultra-slim.6376",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Y2K's PS2 Ultra Slim | BitBuilt - Giving Life to Old Consoles"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Guide - ps2 slim 79001 cpu - sb undervolt with original ...",
+        "url": "https://bitbuilt.net/forums/threads/ps2-slim-79001-cpu-sb-undervolt-with-original-regulator.7213",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Guide - ps2 slim 79001 cpu - sb undervolt with original ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Question - PS2 7000X trimming problem? | BitBuilt - Giving ...",
+        "url": "https://bitbuilt.net/forums/threads/ps2-7000x-trimming-problem.1965",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Question - PS2 7000X trimming problem? | BitBuilt - Giving ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Ps2 Wii U Tablet Controller IC",
+        "url": "https://bitbuilt.net/forums/threads/ps2-wii-u-tablet-controller-ic.6272",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Ps2 Wii U Tablet Controller IC"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Question - ps2 portable",
+        "url": "https://bitbuilt.net/forums/threads/ps2-portable.7199",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Question - ps2 portable"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Question - Compatibility with 3rd party ps2 controller",
+        "url": "https://bitbuilt.net/forums/threads/compatibility-with-3rd-party-ps2-controller.6604",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Question - Compatibility with 3rd party ps2 controller"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Worklog - PS2 CLASSIC!",
+        "url": "https://bitbuilt.net/forums/threads/ps2-classic.3384",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Worklog - PS2 CLASSIC!"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Ps2 advance trim no signal",
+        "url": "https://bitbuilt.net/forums/threads/ps2-advance-trim-no-signal.6942",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Ps2 advance trim no signal"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Yet another PS2 portable build.",
+        "url": "https://bitbuilt.net/forums/threads/yet-another-ps2-portable-build.6951",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Yet another PS2 portable build."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Portable PS2 Laptop, need help picking electronic ...",
+        "url": "https://bitbuilt.net/forums/threads/portable-ps2-laptop-need-help-picking-electronic-components.7481",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Portable PS2 Laptop, need help picking electronic ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — The last one, ps2 portable",
+        "url": "https://bitbuilt.net/forums/threads/the-last-one-ps2-portable.5588",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "The last one, ps2 portable"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Model - PS2 Slim Console Scan (79k) | BitBuilt - Giving Life ...",
+        "url": "https://bitbuilt.net/forums/threads/ps2-slim-console-scan-79k.5074",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Model - PS2 Slim Console Scan (79k) | BitBuilt - Giving Life ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Release - PS2+ Official Release | BitBuilt - Giving Life to ...",
+        "url": "https://bitbuilt.net/forums/threads/ps2-official-release.2897",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Release - PS2+ Official Release | BitBuilt - Giving Life to ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Worklog - [2022 Contest Entry] First Portable: The PS2",
+        "url": "https://bitbuilt.net/forums/threads/2022-contest-entry-first-portable-the-ps2.5006",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Worklog - [2022 Contest Entry] First Portable: The PS2"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — PIS2 - PS2 portable with build in SMB server - bitbuilt.net",
+        "url": "https://bitbuilt.net/forums/threads/pis2-ps2-portable-with-build-in-smb-server.2925",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "PIS2 - PS2 portable with build in SMB server - bitbuilt.net"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Board scan - BOARD SCAN PS2 90006-90010 | Page 2 | BitBuilt ...",
+        "url": "https://bitbuilt.net/forums/threads/board-scan-ps2-90006-90010.4340",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Board scan - BOARD SCAN PS2 90006-90010 | Page 2 | BitBuilt ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Question - Ps2 VGA | BitBuilt - Giving Life to Old Consoles",
+        "url": "https://bitbuilt.net/forums/threads/ps2-vga.5139",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Question - Ps2 VGA | BitBuilt - Giving Life to Old Consoles"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — PS2 emulation inside a PSP 2001 ?? | BitBuilt - Giving Life ...",
+        "url": "https://bitbuilt.net/forums/threads/ps2-emulation-inside-a-psp-2001.3869",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "PS2 emulation inside a PSP 2001 ?? | BitBuilt - Giving Life ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Ps2 motherboard question | BitBuilt - Giving Life to Old Consoles",
+        "url": "https://bitbuilt.net/forums/threads/ps2-motherboard-question.5165",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Ps2 motherboard question | BitBuilt - Giving Life to Old Consoles"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — PS2 controller PCB files | Page 2 | BitBuilt - Giving Life to ...",
+        "url": "https://bitbuilt.net/forums/threads/ps2-controller-pcb-files.2313",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "PS2 controller PCB files | Page 2 | BitBuilt - Giving Life to ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Different PS2 slim models; which to use for an easy trimming?",
+        "url": "https://bitbuilt.net/forums/threads/different-ps2-slim-models-which-to-use-for-an-easy-trimming.3872",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Different PS2 slim models; which to use for an easy trimming?"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Board scan - BOARD SCAN PS2 79003 | BitBuilt - Giving Life to ...",
+        "url": "https://bitbuilt.net/forums/threads/board-scan-ps2-79003.4778",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Board scan - BOARD SCAN PS2 79003 | BitBuilt - Giving Life to ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Worklog - My PS2 portable project | BitBuilt - Giving Life to ...",
+        "url": "https://bitbuilt.net/forums/threads/my-ps2-portable-project.2875",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Worklog - My PS2 portable project | BitBuilt - Giving Life to ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Worklog - Ps2 portable | BitBuilt - Giving Life to Old Consoles",
+        "url": "https://bitbuilt.net/forums/threads/ps2-portable.3060",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Worklog - Ps2 portable | BitBuilt - Giving Life to Old Consoles"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — PS2 and Raspberry pi 4 | BitBuilt - Giving Life to Old Consoles",
+        "url": "https://bitbuilt.net/forums/threads/ps2-and-raspberry-pi-4.4944",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "PS2 and Raspberry pi 4 | BitBuilt - Giving Life to Old Consoles"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Solved - Best Screen Setup for Portable PS2 | BitBuilt ...",
+        "url": "https://bitbuilt.net/forums/threads/best-screen-setup-for-portable-ps2.6614",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Solved - Best Screen Setup for Portable PS2 | BitBuilt ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — The smallest PS2 trim, and what components can be ...",
+        "url": "https://bitbuilt.net/forums/threads/the-smallest-ps2-trim-and-what-components-can-be-removed.4070",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "The smallest PS2 trim, and what components can be ..."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — First ps2 portable",
+        "url": "https://bitbuilt.net/forums/threads/first-ps2-portable.5138",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "First ps2 portable"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Question - PS2 portable no boot - asking advice:) | Page 2",
+        "url": "https://bitbuilt.net/forums/threads/ps2-portable-no-boot-asking-advice.7370",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Question - PS2 portable no boot - asking advice:) | Page 2"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Worklog - Ginger Does a PS2 Thing",
+        "url": "https://bitbuilt.net/forums/threads/ginger-does-a-ps2-thing.3407",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Worklog - Ginger Does a PS2 Thing"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Worklog - PS2 90004 New trim",
+        "url": "https://bitbuilt.net/forums/threads/ps2-90004-new-trim.5845",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Worklog - PS2 90004 New trim"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Worklog - My First Portable PS2 (Model SCPH-79001)",
+        "url": "https://bitbuilt.net/forums/threads/my-first-portable-ps2-model-scph-79001.6111",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Worklog - My First Portable PS2 (Model SCPH-79001)"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Another PS2 portable.",
+        "url": "https://bitbuilt.net/forums/threads/another-ps2-portable.6815",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Another PS2 portable."
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — Question - My Trimmed PS2 Won't Boot",
+        "url": "https://bitbuilt.net/forums/threads/my-trimmed-ps2-wont-boot.6655",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "Question - My Trimmed PS2 Won't Boot"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — playstation 2",
+        "url": "https://bitbuilt.net/forums/tags/playstation-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "playstation 2"
+        ]
+      },
+      {
+        "name": "BitBuilt PS2 — playstation 2 portable",
+        "url": "https://bitbuilt.net/forums/tags/playstation-2-portable",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BitBuilt",
+          "portable",
+          "hardware",
+          "trim",
+          "modding",
+          "playstation 2 portable"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Modbo Installation — William Quade",
+    "description": "Per-revision Modbo installation references and PS2 modchip history from William Quade's PlayStation 2 modchip guide.",
+    "links": [
+      {
+        "name": "William Quade PS2 — History of Modbo modchip versions - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/version-history",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "History of Modbo modchip versions - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — Modbo modchip installation guide - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "Modbo modchip installation guide - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V1 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V1 Modbo modchip installation diagram - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V2 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V2 Modbo modchip installation diagram - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V3 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V3 Modbo modchip installation diagram - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V4 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V4 Modbo modchip installation diagram - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V5 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v5",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V5 Modbo modchip installation diagram - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V6 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v6",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V6 Modbo modchip installation diagram - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V7 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v7",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V7 Modbo modchip installation diagram - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V8 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v8",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V8 Modbo modchip installation diagram - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V9 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v9",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V9 Modbo modchip installation diagram - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V10 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v10",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V10 Modbo modchip installation diagram - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V12 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v12",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V12 Modbo modchip installation diagram - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V13 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v13",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V13 Modbo modchip installation diagram - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V14 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v14",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V14 Modbo modchip installation diagram - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V15 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v15",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V15 Modbo modchip installation diagram - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V16 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v16",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V16 Modbo modchip installation diagram - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V17 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v17",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V17 Modbo modchip installation diagram - William Quade"
+        ]
+      },
+      {
+        "name": "William Quade PS2 — V18 Modbo modchip installation diagram - William Quade",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/v18",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Modbo",
+          "modchip",
+          "installation",
+          "diagram",
+          "V18 Modbo modchip installation diagram - William Quade"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Gusse PS2 Hardware & Modchip Projects",
+    "description": "PS2 hardware modification references covering Modbo diagrams, Slim IDE resurrector, SD mods, Methylene, Super PS2 cartridge hardware, diagnostics, and related installation material.",
+    "links": [
+      {
+        "name": "Gusse PS2 — PS2 SLiM SCPH70xxx iDE Resurrector installation guide",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/ps2-slim-scph70xxx-flex-cable-resurrector-installation-guide",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "PS2 SLiM SCPH70xxx iDE Resurrector installation guide"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — PS2 SLiM Methylene hardware installation and usage",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/ps2-slim-methylene-hardware-installation-and-usage",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "PS2 SLiM Methylene hardware installation and usage"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — PS2 FAT Methylene hardware installation and usage",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/ps2-fat-methylene-hardware-installation-and-usage",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "PS2 FAT Methylene hardware installation and usage"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — IDE installation troubleshoot guide - Gusse console",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/ide-installation-troubleshoot-guide",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "IDE installation troubleshoot guide - Gusse console"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — Methylene troubleshoot guide - Gusse console",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/methylene-troubleshoot-guide",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "Methylene troubleshoot guide - Gusse console"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — Methylene OLED status screen install - Gusse console",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/methylene-oled-status-screen-install",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "Methylene OLED status screen install - Gusse console"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — Playstation 2 HDD/SSD/SDMod prepare - Gusse console",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/playstation-2-sd-mod-prepare",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "Playstation 2 HDD/SSD/SDMod prepare - Gusse console"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — Super Playstation 2 – Cartridge system installation guide",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/super-playstation-2-cartridge-system-installation-guide",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "Super Playstation 2 – Cartridge system installation guide"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — Playstation 2 SD Mod usage - Gusse console",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/playstation-2-sd-mod-usage",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "Playstation 2 SD Mod usage - Gusse console"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — PSX DESR – 7X00/5X00 | Modbo/Matrix Infinity installation ...",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/psx-desr-7x00-5x00-modbo-matrix-infinity-installation-diagram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "PSX DESR – 7X00/5X00 | Modbo/Matrix Infinity installation ..."
+        ]
+      },
+      {
+        "name": "Gusse PS2 — Playstation 2 – SCPH900xx V17 / V18 - Gusse console",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/playstation-2-scph900xx-v17-v18-modbo-installation-diagram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "Playstation 2 – SCPH900xx V17 / V18 - Gusse console"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — Playstation 2 – SCPH700xx V12 | Modbo installation diagram",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/playstation-2-scph700xx-v12-modbo-installation-diagram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "Playstation 2 – SCPH700xx V12 | Modbo installation diagram"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — Playstation 2 – V1 | Modbo installation diagram - Gusse console",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/playstation-2-v1-modbo-installation-diagram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "Playstation 2 – V1 | Modbo installation diagram - Gusse console"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — Playstation 2 – V2 | Modbo installation diagram - Gusse console",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/playstation-2-v2-modbo-installation-diagram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "Playstation 2 – V2 | Modbo installation diagram - Gusse console"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — Playstation 2 – V3 | Modbo installation diagram - Gusse console",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/playstation-2-v3-modbo-installation-diagram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "Playstation 2 – V3 | Modbo installation diagram - Gusse console"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — Playstation 2 – V4 | Modbo installation diagram - Gusse console",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/playstation-2-v4-modbo-installation-diagram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "Playstation 2 – V4 | Modbo installation diagram - Gusse console"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — Playstation 2 – SCPH700xx V13 | Modbo installation diagram",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/playstation-2-scph700xx-v13-modbo-installation-diagram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "Playstation 2 – SCPH700xx V13 | Modbo installation diagram"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — Playstation 2 – SCPH750xx V14 | Modbo installation diagram",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/playstation-2-scph750xx-v14-modbo-installation-diagram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "Playstation 2 – SCPH750xx V14 | Modbo installation diagram"
+        ]
+      },
+      {
+        "name": "Gusse PS2 — Playstation 2 – SCPH770xx V15 | Modbo installation diagram",
+        "url": "https://gusse.in/ps2-modchip-diagram-and-resources/playstation-2-scph770xx-v15-modbo-installation-diagram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "hardware",
+          "modchip",
+          "SD mod",
+          "IDE",
+          "Methylene",
+          "Playstation 2 – SCPH770xx V15 | Modbo installation diagram"
+        ]
+      }
+    ]
+  }
+]
