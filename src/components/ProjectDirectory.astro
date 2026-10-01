@@ -1,5 +1,5 @@
 ---
-import { categoryLabel, formatDate } from "../lib/catalog";
+import { categoryLabel } from "../lib/catalog";
 import type { SoftwareCatalogEntry } from "../lib/software";
 
 interface Props {
@@ -7,13 +7,15 @@ interface Props {
   showCategoryFilter?: boolean;
   heading?: string;
   description?: string;
+  scopeCategory?: string;
 }
 
 const {
   entries,
   showCategoryFilter = true,
   heading,
-  description
+  description,
+  scopeCategory = ""
 } = Astro.props;
 
 const categories = [...new Set(entries.flatMap((entry) => entry.categories))].sort((a, b) =>
@@ -45,17 +47,15 @@ const tags = [...tagCounts.entries()]
   .sort((a, b) => b[1].count - a[1].count || a[1].label.localeCompare(b[1].label))
   .slice(0, 180);
 const quickTags = tags.slice(0, 14);
-
-function visibleTags(entry: SoftwareCatalogEntry) {
-  return entry.tags
-    .map((tag) => String(tag).trim())
-    .filter((tag) => tag && !genericTags.has(tag.toLowerCase()) && tag.length <= 30)
-    .filter((tag, index, all) => all.findIndex((other) => other.toLowerCase() === tag.toLowerCase()) === index)
-    .slice(0, 4);
-}
+const categorySymbolData = Object.fromEntries(categorySymbols);
 ---
 
-<section class="directory-shell" data-project-directory>
+<section
+  class="directory-shell"
+  data-project-directory
+  data-project-scope-category={scopeCategory}
+  data-category-symbols={JSON.stringify(categorySymbolData)}
+>
   {(heading || description) && (
     <div class="directory-intro">
       {heading && <h2>{heading}</h2>}
@@ -133,10 +133,10 @@ function visibleTags(entry: SoftwareCatalogEntry) {
 
   <div class="directory-summary directory-summary-rich" aria-live="polite">
     <div><strong data-project-count>{entries.length}</strong><span> software entries shown</span></div>
-    <small data-project-filter-state>All software</small>
+    <small data-project-filter-state>{scopeCategory ? categoryLabel(scopeCategory) : "All software"}</small>
   </div>
 
-  <div class="project-index" data-project-list>
+  <div class="project-index">
     <div class="project-index-head" aria-hidden="true">
       <span>#</span>
       <span>Software</span>
@@ -144,71 +144,28 @@ function visibleTags(entry: SoftwareCatalogEntry) {
       <span>Release</span>
       <span>Activity</span>
     </div>
-
-    {entries.map((entry, index) => {
-      const updatedMs = entry.updatedAt ? (new Date(entry.updatedAt).getTime() || 0) : 0;
-      const rowTags = visibleTags(entry);
-      const tagKeys = entry.tags.map((tag) => String(tag).trim().toLowerCase()).filter(Boolean);
-      const isFork = tagKeys.includes("fork");
-      const searchText = [
-        entry.name,
-        entry.summary,
-        ...entry.tags,
-        ...entry.features,
-        ...entry.categories.map(categoryLabel),
-        isFork ? "fork" : "",
-        entry.sourceKind === "resource" ? "external legacy" : "github tracked"
-      ].join(" ").toLowerCase();
-
-      return (
-        <a
-          class="project-index-row"
-          href={entry.href}
-          target={entry.external ? "_blank" : undefined}
-          rel={entry.external ? "noopener noreferrer" : undefined}
-          data-project-row
-          data-search={searchText}
-          data-categories={entry.categories.join(" ")}
-          data-name={entry.name.toLowerCase()}
-          data-primary-category={entry.categories[0] ?? "uncategorized"}
-          data-updated={updatedMs}
-          data-source-kind={entry.sourceKind}
-          data-fork={isFork ? "true" : "false"}
-          data-archived={entry.archived ? "true" : "false"}
-          data-tags={tagKeys.join("|||")}
-        >
-          <span class="project-index-number">{String(index + 1).padStart(3, "0")}</span>
-          <span class="project-index-main">
-            <strong>{entry.name}</strong>
-            <span>{entry.summary}</span>
-            {rowTags.length > 0 && (
-              <span class="row-tag-list" aria-label="Tags">
-                {rowTags.map((tag) => <span class="row-tag">{tag}</span>)}
-              </span>
-            )}
-          </span>
-          <span class="project-index-type">
-            <span class="status-dot" data-state={entry.archived ? "archived" : entry.sourceKind === "resource" ? "external" : isFork ? "fork" : "tracked"}></span>
-            <span class="category-badge">
-              <span class="ps2-symbol" aria-hidden="true">{categorySymbols.get(entry.categories[0] ?? "uncategorized") ?? "◇"}</span>
-              <span>{categoryLabel(entry.categories[0] ?? "uncategorized")}</span>
-            </span>
-          </span>
-          <span class="project-index-release">
-            {isFork ? "fork" : entry.releaseTag ?? (entry.sourceKind === "resource" ? "external" : "—")}
-          </span>
-          <span class="project-index-activity">
-            <time datetime={entry.updatedAt ?? undefined}>{entry.updatedAt ? formatDate(entry.updatedAt) : "Indexed"}</time>
-            <span class="row-arrow" aria-hidden="true">{entry.external ? "↗" : "→"}</span>
-          </span>
-        </a>
-      );
-    })}
+    <div data-project-results aria-live="polite"></div>
   </div>
 
+  <p class="directory-loading" data-project-loading>Loading software index…</p>
   <p class="empty directory-empty" data-project-empty hidden>No software entries match those filters.</p>
+  <button class="resource-more" type="button" data-project-more hidden>Load more software</button>
 
   <script>
+    interface SoftwareEntry {
+      name: string;
+      summary: string;
+      categories: string[];
+      tags: string[];
+      features: string[];
+      href: string;
+      external: boolean;
+      archived: boolean;
+      releaseTag: string | null;
+      updatedAt: string | null;
+      sourceKind: "project" | "resource";
+    }
+
     const roots = document.querySelectorAll<HTMLElement>("[data-project-directory]");
 
     for (const root of roots) {
@@ -219,11 +176,22 @@ function visibleTags(entry: SoftwareCatalogEntry) {
       const sort = root.querySelector<HTMLSelectElement>("[data-project-sort]");
       const clear = root.querySelector<HTMLButtonElement>("[data-project-clear]");
       const quickTags = [...root.querySelectorAll<HTMLButtonElement>("[data-project-quick-tag]")];
-      const list = root.querySelector<HTMLElement>("[data-project-list]");
-      const rows = [...root.querySelectorAll<HTMLElement>("[data-project-row]")];
+      const results = root.querySelector<HTMLElement>("[data-project-results]");
       const count = root.querySelector<HTMLElement>("[data-project-count]");
       const state = root.querySelector<HTMLElement>("[data-project-filter-state]");
       const empty = root.querySelector<HTMLElement>("[data-project-empty]");
+      const loading = root.querySelector<HTMLElement>("[data-project-loading]");
+      const more = root.querySelector<HTMLButtonElement>("[data-project-more]");
+      const scopeCategory = root.dataset.projectScopeCategory ?? "";
+      let categorySymbols: Record<string, string> = {};
+      try {
+        categorySymbols = JSON.parse(root.dataset.categorySymbols ?? "{}");
+      } catch {
+        categorySymbols = {};
+      }
+
+      let entries: SoftwareEntry[] = [];
+      let visibleLimit = 300;
 
       const url = new URL(window.location.href);
       if (search) search.value = url.searchParams.get("q") ?? "";
@@ -231,6 +199,125 @@ function visibleTags(entry: SoftwareCatalogEntry) {
       if (tag) tag.value = url.searchParams.get("tag") ?? "";
       if (source) source.value = url.searchParams.get("source") ?? "";
       if (sort) sort.value = url.searchParams.get("sort") ?? "updated";
+
+      function formatDate(value: string | null) {
+        if (!value) return "Indexed";
+        const date = new Date(value);
+        if (Number.isNaN(date.getTime())) return "Indexed";
+        return new Intl.DateTimeFormat("en-US", {
+          year: "numeric",
+          month: "short",
+          day: "numeric"
+        }).format(date);
+      }
+
+      function categoryLabelClient(value: string) {
+        return value
+          .split("-")
+          .map((part) => part ? part[0].toUpperCase() + part.slice(1) : part)
+          .join(" ")
+          .replace(/^Sdks$/, "SDKs");
+      }
+
+      function visibleTags(entry: SoftwareEntry) {
+        const generic = new Set([
+          "ps2",
+          "playstation 2",
+          "playstation2",
+          "auto-discovered",
+          "resource-index",
+          "pending-promoted"
+        ]);
+        return entry.tags
+          .map((value) => String(value).trim())
+          .filter((value) => value && !generic.has(value.toLowerCase()) && value.length <= 30)
+          .filter((value, index, all) => all.findIndex((other) => other.toLowerCase() === value.toLowerCase()) === index)
+          .slice(0, 4);
+      }
+
+      function sourceMatches(entry: SoftwareEntry, selected: string) {
+        if (!selected) return true;
+        const tagKeys = entry.tags.map((value) => String(value).trim().toLowerCase());
+        if (selected === "tracked") return entry.sourceKind === "project";
+        if (selected === "external") return entry.sourceKind === "resource";
+        if (selected === "fork") return tagKeys.includes("fork");
+        if (selected === "archived") return entry.archived;
+        return true;
+      }
+
+      function makeRow(entry: SoftwareEntry, index: number) {
+        const tagKeys = entry.tags.map((value) => String(value).trim().toLowerCase());
+        const isFork = tagKeys.includes("fork");
+        const primaryCategory = entry.categories[0] ?? "uncategorized";
+
+        const anchor = document.createElement("a");
+        anchor.className = "project-index-row";
+        anchor.href = entry.href;
+        if (entry.external) {
+          anchor.target = "_blank";
+          anchor.rel = "noopener noreferrer";
+        }
+
+        const number = document.createElement("span");
+        number.className = "project-index-number";
+        number.textContent = String(index + 1).padStart(3, "0");
+
+        const main = document.createElement("span");
+        main.className = "project-index-main";
+        const name = document.createElement("strong");
+        name.textContent = entry.name;
+        const summary = document.createElement("span");
+        summary.textContent = entry.summary;
+        main.append(name, summary);
+
+        const rowTags = visibleTags(entry);
+        if (rowTags.length) {
+          const tags = document.createElement("span");
+          tags.className = "row-tag-list";
+          tags.setAttribute("aria-label", "Tags");
+          for (const value of rowTags) {
+            const chip = document.createElement("span");
+            chip.className = "row-tag";
+            chip.textContent = value;
+            tags.append(chip);
+          }
+          main.append(tags);
+        }
+
+        const type = document.createElement("span");
+        type.className = "project-index-type";
+        const dot = document.createElement("span");
+        dot.className = "status-dot";
+        dot.dataset.state = entry.archived ? "archived" : entry.sourceKind === "resource" ? "external" : isFork ? "fork" : "tracked";
+        const badge = document.createElement("span");
+        badge.className = "category-badge";
+        const symbol = document.createElement("span");
+        symbol.className = "ps2-symbol";
+        symbol.setAttribute("aria-hidden", "true");
+        symbol.textContent = categorySymbols[primaryCategory] ?? "◇";
+        const categoryName = document.createElement("span");
+        categoryName.textContent = categoryLabelClient(primaryCategory);
+        badge.append(symbol, categoryName);
+        type.append(dot, badge);
+
+        const release = document.createElement("span");
+        release.className = "project-index-release";
+        release.textContent = isFork ? "fork" : entry.releaseTag ?? (entry.sourceKind === "resource" ? "external" : "—");
+
+        const activity = document.createElement("span");
+        activity.className = "project-index-activity";
+        const time = document.createElement("time");
+        if (entry.updatedAt) time.dateTime = entry.updatedAt;
+        time.textContent = formatDate(entry.updatedAt);
+        const arrow = document.createElement("span");
+        arrow.className = "row-arrow";
+        arrow.setAttribute("aria-hidden", "true");
+        arrow.textContent = entry.external ? "↗" : "→";
+        activity.append(time, arrow);
+
+        anchor.append(number, main, type, release, activity);
+        return anchor;
+      }
 
       function syncUrl() {
         const next = new URL(window.location.href);
@@ -248,63 +335,61 @@ function visibleTags(entry: SoftwareCatalogEntry) {
         history.replaceState({}, "", next);
       }
 
-      function sourceMatches(row: HTMLElement, selected: string) {
-        if (!selected) return true;
-        if (selected === "tracked") return row.dataset.sourceKind === "project";
-        if (selected === "external") return row.dataset.sourceKind === "resource";
-        if (selected === "fork") return row.dataset.fork === "true";
-        if (selected === "archived") return row.dataset.archived === "true";
-        return true;
-      }
-
-      function apply() {
-        if (!list) return;
+      function apply(resetLimit = true) {
+        if (resetLimit) visibleLimit = 300;
 
         const query = search?.value.trim().toLowerCase() ?? "";
         const selectedCategory = category?.value ?? "";
         const selectedTag = tag?.value ?? "";
         const selectedSource = source?.value ?? "";
-        let visible = 0;
 
-        for (const row of rows) {
-          const tags = (row.dataset.tags ?? "").split("|||");
-          const matchesText = !query || (row.dataset.search ?? "").includes(query);
-          const matchesCategory = !selectedCategory || (row.dataset.categories ?? "").split(" ").includes(selectedCategory);
-          const matchesTag = !selectedTag || tags.includes(selectedTag);
-          const matchesSource = sourceMatches(row, selectedSource);
-          row.hidden = !(matchesText && matchesCategory && matchesTag && matchesSource);
-          if (!row.hidden) visible++;
-        }
+        const filtered = entries.filter((entry) => {
+          if (scopeCategory && !entry.categories.includes(scopeCategory)) return false;
+          if (selectedCategory && !entry.categories.includes(selectedCategory)) return false;
+          if (selectedTag && !entry.tags.some((value) => String(value).trim().toLowerCase() === selectedTag)) return false;
+          if (!sourceMatches(entry, selectedSource)) return false;
+          if (!query) return true;
 
-        const mode = sort?.value ?? "updated";
-        const sorted = [...rows].sort((a, b) => {
-          if (mode === "updated") {
-            const delta = Number(b.dataset.updated ?? 0) - Number(a.dataset.updated ?? 0);
-            if (delta) return delta;
-          }
-          if (mode === "name-desc") return (b.dataset.name ?? "").localeCompare(a.dataset.name ?? "");
-          if (mode === "category") {
-            const delta = (a.dataset.primaryCategory ?? "").localeCompare(b.dataset.primaryCategory ?? "");
-            if (delta) return delta;
-          }
-          return (a.dataset.name ?? "").localeCompare(b.dataset.name ?? "");
+          const isFork = entry.tags.some((value) => String(value).trim().toLowerCase() === "fork");
+          const haystack = [
+            entry.name,
+            entry.summary,
+            ...entry.tags,
+            ...entry.features,
+            ...entry.categories,
+            isFork ? "fork" : "",
+            entry.sourceKind === "resource" ? "external legacy" : "github tracked"
+          ].join(" ").toLowerCase();
+          return haystack.includes(query);
         });
 
-        let visibleIndex = 0;
-        for (const row of sorted) {
-          list.appendChild(row);
-          if (!row.hidden) {
-            visibleIndex++;
-            const number = row.querySelector<HTMLElement>(".project-index-number");
-            if (number) number.textContent = String(visibleIndex).padStart(3, "0");
+        const mode = sort?.value ?? "updated";
+        filtered.sort((a, b) => {
+          if (mode === "updated") {
+            const delta = new Date(b.updatedAt ?? 0).getTime() - new Date(a.updatedAt ?? 0).getTime();
+            if (delta) return delta;
           }
-        }
+          if (mode === "name-desc") return b.name.localeCompare(a.name);
+          if (mode === "category") {
+            const delta = (a.categories[0] ?? "").localeCompare(b.categories[0] ?? "");
+            if (delta) return delta;
+          }
+          return a.name.localeCompare(b.name);
+        });
 
-        if (count) count.textContent = String(visible);
-        if (empty) empty.hidden = visible !== 0;
+        if (count) count.textContent = String(filtered.length);
+        if (empty) empty.hidden = filtered.length !== 0;
+        if (results) {
+          results.replaceChildren(...filtered.slice(0, visibleLimit).map((entry, index) => makeRow(entry, index)));
+        }
+        if (more) {
+          more.hidden = filtered.length <= visibleLimit;
+          more.textContent = `Load more software (${Math.min(300, Math.max(0, filtered.length - visibleLimit))} next)`;
+        }
 
         const active: string[] = [];
         if (query) active.push(`search “${search?.value.trim()}”`);
+        if (scopeCategory) active.push(categoryLabelClient(scopeCategory));
         if (selectedCategory && category) active.push(category.options[category.selectedIndex]?.text.replace(/^[△○×□]\s*/, "") ?? selectedCategory);
         if (selectedTag && tag) active.push(`tag: ${tag.options[tag.selectedIndex]?.text.replace(/\s+\(\d+\)$/, "") ?? selectedTag}`);
         if (selectedSource && source) active.push(source.options[source.selectedIndex]?.text ?? selectedSource);
@@ -326,12 +411,16 @@ function visibleTags(entry: SoftwareCatalogEntry) {
         apply();
       }
 
-      search?.addEventListener("input", apply);
-      category?.addEventListener("change", apply);
-      tag?.addEventListener("change", apply);
-      source?.addEventListener("change", apply);
-      sort?.addEventListener("change", apply);
+      search?.addEventListener("input", () => apply());
+      category?.addEventListener("change", () => apply());
+      tag?.addEventListener("change", () => apply());
+      source?.addEventListener("change", () => apply());
+      sort?.addEventListener("change", () => apply());
       clear?.addEventListener("click", clearFilters);
+      more?.addEventListener("click", () => {
+        visibleLimit += 300;
+        apply(false);
+      });
 
       for (const chip of quickTags) {
         chip.addEventListener("click", () => {
@@ -350,7 +439,22 @@ function visibleTags(entry: SoftwareCatalogEntry) {
         search?.focus();
       });
 
-      apply();
+      fetch("/api/software.json")
+        .then((response) => {
+          if (!response.ok) throw new Error(`Software index request failed: ${response.status}`);
+          return response.json();
+        })
+        .then((payload: { entries: SoftwareEntry[] }) => {
+          entries = payload.entries;
+          if (loading) loading.hidden = true;
+          apply();
+        })
+        .catch(() => {
+          if (loading) {
+            loading.textContent = "The software index could not be loaded.";
+          }
+          if (count) count.textContent = "0";
+        });
     }
   </script>
 </section>
