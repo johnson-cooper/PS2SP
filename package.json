@@ -14,7 +14,8 @@
     "catalog:sync": "node scripts/sync-github.mjs",
     "catalog:discover": "node scripts/discover-github.mjs",
     "catalog:promote-pending": "node scripts/promote-pending.mjs",
-    "catalog:discover-web": "node scripts/discover-web.mjs"
+    "catalog:discover-web": "node scripts/discover-web.mjs",
+    "catalog:discover-github-depth": "node scripts/discover-github-depth.mjs"
   },
   "dependencies": {
     "astro": "^7.3.5",
