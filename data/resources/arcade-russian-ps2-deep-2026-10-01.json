@@ -1,0 +1,293 @@
+[
+  {
+    "category": "PS2 Arcade Hardware — Namco System 246/256 & COH-H",
+    "description": "Specialist PlayStation 2-derived arcade hardware threads covering Namco System 246/256, COH-H10020 security dongles, SD2PSX, MechaEmu, KELF tooling, Neutrino and Conquest Card work.",
+    "links": [
+      {
+        "name": "Arcade-Projects — Access COH-H10020 Security Dongles from Retail PS2 Hardware",
+        "url": "https://www.arcade-projects.com/threads/wlaunchelf-mechaemu-access-your-coh-h10020-security-dongles-from-retail-hardware.31828/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "arcade",
+          "COH-H10020",
+          "Namco System 246",
+          "Namco System 256",
+          "MechaEmu",
+          "wLaunchELF",
+          "kelftool",
+          "security dongle",
+          "KELF",
+          "hardware",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Arcade-Projects — Neutrino on Namco System 246/256",
+        "url": "https://www.arcade-projects.com/threads/ps2-neutrino-possibly-be-ported-for-use-on-the-2x6-systems.36093/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "arcade",
+          "Namco System 246",
+          "Namco System 256",
+          "Neutrino",
+          "SD2PSX",
+          "loader",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Arcade-Projects — System 256 Use with 246 Rack B/C",
+        "url": "https://www.arcade-projects.com/threads/system-256-use-for-246-rack-b-c.35459/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "arcade",
+          "Namco System 246",
+          "Namco System 256",
+          "BIOS",
+          "dongle",
+          "hardware"
+        ]
+      },
+      {
+        "name": "Arcade-Projects — Pre-built SD for SD2PSX / PSXMemCard Gen2",
+        "url": "https://www.arcade-projects.com/threads/pre-built-sd-for-1-0-0-rc1-for-use-with-sd2psx-psxmemcardgen2.32720/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "arcade",
+          "Namco System 246",
+          "Namco System 256",
+          "SD2PSX",
+          "PSXMemCard Gen2",
+          "memory card",
+          "SD"
+        ]
+      },
+      {
+        "name": "Arcade-Projects — SoulCalibur II Conquest Card Dumps",
+        "url": "https://www.arcade-projects.com/threads/request-soulcalibur2-conquest-card-dumps-request.33754/page-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "arcade",
+          "Namco System 246",
+          "SoulCalibur II",
+          "Conquest Card",
+          "memory card",
+          "preservation"
+        ]
+      },
+      {
+        "name": "Arcade-Projects — SC2MAKER Converts SCPH-10020 to Conquest Cards",
+        "url": "https://www.arcade-projects.com/threads/sc2maker-convert-scph-10020-memory-cards-into-soulcalibur2-conquest-cards.35372/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "arcade",
+          "SC2MAKER",
+          "SCPH-10020",
+          "SoulCalibur II",
+          "Conquest Card",
+          "memory card",
+          "homebrew"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Russian PS2 Scene — PSX-Core Deep Index",
+    "description": "Russian-language PlayStation 2 scene material covering OPL, POPS/POPStarter, conversion tools, FreeDVDBoot, memory-card utilities, PSBBN and PC-side utilities.",
+    "links": [
+      {
+        "name": "PSX-Core — Open PS2 Loader USB/SMB Discussion Page 44",
+        "url": "https://psx-core.ru/forum/2-2646-44",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Russian",
+          "Russia",
+          "PSX-Core",
+          "OPL",
+          "Open PS2 Loader",
+          "USB",
+          "SMB",
+          "GSM",
+          "VMC",
+          "PS2RD",
+          "forum"
+        ]
+      },
+      {
+        "name": "PSX-Core — Open PS2 Loader IGS / Screenshot Discussion Page 56",
+        "url": "https://psx-core.ru/forum/2-2646-56",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Russian",
+          "Russia",
+          "PSX-Core",
+          "OPL",
+          "IGS",
+          "screenshot",
+          "GSM",
+          "IGR",
+          "memory card",
+          "forum"
+        ]
+      },
+      {
+        "name": "PSX-Core — OPL / Swap Magic Boot Instructions Page 90",
+        "url": "https://psx-core.ru/forum/2-2646-90",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Russian",
+          "Russia",
+          "PSX-Core",
+          "OPL",
+          "Swap Magic",
+          "SMBOOT",
+          "USB",
+          "booting",
+          "forum"
+        ]
+      },
+      {
+        "name": "PSX-Core — POPS / POPStarter SMB Discussion Page 51",
+        "url": "https://psx-core.ru/forum/2-1879-51",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Russian",
+          "Russia",
+          "PSX-Core",
+          "POPS",
+          "POPStarter",
+          "PS1",
+          "SMB",
+          "VCD",
+          "forum"
+        ]
+      },
+      {
+        "name": "PSX-Core — CUE2POPS 2.0 GUI",
+        "url": "https://psx-core.ru/news/ps2_cue2pops_2_0_gui/2014-10-09-1176-987",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Russian",
+          "Russia",
+          "PSX-Core",
+          "CUE2POPS",
+          "POPS",
+          "POPStarter",
+          "PS1",
+          "VCD",
+          "converter",
+          "GUI"
+        ]
+      },
+      {
+        "name": "PSX-Core — PC Programs for PS2 Page 4",
+        "url": "https://psx-core.ru/forum/5-1328-4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Russian",
+          "Russia",
+          "PSX-Core",
+          "PC tools",
+          "OPL",
+          "POPStarter",
+          "HDD",
+          "host tools",
+          "forum"
+        ]
+      },
+      {
+        "name": "PSX-Core — FreeDVDBoot",
+        "url": "https://psx-core.ru/forum/2-3158-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Russian",
+          "Russia",
+          "PSX-Core",
+          "FreeDVDBoot",
+          "exploit",
+          "uLaunchELF",
+          "homebrew",
+          "forum"
+        ]
+      },
+      {
+        "name": "PSX-Core — PS2FAQ v1.93",
+        "url": "https://psx-core.ru/load/ps2_soft/8-1-0-221",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Russian",
+          "Russia",
+          "PSX-Core",
+          "PS2FAQ",
+          "FMCB",
+          "DVD",
+          "guide",
+          "utility"
+        ]
+      },
+      {
+        "name": "PSX-Core — Memory Card Utilities",
+        "url": "https://psx-core.ru/load/ps2_soft/3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Russian",
+          "Russia",
+          "PSX-Core",
+          "memory card",
+          "PS1",
+          "format",
+          "repair",
+          "utilities"
+        ]
+      },
+      {
+        "name": "PSX-Core — Homebrew PS2 Games Section",
+        "url": "https://psx-core.ru/load/ps2_soft/homebrew_ps2_games/18-1-0-760",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Russian",
+          "Russia",
+          "PSX-Core",
+          "homebrew games",
+          "custom games",
+          "scene",
+          "archive"
+        ]
+      },
+      {
+        "name": "PSX-Core — PlayStation Broadband Navigator Definitive Edition",
+        "url": "https://psx-core.ru/forum/2-3296-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Russian",
+          "Russia",
+          "PSX-Core",
+          "PSBBN",
+          "Broadband Navigator",
+          "Game Channel",
+          "PS1",
+          "homebrew",
+          "HDD",
+          "forum"
+        ]
+      }
+    ]
+  }
+]
