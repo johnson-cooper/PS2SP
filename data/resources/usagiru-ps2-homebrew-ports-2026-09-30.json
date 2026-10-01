@@ -1,0 +1,136 @@
+[
+  {
+    "category": "Brazilian PS2 Homebrew & Ports — UsagiRu",
+    "description": "UsagiRu PlayStation 2 homebrew projects, emulator work, fan ports and custom software. Retail-ROM collection posts are intentionally excluded.",
+    "links": [
+      {
+        "name": "UsagiRu — OPENBOR Legacy 3.x v0.1 WIP for PS2",
+        "url": "https://usagiru.blogspot.com/2026/09/ps2-iso-openbor-legacy-3x-v01-wip.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "OpenBOR",
+          "engine",
+          "port",
+          "WIP"
+        ]
+      },
+      {
+        "name": "UsagiRu — God of War: Betrayal PS2 Port",
+        "url": "https://usagiru.blogspot.com/2026/09/ps2-god-of-war-betrayal-port.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "fan port",
+          "port",
+          "God of War Betrayal"
+        ]
+      },
+      {
+        "name": "UsagiRu — M-PS2CRAFT Beta",
+        "url": "https://usagiru.blogspot.com/2020/12/ps2-iso-m-ps2craft.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "custom game",
+          "Minecraft",
+          "PS2 Revival Project",
+          "beta"
+        ]
+      },
+      {
+        "name": "UsagiRu — NEOSTATION WIP / NeoGeo CD Emulator + Source",
+        "url": "https://usagiru.blogspot.com/2023/10/ps2-iso-neoloader-wip-1.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "emulator",
+          "NeoGeo CD",
+          "NEOSTATION",
+          "source code"
+        ]
+      },
+      {
+        "name": "UsagiRu — CPS1PS2 v0.5 WIP Emulator",
+        "url": "https://usagiru.blogspot.com/2026/09/ps2-iso-cps1ps2-v04-wip.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "emulator",
+          "CPS1",
+          "arcade",
+          "WIP"
+        ]
+      },
+      {
+        "name": "UsagiRu — PicoLoader for PS2",
+        "url": "https://usagiru.blogspot.com/2023/05/ps2-iso-picoloader-by-usagiru.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "emulator",
+          "loader",
+          "Mega Drive",
+          "Sega CD",
+          "PicoDrive"
+        ]
+      },
+      {
+        "name": "UsagiRu — InfoGB 2023 Game Boy / Game Boy Color Emulator",
+        "url": "https://usagiru.blogspot.com/2023/08/ps2-iso-game-boy-classic-color-emulator.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "emulator",
+          "Game Boy",
+          "Game Boy Color",
+          "InfoGB",
+          "OPL"
+        ]
+      },
+      {
+        "name": "UsagiRu — Celeste PS2 Homebrew Port",
+        "url": "https://usagiru.blogspot.com/2023/01/ps2-homebrew-celeste.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "port",
+          "Celeste",
+          "uLaunchELF"
+        ]
+      }
+    ]
+  }
+]
