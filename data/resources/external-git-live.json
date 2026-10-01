@@ -1,0 +1,22 @@
+[
+  {
+    "category": "External Git — PS2 Repositories Live",
+    "description": "Continuously refreshed PS2 repositories hosted outside GitHub, including Forgejo and Gitea instances.",
+    "links": []
+  },
+  {
+    "category": "External Git — PS2 Fork Networks Live",
+    "description": "Forks and forks-of-forks discovered on non-GitHub Git hosts.",
+    "links": []
+  },
+  {
+    "category": "External Git — PS2 Branches Live",
+    "description": "Branches discovered across non-GitHub PS2 repositories and their fork networks.",
+    "links": []
+  },
+  {
+    "category": "External Git — Nested Projects & Branch Internals Live",
+    "description": "Branch-specific nested tools, examples, modules, ports and project roots found inside non-GitHub PS2 repositories.",
+    "links": []
+  }
+]
