@@ -1,0 +1,586 @@
+[
+  {
+    "category": "GBAtemp PS2 — Homebrew",
+    "description": "Individual PlayStation 2 homebrew resources preserved in GBAtemp's legacy download archive.",
+    "links": [
+      {
+        "name": "GBAtemp PS2 — PS2 Multiple Loader",
+        "url": "https://gbatemp.net/download/ps2-multiple-loader.37775/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "homebrew",
+          "legacy",
+          "archive",
+          "PS2 Multiple Loader"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 — SMS (Simple Media System) v2.9 Rev 4",
+        "url": "https://gbatemp.net/download/sms-simple-media-system-v2-9-rev-4.37714/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "homebrew",
+          "legacy",
+          "archive",
+          "SMS (Simple Media System) v2.9 Rev 4"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 — Free McBoot (FMCB) v1.966",
+        "url": "https://gbatemp.net/download/free-mcboot-fmcb-v1-966.37626/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "homebrew",
+          "legacy",
+          "archive",
+          "Free McBoot (FMCB) v1.966"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 — Memory Card Annihilator",
+        "url": "https://gbatemp.net/download/memory-card-annihilator.35971/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "homebrew",
+          "legacy",
+          "archive",
+          "Memory Card Annihilator"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 — ESR",
+        "url": "https://gbatemp.net/download/esr.8051/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "homebrew",
+          "legacy",
+          "archive",
+          "ESR"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 — Super Mario War",
+        "url": "https://gbatemp.net/download/super-mario-war.7920/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "homebrew",
+          "legacy",
+          "archive",
+          "Super Mario War"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 — uLaunchELF",
+        "url": "https://gbatemp.net/download/ulaunchelf.7919/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "homebrew",
+          "legacy",
+          "archive",
+          "uLaunchELF"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 — PS2OS",
+        "url": "https://gbatemp.net/download/ps2os.7915/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "homebrew",
+          "legacy",
+          "archive",
+          "PS2OS"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 — PS2irc",
+        "url": "https://gbatemp.net/download/ps2irc.7913/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "homebrew",
+          "legacy",
+          "archive",
+          "PS2irc"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 — PS2 MediaplayerPRO",
+        "url": "https://gbatemp.net/download/ps2-mediaplayerpro.7908/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "homebrew",
+          "legacy",
+          "archive",
+          "PS2 MediaplayerPRO"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 — HD Loader",
+        "url": "https://gbatemp.net/download/hd-loader.7878/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "homebrew",
+          "legacy",
+          "archive",
+          "HD Loader"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 — InfoNES",
+        "url": "https://gbatemp.net/download/infones.7891/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "homebrew",
+          "legacy",
+          "archive",
+          "InfoNES"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 — InfoGB",
+        "url": "https://gbatemp.net/download/infogb.7890/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "homebrew",
+          "legacy",
+          "archive",
+          "InfoGB"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 — Argon",
+        "url": "https://gbatemp.net/download/argon.7889/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "homebrew",
+          "legacy",
+          "archive",
+          "Argon"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 — HD Project",
+        "url": "https://gbatemp.net/download/hd-project.7900/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "homebrew",
+          "legacy",
+          "archive",
+          "HD Project"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 — myPS2",
+        "url": "https://gbatemp.net/download/myps2.7901/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "homebrew",
+          "legacy",
+          "archive",
+          "myPS2"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "GBAtemp PS2 — Emulators",
+    "description": "Legacy PlayStation 2 emulator releases preserved by GBAtemp.",
+    "links": [
+      {
+        "name": "GBAtemp PS2 Emulator — NeoCD v0.6c",
+        "url": "https://gbatemp.net/download/neocd-v0-6c.37716/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "emulator",
+          "homebrew",
+          "archive",
+          "NeoCD v0.6c"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Emulator — ScummVM",
+        "url": "https://gbatemp.net/download/scummvm.31819/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "emulator",
+          "homebrew",
+          "archive",
+          "ScummVM"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Emulator — PGEN",
+        "url": "https://gbatemp.net/download/pgen.7903/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "emulator",
+          "homebrew",
+          "archive",
+          "PGEN"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "GBAtemp PS2 — Exploit Tools",
+    "description": "Legacy PlayStation 2 exploit installers, FreeMCBoot/FHDB material and supporting utilities from GBAtemp.",
+    "links": [
+      {
+        "name": "GBAtemp PS2 Exploit — Unofficial FHDB Noobie Package",
+        "url": "https://gbatemp.net/download/unofficial-fhdb-noobie-package.36931/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "exploit",
+          "FMCB",
+          "FHDB",
+          "homebrew",
+          "archive",
+          "Unofficial FHDB Noobie Package"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Exploit — PS2 Exploit Utility v5.0",
+        "url": "https://gbatemp.net/download/ps2-exploit-utility-v5-0.37660/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "exploit",
+          "FMCB",
+          "FHDB",
+          "homebrew",
+          "archive",
+          "PS2 Exploit Utility v5.0"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Exploit — HDD Raw Copy Tool Portable",
+        "url": "https://gbatemp.net/download/hdd-raw-copy-tool-portable.36932/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "exploit",
+          "FMCB",
+          "FHDB",
+          "homebrew",
+          "archive",
+          "HDD Raw Copy Tool Portable"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Exploit — MC BOOT for PS2",
+        "url": "https://gbatemp.net/download/mc-boot-for-ps2.7701/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "exploit",
+          "FMCB",
+          "FHDB",
+          "homebrew",
+          "archive",
+          "MC BOOT for PS2"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Exploit — FreeMCboot FR",
+        "url": "https://gbatemp.net/download/freemcboot-fr.7594/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "exploit",
+          "FMCB",
+          "FHDB",
+          "homebrew",
+          "archive",
+          "FreeMCboot FR"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "GBAtemp PS2 — ISO, Patching & Modding Tools",
+    "description": "PlayStation 2 ISO creation, patching, translation and game-modding utilities preserved by GBAtemp.",
+    "links": [
+      {
+        "name": "GBAtemp PS2 Tool — Xpert2 / Xpert Tool",
+        "url": "https://gbatemp.net/download/xpert2-xpert-tool.37071/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "ISO",
+          "patch",
+          "modding",
+          "translation",
+          "tool",
+          "archive",
+          "Xpert2 / Xpert Tool"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Tool — Suikoden 3 USA Import PAL Save Data Patch",
+        "url": "https://gbatemp.net/download/suikoden-3-usa-import-pal-save-data-patch.39947/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "ISO",
+          "patch",
+          "modding",
+          "translation",
+          "tool",
+          "archive",
+          "Suikoden 3 USA Import PAL Save Data Patch"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Tool — The Punisher Uncensored Patch (USA)",
+        "url": "https://gbatemp.net/download/the-punisher-uncensored-patch-usa.37774/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "ISO",
+          "patch",
+          "modding",
+          "translation",
+          "tool",
+          "archive",
+          "The Punisher Uncensored Patch (USA)"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Tool — CDGenPS2 V3.0",
+        "url": "https://gbatemp.net/download/cdgenps2-v3-0.37668/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "ISO",
+          "patch",
+          "modding",
+          "translation",
+          "tool",
+          "archive",
+          "CDGenPS2 V3.0"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Tool — ISO to OPL",
+        "url": "https://gbatemp.net/download/iso-to-opl.33961/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "ISO",
+          "patch",
+          "modding",
+          "translation",
+          "tool",
+          "archive",
+          "ISO to OPL"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Tool — Tales Of The Abyss Spanish Translation",
+        "url": "https://gbatemp.net/download/tales-of-the-abyss-spanish-translation.7737/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "ISO",
+          "patch",
+          "modding",
+          "translation",
+          "tool",
+          "archive",
+          "Tales Of The Abyss Spanish Translation"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Tool — ESR Disc Patcher",
+        "url": "https://gbatemp.net/download/esr-disc-patcher.7597/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "ISO",
+          "patch",
+          "modding",
+          "translation",
+          "tool",
+          "archive",
+          "ESR Disc Patcher"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "GBAtemp PS2 — Host Tools & Utilities",
+    "description": "Host-side PlayStation 2 HDD, memory-card and disc-image utilities preserved by GBAtemp.",
+    "links": [
+      {
+        "name": "GBAtemp PS2 Utility — HDLBATCH",
+        "url": "https://gbatemp.net/download/hdlbatch.36256/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "host tool",
+          "utility",
+          "HDD",
+          "memory card",
+          "archive",
+          "HDLBATCH"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Utility — MyMC",
+        "url": "https://gbatemp.net/download/mymc.35970/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "host tool",
+          "utility",
+          "HDD",
+          "memory card",
+          "archive",
+          "MyMC"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Utility — CDGEN",
+        "url": "https://gbatemp.net/download/cdgen.33958/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "host tool",
+          "utility",
+          "HDD",
+          "memory card",
+          "archive",
+          "CDGEN"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "GBAtemp PS2 — System & Modchip Preservation",
+    "description": "Miscellaneous system ELFs and modchip firmware/installation resources preserved by GBAtemp.",
+    "links": [
+      {
+        "name": "GBAtemp PS2 — Return to Browser ELF",
+        "url": "https://gbatemp.net/download/return-to-browser-elf.39972/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "ELF",
+          "browser",
+          "CodeBreaker",
+          "utility",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Modchip — ToxicBIOS v1.4 Firmware Update",
+        "url": "https://gbatemp.net/download/toxicbios-v1-4-firmware-update.37666/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "modchip",
+          "DMS4",
+          "ToxicBIOS",
+          "firmware",
+          "preservation"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Modchip — Matrix Infinity Firmware Update v1.93",
+        "url": "https://gbatemp.net/download/matrix-infinity-firmware-update-v1-93.37665/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "modchip",
+          "Matrix Infinity",
+          "firmware",
+          "preservation"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Modchip — Matrix Infinity Installation Diagrams v1-v15",
+        "url": "https://gbatemp.net/download/matrix-infinity-installation-diagrams-v1-v15.23666/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "modchip",
+          "Matrix Infinity",
+          "installation",
+          "diagrams",
+          "preservation"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Modchip — Matrix Infinity Dev2 Install",
+        "url": "https://gbatemp.net/download/matrix-infinity-dev2-install.8053/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GBAtemp",
+          "modchip",
+          "Matrix Infinity",
+          "DEV2",
+          "installation",
+          "preservation"
+        ]
+      }
+    ]
+  }
+]
