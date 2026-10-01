@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import ReportBrokenLink from "../components/ReportBrokenLink.astro";
 import { categoryLabel, formatDate, getProjects, getSite, projectUpdatedAt } from "../lib/catalog";
 import { getResourceGroups, getResources } from "../lib/resources";
 import { getSoftwareCatalog } from "../lib/software";
@@ -16,6 +17,13 @@ const activeSoftware = software
   .slice(0, 6);
 
 const featured = projects.filter((project) => project.data.featured).slice(0, 5);
+
+function projectSourceUrl(project: (typeof projects)[number]) {
+  if (project.data.source.provider === "github" && project.data.source.repository) {
+    return `https://github.com/${project.data.source.repository}`;
+  }
+  return project.data.source.url ?? project.data.homepage ?? `/project/${project.data.slug}`;
+}
 
 const categories = new Map<string, number>();
 for (const entry of software) {
@@ -135,20 +143,29 @@ const ps2Symbols = ["△", "○", "×", "□"];
 
       <div class="home-list">
         {activeSoftware.map((entry, index) => (
-          <a
-            class="home-list-row"
-            href={entry.href}
-            target={entry.external ? "_blank" : undefined}
-            rel={entry.external ? "noopener noreferrer" : undefined}
-          >
-            <span class="list-index">{String(index + 1).padStart(2, "0")}</span>
-            <span class="home-list-main">
-              <strong>{entry.name}</strong>
-              <small>{entry.summary}</small>
-            </span>
-            <span class="home-list-meta">{categoryLabel(entry.categories[0] ?? "uncategorized")}</span>
-            <span class="row-arrow" aria-hidden="true">{entry.external ? "↗" : "→"}</span>
-          </a>
+          <div class="home-list-item">
+            <a
+              class="home-list-row"
+              href={entry.href}
+              target={entry.external ? "_blank" : undefined}
+              rel={entry.external ? "noopener noreferrer" : undefined}
+            >
+              <span class="list-index">{String(index + 1).padStart(2, "0")}</span>
+              <span class="home-list-main">
+                <strong>{entry.name}</strong>
+                <small>{entry.summary}</small>
+              </span>
+              <span class="home-list-meta">{categoryLabel(entry.categories[0] ?? "uncategorized")}</span>
+              <span class="row-arrow" aria-hidden="true">{entry.external ? "↗" : "→"}</span>
+            </a>
+            <ReportBrokenLink
+              label={entry.name}
+              url={entry.reportUrl}
+              context="Homepage active software"
+              pageUrl="/"
+              compact
+            />
+          </div>
         ))}
       </div>
     </div>
@@ -164,14 +181,23 @@ const ps2Symbols = ["△", "○", "×", "□"];
 
       <div class="activity-stream">
         {featured.map((project) => (
-          <a class="activity-row" href={`/project/${project.data.slug}`}>
-            <span class="activity-date">{formatDate(projectUpdatedAt(project))}</span>
-            <span class="activity-main">
-              <strong>{project.data.name}</strong>
-              <small>{project.data.summary}</small>
-            </span>
-            <span class="row-arrow" aria-hidden="true">→</span>
-          </a>
+          <div class="activity-item">
+            <a class="activity-row" href={`/project/${project.data.slug}`}>
+              <span class="activity-date">{formatDate(projectUpdatedAt(project))}</span>
+              <span class="activity-main">
+                <strong>{project.data.name}</strong>
+                <small>{project.data.summary}</small>
+              </span>
+              <span class="row-arrow" aria-hidden="true">→</span>
+            </a>
+            <ReportBrokenLink
+              label={project.data.name}
+              url={projectSourceUrl(project)}
+              context="Homepage featured software"
+              pageUrl="/"
+              compact
+            />
+          </div>
         ))}
       </div>
     </div>
