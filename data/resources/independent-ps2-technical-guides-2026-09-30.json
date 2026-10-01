@@ -1,0 +1,147 @@
+[
+  {
+    "category": "Independent PS2 Technical Articles & Guides",
+    "description": "Independent PlayStation 2 development, architecture, softmodding, networking, MMCE, exploit and hardware guides that sit outside the larger scene archives.",
+    "links": [
+      {
+        "name": "mi-ku — Building the homebrew PS2 toolchain under Cygwin",
+        "url": "http://www.mi-ku.net/ps2dev/ps2dev/building-the-homebrew-ps2-toolchain-under-cygwin/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DEV",
+          "PS2SDK",
+          "toolchain",
+          "Cygwin",
+          "development",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Jacob Harris — PS2 Homebrew Pt. 1",
+        "url": "https://www.jacobleeharris.dev/introduction/devlog/homebrew/2024/11/23/ps2-homebrew-1.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "development",
+          "PS2SDK",
+          "toolchain",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "Rodrigo Copetti — PlayStation 2 Architecture",
+        "url": "https://www.copetti.org/writings/consoles/playstation-2/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "architecture",
+          "Emotion Engine",
+          "IOP",
+          "GS",
+          "hardware",
+          "development",
+          "technical"
+        ]
+      },
+      {
+        "name": "Rodrigo Copetti — PS2 Anti-Piracy and Homebrew",
+        "url": "https://blink.copetti.org/writings/consoles/playstation-2/anti-piracy-and-homebrew/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "security",
+          "MechaCon",
+          "exploit",
+          "copy protection",
+          "technical"
+        ]
+      },
+      {
+        "name": "aquova — Soft-Modding a PlayStation 2",
+        "url": "https://aquova.net/blog/2025/ps2-modding/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "softmod",
+          "FMCB",
+          "wLaunchELF",
+          "OPL",
+          "HDD",
+          "MemCard PRO",
+          "guide"
+        ]
+      },
+      {
+        "name": "aquova — Burning Discs / PlayStation 2 & FreeDVDBoot",
+        "url": "https://aquova.net/blog/2025/disc-burning/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FreeDVDBoot",
+          "exploit",
+          "DVD",
+          "homebrew",
+          "guide"
+        ]
+      },
+      {
+        "name": "Instructables — ps2link Tutorial",
+        "url": "https://www.instructables.com/ps2link-Tutorial/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2link",
+          "networking",
+          "development",
+          "homebrew",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "8BitMods — MemCard PRO Advanced Usage / PS2 GameID",
+        "url": "https://www.8bitmods.wiki/GKHq-advanced-usage",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "MemCard PRO",
+          "GameID",
+          "memory card",
+          "PS1",
+          "VMC",
+          "guide"
+        ]
+      },
+      {
+        "name": "Retro Handhelds — MMCE Protocol for PS2 Memory Card Loading",
+        "url": "https://retrohandhelds.gg/mmce-protocol-lets-you-load-ps2-games-directly-off-its-memory-card/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "MMCE",
+          "memory card",
+          "SD",
+          "homebrew",
+          "protocol",
+          "hardware"
+        ]
+      },
+      {
+        "name": "PixelPacas — PlayStation 2 Region-Free MechaPwn Tutorial",
+        "url": "https://pixelpacas.com/playstation-2-region-free-modification-mechapwn-tutorial/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "MechaPwn",
+          "region free",
+          "MechaCon",
+          "exploit",
+          "modding",
+          "tutorial"
+        ]
+      }
+    ]
+  }
+]
