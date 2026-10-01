@@ -1,0 +1,256 @@
+[
+  {
+    "category": "Japanese PS2 Development & Linux History",
+    "description": "Japanese-language PlayStation 2 programming, Linux, SDK and official development-tool history from contemporary and modern technical sources.",
+    "links": [
+      {
+        "name": "PC Watch — PS2 Linux Programming Part 1",
+        "url": "https://pc.watch.impress.co.jp/docs/article/20010823/ps2linux.htm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Japanese",
+          "Japan",
+          "PS2 Linux",
+          "Linux",
+          "programming",
+          "development",
+          "libps2",
+          "tutorial",
+          "history"
+        ]
+      },
+      {
+        "name": "PC Watch — PS2 Linux Programming Part 2",
+        "url": "https://pc.watch.impress.co.jp/docs/article/20010824/ps2linux.htm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Japanese",
+          "Japan",
+          "PS2 Linux",
+          "Linux",
+          "programming",
+          "development",
+          "libps2",
+          "VU1",
+          "samples",
+          "tutorial",
+          "history"
+        ]
+      },
+      {
+        "name": "GIGAZINE — Running Java Programs on PlayStation 2",
+        "url": "https://gigazine.net/news/20180924-java-on-playstation-2/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Japanese",
+          "Japan",
+          "Java",
+          "Java Grinder",
+          "PS2 Linux",
+          "development",
+          "Michael Kohn"
+        ]
+      },
+      {
+        "name": "Qiita — BASIC STUDIO / Powerful Game Factory for PS2",
+        "url": "https://qiita.com/Mipsel19/items/27ea846ae03af6b96e22",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Japanese",
+          "Japan",
+          "BASIC STUDIO",
+          "ARTDINK",
+          "game development",
+          "programming",
+          "homebrew",
+          "BASIC"
+        ]
+      },
+      {
+        "name": "Zenn — PS2 BIOS Dumping with PS2SDK",
+        "url": "https://zenn.dev/toka_tech/scraps/2b521442f698a5",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Japanese",
+          "Japan",
+          "BIOS",
+          "dumping",
+          "PS2SDK",
+          "development",
+          "Docker",
+          "toolchain"
+        ]
+      },
+      {
+        "name": "ASCII.jp — CodeWarrior Analysis Tools for PlayStation 2",
+        "url": "https://ascii.jp/elem/000/000/311/311159/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Japanese",
+          "Japan",
+          "CodeWarrior",
+          "CATS",
+          "profiling",
+          "official development",
+          "development tools",
+          "history"
+        ]
+      },
+      {
+        "name": "ASCII.jp — ProDG for PlayStation 2 Japanese Edition",
+        "url": "https://ascii.jp/elem/000/000/308/308389/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Japanese",
+          "Japan",
+          "ProDG",
+          "SN Systems",
+          "debugger",
+          "official development",
+          "development tools",
+          "history"
+        ]
+      },
+      {
+        "name": "ASCII.jp — Free Windows GNU Tools for PS2 Development",
+        "url": "https://ascii.jp/elem/000/000/306/306262/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Japanese",
+          "Japan",
+          "GNU",
+          "Windows",
+          "DTL-T10000",
+          "development",
+          "toolchain",
+          "history"
+        ]
+      },
+      {
+        "name": "ASCII.jp — CodeWarrior for PlayStation 2",
+        "url": "https://ascii.jp/elem/000/000/322/322203/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Japanese",
+          "Japan",
+          "CodeWarrior",
+          "development",
+          "compiler",
+          "debugger",
+          "profiling",
+          "history"
+        ]
+      },
+      {
+        "name": "ASCII.jp — PS2 Linux Beta and GCC Development Environment",
+        "url": "https://ascii.jp/elem/000/000/322/322759/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Japanese",
+          "Japan",
+          "PS2 Linux",
+          "Linux",
+          "GCC",
+          "development",
+          "history"
+        ]
+      },
+      {
+        "name": "ASCII.jp — Early PS2 Development Environment Discussion",
+        "url": "https://ascii.jp/elem/000/000/305/305088/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Japanese",
+          "Japan",
+          "development environment",
+          "official development",
+          "history",
+          "SIGGRAPH"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Japanese PS2 Homebrew & Storage Guides",
+    "description": "Japanese-language PlayStation 2 homebrew, memory-card booting, OPL/FMCB and network-storage setup references.",
+    "links": [
+      {
+        "name": "AzaBlog — FreeMCBoot + Raspberry Pi SMB for PS2",
+        "url": "https://azablog.blog/playstation2fmcb1-ps2-pi/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Japanese",
+          "Japan",
+          "FMCB",
+          "Free McBoot",
+          "OPL",
+          "Open PS2 Loader",
+          "Raspberry Pi",
+          "SMB",
+          "network storage",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "5ch — PS2 Memory Card Boot Thread Part 15",
+        "url": "https://medaka.5ch.net/test/read.cgi/gameurawaza/1481359187",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Japanese",
+          "Japan",
+          "memory card boot",
+          "FMCB",
+          "PS2SDK",
+          "homebrew",
+          "forum",
+          "scene"
+        ]
+      },
+      {
+        "name": "Hatenablog — Building a Disc-less PS2 Environment in 2026",
+        "url": "https://sha10n.hatenablog.com/entry/2026/01/25/030450",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Japanese",
+          "Japan",
+          "FMCB",
+          "OPL",
+          "disc-less",
+          "homebrew",
+          "setup",
+          "guide"
+        ]
+      },
+      {
+        "name": "note — PS2 FMCB / OPL Setup",
+        "url": "https://note.com/fieldwest/n/n024408c10a26",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Japanese",
+          "Japan",
+          "FMCB",
+          "OPL",
+          "homebrew",
+          "HDD",
+          "setup",
+          "guide"
+        ]
+      }
+    ]
+  }
+]
