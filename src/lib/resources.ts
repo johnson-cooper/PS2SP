@@ -77,6 +77,7 @@ import manualHardwareExploitsRegionalGroups from "../../data/resources/manual-ha
 import regionalSceneDeepGroups from "../../data/resources/regional-scene-deep-2026-09-30.json";
 import sourceforgeColdevFanportGroups from "../../data/resources/sourceforge-coldev-fanports-2026-09-30.json";
 import bitbuiltQuadeGussePs2DeepGroups from "../../data/resources/bitbuilt-quade-gusse-ps2-deep-2026-09-30.json";
+import hardlevelPs2DeepGroups from "../../data/resources/hardlevel-ps2-deep-2026-09-30.json";
 
 export interface ResourceLink {
   name: string;
@@ -176,7 +177,8 @@ const allResourceSources = [
   ...(manualHardwareExploitsRegionalGroups as ResourceGroup[]),
   ...(regionalSceneDeepGroups as ResourceGroup[]),
   ...(sourceforgeColdevFanportGroups as ResourceGroup[]),
-  ...(bitbuiltQuadeGussePs2DeepGroups as ResourceGroup[])
+  ...(bitbuiltQuadeGussePs2DeepGroups as ResourceGroup[]),
+  ...(hardlevelPs2DeepGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
