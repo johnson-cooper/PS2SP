@@ -93,15 +93,18 @@ const navItems = [
     <script data-global-link-reporting>
       function addFallbackReport(anchor) {
         if (!(anchor instanceof HTMLAnchorElement)) return;
-        if (anchor.classList.contains("report-broken-link")) return;
+        if (anchor.classList.contains("report-broken-link") || anchor.classList.contains("resource-report-link")) return;
         if (anchor.closest("[data-no-link-report], .credits-panel, .credit-card, .footer-credit")) return;
         if (!/^https?:$/i.test(new URL(anchor.href, window.location.href).protocol)) return;
 
         const explicitContainer = anchor.closest(
           ".resource-index-row, .project-index-item, .home-list-item, .activity-item, .timeline-item, .project-action-group"
         );
-        if (explicitContainer?.querySelector(".report-broken-link")) return;
-        if (anchor.nextElementSibling?.classList.contains("report-broken-link")) return;
+        if (explicitContainer?.querySelector(".report-broken-link, .resource-report-link")) return;
+        if (
+          anchor.nextElementSibling?.classList.contains("report-broken-link") ||
+          anchor.nextElementSibling?.classList.contains("resource-report-link")
+        ) return;
 
         const targetUrl = anchor.href;
         const label = anchor.textContent?.trim() || targetUrl;
