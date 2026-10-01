@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: ps2sp-catalog-write
+  group: ps2sp-web-discovery
   cancel-in-progress: false
 
 jobs:
