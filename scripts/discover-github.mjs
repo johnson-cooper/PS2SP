@@ -29,6 +29,8 @@ const bootstrapPages = Math.max(1, Number.parseInt(process.env.BOOTSTRAP_SEARCH_
 const bootstrapMonthsPerRun = Math.max(1, Number.parseInt(process.env.BOOTSTRAP_MONTHS_PER_RUN ?? "6", 10));
 const recheckPendingLimit = Math.max(0, Number.parseInt(process.env.RECHECK_PENDING_LIMIT ?? "20", 10));
 const ownerPageLimit = Math.max(1, Number.parseInt(process.env.OWNER_PAGE_LIMIT ?? "5", 10));
+const forkNetworkRootsPerRun = Math.max(1, Number.parseInt(process.env.FORK_NETWORK_ROOTS_PER_RUN ?? "30", 10));
+const forkNetworkPagesPerRoot = Math.max(1, Number.parseInt(process.env.FORK_NETWORK_PAGES_PER_ROOT ?? "5", 10));
 const discoveryActivityDays = Math.max(1, Number.parseInt(process.env.DISCOVERY_ACTIVITY_DAYS ?? "180", 10));
 const activityCutoff = Date.now() - discoveryActivityDays * 24 * 60 * 60 * 1000;
 const runStartedAt = new Date().toISOString();
@@ -179,13 +181,17 @@ const state = await readJson(stateFile, {
   bootstrap: { nextMonth: currentMonth(), complete: false },
   incremental: { watermark: null },
   starred: { users: {} },
+  forks: { queue: [], scannedRepositories: [] },
   trustedOwnersSeeded: false
 });
-state.version = 1;
+state.version = 2;
 state.bootstrap ??= { nextMonth: currentMonth(), complete: false };
 state.incremental ??= { watermark: null };
 state.starred ??= { users: {} };
 state.starred.users ??= {};
+state.forks ??= { queue: [], scannedRepositories: [] };
+state.forks.queue ??= [];
+state.forks.scannedRepositories ??= [];
 if (!state.bootstrap.nextMonth) state.bootstrap.nextMonth = currentMonth();
 
 const publishedNames = new Set();
@@ -325,8 +331,16 @@ function scoreRepository(repo, readmeText, release, trustedOwner, forkStatus) {
       evidence.push("release contains a PS2-style ELF asset");
     }
   }
-  if (forkStatus?.aheadBy > 0) {
-    score += 15;
+  if (repo?.fork) {
+    score += 10;
+    evidence.push("GitHub fork of another repository");
+  }
+  if (forkStatus?.parentProject) {
+    score += 25;
+    evidence.push(`fork lineage traces to indexed PS2 project: ${forkStatus.source ?? forkStatus.parent}`);
+  }
+  if ((forkStatus?.aheadBy ?? 0) > 0) {
+    score += 10;
     evidence.push(`fork is ${forkStatus.aheadBy} commit(s) ahead of its parent`);
   }
 
@@ -338,16 +352,29 @@ function catalogProjectForFork(repo) {
   return knownProjects.find((project) => lineage.has(project.repository.toLowerCase())) ?? null;
 }
 
-async function verifyFork(repo, stableRelease) {
-  if (!repo?.fork || !repo.parent?.full_name || !stableRelease || !isRecent(repo.pushed_at)) return null;
+async function verifyFork(repo) {
+  if (!repo?.fork) return null;
+
   const parentProject = catalogProjectForFork(repo);
-  if (!parentProject) return null;
-  const parentBranch = repo.parent.default_branch || "master";
-  const forkBranch = repo.default_branch;
-  if (!forkBranch || !repo.owner?.login) return null;
-  const compare = await github(`/repos/${repo.parent.full_name}/compare/${encodeURIComponent(parentBranch)}...${encodeURIComponent(`${repo.owner.login}:${forkBranch}`)}`);
-  if (!compare || (compare.ahead_by ?? 0) < 1) return null;
-  return { parentProject, parent: repo.parent.full_name, source: repo.source?.full_name ?? repo.parent.full_name, aheadBy: compare.ahead_by };
+  const parent = repo.parent?.full_name ?? null;
+  const source = repo.source?.full_name ?? parent;
+  let aheadBy = null;
+
+  // Fork ancestry is useful catalog metadata, but being stale, even, or behind
+  // the parent is no longer a reason to exclude a PS2 fork. Compare only when
+  // possible so activity can be displayed without affecting eligibility.
+  if (parent && repo.default_branch && repo.owner?.login) {
+    const parentBranch = repo.parent?.default_branch || "master";
+    try {
+      const compare = await github(`/repos/${parent}/compare/${encodeURIComponent(parentBranch)}...${encodeURIComponent(`${repo.owner.login}:${repo.default_branch}`)}`);
+      if (compare) aheadBy = compare.ahead_by ?? null;
+    } catch (error) {
+      if (error instanceof DiscoveryBudgetStop) throw error;
+      console.warn(`::warning::Could not compare fork ${repo.full_name} with ${parent}: ${error.message}`);
+    }
+  }
+
+  return { parentProject, parent, source, aheadBy };
 }
 
 async function removePendingFor(repo) {
@@ -477,30 +504,28 @@ async function processCandidate(candidate, origin, { force = false, trusted = fa
   const maturity = maturityState(repo, readmeText, releases);
   const release = maturity.stable ?? maturity.published;
   let forkStatus = null;
-  if (repo.fork) forkStatus = await verifyFork(repo, maturity.stable);
+  if (repo.fork) forkStatus = await verifyFork(repo);
 
   const scored = scoreRepository(repo, readmeText, release, trustedOwner, forkStatus);
   score = scored.score;
   const evidence = scored.evidence;
   const publishByDefault = Boolean(trustedConfig?.publishByDefault);
-  const forkIndependentEvidence = trustedOwner || forkSpecificPs2Signal(repo, release);
-  const strongIndependentEvidence = repo.fork
-    ? forkIndependentEvidence
-    : (trustedOwner || explicitRepositorySignal(repo) || evidence.some((item) => /README|release metadata/i.test(item)));
-  const forkPublishable = !repo.fork ||
-    (Boolean(forkStatus) && forkIndependentEvidence) ||
-    publishByDefault ||
-    (starred && forkIndependentEvidence);
+  const lineageIsIndexedPs2 = Boolean(forkStatus?.parentProject);
+  const strongIndependentEvidence =
+    trustedOwner ||
+    explicitRepositorySignal(repo) ||
+    lineageIsIndexedPs2 ||
+    evidence.some((item) => /README|release metadata|fork lineage/i.test(item));
 
-  // A fork can inherit a README full of PS2 references while its own work targets
-  // a different platform. Require fork-specific PS2 identity instead of accepting
-  // copied upstream README text as independent evidence.
-  if (repo.fork && !forkIndependentEvidence) {
-    ignored++;
-    return;
+  // Forks are first-class catalog entries. A fork may be stale, behind, have no
+  // release, or exist several generations down a fork tree; none of those facts
+  // make it irrelevant. If its lineage reaches an indexed PS2 project, publish it
+  // on lineage evidence alone and let normal activity sorting push stale forks back.
+  if (lineageIsIndexedPs2) {
+    score = Math.max(score, 95);
   }
 
-  if (score >= 95 && strongIndependentEvidence && forkPublishable) {
+  if (score >= 95 && (strongIndependentEvidence || publishByDefault || starred)) {
     await publishProject(repo, releases, maturity, score, evidence, origin, forkStatus);
     return;
   }
@@ -515,8 +540,9 @@ async function processCandidate(candidate, origin, { force = false, trusted = fa
 
 async function searchRepositories(query, pages, origin) {
   const results = [];
+  const queryWithForks = /(?:^|\s)fork:/.test(query) ? query : `${query} fork:true`;
   for (let page = 1; page <= pages; page++) {
-    const response = await github(`/search/repositories?q=${encodeURIComponent(query)}&sort=updated&order=desc&per_page=100&page=${page}`);
+    const response = await github(`/search/repositories?q=${encodeURIComponent(queryWithForks)}&sort=updated&order=desc&per_page=100&page=${page}`);
     const items = response?.items ?? [];
     for (const repo of items) {
       if (publishedIds.has(String(repo.id)) || publishedNames.has(repo.full_name.toLowerCase())) continue;
@@ -526,6 +552,65 @@ async function searchRepositories(query, pages, origin) {
     if (items.length < 100) break;
   }
   return results;
+}
+
+async function seedForkNetworks() {
+  const queue = [...state.forks.queue];
+  const queued = new Set(queue.map((value) => String(value).toLowerCase()));
+  const scanned = new Set(state.forks.scannedRepositories.map((value) => String(value).toLowerCase()));
+
+  // Every published GitHub PS2 project becomes a fork-network seed exactly once.
+  // Newly discovered forks are queued too, which explicitly covers forks of forks.
+  for (const project of knownProjects) {
+    const repository = project.repository;
+    const key = repository.toLowerCase();
+    if (!scanned.has(key) && !queued.has(key)) {
+      queue.push(repository);
+      queued.add(key);
+    }
+  }
+
+  let rootsProcessed = 0;
+  while (queue.length > 0 && rootsProcessed < forkNetworkRootsPerRun) {
+    const root = queue.shift();
+    const rootKey = String(root).toLowerCase();
+    queued.delete(rootKey);
+    if (scanned.has(rootKey)) continue;
+
+    rootsProcessed++;
+    let discoveredFromRoot = 0;
+
+    for (let page = 1; page <= forkNetworkPagesPerRoot; page++) {
+      const forks = await github(`/repos/${root}/forks?sort=newest&per_page=100&page=${page}`);
+      if (!Array.isArray(forks)) break;
+
+      for (const fork of forks) {
+        discoveredFromRoot++;
+
+        // Process every fork independently even if it is stale or has no release.
+        await processCandidate(fork, `fork-network:${root}`, { trusted: false });
+
+        // Traverse the full tree rather than only first-generation forks.
+        const forkName = fork.full_name;
+        const forkKey = forkName?.toLowerCase?.();
+        if (forkName && forkKey && !scanned.has(forkKey) && !queued.has(forkKey)) {
+          queue.push(forkName);
+          queued.add(forkKey);
+        }
+      }
+
+      if (forks.length < 100) break;
+    }
+
+    scanned.add(rootKey);
+    state.forks.queue = queue;
+    state.forks.scannedRepositories = [...scanned].slice(-20000);
+    console.log(`fork network ${root}: ${discoveredFromRoot} fork(s) discovered`);
+  }
+
+  state.forks.queue = queue;
+  state.forks.scannedRepositories = [...scanned].slice(-20000);
+  console.log(`fork discovery: ${rootsProcessed} root(s) scanned, ${queue.length} queued for later runs`);
 }
 
 async function seedTrustedOwners() {
@@ -669,6 +754,7 @@ async function bootstrapDiscovery() {
 try {
   await seedTrustedOwners();
   await seedStarredUsers();
+  await seedForkNetworks();
   await recheckPending();
   await incrementalDiscovery();
   await bootstrapDiscovery();
@@ -694,4 +780,4 @@ try {
   await fs.writeFile(stateFile, JSON.stringify(state, null, 2) + "\n", "utf8");
 }
 
-console.log(`Discovery complete: ${published} published, ${queued} queued/updated, ${rechecked} pending rechecked, ${ignored} ignored, ${requestCount} GitHub requests (${searchRequestCount} search)${stoppedForRateLimit ? "; stopped early and saved progress" : ""}. Bootstrap ${state.bootstrap.complete ? "complete" : `next month ${state.bootstrap.nextMonth}`}.`);
+console.log(`Discovery complete: ${published} published, ${queued} queued/updated, ${rechecked} pending rechecked, ${ignored} ignored, ${requestCount} GitHub requests (${searchRequestCount} search)${stoppedForRateLimit ? "; stopped early and saved progress" : ""}. Fork queue ${state.forks.queue.length}. Bootstrap ${state.bootstrap.complete ? "complete" : `next month ${state.bootstrap.nextMonth}`}.`);
