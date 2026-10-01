@@ -256,6 +256,75 @@
           "NVM",
           "MEC"
         ]
+      },
+      {
+        "name": "ps2homebrew/PS2Ident — Console ROM & MECHACON Identification Tool",
+        "url": "https://github.com/ps2homebrew/PS2Ident",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Ident",
+          "BIOS",
+          "ROM",
+          "ROM0",
+          "ROM1",
+          "ROM2",
+          "EROM",
+          "MECHACON",
+          "NVRAM",
+          "ROMVER",
+          "hardware identification",
+          "preservation"
+        ]
+      },
+      {
+        "name": "Woon Yung — Original PS2Ident Project Page",
+        "url": "https://sites.google.com/view/ysai187/home/projects/ps2ident",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Ident",
+          "BIOS",
+          "ROM",
+          "MECHACON",
+          "NVRAM",
+          "console identification",
+          "legacy project",
+          "preservation"
+        ]
+      },
+      {
+        "name": "ps2dev Forums — Reading PS2 ROMVER / BIOS Version",
+        "url": "https://forums.ps2dev.org/viewtopic.php?p=84538",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BIOS",
+          "ROMVER",
+          "rom0:ROMVER",
+          "uLaunchELF",
+          "Debug Info",
+          "firmware version",
+          "ps2dev",
+          "technical reference"
+        ]
+      },
+      {
+        "name": "ps2homebrew/OSD-Initialization-Libraries — ROM Module Initialization Notes",
+        "url": "https://github.com/ps2homebrew/OSD-Initialization-Libraries",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OSDSYS",
+          "ROM modules",
+          "rom0",
+          "IOP",
+          "IOPBTCONF",
+          "EELOAD",
+          "firmware",
+          "system software",
+          "initialization"
+        ]
       }
     ]
   }
