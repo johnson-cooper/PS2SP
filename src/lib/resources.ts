@@ -80,6 +80,7 @@ import bitbuiltQuadeGussePs2DeepGroups from "../../data/resources/bitbuilt-quade
 import hardlevelPs2DeepGroups from "../../data/resources/hardlevel-ps2-deep-2026-09-30.json";
 import willsPs2ModchipArchiveGroups from "../../data/resources/wills-ps2-modchip-archive-deep-2026-09-30.json";
 import independentPs2TechnicalGuideGroups from "../../data/resources/independent-ps2-technical-guides-2026-09-30.json";
+import assemblerGamesArchivePs2DeepGroups from "../../data/resources/assemblergames-archive-ps2-deep-2026-09-30.json";
 
 export interface ResourceLink {
   name: string;
@@ -182,7 +183,8 @@ const allResourceSources = [
   ...(bitbuiltQuadeGussePs2DeepGroups as ResourceGroup[]),
   ...(hardlevelPs2DeepGroups as ResourceGroup[]),
   ...(willsPs2ModchipArchiveGroups as ResourceGroup[]),
-  ...(independentPs2TechnicalGuideGroups as ResourceGroup[])
+  ...(independentPs2TechnicalGuideGroups as ResourceGroup[]),
+  ...(assemblerGamesArchivePs2DeepGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
