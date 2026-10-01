@@ -63,6 +63,14 @@ function shouldPromote(record) {
 
   if (score < 70) return false;
   if (looksLikeNonSoftware(record)) return false;
+
+  // PS2 forks are allowed to be old, archived, dormant, behind their parent, or
+  // unreleased. Fork history is useful in its own right, and stale entries can be
+  // ranked by activity instead of being deleted from the catalog.
+  if (record?.fork) {
+    return strongEvidence >= 1 || score >= 90;
+  }
+
   if (blockedMaturity.has(maturity)) return false;
 
   if (maturity === "released-active" || maturity === "released-legacy") {
