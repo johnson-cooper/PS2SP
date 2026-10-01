@@ -1,0 +1,431 @@
+[
+  {
+    "category": "Alternate Git Hosts — PS2BUILD SDK Ecosystem",
+    "description": "PS2 development repositories hosted on Tech Writes Code's Forgejo instance, including the PS2BUILD SDK, permanent forks, toolchains, libraries, drivers, host tools and documentation not visible to GitHub discovery.",
+    "links": [
+      {
+        "name": "Tech Writes Code PS2 — PS2BUILD SDK organization",
+        "url": "https://git.techwritescode.dev/ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "PS2BUILD",
+          "SDK",
+          "Forgejo",
+          "organization"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — PS2BUILD installer",
+        "url": "https://git.techwritescode.dev/ps2/install",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "PS2BUILD",
+          "installer",
+          "SDK",
+          "toolchain"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — ps2build",
+        "url": "https://git.techwritescode.dev/ps2/ps2build",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "PS2BUILD",
+          "Ninja",
+          "build system",
+          "EE",
+          "IOP",
+          "compile_commands"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — PS2 libvorbis",
+        "url": "https://git.techwritescode.dev/ps2/vorbis",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "libvorbis",
+          "audio",
+          "library",
+          "PS2BUILD",
+          "CMake"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — PS2 libogg",
+        "url": "https://git.techwritescode.dev/ps2/ogg",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "libogg",
+          "audio",
+          "library",
+          "PS2BUILD",
+          "CMake"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — sdk-world",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "PS2SDK",
+          "SDK",
+          "graphics",
+          "audio",
+          "input",
+          "PS2BUILD"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — sdk-core",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "PS2SDK",
+          "SDK",
+          "permanent fork",
+          "GNU Make replacement",
+          "PS2BUILD"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — PS2 SDK documentation",
+        "url": "https://git.techwritescode.dev/ps2/docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "PS2SDK",
+          "documentation",
+          "VitePress",
+          "SDK"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — ps2link fork",
+        "url": "https://git.techwritescode.dev/ps2/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "ps2link",
+          "networking",
+          "debugging",
+          "fork",
+          "PS2BUILD"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — setup-sdk",
+        "url": "https://git.techwritescode.dev/ps2/setup-sdk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "PS2BUILD",
+          "SDK",
+          "installer",
+          "TypeScript"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — PS2BUILD host tools",
+        "url": "https://git.techwritescode.dev/ps2/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "bin2c",
+          "adpenc",
+          "ps2pack",
+          "ps2pkgconf",
+          "host tools",
+          "Go"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — PS2 homebrew toolchain",
+        "url": "https://git.techwritescode.dev/ps2/toolchain",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "toolchain",
+          "EE",
+          "IOP",
+          "DVP",
+          "compiler",
+          "PS2BUILD"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — PS2BUILD Ninja bootstrap",
+        "url": "https://git.techwritescode.dev/ps2/ninja",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "Ninja",
+          "bootstrap",
+          "build system",
+          "PS2BUILD"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — ps2_drivers fork",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "drivers",
+          "SDL",
+          "fork",
+          "PS2BUILD",
+          "PS2SDK"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — audsrv redesign",
+        "url": "https://git.techwritescode.dev/ps2/audsrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "audsrv",
+          "audio",
+          "EE",
+          "IOP",
+          "driver",
+          "library"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — ps2client fork",
+        "url": "https://git.techwritescode.dev/ps2/ps2client",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "ps2client",
+          "networking",
+          "host tool",
+          "fork"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — PS2 CMake toolchain",
+        "url": "https://git.techwritescode.dev/ps2/cmake",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "CMake",
+          "toolchain",
+          "EE",
+          "IOP",
+          "cross compilation"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — ROMFS",
+        "url": "https://git.techwritescode.dev/ps2/romfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "ROMFS",
+          "filesystem",
+          "library",
+          "ps2sdk-ports"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — PS2 libpng",
+        "url": "https://git.techwritescode.dev/ps2/libpng",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "libpng",
+          "PNG",
+          "graphics",
+          "library",
+          "port"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — PS2 FreeType",
+        "url": "https://git.techwritescode.dev/ps2/freetype",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "FreeType",
+          "font",
+          "graphics",
+          "library",
+          "port"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — srxfixup",
+        "url": "https://git.techwritescode.dev/ps2/srxfixup",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "srxfixup",
+          "iopfixup",
+          "eefixup",
+          "IRX",
+          "ERX",
+          "relocatable ELF",
+          "tool"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — ps2stuff",
+        "url": "https://git.techwritescode.dev/ps2/ps2stuff",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "low-level",
+          "vector math",
+          "matrix math",
+          "GS",
+          "packet",
+          "ps2gl",
+          "library"
+        ]
+      },
+      {
+        "name": "Tech Writes Code PS2 — PSUManager",
+        "url": "https://git.techwritescode.dev/techwritescode/PSUManager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "Forgejo",
+          "alternate Git host",
+          "PSU",
+          "save archive",
+          "memory card",
+          "manager",
+          "wxWidgets",
+          "host tool"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Alternate Git Hosts — PS2 Mirrors & Bare-Metal Projects",
+    "description": "PS2 repositories and mirrors hosted outside GitHub, retained as independently searchable project identities.",
+    "links": [
+      {
+        "name": "CWGit — ps2rom Bare-Metal Replacement ROM",
+        "url": "https://git.crustywindo.ws/modeco80/ps2rom",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "bare metal",
+          "BIOS",
+          "replacement ROM",
+          "EE",
+          "IOP",
+          "PS2SDK",
+          "development",
+          "CWGit",
+          "alternate Git host"
+        ]
+      },
+      {
+        "name": "CWGit — ps2rom EE/IOP ROM Source",
+        "url": "https://git.crustywindo.ws/modeco80/ps2rom/src/branch/master/rom",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "bare metal",
+          "EE",
+          "IOP",
+          "ROM",
+          "source code",
+          "development",
+          "CWGit"
+        ]
+      },
+      {
+        "name": "Wisellama Git — Open PS2 Loader Mirror",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "mirror",
+          "Forgejo",
+          "alternate Git host",
+          "preservation"
+        ]
+      }
+    ]
+  }
+]
