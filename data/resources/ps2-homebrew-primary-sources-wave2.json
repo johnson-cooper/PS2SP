@@ -1,0 +1,259 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Primary and historical source pages for PS2 homebrew games, ports and demos recovered from project sites, source repositories, release threads and archive snapshots.",
+    "links": [
+      {
+        "name": "M-PS2Craft — Original PS2 Revival Project Page",
+        "url": "https://ps2revivalproject.jimdofree.com/juegos-games/m-ps2craft/",
+        "keywords": [
+          "PS2",
+          "M-PS2Craft",
+          "Minecraft",
+          "homebrew game",
+          "PS2 Revival Project",
+          "original project page"
+        ]
+      },
+      {
+        "name": "M-PS2Craft — PSX-Place Release Thread",
+        "url": "https://www.psx-place.com/threads/m-ps2craft.33155/",
+        "keywords": [
+          "PS2",
+          "M-PS2Craft",
+          "Minecraft",
+          "homebrew",
+          "release thread"
+        ]
+      },
+      {
+        "name": "Nicky Boum PS2 — DCEmu Release Thread",
+        "url": "https://www.dcemu.co.uk/showthread.php?t=353142",
+        "keywords": [
+          "PS2",
+          "Nicky Boum",
+          "NickyBoumPS2",
+          "port",
+          "homebrew",
+          "DCEmu",
+          "release thread"
+        ]
+      },
+      {
+        "name": "FCE Ultra PS2 — DCEmu 2008 Release",
+        "url": "http://psp-news.dcemu.co.uk/fce-ultra-build-13-05-2008-nes-emulator-for-ps2-112890.html",
+        "keywords": [
+          "PS2",
+          "FCE Ultra",
+          "NES emulator",
+          "DCEmu",
+          "2008",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "DCEmu — Historical PS2 Homebrew Index",
+        "url": "http://psp-news.dcemu.co.uk/ps2-homebrew-1158265.html",
+        "keywords": [
+          "PS2",
+          "DCEmu",
+          "homebrew archive",
+          "JammerPS2",
+          "MyPS2",
+          "NRLPack",
+          "historical index"
+        ]
+      },
+      {
+        "name": "GitHub — Meritous PS2",
+        "url": "https://github.com/Nop90-Ps2/Meritous_PS2",
+        "keywords": [
+          "PS2",
+          "Meritous",
+          "source code",
+          "port",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "GitHub — PS2 Doom",
+        "url": "https://github.com/israpps/ps2doom",
+        "keywords": [
+          "PS2",
+          "Doom",
+          "PS2 Doom",
+          "source code",
+          "port",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "GitHub — Taradino / Rise of the Triad PS2",
+        "url": "https://github.com/Wolf3s/taradino",
+        "keywords": [
+          "PS2",
+          "Taradino",
+          "Rise of the Triad",
+          "ROTT",
+          "source code",
+          "port"
+        ]
+      },
+      {
+        "name": "GitHub — Wolf4SDL PS2",
+        "url": "https://github.com/Wolf3s/Wolf4SDL-PS2",
+        "keywords": [
+          "PS2",
+          "Wolf4SDL",
+          "Wolfenstein 3D",
+          "Spear of Destiny",
+          "source code",
+          "port"
+        ]
+      },
+      {
+        "name": "GitHub — 3D Pinball Space Cadet PS2",
+        "url": "https://github.com/headshot2017/3dpinball-ps2",
+        "keywords": [
+          "PS2",
+          "3D Pinball",
+          "Space Cadet",
+          "source code",
+          "port"
+        ]
+      },
+      {
+        "name": "ClassiCube — Official PS2 Download Page",
+        "url": "https://www.classicube.net/download/ps2",
+        "keywords": [
+          "PS2",
+          "ClassiCube",
+          "Minecraft Classic",
+          "official PS2 port",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "GitHub — ClassiCube",
+        "url": "https://github.com/ClassiCube/ClassiCube",
+        "keywords": [
+          "PS2",
+          "ClassiCube",
+          "Minecraft Classic",
+          "source code",
+          "console port"
+        ]
+      },
+      {
+        "name": "GitHub — Plants vs. Zombies PS2/Wii",
+        "url": "https://github.com/OptiJuegos/pvz-ps2-wii",
+        "keywords": [
+          "PS2",
+          "Plants vs Zombies",
+          "PvZ",
+          "OptiJuegos",
+          "native port",
+          "source code"
+        ]
+      },
+      {
+        "name": "Loonies 8192 — PS2 Release Devlog",
+        "url": "https://thp.itch.io/loonies-8192/devlog/539600/loonies-8192-r67-for-ps2-gamecube-wii-and-windows-311",
+        "keywords": [
+          "PS2",
+          "Loonies 8192",
+          "r67",
+          "homebrew",
+          "release notes",
+          "itch.io"
+        ]
+      },
+      {
+        "name": "NIM PS2 Edition — Release Thread",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=85&t=3672",
+        "keywords": [
+          "PS2",
+          "NIM",
+          "Theldus",
+          "homebrew game",
+          "release thread"
+        ]
+      },
+      {
+        "name": "R-Eleven — Demozoo Production Page",
+        "url": "https://demozoo.org/productions/119508/",
+        "keywords": [
+          "PS2",
+          "R-Eleven",
+          "Condense",
+          "demoscene",
+          "Third Creation",
+          "demo",
+          "preservation"
+        ]
+      },
+      {
+        "name": "Lukasz.dk — The Third Creation PS2 Demo Contest",
+        "url": "http://lukasz.dk/playstation-2-programming/the-third-creation/",
+        "keywords": [
+          "PS2",
+          "The Third Creation",
+          "TTC",
+          "demoscene",
+          "R-Eleven",
+          "Vume-vuu",
+          "Bunny",
+          "contest",
+          "preservation"
+        ]
+      },
+      {
+        "name": "YETI3D PS2 — ConsoleMods Record",
+        "url": "https://consolemods.org/wiki/PS2:Homebrew_Games_List",
+        "keywords": [
+          "PS2",
+          "YETI3D",
+          "Yeti 3D",
+          "coldev",
+          "homebrew port",
+          "2013"
+        ]
+      },
+      {
+        "name": "GitHub — God of War Betrayal PS2",
+        "url": "https://github.com/PS2GAMESDEV/GOW-Betrayal-PS2",
+        "keywords": [
+          "PS2",
+          "God of War Betrayal",
+          "fan port",
+          "homebrew",
+          "source code"
+        ]
+      },
+      {
+        "name": "Jump 'n Bump PS2 — Archived Original Site",
+        "url": "https://web.archive.org/web/20160322072141/http://www.megidish.net/jnb/",
+        "keywords": [
+          "PS2",
+          "Jump n Bump",
+          "Gil Megidish",
+          "Wayback",
+          "original site",
+          "homebrew port"
+        ]
+      },
+      {
+        "name": "Jump 'n Bump PS2 — Archived Source Tarball",
+        "url": "https://web.archive.org/web/20160307152456/http://www.megidish.net/jnb/blood/jumpnbump-1.50-ps2src.tar.gz",
+        "keywords": [
+          "PS2",
+          "Jump n Bump",
+          "source code",
+          "tarball",
+          "Wayback",
+          "Gil Megidish"
+        ]
+      }
+    ]
+  }
+]

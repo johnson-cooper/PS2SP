@@ -1,0 +1,6370 @@
+[
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "Distinct PS2 applications, diagnostics, system tools and PS1-related utilities indexed from the PSBBN Definitive Project AppDB.",
+    "links": [
+      {
+        "name": "PSBBN AppDB — Reboot PS2",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "SYS_REBOOT",
+          "REBOOT",
+          "RESTART",
+          "REBOOTSYSTEM",
+          "REBOOT.ELF",
+          "RESTART.ELF",
+          "REBOOTSYSTEM.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PowerOff PS2",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "SYS_POWEROFF",
+          "POWEROFF",
+          "POWOFF",
+          "OFF",
+          "SHUTDOWN",
+          "SYSTEMSHUTDOWN",
+          "POWEROFF.ELF",
+          "POWOFF.ELF",
+          "OFF.ELF",
+          "SHUTDOWN.ELF",
+          "SYSTEMSHUTDOWN.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — LbFn",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L11",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_LBFN",
+          "x.com/nika_towns",
+          "LBFN",
+          "LBFNC",
+          "LbFn v0.70.19 WIP.elf",
+          "LbFnc.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — LbFn (with updated libcdvd)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L13",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_LBFNHWC",
+          "psx-place.com/members/hwnj.32001",
+          "HWCLBFN",
+          "HWCLBFNUPDATEDLIBCDVD",
+          "HWCLBFN.ELF",
+          "HWC-LbFn-Updated-libcdvd.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Xtreme Elite Boot+",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L18",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_XEBPLUS",
+          "Howling Wolf & Chelsea",
+          "XEBPLUS",
+          "XEBPLUSXMAS",
+          "XEBPLUS.ELF",
+          "XEBPLUS_XMAS.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Original Card Test",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L20",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_OGCARDTE",
+          "israpps.github.io",
+          "PS2OGCARDTEST",
+          "OGCARDTEST",
+          "PS2_OG_CARD_TEST.ELF",
+          "OG-CARD-TEST.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Memory Card Annihilator",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L21",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_MCA",
+          "ffgriever-pl",
+          "MEMCARDANNIHILATOR",
+          "MCA",
+          "Memory Card Annihilator.ELF",
+          "mca_v20.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Memory Card Annihilator (Arcade)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L23",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_MCA",
+          "ffgriever-pl",
+          "MCAARCADE",
+          "mca_ARCADE.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Memory Card Annihilator (Developer)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L24",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_MCA",
+          "ffgriever-pl",
+          "MCADEVELOPER",
+          "mca_DEVELOPER.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Memory Card Annihilator (Prototype)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L25",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_MCA",
+          "ffgriever-pl",
+          "MCAPROTOTYPE",
+          "mca_PROTOTYPE.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — OSDMenu",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L26",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "SYS_OSDMENU",
+          "pcm720",
+          "HOSDMENU",
+          "OSDMENU",
+          "hosdmenu.elf",
+          "osdmenu.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — HD Loader",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L27",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_HDLOADER",
+          "HDLoader",
+          "HDL",
+          "HDDLOADER",
+          "HDL_V0.8C.ELF",
+          "hddloader.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Unofficial Open PS2 Loader",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L30",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_UOPL",
+          "github.com/KrahJohlito",
+          "UOPNPS2LD",
+          "UOPNPS2LD.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — HDL Server",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L31",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_HDLSVR",
+          "ps2homebrew.github.io",
+          "HDLSVR093",
+          "HDL-SERVER-093.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — HomeBrew DownLoader",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L40",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_HBDL",
+          "github.com/VTSTech",
+          "VTSPS2HBDL",
+          "VTSPS2-HBDL.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — VTSPS2-CRC32",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L41",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_VTSPS2CR",
+          "github.com/VTSTech",
+          "VTSPS2CRC32",
+          "VTSPS2-CRC32-packed.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PSX Launcher",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L42",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "PS1",
+          "PS1_PSXLAUNC",
+          "vegito_93",
+          "PSXLAUNCHER",
+          "PSXLAUNCHER.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — MechaPwn",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L44",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_MECHAPWN",
+          "github.com/MechaResearch",
+          "MECHAPWN",
+          "MechaPwn.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Code Breaker",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L47",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_CODEBREA",
+          "Pelican Accessories",
+          "CBV10",
+          "CB10",
+          "CB92",
+          "CODEBREAKER10",
+          "CBV.10.elf",
+          "CB10.elf",
+          "CB92.elf",
+          "CODEBREAKER10.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — uLaunchELF",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L51",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_ULE",
+          "Eric Price (E P) & Ronald Andersson (dlanor)",
+          "ULAUNCHELF",
+          "UNOFFICIALLAUNCHELF",
+          "uLaunchELF.elf",
+          "WorkingULE.ELF",
+          "unofficial Launch ELF v4.40h.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — uLaunchELF",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L54",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_ULE",
+          "krHACKen",
+          "ULEKHN",
+          "ULEKHN.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — uLaunchELF",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L55",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_ULE",
+          "SP193",
+          "ULE2TB",
+          "uLE - 2TB.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — OPL Neutrino GUI",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L59",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_OPLNEUT",
+          "crt0",
+          "OPLNEUT",
+          "OPLNEUTV41.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Playstation 2 External Storage Device Game Loader",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L65",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_PS2ESDL",
+          "sites.google.com/view/ysai187",
+          "PS2ESDL",
+          "PS2ESDL0825OB",
+          "PS2ESDL0821OB",
+          "PS2ESDL v0.825 OB.elf",
+          "PS2ESDL_0825_OB.elf",
+          "PS2ESDL_0821_OB.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — DNAS H4x0r",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L68",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_DNASH4X0",
+          "PS2NFO.COM",
+          "DNASH4X0R",
+          "DNAS H4x0r.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — GameShark 2",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L69",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_GAMESHAR",
+          "GameShark",
+          "GAMESHARK2",
+          "GAMESHARK2.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — DVD Player",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L81",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_DVDPLAYE",
+          "DVDPLAYERPR",
+          "dvdplayer.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2PSXe",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L88",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "PS1",
+          "PS1_PS2PSXE",
+          "ffgriever",
+          "PS2PSXE",
+          "ps2psxe.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2Temps",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L92",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_PS2TEMPS",
+          "jolek and AKuHAK",
+          "PS2TEMP",
+          "PS2TEMPS",
+          "PS2TEMP.ELF",
+          "PS2TEMPS.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — ESR GUI",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L96",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_ESR",
+          "ffgriever",
+          "ESRGUI",
+          "ESR_GUI.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — ESR Launcher",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L97",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_ESRLAUNC",
+          "Howling Wolf & Chelsea",
+          "ESRLAUNCHER",
+          "ESR-LAUNCHER.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — ESR",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L98",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_ESR",
+          "ESR",
+          "ESR.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Memory Card Formatter",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L99",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_MFU",
+          "1UP & Based_Skid",
+          "MFU",
+          "MASSMCFORMATTER",
+          "MCFORMATTER",
+          "MFU-Packed.elf",
+          "MassMCFormatter.elf",
+          "mcFormatter.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Swap Magic 3 Plus",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L104",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_SWAPMAGI",
+          "Datel",
+          "SWAPMAGIC38",
+          "SMDVD38",
+          "SWAPMAGIC38.ELF",
+          "SMDVD38.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Double Unofficial Open PS2 Loader",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L106",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_WOPL",
+          "ps2homebrew.github.io",
+          "WOPNPS2LD",
+          "WOPNPS2LD.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — RiptOPL",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L107",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_RIPTOPL",
+          "github.com/NathanNeurotic",
+          "RIPTOPL",
+          "RIPTOPLRA",
+          "RIPTOPL.ELF",
+          "RIPTOPL-RA.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Apollo Save Tool",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L109",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_APOLLO",
+          "github.com/bucanero",
+          "APOLLO",
+          "APOLLO.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Argon XMB Media Player",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L110",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_ARGON",
+          "sourceforge.net/u/argonps2/profile/",
+          "ARGON",
+          "ARGON.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Cheat Device PS2BBL Forwarder",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L111",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_CHEATDEV",
+          "israpps.github.io",
+          "CHEATDEVICEFORWARDER",
+          "CHEATDEVICE-FORWARDER.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Cheat Device",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L112",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_CHEATDEV",
+          "israpps.github.io",
+          "CHEATDEVICE",
+          "CHEATHDD",
+          "CHEATDEVICE.ELF",
+          "CHEATHDD.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Graphic Synthesizer Mode (GSM)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L114",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_GSM",
+          "github.com/doctorxyz",
+          "GSM",
+          "GSM.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — NHDDL",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L115",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_NHDDL",
+          "pcm720",
+          "NHDDL",
+          "nhddl.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — OSD-XMB",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L116",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_OSDXMB",
+          "HiroTex",
+          "OSDXMB",
+          "OSDXMB.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PSBBN Forwarder",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L117",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_PSBBNFOR",
+          "pcm720",
+          "PSBBNFORWARDER",
+          "PSBBN-FORWARDER.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Simple Media System",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L118",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_SMS",
+          "ps2homebrew",
+          "SMS",
+          "SMSVERSION29",
+          "SMS.ELF",
+          "SMS Version 2.9 (Rev.4).elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Simple Media System",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L120",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_SMS",
+          "github.com/NathanNeurotic",
+          "SIMPLEMEDIASYSTEM",
+          "Simple-Media-System.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Open PS2 Loader (CHILDPROOF)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L121",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_OPL",
+          "Ifcaro & jimmikaelkael",
+          "OPL08CHILDPROOF",
+          "OPL 0.8- ChildPROOF.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Open PS2 Loader",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L122",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_OPL",
+          "ps2homebrew.github.io",
+          "OPNPS2LD",
+          "OPNPS2LD.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — wLaunchELF_R3Z",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L123",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_WLER3Z",
+          "R3Z3N, pcm720, El Isra",
+          "WLER3Z",
+          "WLE-R3Z.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — wLaunchELF_R3Z DS34",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L124",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_WLER3ZDS",
+          "R3Z3N, pcm720, El Isra",
+          "WLER3ZDS34",
+          "WLE-R3Z-DS34.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — wLaunchELF",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L125",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_WLE",
+          "ps2homebrew.github.io",
+          "WLAUNCHELF",
+          "WLAUNCHELF.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — wLaunchELF_isr",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L126",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_WLEISR",
+          "israpps.github.io",
+          "WLEISR",
+          "WLE-ISR.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — wLaunchELF KHn",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L127",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_WLEVCD",
+          "krHACKen",
+          "UNOFFICIALLAUNCHELFKHN",
+          "DOUBLEUNOFFICIALLAUNCHELFKHN",
+          "unofficial Launch ELF kHn (2020-08-10).elf",
+          "double unofficial Launch ELF kHn (2020-08-10) (packed).elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — wLaunchELF",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L128",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_WLEVCD",
+          "krHACKen",
+          "DOUBLEUNOFFICIALLAUNCHELF",
+          "double unofficial Launch ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Free McBoot",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L130",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "SYS_FMCB",
+          "Jimmikaelkael and Neme",
+          "FMCBD",
+          "FMCBD.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — FreeMcBoot Installer",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L131",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "SYS_FMCB",
+          "github.com/israpps",
+          "FMCBINSTALLER",
+          "FMCBInstaller.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — FMCB Configurator",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L132",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "SYS_FMCBCFG",
+          "suloku",
+          "FMCBCFG",
+          "FMCB-CFG.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — NTPS2",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L133",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "SYS_NTPS2",
+          "ShyavanS",
+          "NTPS2",
+          "NTPS2UNC",
+          "NTPS2.ELF",
+          "NTPS2-UNC.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — R3CONFIGURATOR",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L136",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "SYS_R3CONFIG",
+          "pcm720, R3Z3N",
+          "R3CONFIGURATOR",
+          "r3configurator.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — HDD Tester",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L140",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_HDDTESTE",
+          "GrimBrew",
+          "HDDTESTER",
+          "PS2HDDTESTER",
+          "HDDTESTER.ELF",
+          "PS2HDDTESTER.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — LensChanger",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L142",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_LENSCHAN",
+          "DamproSoft",
+          "LENSCHANGER",
+          "LCHGINST",
+          "LENSCHNG",
+          "LENSCHANGER.ELF",
+          "LCHGINST.ELF",
+          "LENSCHNG.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Mechacon Crash Tester",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L145",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_MECHCRSH",
+          "israpps.github.io",
+          "MECHACONCRASHTESTER",
+          "MECHACON-CRASH-TESTER.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Controller Tester",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L147",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_PADTEST",
+          "jbit",
+          "PADTEST",
+          "PADTESTPS2",
+          "PS2PADTEST",
+          "PADTEST.ELF",
+          "PADTESTPS2.ELF",
+          "PS2PADTEST.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 RDRAM Test",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L150",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_PS2RDRAM",
+          "krat0s",
+          "PS2RDRAMTEST",
+          "PS2_RDRAMTest.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2Ident",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L151",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_PS2IDENT",
+          "SP193 AkuHAK, Maximus32",
+          "PS2IDENT",
+          "PS2IDENTNP",
+          "PS2IDENT.ELF",
+          "PS2Ident_np.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — ROM Version Checker",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L153",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_ROMVERCH",
+          "slimpuggamer",
+          "ROMVERCHK",
+          "ROMVERCHK.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — DKWDRV",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L159",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "PS1",
+          "PS1_DKWDRV",
+          "github.com/DKWDRV",
+          "DKWDRV",
+          "DKWDRV.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — POPSLoader",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L160",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "PS1",
+          "PS1_POPSLOAD",
+          "israpps.github.io/",
+          "POPSLOADER",
+          "POPSLOADER.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Launcher",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L164",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_PS2LAUNC",
+          "github.com/Irfanlesnar",
+          "PS2LAUNCHER",
+          "PS2LAUNCHER400",
+          "PS2-Launcher-v3.1.0.ELF",
+          "PS2-Launcher-4.0.0.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — smbLaunchELF",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L166",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_NETFS",
+          "github.com/sahlberg",
+          "NETFS",
+          "NETFS.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — USB Advance",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L167",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_USBADVN",
+          "USBADVN",
+          "USBADVANCE",
+          "USBAWAR",
+          "USBHDDADVANCED",
+          "USBADVN.ELF",
+          "USB_ADVANCE.ELF",
+          "USBA_WAR.ELF",
+          "USB_HDD_ADVANCED.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — SoftDev2 Installer",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L233",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_SOFTDEV2",
+          "github.com/parrado",
+          "SOFTDE",
+          "SoftDev2Installer.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — SIO Communications Tester",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L235",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_SIOCOMMU",
+          "SIOCOMMUNICATIONSTESTER",
+          "SIO Communications Tester v1.0.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — RadShell",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L240",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_RADSHELL",
+          "radad",
+          "RADSHELL",
+          "RADSHELLMOD",
+          "radshell.elf",
+          "radshellmod.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — RadMenu",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L242",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_RADMENU",
+          "radad",
+          "RADMENU",
+          "RadMenu.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Pukklink",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L248",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_PUKKLINK",
+          "PUKKP2L",
+          "PUKKLINK",
+          "PUKK_P2L.ELF",
+          "Pukklink v1.0b.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Splash",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L250",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_PS2SPLAS",
+          "github.com/parrado",
+          "PS2SPLASH",
+          "PS2SPLASH v1.0.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Shell",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L251",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_PS2SHELL",
+          "weltall",
+          "PS2SHELL",
+          "PS2Shell v0.0.3.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Reality Mediaplayer PRO",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L253",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_PS2REALI",
+          "PS2Reality(Hermes, Mavy & Bigboss)",
+          "PS2REALITYMEDIAPLAYERPRO",
+          "RMPPRO",
+          "PS2REALITY",
+          "PS2 Reality Mediaplayer Pro.elf",
+          "RMP_PRO.ELF",
+          "PS2REALITY_PRO.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2OS",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L261",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_PS2OS",
+          "PS2World.it Team",
+          "PS2OS",
+          "PS2OS.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PlayStation 2 MP3 Player SE",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L262",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_PS2MP3",
+          "weltall(stefy2)",
+          "PLAYSTATION2MP3PLAYERSE",
+          "PlayStation 2 MP3 Player SE v1.3.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PlayStation 2 MP3 Player",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L263",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_PS2MP3",
+          "Ryan Kegel",
+          "PLAYSTATION2MP3PLAYER",
+          "PlayStation 2 MP3 Player.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Lua Player",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L264",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_PS2LUAPL",
+          "ps2homebrew.github.io",
+          "PS2LUAPLAYER",
+          "PS2 LUA Player v0.20 R3.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2irc",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L265",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_PS2IRC",
+          "ubergeek42",
+          "PS2IRC",
+          "ps2-irc.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Intro Loader",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L266",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_INTROLDR",
+          "github.com/dekkit",
+          "INTROLDR",
+          "PS2INTROLOADER",
+          "INTROLDR.ELF",
+          "PS2 Intro Loader v1.0.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Eject",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L268",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "SYS_PS2EJECT",
+          "github.com/VTSTech",
+          "PS2EJECT",
+          "PS2Eject.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — FunTuna-Fork Installer",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L270",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "SYS_FUNTUNA",
+          "israpps.github.io",
+          "FUNTUNAFORKINSTALLER",
+          "FunTuna-Fork_Installer.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Return to Boot Card",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L273",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "SYS_IGR",
+          "github.com/JonathanDotCel",
+          "IGR",
+          "IGR.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — rom0:TESTMODE Launcher",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L282",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_TESTMODE",
+          "github.com/VTSTech",
+          "TESTMODE",
+          "TESTMODELAUNCHER",
+          "VTSPS2TESTMODE",
+          "testmode.ELF",
+          "TESTMODE Launcher v0.2.elf",
+          "VTSPS2-TESTMODE-packed.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Test Launcher BM",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L285",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_TESTLAUN",
+          "TESTLAUNCHERBM",
+          "TestLauncher BM v2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — TES-L",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L286",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_TESL",
+          "yi",
+          "TESL",
+          "TES-L v0.001.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Ripper 3 Navigator (Infinity Manager hack)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L297",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_RIPPER3N",
+          "RIPPER3NAVIGATOR",
+          "Ripper 3 Navigator (Infinity Manager hack).elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Ripper 2 Navigator (Infinity Manager hack)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L298",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_RIPPER2N",
+          "RIPPER2NAVIGATOR",
+          "Ripper 2 Navigator (Infinity Manager hack).elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2SX",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L301",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "PS1",
+          "PS1_PS2SX",
+          "HWNJ",
+          "PS2SX",
+          "HWCPSX2SX",
+          "PS2SX v1.3.elf",
+          "hwc-psx2sx.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — EyeToy Driver",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L310",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_PS2CAM",
+          "PS2CAM",
+          "ps2cam.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — OGG Vorbis Player",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L318",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_OGGVORBI",
+          "CarelessWhisper",
+          "OGGVORBISPLAYERBETA01",
+          "OGG Vorbis Player beta 01.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — MP3 Station",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L327",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_MP3STATI",
+          "ps2reality.net",
+          "MP3STATION",
+          "MP3 Station v0.1 Alpha.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Megahawks Music Disk",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L328",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_MEGAHAWK",
+          "kopperking",
+          "MEGAHAWKSMUSICDISK",
+          "Megahawks Music Disk.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — MC Loader",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L329",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_MCLOADER",
+          "MCLOADER",
+          "MC Loader v1.35.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — MemoryCard Killer",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L330",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DTS_MCKILLER",
+          "MCKILLER",
+          "MCFORMAT",
+          "MCKILLER.ELF",
+          "MCFORMAT.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Mass Format Utility",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L336",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_MASSFORM",
+          "github.com/Based-Skid",
+          "MASSFORMATUTILITY",
+          "Mass Format Utility v1.0.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 KeyLauncher",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L345",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_KEYLAUNC",
+          "github.com/MrSiir",
+          "KEYLAUNCHER",
+          "Key Launcher v0.4.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Jum's PS2 MC Boot Menu",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L349",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_JUMSPS2M",
+          "Jum",
+          "JUMSPS2MCBOOTMENU",
+          "Jum's PS2 MC Boot Menu v1.0.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Infinity Manager",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L352",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_INFINITY",
+          "Team Matrix",
+          "INFINITYMANAGER",
+          "Infinity Manager v1.0b.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Infinity DEV2 Installer",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L353",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_INFINITY",
+          "Team Matrix",
+          "INFINITYDE",
+          "Infinity DEV2 Installer v1.1.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — IGR MC (Proof of Concept)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L354",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "APP_IGRMCPRO",
+          "Fatman",
+          "IGRMCPROOFOFCONCEPT",
+          "IGR-MC - Proof of Concept.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — IGR HDL (Proof of Concept)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L355",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_IGRHDLRE",
+          "Fatman",
+          "IGRHDLRE",
+          "IGR-HDL Rev2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — IGR CDVD (Proof of Concept)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L356",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_IGRCDVDP",
+          "Fatman",
+          "IGRCDVDPROOFOFCONCEPT",
+          "IGR-CDVD - Proof of Concept.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — DMS Explorer",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L368",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_DMSEXPLO",
+          "DMS Technologies",
+          "DMSEXPLORER",
+          "DMS Explorer v1.0.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — DMS HDD Dump Tool",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L369",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_DMSHDDDU",
+          "DMS Technologies",
+          "DMSHDDDUMPTOOL",
+          "DMSHDDDUMP",
+          "DMS HDD Dump Tool v1.0.elf",
+          "DMS-HDD-DUMP.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — DMS HDD Explorer Installer",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L371",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_DMSHDDEX",
+          "DMS Technologies",
+          "DMSHDDEXPLORERINSTALLER",
+          "DMS HDD Explorer Installer v1.0.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — DMS HDD Format Tool",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L372",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_DMSHDDFO",
+          "DMS Technologies",
+          "DMSHDDFORMATTOOL",
+          "DMS HDD Format Tool v1.0.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Altimit",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L394",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_ALTIMIT",
+          "t0mb0la",
+          "ALTIMIT",
+          "Altimit v0.1.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — AIO Loader",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L395",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_AIOLOADE",
+          "SP197",
+          "AIOLOADER",
+          "AIO Loader.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — AIO Intro",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L396",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_AIOINTRO",
+          "AIOINTRO",
+          "AIO Intro.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — AHX Music Disk",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L397",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_AHXMUSIC",
+          "Raizor",
+          "AHXMUSICDISK",
+          "AHX Music Disk.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Test Lens",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L400",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_TESTLENS",
+          "Hermes",
+          "TESTLENS",
+          "Test Lens.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Fortuna FMCB Launcher",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L405",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "SYS_FUNTUNA",
+          "VTSTech",
+          "FORTUNAFMCBLAUNCHER",
+          "Fortuna FMCB Launcher v0.2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — DVD ELF Dumper",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L406",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_DVDELFDU",
+          "DVDELFDUMPER",
+          "DVD ELF Dumper.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — RPC Server",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L416",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_RPCSERVE",
+          "github.com/ps2dev",
+          "RPCSERVER",
+          "rpcserver.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — ExecFTPs",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L427",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_EXECFTPS",
+          "Slicstik",
+          "EXECFTPS",
+          "EXECFTPS.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Memory Manager Plus",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L432",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_MMPLUS",
+          "Datel",
+          "MEMORYMANAGERDATEL",
+          "Memory-Manager-Datel.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Xploder HDTV Player",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L433",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_HDTVPLAY",
+          "Xploder",
+          "XPLODERHDTVPLAYER",
+          "XPloder HDTV Player.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Blaze VGA Adapter",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L434",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_BLAZEVGA",
+          "Blaze",
+          "BLAZEVGA",
+          "BLAZEVGA.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — HDL Game Installer",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L435",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_HDLGAMEI",
+          "ps2homebrew.github.io",
+          "HDLGAMEINSTALLER",
+          "HDLGameInstaller.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Dumper",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L436",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_PS2DUMPE",
+          "github.com/PCSX2",
+          "PS2DUMPER",
+          "DUMPBIOSMASS",
+          "ps2dumper.elf",
+          "DUMPBIOS-MASS.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — ID Dumper",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L438",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_IDDUMPER",
+          "krHACKen",
+          "IDDUMPER",
+          "ID_DUMPER.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — HWC's Language Selector",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L439",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "SYS_HWCLANGU",
+          "github.com/HowlingWolfHWC",
+          "HWCLANGUAGESELECTOR",
+          "HWC_Language_Selector.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — KELFBinder: UMCS Installer (Debug)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L440",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "SYS_KELFBIND",
+          "github.com/NathanNeurotic",
+          "KELFBINDERDEBUGUDPBD",
+          "KELFBINDER",
+          "KELFBinder_debug_udpbd.elf",
+          "KELFbinder.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2BBL OpenTuna Installer",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L442",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "SYS_PS2BBL",
+          "israpps.github.io",
+          "PS2BBLOPENTUNAINSTALLER",
+          "PS2BBL_OpenTuna_Installer.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Console ID Changer",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L443",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_IDCHANGE",
+          "IDCHANGER",
+          "ID-CHANGER.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — HDD Manager",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L444",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_HDDMANAG",
+          "HDDMANAGER",
+          "HDDMANAGER.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Cheat Database Launcher",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L445",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_CHEATDEV",
+          "root670 + El_isra + 1052",
+          "CHEATDATABASELAUNCHER",
+          "CheatDatabaseLauncher.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Open PS2 Loader (SD Card Debugger)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L448",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_OPL",
+          "ps2homebrew.github.io",
+          "SDCD",
+          "SDCARDDEBUGGER",
+          "sdcd_v0.4.1.elf",
+          "sdcard_debugger_v0.3.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — SoulCalibur2 Conquest Card Maker",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L451",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_SC2MAKER",
+          "israpps.github.io",
+          "SC2MAKER",
+          "sc2maker_pkd.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — NetCheat",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L453",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_NETCHEAT",
+          "github.com/Dnawrkshp",
+          "NETCHEAT",
+          "NetCheat.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Modulo",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L457",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_MODULO",
+          "github.com/AdityaKumar7209",
+          "MODULO",
+          "modulo.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Video Mode Tester",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L458",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_MODETEST",
+          "github.com/CosmicScale",
+          "MODETEST",
+          "modetest.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Artemis",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L459",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_ARTEMIS",
+          "Jimmikaelkael, Lazy Bastard, Misfire",
+          "ARTEMISGUI",
+          "ARTEMISGUIB334",
+          "ARTEMISGUIB331",
+          "ARTEMIS_GUI.ELF",
+          "Artemis GUI b334.elf",
+          "Artemis GUI b331.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — OSDMenu Configurator",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L462",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "SYS",
+          "SYS_OSDMCONF",
+          "github.com/pcm720",
+          "OSDMENUCONFIGURATOR",
+          "osdmenu-configurator.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — biosdrain",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L464",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_BIOSDRAI",
+          "github.com/F0bes",
+          "BIOSDRAIN",
+          "biosdrain.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PlayStation 2 HDD Checker",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L465",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_HDDCHECK",
+          "SP193",
+          "HDDCHECKER",
+          "HDDChecker.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — HDDemolisher",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L466",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_HDDEMOLI",
+          "HDDEMOLISHER",
+          "HDDemolisher.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — HDD HW Test",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L467",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_HDDHWTES",
+          "HDDHWTEST",
+          "HDD HW Test (2016-08-10).elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Machine ID Changer",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L468",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_MACHINEI",
+          "PARADOX Entertainment",
+          "MACHINEIDCHANGER",
+          "Machine ID Changer v0.2a.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS1Drv Video Mode Negater",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L499",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "PS1",
+          "PS1_PS1VMODE",
+          "ps2homebrew.github.io",
+          "PS1VMODENEG",
+          "PS1VModeNeg.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Retro GEM Disc Launcher",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L500",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_GEMDLCHR",
+          "github.com/CosmicScale",
+          "DISCLAUNCHER",
+          "LAUNCHDISC",
+          "disc-launcher.elf",
+          "Launch-Disc.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Controller Test",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L502",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DST",
+          "DST_CONTROLL",
+          "CONTROLLER",
+          "CONTROLLER.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Athena PS2 Template",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L566",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_ATHENA",
+          "github.com/JSLegendDev",
+          "ATHENA",
+          "athena.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — myPS2",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L568",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "APP",
+          "APP_MYPS2",
+          "ntba2",
+          "MYPS2",
+          "MyPS2 v1.3.elf"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Distinct PS2 games, demoscene productions, emulators, runtime environments and debug projects indexed from the PSBBN Definitive Project AppDB.",
+    "links": [
+      {
+        "name": "PSBBN AppDB — Nicky Boum",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L10",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_NICKYBOU",
+          "cosmito",
+          "NICKYPS2",
+          "nickyPS2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — RetroArch",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L15",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_RETROARC",
+          "retroarch.com",
+          "RABOOT",
+          "raboot.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — ReGBA",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L16",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_REGBA",
+          "psx-place.com/tags/belek666",
+          "REGBA",
+          "ReGBA.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — TempGBA",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L17",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_TEMPGBA",
+          "psx-place.com/tags/belek666",
+          "TEMPGBA",
+          "GAMEBOYADVANCE",
+          "TempGBA.elf",
+          "Game Boy Advance.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — NeoCD/PS2",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L29",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_NEOCD",
+          "github.com/obiot",
+          "NEOCD",
+          "neocd.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — 3D Pinball XP Player",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L32",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_3DPINBAL",
+          "Usagiru Release",
+          "3DPINBALLPLAYER",
+          "3DPINBALLPS2",
+          "3DPINBALL-PLAYER.ELF",
+          "3dpinball-ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PGen",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L34",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_PGEN",
+          "ps2homebrew.github.io",
+          "PGEN",
+          "PGEN151",
+          "SEGAGENESIS",
+          "PGEN12",
+          "PGENB1",
+          "PGENRC2",
+          "PGEN10B",
+          "PGEN11",
+          "PGEN15",
+          "PGEN v1.5.1s.elf",
+          "PGEN151.ELF",
+          "Sega Genesis.ELF",
+          "PGEN_12.ELF",
+          "PGEN_B1.ELF",
+          "PGENRC2.ELF",
+          "PGEN10B.ELF",
+          "PGEN_11.ELF",
+          "PGEN15.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PGEN",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L36",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_PGEN",
+          "Datel",
+          "PGENCJABCDPATCH48BIT",
+          "PGENDATEL",
+          "PGENDATELU",
+          "PGENCJ_ABCD_PATCH_48BIT.ELF",
+          "pgen_datel.elf",
+          "pgen_datel-u.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — ClassiCube",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L43",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_CLASSICU",
+          "classicube.net",
+          "CLASSICUBEPS2",
+          "ClassiCube-ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — SOCOM II Online R0004 Update",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L45",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_SOCOMII",
+          "psrewired.com",
+          "R0004",
+          "r0004v002.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Jump 'n Bump",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L46",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_JUMPBUMP",
+          "Gil Megidish",
+          "JUMPBUMP",
+          "JUMPBUMP.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Flashback (REminiscence)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L56",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_FLASHBCK",
+          "gawd",
+          "FLASHBCK",
+          "FLASHBCK.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Dave Gnunkem",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L57",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_DAVEGNUK",
+          "Drakonite",
+          "DAVEGNUKEM",
+          "davegnukem.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — SuperTux",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L58",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_SUPERTUX",
+          "github.com/headshot2017",
+          "SUPERTUX",
+          "supertux.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — gpSP kai",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L60",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_GPSPKAI",
+          "GPSPKAI",
+          "gpsp_kai.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PVCS Reloaded (Atari 2600)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L61",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_PVCS",
+          "Bruno Freitas (bootsector)",
+          "ATARI2600",
+          "PVCSRELOADED",
+          "Atari 2600.ELF",
+          "PVCS Reloaded v0.3.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PVCS (Atari 2600)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L63",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_PVCS",
+          "Daniel Boris",
+          "PVCS13",
+          "PVCS",
+          "PVCS13.ELF",
+          "PVCS v1.3.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — SNES Station",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L70",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_SNESSTAT",
+          "pinguinoctis",
+          "SNESSTATION",
+          "SUPERNINTENDO",
+          "SNES026C",
+          "SNESEMU",
+          "SNESEMUHDD",
+          "SNESEMUHDD2",
+          "SNESEMU024S",
+          "SNES-Station v0.2.4.elf",
+          "Super Nintendo.ELF",
+          "SNES026C.ELF",
+          "snes_emu.elf",
+          "snes_emu_hdd.elf",
+          "snes_emu_hdd2.elf",
+          "SNESEMU024S.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — SNES Station",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L71",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_SNESSTAT",
+          "Howling Wolf & Chelsea",
+          "SNESSTATIONMODHWC",
+          "SNES-Station-MOD-HWC.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — SNES Station",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L72",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_SNESSTAT",
+          "ffgriever & Hiryu",
+          "SNESEMU024S160906",
+          "snes_emu_024S160906.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — SNESticle Revive",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L79",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_SNESREVI",
+          "github.com/ReyFxck",
+          "SNESTICLEREVIVE",
+          "SNESticleRevive v1.0.5.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — SNESticle Aurora",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L80",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_SNESAURO",
+          "github.com/itsveenee",
+          "SNESTICLE",
+          "SNESticle.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — InfoNES",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L82",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_INFONES",
+          "Ronald Andersson (AKA: dlanor)",
+          "INFONES",
+          "INFONESRE",
+          "INFONESHD",
+          "InfoNES.elf",
+          "InfoNES rev4.elf",
+          "InfoNES-HD.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — VecX",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L85",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_VECX",
+          "Jum",
+          "VECXPS2",
+          "VECXFORPS2",
+          "VECXPS2.ELF",
+          "VECXFORPS2.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — TGEmu",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L87",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_TGEMU",
+          "Charles MacDonald",
+          "TGEMU",
+          "tgemu v0.1.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — BEEBeM",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L89",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_BEEBEM",
+          "RUNTiME",
+          "BEEBEM",
+          "MICROEMULATOR",
+          "BEEBEM v1.0b3.elf",
+          "MicroEmulator.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — NeoPop",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L91",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_NEOPOP",
+          "evilo",
+          "NEOPOP",
+          "NEOPOPPS2",
+          "neopop.elf",
+          "NeoPop-PS2 v0.10.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Wonder-Station",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L94",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_WONDERST",
+          "evilo",
+          "OSWANPS2",
+          "WONDERSTATION",
+          "oswanps2.elf",
+          "Wonder-Station v0.1.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — TurboGrafx-16",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L102",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_TURBOGRA",
+          "KaylaKaze",
+          "TURBOGRAFX16",
+          "TurboGrafx 16.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Kingdom Hearts (Skip Mod)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L103",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_KHSKIP",
+          "github.com/fniq5",
+          "KHSKIP",
+          "khskip.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 LINK High Loading",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L137",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DBG",
+          "DBG_PS2LINK",
+          "github.com/ps2dev/",
+          "PS2LINKHILOAD",
+          "PS2LINK-HILOAD.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2LINK",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L138",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DBG",
+          "DBG_PS2LINK",
+          "github.com/ps2dev/",
+          "PS2LINK",
+          "PS2LINK.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2LINK External IRXs",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L139",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DBG",
+          "DBG_PS2LINK",
+          "github.com/ps2dev/",
+          "PS2LINKEXTIRX",
+          "PS2LINK-EXTIRX.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Xbox2Playstation (X2P)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L154",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_X2P",
+          "github.com/koraxial",
+          "X2P",
+          "X2P.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PicoDrive",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L155",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_PICODRIV",
+          "github.com/irixxxx",
+          "PICODRIVE",
+          "PICODRIVE.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Hermes",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L156",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_HERMES",
+          "retroguru.com",
+          "HERMES",
+          "HERMES.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Super Mario 64",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L157",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_SM64",
+          "github.com/fgsfdsfgs/sm64-port",
+          "SM64",
+          "MARIO64",
+          "SM64.ELF",
+          "mario64.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Kernel Loader",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L161",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "RTE",
+          "RTE_KERNELLD",
+          "Jrgen Urban",
+          "KERNELLDR3",
+          "KERNELLOADER",
+          "KLOADER30",
+          "KERNELLDR3.ELF",
+          "Kernel Loader v3.0.elf",
+          "kloader3.0.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — 2048",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L171",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_2048",
+          "retroarch.com",
+          "2048LIBRETROPS2",
+          "2048_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — ZX81 (EightyOne)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L172",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_81",
+          "retroarch.com",
+          "81LIBRETROPS2",
+          "81_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Anarch",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L173",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_ANARCH",
+          "retroarch.com",
+          "ANARCHLIBRETROPS2",
+          "anarch_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Ardens",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L174",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_ARDENS",
+          "retroarch.com",
+          "ARDENSLIBRETROPS2",
+          "ardens_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Arduous",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L175",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_ARDUOUS",
+          "retroarch.com",
+          "ARDUOUSLIBRETROPS2",
+          "arduous_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Atari800",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L176",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_ATARI800",
+          "retroarch.com",
+          "ATARI800LIBRETROPS2",
+          "atari800_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — BK",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L177",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_BKLIBRET",
+          "retroarch.com",
+          "BKLIBRETROPS2",
+          "bk_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — blueMSX",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L178",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_BLUEMSX",
+          "retroarch.com",
+          "BLUEMSXLIBRETROPS2",
+          "bluemsx_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — DICE",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L179",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_DICE",
+          "retroarch.com",
+          "DICELIBRETROPS2",
+          "dice_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — DoubleCherryGB",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L180",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_DOUBLECH",
+          "retroarch.com",
+          "DOUBLECHERRYGBLIBRETROPS2",
+          "DoubleCherryGB_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Wolfenstein 3D (ECWolf)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L181",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_ECWOLF",
+          "retroarch.com",
+          "ECWOLFLIBRETROPS2",
+          "ecwolf_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — FCEUmm",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L182",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_FCEUMM",
+          "retroarch.com",
+          "FCEUMMLIBRETROPS2",
+          "fceumm_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — fMSX",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L183",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_FMSX",
+          "retroarch.com",
+          "FMSXLIBRETROPS2",
+          "fmsx_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — FreeChaF",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L184",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_FREECHAF",
+          "retroarch.com",
+          "FREECHAFLIBRETROPS2",
+          "freechaf_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — FreeIntv",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L185",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_FREEINTV",
+          "retroarch.com",
+          "FREEINTVLIBRETROPS2",
+          "freeintv_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — GAM-4980",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L186",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_GAM4980",
+          "retroarch.com",
+          "GAM4980LIBRETROPS2",
+          "gam4980_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Gambatte",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L187",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_GAMBATTE",
+          "retroarch.com",
+          "GAMBATTELIBRETROPS2",
+          "gambatte_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Gearboy",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L188",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_GEARBOY",
+          "retroarch.com",
+          "GEARBOYLIBRETROPS2",
+          "gearboy_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Gearcoleco",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L189",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_GEARCOLE",
+          "retroarch.com",
+          "GEARCOLECOLIBRETROPS2",
+          "gearcoleco_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Gearsystem",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L190",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_GEARSYST",
+          "retroarch.com",
+          "GEARSYSTEMLIBRETROPS2",
+          "gearsystem_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Game Music Emu",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L191",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_GME",
+          "retroarch.com",
+          "GMELIBRETROPS2",
+          "gme_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Gong",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L192",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_GONG",
+          "retroarch.com",
+          "GONGLIBRETROPS2",
+          "gong_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — gPSP",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L193",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_GPSP",
+          "retroarch.com",
+          "GPSPLIBRETROPS2",
+          "gpsp_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Handy",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L194",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_HANDY",
+          "retroarch.com",
+          "HANDYLIBRETROPS2",
+          "handy_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — JAXE",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L195",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_JAXE",
+          "retroarch.com",
+          "JAXELIBRETROPS2",
+          "jaxe_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Jump 'n Bump",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L196",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_JUMPBUMP",
+          "retroarch.com",
+          "JUMPNBUMPLIBRETROPS2",
+          "jumpnbump_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — LowRes NX",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L197",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_LOWRESNX",
+          "retroarch.com",
+          "LOWRESNXLIBRETROPS2",
+          "lowresnx_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Lutro",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L198",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_LUTRO",
+          "retroarch.com",
+          "LUTROLIBRETROPS2",
+          "lutro_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Beetle Lynx",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L199",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_LYNX",
+          "retroarch.com",
+          "MEDNAFENLYNXLIBRETROPS2",
+          "mednafen_lynx_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Beetle WonderSwan",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L200",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_WONDERSW",
+          "retroarch.com",
+          "MEDNAFENWSWANLIBRETROPS2",
+          "mednafen_wswan_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — mGBA",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L201",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_MGBA",
+          "retroarch.com",
+          "MGBALIBRETROPS2",
+          "mgba_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Mini vMac",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L202",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_MINIVMAC",
+          "retroarch.com",
+          "MINIVMACLIBRETROPS2",
+          "minivmac_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Mr.Boom",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L203",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_MRBOOM",
+          "retroarch.com",
+          "MRBOOMLIBRETROPS2",
+          "mrboom_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Mu",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L204",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_MU",
+          "retroarch.com",
+          "MULIBRETROPS2",
+          "mu_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — NeoCD",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L205",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_NEOCD",
+          "retroarch.com",
+          "NEOCDLIBRETROPS2",
+          "neocd_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Numero",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L206",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_NUMERO",
+          "retroarch.com",
+          "NUMEROLIBRETROPS2",
+          "numero_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — NX Engine",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L207",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_NXENGINE",
+          "retroarch.com",
+          "NXENGINELIBRETROPS2",
+          "nxengine_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — O2EM",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L208",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_O2EM",
+          "retroarch.com",
+          "O2EMLIBRETROPS2",
+          "o2em_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PicoDrive",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L209",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_PICODRIV",
+          "retroarch.com",
+          "PICODRIVELIBRETROPS2",
+          "picodrive_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PocketCDG",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L210",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_POCKETCD",
+          "retroarch.com",
+          "POCKETCDGLIBRETROPS2",
+          "pocketcdg_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PrBoom",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L211",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_PRBOOM",
+          "retroarch.com",
+          "PRBOOMLIBRETROPS2",
+          "prboom_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — QUASI88",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L212",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_QUASI88",
+          "retroarch.com",
+          "QUASI88LIBRETROPS2",
+          "quasi88_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — QuickNES",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L213",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_QUICKNES",
+          "retroarch.com",
+          "QUICKNESLIBRETROPS2",
+          "quicknes_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — RACE",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L214",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_RACE",
+          "retroarch.com",
+          "RACELIBRETROPS2",
+          "race_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Retro8",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L215",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_RETRO8",
+          "retroarch.com",
+          "RETRO8LIBRETROPS2",
+          "retro8_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — SMS Plus GX",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L216",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_SMSPLUS",
+          "retroarch.com",
+          "SMSPLUSLIBRETROPS2",
+          "smsplus_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Snes9x 2002",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L217",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_SNES9X",
+          "retroarch.com",
+          "SNES9X2002LIBRETROPS2",
+          "snes9x2002_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — SquirrelJME",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L218",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_SQUIRREL",
+          "retroarch.com",
+          "SQUIRRELJMELIBRETROPS2",
+          "squirreljme_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Stella 2014",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L219",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_STELLA20",
+          "retroarch.com",
+          "STELLA2014LIBRETROPS2",
+          "stella2014_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Bandai - Tamagotchi P1 (TamaLIBretro)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L220",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_TAMALIBR",
+          "retroarch.com",
+          "TAMALIBRETROLIBRETROPS2",
+          "tamalibretro_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — TGB Dual",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L221",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_TGBDUAL",
+          "retroarch.com",
+          "TGBDUALLIBRETROPS2",
+          "tgbdual_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Theodore (Thomson TO8/TO9)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L222",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_THEODORE",
+          "retroarch.com",
+          "THEODORELIBRETROPS2",
+          "theodore_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — UW8",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L223",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_UW8",
+          "retroarch.com",
+          "UW8LIBRETROPS2",
+          "uw8_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Uzebox (Uzem)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L224",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_UZEM",
+          "retroarch.com",
+          "UZEMLIBRETROPS2",
+          "uzem_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — VaporSpec",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L225",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_VAPORSPE",
+          "retroarch.com",
+          "VAPORSPECLIBRETROPS2",
+          "vaporspec_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — WebAssembly (WASM-4)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L226",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_WASM4",
+          "retroarch.com",
+          "WASM4LIBRETROPS2",
+          "wasm4_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — X Millennium / X1",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L227",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_X1",
+          "retroarch.com",
+          "X1LIBRETROPS2",
+          "x1_libretro_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Tyrian",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L228",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_TYRIAN",
+          "Andres ruiz",
+          "TYRIAN",
+          "TYRIAN.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Teapot",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L229",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_TEAPOT",
+          "github.com/ps2dev",
+          "TEAPOT",
+          "teapot.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Space Invaders",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L230",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_SPACEINV",
+          "Makeshift Development",
+          "SPACE",
+          "SPACEINVADERSFORPS2",
+          "PS2INVADERS",
+          "space.elf",
+          "Space Invaders for PS2 v1.0.elf",
+          "ps2invaders.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Slave of the VU",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L234",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_SLAVEOFT",
+          "Jar",
+          "SLAVEOFTHEVU",
+          "slave_of_the_vu.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Rockbot",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L236",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_ROCKBOT",
+          "protomank",
+          "ROCKBOT",
+          "ROCKBOTPS2",
+          "rockbot.elf",
+          "Rockbot PS2 v1.1.1.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — R-Eleven",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L238",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_RELEVEN",
+          "NoRecess",
+          "RELEVEN",
+          "ELEVEN",
+          "R-ELEVEN.elf",
+          "ELEVEN.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Quake",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L243",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_QUAKE",
+          "nicp067,Nicolas Plourde,belek666",
+          "QUAKE",
+          "quake.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Quake",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L244",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_QUAKE",
+          "nicp067",
+          "QUAKEPS2",
+          "QUAKE PS2 v1.09.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Quake (VGA)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L245",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_QUAKE",
+          "belek666",
+          "QUAKEVGA",
+          "quake-vga.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Quake (NTSC)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L246",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_QUAKE",
+          "belek666",
+          "QUAKENTSC",
+          "quake-ntsc.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Quake",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L247",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_QUAKE",
+          "Nicolas Plourde",
+          "PS2QUAKEMOD",
+          "PS2 Quake Mod (VGA) v0.3.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2Room",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L252",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_PS2ROOM",
+          "No Recess",
+          "PS2ROOM",
+          "PS2Room.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2-Racer",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L256",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_RACER",
+          "jbit",
+          "RACE",
+          "RACER",
+          "PS2RACER",
+          "race.elf",
+          "racer.elf",
+          "PS2-Racer.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Patience",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L259",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_PATIENCE",
+          "TyRaNiD",
+          "PATIENCE",
+          "PS2PATIENCE",
+          "patience.elf",
+          "PS2 Patience.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — DOSBox",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L269",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_DOSBOX",
+          "belek666",
+          "PS2DOSBOX",
+          "PS2DOSBox.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Waves",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L271",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_WAVES",
+          "Tyranid",
+          "WAVES",
+          "waves.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — gpSP",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L272",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_GPSP",
+          "belek666",
+          "GPS2",
+          "GPS2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — FCEUmm",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L274",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_FCEU",
+          "ps2homebrew.github.io",
+          "FCEU",
+          "fceu.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — FCEU",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L275",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_FCEU",
+          "Howling Wolf & Chelsea",
+          "FCEUHWC",
+          "FCEU-HWC.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Turos",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L276",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_TUROS",
+          "Nippy",
+          "TUROS",
+          "turos.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Travel",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L277",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_TRAVEL",
+          "Nippy",
+          "TRAVEL",
+          "TRAVEL.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Torus",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L278",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_TORUS",
+          "Lukasz",
+          "TORUS",
+          "torus.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — tinyFire (PAL)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L279",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_TINYFIRE",
+          "wiRe",
+          "TINYFIREPAL",
+          "tinyFire_pal.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — tinyFire (NTSC)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L280",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_TINYFIRE",
+          "wiRe",
+          "TINYFIRENTSC",
+          "tinyFire_ntsc.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Texture",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L281",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_TEXTURE",
+          "github.com/ps2dev",
+          "TEXTURE",
+          "texture.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Terrain",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L287",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_TERRAIN",
+          "wiRe / Napalm",
+          "TERRAIN",
+          "TERRAIN.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Just da Monkey",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L288",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_TCCMONKE",
+          "djhuevo",
+          "TCCMONKEY",
+          "tcc_monkey.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Sparks & Supershapes",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L289",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_SPARKSSU",
+          "t0mb0la",
+          "T0MB0LA",
+          "t0mb0la.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Stench",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L290",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_STENCH",
+          "Tyranid",
+          "STENCH",
+          "stench.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Statik",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L291",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_STATIK",
+          "blackdroid",
+          "STATIKPREV",
+          "statik-prev.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Spacefighter",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L292",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_SPACEFIG",
+          "Gabriel T. DelaRosa",
+          "SPACEFIGHTER",
+          "spacefighter.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Super Mario War",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L293",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_SMW",
+          "github.com/obiot",
+          "SMW",
+          "SUPERMARIOWAR",
+          "SUPERMARIOWAR20060223",
+          "smw.elf",
+          "Super_Mario_War.elf",
+          "Super Mario War 2006-02-23.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — 64k",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L296",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_64K",
+          "Raizor",
+          "RZRTTC2564K",
+          "rzr_ttc25_64k.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Retail DeBugging Startup Card UIF",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L299",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DBG",
+          "DBG_RDB",
+          "RDBUIF",
+          "RDB-UIF v0.9.5"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Retail DeBugging Startup Card",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L300",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DBG",
+          "DBG_RDB",
+          "RDB",
+          "RDB v0.9.5.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Coding Is Good For You",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L303",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_PS2CODIN",
+          "MJJ Prod",
+          "PS2CODINGISGOODFORYOU",
+          "PS2 Coding Is Good For You.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Untitled",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L304",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_UNTITLED",
+          "ps2reality.net",
+          "UNTITLED",
+          "UNTITLED.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Year2003",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L305",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_YEAR2003",
+          "No Recess",
+          "YEAR2003",
+          "YEAR2003.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Evolution",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L306",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_EVOLUTIO",
+          "No Recess/CONDENSE",
+          "PS2EVOL",
+          "EVOLUTION",
+          "PS2EVOL.ELF",
+          "Evolution.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2vuharness",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L308",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_VUHARNES",
+          "Adresd",
+          "VUHARNESS",
+          "vuharness.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Snes9x",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L309",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_SNES9X",
+          "SNES9X",
+          "packed_snes9x.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — The Poor Demo",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L311",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_POORDEMO",
+          "KaL{Ir}",
+          "POORDEMO",
+          "poordemo.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Play WAV",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L312",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_PLAYWAV",
+          "github.com/ps2dev",
+          "PLAYWAV",
+          "playwav.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PANG",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L313",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_PANG",
+          "evilo",
+          "PANG20060112",
+          "PANG",
+          "Pang 2006-01-12.elf",
+          "pang.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Padx Sample",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L315",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_PADXSAMP",
+          "github.com/ps2dev",
+          "PADXSAMPLE",
+          "padx_sample.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Pads",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L316",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_PADS",
+          "github.com/ps2dev",
+          "PADS",
+          "pads.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Pad Example",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L317",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_PADEXAMP",
+          "github.com/ps2dev",
+          "PADEXAMPLE",
+          "pad_example.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — nPort",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L319",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DBG",
+          "DBG_NPORT",
+          "NPORT",
+          "nPort.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Njam",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L320",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GEM_NJAM",
+          "Andres ruiz",
+          "NJAM",
+          "njam.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — NIM",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L321",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_NIM",
+          "github.com/Theldus",
+          "NIM",
+          "NIM.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — NapLink",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L322",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DBG",
+          "DBG_NAPLINK",
+          "NAPLINK",
+          "NapLink v1.0.1a.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Multitap Sample",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L323",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_MTAPSAMP",
+          "github.com/ps2dev",
+          "MTAPSAMPLE",
+          "mtap_sample.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — M-PS2Craft",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L324",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_MPS2CRAF",
+          "PS2 Revival Project",
+          "MPS2CRAFT",
+          "GAME",
+          "MINECRAFT",
+          "M-PS2Craft v0.0 beta.elf",
+          "game.elf",
+          "Minecraft.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Memory Card Example",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L332",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_MCEXAMPL",
+          "github.com/ps2dev",
+          "MCEXAMPLE",
+          "mc_example.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Quake (VGA)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L333",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_QUAKE",
+          "Nicolas Plourde",
+          "MASSQUAKEVESA",
+          "mass_quake_vesa.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Quake (PAL)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L334",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_QUAKE",
+          "Nicolas Plourde",
+          "MASSQUAKEPAL",
+          "mass_quake_pal.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Quake (NTSC)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L335",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_QUAKE",
+          "Nicolas Plourde",
+          "MASSQUAKENTSC",
+          "mass_quake_ntsc.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Makeshift Duck Hunt",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L337",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_DUCKHUNT",
+          "Makeshift Development",
+          "MAKESHIFTDUCKHUNTALPHA1",
+          "DUCKHUNTHO",
+          "Makeshift Duckhunt Alpha1 (2005-12-23).elf",
+          "duckhunt_ho.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Lion Tech Demo",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L339",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_LION",
+          "Lion",
+          "MAIN",
+          "main.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Lobotomia",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L340",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_LOBOTOMI",
+          "No Recess/CONDENSE",
+          "LOBOTOMIA",
+          "LOBOTOM",
+          "Lobotomia.elf",
+          "LOBOTOM.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Load ELF",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L342",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_LOADELF",
+          "github.com/ps2dev",
+          "LOADELF",
+          "loadelf.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Laser Sundays",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L343",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_LASERSUN",
+          "tpolm",
+          "LASERSUNDAYS",
+          "Laser Sundays.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Lame Zoid",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L344",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_LAMEZOID",
+          "blackdroid",
+          "LAMEZOID",
+          "LameZoid.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Kermit",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L346",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DBG",
+          "DBG_KERMIT",
+          "SilverBull",
+          "KERMIT",
+          "Kermit v0.4.4 beta1.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Ōkami PL Cractro",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L347",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_OKAMIPLC",
+          "ŌKAMIPLCRACTRO",
+          "Ōkami PL Cractro v1.0c.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Kahtzee KAPI Demo",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L348",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_KAHTZEEK",
+          "KaylaKaze",
+          "KAHTZEEKAPIDEMO",
+          "Kahtzee KAPI Demo.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Jum's Boot ELF Uploader",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L350",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DBG",
+          "DBG_JUMSBOOT",
+          "Jum",
+          "JUMSBOOTELFUPLOADER",
+          "Jum's Boot ELF Uploader.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Innerloop",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L351",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_INNERLOO",
+          "blue,bifat,banana",
+          "INNERLOOP",
+          "Innerloop (ps2link).elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Hello",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L357",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_HELLO",
+          "github.com/ps2dev",
+          "HELLO",
+          "hello.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Hell Bell",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L358",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_HELLBELL",
+          "Lukasz Bruun",
+          "HELLBELL",
+          "HellBell.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Goodbye",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L359",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_GOODBYE",
+          "No Recess/CONDENSE",
+          "GOODBYE",
+          "GOODBYE.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Fun Slower",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L360",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_FUNSLOWE",
+          "Drückluft & Gibson",
+          "FUNSLOWER",
+          "FSLOWER",
+          "FUNSLOWER.elf",
+          "fslower.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Fruit'Y",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L362",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_FRUITY",
+          "Retroguru",
+          "FRUITY",
+          "Fruit'Y.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Flame19",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L363",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_FLAME19",
+          "Drakonite",
+          "FLAME19",
+          "flame19.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Fish",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L364",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_FISH",
+          "Nicola Farina",
+          "FISH",
+          "fish.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Fireworks27",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L365",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_FIREWORK",
+          "Drakonite",
+          "FIREWORKS27",
+          "fireworks27.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — EE Echo",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L367",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_EEECHO",
+          "github.com/ps2dev",
+          "EEECHO",
+          "ee-echo.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Demo 2d",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L373",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_DEMO2D",
+          "github.com/ps2dev",
+          "DEMO2D",
+          "demo2d.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Demo 2c",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L374",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_DEMO2C",
+          "github.com/ps2dev",
+          "DEMO2C",
+          "demo2c.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Demo 2b",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L375",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_DEMO2B",
+          "github.com/ps2dev",
+          "DEMO2B",
+          "demo2b.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Demo 2a",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L376",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_DEMO2A",
+          "github.com/ps2dev",
+          "DEMO2A",
+          "demo2a.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Demo1",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L377",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_DEMO1",
+          "github.com/ps2dev",
+          "DEMO1",
+          "demo1.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Damn",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L378",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_DAMN",
+          "Jules",
+          "DAMN",
+          "damn.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — d136b",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L379",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_D136B",
+          "neoscientists",
+          "D136B",
+          "d136b.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Cube Mastah",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L380",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_CUBEMAST",
+          "Jules",
+          "CUBEMASTAH",
+          "CubeMastah.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Cruisin 3",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L381",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_CRUISIN3",
+          "Abyss",
+          "CRUISIN3",
+          "Cruisin 3.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Cool Boarders 2001 Trainer",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L382",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_COOLBOAR",
+          "COOLBOARDERS2001TRAINER",
+          "Cool Boarders 2001 Trainer.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Colosseum",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L383",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_COLOSSEU",
+          "Nicola",
+          "COLOSSEUM",
+          "colosseum.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Cloudy",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L384",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_CLOUDY",
+          "Raizor",
+          "CLOUDYINTRO",
+          "cloudy_intro.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Carshowroom",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L385",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_CARSHOWR",
+          "Sjeep",
+          "CARSHOWROOM",
+          "carshowroom.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Call Stack Test",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L386",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_CALLSTAC",
+          "github.com/ps2dev",
+          "CALLSTACKTEST",
+          "callstacktest.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — By the Way",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L387",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_BYTHEWAY",
+          "Jules",
+          "BYTHEWAY",
+          "By The Way.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — BlaBla",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L388",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_BLABLA",
+          "Nippy",
+          "BLABLA",
+          "BLABLA.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Barulandia",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L389",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_BARULAND",
+          "JMGK",
+          "BARULANDIAFORPS2",
+          "BARULAND",
+          "Barulandia for PS2 v1.0.elf",
+          "BARULAND.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Aura for Laura",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L391",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_AURAFORL",
+          "Soopadoopa",
+          "AURAFORLAURA",
+          "AURA",
+          "Aura for Laura.elf",
+          "aura.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Aqua",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L393",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_AQUA",
+          "mi-ku, malfunction, fuzzy, x-ceed, domkos, nimfadora, ratz, kk",
+          "AQUA",
+          "Aqua.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Meatballs",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L398",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_MEATBALL",
+          "Adresd",
+          "ADRESDROUND8MEATBALLS",
+          "Adresd_round8_meatballs.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — 2 Hours",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L399",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_2HOURS",
+          "Lion",
+          "2HOURS",
+          "2 Hours.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — CL-LiveDebug",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L401",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DBG",
+          "DBG_CLLIVEDE",
+          "Gtlepimp",
+          "CLLIVEDEBUG",
+          "CL-LiveDebug v3.0.4b.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — VecX",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L402",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_VECXFORP",
+          "James Higgs",
+          "VECXFORPS2",
+          "VecX for PS2 v0.2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — TOPS2 (Thomson TO7/70)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L403",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_TOPS2",
+          "Jean-Philippe Lang",
+          "TOPS2",
+          "TOPS2 v1.0.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2Bor",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L404",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_PS2BOR",
+          "Nicolas \"Pixel\" Noble",
+          "PS2BOR",
+          "PS2Bor v0.1b.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — DaedalusX64",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L407",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_DAEDALUS",
+          "github.com/belek666",
+          "DAEDALUSNEWTOOLCHAIN",
+          "DAEDALUS",
+          "Daedalus-newtoolchain.elf",
+          "Daedalus.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Yeti3D",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L409",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_YETI3D",
+          "YETI3DPS2FIXED1",
+          "YETI3DPS2",
+          "YETI3D PS2 fixed1.elf",
+          "YETI3D PS2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Xrick",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L411",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_XRICK",
+          "BigOrno",
+          "XRICK",
+          "xrick v021212.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Vuta Flow",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L412",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_VUTAFLOW",
+          "K2",
+          "VUTAFLOW",
+          "VUTA_FLOW.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Adventures in Wonderland",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L413",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_ADVINWON",
+          "Raizor",
+          "TTC21RAIZORAIW",
+          "ttc21_raizor_aiw.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Christro",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L414",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_CHRISTRO",
+          "Raizor",
+          "TTC20RAIZOR",
+          "ttc20_raizor.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Stop Gap",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L415",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_STOPGAP",
+          "Raizor",
+          "TTC18STOPGA",
+          "ttc18_stop_gap.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Mutha",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L417",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_MUTHA",
+          "Raizor",
+          "RISK3DMUTHA",
+          "risk_3d_mutha.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Sound Sample",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L418",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_PS2SNDSA",
+          "github.com/ps2dev",
+          "PS2SNDSAMPLE",
+          "ps2snd-sample.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2Vice",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L419",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_VICE",
+          "Georg Hennig",
+          "X64MASS",
+          "PS2VICE",
+          "VICEMENU",
+          "X64mass.ELF",
+          "PS2Vice v2.2.elf",
+          "vicemenu.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — b000p",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L422",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_B000P",
+          "raizor",
+          "B000P",
+          "b000p.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Jammer",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L423",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_JAMMER",
+          "cosmito",
+          "JAMMER",
+          "JAMMERPS2",
+          "Jammer v1.0.elf",
+          "jammerPS2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Guitar Fun",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L425",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_GUITARFU",
+          "Hermes",
+          "GUITARFUN",
+          "GUITARF",
+          "Guitar Fun v1.5 beta.elf",
+          "guitarf.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Ballion",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L428",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_BALLION",
+          "Mitglied",
+          "BALLIONPS2",
+          "Ballion PS2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PSMS",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L429",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_PSMS",
+          "Sjeep",
+          "PSMS",
+          "PSMS2",
+          "psm.elf",
+          "psms2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PSMS Reloaded",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L431",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_PSMS",
+          "github.com/infval",
+          "PSMSRELOADED",
+          "SEGAMASTERSYSTEM",
+          "PSMS Reloaded v0.4.elf",
+          "Sega Master System.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Loonies 8192",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L446",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_LOONIES8",
+          "thp.itch.io",
+          "LOONIES8192R67PS2",
+          "loonies8192-r67-ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — ccleste",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L447",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_CCLESTE",
+          "fjtrujy",
+          "CCLESTE",
+          "ccleste.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — OptiCraft",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L450",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_OPTICRAF",
+          "OptiJogos",
+          "OPTICRAFT",
+          "OptiCraft 0.6 PS2 V1.2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Plants vs. Zombies",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L452",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_PVZPS2",
+          "github.com/OptiJuegos",
+          "PVZPS2",
+          "pvz_ps2.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Touhou 6",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L454",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_TH06",
+          "github.com/sammwyy",
+          "TH06",
+          "TH06.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Shippy 1984",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L455",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_SHIPPY",
+          "Evilo",
+          "SHIPPY1984",
+          "SHIPPY",
+          "Shippy1984.elf",
+          "shippy.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — RETROLauncher",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L463",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_RETROLAU",
+          "github.com/Spaghetticode-Boon-Tobias",
+          "RETROLAUNCHER",
+          "RETROLauncher.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2-DC64",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L469",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_PS2DC64",
+          "Bigboy",
+          "PS2DC64",
+          "PS2DC64.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — fMSX",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L470",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_FMSX",
+          "MSXPS2",
+          "PS2FMSXDEMO",
+          "msxps2.elf",
+          "PS2FMSX demo.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — fMSX",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L472",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_FMSX",
+          "Francisco Mayoral (ps2devel)",
+          "PS2FMSX",
+          "PS2fMSX v0.6b.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2PCE (TurboGrafx 16)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L474",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_PS2PCE",
+          "KaylaKaze",
+          "PS2PCE",
+          "TURBOGRAFX16",
+          "PS2PCE v0.22.elf",
+          "TurboGrafx 16.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Bochs",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L476",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_PS2BOCHS",
+          "KarasQ",
+          "PS2BOCHS",
+          "PS2BOCHS235",
+          "PS2Bochs (packed) v2.3.5-v2.elf",
+          "PS2Bochs-2.3.5-v3-packed.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2-DreamSpec",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L478",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_DREAMSPE",
+          "Bigboy",
+          "PS2DREAMSPEC",
+          "PS2-DreamSpec v1.0.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2Mame",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L479",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_PS2MAME",
+          "tirfing",
+          "PS2MAME",
+          "PS2Mame v0.5.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — ScummVM",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L480",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_SCUMMVM",
+          "lavosspawn, sunmax",
+          "SCUMMVM",
+          "ScummVM (with modules embeded) v1.7.0.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — UAE for PS2",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L481",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_UAE",
+          "UAE team, ps2dev team",
+          "UAEFORPS2",
+          "UAEAGA",
+          "UAEECS",
+          "UAE for PS2 (ECS) v0.8.25.elf",
+          "UAE_AGA.ELF",
+          "UAEECS.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — VBAM",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L484",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_VBAM",
+          "VBAM",
+          "VBAM.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Wolf4SDL",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L485",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_WOLF4SDL",
+          "github.com/Wolf3s",
+          "WOLF4SDL",
+          "Wolf4SDL.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Bastet (Bastard Tetris)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L486",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_BASTET",
+          "Drakonite",
+          "BASTET",
+          "Bastet (Bastard Tetris).elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — The Dungeon Game",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L487",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_DUNGEONG",
+          "Guilherme R. Lampert aka glampert",
+          "DUNGEONGAME",
+          "dungeon_game.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Geotron",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L488",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_GEOTRON",
+          "Jum",
+          "GEOTRONPS2",
+          "GEOTRON",
+          "Geotron PS2 v0.5 alpha.elf",
+          "geotron.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Ifcaro's Tetris",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L490",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_IFCAROST",
+          "Ifcaro",
+          "IFCAROSTETRIS",
+          "Ifcaro's Tetris.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Tetris",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L491",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_TETRIS",
+          "Viktor Gars",
+          "TETRIS",
+          "tetris.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Ultimate Mortal Kombat Deception",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L492",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_MKDHOOK",
+          "github.com/ermaccer",
+          "MKDHOOK",
+          "MKDHook.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Pintor",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L493",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_PINTOR",
+          "Hermes",
+          "PINTOR",
+          "Pintor.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Qbert",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L494",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_QBERT",
+          "ps2devman",
+          "QBERT",
+          "QBERT.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — TyraCraft",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L495",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_TYRACRAF",
+          "Wellinator",
+          "TYRACRAFT",
+          "Tyracraft.-.v0.86.140-pre-alpha.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Xrick",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L496",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_XRICK",
+          "gawd",
+          "XRICK",
+          "XRICKPS2",
+          "xrick v021212.elf",
+          "XRICKPS2.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — XUMP",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L498",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_XUMP",
+          "Gisberto Rondinella (nop90)",
+          "XUMP",
+          "Xump v1.10.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — ColEm",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L503",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_COLEMPS2",
+          "Jum",
+          "ColemPS2",
+          "COLEMPS2",
+          "COLECO",
+          "colem.elf",
+          "ColemPS2 v2.0.elf",
+          "COLECO.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Doom",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L506",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_DOOM",
+          "github.com/israpps",
+          "DOOM",
+          "DOOM.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Doom",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L507",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_DOOM",
+          "Lukasz Bruun, cosmito",
+          "PS2DOOM",
+          "PS2Doom v1.0.5.0.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — SDL Doom",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L508",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_DOOM",
+          "Lukasz Bruun",
+          "PS2SDLDOOM",
+          "PS2 SDL Doom v1.10.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PrBoom-Plus",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L509",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "GME",
+          "GME_DOOM",
+          "github.com/Wolf3s",
+          "PRBOOMPLUS",
+          "prboom-plus.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — InfoGB",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L510",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_INFOGB",
+          "KarasQ",
+          "PS2INFOGBRE",
+          "PS2INFOGBWITHDS3DS4SUPPORTRE",
+          "GAMEBOYCOLORUSB",
+          "PS2InfoGB Rev6b.elf",
+          "PS2InfoGB with DS3 & DS4 support Rev6c.elf",
+          "Game Boy Color- USB.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — InfoGB",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L513",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_INFOGB",
+          "7not6",
+          "INFOGBIRX",
+          "INFOGB",
+          "InfoGB-IRX.elf",
+          "InfoGB.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — InfoGB (HDD Version)",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L515",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_INFOGB",
+          "KaylaKaze",
+          "GAMEBOYCOLORIHDGAMEBOYCOLORIHD",
+          "Game Boy Color IHD,Game Boy Color- IHD.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Jum52",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L516",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "EMU",
+          "EMU_JUM52",
+          "James Higgs",
+          "JUM52I",
+          "JUM52NI",
+          "JUMSA5200EMULATOR",
+          "JUM52I.ELF",
+          "JUM52NI.ELF",
+          "Jum's A5200 Emulator (mc version) v0.8a.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — One Effect",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L527",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_1FX",
+          "Skeet",
+          "1FX",
+          "1fx.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — 1987",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L528",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_1987",
+          "Jollytox",
+          "1987",
+          "1987.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Blend Revisited",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L529",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_BLENDREV",
+          "Adresd",
+          "DRESDBLENDREVISITED",
+          "Adresd_blendrevisited.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Round 4",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L530",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_ROUND4",
+          "Adresd",
+          "ADRESDROUND4",
+          "Adresd_round4.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Round 5",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L531",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_ROUND4",
+          "Adresd",
+          "ADRESDROUND5",
+          "adresd_round5.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — 242",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L532",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_242",
+          "Adresd",
+          "ADRESDROUND6242",
+          "ADRESDROUND6242NS",
+          "adresd_round6_242.elf",
+          "adresd_round6_242_ns.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Blend",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L534",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_BLEND",
+          "Adresd",
+          "ADRESDROUND7BLEND",
+          "ADRESDROUND7BLENDNOSOUND",
+          "adresd_round7_blend.elf",
+          "adresd_round7_blend_nosound.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — NewYear",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L536",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_NEWYEAR",
+          "Adresd",
+          "ADRESDROUND9NEWYEAR",
+          "adresd_round9_newyear.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Quickie",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L537",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_QUICKIE",
+          "Adresd",
+          "ADRESDROUND10QUICKIE",
+          "adresd_round10_quickie.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — VUME VUU",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L538",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_VUMEVUU",
+          "Adresd",
+          "ADRESDROUND11VUMEVUU",
+          "adresd_round11_vume-vuu.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Round 12",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L539",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_ROUND12",
+          "Adresd",
+          "ADRESDROUND12",
+          "adresd_round12.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Mellow",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L540",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_MELLOW",
+          "Adresd",
+          "ADRESDROUND13",
+          "adresd_round13.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Rushed",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L541",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_RUSHED",
+          "Adresd",
+          "ADRESDROUND14",
+          "adresd_round14.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Forms",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L542",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_FORMS",
+          "Adresd",
+          "ADRESDROUND17FORMS",
+          "adresd_round17_forms.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Explorations in Testing",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L543",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_EXPLORAT",
+          "Adresd",
+          "ADRESDROUND20EXPLORATIONS",
+          "adresd_round20_explorations.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Beginning",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L544",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_BEGINNIN",
+          "Zer0-X",
+          "BEGINNING",
+          "beginning.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Bunny",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L545",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_BUNNY",
+          "NoRecess",
+          "BUNNY",
+          "BUNNY.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Colors of My Mind",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L546",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_COLORS",
+          "Adresd",
+          "COLORS",
+          "colors.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Colors of My Mind v1.5",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L547",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_COLORS15",
+          "Adresd",
+          "COLORS15",
+          "colors15.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — FiRE",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L548",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_FIRE",
+          "Jules",
+          "FIRE",
+          "FiRE.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Fireballs",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L549",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_FIREBALL",
+          "Raizor",
+          "FIREBALLS",
+          "fireballs.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Flatline",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L550",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_FLATLINE",
+          "Tyranid",
+          "FLATLINE",
+          "flatline.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Go for It",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L551",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_GOFORIT",
+          "Djhuevo",
+          "GO",
+          "GO.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Ice",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L552",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_ICE",
+          "Nippy",
+          "ICE",
+          "ICE.ELF"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Round 4 Extra IFS",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L553",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_IFS",
+          "Wrath Designs",
+          "IFS",
+          "ifs.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Round 4 Extra Screensaver",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L554",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_SCREENSA",
+          "Wrath Designs",
+          "SCREENSAVER",
+          "screensaver.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — J0Mommaz",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L555",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_J0MOMMAZ",
+          "InPulse Team",
+          "J0MOMMAZ",
+          "J0Mommaz.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Oh the demos I have done",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L556",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_JUM1",
+          "Jum",
+          "JUM1",
+          "jum1.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Mona Lisa",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L557",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_MONALISA",
+          "NoRecess",
+          "MONALISA",
+          "monalisa.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — P51 Mustang",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L558",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_P51",
+          "Longchair",
+          "P51",
+          "p51.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Pieces",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L559",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_PIECESR1",
+          "Tyranid",
+          "PIECESR13",
+          "pieces_r13.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Plasma Dreams",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L560",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_PLASMADR",
+          "Adresd",
+          "PLASMADREAMS",
+          "plasmadreams.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Plasma Tunnel",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L561",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_PLASMATU",
+          "Dreamtime",
+          "PLASMATUNNEL",
+          "plasma_tunnel.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — PS2 Flight",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L562",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_PS2FLIGH",
+          "Gabriel DelaRosa",
+          "PS2FLIGHT",
+          "ps2flight.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — The Cube",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L563",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_THECUBE",
+          "Oopo",
+          "THECUBENTSC",
+          "THECUBEPAL",
+          "thecube-ntsc.elf",
+          "thecube-pal.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Round 19",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L565",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "DEM",
+          "DEM_TTC19JAR",
+          "Jar",
+          "TTC19JAR",
+          "ttc19_jar.elf"
+        ]
+      },
+      {
+        "name": "PSBBN AppDB — Enceladus",
+        "url": "https://github.com/CosmicScale/PSBBN-Definitive-Project/blob/main/scripts/assets/database/AppDB.csv#L567",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSBBN AppDB",
+          "RTE",
+          "RTE_ENCELADU",
+          "github.com/DanielSant0s",
+          "ENCELADUS",
+          "enceladus.elf"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,256 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Search-indexed PS2-HOME historical release threads for PS2 homebrew games, demos, ports and game-creation resources.",
+    "links": [
+      {
+        "name": "PS2-HOME Archive — Shippy 1984 r01",
+        "url": "https://ps2-home.com/forum/viewtopic.php?t=3678",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "homebrew game",
+          "Shippy 1984"
+        ]
+      },
+      {
+        "name": "PS2-HOME Archive — Tetris for PS2 by Viktor Gars",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?t=3676",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "homebrew game",
+          "Tetris",
+          "Viktor Gars"
+        ]
+      },
+      {
+        "name": "PS2-HOME Archive — Q*bert by ps2devman",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?t=3681",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "homebrew game",
+          "Qbert",
+          "ps2devman"
+        ]
+      },
+      {
+        "name": "PS2-HOME Archive — Geotron by Jum",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?t=12018",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "homebrew game",
+          "Geotron",
+          "Jum"
+        ]
+      },
+      {
+        "name": "PS2-HOME Archive — Hermes - Run A La Carte",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?t=9906",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "homebrew game",
+          "Hermes",
+          "Retroguru"
+        ]
+      },
+      {
+        "name": "PS2-HOME Archive — Aqua Demo by Altair",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?t=5009",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "demo",
+          "Aqua",
+          "Altair",
+          "demoscene"
+        ]
+      },
+      {
+        "name": "PS2-HOME Archive — M-PS2Craft",
+        "url": "https://ps2-home.com/forum/viewtopic.php?t=10762",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "homebrew game",
+          "M-PS2Craft",
+          "PS2 Revival Project",
+          "Minecraft"
+        ]
+      },
+      {
+        "name": "PS2-HOME Archive — Ifcaro's Tetris",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?t=2988",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "homebrew game",
+          "Tetris",
+          "ifcaro"
+        ]
+      },
+      {
+        "name": "PS2-HOME Archive — Barulandia",
+        "url": "https://ps2-home.com/forum/viewtopic.php?t=10397",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "homebrew game",
+          "Barulandia",
+          "jmgk"
+        ]
+      },
+      {
+        "name": "PS2-HOME Archive — NIM - PS2 Edition",
+        "url": "https://ps2-home.com/forum/viewtopic.php?f=85&t=3672",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "homebrew game",
+          "NIM",
+          "Theldus"
+        ]
+      },
+      {
+        "name": "PS2-HOME Archive — XUMP - The Final Run",
+        "url": "https://ps2-home.com/forum/viewtopic.php?t=10301",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "homebrew game",
+          "XUMP",
+          "Retroguru"
+        ]
+      },
+      {
+        "name": "PS2-HOME Archive — PS2 Homebrew Games / OpenBOR Package Thread",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?t=4309",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "OpenBOR",
+          "PS2BOR",
+          "homebrew games",
+          "game mods",
+          "collection index"
+        ]
+      },
+      {
+        "name": "PS2-HOME Archive — BennuGD PS2 Game Creator Tutorial",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?t=924",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "BennuGD",
+          "game creator",
+          "homebrew development",
+          "Yeti3D"
+        ]
+      },
+      {
+        "name": "PS2-HOME Archive — PS2 Alternatives / Ports to POPStarter Games",
+        "url": "https://ps2-home.com/forum/viewtopic.php?t=8347",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "homebrew ports",
+          "PS2Doom",
+          "native ports",
+          "POPStarter alternatives"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Custom Content & Game Mods",
+    "description": "Search-indexed PS2-HOME historical game-modding references, patch projects and technical tutorials.",
+    "links": [
+      {
+        "name": "PS2-HOME Archive — PS2 Modifiable Games List",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?t=1583",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "game modding",
+          "modifiable games",
+          "mod list",
+          "WIP"
+        ]
+      },
+      {
+        "name": "PS2-HOME Archive — Developing 480p Patches for PS2 Games",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=24&t=14399",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "480p patches",
+          "video mode",
+          "game modding",
+          "WIP"
+        ]
+      },
+      {
+        "name": "PS2-HOME Archive — PS2 Resolution Hacks",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?t=6020",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "resolution hacks",
+          "video mode",
+          "game modding"
+        ]
+      },
+      {
+        "name": "PS2-HOME Archive — Learning to Read LBA Tables",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?t=552",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "historical forum",
+          "game modding",
+          "LBA tables",
+          "disc structure",
+          "tutorial"
+        ]
+      }
+    ]
+  }
+]

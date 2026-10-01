@@ -1,0 +1,615 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Granular archive of Dr Henry S. Fortuna's PlayStation 2 Linux game-programming tutorials plus PS2 homebrew engines/frameworks and development samples.",
+    "links": [
+      {
+        "name": "PS2 EDU Archive — PlayStation 2 Linux Games Programming",
+        "url": "http://ps2-edu.tensioncore.com",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "PS2 Linux",
+          "Henry Fortuna",
+          "game programming",
+          "education"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — VU1 Vertex Transformation Tutorial",
+        "url": "http://ps2-edu.tensioncore.com/vutut1/vutut1.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "VU1",
+          "vertex transformation",
+          "Vector Unit"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — VU1 Texture Mapping Tutorial",
+        "url": "http://ps2-edu.tensioncore.com/vutut2/vutut2.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "VU1",
+          "texture mapping",
+          "UV"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — VU1 Perspective-Correct Texture Mapping",
+        "url": "http://ps2-edu.tensioncore.com/vutut3/vutut3.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "VU1",
+          "STQ",
+          "perspective correction"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — VU1 3D Cube Rendering",
+        "url": "http://ps2-edu.tensioncore.com/vutut4/vutut4.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "VU1",
+          "3D",
+          "cube",
+          "rendering"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — VU1 Frustum Clipping",
+        "url": "http://ps2-edu.tensioncore.com/vutut6/vutut6.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "VU1",
+          "frustum clipping",
+          "3D"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — Bitmap Font Class",
+        "url": "http://ps2-edu.tensioncore.com/font/font.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "bitmap fonts",
+          "text rendering",
+          "debug"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — Sky Box Tutorial",
+        "url": "https://ps2-edu.tensioncore.com/sky/sky.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "skybox",
+          "3D",
+          "rendering"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — Many Models Rendering",
+        "url": "http://ps2-edu.tensioncore.com/many/many.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "3D models",
+          "rendering",
+          "textures"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — Quaternions Tutorial",
+        "url": "http://ps2-edu.tensioncore.com/quat/quat.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "quaternions",
+          "rotation",
+          "3D math"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — GIF / 2D Drawing Pipeline",
+        "url": "http://ps2-edu.tensioncore.com/2ddp1/2ddp1.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "GIF",
+          "Graphics Synthesizer",
+          "GS",
+          "2D"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — Split Screen Rendering",
+        "url": "https://ps2-edu.tensioncore.com/split/split.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "split screen",
+          "dual view",
+          "rendering"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — Teaching Console Games Programming with PS2 Linux",
+        "url": "http://ps2-edu.tensioncore.com/articles/cgaige04.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "PS2 Linux",
+          "education",
+          "Game-On 2004",
+          "paper"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — PS2 DMAC",
+        "url": "http://ps2-edu.tensioncore.com/articles/dmac.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "DMAC",
+          "DMA",
+          "Emotion Engine"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — MIPS Assembly on PS2",
+        "url": "http://ps2-edu.tensioncore.com/asm/asm.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "MIPS",
+          "assembly",
+          "Emotion Engine",
+          "GCC"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — VU0 Macro Mode",
+        "url": "http://ps2-edu.tensioncore.com/vu0/vu0.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "VU0",
+          "Vector Unit",
+          "SIMD",
+          "macro mode"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — 2D Collision Detection",
+        "url": "http://ps2-edu.tensioncore.com/collide/collide.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "collision detection",
+          "game programming"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — World Transformation Matrix",
+        "url": "http://ps2-edu.tensioncore.com/wmat/wmat.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "world matrix",
+          "transforms",
+          "3D math"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — VU1 Backface Culling",
+        "url": "http://ps2-edu.tensioncore.com/backf/backf.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "VU1",
+          "backface culling",
+          "rendering"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — Directional & Ambient Lighting",
+        "url": "http://ps2-edu.tensioncore.com/light1/light1.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "lighting",
+          "directional light",
+          "ambient light"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — Legacy PS2 Linux Games Programming Index",
+        "url": "http://ps2-edu.tensioncore.com/old/index.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "PS2 Linux",
+          "legacy site",
+          "tutorial index"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — PS2 Linux UDP Networking",
+        "url": "http://ps2-edu.tensioncore.com/udpnet/udpnet.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "UDP",
+          "networking",
+          "PS2 Linux",
+          "game networking"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — Z Buffer Tutorial",
+        "url": "https://ps2-edu.tensioncore.com/zbuf/zbuf.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "Z buffer",
+          "depth buffer",
+          "Graphics Synthesizer"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — PS2 Linux Game Framework",
+        "url": "http://ps2-edu.tensioncore.com/gframe/gframe.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "game framework",
+          "PS2 Linux",
+          "game loop"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — Sprite Matrix Transformations",
+        "url": "http://ps2-edu.tensioncore.com/spmat/spmat.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "sprites",
+          "matrix",
+          "2D"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — PS2 Linux Audio Framework",
+        "url": "http://ps2-edu.tensioncore.com/audiofw/audiofw.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "audio",
+          "sound",
+          "PS2 Linux",
+          "SPU"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — Specular Lighting",
+        "url": "http://ps2-edu.tensioncore.com/spclr/spclr.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "specular highlights",
+          "lighting",
+          "3D"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — 3D Graphics API for PS2 Linux",
+        "url": "http://ps2-edu.tensioncore.com/3dapi/3dapi.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "PS2 Linux",
+          "3D API",
+          "VU",
+          "graphics"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — 2D Animation",
+        "url": "http://ps2-edu.tensioncore.com/anim2d/anim2d.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "2D animation",
+          "sprites",
+          "game programming"
+        ]
+      },
+      {
+        "name": "PS2 EDU Archive — Texture Mapping Introduction",
+        "url": "http://ps2-edu.tensioncore.com/texmap1/texmap1.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2 development",
+          "tutorial",
+          "Henry S Fortuna",
+          "texture mapping",
+          "PS2 Linux",
+          "graphics"
+        ]
+      },
+      {
+        "name": "PS2 Development — PS2 DEV WORLD",
+        "url": "https://github.com/playstation2-development/ps2dev-world",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew development",
+          "development hub",
+          "documents",
+          "engines",
+          "samples"
+        ]
+      },
+      {
+        "name": "PS2 Development — AthenaEnv",
+        "url": "https://github.com/DanielSant0s/AthenaEnv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew development",
+          "JavaScript",
+          "engine",
+          "homebrew development"
+        ]
+      },
+      {
+        "name": "PS2 Development — Enceladus",
+        "url": "https://github.com/DanielSant0s/Enceladus",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew development",
+          "Lua",
+          "engine",
+          "homebrew development"
+        ]
+      },
+      {
+        "name": "PS2 Development — Nichola's PS2 Engine",
+        "url": "https://github.com/nicholas477/PS2-Engine",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew development",
+          "game engine",
+          "C++"
+        ]
+      },
+      {
+        "name": "PS2 Development — PlayLua Engine",
+        "url": "https://github.com/cejtok/playluaengine",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew development",
+          "Lua",
+          "game engine"
+        ]
+      },
+      {
+        "name": "PS2 Development — RenderWare SDK 3.1 Archive",
+        "url": "https://archive.org/details/rw310-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew development",
+          "RenderWare",
+          "SDK",
+          "game engine",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2 Development — Tyra",
+        "url": "https://github.com/h4570/tyra",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew development",
+          "C++",
+          "game engine",
+          "framework"
+        ]
+      },
+      {
+        "name": "PS2 Development — Godot PS2",
+        "url": "https://github.com/ivandortulov/godot-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew development",
+          "Godot",
+          "game engine",
+          "port"
+        ]
+      },
+      {
+        "name": "PS2 Development — R2Engine",
+        "url": "https://github.com/Rider-UwU-Black/R2Engine",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew development",
+          "game engine",
+          "homebrew development"
+        ]
+      },
+      {
+        "name": "PS2 Development — Aegis2D",
+        "url": "https://github.com/ddnzcn/Aegis2D",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew development",
+          "2D engine",
+          "AthenaEnv",
+          "homebrew development"
+        ]
+      },
+      {
+        "name": "PS2 Development — HelEngine Demo Disc",
+        "url": "https://github.com/helworks/helengine-demo-disc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew development",
+          "HelEngine",
+          "demo disc",
+          "game engine"
+        ]
+      },
+      {
+        "name": "PS2 Development — AthenaENV PS2 Samples",
+        "url": "https://github.com/AthenaENV-PS2-GAMES/AthenaENV-PS2-Samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew development",
+          "AthenaEnv",
+          "samples",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "PS2 Development — AthenaENV 3D Robot Demo",
+        "url": "https://github.com/AthenaENV-PS2-GAMES/3D-Robot-DEMO-PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew development",
+          "AthenaEnv",
+          "3D demo",
+          "robot"
+        ]
+      },
+      {
+        "name": "PS2 Development — AthenaENV Coconut Simulator",
+        "url": "https://github.com/AthenaENV-PS2-GAMES/Coconut-Simulator-PS2-Version",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew development",
+          "AthenaEnv",
+          "homebrew game",
+          "simulator"
+        ]
+      },
+      {
+        "name": "PS2 Development — AthenaENV Online Game Demo",
+        "url": "https://github.com/AthenaENV-PS2-GAMES/online_game_demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew development",
+          "AthenaEnv",
+          "network game",
+          "demo"
+        ]
+      }
+    ]
+  }
+]

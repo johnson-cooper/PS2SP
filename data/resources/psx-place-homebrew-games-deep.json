@@ -1,0 +1,850 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "All individually indexed PS2 homebrew games and ports surfaced in the PSX-Place Homebrew Games category, including historical ports, original homebrew, demos, mods and OpenBOR/OPL-ready custom games.",
+    "links": [
+      {
+        "name": "PSX-Place Homebrew — ps2-taradino",
+        "url": "https://www.psx-place.com/resources/ps2-taradino.1646/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Rise of the Triad",
+          "ROTT",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — PRBOOM-PLUS for PlayStation 2",
+        "url": "https://www.psx-place.com/resources/prboom-plus-for-playstation-2.1642/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Doom",
+          "PrBoom-Plus",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Wolf4SDL-PS2",
+        "url": "https://www.psx-place.com/resources/wolf4sdl-ps2.1641/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Wolfenstein 3D",
+          "Spear of Destiny",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — PS2 SDL DOOM port resurrection",
+        "url": "https://www.psx-place.com/resources/ps2-sdl-doom-port-resurrection.1626/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Doom",
+          "SDL",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Snow Bros: Nick and Tom",
+        "url": "https://www.psx-place.com/resources/snow-bros-nick-and-tom.1419/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Snow Bros",
+          "homebrew",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — 3D Pinball - Space Cadet for PS2",
+        "url": "https://www.psx-place.com/resources/3d-pinball-space-cadet-for-ps2.1412/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "3D Pinball",
+          "Space Cadet",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Real Waiting Simulator",
+        "url": "https://www.psx-place.com/resources/real-waiting-simulator.1308/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Tales of the Abyss Karma MOD",
+        "url": "https://www.psx-place.com/resources/tales-of-the-abyss-karma-mod.959/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Tales of the Abyss",
+          "Karma",
+          "mod"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Tyrian",
+        "url": "https://www.psx-place.com/resources/tyrian.943/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Tyrian",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — SuperTux",
+        "url": "https://www.psx-place.com/resources/supertux.1235/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "SuperTux",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Doodle Champion Island Games",
+        "url": "https://www.psx-place.com/resources/doodle-champion-island-games.1182/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Doodle Champion Island",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Barulandia painting game",
+        "url": "https://www.psx-place.com/resources/barulandia-painting-game.1086/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Barulandia",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — XUMP - The Final Run",
+        "url": "https://www.psx-place.com/resources/xump-the-final-run.1065/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "XUMP",
+          "Retroguru",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Fruit'Y",
+        "url": "https://www.psx-place.com/resources/fruity.1050/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Fruit'Y",
+          "Retroguru",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Hermes",
+        "url": "https://www.psx-place.com/resources/hermes.975/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Hermes",
+          "Retroguru",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Half-Life: Blue Shift unofficial PS2 port",
+        "url": "https://www.psx-place.com/resources/half-life-blue-shift-unofficial-ps2-port-by-supadupaplex.958/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Half-Life",
+          "Blue Shift",
+          "unofficial port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — njam SDL PORT",
+        "url": "https://www.psx-place.com/resources/njam-sdl-port.957/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "njam",
+          "SDL",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Meritous Port for OPL",
+        "url": "https://www.psx-place.com/resources/meritous-port-for-opl.955/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Meritous",
+          "OPL",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Guitar Fun",
+        "url": "https://www.psx-place.com/resources/guitar-fun.558/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Guitar Fun",
+          "Guitar Hero clone",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Xrick",
+        "url": "https://www.psx-place.com/resources/xrick.434/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Rick Dangerous",
+          "Xrick",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Quake for PS2",
+        "url": "https://www.psx-place.com/resources/quake-for-ps2.433/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Quake",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Rockbot",
+        "url": "https://www.psx-place.com/resources/rockbot.432/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Rockbot",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Tetris",
+        "url": "https://www.psx-place.com/resources/tetris.431/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Tetris",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Space Invaders for PS2",
+        "url": "https://www.psx-place.com/resources/space-invaders-for-ps2.430/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Space Invaders",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Super Mario War",
+        "url": "https://www.psx-place.com/resources/super-mario-war.429/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Super Mario War",
+          "homebrew",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Shippy 1984",
+        "url": "https://www.psx-place.com/resources/shippy-1984.428/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Shippy 1984",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Qbert",
+        "url": "https://www.psx-place.com/resources/qbert.427/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Qbert",
+          "homebrew",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — PS2-Racer",
+        "url": "https://www.psx-place.com/resources/ps2-racer.426/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "PS2-Racer",
+          "homebrew game",
+          "racing"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — PS2 SDL Doom",
+        "url": "https://www.psx-place.com/resources/ps2-sdl-doom.422/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Doom",
+          "SDL",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Pintor",
+        "url": "https://www.psx-place.com/resources/pintor.421/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Pintor",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — PS2 Patience",
+        "url": "https://www.psx-place.com/resources/ps2-patience.420/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Patience",
+          "card game",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — PANG",
+        "url": "https://www.psx-place.com/resources/pang.419/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Pang",
+          "arcade remake",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — NickyBoumPS2",
+        "url": "https://www.psx-place.com/resources/nickyboumps2.418/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Nicky Boum",
+          "port",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Kahtzee KAPI Demo",
+        "url": "https://www.psx-place.com/resources/kahtzee-kapi-demo.417/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Kahtzee",
+          "KAPI",
+          "demo"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Jump 'n Bump",
+        "url": "https://www.psx-place.com/resources/jump-n-bump.416/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Jump n Bump",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Ifcaro's Tetris for PlayStation 2",
+        "url": "https://www.psx-place.com/resources/ifcaros-tetris-for-playstation-2.415/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Tetris",
+          "ifcaro",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Geotron",
+        "url": "https://www.psx-place.com/resources/geotron.414/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Geotron",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Flashback (REminiscence)",
+        "url": "https://www.psx-place.com/resources/flashback-reminiscence.413/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Flashback",
+          "REminiscence",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — The Dungeon Game",
+        "url": "https://www.psx-place.com/resources/the-dungeon-game.412/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Dungeon Game",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Ballion PS2",
+        "url": "https://www.psx-place.com/resources/ballion-ps2.411/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Ballion",
+          "Crillion",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Dave Gnukem for PS2",
+        "url": "https://www.psx-place.com/resources/dave-gnukem-for-ps2.410/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Dave Gnukem",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — Bastet PS2",
+        "url": "https://www.psx-place.com/resources/bastet-ps2.409/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "Bastet",
+          "homebrew",
+          "port"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — OPL-PORT Avengers OpenBOR",
+        "url": "https://www.psx-place.com/resources/opl-port-avengers-openbor-neill-corletts-mod.338/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "OpenBOR",
+          "Avengers",
+          "Neill Corlett",
+          "OPL"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — OPL-PORT Beats Of Rage OpenBOR",
+        "url": "https://www.psx-place.com/resources/opl-port-beats-of-rage-openbor-neill-corletts-mod.337/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "OpenBOR",
+          "Beats of Rage",
+          "Neill Corlett",
+          "OPL"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — OPL-PORT Castlevania OpenBOR",
+        "url": "https://www.psx-place.com/resources/opl-port-castlevania-openbor-neill-corletts-mod.336/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "OpenBOR",
+          "Castlevania",
+          "Neill Corlett",
+          "OPL"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — OPL-PORT Final Fantasy 7 OpenBOR",
+        "url": "https://www.psx-place.com/resources/opl-port-final-fantasy-7-openbor-neill-corletts-mod.335/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "OpenBOR",
+          "Final Fantasy 7",
+          "Neill Corlett",
+          "OPL"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — OPL-PORT MegaMan War of the Past OpenBOR",
+        "url": "https://www.psx-place.com/resources/opl-port-megaman-war-of-the-past-openbor-neill-corletts-mod.334/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "OpenBOR",
+          "MegaMan",
+          "War of the Past",
+          "Neill Corlett",
+          "OPL"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — OPL-PORT Ninja Warriors Vs Marvel OpenBOR",
+        "url": "https://www.psx-place.com/resources/opl-port-ninja-warriors-vs-marvel-openbor-neill-corletts-mod.333/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "OpenBOR",
+          "Ninja Warriors",
+          "Marvel",
+          "Neill Corlett",
+          "OPL"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — OPL-PORT Nintendo Vs Sega OpenBOR",
+        "url": "https://www.psx-place.com/resources/opl-port-nintendo-vs-sega-openbor-neill-corletts-mod.332/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "OpenBOR",
+          "Nintendo Vs Sega",
+          "Neill Corlett",
+          "OPL"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — OPL-PORT Simpsons OpenBOR",
+        "url": "https://www.psx-place.com/resources/opl-port-simpsons-openbor-neill-corletts-mod.331/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "OpenBOR",
+          "Simpsons",
+          "Neill Corlett",
+          "OPL"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — OPL-PORT Strider 1 OpenBOR",
+        "url": "https://www.psx-place.com/resources/opl-port-strider-1-openbor-neill-corletts-mod.330/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "OpenBOR",
+          "Strider",
+          "Neill Corlett",
+          "OPL"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — OPL-PORT TMNT OpenBOR",
+        "url": "https://www.psx-place.com/resources/opl-port-tmnt-openbor-neill-corletts-mod.329/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "OpenBOR",
+          "TMNT",
+          "Teenage Mutant Ninja Turtles",
+          "Neill Corlett",
+          "OPL"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — OPL-PORT X-Men OpenBOR",
+        "url": "https://www.psx-place.com/resources/opl-port-x-men-openbor-neill-corletts-mod.328/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "OpenBOR",
+          "X-Men",
+          "Neill Corlett",
+          "OPL"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — OPL-PORT X-Men 1 OpenBOR",
+        "url": "https://www.psx-place.com/resources/opl-port-x-men-1-openbor-neill-corletts-mod.327/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "OpenBOR",
+          "X-Men 1",
+          "Neill Corlett",
+          "OPL"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — OPL-PORT X-Men Vs Street Fighter OpenBOR",
+        "url": "https://www.psx-place.com/resources/opl-port-x-men-vs-street-fighter-openbor-neill-corletts-mod.326/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "OpenBOR",
+          "X-Men Vs Street Fighter",
+          "Neill Corlett",
+          "OPL"
+        ]
+      },
+      {
+        "name": "PSX-Place Homebrew — OPL-PORT I WANT IT ALLLLLLL OpenBOR bundle",
+        "url": "https://www.psx-place.com/resources/opl-port-i-want-it-alllllll-openbor-neill-corletts-mod.325/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSX-Place",
+          "homebrew game",
+          "port",
+          "custom game",
+          "OpenBOR",
+          "homebrew collection",
+          "Neill Corlett",
+          "OPL",
+          "bundle"
+        ]
+      }
+    ]
+  }
+]
