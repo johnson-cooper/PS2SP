@@ -140,7 +140,7 @@ const popularTags = [...tagCounts.entries()]
           <span>Resource</span>
           <span>Section</span>
           <span>Host</span>
-          <span>Report</span>
+          <span>Report broken</span>
         </div>
         <div data-resource-results aria-live="polite"></div>
       </div>
@@ -290,9 +290,10 @@ const popularTags = [...tagCounts.entries()]
           report.className = "resource-report-link";
           report.target = "_blank";
           report.rel = "noopener noreferrer";
-          report.textContent = "Broken?";
+          report.textContent = "Report broken";
           report.setAttribute("aria-label", `Report broken link: ${entry.name}`);
-          const issueTitle = `Broken link: ${entry.name}`;
+          report.title = `Report broken link: ${entry.url}`;
+          const issueTitle = `Broken link: ${entry.url}`;
           const issueBody = [
             "### Broken resource link",
             "",
