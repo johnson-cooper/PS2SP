@@ -1,0 +1,298 @@
+[
+  {
+    "category": "Hardware, Mods & Accessories",
+    "description": "Additional original, mirrored and community-preserved documentation for Matrix Infinity, DMS4/ToxicOS, Ghost2, Ripper, Messiah and Modbo PS2 modchips.",
+    "links": [
+      {
+        "name": "PS2 Modchip Preservation — Matrix Infinity Overview",
+        "url": "https://ps2modchiptutorials.com/mi/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "Matrix Infinity",
+          "Modbo",
+          "firmware",
+          "documentation"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — Matrix Infinity Team Files",
+        "url": "https://ps2modchiptutorials.com/mi/mi-files/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "Matrix Infinity",
+          "firmware 1.93",
+          "Infinity Manager",
+          "DEV2",
+          "recovery"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — Matrix Infinity Written Tutorials",
+        "url": "https://ps2modchiptutorials.com/mi/mi-writeups/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "Matrix Infinity",
+          "Infinity Manager",
+          "DEV1",
+          "DEV2",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — Matrix Infinity Flash Dump Preservation",
+        "url": "https://github.com/78edu/ps2-matrix-infinity-modchip-dump",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "Matrix Infinity",
+          "flash dump",
+          "Actel",
+          "firmware",
+          "preservation"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — SKS Apps — Matrix Infinity",
+        "url": "https://sksapps.haldrie.com/ps2modchips.php",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "Matrix Infinity",
+          "modchip files",
+          "SKS Apps"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — DMS4 ToxicBIOS Archive",
+        "url": "https://sksapps.haldrie.com/ps2dms4.php",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "DMS4",
+          "ToxicBIOS",
+          "firmware",
+          "SKS Apps"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — DMS4 Scripting Documentation",
+        "url": "https://ps2modchiptutorials.com/dms4/dms4-scripting/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "DMS4",
+          "ToxicOS",
+          "install scripts",
+          "homebrew apps"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — ToxicOS 0.41 Guide / Archive Thread",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?t=3260",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "ToxicOS",
+          "DMS4 Pro",
+          "HDD",
+          "firmware",
+          "legacy guide"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — ToxicBIOS 1.4 Firmware Preservation",
+        "url": "https://gbatemp.net/download/toxicbios-v1-4-firmware-update.37666/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "ToxicBIOS",
+          "DMS4",
+          "firmware 1.4",
+          "preservation"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — Ghost2 Team Files",
+        "url": "https://ps2modchiptutorials.com/ghost2/ghost2-files/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "Ghost2",
+          "firmware",
+          "recovery disc",
+          "modchip"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — Ripper 3 Technical Page",
+        "url": "https://www.willsconsolemodifications.co.uk/ps2-wiki/chips.php?chip_id=60",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "Ripper 3",
+          "modchip",
+          "features",
+          "instructions",
+          "diagrams"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — Ripper 3 Installation Diagrams",
+        "url": "https://sksapps.haldrie.com/diagrams/ps2/ripper3.php",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "Ripper 3",
+          "SCPH",
+          "motherboard",
+          "installation diagrams"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — Ripper 3 Boot Manual PDF",
+        "url": "http://www.chipeinbau.at/downloads/Ripper3boot.pdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "Ripper 3",
+          "boot manual",
+          "PDF",
+          "legacy documentation"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — Messiah 2 Historical Product / Install Page",
+        "url": "http://www.fatcat.co.nz/psx/m2index.htm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "Messiah 2",
+          "Messiah 2 PRO",
+          "modchip",
+          "installation",
+          "legacy site"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — Messiah 2 Installation Diagrams",
+        "url": "https://sksapps.haldrie.com/diagrams/ps2/messiah2.php",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "Messiah 2",
+          "SCPH",
+          "motherboard",
+          "installation diagrams"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — Modbo Installation Guide Index",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "Modbo",
+          "Matrix Infinity clone",
+          "installation",
+          "board revisions"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — Modbo Version History",
+        "url": "https://quade.co/ps2-modchip-guide/modbo/version-history/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "Modbo",
+          "version history",
+          "Matrix Infinity",
+          "modchip"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — Modbo Installation Diagrams Archive",
+        "url": "https://www.ps2-home.com/forum/app.php/page/modbo-ps2-modchips-installation-diagrams",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "Modbo",
+          "installation diagrams",
+          "PS2-HOME",
+          "motherboard"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — PS2 Modchip Archive Community Thread",
+        "url": "https://gbatemp.net/threads/ps2-modchip-archive-huge-repository-for-all-your-modchipping-needs.673427/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "PS2 modchip archive",
+          "DMS3",
+          "Messiah 2",
+          "source code",
+          "firmware",
+          "installation"
+        ]
+      },
+      {
+        "name": "PS2 Modchip Preservation — PS2 Developer Wiki — Modchips",
+        "url": "https://www.psdevwiki.com/ps2/Modchips",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "preservation",
+          "PS2",
+          "modchips",
+          "Matrix Infinity",
+          "Messiah",
+          "Modbo",
+          "Ripper",
+          "technical reference"
+        ]
+      }
+    ]
+  }
+]
