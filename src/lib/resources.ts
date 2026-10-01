@@ -87,6 +87,7 @@ import ps2devForumLiveGroups from "../../data/resources/ps2dev-forum-live.json";
 import ps2SaveIconTechnicalDeepGroups from "../../data/resources/ps2-save-icon-technical-deep-2026-10-01.json";
 import sceneOrgPs2devDemoGroups from "../../data/resources/scene-org-ps2dev-demos-deep-2026-10-01.json";
 import userCuratedProjectGroups from "../../data/resources/user-curated-projects-2026-10-01.json";
+import ps2LinuxNoipMirrorGroups from "../../data/resources/ps2-linux-noip-mirror-deep-2026-10-01.json";
 import awesomePs2EarlyDemoGroups from "../../data/resources/awesome-ps2-and-early-demos.json";
 import demozooPs2SceneWave2Groups from "../../data/resources/demozoo-ps2-scene-wave2.json";
 import githubOrgCompletionWave2Groups from "../../data/resources/github-org-completion-wave2.json";
