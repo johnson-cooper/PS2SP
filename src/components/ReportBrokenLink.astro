@@ -1,0 +1,32 @@
+---
+import { brokenLinkIssueUrl } from "../lib/reporting";
+
+interface Props {
+  label: string;
+  url: string;
+  context: string;
+  pageUrl?: string | null;
+  compact?: boolean;
+}
+
+const {
+  label,
+  url,
+  context,
+  pageUrl = null,
+  compact = false
+} = Astro.props;
+
+const issueUrl = brokenLinkIssueUrl(label, url, context, pageUrl);
+---
+
+<a
+  class:list={["resource-report-link", "report-broken-link", { compact }]}
+  href={issueUrl}
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label={`Report broken link: ${label}`}
+  title={`Report broken link: ${url}`}
+>
+  {compact ? "Report" : "Report broken"}
+</a>
