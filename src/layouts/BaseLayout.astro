@@ -90,6 +90,64 @@ const navItems = [
       <slot />
     </main>
 
+    <script data-global-link-reporting>
+      function addFallbackReport(anchor) {
+        if (!(anchor instanceof HTMLAnchorElement)) return;
+        if (anchor.classList.contains("report-broken-link")) return;
+        if (!/^https?:$/i.test(new URL(anchor.href, window.location.href).protocol)) return;
+
+        const explicitContainer = anchor.closest(
+          ".resource-index-row, .project-index-item, .home-list-item, .activity-item, .timeline-item, .project-action-group"
+        );
+        if (explicitContainer?.querySelector(".report-broken-link")) return;
+        if (anchor.nextElementSibling?.classList.contains("report-broken-link")) return;
+
+        const targetUrl = anchor.href;
+        const label = anchor.textContent?.trim() || targetUrl;
+        const issueTitle = `Broken link: ${targetUrl}`;
+        const issueBody = [
+          "### Broken link report",
+          "",
+          `- Item: ${label}`,
+          `- URL: ${targetUrl}`,
+          `- Context: External link on PS2SP`,
+          `- PS2SP page: ${window.location.href}`,
+          "",
+          "The link appears to be broken, unavailable, or no longer points to the indexed PS2 resource."
+        ].join("\n");
+
+        const report = document.createElement("a");
+        report.className = "inline-link-report report-broken-link";
+        report.href = `https://github.com/johnson-cooper/PS2SP/issues/new?title=${encodeURIComponent(issueTitle)}&body=${encodeURIComponent(issueBody)}`;
+        report.target = "_blank";
+        report.rel = "noopener noreferrer";
+        report.textContent = "report";
+        report.setAttribute("aria-label", `Report broken link: ${targetUrl}`);
+        report.title = `Report broken link: ${targetUrl}`;
+        anchor.insertAdjacentElement("afterend", report);
+      }
+
+      const reportMainLinks = (root = document) => {
+        const scope = root instanceof Element || root instanceof Document ? root : document;
+        for (const anchor of scope.querySelectorAll?.('main a[href^="http://"], main a[href^="https://"]') ?? []) {
+          addFallbackReport(anchor);
+        }
+      };
+
+      reportMainLinks();
+
+      const reportObserver = new MutationObserver((mutations) => {
+        for (const mutation of mutations) {
+          for (const node of mutation.addedNodes) {
+            if (!(node instanceof Element)) continue;
+            if (node.matches?.('main a[href^="http://"], main a[href^="https://"]')) addFallbackReport(node);
+            reportMainLinks(node);
+          }
+        }
+      });
+      reportObserver.observe(document.querySelector("main") ?? document.body, { childList: true, subtree: true });
+    </script>
+
     <footer class="site-footer">
       <div class="footer-grid">
         <div class="footer-brand">
