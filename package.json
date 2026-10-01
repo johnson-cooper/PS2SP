@@ -16,7 +16,8 @@
     "catalog:promote-pending": "node scripts/promote-pending.mjs",
     "catalog:discover-web": "node scripts/discover-web.mjs",
     "catalog:discover-github-depth": "node scripts/discover-github-depth.mjs",
-    "audit:ui": "node scripts/audit-ui-contracts.mjs"
+    "audit:ui": "node scripts/audit-ui-contracts.mjs",
+    "catalog:discover-external-git": "node scripts/discover-external-git.mjs"
   },
   "dependencies": {
     "astro": "^7.3.5",
