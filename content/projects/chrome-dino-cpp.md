@@ -29,12 +29,12 @@ latestRelease:
   url: 'https://github.com/DanielLMcGuire/chrome-dino-cpp/releases/tag/latest'
 activity:
   lastChecked: '2026-09-29T00:27:00.704Z'
-  lastSynchronized: '2026-09-29T02:36:22.733Z'
+  lastSynchronized: '2026-10-01T03:31:25.997Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0dd6e46e9af17f967ff32427d29c550d5e492f8351f241c7c26841769a722357"
-    releasesEtag: W/"e990d14aa8fbcfb5e4bcecb6ade00a70acfb4f55667e9b46886a49abb164a24d"
+    repoEtag: W/"02de0d05a9a41769ebdfa0fc8a991a28f9e328aceb702b52248a9495e0c7549d"
+    releasesEtag: W/"18465baa2e7bb76d6c7a6fc6e113a81110498703c198ff77f9d01e8d66fd63ea"
 discovery:
   method: github-search
   confidence: 100

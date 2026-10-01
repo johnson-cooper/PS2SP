@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2023-08-05T00:17:44Z'
   url: 'https://github.com/israpps/KELFBinder/releases/tag/v1.1.1'
 activity:
-  lastSynchronized: '2026-09-29T09:05:43.442Z'
+  lastSynchronized: '2026-10-01T03:32:16.034Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"66a369a1d2121f915f328e791af831ca8db4b795fb575e74ec100f41e851be0d"
+    releasesEtag: W/"3eef9949adc009d177ffa282e93e7df99dba6ac5d92da9020e8711cdd0f78712"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100
@@ -41,5 +44,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

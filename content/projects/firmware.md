@@ -11,8 +11,8 @@ tags:
   - fork
 features: []
 authors: []
-license: null
-homepage: null
+license: GPL-3.0
+homepage: 'https://sd2psxtd.github.io'
 source:
   provider: github
   repository: sd2psXtd/firmware
@@ -20,19 +20,23 @@ source:
   url: 'https://github.com/sd2psXtd/firmware'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
-  forks: 0
-  lastCommit: null
+  defaultBranch: main
+  stars: 225
+  forks: 18
+  lastCommit: '2026-09-30T12:12:16Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: 1.4.0
+  name: 1.4.0
+  publishedAt: '2026-07-08T12:14:40Z'
+  url: 'https://github.com/sd2psXtd/firmware/releases/tag/1.4.0'
 activity:
   lastChecked: '2026-10-01T03:27:44.437Z'
+  lastSynchronized: '2026-10-01T03:31:51.686Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"dcd4c6c459bf034f97ba3aaa633bb3e664dbfde7402cda1d672a2790f6e3f3b4"
+    releasesEtag: W/"0c59a8b0c59d50eea0e0542272a21518ca6a835634fb66a45244c2f640e5ce7d"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 80
@@ -49,5 +53,4 @@ relationships:
   forkOf: bbsan2k/sd2psx_firmware
   source: sd2psx/firmware
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

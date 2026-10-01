@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-08-02T00:01:13Z'
   url: 'https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats/releases/tag/Latest'
 activity:
-  lastSynchronized: '2026-09-30T06:43:55.420Z'
+  lastSynchronized: '2026-10-01T03:33:13.562Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4138176a028c91582015694979ae8754c531cf4d3e8bfa37955321773aa8bc14"
-    releasesEtag: W/"45f6a123e12d5db503f65ad87ef2f10a9a394a6461fb0ea7ddd78447b1f9ea26"
+    repoEtag: W/"8ecdb9a8f009135e02da951b82c00f27de97eaaa32cf087753deddc6e5d15249"
+    releasesEtag: W/"8d773cd70d96f159bda1580aa5ce742b9b300b77831280b0da488e4c1505cb21"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

@@ -29,12 +29,12 @@ latestRelease:
   url: 'https://github.com/blazium-games/blazium-toolchain/releases/tag/v0.1.8'
 activity:
   lastChecked: '2026-09-29T00:27:46.918Z'
-  lastSynchronized: '2026-09-29T02:36:21.362Z'
+  lastSynchronized: '2026-10-01T03:31:18.375Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"eecf0d62f004828ddfca3cc5c7eecec578e60c596729b3f7bebc546c87a65dce"
-    releasesEtag: W/"6e47583fa0cc95280759ad823fbbe711d0b8dd6156b0e0548ffe24ef352b7e89"
+    repoEtag: W/"84b33577c37a39408980a19323fd3aa0ab78099453f01166ac678fb94789bfc0"
+    releasesEtag: W/"6ac199f932be38029f894bb6683227a653d6d0da15200972b423eda07c181a28"
 discovery:
   method: github-search
   confidence: 100

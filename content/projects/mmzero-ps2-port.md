@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-09-30T16:31:42.278Z'
+  lastSynchronized: '2026-10-01T03:32:33.369Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"69980809fd68c61354e0e473ebae8b3b6c2da6375f6bbe8087a03695ecbf83a4"
+    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
@@ -40,5 +43,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

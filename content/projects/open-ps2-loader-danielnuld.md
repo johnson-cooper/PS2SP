@@ -26,22 +26,22 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 1
+  stars: 3
   forks: 0
-  lastCommit: '2026-08-01T19:48:50Z'
+  lastCommit: '2026-09-29T06:04:55Z'
 latestRelease:
-  tag: ps5-ui-v1
-  name: PS5-style UI — OPL build + PS5 theme
-  publishedAt: '2026-08-01T19:48:50Z'
-  url: 'https://github.com/danielnuld/Open-PS2-Loader/releases/tag/ps5-ui-v1'
+  tag: ps5-ui-v2
+  name: 'Tema PS5 v2: fuentes en pestañas, color de portada y ficha de juego'
+  publishedAt: '2026-09-29T06:04:55Z'
+  url: 'https://github.com/danielnuld/Open-PS2-Loader/releases/tag/ps5-ui-v2'
 activity:
   lastChecked: '2026-09-29T00:31:29.234Z'
-  lastSynchronized: '2026-09-29T02:36:45.105Z'
+  lastSynchronized: '2026-10-01T03:32:48.755Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3ea0181cac70476e5ce32747aeaea609e10d2fdf7f06b30a5bebe07b712d47f4"
-    releasesEtag: W/"c8f94f486151f8b39914a544c04229522b4b43b1b252cfd804aeb3b2234ff588"
+    repoEtag: W/"c1650c282cf3f8508cb735c4de220d4df30be17734e49af1e03b2c3a8cc56f73"
+    releasesEtag: W/"60c54d58ef42798cc7ab6c49ef84590a005d5d3c87c62e7268146a1c6d287af2"
 discovery:
   method: github-maintained-fork
   confidence: 100

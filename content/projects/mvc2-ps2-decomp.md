@@ -20,10 +20,10 @@ source:
   url: 'https://github.com/g-guthrie/mvc2-ps2-decomp'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 9
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-09-29T05:08:35Z'
 latestRelease:
   tag: null
   name: null
@@ -31,8 +31,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-09-29T00:29:02.962Z'
+  lastSynchronized: '2026-10-01T03:32:34.917Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d512225c8458ae0790ec2ff95ec4cef2798718a9f18cfa66bc032bc96d0a92c1"
+    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 95
@@ -46,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

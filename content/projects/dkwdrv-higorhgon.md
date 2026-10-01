@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:27:44.437Z'
+  lastSynchronized: '2026-10-01T03:31:37.547Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"bccf277d1ad5d6f321fe9d67524283acfb81b1d876754d1d6bb9ee638ef7f0ea"
+    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
 discovery:
   method: 'fork-network:DKWDRV/DKWDRV'
   confidence: 100
@@ -45,5 +48,4 @@ relationships:
   forkOf: DKWDRV/DKWDRV
   source: DKWDRV/DKWDRV
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

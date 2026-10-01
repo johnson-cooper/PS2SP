@@ -20,18 +20,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 222
+  stars: 223
   forks: 14
-  lastCommit: '2026-09-29T15:54:04Z'
+  lastCommit: '2026-09-30T14:09:28Z'
 latestRelease:
-  tag: v0.4.2
-  name: v0.4.2
-  publishedAt: '2026-09-28T09:36:37Z'
-  url: 'https://github.com/sashkinbro/EmuCoreX/releases/tag/v0.4.2'
+  tag: v0.4.3
+  name: v0.4.3
+  publishedAt: '2026-09-30T10:07:34Z'
+  url: 'https://github.com/sashkinbro/EmuCoreX/releases/tag/v0.4.3'
 activity:
-  lastSynchronized: '2026-09-29T16:39:19.086Z'
+  lastSynchronized: '2026-10-01T03:31:47.103Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0ad03aef5dc550864ed7cb0cddb91e1eda69a66017d90a644c394855b0f8ef4d"
+    releasesEtag: W/"b02fae535d05f24ea8d95a6861aa1df2013ceb6cf3826dba1cd446f8322522c0"
 discovery:
   method: pending-recheck
   confidence: 100
@@ -43,5 +46,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

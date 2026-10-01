@@ -22,20 +22,20 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-09-27T19:07:04Z'
+  lastCommit: '2026-10-01T00:06:03Z'
 latestRelease:
-  tag: v0.25.6
-  name: MKSM Studio 0.25.6 - Easier character material preparation
-  publishedAt: '2026-09-27T06:20:59Z'
+  tag: v0.27.6
+  name: MKSM Studio 0.27.6 — Persistent Updates
+  publishedAt: '2026-10-01T00:06:03Z'
   url: >-
-    https://github.com/OGmidway/Mortal-Kombat-Shaolin-Monks-Modding-Tool/releases/tag/v0.25.6
+    https://github.com/OGmidway/Mortal-Kombat-Shaolin-Monks-Modding-Tool/releases/tag/v0.27.6
 activity:
-  lastSynchronized: '2026-09-30T06:43:53.025Z'
+  lastSynchronized: '2026-10-01T03:32:34.587Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bec2dbd9e3ceba5778bed1135333daaebbea2f8faf73f0b176f8eba9b5342286"
-    releasesEtag: W/"2e59508e927f8b648445c20e5ad2d64cf6857a7e078be11d07cd7863dfa1e6b1"
+    repoEtag: W/"5276cb984e712b9af6cb24852bcb16cfe8d5158dcaaf29ef320ee78134a34f9c"
+    releasesEtag: W/"2adb7adbba427f26db85831908298629647eb3bdcf5568da1975215fd41c82ea"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

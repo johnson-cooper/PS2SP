@@ -24,20 +24,20 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-09-29T12:51:38Z'
+  lastCommit: '2026-09-30T23:51:50Z'
 latestRelease:
-  tag: v2.3.0
-  name: DiscForge CHD 2.3.0
-  publishedAt: '2026-09-29T12:52:52Z'
-  url: 'https://github.com/Suicideboyy/DiscForge-CHD/releases/tag/v2.3.0'
+  tag: v2.5.1
+  name: DiscForge CHD 2.5.1
+  publishedAt: '2026-09-30T23:52:17Z'
+  url: 'https://github.com/Suicideboyy/DiscForge-CHD/releases/tag/v2.5.1'
 activity:
   lastChecked: '2026-09-29T16:39:19.086Z'
-  lastSynchronized: '2026-09-30T19:20:41.537Z'
+  lastSynchronized: '2026-10-01T03:31:34.645Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bd6ce88ef86e4a308d3dc6a8732e9e606a10ec7aae75135fa781d10455c22d83"
-    releasesEtag: W/"c6b8cd9d21d8cc47553bc5fa82353b167cf04935bd7524b3bf8d4d51e7608352"
+    repoEtag: W/"16738b4ff5543f748c2a440c6cc20f0d5827491f01f10f3f08c4929fd1494bee"
+    releasesEtag: W/"8657973da4680f6ebc1be8ca9c75bdbc2b3ad88b92b688155eec72893f5c7cc5"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

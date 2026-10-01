@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:21:45.849Z'
+  lastSynchronized: '2026-10-01T03:30:35.324Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d16a797986276d3802581431fce7b2f1ceb4ef51159d5b4cd9f443c949372154"
+    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
 discovery:
   method: 'fork-network:saildot4k/ATA-Assault'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: saildot4k/ATA-Assault
   source: saildot4k/ATA-Assault
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

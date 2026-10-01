@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:21:45.849Z'
+  lastSynchronized: '2026-10-01T03:30:29.264Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7a100b495825018c09ecd715163521f8aa9348021e9ea397460a949defdb4be9"
+    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
 discovery:
   method: 'fork-network:bucanero/apollo-ps2'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: bucanero/apollo-ps2
   source: bucanero/apollo-ps2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

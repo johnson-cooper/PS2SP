@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: '2025-01-03T15:14:56Z'
   url: 'https://github.com/slimpuggamer/FreeMcTuna/releases/tag/FreeMCBootDecrypted'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-01T03:31:57.016Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7391e6ae6bc4508192f725085ddc15a14924ab0a3e8455bec94bae212625daa8"
+    releasesEtag: W/"3ef0f8c3024fa800ed4e2ffc2411bfbd67f06dfb72d261099b92a52539f22398"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -45,5 +48,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

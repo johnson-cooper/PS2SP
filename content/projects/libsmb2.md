@@ -19,10 +19,10 @@ source:
   url: 'https://github.com/sahlberg/libsmb2'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
-  forks: 0
-  lastCommit: null
+  defaultBranch: master
+  stars: 430
+  forks: 207
+  lastCommit: '2026-10-01T02:26:34Z'
 latestRelease:
   tag: null
   name: null
@@ -30,8 +30,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-09-29T00:27:41.566Z'
+  lastSynchronized: '2026-10-01T03:32:21.579Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"08de7b75cda828a1e0c712890f22dd4b77eb032a37725f9e1f4678dd391cca6c"
+    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 100
@@ -46,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

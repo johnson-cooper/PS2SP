@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-08-24T14:46:49Z'
   url: 'https://github.com/PeterDelta/PCSX2/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-01T03:33:24.639Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1aaa7c26efc215da6f8d4d3d454a7bf1c88d04b337aecd2d55eb65a43305888e"
+    releasesEtag: W/"6898683f3f2330e0730e86a5374474b37d2a3ba05dd6fd9e4934b666074de9ae"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -40,5 +43,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

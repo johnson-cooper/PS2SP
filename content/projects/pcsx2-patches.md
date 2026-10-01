@@ -18,7 +18,7 @@ repository:
   archived: false
   defaultBranch: main
   stars: 372
-  forks: 142
+  forks: 143
   lastCommit: '2026-09-22T19:15:48Z'
 latestRelease:
   tag: latest
@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-09-22T19:15:49Z'
   url: 'https://github.com/PCSX2/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-01T03:33:23.727Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5bf6ce551528442d33f2401d59ea4b8359f92425a93908c2bef3fb4d8b6da212"
+    releasesEtag: W/"58c7af1d57c9786c11290294db4cf71c88cf9e4111b36a72974142db4ec1a680"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -39,5 +42,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

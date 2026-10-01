@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:21:45.849Z'
+  lastSynchronized: '2026-10-01T03:31:08.511Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2a99481b033c0113988f3946f2e586e2296bbf43945d65f741d9d9c996e4bac7"
+    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
 discovery:
   method: 'fork-network:israpps/BDMAssault'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: israpps/BDMAssault
   source: israpps/BDMAssault
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

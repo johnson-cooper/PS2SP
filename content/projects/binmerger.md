@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2022-09-21T18:41:00Z'
   url: 'https://github.com/israpps/BinMerger/releases/tag/Latest'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-01T03:31:11.697Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7b2e6ab94914b5580edb12983f318e1622c6d79c500668c05f794f8ff4cc9b93"
+    releasesEtag: W/"81790c4edf4628e9de285ac4a42f7ea99d0a42529b9f5cbd5131be7730424ce0"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -39,5 +42,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

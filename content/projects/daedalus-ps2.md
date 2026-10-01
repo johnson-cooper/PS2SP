@@ -12,23 +12,26 @@ license: GPL-2.0
 homepage: null
 source:
   provider: github
-  repository: DevNoib/daedalus-PS2
+  repository: DevNoib/daedalusnoib-PS2
   repositoryId: '1392616531'
 repository:
   archived: false
   defaultBranch: master
-  stars: 2
+  stars: 3
   forks: 0
-  lastCommit: '2026-09-29T02:13:10Z'
+  lastCommit: '2026-09-30T22:30:49Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-09-29T16:39:19.086Z'
+  lastSynchronized: '2026-10-01T03:31:30.810Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c84f172ff469d18a56aec0d1bbffb064c7da984c2fe89f32d9ac3e4e5d293cae"
+    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
 discovery:
   method: pending-recheck
   confidence: 95
@@ -39,5 +42,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -27,9 +27,12 @@ latestRelease:
   url: >-
     https://github.com/israpps/opl-Title.cfg-maker/releases/tag/2.2.5-%7C-1.0.12.0
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-01T03:33:12.959Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7848a514d034de3b2ae6c59b2908f61228853bedbdb01f16a6aeecf0fa99185a"
+    releasesEtag: W/"4aca5287cff36643119470aae60f3b0c0fd741b4fd135b44b7b8a1a12b0b136a"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -40,5 +43,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: '2023-12-19T04:17:18Z'
   url: 'https://github.com/israpps/BDMAssault/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-01T03:31:08.980Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7befcf4b7fcb38f5d9b32a76d343f74010d2731291ffeaf8ee59a60ea8193773"
+    releasesEtag: W/"d95bbc76abe8559018ee03dc25f07fd7f61f88642d3a5cdcbc2f86f126f84af2"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -42,5 +45,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -1,7 +1,9 @@
 ---
 name: easyrpg-ps2
 slug: easyrpg-ps2
-summary: "PlayStation 2 port of EasyRPG Player, an interpreter for RPG Maker 2000/2003 and EasyRPG games."
+summary: >-
+  PlayStation 2 port of EasyRPG Player, an interpreter for RPG Maker 2000/2003
+  and EasyRPG games.
 categories:
   - runtimes
   - ports
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-09-29T02:36:25.001Z'
+  lastSynchronized: '2026-10-01T03:31:45.763Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3f8550c3af6b9f84f902cdc221363566e6f21d8cc050f2fa71f5dc89ffeb8f8c"
-    releasesEtag: '"92d1da06bc39cbed888d1815dbc9a62e8267a318054504c33ab96eb3bf896792"'
+    repoEtag: W/"09bf1f3f56751d693ccdaa4a699be25eef4c54801ed22bc7988a1efbf93199dd"
+    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
 discovery:
   method: curated-owner
   confidence: 100

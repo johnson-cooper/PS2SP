@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/israpps/HDL-Batch-installer/releases/tag/Latest'
 activity:
   lastChecked: '2026-09-29T00:27:03.559Z'
-  lastSynchronized: '2026-09-29T02:36:32.994Z'
+  lastSynchronized: '2026-10-01T03:32:05.369Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"68fb5fa4a4163b16d9b52362eda0c81976fe97c32836f4e2ba8d97f16bb7914d"
-    releasesEtag: W/"281062e8e613ecf2289333d9ee55f0ae55354c811e054a17616bd5d1669da875"
+    repoEtag: W/"21b0365b937e9d14f3e6aac51101e3aaec1ad6f641c9dd8da690884321d770e7"
+    releasesEtag: W/"620d6f8669be68ceb283c604e6ff8e08bdf80d7b5c48a03266743a8d958579de"
 discovery:
   method: curated
   confidence: 100

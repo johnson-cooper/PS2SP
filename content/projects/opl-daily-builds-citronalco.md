@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2023-10-21T21:56:30Z'
   url: 'https://github.com/citronalco/OPL-Daily-Builds/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-01T03:33:03.287Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b82e1b2d22806678505347e0682e4e1357ec88804d84c31197edf7da62157dff"
+    releasesEtag: W/"8a597e677148d3171f60bb013f16685b488ab6d19b26db646b2b0680cf23c185"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -41,5 +44,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

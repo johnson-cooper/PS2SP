@@ -10,7 +10,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -19,19 +19,23 @@ source:
   url: 'https://github.com/Astolfothetrapgod/DDS1-Randomizer'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 1
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-09-28T20:31:30Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.3.0
+  name: DDS1 Randomizer 1.3.0
+  publishedAt: '2026-09-28T20:31:30Z'
+  url: 'https://github.com/Astolfothetrapgod/DDS1-Randomizer/releases/tag/v1.3.0'
 activity:
   lastChecked: '2026-09-29T00:28:35.582Z'
+  lastSynchronized: '2026-10-01T03:31:34.195Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"57570ccbea2121687e680b0e0a6411fdaf4067a4910a3aaa6bb745917cf185c8"
+    releasesEtag: W/"c89811c02ef0d7cabc9278ae6118a1db7aa21f68ab376db1de3f0608e3f6861d"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 90
@@ -45,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

@@ -1,7 +1,9 @@
 ---
 name: mmceman
 slug: mmceman
-summary: "PlayStation 2 IOP modules for MMCE devices, providing card switching, Game ID communication, filesystem access, and lightweight in-game data streaming."
+summary: >-
+  PlayStation 2 IOP modules for MMCE devices, providing card switching, Game ID
+  communication, filesystem access, and lightweight in-game data streaming.
 categories:
   - hardware
   - development
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: '2025-03-10T03:31:13Z'
   url: 'https://github.com/NathanNeurotic/mmceman/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-09-29T02:36:39.760Z'
+  lastSynchronized: '2026-10-01T03:32:32.952Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1a1fa6c169f5bf5997532774dc180b6bace27ebf3d9a18c32fbcc298b61056fc"
-    releasesEtag: W/"e62ae3cbab5d3d98002ca6469e86da5124d3ff301929fa511fe199b6d803e4fb"
+    repoEtag: W/"3a807eb7c386640f0caadc37df5812b1acc46dbbaabd53ad92d8b162d3c0184a"
+    releasesEtag: W/"c37fa382c70d245ae0bb1dd98147d0fdcf8310b23043ddf978df7418a96631a3"
 discovery:
   method: curated-owner
   confidence: 100

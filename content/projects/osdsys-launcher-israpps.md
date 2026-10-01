@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2023-08-06T04:05:50Z'
   url: 'https://github.com/israpps/OSDSYS-Launcher/releases/tag/isra1'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-01T03:33:20.956Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"34b5a5207ae66665691db476add7c55c6d30c0042d7300b511d3921cd2bfdf1b"
+    releasesEtag: W/"13c3aee05a29eb488c1151eb65ca7bf9e9486b46d122f9f9ef7f5c8532323634"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -40,5 +43,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

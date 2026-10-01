@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-09-25T01:15:58Z'
   url: 'https://github.com/hitchhikr/nrlpack/releases/tag/v1.4'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-01T03:32:45.012Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2c59caff36b62095038328afabd609f688aaed5781360fd450e87268a7e29def"
+    releasesEtag: W/"11331412872d617104b080d8c81e878d91bb49c55ea6552191f10586d6811933"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -41,5 +44,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

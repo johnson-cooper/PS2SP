@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2024-08-25T09:57:44Z'
   url: 'https://github.com/tihmstar/Open-PS2-Loader/releases/tag/udpbd-network-v1.1'
 activity:
-  lastSynchronized: '2026-09-29T04:57:53.380Z'
+  lastSynchronized: '2026-10-01T03:32:56.076Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5863a76fb16295677a2adb47c76bfbc385ce586b1e8abdc31dbde99f859b2d6c"
+    releasesEtag: W/"625e5b68837e71a2503170e235265456084b60f42c8698f2aca2899b4a9a8c47"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100
@@ -43,5 +46,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

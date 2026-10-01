@@ -11,7 +11,7 @@ tags:
   - active-unreleased
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -20,10 +20,10 @@ source:
   url: 'https://github.com/fenrircl/berserk-ps2-recomp'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-09-04T18:54:01Z'
 latestRelease:
   tag: null
   name: null
@@ -31,8 +31,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-09-29T00:29:04.919Z'
+  lastSynchronized: '2026-10-01T03:31:10.300Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"42c0894ad7b9d51ab98b7309f89b33e7fa2393473f26eef15fc321ef7c4ced4d"
+    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 90
@@ -45,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

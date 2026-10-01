@@ -22,7 +22,7 @@ repository:
   defaultBranch: master
   stars: 1
   forks: 0
-  lastCommit: '2026-09-27T13:30:10Z'
+  lastCommit: '2026-10-01T02:58:24Z'
 latestRelease:
   tag: 0.5.4
   name: 'Wii U, GameCube and MiSTer clients'
@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/pepasjc/GameSync/releases/tag/0.5.4'
 activity:
   lastChecked: '2026-09-29T11:01:59.784Z'
-  lastSynchronized: '2026-09-29T20:47:42.267Z'
+  lastSynchronized: '2026-10-01T03:31:59.303Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b18ec1de020d9a03f1a92dc656a02aa2c90255717da7b57a88266f2270040446"
-    releasesEtag: W/"369f99da27cb982f500414209c874cbc2d2118ec5470762854bbbb4f803fe8a2"
+    repoEtag: W/"fbd62603b8d7531f41bfcb3c06d04ff623b15718a556264686d017e796e4938f"
+    releasesEtag: W/"e99135af3b82f4f3b758133342739f2818af3936efac6f6dbaa25831b3c4f1a5"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 90

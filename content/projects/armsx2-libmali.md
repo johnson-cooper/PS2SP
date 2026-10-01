@@ -22,19 +22,23 @@ source:
   url: 'https://github.com/bmdhacks/armsx2-libmali'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-09-30T05:20:50Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.0.1
+  name: libmali 0.0.1
+  publishedAt: '2026-09-30T05:20:50Z'
+  url: 'https://github.com/bmdhacks/armsx2-libmali/releases/tag/v0.0.1'
 activity:
   lastChecked: '2026-09-30T16:31:42.278Z'
+  lastSynchronized: '2026-10-01T03:30:33.937Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b6e933c060428f4f6cd0fce4825a4c29166003c62c59e8b7f9ba4eff99178e1c"
+    releasesEtag: W/"66a1979fb35f3788f3afab187d7b77a12e963c1589878e2ea4a6b108631a7a27"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -47,5 +51,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

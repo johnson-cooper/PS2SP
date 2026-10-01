@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2024-06-08T12:44:11Z'
   url: 'https://github.com/israpps/hdl-dump/releases/tag/hdlinst'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-01T03:32:06.311Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"cfd3812f662c5dee036cc8e27d61711e53b781d5a4019470609ed9ab209d7368"
+    releasesEtag: W/"ee4966f4874106a08a153d98be8dc13cc5733886bc868e17096e77222a24c68a"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -43,5 +46,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

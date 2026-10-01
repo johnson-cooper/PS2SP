@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-09-30T21:53:43Z'
   url: 'https://github.com/batmanisunderwork/ARMSX2/releases/tag/netplay-test-8'
 activity:
-  lastSynchronized: '2026-10-01T03:27:44.437Z'
+  lastSynchronized: '2026-10-01T03:30:32.884Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"14ac84ca42486c4446fe0d69a051ec7fc81802350719c1152d19216c5374a2c8"
+    releasesEtag: W/"3ccb8da32374aaa20ae8ce93ccf47f4ab1de306100b070a369a3037167f3ce01"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: ARMSX2/ARMSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

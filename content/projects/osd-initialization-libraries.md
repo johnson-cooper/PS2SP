@@ -27,9 +27,12 @@ latestRelease:
   url: >-
     https://github.com/ps2homebrew/OSD-Initialization-Libraries/releases/tag/latest
 activity:
-  lastSynchronized: '2026-09-29T04:57:53.380Z'
+  lastSynchronized: '2026-10-01T03:33:18.252Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8015d980f8211cfb33fdf03808f5362fbc8a9736f731ba1068de7f095f2a6d61"
+    releasesEtag: W/"12fa4ec054fc9eef36b02677ae5479e557e052b4cc73d307230669f32ca3e24c"
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100
@@ -42,5 +45,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

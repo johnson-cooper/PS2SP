@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-05-04T08:58:04Z'
   url: 'https://github.com/PixeliGer/OPL-Theme-Ominence/releases/tag/v1.3.0'
 activity:
-  lastSynchronized: '2026-09-29T09:05:43.442Z'
+  lastSynchronized: '2026-10-01T03:33:10.144Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2294acc133f270cb708e1271d19faba9b02e5cb5e7c42d2e00fc88f1d09f3405"
+    releasesEtag: W/"95039d9186a74029886f2a6572694267870819a6c50882e7e88ecdc4f0db4e21"
 discovery:
   method: pending-recheck
   confidence: 100
@@ -41,5 +44,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

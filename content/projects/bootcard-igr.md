@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2024-06-30T11:21:52Z'
   url: 'https://github.com/JonathanDotCel/bootcard_igr/releases/tag/0.1'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-01T03:31:19.745Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6eaa088151368f1c2e25953f61a24b8c496850bc2eaa8555eeac013fe88c107b"
+    releasesEtag: W/"86da3b9ce54f87a5bd2e5783d3ddc5d248b1df71c8303fed99ef23c2583772d2"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -39,5 +42,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:27:44.437Z'
+  lastSynchronized: '2026-10-01T03:32:23.828Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ef29fc267783248605ff3ed915b9f6556695b560d79fbc4c4d8204aa00994804"
+    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -45,5 +48,4 @@ relationships:
   forkOf: mateuszklysz/Lombyte
   source: mateuszklysz/Lombyte
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

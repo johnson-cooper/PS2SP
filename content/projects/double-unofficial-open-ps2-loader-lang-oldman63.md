@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:27:44.437Z'
+  lastSynchronized: '2026-10-01T03:31:43.165Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"37853ca430bf756fa0c4bf8bd899ddd82dd9d36b928114495b15035bec5e1a55"
+    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
 discovery:
   method: 'fork-network:ps2homebrew/Double-Unofficial-Open-PS2-Loader-lang'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: ps2homebrew/Double-Unofficial-Open-PS2-Loader-lang
   source: ps2homebrew/Double-Unofficial-Open-PS2-Loader-lang
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

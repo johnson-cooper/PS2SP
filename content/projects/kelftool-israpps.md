@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2024-03-22T16:13:20Z'
   url: 'https://github.com/israpps/kelftool/releases/tag/last-tested'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-01T03:32:16.632Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b7dc2b0f7a50b56748c6c1ed59a43aad944ae7d2186d2b96bbedd0f03a1d57c1"
+    releasesEtag: W/"564ff36bbe867e7b7de0c880215f0e856270ffaeded66e355768d524581893c4"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -41,5 +44,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

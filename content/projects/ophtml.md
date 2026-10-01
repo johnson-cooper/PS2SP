@@ -1,7 +1,9 @@
 ---
 name: OPHTML
 slug: ophtml
-summary: "Toolchain and C99 runtime for building PlayStation 2 homebrew interfaces from HTML and CSS, baked on the host and rendered with gsKit on-console."
+summary: >-
+  Toolchain and C99 runtime for building PlayStation 2 homebrew interfaces from
+  HTML and CSS, baked on the host and rendered with gsKit on-console.
 categories:
   - development
   - libraries
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-09-29T02:36:48.901Z'
+  lastSynchronized: '2026-10-01T03:33:02.253Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8a29af0f0a67e27c68cde244c39253eabd287ef792eb9d5289c2af72c7594f73"
-    releasesEtag: '"92d1da06bc39cbed888d1815dbc9a62e8267a318054504c33ab96eb3bf896792"'
+    repoEtag: W/"239c3383a5a9bf7d653c7ada003c2f533e2f1fbc89f583d7d6e623962a8469ae"
+    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
 discovery:
   method: curated-owner
   confidence: 100

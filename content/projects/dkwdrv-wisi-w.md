@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2022-05-26T19:21:15Z'
   url: 'https://github.com/wisi-w/DKWDRV/releases/tag/1.7.2'
 activity:
-  lastSynchronized: '2026-09-29T04:57:53.380Z'
+  lastSynchronized: '2026-10-01T03:31:41.273Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"dcd9a9cf0b661fa02142dcbd702fc674402893ef692a7bd6ab29cb7627e89ee8"
+    releasesEtag: W/"8b88a1b5dfd025120264ef17f3b2bad301dbb493ed46d1967b2236fadb15fe57"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 95
@@ -41,5 +44,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

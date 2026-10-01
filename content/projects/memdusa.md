@@ -1,7 +1,9 @@
 ---
 name: Memdusa
 slug: memdusa
-summary: "Network-based PlayStation 2 homebrew-launcher exploit for supported Medius games, using server-controlled memory writes to load LaunchELF."
+summary: >-
+  Network-based PlayStation 2 homebrew-launcher exploit for supported Medius
+  games, using server-controlled memory writes to load LaunchELF.
 categories:
   - boot-tools
   - networking
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-09-29T02:36:38.417Z'
+  lastSynchronized: '2026-10-01T03:32:29.554Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a0b2b583b26e8b1ed0f5e5e258f0392710aa4e6dd90980074db8202e2633a094"
-    releasesEtag: '"92d1da06bc39cbed888d1815dbc9a62e8267a318054504c33ab96eb3bf896792"'
+    repoEtag: W/"bac01b3e59d0fa116adcaac4e7376cdc066c3eb6ad21a80e6ca5d0854fcc80f4"
+    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
 discovery:
   method: curated-owner
   confidence: 100

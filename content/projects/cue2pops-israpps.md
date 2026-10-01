@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2022-10-20T19:01:34Z'
   url: 'https://github.com/israpps/cue2pops/releases/tag/Latest'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-01T03:31:29.971Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5756abf6da226b1ec0b54b2d4b30663e15d462dcc18fa334ed056f15ad536bb7"
+    releasesEtag: W/"beaf6bb24f9bc20c61d784e8df5f56f23bf72e6f278b438f01c7b48c0f59af88"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -42,5 +45,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

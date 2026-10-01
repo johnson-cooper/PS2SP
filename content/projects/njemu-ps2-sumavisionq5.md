@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-09-02T00:30:25Z'
   url: 'https://github.com/SumavisionQ5/NJEMU-PS2/releases/tag/0.1'
 activity:
-  lastSynchronized: '2026-09-29T04:57:53.380Z'
+  lastSynchronized: '2026-10-01T03:32:44.545Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2f5f24b00789917f576cf4882321c8d9994ecea094524a3b4ba48899e9aeff2c"
+    releasesEtag: W/"9d10d58cc82d3bd74cb3d5ca9b79623128258a076d9c973c05d05afd2d040503"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100
@@ -42,5 +45,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

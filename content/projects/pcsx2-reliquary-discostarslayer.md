@@ -28,9 +28,12 @@ latestRelease:
   url: >-
     https://github.com/DiscoStarslayer/pcsx2-reliquary/releases/tag/v1.9.4-reliquary
 activity:
-  lastSynchronized: '2026-10-01T03:27:44.437Z'
+  lastSynchronized: '2026-10-01T03:33:25.638Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1046cc1f2fab80bae58ea825f46e798ba93a1b1f2cd79d3ca1883d398906cf6d"
+    releasesEtag: W/"4782d46c885c8cea8f5fdc84fa52c0b357e629da05667fa4307c88ce466491d8"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

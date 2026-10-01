@@ -17,7 +17,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 86
+  stars: 87
   forks: 11
   lastCommit: '2023-02-07T22:58:36Z'
 latestRelease:
@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2022-08-24T06:19:55Z'
   url: 'https://github.com/elmariolo/OPL-Server/releases/tag/v2.0'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-01T03:33:08.079Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"63cb397b5b1f83bdcdbdac67f58fa722b435e9f61b4eaa4ac75526a7924bb14a"
+    releasesEtag: W/"471f5b330a2635ce36d234d121c2b721f83299b3bf687c0b49393e7c9e197e37"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -39,5 +42,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

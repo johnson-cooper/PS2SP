@@ -30,9 +30,12 @@ latestRelease:
   url: >-
     https://github.com/TheBrokenWaLL/Minecraft-PlayStation-2-Edition/releases/tag/rev1.1.0
 activity:
-  lastSynchronized: '2026-10-01T03:27:44.437Z'
+  lastSynchronized: '2026-10-01T03:32:30.809Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8e8d97f94c31b59aeef689eee34ff4fbdf065dd28800d6d2f06694d528f8e5e0"
+    releasesEtag: W/"f5940e3811bba0abc980f9741556c5f4b5cb650ae439c46fba488cf38106c548"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: OptiJuegos/OptiCraftHeritageEdition
   source: OptiJuegos/OptiCraftHeritageEdition
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

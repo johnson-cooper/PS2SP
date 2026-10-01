@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:21:45.849Z'
+  lastSynchronized: '2026-10-01T03:30:20.352Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f2f3bee2ea1a3efb1c917260d7743a22592d44101c22af26a4fe218a45b93c86"
+    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
 discovery:
   method: 'fork-network:johnson-cooper/2004sp-ps2port'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: johnson-cooper/2004sp-ps2port
   source: johnson-cooper/2004sp-ps2port
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

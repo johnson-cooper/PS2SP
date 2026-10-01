@@ -24,8 +24,8 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 3062
-  forks: 443
+  stars: 3065
+  forks: 445
   lastCommit: '2026-06-07T00:33:22Z'
 latestRelease:
   tag: v1.1.0
@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/ps2homebrew/Open-PS2-Loader/releases/tag/v1.1.0'
 activity:
   lastChecked: '2026-09-29T00:27:06.529Z'
-  lastSynchronized: '2026-09-29T02:36:46.752Z'
+  lastSynchronized: '2026-10-01T03:32:57.826Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1b8dea2b12c71e365720f8befa9c541fbd5b63fb811a30d66f86154648cbe6c9"
-    releasesEtag: W/"279779f18180db1d9f8ee0188a6e18ebcc65e7a99de63937ae592d84f9ce2897"
+    repoEtag: W/"6db3cc0aa3966300bf8a744e7c1d935250fc831f9e71774e462a33fcad3e4e8e"
+    releasesEtag: W/"26762b63396222002162dfc5df2e7af056d212d7e5ce2b9a15fcf55ce733a185"
 discovery:
   method: curated
   confidence: 100

@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:27:44.437Z'
+  lastSynchronized: '2026-10-01T03:31:44.486Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"434bec40c56cc0685b56f5f8e32e945c9615616751d00b121486e657e3ac2f85"
+    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
 discovery:
   method: 'fork-network:ps2homebrew/dreamgl'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: ps2homebrew/dreamgl
   source: ps2homebrew/dreamgl
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
