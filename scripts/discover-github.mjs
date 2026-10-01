@@ -355,26 +355,15 @@ function catalogProjectForFork(repo) {
 async function verifyFork(repo) {
   if (!repo?.fork) return null;
 
-  const parentProject = catalogProjectForFork(repo);
-  const parent = repo.parent?.full_name ?? null;
-  const source = repo.source?.full_name ?? parent;
-  let aheadBy = null;
-
-  // Fork ancestry is useful catalog metadata, but being stale, even, or behind
-  // the parent is no longer a reason to exclude a PS2 fork. Compare only when
-  // possible so activity can be displayed without affecting eligibility.
-  if (parent && repo.default_branch && repo.owner?.login) {
-    const parentBranch = repo.parent?.default_branch || "master";
-    try {
-      const compare = await github(`/repos/${parent}/compare/${encodeURIComponent(parentBranch)}...${encodeURIComponent(`${repo.owner.login}:${repo.default_branch}`)}`);
-      if (compare) aheadBy = compare.ahead_by ?? null;
-    } catch (error) {
-      if (error instanceof DiscoveryBudgetStop) throw error;
-      console.warn(`::warning::Could not compare fork ${repo.full_name} with ${parent}: ${error.message}`);
-    }
-  }
-
-  return { parentProject, parent, source, aheadBy };
+  // Fork ancestry is catalog metadata, not an eligibility test. Do not spend
+  // API budget comparing branches: stale, equal, behind, ahead, archived, and
+  // unreleased forks are all valid entries when they belong to a PS2 network.
+  return {
+    parentProject: catalogProjectForFork(repo),
+    parent: repo.parent?.full_name ?? null,
+    source: repo.source?.full_name ?? repo.parent?.full_name ?? null,
+    aheadBy: null
+  };
 }
 
 async function removePendingFor(repo) {
@@ -488,6 +477,7 @@ async function processCandidate(candidate, origin, { force = false, trusted = fa
   }
   if (!repo?.full_name) return;
 
+  const catalogForkLineage = repo.fork ? catalogProjectForFork(repo) : null;
   let score = initialScore(repo, trustedOwner);
   let readmeText = "";
   if (score < 95 || !explicitRepositorySignal(repo)) {
@@ -495,7 +485,7 @@ async function processCandidate(candidate, origin, { force = false, trusted = fa
     if (readme?.content) readmeText = Buffer.from(readme.content.replace(/\n/g, ""), "base64").toString("utf8");
   }
 
-  if (!trustedOwner && score < 45 && !hasPs2Token(readmeText) && !/\bps2sdk\b|\$PS2DEV|ee-g(?:cc|\+\+)/i.test(readmeText)) {
+  if (!trustedOwner && !catalogForkLineage && score < 45 && !hasPs2Token(readmeText) && !/\bps2sdk\b|\$PS2DEV|ee-g(?:cc|\+\+)/i.test(readmeText)) {
     ignored++;
     return;
   }
