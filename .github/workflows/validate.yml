@@ -29,6 +29,7 @@ jobs:
         run: |
           node --check scripts/sync-github.mjs
           node --check scripts/discover-github.mjs
+          node --check scripts/discover-web.mjs
 
       - name: Build static site
         run: npm run build
