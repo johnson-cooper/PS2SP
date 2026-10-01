@@ -42,7 +42,7 @@ jobs:
           echo "Largest generated files:"
           find dist -type f -printf '%s %p\n' | sort -nr | head -20
           echo "Known heavy entrypoints:"
-          for file in dist/projects/index.html dist/resources/index.html dist/api/resources.json dist/index.html; do
+          for file in dist/projects/index.html dist/resources/index.html dist/api/resources.json dist/api/software.json dist/index.html; do
             if [ -f "$file" ]; then
               wc -c "$file"
             fi
