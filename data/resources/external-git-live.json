@@ -4,6 +4,21 @@
     "description": "Continuously refreshed PS2 repositories hosted outside GitHub, including Forgejo and Gitea instances.",
     "links": [
       {
+        "name": "Open PS2 Loader Wisellama mirror — Mirrors/Open-PS2-Loader",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "Mirrors/Open-PS2-Loader",
+          "C",
+          "mirror"
+        ]
+      },
+      {
         "name": "PS2BUILD SDK — ps2/audsrv",
         "url": "https://git.techwritescode.dev/ps2/audsrv",
         "keywords": [
@@ -32,6 +47,20 @@
         ]
       },
       {
+        "name": "PS2BUILD SDK — ps2/cmake",
+        "url": "https://git.techwritescode.dev/ps2/cmake",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/cmake",
+          "CMake"
+        ]
+      },
+      {
         "name": "PS2BUILD SDK — ps2/docs",
         "url": "https://git.techwritescode.dev/ps2/docs",
         "keywords": [
@@ -43,6 +72,20 @@
           "repository",
           "ps2/docs",
           "HTML"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/freetype",
+        "url": "https://git.techwritescode.dev/ps2/freetype",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/freetype",
+          "C"
         ]
       },
       {
@@ -71,6 +114,34 @@
           "repository",
           "ps2/install",
           "PowerShell"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/libjpeg-turbo",
+        "url": "https://git.techwritescode.dev/ps2/libjpeg-turbo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/libjpeg-turbo",
+          "C"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/libpng",
+        "url": "https://git.techwritescode.dev/ps2/libpng",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/libpng",
+          "C"
         ]
       },
       {
@@ -104,6 +175,33 @@
         ]
       },
       {
+        "name": "PS2BUILD SDK — ps2/ninja",
+        "url": "https://git.techwritescode.dev/ps2/ninja",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/ninja"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/ogg",
+        "url": "https://git.techwritescode.dev/ps2/ogg",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/ogg",
+          "C"
+        ]
+      },
+      {
         "name": "PS2BUILD SDK — ps2/openvcl",
         "url": "https://git.techwritescode.dev/ps2/openvcl",
         "keywords": [
@@ -116,6 +214,20 @@
           "ps2/openvcl",
           "C++",
           "mirror"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/ps2_drivers",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/ps2_drivers",
+          "C"
         ]
       },
       {
@@ -133,6 +245,20 @@
         ]
       },
       {
+        "name": "PS2BUILD SDK — ps2/ps2client",
+        "url": "https://git.techwritescode.dev/ps2/ps2client",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/ps2client",
+          "C"
+        ]
+      },
+      {
         "name": "PS2BUILD SDK — ps2/ps2gl",
         "url": "https://git.techwritescode.dev/ps2/ps2gl",
         "keywords": [
@@ -144,6 +270,20 @@
           "repository",
           "ps2/ps2gl",
           "C++"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/ps2link",
+        "url": "https://git.techwritescode.dev/ps2/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/ps2link",
+          "C"
         ]
       },
       {
@@ -262,6 +402,20 @@
         ]
       },
       {
+        "name": "PS2BUILD SDK — ps2/srxfixup",
+        "url": "https://git.techwritescode.dev/ps2/srxfixup",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/srxfixup",
+          "C"
+        ]
+      },
+      {
         "name": "PS2BUILD SDK — ps2/toolchain",
         "url": "https://git.techwritescode.dev/ps2/toolchain",
         "keywords": [
@@ -288,6 +442,34 @@
           "ps2/tools",
           "Go"
         ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/vorbis",
+        "url": "https://git.techwritescode.dev/ps2/vorbis",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/vorbis",
+          "C"
+        ]
+      },
+      {
+        "name": "ps2rom bare-metal replacement ROM — modeco80/ps2rom",
+        "url": "https://git.crustywindo.ws/modeco80/ps2rom",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "modeco80/ps2rom",
+          "Makefile"
+        ]
       }
     ]
   },
@@ -300,6 +482,90 @@
     "category": "External Git — PS2 Branches Live",
     "description": "Branches discovered across non-GitHub PS2 repositories and their fork networks.",
     "links": [
+      {
+        "name": "Mirrors/Open-PS2-Loader — branch: copilot/apply-missing-labels-and-comments",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader — branch: gh-pages",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/gh-pages",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "Mirrors/Open-PS2-Loader",
+          "gh-pages"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader — branch: main",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "Mirrors/Open-PS2-Loader",
+          "main"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader — branch: master",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "Mirrors/Open-PS2-Loader",
+          "master"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader — branch: master_old",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "Mirrors/Open-PS2-Loader",
+          "master_old"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader — branch: v1.1.z",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z"
+        ]
+      },
+      {
+        "name": "modeco80/ps2rom — branch: master",
+        "url": "https://git.crustywindo.ws/modeco80/ps2rom/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "modeco80/ps2rom",
+          "master"
+        ]
+      },
       {
         "name": "ps2/audsrv — branch: main",
         "url": "https://git.techwritescode.dev/ps2/audsrv/src/branch/main",
@@ -325,6 +591,18 @@
         ]
       },
       {
+        "name": "ps2/cmake — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/cmake/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/cmake",
+          "master"
+        ]
+      },
+      {
         "name": "ps2/docs — branch: master",
         "url": "https://git.techwritescode.dev/ps2/docs/src/branch/master",
         "keywords": [
@@ -333,6 +611,18 @@
           "external Git",
           "branch",
           "ps2/docs",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/freetype — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/freetype/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/freetype",
           "master"
         ]
       },
@@ -361,6 +651,30 @@
         ]
       },
       {
+        "name": "ps2/libjpeg-turbo — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/libjpeg-turbo/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/libjpeg-turbo",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/libpng — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/libpng",
+          "master"
+        ]
+      },
+      {
         "name": "ps2/masp — branch: master",
         "url": "https://git.techwritescode.dev/ps2/masp/src/branch/master",
         "keywords": [
@@ -370,6 +684,18 @@
           "branch",
           "ps2/masp",
           "master"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: add-fakeroots-dir",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/add-fakeroots-dir",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "add-fakeroots-dir"
         ]
       },
       {
@@ -394,6 +720,18 @@
           "branch",
           "ps2/newlib",
           "arc-insight_6_8-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-2_14-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-2_14-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-2_14-branch"
         ]
       },
       {
@@ -601,6 +939,90 @@
         ]
       },
       {
+        "name": "ps2/newlib — branch: cagney_bigcore-20040122-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_bigcore-20040122-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cagney_bigcore-20040122-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cagney_convert-20030606-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_convert-20030606-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cagney_convert-20030606-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cagney_fileio-20030521-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_fileio-20030521-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cagney_fileio-20030521-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cagney_frameaddr-20030403-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_frameaddr-20030403-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cagney_frameaddr-20030403-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cagney_framebase-20030326-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_framebase-20030326-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cagney_framebase-20030326-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cagney_lazyid-20030317-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_lazyid-20030317-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cagney_lazyid-20030317-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cagney_offbyone-20030303-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_offbyone-20030303-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cagney_offbyone-20030303-branch"
+        ]
+      },
+      {
         "name": "ps2/newlib — branch: cagney_tramp-20040309-branch",
         "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_tramp-20040309-branch",
         "keywords": [
@@ -610,6 +1032,42 @@
           "branch",
           "ps2/newlib",
           "cagney_tramp-20040309-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cagney_writestrings-20030508-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_writestrings-20030508-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cagney_writestrings-20030508-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cagney_x86i386-20030821-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_x86i386-20030821-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cagney_x86i386-20030821-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cagney-unwind-20030108-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney-unwind-20030108-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cagney-unwind-20030108-branch"
         ]
       },
       {
@@ -625,6 +1083,18 @@
         ]
       },
       {
+        "name": "ps2/newlib — branch: carlton_dictionary-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/carlton_dictionary-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "carlton_dictionary-branch"
+        ]
+      },
+      {
         "name": "ps2/newlib — branch: cgen-1_1-branch",
         "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cgen-1_1-branch",
         "keywords": [
@@ -634,6 +1104,30 @@
           "branch",
           "ps2/newlib",
           "cgen-1_1-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cgf-deleteme",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cgf-deleteme",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cgf-deleteme"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cgf-dev-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cgf-dev-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cgf-dev-branch"
         ]
       },
       {
@@ -682,6 +1176,54 @@
           "branch",
           "ps2/newlib",
           "cr-0x5f1"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cr-0x9b",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9b",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cr-0x9b"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cr-0x9c",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9c",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cr-0x9c"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cr-0x9d",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9d",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cr-0x9d"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cr-0x9e",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9e",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cr-0x9e"
         ]
       },
       {
@@ -829,6 +1371,18 @@
         ]
       },
       {
+        "name": "ps2/newlib — branch: drow-cplus-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/drow-cplus-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "drow-cplus-branch"
+        ]
+      },
+      {
         "name": "ps2/newlib — branch: drow-reverse-20070409-branch",
         "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/drow-reverse-20070409-branch",
         "keywords": [
@@ -913,6 +1467,18 @@
         ]
       },
       {
+        "name": "ps2/newlib — branch: ezannoni_pie-20030916-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ezannoni_pie-20030916-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "ezannoni_pie-20030916-branch"
+        ]
+      },
+      {
         "name": "ps2/newlib — branch: ezannoni_pie-20040323-branch",
         "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ezannoni_pie-20040323-branch",
         "keywords": [
@@ -946,6 +1512,18 @@
           "branch",
           "ps2/newlib",
           "fp-zeuch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb_6_0-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_6_0-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb_6_0-branch"
         ]
       },
       {
@@ -1201,6 +1779,18 @@
         ]
       },
       {
+        "name": "ps2/newlib — branch: interps-20030202-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/interps-20030202-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "interps-20030202-branch"
+        ]
+      },
+      {
         "name": "ps2/newlib — branch: jimb-gdb_6_2-e500-branch",
         "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/jimb-gdb_6_2-e500-branch",
         "keywords": [
@@ -1210,6 +1800,42 @@
           "branch",
           "ps2/newlib",
           "jimb-gdb_6_2-e500-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: jimb-ppc64-linux-20030509-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/jimb-ppc64-linux-20030509-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "jimb-ppc64-linux-20030509-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: jimb-ppc64-linux-20030528-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/jimb-ppc64-linux-20030528-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "jimb-ppc64-linux-20030528-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: jimb-ppc64-linux-20030613-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/jimb-ppc64-linux-20030613-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "jimb-ppc64-linux-20030613-branch"
         ]
       },
       {
@@ -1225,6 +1851,54 @@
         ]
       },
       {
+        "name": "ps2/newlib — branch: kettenis_i386newframe-20030406-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/kettenis_i386newframe-20030406-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "kettenis_i386newframe-20030406-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: kettenis_i386newframe-20030419-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/kettenis_i386newframe-20030419-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "kettenis_i386newframe-20030419-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: kettenis_sparc-20030918-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/kettenis_sparc-20030918-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "kettenis_sparc-20030918-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: kettenis-i386newframe-20030308-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/kettenis-i386newframe-20030308-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "kettenis-i386newframe-20030308-branch"
+        ]
+      },
+      {
         "name": "ps2/newlib — branch: master",
         "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/master",
         "keywords": [
@@ -1234,6 +1908,18 @@
           "branch",
           "ps2/newlib",
           "master"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: mingw-std-ns-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/mingw-std-ns-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "mingw-std-ns-branch"
         ]
       },
       {
@@ -1378,6 +2064,18 @@
           "branch",
           "ps2/newlib",
           "noreparent"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: offbyone-20030313-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/offbyone-20030313-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "offbyone-20030313-branch"
         ]
       },
       {
@@ -1537,6 +2235,114 @@
         ]
       },
       {
+        "name": "ps2/newlib — branch: unlabeled-1.105.2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.105.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.105.2"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.106.2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.106.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.106.2"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.106.8",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.106.8",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.106.8"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.120.2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.120.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.120.2"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.133.2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.133.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.133.2"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.142.2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.142.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.142.2"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.1710.2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.1710.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.1710.2"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.1806.2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.1806.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.1806.2"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.1856.2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.1856.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.1856.2"
+        ]
+      },
+      {
         "name": "ps2/newlib — branch: unlabeled-1.2.2",
         "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.2.2",
         "keywords": [
@@ -1561,6 +2367,102 @@
         ]
       },
       {
+        "name": "ps2/newlib — branch: unlabeled-1.23.2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.23.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.23.2"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.248.2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.248.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.248.2"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.253.2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.253.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.253.2"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.5.16",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.5.16",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.5.16"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.64.2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.64.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.64.2"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.81.2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.81.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.81.2"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.86.2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.86.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.86.2"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.93.2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.93.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.93.2"
+        ]
+      },
+      {
         "name": "ps2/newlib — branch: vendor",
         "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/vendor",
         "keywords": [
@@ -1570,6 +2472,42 @@
           "branch",
           "ps2/newlib",
           "vendor"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: Z-emcb-cygwin_daemon",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/Z-emcb-cygwin_daemon",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "Z-emcb-cygwin_daemon"
+        ]
+      },
+      {
+        "name": "ps2/ninja — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/ninja/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/ninja",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/ogg — branch: main",
+        "url": "https://git.techwritescode.dev/ps2/ogg/src/branch/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/ogg",
+          "main"
         ]
       },
       {
@@ -1593,6 +2531,30 @@
           "external Git",
           "branch",
           "ps2/openvcl",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers — branch: main",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/ps2_drivers",
+          "main"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/ps2_drivers",
           "master"
         ]
       },
@@ -1633,6 +2595,18 @@
         ]
       },
       {
+        "name": "ps2/ps2client — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/ps2client/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/ps2client",
+          "master"
+        ]
+      },
+      {
         "name": "ps2/ps2gl — branch: master",
         "url": "https://git.techwritescode.dev/ps2/ps2gl/src/branch/master",
         "keywords": [
@@ -1641,6 +2615,18 @@
           "external Git",
           "branch",
           "ps2/ps2gl",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/ps2link — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/ps2link/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/ps2link",
           "master"
         ]
       },
@@ -1801,6 +2787,18 @@
         ]
       },
       {
+        "name": "ps2/srxfixup — branch: main",
+        "url": "https://git.techwritescode.dev/ps2/srxfixup/src/branch/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/srxfixup",
+          "main"
+        ]
+      },
+      {
         "name": "ps2/toolchain — branch: canadian-cross-windows",
         "url": "https://git.techwritescode.dev/ps2/toolchain/src/branch/canadian-cross-windows",
         "keywords": [
@@ -1835,6 +2833,18 @@
           "ps2/tools",
           "main"
         ]
+      },
+      {
+        "name": "ps2/vorbis — branch: main",
+        "url": "https://git.techwritescode.dev/ps2/vorbis/src/branch/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/vorbis",
+          "main"
+        ]
       }
     ]
   },
@@ -1842,6 +2852,2848 @@
     "category": "External Git — Nested Projects & Branch Internals Live",
     "description": "Branch-specific nested tools, examples, modules, ports and project roots found inside non-GitHub PS2 repositories.",
     "links": [
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — ee_core",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/ee_core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "ee_core"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — labs/genvmclab",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/labs/genvmclab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "labs/genvmclab"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — labs/lwnbdsvr",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/labs/lwnbdsvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "labs/lwnbdsvr"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — labs/opltestiso",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/labs/opltestiso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "labs/opltestiso"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — labs/opltestiso/ee",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/labs/opltestiso/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "labs/opltestiso/ee"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — labs/opltestiso/iop",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/labs/opltestiso/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "labs/opltestiso/iop"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — labs/opltestiso/iop/freeram",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/labs/opltestiso/iop/freeram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "labs/opltestiso/iop/freeram"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — labs/smblab",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/labs/smblab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "labs/smblab"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/bdmevent",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/bdmevent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/bdmevent"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/debug/ps2link",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/debug/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/debug/ps2link"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/debug/udptty-ingame",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/debug/udptty-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/debug/udptty-ingame"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/ds34bt",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/ds34bt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/ds34bt"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/ds34bt/ee",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/ds34bt/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/ds34bt/ee"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/ds34bt/iop",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/ds34bt/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/ds34bt/iop"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/ds34usb",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/ds34usb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/ds34usb"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/ds34usb/ee",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/ds34usb/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/ds34usb/ee"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/ds34usb/iop",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/ds34usb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/ds34usb/iop"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/hdd/xhdd",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/hdd/xhdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/hdd/xhdd"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/iopcore/cdvdfsv",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/iopcore/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/iopcore/cdvdfsv"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/iopcore/cdvdman",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/iopcore/cdvdman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/iopcore/cdvdman"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/iopcore/imgdrv",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/iopcore/imgdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/iopcore/imgdrv"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/iopcore/patches/apemodpatch",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/iopcore/patches/apemodpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/iopcore/patches/apemodpatch"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/iopcore/patches/cleareffects",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/iopcore/patches/cleareffects",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/iopcore/patches/cleareffects"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/iopcore/patches/f2techioppatch",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/iopcore/patches/f2techioppatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/iopcore/patches/f2techioppatch"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/iopcore/patches/iremsndpatch",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/iopcore/patches/iremsndpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/iopcore/patches/iremsndpatch"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/iopcore/resetspu",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/iopcore/resetspu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/iopcore/resetspu"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/isofs",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/isofs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/isofs"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/mcemu",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/mcemu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/mcemu"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/network/httpclient",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/network/httpclient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/network/httpclient"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/network/nbns",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/network/nbns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/network/nbns"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/network/smap-ingame",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/network/smap-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/network/smap-ingame"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/network/smbinit",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/network/smbinit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/network/smbinit"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/network/SMSTCPIP",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/network/SMSTCPIP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/network/SMSTCPIP"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/network/SMSUTILS",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/network/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/network/SMSUTILS"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/pademu",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/pademu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/pademu"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/vmc/genvmc",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/modules/vmc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/vmc/genvmc"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — pc",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "pc"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — pc/genvmc",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/pc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "pc/genvmc"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — pc/iso2opl",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/pc/iso2opl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "pc/iso2opl"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — pc/opl2iso",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/copilot/apply-missing-labels-and-comments/pc/opl2iso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "pc/opl2iso"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — ee_core",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/ee_core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "ee_core"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — labs/genvmclab",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/labs/genvmclab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "labs/genvmclab"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — labs/lwnbdsvr",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/labs/lwnbdsvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "labs/lwnbdsvr"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — labs/opltestiso",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/labs/opltestiso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "labs/opltestiso"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — labs/opltestiso/ee",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/labs/opltestiso/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "labs/opltestiso/ee"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — labs/opltestiso/iop",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/labs/opltestiso/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "labs/opltestiso/iop"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — labs/opltestiso/iop/freeram",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/labs/opltestiso/iop/freeram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "labs/opltestiso/iop/freeram"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — labs/smblab",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/labs/smblab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "labs/smblab"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/bdmevent",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/bdmevent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/bdmevent"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/debug/ps2link",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/debug/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/debug/ps2link"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/debug/udptty-ingame",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/debug/udptty-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/debug/udptty-ingame"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/ds34bt",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/ds34bt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/ds34bt"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/ds34bt/ee",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/ds34bt/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/ds34bt/ee"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/ds34bt/iop",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/ds34bt/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/ds34bt/iop"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/ds34usb",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/ds34usb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/ds34usb"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/ds34usb/ee",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/ds34usb/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/ds34usb/ee"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/ds34usb/iop",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/ds34usb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/ds34usb/iop"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/hdd/xhdd",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/hdd/xhdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/hdd/xhdd"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/iopcore/cdvdfsv",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/iopcore/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/iopcore/cdvdfsv"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/iopcore/cdvdman",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/iopcore/cdvdman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/iopcore/cdvdman"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/iopcore/imgdrv",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/iopcore/imgdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/iopcore/imgdrv"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/iopcore/patches/apemodpatch",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/iopcore/patches/apemodpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/iopcore/patches/apemodpatch"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/iopcore/patches/cleareffects",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/iopcore/patches/cleareffects",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/iopcore/patches/cleareffects"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/iopcore/patches/f2techioppatch",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/iopcore/patches/f2techioppatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/iopcore/patches/f2techioppatch"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/iopcore/patches/iremsndpatch",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/iopcore/patches/iremsndpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/iopcore/patches/iremsndpatch"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/iopcore/resetspu",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/iopcore/resetspu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/iopcore/resetspu"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/isofs",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/isofs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/isofs"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/mcemu",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/mcemu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/mcemu"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/network/httpclient",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/network/httpclient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/network/httpclient"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/network/nbns",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/network/nbns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/network/nbns"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/network/smap-ingame",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/network/smap-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/network/smap-ingame"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/network/smbinit",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/network/smbinit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/network/smbinit"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/network/SMSTCPIP",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/network/SMSTCPIP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/network/SMSTCPIP"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/network/SMSUTILS",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/network/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/network/SMSUTILS"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/pademu",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/pademu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/pademu"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — modules/vmc/genvmc",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/modules/vmc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "modules/vmc/genvmc"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — pc",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "pc"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — pc/genvmc",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/pc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "pc/genvmc"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — pc/iso2opl",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/pc/iso2opl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "pc/iso2opl"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@main — pc/opl2iso",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/main/pc/opl2iso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "main",
+          "pc/opl2iso"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — ee_core",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/ee_core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "ee_core"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — labs/genvmclab",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/labs/genvmclab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "labs/genvmclab"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — labs/lwnbdsvr",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/labs/lwnbdsvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "labs/lwnbdsvr"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — labs/opltestiso",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/labs/opltestiso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "labs/opltestiso"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — labs/opltestiso/ee",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/labs/opltestiso/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "labs/opltestiso/ee"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — labs/opltestiso/iop",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/labs/opltestiso/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "labs/opltestiso/iop"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — labs/opltestiso/iop/freeram",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/labs/opltestiso/iop/freeram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "labs/opltestiso/iop/freeram"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — labs/smblab",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/labs/smblab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "labs/smblab"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/bdmevent",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/bdmevent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/bdmevent"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/debug/ps2link",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/debug/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/debug/ps2link"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/debug/udptty-ingame",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/debug/udptty-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/debug/udptty-ingame"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/ds34bt",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/ds34bt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/ds34bt"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/ds34bt/ee",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/ds34bt/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/ds34bt/ee"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/ds34bt/iop",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/ds34bt/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/ds34bt/iop"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/ds34usb",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/ds34usb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/ds34usb"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/ds34usb/ee",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/ds34usb/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/ds34usb/ee"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/ds34usb/iop",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/ds34usb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/ds34usb/iop"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/hdd/xhdd",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/hdd/xhdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/hdd/xhdd"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/iopcore/cdvdfsv",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/iopcore/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/iopcore/cdvdfsv"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/iopcore/cdvdman",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/iopcore/cdvdman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/iopcore/cdvdman"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/iopcore/imgdrv",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/iopcore/imgdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/iopcore/imgdrv"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/iopcore/patches/apemodpatch",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/iopcore/patches/apemodpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/iopcore/patches/apemodpatch"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/iopcore/patches/cleareffects",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/iopcore/patches/cleareffects",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/iopcore/patches/cleareffects"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/iopcore/patches/f2techioppatch",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/iopcore/patches/f2techioppatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/iopcore/patches/f2techioppatch"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/iopcore/patches/iremsndpatch",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/iopcore/patches/iremsndpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/iopcore/patches/iremsndpatch"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/iopcore/resetspu",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/iopcore/resetspu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/iopcore/resetspu"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/isofs",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/isofs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/isofs"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/mcemu",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/mcemu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/mcemu"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/network/httpclient",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/network/httpclient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/network/httpclient"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/network/nbns",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/network/nbns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/network/nbns"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/network/smap-ingame",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/network/smap-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/network/smap-ingame"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/network/smbinit",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/network/smbinit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/network/smbinit"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/network/SMSTCPIP",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/network/SMSTCPIP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/network/SMSTCPIP"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/network/SMSUTILS",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/network/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/network/SMSUTILS"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/pademu",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/pademu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/pademu"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — modules/vmc/genvmc",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/modules/vmc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "modules/vmc/genvmc"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — pc",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "pc"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — pc/genvmc",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/pc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "pc/genvmc"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — pc/iso2opl",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/pc/iso2opl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "pc/iso2opl"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master — pc/opl2iso",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master/pc/opl2iso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master",
+          "pc/opl2iso"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — ee_core",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/ee_core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "ee_core"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — labs/genvmclab",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/labs/genvmclab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "labs/genvmclab"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — labs/lwnbdsvr",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/labs/lwnbdsvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "labs/lwnbdsvr"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — labs/opltestiso",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/labs/opltestiso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "labs/opltestiso"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — labs/opltestiso/ee",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/labs/opltestiso/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "labs/opltestiso/ee"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — labs/opltestiso/iop",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/labs/opltestiso/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "labs/opltestiso/iop"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — labs/opltestiso/iop/freeram",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/labs/opltestiso/iop/freeram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "labs/opltestiso/iop/freeram"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — labs/smblab",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/labs/smblab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "labs/smblab"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/bdmevent",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/bdmevent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/bdmevent"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/debug/ps2link",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/debug/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/debug/ps2link"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/debug/udptty-ingame",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/debug/udptty-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/debug/udptty-ingame"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/ds34bt",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/ds34bt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/ds34bt"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/ds34bt/ee",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/ds34bt/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/ds34bt/ee"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/ds34bt/iop",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/ds34bt/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/ds34bt/iop"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/ds34usb",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/ds34usb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/ds34usb"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/ds34usb/ee",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/ds34usb/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/ds34usb/ee"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/ds34usb/iop",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/ds34usb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/ds34usb/iop"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/hdd/xhdd",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/hdd/xhdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/hdd/xhdd"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/iopcore/cdvdfsv",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/iopcore/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/iopcore/cdvdfsv"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/iopcore/cdvdman",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/iopcore/cdvdman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/iopcore/cdvdman"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/iopcore/imgdrv",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/iopcore/imgdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/iopcore/imgdrv"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/iopcore/patches/apemodpatch",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/iopcore/patches/apemodpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/iopcore/patches/apemodpatch"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/iopcore/patches/cleareffects",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/iopcore/patches/cleareffects",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/iopcore/patches/cleareffects"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/iopcore/patches/f2techioppatch",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/iopcore/patches/f2techioppatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/iopcore/patches/f2techioppatch"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/iopcore/patches/iremsndpatch",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/iopcore/patches/iremsndpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/iopcore/patches/iremsndpatch"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/iopcore/resetspu",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/iopcore/resetspu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/iopcore/resetspu"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/isofs",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/isofs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/isofs"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/mcemu",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/mcemu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/mcemu"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/network/httpclient",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/network/httpclient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/network/httpclient"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/network/nbns",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/network/nbns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/network/nbns"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/network/smap-ingame",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/network/smap-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/network/smap-ingame"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/network/smbinit",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/network/smbinit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/network/smbinit"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/network/SMSTCPIP",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/network/SMSTCPIP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/network/SMSTCPIP"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/network/SMSUTILS",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/network/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/network/SMSUTILS"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/pademu",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/pademu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/pademu"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — modules/vmc/genvmc",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/modules/vmc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "modules/vmc/genvmc"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — pc",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "pc"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — pc/genvmc",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/pc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "pc/genvmc"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — pc/iso2opl",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/pc/iso2opl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "pc/iso2opl"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@master_old — pc/opl2iso",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/master_old/pc/opl2iso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "master_old",
+          "pc/opl2iso"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — ee_core",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/ee_core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "ee_core"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — elfldr",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/elfldr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "elfldr"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — labs/genvmclab",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/labs/genvmclab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "labs/genvmclab"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — labs/lwnbdsvr",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/labs/lwnbdsvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "labs/lwnbdsvr"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — labs/smblab",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/labs/smblab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "labs/smblab"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/bdmevent",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/bdmevent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/bdmevent"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/debug/ioptrap",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/debug/ioptrap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/debug/ioptrap"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/debug/ps2link",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/debug/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/debug/ps2link"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/debug/udptty-ingame",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/debug/udptty-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/debug/udptty-ingame"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/ds34bt",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/ds34bt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/ds34bt"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/ds34bt/ee",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/ds34bt/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/ds34bt/ee"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/ds34bt/iop",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/ds34bt/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/ds34bt/iop"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/ds34usb",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/ds34usb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/ds34usb"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/ds34usb/ee",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/ds34usb/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/ds34usb/ee"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/ds34usb/iop",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/ds34usb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/ds34usb/iop"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/hdd/xhdd",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/hdd/xhdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/hdd/xhdd"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/iopcore/cdvdfsv",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/iopcore/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/cdvdfsv"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/iopcore/cdvdman",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/iopcore/cdvdman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/cdvdman"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/iopcore/eesync",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/iopcore/eesync",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/eesync"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/iopcore/imgdrv",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/iopcore/imgdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/imgdrv"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/iopcore/patches/apemodpatch",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/iopcore/patches/apemodpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/patches/apemodpatch"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/iopcore/patches/cleareffects",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/iopcore/patches/cleareffects",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/patches/cleareffects"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/iopcore/patches/f2techioppatch",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/iopcore/patches/f2techioppatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/patches/f2techioppatch"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/iopcore/patches/iremsndpatch",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/iopcore/patches/iremsndpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/patches/iremsndpatch"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/iopcore/resetspu",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/iopcore/resetspu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/resetspu"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/iopcore/udnl",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/iopcore/udnl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/udnl"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/iopcore/udnl-t300",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/iopcore/udnl-t300",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/udnl-t300"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/isofs",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/isofs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/isofs"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/mcemu",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/mcemu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/mcemu"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/network/httpclient",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/network/httpclient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/network/httpclient"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/network/lwnbdsvr",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/network/lwnbdsvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/network/lwnbdsvr"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/network/nbns",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/network/nbns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/network/nbns"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/network/smap-ingame",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/network/smap-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/network/smap-ingame"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/network/smbinit",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/network/smbinit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/network/smbinit"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/network/SMSTCPIP",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/network/SMSTCPIP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/network/SMSTCPIP"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/network/SMSUTILS",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/network/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/network/SMSUTILS"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/pademu",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/pademu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/pademu"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — modules/vmc/genvmc",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/modules/vmc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/vmc/genvmc"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — pc",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "pc"
+        ]
+      },
+      {
+        "name": "Mirrors/Open-PS2-Loader@v1.1.z — pc/genvmc",
+        "url": "https://git.wisellama.rocks/Mirrors/Open-PS2-Loader/src/branch/v1.1.z/pc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "Mirrors/Open-PS2-Loader",
+          "v1.1.z",
+          "pc/genvmc"
+        ]
+      },
+      {
+        "name": "modeco80/ps2rom@master — rom",
+        "url": "https://git.crustywindo.ws/modeco80/ps2rom/src/branch/master/rom",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "modeco80/ps2rom",
+          "master",
+          "rom"
+        ]
+      },
+      {
+        "name": "modeco80/ps2rom@master — rom/ee",
+        "url": "https://git.crustywindo.ws/modeco80/ps2rom/src/branch/master/rom/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "modeco80/ps2rom",
+          "master",
+          "rom/ee"
+        ]
+      },
+      {
+        "name": "modeco80/ps2rom@master — rom/iop",
+        "url": "https://git.crustywindo.ws/modeco80/ps2rom/src/branch/master/rom/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "modeco80/ps2rom",
+          "master",
+          "rom/iop"
+        ]
+      },
       {
         "name": "ps2/binutils-gdb@master — bfd",
         "url": "https://git.techwritescode.dev/ps2/binutils-gdb/src/branch/master/bfd",
@@ -1868,6 +5720,162 @@
           "ps2/binutils-gdb",
           "master",
           "binutils"
+        ]
+      },
+      {
+        "name": "ps2/freetype@master — builds/amiga",
+        "url": "https://git.techwritescode.dev/ps2/freetype/src/branch/master/builds/amiga",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/freetype",
+          "master",
+          "builds/amiga"
+        ]
+      },
+      {
+        "name": "ps2/freetype@master — builds/mac",
+        "url": "https://git.techwritescode.dev/ps2/freetype/src/branch/master/builds/mac",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/freetype",
+          "master",
+          "builds/mac"
+        ]
+      },
+      {
+        "name": "ps2/freetype@master — docs",
+        "url": "https://git.techwritescode.dev/ps2/freetype/src/branch/master/docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/freetype",
+          "master",
+          "docs"
+        ]
+      },
+      {
+        "name": "ps2/freetype@master — objs",
+        "url": "https://git.techwritescode.dev/ps2/freetype/src/branch/master/objs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/freetype",
+          "master",
+          "objs"
+        ]
+      },
+      {
+        "name": "ps2/freetype@master — src/bdf",
+        "url": "https://git.techwritescode.dev/ps2/freetype/src/branch/master/src/bdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/freetype",
+          "master",
+          "src/bdf"
+        ]
+      },
+      {
+        "name": "ps2/freetype@master — src/gxvalid",
+        "url": "https://git.techwritescode.dev/ps2/freetype/src/branch/master/src/gxvalid",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/freetype",
+          "master",
+          "src/gxvalid"
+        ]
+      },
+      {
+        "name": "ps2/freetype@master — src/pcf",
+        "url": "https://git.techwritescode.dev/ps2/freetype/src/branch/master/src/pcf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/freetype",
+          "master",
+          "src/pcf"
+        ]
+      },
+      {
+        "name": "ps2/freetype@master — src/tools",
+        "url": "https://git.techwritescode.dev/ps2/freetype/src/branch/master/src/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/freetype",
+          "master",
+          "src/tools"
+        ]
+      },
+      {
+        "name": "ps2/freetype@master — src/tools/ftrandom",
+        "url": "https://git.techwritescode.dev/ps2/freetype/src/branch/master/src/tools/ftrandom",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/freetype",
+          "master",
+          "src/tools/ftrandom"
+        ]
+      },
+      {
+        "name": "ps2/freetype@master — subprojects/dlg",
+        "url": "https://git.techwritescode.dev/ps2/freetype/src/branch/master/subprojects/dlg",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/freetype",
+          "master",
+          "subprojects/dlg",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "ps2/freetype@master — tests",
+        "url": "https://git.techwritescode.dev/ps2/freetype/src/branch/master/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/freetype",
+          "master",
+          "tests"
         ]
       },
       {
@@ -2025,6 +6033,328 @@
         ]
       },
       {
+        "name": "ps2/libjpeg-turbo@master — fuzz",
+        "url": "https://git.techwritescode.dev/ps2/libjpeg-turbo/src/branch/master/fuzz",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libjpeg-turbo",
+          "master",
+          "fuzz"
+        ]
+      },
+      {
+        "name": "ps2/libjpeg-turbo@master — java",
+        "url": "https://git.techwritescode.dev/ps2/libjpeg-turbo/src/branch/master/java",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libjpeg-turbo",
+          "master",
+          "java"
+        ]
+      },
+      {
+        "name": "ps2/libjpeg-turbo@master — sharedlib",
+        "url": "https://git.techwritescode.dev/ps2/libjpeg-turbo/src/branch/master/sharedlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libjpeg-turbo",
+          "master",
+          "sharedlib"
+        ]
+      },
+      {
+        "name": "ps2/libjpeg-turbo@master — simd",
+        "url": "https://git.techwritescode.dev/ps2/libjpeg-turbo/src/branch/master/simd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libjpeg-turbo",
+          "master",
+          "simd"
+        ]
+      },
+      {
+        "name": "ps2/libjpeg-turbo@master — src/md5",
+        "url": "https://git.techwritescode.dev/ps2/libjpeg-turbo/src/branch/master/src/md5",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libjpeg-turbo",
+          "master",
+          "src/md5"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — ci",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/ci",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "ci"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — contrib/arm-neon",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/contrib/arm-neon",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "contrib/arm-neon"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — contrib/conftest",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/contrib/conftest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "contrib/conftest"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — contrib/examples",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/contrib/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "contrib/examples"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — contrib/gregbook",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/contrib/gregbook",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "contrib/gregbook"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — contrib/mips-msa",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/contrib/mips-msa",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "contrib/mips-msa"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — contrib/pngexif",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/contrib/pngexif",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "contrib/pngexif"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — contrib/pngminim",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/contrib/pngminim",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "contrib/pngminim"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — contrib/pngminim/decoder",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/contrib/pngminim/decoder",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "contrib/pngminim/decoder"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — contrib/pngminim/encoder",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/contrib/pngminim/encoder",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "contrib/pngminim/encoder"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — contrib/pngminim/preader",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/contrib/pngminim/preader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "contrib/pngminim/preader"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — contrib/pngminus",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/contrib/pngminus",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "contrib/pngminus"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — contrib/pngsuite",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/contrib/pngsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "contrib/pngsuite"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — contrib/pngsuite/interlaced",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/contrib/pngsuite/interlaced",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "contrib/pngsuite/interlaced"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — contrib/powerpc-vsx",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/contrib/powerpc-vsx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "contrib/powerpc-vsx"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — contrib/tools",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/contrib/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "contrib/tools"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — scripts/autoconf",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/scripts/autoconf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "scripts/autoconf"
+        ]
+      },
+      {
+        "name": "ps2/libpng@master — scripts/cmake",
+        "url": "https://git.techwritescode.dev/ps2/libpng/src/branch/master/scripts/cmake",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/libpng",
+          "master",
+          "scripts/cmake"
+        ]
+      },
+      {
         "name": "ps2/masp@master — src",
         "url": "https://git.techwritescode.dev/ps2/masp/src/branch/master/src",
         "keywords": [
@@ -2064,6 +6394,20 @@
           "ps2/masp",
           "master",
           "test/unit"
+        ]
+      },
+      {
+        "name": "ps2/newlib@binutils-2_14-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-2_14-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "binutils-2_14-branch",
+          "include/mpw"
         ]
       },
       {
@@ -2123,6 +6467,188 @@
         ]
       },
       {
+        "name": "ps2/newlib@cagney_bigcore-20040122-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_bigcore-20040122-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cagney_bigcore-20040122-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cagney_convert-20030606-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_convert-20030606-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cagney_convert-20030606-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cagney_fileio-20030521-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_fileio-20030521-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cagney_fileio-20030521-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cagney_frameaddr-20030403-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_frameaddr-20030403-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cagney_frameaddr-20030403-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cagney_framebase-20030326-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_framebase-20030326-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cagney_framebase-20030326-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cagney_lazyid-20030317-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_lazyid-20030317-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cagney_lazyid-20030317-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cagney_offbyone-20030303-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_offbyone-20030303-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cagney_offbyone-20030303-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cagney_writestrings-20030508-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_writestrings-20030508-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cagney_writestrings-20030508-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cagney_x86i386-20030821-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_x86i386-20030821-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cagney_x86i386-20030821-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cagney-unwind-20030108-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney-unwind-20030108-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cagney-unwind-20030108-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@carlton_dictionary-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/carlton_dictionary-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "carlton_dictionary-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cgf-deleteme — winsup/cygwin/regexp",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cgf-deleteme/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cgf-deleteme",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cgf-dev-branch — winsup/cygwin/regexp",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cgf-dev-branch/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cgf-dev-branch",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
         "name": "ps2/newlib@cr-0x5f1 — newlib",
         "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x5f1/newlib",
         "keywords": [
@@ -2134,6 +6660,314 @@
           "ps2/newlib",
           "cr-0x5f1",
           "newlib"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9b — winsup/bz2lib",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9b/winsup/bz2lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9b",
+          "winsup/bz2lib"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9b — winsup/cygwin/regexp",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9b/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9b",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9b — winsup/mingw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9b/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9b",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9b — winsup/mingw/samples",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9b/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9b",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9b — winsup/testsuite",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9b/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9b",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9c — winsup/bz2lib",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9c/winsup/bz2lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9c",
+          "winsup/bz2lib"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9c — winsup/cygwin/regexp",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9c/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9c",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9c — winsup/mingw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9c/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9c",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9c — winsup/mingw/samples",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9c/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9c",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9c — winsup/testsuite",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9c/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9c",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9d — winsup/bz2lib",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9d/winsup/bz2lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9d",
+          "winsup/bz2lib"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9d — winsup/cygserver",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9d/winsup/cygserver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9d",
+          "winsup/cygserver"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9d — winsup/cygwin/regexp",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9d/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9d",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9d — winsup/mingw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9d/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9d",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9d — winsup/mingw/samples",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9d/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9d",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9d — winsup/testsuite",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9d/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9d",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9e — winsup/bz2lib",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9e/winsup/bz2lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9e",
+          "winsup/bz2lib"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9e — winsup/cygserver",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9e/winsup/cygserver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9e",
+          "winsup/cygserver"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9e — winsup/cygwin/regexp",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9e/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9e",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9e — winsup/mingw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9e/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9e",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9e — winsup/mingw/samples",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9e/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9e",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x9e — winsup/testsuite",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x9e/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x9e",
+          "winsup/testsuite"
         ]
       },
       {
@@ -2501,6 +7335,20 @@
         ]
       },
       {
+        "name": "ps2/newlib@drow-cplus-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/drow-cplus-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "drow-cplus-branch",
+          "include/mpw"
+        ]
+      },
+      {
         "name": "ps2/newlib@ee-v4.0.0 — libgloss",
         "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.0.0/libgloss",
         "keywords": [
@@ -2669,6 +7517,20 @@
         ]
       },
       {
+        "name": "ps2/newlib@ezannoni_pie-20030916-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ezannoni_pie-20030916-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "ezannoni_pie-20030916-branch",
+          "include/mpw"
+        ]
+      },
+      {
         "name": "ps2/newlib@fp-zeuch — libgloss",
         "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/fp-zeuch/libgloss",
         "keywords": [
@@ -2697,6 +7559,132 @@
         ]
       },
       {
+        "name": "ps2/newlib@gdb_6_0-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_6_0-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "gdb_6_0-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@interps-20030202-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/interps-20030202-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "interps-20030202-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@jimb-ppc64-linux-20030509-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/jimb-ppc64-linux-20030509-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "jimb-ppc64-linux-20030509-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@jimb-ppc64-linux-20030528-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/jimb-ppc64-linux-20030528-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "jimb-ppc64-linux-20030528-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@jimb-ppc64-linux-20030613-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/jimb-ppc64-linux-20030613-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "jimb-ppc64-linux-20030613-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@kettenis_i386newframe-20030406-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/kettenis_i386newframe-20030406-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "kettenis_i386newframe-20030406-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@kettenis_i386newframe-20030419-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/kettenis_i386newframe-20030419-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "kettenis_i386newframe-20030419-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@kettenis_sparc-20030918-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/kettenis_sparc-20030918-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "kettenis_sparc-20030918-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@kettenis-i386newframe-20030308-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/kettenis-i386newframe-20030308-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "kettenis-i386newframe-20030308-branch",
+          "include/mpw"
+        ]
+      },
+      {
         "name": "ps2/newlib@master — libgloss",
         "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/master/libgloss",
         "keywords": [
@@ -2722,6 +7710,34 @@
           "ps2/newlib",
           "master",
           "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@mingw-std-ns-branch — winsup/mingw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/mingw-std-ns-branch/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "mingw-std-ns-branch",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@mingw-std-ns-branch — winsup/mingw/samples",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/mingw-std-ns-branch/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "mingw-std-ns-branch",
+          "winsup/mingw/samples"
         ]
       },
       {
@@ -2848,6 +7864,20 @@
           "ps2/newlib",
           "newlib-csl-20060320-branch",
           "newlib"
+        ]
+      },
+      {
+        "name": "ps2/newlib@offbyone-20030313-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/offbyone-20030313-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "offbyone-20030313-branch",
+          "include/mpw"
         ]
       },
       {
@@ -3072,6 +8102,76 @@
           "ps2/newlib",
           "topic/ssp",
           "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@Z-emcb-cygwin_daemon — winsup/bz2lib",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/Z-emcb-cygwin_daemon/winsup/bz2lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "Z-emcb-cygwin_daemon",
+          "winsup/bz2lib"
+        ]
+      },
+      {
+        "name": "ps2/newlib@Z-emcb-cygwin_daemon — winsup/cygwin/regexp",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/Z-emcb-cygwin_daemon/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "Z-emcb-cygwin_daemon",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "ps2/newlib@Z-emcb-cygwin_daemon — winsup/mingw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/Z-emcb-cygwin_daemon/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "Z-emcb-cygwin_daemon",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@Z-emcb-cygwin_daemon — winsup/mingw/samples",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/Z-emcb-cygwin_daemon/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "Z-emcb-cygwin_daemon",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "ps2/newlib@Z-emcb-cygwin_daemon — winsup/testsuite",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/Z-emcb-cygwin_daemon/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "Z-emcb-cygwin_daemon",
+          "winsup/testsuite"
         ]
       },
       {
@@ -3322,6 +8422,538 @@
           "branch",
           "nested project",
           "ps2/openvcl",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/alldrivers_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/alldrivers_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/alldrivers_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/alldrivers_verbose_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/alldrivers_verbose_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/alldrivers_verbose_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/basic_elf_loader",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/basic_elf_loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/basic_elf_loader"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/filesystem_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/filesystem_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/filesystem_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/hdd_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/hdd_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/hdd_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/listdir_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/listdir_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/listdir_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/mtap_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/mtap_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/mtap_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/network_ee_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/network_ee_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/network_ee_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/network_iop_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/network_iop_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/network_iop_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/poweroff_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/poweroff_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/poweroff_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/select_test_ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/select_test_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/select_test_ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/select_test_iop",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/select_test_iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/select_test_iop"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/showiopinfo_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/showiopinfo_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/showiopinfo_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/tcp_burst_client_ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/tcp_burst_client_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/tcp_burst_client_ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/tcp_server_ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/tcp_server_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/tcp_server_ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/udp_echo_server_ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/udp_echo_server_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/udp_echo_server_ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — samples/wav_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/samples/wav_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "samples/wav_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@main — tools",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/main/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "main",
+          "tools"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/alldrivers_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/alldrivers_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/alldrivers_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/alldrivers_verbose_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/alldrivers_verbose_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/alldrivers_verbose_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/basic_elf_loader",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/basic_elf_loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/basic_elf_loader"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/filesystem_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/filesystem_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/filesystem_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/hdd_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/hdd_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/hdd_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/listdir_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/listdir_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/listdir_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/mtap_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/mtap_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/mtap_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/network_ee_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/network_ee_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/network_ee_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/network_iop_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/network_iop_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/network_iop_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/poweroff_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/poweroff_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/poweroff_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/select_test_ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/select_test_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/select_test_ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/select_test_iop",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/select_test_iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/select_test_iop"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/showiopinfo_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/showiopinfo_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/showiopinfo_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/tcp_burst_client_ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/tcp_burst_client_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/tcp_burst_client_ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/tcp_server_ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/tcp_server_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/tcp_server_ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/udp_echo_server_ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/udp_echo_server_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/udp_echo_server_ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — samples/wav_sample",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/samples/wav_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
+          "master",
+          "samples/wav_sample"
+        ]
+      },
+      {
+        "name": "ps2/ps2_drivers@master — tools",
+        "url": "https://git.techwritescode.dev/ps2/ps2_drivers/src/branch/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2_drivers",
           "master",
           "tools"
         ]
@@ -3663,6 +9295,34 @@
         ]
       },
       {
+        "name": "ps2/ps2link@master — ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2link/src/branch/master/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2link",
+          "master",
+          "ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2link@master — iop",
+        "url": "https://git.techwritescode.dev/ps2/ps2link/src/branch/master/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2link",
+          "master",
+          "iop"
+        ]
+      },
+      {
         "name": "ps2/toolchain@canadian-cross-windows — docker",
         "url": "https://git.techwritescode.dev/ps2/toolchain/src/branch/canadian-cross-windows/docker",
         "keywords": [
@@ -3744,6 +9404,90 @@
           "ps2/toolchain",
           "main",
           "iop"
+        ]
+      },
+      {
+        "name": "ps2/vorbis@main — examples",
+        "url": "https://git.techwritescode.dev/ps2/vorbis/src/branch/main/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/vorbis",
+          "main",
+          "examples"
+        ]
+      },
+      {
+        "name": "ps2/vorbis@main — lib",
+        "url": "https://git.techwritescode.dev/ps2/vorbis/src/branch/main/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/vorbis",
+          "main",
+          "lib"
+        ]
+      },
+      {
+        "name": "ps2/vorbis@main — test",
+        "url": "https://git.techwritescode.dev/ps2/vorbis/src/branch/main/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/vorbis",
+          "main",
+          "test"
+        ]
+      },
+      {
+        "name": "ps2/vorbis@main — win32/VS2005",
+        "url": "https://git.techwritescode.dev/ps2/vorbis/src/branch/main/win32/VS2005",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/vorbis",
+          "main",
+          "win32/VS2005"
+        ]
+      },
+      {
+        "name": "ps2/vorbis@main — win32/VS2008",
+        "url": "https://git.techwritescode.dev/ps2/vorbis/src/branch/main/win32/VS2008",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/vorbis",
+          "main",
+          "win32/VS2008"
+        ]
+      },
+      {
+        "name": "ps2/vorbis@main — win32/VS2010",
+        "url": "https://git.techwritescode.dev/ps2/vorbis/src/branch/main/win32/VS2010",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/vorbis",
+          "main",
+          "win32/VS2010"
         ]
       }
     ]
