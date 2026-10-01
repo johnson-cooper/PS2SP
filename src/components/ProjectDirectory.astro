@@ -1,21 +1,22 @@
 ---
-import { categoryLabel, formatDate, projectUpdatedAt } from "../lib/catalog";
+import { categoryLabel, formatDate } from "../lib/catalog";
+import type { SoftwareCatalogEntry } from "../lib/software";
 
 interface Props {
-  projects: any[];
+  entries: SoftwareCatalogEntry[];
   showCategoryFilter?: boolean;
   heading?: string;
   description?: string;
 }
 
 const {
-  projects,
+  entries,
   showCategoryFilter = true,
   heading,
   description
 } = Astro.props;
 
-const categories = [...new Set(projects.flatMap((project) => project.data.categories))].sort((a, b) =>
+const categories = [...new Set(entries.flatMap((entry) => entry.categories))].sort((a, b) =>
   categoryLabel(a).localeCompare(categoryLabel(b))
 );
 const ps2Symbols = ["△", "○", "×", "□"];
@@ -38,7 +39,7 @@ const categorySymbols = new Map(categories.map((category, index) => [category, p
         type="search"
         placeholder="Search name, summary, tags, features…"
         autocomplete="off"
-        aria-label="Search software projects"
+        aria-label="Search software"
       />
       <kbd>/</kbd>
     </label>
@@ -64,8 +65,8 @@ const categorySymbols = new Map(categories.map((category, index) => [category, p
   </div>
 
   <div class="directory-summary" aria-live="polite">
-    <strong data-project-count>{projects.length}</strong>
-    <span>projects shown</span>
+    <strong data-project-count>{entries.length}</strong>
+    <span>software entries shown</span>
   </div>
 
   <div class="project-index" data-project-list>
@@ -77,54 +78,54 @@ const categorySymbols = new Map(categories.map((category, index) => [category, p
       <span>Activity</span>
     </div>
 
-    {projects.map((project, index) => {
-      const updated = projectUpdatedAt(project);
-      const updatedMs = new Date(updated).getTime() || 0;
-      const releaseMs = new Date(project.data.latestRelease.publishedAt ?? 0).getTime() || 0;
+    {entries.map((entry, index) => {
+      const updatedMs = entry.updatedAt ? (new Date(entry.updatedAt).getTime() || 0) : 0;
       const searchText = [
-        project.data.name,
-        project.data.summary,
-        ...project.data.tags,
-        ...project.data.features,
-        ...project.data.categories.map(categoryLabel)
+        entry.name,
+        entry.summary,
+        ...entry.tags,
+        ...entry.features,
+        ...entry.categories.map(categoryLabel)
       ].join(" ").toLowerCase();
 
       return (
         <a
           class="project-index-row"
-          href={`/project/${project.data.slug}`}
+          href={entry.href}
+          target={entry.external ? "_blank" : undefined}
+          rel={entry.external ? "noopener noreferrer" : undefined}
           data-project-row
           data-search={searchText}
-          data-categories={project.data.categories.join(" ")}
-          data-name={project.data.name.toLowerCase()}
+          data-categories={entry.categories.join(" ")}
+          data-name={entry.name.toLowerCase()}
           data-updated={updatedMs}
-          data-release={releaseMs}
+          data-release={updatedMs}
         >
           <span class="project-index-number">{String(index + 1).padStart(3, "0")}</span>
           <span class="project-index-main">
-            <strong>{project.data.name}</strong>
-            <span>{project.data.summary}</span>
+            <strong>{entry.name}</strong>
+            <span>{entry.summary}</span>
           </span>
           <span class="project-index-type">
-            <span class="status-dot" data-state={project.data.repository.archived ? "archived" : "tracked"}></span>
+            <span class="status-dot" data-state={entry.archived ? "archived" : entry.sourceKind === "resource" ? "external" : "tracked"}></span>
             <span class="category-badge">
-              <span class="ps2-symbol" aria-hidden="true">{categorySymbols.get(project.data.categories[0] ?? "uncategorized") ?? "◇"}</span>
-              <span>{categoryLabel(project.data.categories[0] ?? "uncategorized")}</span>
+              <span class="ps2-symbol" aria-hidden="true">{categorySymbols.get(entry.categories[0] ?? "uncategorized") ?? "◇"}</span>
+              <span>{categoryLabel(entry.categories[0] ?? "uncategorized")}</span>
             </span>
           </span>
           <span class="project-index-release">
-            {project.data.latestRelease.tag ?? "—"}
+            {entry.releaseTag ?? (entry.sourceKind === "resource" ? "external" : "—")}
           </span>
           <span class="project-index-activity">
-            <time datetime={updated}>{formatDate(updated)}</time>
-            <span class="row-arrow" aria-hidden="true">↗</span>
+            <time datetime={entry.updatedAt ?? undefined}>{entry.updatedAt ? formatDate(entry.updatedAt) : "Indexed"}</time>
+            <span class="row-arrow" aria-hidden="true">{entry.external ? "↗" : "→"}</span>
           </span>
         </a>
       );
     })}
   </div>
 
-  <p class="empty directory-empty" data-project-empty hidden>No projects match those filters.</p>
+  <p class="empty directory-empty" data-project-empty hidden>No software entries match those filters.</p>
 
   <script>
     const roots = document.querySelectorAll<HTMLElement>("[data-project-directory]");
