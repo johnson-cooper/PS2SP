@@ -660,6 +660,25 @@
           "Russian",
           "forum"
         ]
+      },
+      {
+        "name": "ROM Version Checker",
+        "url": "https://github.com/slimpuggamer/ROMVersionChecker",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ROM version",
+          "diagnostic",
+          "utility",
+          "System Updates",
+          "MechaPwn",
+          "ProtoPwn",
+          "FreeDVDBoot",
+          "OpenTuna",
+          "exploit compatibility",
+          "homebrew",
+          "GitHub"
+        ]
       }
     ]
   },
