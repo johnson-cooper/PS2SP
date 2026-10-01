@@ -26,5 +26,5 @@ const { category, entries } = Astro.props;
     <div class="page-count"><strong>{entries.length}</strong><span>{entries.length === 1 ? "entry" : "entries"}</span></div>
   </header>
 
-  <ProjectDirectory entries={entries} showCategoryFilter={false} />
+  <ProjectDirectory entries={entries} showCategoryFilter={false} scopeCategory={category} />
 </BaseLayout>
