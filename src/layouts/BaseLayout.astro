@@ -97,6 +97,12 @@ const navItems = [
         if (anchor.closest("[data-no-link-report], .credits-panel, .credit-card, .footer-credit")) return;
         if (!/^https?:$/i.test(new URL(anchor.href, window.location.href).protocol)) return;
 
+        const targetUrl = anchor.href;
+        const existingReportForUrl = [...document.querySelectorAll("[data-report-url]")].some(
+          (report) => report instanceof HTMLElement && report.dataset.reportUrl === targetUrl
+        );
+        if (existingReportForUrl) return;
+
         const explicitContainer = anchor.closest(
           ".resource-index-row, .project-index-item, .home-list-item, .activity-item, .timeline-item, .project-action-group"
         );
@@ -106,7 +112,6 @@ const navItems = [
           anchor.nextElementSibling?.classList.contains("resource-report-link")
         ) return;
 
-        const targetUrl = anchor.href;
         const label = anchor.textContent?.trim() || targetUrl;
         const issueTitle = `Broken link: ${targetUrl}`;
         const issueBody = [
@@ -128,6 +133,7 @@ const navItems = [
         report.textContent = "report";
         report.setAttribute("aria-label", `Report broken link: ${targetUrl}`);
         report.title = `Report broken link: ${targetUrl}`;
+        report.dataset.reportUrl = targetUrl;
         anchor.insertAdjacentElement("afterend", report);
       }
 
