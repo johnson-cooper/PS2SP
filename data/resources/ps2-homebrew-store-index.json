@@ -409,6 +409,44 @@
           "index2",
           "Index2 - PS2 Homebrew Store"
         ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Blog",
+        "url": "https://ps2homebrewstore.com/blog",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "blog",
+          "news",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — Thanks / Credits",
+        "url": "https://ps2homebrewstore.com/thanks",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew store",
+          "credits",
+          "community",
+          "contributors"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Store — OpenTuna to PS2BBL Barebones ELF",
+        "url": "https://ps2homebrewstore.com/exploits/assets/opentuna/OPENTUNAtoPS2BBL-BAREBONES.ELF",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OpenTuna",
+          "PS2BBL",
+          "ELF",
+          "exploit",
+          "bootloader",
+          "homebrew"
+        ]
       }
     ]
   }
