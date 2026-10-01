@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "forgejoOrganizations": [
+    {
+      "name": "PS2BUILD SDK",
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "organization": "ps2",
+      "trustedPs2": true
+    }
+  ],
+  "forgejoRepositories": [
+    {
+      "name": "ps2rom bare-metal replacement ROM",
+      "apiBase": "https://git.crustywindo.ws/api/v1",
+      "webBase": "https://git.crustywindo.ws",
+      "repository": "modeco80/ps2rom",
+      "trustedPs2": true
+    },
+    {
+      "name": "Open PS2 Loader Wisellama mirror",
+      "apiBase": "https://git.wisellama.rocks/api/v1",
+      "webBase": "https://git.wisellama.rocks",
+      "repository": "Mirrors/Open-PS2-Loader",
+      "trustedPs2": true
+    }
+  ]
+}
