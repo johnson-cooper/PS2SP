@@ -259,6 +259,56 @@
           "custom game",
           "Battletoads"
         ]
+      },
+      {
+        "name": "UsagiRu — PS2ME v1.4.0 Java Emulator",
+        "url": "https://usagiru.blogspot.com/2026/08/ps2-elf-emulador-java-ps2me-v140.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "emulator",
+          "Java",
+          "J2ME",
+          "PS2ME",
+          "ELF"
+        ]
+      },
+      {
+        "name": "UsagiRu — SNESTicle Revive v1.03",
+        "url": "https://usagiru.blogspot.com/2026/07/ps2-elf-snesticle-revive-v10.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "emulator",
+          "SNES",
+          "SNESTicle",
+          "Revive",
+          "ELF"
+        ]
+      },
+      {
+        "name": "UsagiRu — OptiCraft v0.6 for PS2",
+        "url": "https://usagiru.blogspot.com/2026/06/ps2-iso-opticraft-v06.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "game port",
+          "Minecraft",
+          "OptiCraft",
+          "custom game"
+        ]
       }
     ]
   }
