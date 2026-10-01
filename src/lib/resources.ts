@@ -90,6 +90,7 @@ import userCuratedProjectGroups from "../../data/resources/user-curated-projects
 import ps2LinuxNoipMirrorGroups from "../../data/resources/ps2-linux-noip-mirror-deep-2026-10-01.json";
 import lukaszPs2ProgrammingDeepGroups from "../../data/resources/lukasz-ps2-programming-deep-2026-10-01.json";
 import independentDevMemoryToolsWave2Groups from "../../data/resources/independent-dev-memory-tools-wave2-2026-10-01.json";
+import gbatempPs2DeepGroups from "../../data/resources/gbatemp-ps2-deep-2026-10-01.json";
 import awesomePs2EarlyDemoGroups from "../../data/resources/awesome-ps2-and-early-demos.json";
 import demozooPs2SceneWave2Groups from "../../data/resources/demozoo-ps2-scene-wave2.json";
 import githubOrgCompletionWave2Groups from "../../data/resources/github-org-completion-wave2.json";
