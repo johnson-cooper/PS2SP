@@ -1,0 +1,1039 @@
+[
+  {
+    "category": "User-Curated PS2 Development & Reverse Engineering",
+    "description": "Curated PS2 development, compiler, reverse-engineering, graphics, debugging, filesystem and low-level tooling references supplied for PS2SP expansion.",
+    "links": [
+      {
+        "name": "asm5900 — archived EE assembler site",
+        "url": "https://web.archive.org/web/20070403021619if_/http://wire.napalm-x.com:80/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "asm5900",
+          "EE",
+          "Emotion Engine",
+          "assembler",
+          "development",
+          "archive",
+          "Wayback",
+          "defunct"
+        ]
+      },
+      {
+        "name": "asm5900 — Wayback snapshot index",
+        "url": "https://web.archive.org/web/*/http://wire.napalm-x.com/*",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "asm5900",
+          "EE",
+          "Emotion Engine",
+          "assembler",
+          "development",
+          "archive",
+          "Wayback",
+          "defunct"
+        ]
+      },
+      {
+        "name": "C-Game-Modding-Utility",
+        "url": "https://github.com/C0mposer/C-Game-Modding-Utility",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "modding",
+          "utility",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "CLPS2C-Compiler",
+        "url": "https://github.com/NiV-L-A/CLPS2C-Compiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "compiler",
+          "cheats",
+          "cheat codes",
+          "development",
+          "CLPS2C",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "code-pbat",
+        "url": "https://github.com/techwritescode/code-pbat",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "development",
+          "tool",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "Grinder — Java on PlayStation 2",
+        "url": "https://www.mikekohn.net/micro/playstation2_java.php",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Java",
+          "Java Grinder",
+          "development",
+          "compiler"
+        ]
+      },
+      {
+        "name": "Java Grinder",
+        "url": "https://www.mikekohn.net/micro/java_grinder.php",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Java",
+          "Java Grinder",
+          "development",
+          "compiler"
+        ]
+      },
+      {
+        "name": "PAKer Utility",
+        "url": "https://github.com/israpps/PAKerUtility",
+        "keywords": [
+          "PS2",
+          "PSX",
+          "PlayStation 2",
+          "PAK",
+          "Sony Utility Disc",
+          "unpack",
+          "pack",
+          "development",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "parallel-gs — Vulkan PS2 GS emulator",
+        "url": "https://github.com/Arntzen-Software/parallel-gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GS",
+          "Graphics Synthesizer",
+          "Vulkan",
+          "emulation",
+          "development",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "parallel-gs — PS2 GS emulation with Vulkan compute",
+        "url": "https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GS",
+          "Graphics Synthesizer",
+          "Vulkan",
+          "emulation",
+          "technical",
+          "article"
+        ]
+      },
+      {
+        "name": "Themaister — Graphics programming like it's 2000 / PS2 graphics",
+        "url": "https://themaister.net/blog/2025/03/20/graphics-programming-like-its-2000-an-esoteric-introduction-to-playstation-2-graphics-part-1/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GS",
+          "Graphics Synthesizer",
+          "graphics",
+          "development",
+          "technical",
+          "article"
+        ]
+      },
+      {
+        "name": "ps2cdvd — CDVDMAN reverse engineering",
+        "url": "https://github.com/asmblur/ps2cdvd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "CDVDMAN",
+          "CDVD",
+          "IRX",
+          "ISO9660",
+          "reverse engineering",
+          "development",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "PS2DIS — 1Up PS2Dis FAQ",
+        "url": "https://gamehacking.org/faqs/1UpPS2Dis.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DIS",
+          "disassembler",
+          "reverse engineering",
+          "game hacking",
+          "debugging",
+          "documentation"
+        ]
+      },
+      {
+        "name": "Lukasz — Using the ps2link exception screen",
+        "url": "http://www.lukasz.dk/playstation-2-programming/using-the-ps2link-exception-screen/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2link",
+          "exception",
+          "debugging",
+          "development",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "ps2dsoloader — dynamic loading",
+        "url": "https://github.com/Nanobass/ps2dsoloader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "DSO",
+          "dynamic loading",
+          "development",
+          "loader",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "ps2intrin — EE-core intrinsic wrappers",
+        "url": "https://github.com/IlRand0m/ps2intrin",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "EE",
+          "Emotion Engine",
+          "intrinsics",
+          "C",
+          "development",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "ps2mcfs — FUSE driver for PS2 memory-card VMC files",
+        "url": "https://github.com/FranciscoDA/ps2mcfs/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "VMC",
+          "FUSE",
+          "filesystem",
+          "development",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "ps2rd — PS2 remote debug",
+        "url": "https://github.com/mlafeldt/ps2rd/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2rd",
+          "remote debug",
+          "debugging",
+          "cheats",
+          "development",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "ps2webtoolkit",
+        "url": "https://github.com/techwritescode/ps2webtoolkit/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "web toolkit",
+          "development",
+          "tool",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "raylib4PlayStation2",
+        "url": "https://github.com/raylib4Consoles/raylib4PlayStation2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "raylib",
+          "graphics",
+          "library",
+          "development",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "raylib4PlayStation2 — MohdSardar fork",
+        "url": "https://github.com/MohdSardar/raylib4PlayStation2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "raylib",
+          "graphics",
+          "library",
+          "development",
+          "fork",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "ROMIMG",
+        "url": "https://github.com/israpps/ROMIMG",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ROMIMG",
+          "ROMDIR",
+          "ROM image",
+          "development",
+          "tool",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "ROMIMG — ysai187 project page",
+        "url": "https://sites.google.com/view/ysai187/home/projects/romimg",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ROMIMG",
+          "ROMDIR",
+          "ROM image",
+          "development",
+          "documentation"
+        ]
+      },
+      {
+        "name": "ROMDIR — archived Alex Lau documentation",
+        "url": "https://web.archive.org/web/20050404005902/https://alexlau.8k.com/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ROMDIR",
+          "BIOS",
+          "development",
+          "archive",
+          "Wayback"
+        ]
+      },
+      {
+        "name": "romman — PlayStation 2 ROM manager",
+        "url": "https://github.com/israpps/romman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ROM manager",
+          "BIOS",
+          "development",
+          "utility",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "romman — PSX-Place resource",
+        "url": "https://www.psx-place.com/resources/romman-playstation-2-rom-manager.1529/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ROM manager",
+          "BIOS",
+          "development",
+          "utility"
+        ]
+      },
+      {
+        "name": "scosdsys — standalone compressed OSDSYS",
+        "url": "https://github.com/ps2repack/scosdsys",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OSDSYS",
+          "BIOS",
+          "compression",
+          "reverse engineering",
+          "development",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "UCL compression library",
+        "url": "https://www.oberhumer.com/opensource/ucl/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UCL",
+          "compression",
+          "modchip",
+          "UPX",
+          "development"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "User-Curated PS2 Loaders, Exploits & System Tools",
+    "description": "Curated PS2 loaders, exploit components, boot tools, storage utilities, debugging cards and system software references.",
+    "links": [
+      {
+        "name": "CogSwap Loader by Hermes",
+        "url": "https://www.psx-place.com/resources/cogswap-loader-by-hermes.668/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "CogSwap",
+          "loader",
+          "swap trick",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "ESR — PSX-Place thread",
+        "url": "https://www.psx-place.com/threads/esr.30217/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ESR",
+          "loader",
+          "disc patching",
+          "homebrew",
+          "exploit"
+        ]
+      },
+      {
+        "name": "ESR — ffgriever GitLab",
+        "url": "https://gitlab.com/ffgriever/esr/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ESR",
+          "loader",
+          "disc patching",
+          "source code",
+          "GitLab"
+        ]
+      },
+      {
+        "name": "ESR Wiki",
+        "url": "https://esr.fandom.com/wiki/ESR",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ESR",
+          "loader",
+          "documentation",
+          "wiki"
+        ]
+      },
+      {
+        "name": "ESR ELF bundled in FreeMcBoot Installer",
+        "url": "https://github.com/israpps/FreeMcBoot-Installer/blob/master/MASS/APPS/ESR/ESR.ELF",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ESR",
+          "FMCB",
+          "Free McBoot",
+          "ELF",
+          "loader"
+        ]
+      },
+      {
+        "name": "ESR Compatibility List — archived",
+        "url": "https://web.archive.org/web/20150430173303/https://www.epforums.org/showthread.php?80824-ESR-Compatibility-List-Over-500-PS2-games-tested-and-counting",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ESR",
+          "compatibility",
+          "archive",
+          "Wayback"
+        ]
+      },
+      {
+        "name": "MX4SIO / SIO2SD thread",
+        "url": "https://www.psx-place.com/threads/mx4sio-sio2sd-sd-card-adapter-and-sd-driver-for-the-ps2-sio2-interface.29210/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "MX4SIO",
+          "SIO2SD",
+          "SD",
+          "memory card",
+          "storage",
+          "hardware"
+        ]
+      },
+      {
+        "name": "MC2SIO — MicroSD ISO Loader",
+        "url": "https://heldergametech.com/shop/ps2/mc2sio-microsd-iso-loader/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "MC2SIO",
+          "MicroSD",
+          "storage",
+          "hardware",
+          "loader"
+        ]
+      },
+      {
+        "name": "OPL Manager",
+        "url": "https://oplmanager.com/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OPL",
+          "Open PS2 Loader",
+          "manager",
+          "host tool",
+          "artwork",
+          "CFG"
+        ]
+      },
+      {
+        "name": "POPS VCD Manager",
+        "url": "https://www.psx-place.com/resources/pops-vcd-manager.1284/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "POPS",
+          "POPStarter",
+          "VCD",
+          "PS1",
+          "manager",
+          "host tool"
+        ]
+      },
+      {
+        "name": "PS2DCDMP / PS2ESDL project page",
+        "url": "https://sites.google.com/view/ysai187/home/projects/ps2esdl#h.p_1dIJ5hZt7BDU",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DCDMP",
+          "PS2ESDL",
+          "external storage",
+          "loader",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2DCDMP — Internet Archive",
+        "url": "https://archive.org/details/ps-2-dcdmp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DCDMP",
+          "PS2ESDL",
+          "archive",
+          "preservation",
+          "loader"
+        ]
+      },
+      {
+        "name": "PS2ESDL — PSX-Place resource",
+        "url": "https://www.psx-place.com/resources/playstation-2-external-storage-device-games-loader-ps2esdl.699/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2ESDL",
+          "external storage",
+          "loader",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PSUja",
+        "url": "https://www.psx-place.com/resources/psuja.1570/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSUja",
+          "PSU",
+          "memory card",
+          "exploit",
+          "LaunchELF",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "RDB — Retail Debugging Startup Card thread",
+        "url": "https://www.psx-place.com/threads/retail-debugging-startup-card.14027/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "RDB",
+          "Retail Debugging Startup Card",
+          "debugging",
+          "boot tool"
+        ]
+      },
+      {
+        "name": "RDB — Retail DeBugging Startup Card",
+        "url": "https://github.com/ps2dbg/RDB",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "RDB",
+          "Retail Debugging Startup Card",
+          "debugging",
+          "boot tool",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "PS2 RDRAM Test",
+        "url": "https://www.psx-place.com/resources/ps2-rdram-test-by-krat0s.899/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "RDRAM",
+          "RAM",
+          "hardware test",
+          "diagnostic",
+          "utility"
+        ]
+      },
+      {
+        "name": "Rumble Tester",
+        "url": "https://www.psx-place.com/resources/rumble-tester.1525/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "rumble",
+          "controller",
+          "tester",
+          "diagnostic",
+          "utility"
+        ]
+      },
+      {
+        "name": "SoftDev2",
+        "url": "https://github.com/parrado/SoftDev2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "SoftDev2",
+          "HDD",
+          "__mbr",
+          "KELF",
+          "boot",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "SoftDev2 — MBR KELF PoC thread",
+        "url": "https://www.psx-place.com/threads/softdev2-mbr-kelf-poc-wip.33537/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "SoftDev2",
+          "HDD",
+          "__mbr",
+          "KELF",
+          "boot",
+          "PoC"
+        ]
+      },
+      {
+        "name": "Ultimate Sony Multiloader",
+        "url": "https://psx-core.ru/forum/2-1425-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Sony Multiloader",
+          "loader",
+          "homebrew",
+          "Russian",
+          "forum"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "User-Curated PS2 Homebrew, Ports & Emulators",
+    "description": "Curated native PS2 homebrew games, fan ports, emulators, engines and related projects.",
+    "links": [
+      {
+        "name": "BARULANDIA.PS2",
+        "url": "https://github.com/jmgk77/BARULANDIA.PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "BARULANDIA",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "melonDS-PS2",
+        "url": "https://github.com/DanielSant0s/melonDS-PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "melonDS",
+          "Nintendo DS",
+          "emulator",
+          "PoC",
+          "homebrew",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "melonDS-PS2 — PSX-Place resource",
+        "url": "https://www.psx-place.com/resources/melonds-ps2.1335/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "melonDS",
+          "Nintendo DS",
+          "emulator",
+          "PoC",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "ps2bor / OpenBOR tutorial",
+        "url": "https://www.psx-place.com/threads/tutorial-create-an-openbor-iso-image-for-opl-via-usb.41661/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OpenBOR",
+          "Beats of Rage",
+          "OPL",
+          "homebrew",
+          "engine",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "ps2bor / OpenBOR resource",
+        "url": "https://www.psx-place.com/resources/opl-port-beats-of-rage-openbor-neill-corletts-mod.337/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OpenBOR",
+          "Beats of Rage",
+          "OPL",
+          "homebrew",
+          "engine",
+          "port"
+        ]
+      },
+      {
+        "name": "OpenGOAL",
+        "url": "https://opengoal.dev/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OpenGOAL",
+          "Jak and Daxter",
+          "GOAL",
+          "LISP",
+          "decompilation",
+          "reimplementation"
+        ]
+      },
+      {
+        "name": "OpenGOAL jak-project",
+        "url": "https://github.com/open-goal/jak-project",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OpenGOAL",
+          "Jak and Daxter",
+          "GOAL",
+          "LISP",
+          "decompilation",
+          "reimplementation",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "PicoDrive — ysai187 PS2 project page",
+        "url": "https://sites.google.com/view/ysai187/home/projects/picodrive",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PicoDrive",
+          "emulator",
+          "Mega Drive",
+          "Sega CD",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PlayLua",
+        "url": "https://www.psx-place.com/resources/playlua.706/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PlayLua",
+          "Lua",
+          "homebrew",
+          "development",
+          "runtime"
+        ]
+      },
+      {
+        "name": "PrBoom Plus — PS2 Doom port",
+        "url": "https://github.com/wolf3s/prboom-plus",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Doom",
+          "PrBoom",
+          "port",
+          "homebrew",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "Proverb — arcade PS2 alternative bootloader",
+        "url": "https://github.com/PS2Homebrew-arcade/proverb/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Proverb",
+          "arcade",
+          "COH-H",
+          "bootloader",
+          "homebrew",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "PS2 Dungeon",
+        "url": "https://github.com/DevECoisas/PS2_Dungeon.git",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "PS2 Dungeon",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "PS2PSXe — obsolete PS1 emulator",
+        "url": "https://www.psx-place.com/resources/obsolete-ps2psxe-by-ffgriever.1163/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2PSXe",
+          "PS1",
+          "PSX",
+          "emulator",
+          "obsolete",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "RetroArch PS2",
+        "url": "https://www.psx-place.com/resources/retroarch-ps2.765/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "RetroArch",
+          "emulator",
+          "frontend",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "RetroArch PS2 nightly builds",
+        "url": "https://buildbot.libretro.com/nightly/playstation/ps2/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "RetroArch",
+          "nightly",
+          "builds",
+          "emulator",
+          "frontend"
+        ]
+      },
+      {
+        "name": "SuperTux for PS2",
+        "url": "https://www.psx-place.com/resources/supertux.1235/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "SuperTux",
+          "homebrew",
+          "game",
+          "port"
+        ]
+      },
+      {
+        "name": "TyraCraft",
+        "url": "https://github.com/Wellinator/tyracraft",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "TyraCraft",
+          "homebrew",
+          "game",
+          "block game",
+          "Tyra",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "TyraCraft project page",
+        "url": "https://wellinator.github.io/tyracraft/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "TyraCraft",
+          "homebrew",
+          "game",
+          "block game",
+          "Tyra"
+        ]
+      },
+      {
+        "name": "Vampire Survivors-like PS2",
+        "url": "https://github.com/Wellinator/vampire-survivors-like-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "game",
+          "Vampire Survivors",
+          "fan game",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "YABasic archive",
+        "url": "https://archive.org/details/gs_20211117192719",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "YABasic",
+          "BASIC",
+          "homebrew",
+          "development",
+          "archive",
+          "preservation"
+        ]
+      },
+      {
+        "name": "PS2 Yabasic Exploit",
+        "url": "https://github.com/CTurt/PS2-Yabasic-Exploit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "YABasic",
+          "exploit",
+          "homebrew",
+          "security",
+          "GitHub"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "User-Curated PS2 Host Tools, Formats & Media",
+    "description": "Curated PS2 host-side tools, image/build utilities, save/media tooling and related format references.",
+    "links": [
+      {
+        "name": "mkps2iso",
+        "url": "https://github.com/N4gtan/mkps2iso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ISO",
+          "UDF",
+          "DVD-5",
+          "DVD-9",
+          "host tool",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "Kermit PS2 Debugger — thread",
+        "url": "https://www.psx-place.com/threads/kermit-ps2-debugger-by-silverbull.31030/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Kermit",
+          "debugger",
+          "ODEM",
+          "DBGCORE",
+          "development",
+          "defunct"
+        ]
+      },
+      {
+        "name": "Kermit PS2 Debugger — resource",
+        "url": "https://www.psx-place.com/resources/kermit-ps2-debugger.997/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Kermit",
+          "debugger",
+          "ODEM",
+          "DBGCORE",
+          "development",
+          "defunct"
+        ]
+      },
+      {
+        "name": "Kermit ODEM/DBGCORE v0.4 beta — PSXTools",
+        "url": "https://psxtools.de/forum/index.php?thread/29193-kermit-odem-dbgcore-v0-4-beta-for-ps2-arrives/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Kermit",
+          "debugger",
+          "ODEM",
+          "DBGCORE",
+          "German",
+          "forum"
+        ]
+      },
+      {
+        "name": "PSUja — exploit PSU package collection",
+        "url": "https://www.psx-place.com/resources/psuja.1570/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PSUja",
+          "PSU",
+          "save",
+          "memory card",
+          "exploit"
+        ]
+      },
+      {
+        "name": "PAKer Utility — Sony Utility Disc PAK tool",
+        "url": "https://github.com/israpps/PAKerUtility",
+        "keywords": [
+          "PS2",
+          "PSX",
+          "PlayStation 2",
+          "PAK",
+          "utility disc",
+          "host tool",
+          "GitHub"
+        ]
+      }
+    ]
+  }
+]
