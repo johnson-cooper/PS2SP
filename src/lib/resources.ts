@@ -83,6 +83,7 @@ import independentPs2TechnicalGuideGroups from "../../data/resources/independent
 import assemblerGamesArchivePs2DeepGroups from "../../data/resources/assemblergames-archive-ps2-deep-2026-09-30.json";
 import usagiruPs2HomebrewPortGroups from "../../data/resources/usagiru-ps2-homebrew-ports-2026-09-30.json";
 import europeanPs2SceneDeepGroups from "../../data/resources/european-ps2-scene-deep-2026-09-30.json";
+import ps2devForumLiveGroups from "../../data/resources/ps2dev-forum-live.json";
 
 export interface ResourceLink {
   name: string;
@@ -258,7 +259,8 @@ const allResourceSources = [
   ...(independentPs2TechnicalGuideGroups as ResourceGroup[]),
   ...(assemblerGamesArchivePs2DeepGroups as ResourceGroup[]),
   ...(usagiruPs2HomebrewPortGroups as ResourceGroup[]),
-  ...(europeanPs2SceneDeepGroups as ResourceGroup[])
+  ...(europeanPs2SceneDeepGroups as ResourceGroup[]),
+  ...(ps2devForumLiveGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
