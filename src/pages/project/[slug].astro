@@ -91,41 +91,9 @@ const updatedAt = projectUpdatedAt(project);
         <div><span>PS2SP update</span><strong>{formatDate(updatedAt)}</strong></div>
       </section>
 
-      <article class="prose project-prose" data-report-prose-links>
+      <article class="prose project-prose">
         <Content />
       </article>
-
-      <script>
-        const prose = document.querySelector<HTMLElement>("[data-report-prose-links]");
-        if (prose) {
-          const externalLinks = [...prose.querySelectorAll<HTMLAnchorElement>('a[href^="http://"], a[href^="https://"]')];
-          for (const link of externalLinks) {
-            if (link.classList.contains("report-broken-link")) continue;
-            const targetUrl = link.href;
-            const issueTitle = `Broken link: ${targetUrl}`;
-            const issueBody = [
-              "### Broken link report",
-              "",
-              `- Item: ${link.textContent?.trim() || targetUrl}`,
-              `- URL: ${targetUrl}`,
-              " - Context: Project documentation / writeup",
-              `- PS2SP page: ${window.location.pathname}`,
-              "",
-              "The link appears to be broken, unavailable, or no longer points to the indexed PS2 resource."
-            ].join("\\n");
-
-            const report = document.createElement("a");
-            report.className = "inline-link-report report-broken-link";
-            report.href = `https://github.com/johnson-cooper/PS2SP/issues/new?title=${encodeURIComponent(issueTitle)}&body=${encodeURIComponent(issueBody)}`;
-            report.target = "_blank";
-            report.rel = "noopener noreferrer";
-            report.textContent = "report";
-            report.setAttribute("aria-label", `Report broken link: ${targetUrl}`);
-            report.title = `Report broken link: ${targetUrl}`;
-            link.insertAdjacentElement("afterend", report);
-          }
-        }
-      </script>
 
       {project.data.features.length > 0 && (
         <section class="feature-section">
