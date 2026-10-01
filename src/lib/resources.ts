@@ -94,6 +94,7 @@ import gbatempPs2DeepGroups from "../../data/resources/gbatemp-ps2-deep-2026-10-
 import ps2HomeDevThreadsDeepGroups from "../../data/resources/ps2-home-dev-threads-deep-2026-10-01.json";
 import oopoPs2devForumMirrorDeepGroups from "../../data/resources/oopo-ps2dev-forum-mirror-deep-2026-10-01.json";
 import internetArchivePs2HomebrewFilesGroups from "../../data/resources/internet-archive-ps2homebrewroms-files-2026-10-01.json";
+import internetArchivePs2HomebrewItemsWave2Groups from "../../data/resources/internet-archive-ps2-homebrew-items-wave2-2026-10-01.json";
 import awesomePs2EarlyDemoGroups from "../../data/resources/awesome-ps2-and-early-demos.json";
 import demozooPs2SceneWave2Groups from "../../data/resources/demozoo-ps2-scene-wave2.json";
 import githubOrgCompletionWave2Groups from "../../data/resources/github-org-completion-wave2.json";
