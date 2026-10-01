@@ -9,10 +9,13 @@ const projects = await getProjects();
 const software = await getSoftwareCatalog();
 const resourceGroups = getResourceGroups();
 const resources = getResources();
+
+const activeSoftware = software
+  .filter((entry) => entry.updatedAt)
+  .sort((a, b) => new Date(b.updatedAt ?? 0).getTime() - new Date(a.updatedAt ?? 0).getTime())
+  .slice(0, 6);
+
 const featured = projects.filter((project) => project.data.featured).slice(0, 5);
-const recent = [...projects].sort((a, b) =>
-  new Date(projectUpdatedAt(b)).getTime() - new Date(projectUpdatedAt(a)).getTime()
-).slice(0, 5);
 
 const categories = new Map<string, number>();
 for (const entry of software) {
@@ -20,6 +23,56 @@ for (const entry of software) {
     categories.set(category, (categories.get(category) ?? 0) + 1);
   }
 }
+
+const genericTags = new Set(["ps2","playstation 2","playstation2","auto-discovered","resource-index","pending-promoted"]);
+const softwareTagCounts = new Map<string, { label: string; count: number }>();
+for (const entry of software) {
+  for (const raw of entry.tags) {
+    const label = String(raw).trim();
+    const key = label.toLowerCase();
+    if (!label || genericTags.has(key) || label.length > 30) continue;
+    const current = softwareTagCounts.get(key);
+    softwareTagCounts.set(key, { label: current?.label ?? label, count: (current?.count ?? 0) + 1 });
+  }
+}
+const popularSoftwareTags = [...softwareTagCounts.entries()]
+  .sort((a, b) => b[1].count - a[1].count || a[1].label.localeCompare(b[1].label))
+  .slice(0, 18);
+
+function resourceFamily(category: string) {
+  const value = category.toLowerCase();
+  if (/homebrew|software|application|utility|github|sourceforge|port|emulator|loader|launcher|save application|store/.test(value)) return "Software & Homebrew";
+  if (/hardware|repair|service manual|modchip|board|accessor|portable|motherboard/.test(value)) return "Hardware & Repair";
+  if (/exploit|vulnerabil|security|boot exploit|hacking/.test(value)) return "Exploits & Security";
+  if (/online|dnas|network|server|rewired/.test(value)) return "Online & Networking";
+  if (/prototype|demo|unreleased|hidden palace|demoscene/.test(value)) return "Demos & Prototypes";
+  if (/archive|preservation|wayback|legacy|mirror|history/.test(value)) return "Preservation & Archives";
+  if (/brazil|spanish|community|forum|scene|psx-place|ps2-home|regional/.test(value)) return "Communities & Regional";
+  if (/development|sdk|technical|programming|ps2dev|linux|reverse|documentation|wiki|docs/.test(value)) return "Development & Technical";
+  if (/compatib|guide|tutorial|reference|save|icon/.test(value)) return "Guides & Reference";
+  return "Other PS2 Resources";
+}
+
+const familyDescriptions: Record<string, string> = {
+  "Software & Homebrew": "Homebrew applications, games, ports, emulators, launchers, tools and legacy software.",
+  "Development & Technical": "SDKs, programming references, reverse engineering, Linux, APIs and technical documentation.",
+  "Hardware & Repair": "Service manuals, motherboard research, modchips, portable builds, repairs and hardware projects.",
+  "Exploits & Security": "Boot exploits, vulnerabilities, RCE research and console security history.",
+  "Online & Networking": "DNAS, restored servers, SMB/UDP projects, online play and network infrastructure.",
+  "Demos & Prototypes": "Demoscene productions, prototypes, unreleased builds and preserved development material.",
+  "Preservation & Archives": "Wayback captures, mirrors, historical sites, scene archives and preservation collections.",
+  "Communities & Regional": "Forums, scene communities and regional PS2 resources in multiple languages.",
+  "Guides & Reference": "Compatibility lists, tutorials, save/icon references and focused how-to material.",
+  "Other PS2 Resources": "Additional PS2 material that does not fit one narrow category."
+};
+
+const familyCounts = new Map<string, number>();
+for (const resource of resources) {
+  const family = resourceFamily(resource.category);
+  familyCounts.set(family, (familyCounts.get(family) ?? 0) + 1);
+}
+const resourceFamilies = [...familyCounts.entries()]
+  .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
 
 const released = projects.filter((project) => project.data.latestRelease.tag).length;
 const ps2Symbols = ["△", "○", "×", "□"];
@@ -34,12 +87,12 @@ const ps2Symbols = ["△", "○", "×", "□"];
 
       <form class="hero-search" action="/projects" method="get">
         <span aria-hidden="true">⌕</span>
-        <input name="q" type="search" placeholder="Find OPL, Neutrino, SDKs, save tools, emulators…" aria-label="Search software" />
+        <input name="q" type="search" placeholder="Find OPL, Neutrino, SDKs, save tools, emulators, forks…" aria-label="Search software" />
         <button type="submit">Search</button>
       </form>
 
       <div class="hero-shortcuts">
-        <a href="/projects">Software index <span>→</span></a>
+        <a href="/projects?sort=updated">Active software <span>→</span></a>
         <a href="/resources">Full PS2 directory <span>→</span></a>
         <a href="/updates">Recent activity <span>→</span></a>
       </div>
@@ -66,7 +119,7 @@ const ps2Symbols = ["△", "○", "×", "□"];
         <div><dt>Categories</dt><dd>{categories.size}</dd></div>
         <div><dt>Tracked releases</dt><dd>{released}</dd></div>
       </dl>
-      <p>Repository activity and releases are synchronized upstream. The wider directory includes websites, archives, docs, communities, hardware resources and more.</p>
+      <p>Active projects surface first. Older software, forks, archives and historical resources remain indexed and searchable instead of being discarded.</p>
     </aside>
   </section>
 
@@ -74,22 +127,27 @@ const ps2Symbols = ["△", "○", "×", "□"];
     <div class="home-panel">
       <div class="section-head">
         <div>
-          <p class="eyebrow">Curated entry points</p>
-          <h2>Featured software</h2>
+          <p class="eyebrow">Active priority</p>
+          <h2>Recently active software</h2>
         </div>
-        <a href="/projects">All software →</a>
+        <a href="/projects?sort=updated">All software →</a>
       </div>
 
       <div class="home-list">
-        {featured.map((project, index) => (
-          <a class="home-list-row" href={`/project/${project.data.slug}`}>
+        {activeSoftware.map((entry, index) => (
+          <a
+            class="home-list-row"
+            href={entry.href}
+            target={entry.external ? "_blank" : undefined}
+            rel={entry.external ? "noopener noreferrer" : undefined}
+          >
             <span class="list-index">{String(index + 1).padStart(2, "0")}</span>
             <span class="home-list-main">
-              <strong>{project.data.name}</strong>
-              <small>{project.data.summary}</small>
+              <strong>{entry.name}</strong>
+              <small>{entry.summary}</small>
             </span>
-            <span class="home-list-meta">{categoryLabel(project.data.categories[0] ?? "uncategorized")}</span>
-            <span class="row-arrow" aria-hidden="true">↗</span>
+            <span class="home-list-meta">{categoryLabel(entry.categories[0] ?? "uncategorized")}</span>
+            <span class="row-arrow" aria-hidden="true">{entry.external ? "↗" : "→"}</span>
           </a>
         ))}
       </div>
@@ -98,24 +156,42 @@ const ps2Symbols = ["△", "○", "×", "□"];
     <div class="home-panel">
       <div class="section-head">
         <div>
-          <p class="eyebrow">Upstream pulse</p>
-          <h2>Recent activity</h2>
+          <p class="eyebrow">Curated entry points</p>
+          <h2>Featured software</h2>
         </div>
-        <a href="/updates">All updates →</a>
+        <a href="/projects">Browse index →</a>
       </div>
 
       <div class="activity-stream">
-        {recent.map((project) => (
+        {featured.map((project) => (
           <a class="activity-row" href={`/project/${project.data.slug}`}>
             <span class="activity-date">{formatDate(projectUpdatedAt(project))}</span>
             <span class="activity-main">
               <strong>{project.data.name}</strong>
-              <small>{project.data.latestRelease.tag ? `Release ${project.data.latestRelease.tag}` : "Repository activity"}</small>
+              <small>{project.data.summary}</small>
             </span>
-            <span class="row-arrow" aria-hidden="true">↗</span>
+            <span class="row-arrow" aria-hidden="true">→</span>
           </a>
         ))}
       </div>
+    </div>
+  </section>
+
+  <section class="section tag-explorer-section">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">Jump straight in</p>
+        <h2>Popular software tags</h2>
+      </div>
+      <a href="/projects">Advanced filters →</a>
+    </div>
+    <div class="home-tag-cloud">
+      {popularSoftwareTags.map(([key, tag]) => (
+        <a class="home-tag-chip" href={`/projects?tag=${encodeURIComponent(key)}&sort=updated`}>
+          <span>{tag.label}</span>
+          <strong>{tag.count}</strong>
+        </a>
+      ))}
     </div>
   </section>
 
@@ -123,20 +199,20 @@ const ps2Symbols = ["△", "○", "×", "□"];
     <div class="section-head">
       <div>
         <p class="eyebrow">Beyond repositories</p>
-        <h2>Walk the wider plaza</h2>
+        <h2>Explore the PS2 ecosystem</h2>
       </div>
-      <a href="/resources">{resources.length}+ resources →</a>
+      <a href="/resources">{resources.length} resources →</a>
     </div>
 
-    <div class="ecosystem-directory">
-      {resourceGroups.map((group, index) => (
-        <a class="ecosystem-row" href={`/resources?category=${encodeURIComponent(group.category)}`}>
-          <span class="ecosystem-number">{String(index + 1).padStart(2, "0")}</span>
-          <span class="ecosystem-title">
-            <strong>{group.category}</strong>
-            <small>{group.description}</small>
+    <div class="resource-family-grid">
+      {resourceFamilies.map(([family, count], index) => (
+        <a class="resource-family-card" href={`/resources?family=${encodeURIComponent(family)}`}>
+          <span class="resource-family-symbol ps2-symbol" aria-hidden="true">{ps2Symbols[index % ps2Symbols.length]}</span>
+          <span class="resource-family-main">
+            <strong>{family}</strong>
+            <small>{familyDescriptions[family] ?? "Browse PS2 resources."}</small>
           </span>
-          <span class="ecosystem-count">{group.links.length}</span>
+          <span class="resource-family-count">{count}</span>
           <span class="row-arrow" aria-hidden="true">→</span>
         </a>
       ))}
@@ -146,10 +222,11 @@ const ps2Symbols = ["△", "○", "×", "□"];
   <section class="section category-strip-section">
     <div class="section-head">
       <div><p class="eyebrow">Software map</p><h2>Browse by function</h2></div>
+      <a href="/projects?sort=updated">Full filterable index →</a>
     </div>
     <div class="category-strip">
-      {[...categories.entries()].sort((a, b) => b[1] - a[1]).slice(0, 12).map(([id, count], index) => (
-        <a href={`/category/${id}`}>
+      {[...categories.entries()].sort((a, b) => b[1] - a[1]).slice(0, 18).map(([id, count], index) => (
+        <a href={`/projects?category=${encodeURIComponent(id)}&sort=updated`}>
           <strong><span class="ps2-symbol" aria-hidden="true">{ps2Symbols[index % ps2Symbols.length]}</span>{categoryLabel(id)}</strong>
           <span>{count}</span>
         </a>
