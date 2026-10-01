@@ -600,6 +600,7 @@ h3 { margin: 0; }
   background: var(--good);
 }
 .status-dot[data-state="archived"] { background: var(--warn); }
+.status-dot[data-state="external"] { background: var(--accent-2); }
 .project-index-release { font-family: var(--mono); color: var(--accent-2); overflow: hidden; text-overflow: ellipsis; }
 .project-index-activity { display: flex; justify-content: space-between; gap: 8px; align-items: center; }
 .directory-empty { margin-top: 18px; }
