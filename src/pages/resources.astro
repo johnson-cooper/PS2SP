@@ -466,7 +466,13 @@ const popularTags = [...tagCounts.entries()]
             );
 
             if (host) {
-              for (const [value, total] of [...hostCounts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))) {
+              const sortedHosts = Array.from(hostCounts.entries()).sort((a, b) => {
+                const countDelta = b[1] - a[1];
+                return countDelta || a[0].localeCompare(b[0]);
+              });
+              for (const hostEntry of sortedHosts) {
+                const value = hostEntry[0];
+                const total = hostEntry[1];
                 const option = document.createElement("option");
                 option.value = value;
                 option.textContent = `${value} (${total})`;
@@ -475,7 +481,15 @@ const popularTags = [...tagCounts.entries()]
             }
 
             if (tag) {
-              for (const [key, item] of [...tagCounts.entries()].sort((a, b) => b[1].count - a[1].count || a[1].label.localeCompare(b[1].label])).slice(0, 500)) {
+              const sortedTags = Array.from(tagCounts.entries())
+                .sort((a, b) => {
+                  const countDelta = b[1].count - a[1].count;
+                  return countDelta || a[1].label.localeCompare(b[1].label);
+                })
+                .slice(0, 500);
+              for (const tagEntry of sortedTags) {
+                const key = tagEntry[0];
+                const item = tagEntry[1];
                 const option = document.createElement("option");
                 option.value = key;
                 option.textContent = `${item.label} (${item.count})`;
