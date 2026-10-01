@@ -21,6 +21,38 @@ const categories = [...new Set(entries.flatMap((entry) => entry.categories))].so
 );
 const ps2Symbols = ["△", "○", "×", "□"];
 const categorySymbols = new Map(categories.map((category, index) => [category, ps2Symbols[index % ps2Symbols.length]]));
+
+const genericTags = new Set([
+  "ps2",
+  "playstation 2",
+  "playstation2",
+  "auto-discovered",
+  "resource-index",
+  "pending-promoted"
+]);
+
+const tagCounts = new Map<string, { label: string; count: number }>();
+for (const entry of entries) {
+  for (const rawTag of entry.tags) {
+    const label = String(rawTag).trim();
+    const key = label.toLowerCase();
+    if (!label || genericTags.has(key) || label.length > 42) continue;
+    const current = tagCounts.get(key);
+    tagCounts.set(key, { label: current?.label ?? label, count: (current?.count ?? 0) + 1 });
+  }
+}
+const tags = [...tagCounts.entries()]
+  .sort((a, b) => b[1].count - a[1].count || a[1].label.localeCompare(b[1].label))
+  .slice(0, 180);
+const quickTags = tags.slice(0, 14);
+
+function visibleTags(entry: SoftwareCatalogEntry) {
+  return entry.tags
+    .map((tag) => String(tag).trim())
+    .filter((tag) => tag && !genericTags.has(tag.toLowerCase()) && tag.length <= 30)
+    .filter((tag, index, all) => all.findIndex((other) => other.toLowerCase() === tag.toLowerCase()) === index)
+    .slice(0, 4);
+}
 ---
 
 <section class="directory-shell" data-project-directory>
@@ -31,13 +63,13 @@ const categorySymbols = new Map(categories.map((category, index) => [category, p
     </div>
   )}
 
-  <div class="directory-toolbar">
+  <div class="directory-toolbar directory-toolbar-rich">
     <label class="search-field">
       <span class="search-glyph" aria-hidden="true">⌕</span>
       <input
         data-project-search
         type="search"
-        placeholder="Search name, summary, tags, features…"
+        placeholder="Search software, tags, forks, features…"
         autocomplete="off"
         aria-label="Search software"
       />
@@ -48,25 +80,60 @@ const categorySymbols = new Map(categories.map((category, index) => [category, p
       <label class="select-field">
         <span>Category</span>
         <select data-project-category>
-          <option value="">All</option>
+          <option value="">All categories</option>
           {categories.map((category) => <option value={category}>{categorySymbols.get(category)} {categoryLabel(category)}</option>)}
         </select>
       </label>
     )}
 
     <label class="select-field">
-      <span>Sort</span>
-      <select data-project-sort>
-        <option value="name">A–Z</option>
-        <option value="updated">Recent activity</option>
-        <option value="release">Recent release</option>
+      <span>Tag</span>
+      <select data-project-tag>
+        <option value="">All tags</option>
+        {tags.map(([key, tag]) => <option value={key}>{tag.label} ({tag.count})</option>)}
       </select>
     </label>
+
+    <label class="select-field">
+      <span>Source</span>
+      <select data-project-source>
+        <option value="">All sources</option>
+        <option value="tracked">Tracked GitHub</option>
+        <option value="external">External / legacy</option>
+        <option value="fork">Forks</option>
+        <option value="archived">Archived</option>
+      </select>
+    </label>
+
+    <label class="select-field">
+      <span>Sort</span>
+      <select data-project-sort>
+        <option value="updated">Recent activity</option>
+        <option value="name">A–Z</option>
+        <option value="name-desc">Z–A</option>
+        <option value="category">Category</option>
+      </select>
+    </label>
+
+    <button class="filter-clear" type="button" data-project-clear>Clear</button>
   </div>
 
-  <div class="directory-summary" aria-live="polite">
-    <strong data-project-count>{entries.length}</strong>
-    <span>software entries shown</span>
+  {quickTags.length > 0 && (
+    <div class="quick-filter-strip" aria-label="Popular software tags">
+      <span class="quick-filter-label">Popular tags</span>
+      <div class="quick-filter-list">
+        {quickTags.map(([key, tag]) => (
+          <button type="button" class="filter-chip" data-project-quick-tag={key}>
+            <span>{tag.label}</span><strong>{tag.count}</strong>
+          </button>
+        ))}
+      </div>
+    </div>
+  )}
+
+  <div class="directory-summary directory-summary-rich" aria-live="polite">
+    <div><strong data-project-count>{entries.length}</strong><span> software entries shown</span></div>
+    <small data-project-filter-state>All software</small>
   </div>
 
   <div class="project-index" data-project-list>
@@ -80,12 +147,17 @@ const categorySymbols = new Map(categories.map((category, index) => [category, p
 
     {entries.map((entry, index) => {
       const updatedMs = entry.updatedAt ? (new Date(entry.updatedAt).getTime() || 0) : 0;
+      const rowTags = visibleTags(entry);
+      const tagKeys = entry.tags.map((tag) => String(tag).trim().toLowerCase()).filter(Boolean);
+      const isFork = tagKeys.includes("fork");
       const searchText = [
         entry.name,
         entry.summary,
         ...entry.tags,
         ...entry.features,
-        ...entry.categories.map(categoryLabel)
+        ...entry.categories.map(categoryLabel),
+        isFork ? "fork" : "",
+        entry.sourceKind === "resource" ? "external legacy" : "github tracked"
       ].join(" ").toLowerCase();
 
       return (
@@ -98,23 +170,32 @@ const categorySymbols = new Map(categories.map((category, index) => [category, p
           data-search={searchText}
           data-categories={entry.categories.join(" ")}
           data-name={entry.name.toLowerCase()}
+          data-primary-category={entry.categories[0] ?? "uncategorized"}
           data-updated={updatedMs}
-          data-release={updatedMs}
+          data-source-kind={entry.sourceKind}
+          data-fork={isFork ? "true" : "false"}
+          data-archived={entry.archived ? "true" : "false"}
+          data-tags={tagKeys.join("|||")}
         >
           <span class="project-index-number">{String(index + 1).padStart(3, "0")}</span>
           <span class="project-index-main">
             <strong>{entry.name}</strong>
             <span>{entry.summary}</span>
+            {rowTags.length > 0 && (
+              <span class="row-tag-list" aria-label="Tags">
+                {rowTags.map((tag) => <span class="row-tag">{tag}</span>)}
+              </span>
+            )}
           </span>
           <span class="project-index-type">
-            <span class="status-dot" data-state={entry.archived ? "archived" : entry.sourceKind === "resource" ? "external" : "tracked"}></span>
+            <span class="status-dot" data-state={entry.archived ? "archived" : entry.sourceKind === "resource" ? "external" : isFork ? "fork" : "tracked"}></span>
             <span class="category-badge">
               <span class="ps2-symbol" aria-hidden="true">{categorySymbols.get(entry.categories[0] ?? "uncategorized") ?? "◇"}</span>
               <span>{categoryLabel(entry.categories[0] ?? "uncategorized")}</span>
             </span>
           </span>
           <span class="project-index-release">
-            {entry.releaseTag ?? (entry.sourceKind === "resource" ? "external" : "—")}
+            {isFork ? "fork" : entry.releaseTag ?? (entry.sourceKind === "resource" ? "external" : "—")}
           </span>
           <span class="project-index-activity">
             <time datetime={entry.updatedAt ?? undefined}>{entry.updatedAt ? formatDate(entry.updatedAt) : "Indexed"}</time>
@@ -133,36 +214,82 @@ const categorySymbols = new Map(categories.map((category, index) => [category, p
     for (const root of roots) {
       const search = root.querySelector<HTMLInputElement>("[data-project-search]");
       const category = root.querySelector<HTMLSelectElement>("[data-project-category]");
+      const tag = root.querySelector<HTMLSelectElement>("[data-project-tag]");
+      const source = root.querySelector<HTMLSelectElement>("[data-project-source]");
       const sort = root.querySelector<HTMLSelectElement>("[data-project-sort]");
+      const clear = root.querySelector<HTMLButtonElement>("[data-project-clear]");
+      const quickTags = [...root.querySelectorAll<HTMLButtonElement>("[data-project-quick-tag]")];
       const list = root.querySelector<HTMLElement>("[data-project-list]");
       const rows = [...root.querySelectorAll<HTMLElement>("[data-project-row]")];
       const count = root.querySelector<HTMLElement>("[data-project-count]");
+      const state = root.querySelector<HTMLElement>("[data-project-filter-state]");
       const empty = root.querySelector<HTMLElement>("[data-project-empty]");
 
       const url = new URL(window.location.href);
-      const initialQuery = url.searchParams.get("q");
-      if (search && initialQuery) search.value = initialQuery;
+      if (search) search.value = url.searchParams.get("q") ?? "";
+      if (category) category.value = url.searchParams.get("category") ?? "";
+      if (tag) tag.value = url.searchParams.get("tag") ?? "";
+      if (source) source.value = url.searchParams.get("source") ?? "";
+      if (sort) sort.value = url.searchParams.get("sort") ?? "updated";
+
+      function syncUrl() {
+        const next = new URL(window.location.href);
+        const values: Array<[string, string]> = [
+          ["q", search?.value.trim() ?? ""],
+          ["category", category?.value ?? ""],
+          ["tag", tag?.value ?? ""],
+          ["source", source?.value ?? ""],
+          ["sort", sort?.value && sort.value !== "updated" ? sort.value : ""]
+        ];
+        for (const [key, value] of values) {
+          if (value) next.searchParams.set(key, value);
+          else next.searchParams.delete(key);
+        }
+        history.replaceState({}, "", next);
+      }
+
+      function sourceMatches(row: HTMLElement, selected: string) {
+        if (!selected) return true;
+        if (selected === "tracked") return row.dataset.sourceKind === "project";
+        if (selected === "external") return row.dataset.sourceKind === "resource";
+        if (selected === "fork") return row.dataset.fork === "true";
+        if (selected === "archived") return row.dataset.archived === "true";
+        return true;
+      }
 
       function apply() {
         if (!list) return;
 
         const query = search?.value.trim().toLowerCase() ?? "";
-        const selected = category?.value ?? "";
+        const selectedCategory = category?.value ?? "";
+        const selectedTag = tag?.value ?? "";
+        const selectedSource = source?.value ?? "";
         let visible = 0;
 
         for (const row of rows) {
+          const tags = (row.dataset.tags ?? "").split("|||");
           const matchesText = !query || (row.dataset.search ?? "").includes(query);
-          const matchesCategory = !selected || (row.dataset.categories ?? "").split(" ").includes(selected);
-          row.hidden = !(matchesText && matchesCategory);
+          const matchesCategory = !selectedCategory || (row.dataset.categories ?? "").split(" ").includes(selectedCategory);
+          const matchesTag = !selectedTag || tags.includes(selectedTag);
+          const matchesSource = sourceMatches(row, selectedSource);
+          row.hidden = !(matchesText && matchesCategory && matchesTag && matchesSource);
           if (!row.hidden) visible++;
         }
 
-        const mode = sort?.value ?? "name";
+        const mode = sort?.value ?? "updated";
         const sorted = [...rows].sort((a, b) => {
-          if (mode === "updated") return Number(b.dataset.updated ?? 0) - Number(a.dataset.updated ?? 0);
-          if (mode === "release") return Number(b.dataset.release ?? 0) - Number(a.dataset.release ?? 0);
+          if (mode === "updated") {
+            const delta = Number(b.dataset.updated ?? 0) - Number(a.dataset.updated ?? 0);
+            if (delta) return delta;
+          }
+          if (mode === "name-desc") return (b.dataset.name ?? "").localeCompare(a.dataset.name ?? "");
+          if (mode === "category") {
+            const delta = (a.dataset.primaryCategory ?? "").localeCompare(b.dataset.primaryCategory ?? "");
+            if (delta) return delta;
+          }
           return (a.dataset.name ?? "").localeCompare(b.dataset.name ?? "");
         });
+
         let visibleIndex = 0;
         for (const row of sorted) {
           list.appendChild(row);
@@ -175,11 +302,45 @@ const categorySymbols = new Map(categories.map((category, index) => [category, p
 
         if (count) count.textContent = String(visible);
         if (empty) empty.hidden = visible !== 0;
+
+        const active: string[] = [];
+        if (query) active.push(`search “${search?.value.trim()}”`);
+        if (selectedCategory && category) active.push(category.options[category.selectedIndex]?.text.replace(/^[△○×□]\s*/, "") ?? selectedCategory);
+        if (selectedTag && tag) active.push(`tag: ${tag.options[tag.selectedIndex]?.text.replace(/\s+\(\d+\)$/, "") ?? selectedTag}`);
+        if (selectedSource && source) active.push(source.options[source.selectedIndex]?.text ?? selectedSource);
+        if (state) state.textContent = active.length ? active.join(" · ") : "All software";
+
+        for (const chip of quickTags) {
+          chip.classList.toggle("active", (chip.dataset.projectQuickTag ?? "") === selectedTag);
+        }
+
+        syncUrl();
+      }
+
+      function clearFilters() {
+        if (search) search.value = "";
+        if (category) category.value = "";
+        if (tag) tag.value = "";
+        if (source) source.value = "";
+        if (sort) sort.value = "updated";
+        apply();
       }
 
       search?.addEventListener("input", apply);
       category?.addEventListener("change", apply);
+      tag?.addEventListener("change", apply);
+      source?.addEventListener("change", apply);
       sort?.addEventListener("change", apply);
+      clear?.addEventListener("click", clearFilters);
+
+      for (const chip of quickTags) {
+        chip.addEventListener("click", () => {
+          if (!tag) return;
+          const value = chip.dataset.projectQuickTag ?? "";
+          tag.value = tag.value === value ? "" : value;
+          apply();
+        });
+      }
 
       document.addEventListener("keydown", (event) => {
         if (event.key !== "/" || event.metaKey || event.ctrlKey || event.altKey) return;
