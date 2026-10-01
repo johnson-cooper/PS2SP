@@ -1,0 +1,156 @@
+[
+  {
+    "category": "Oopo/Lukasz — PS2DEV Forum Mirror Deep Threads",
+    "description": "Surviving mirrored PS2 Development threads from the historical PS2DEV forum, preserved independently from the current forums.ps2dev.org copy.",
+    "links": [
+      {
+        "name": "PS2DEV Mirror — Homebrew Booting on Unmodified Consoles — Independence Exploit Tutorial",
+        "url": "http://oopo.lukasz.dk/mirror/forums.ps2dev.org/viewtopic499d.html?t=672",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DEV",
+          "forum",
+          "mirror",
+          "archive",
+          "preservation",
+          "development",
+          "Independence Exploit",
+          "booting",
+          "tutorial",
+          "N-Port"
+        ]
+      },
+      {
+        "name": "PS2DEV Mirror — PS2 MENU for PS2 / PSX Games Only",
+        "url": "https://oopo.lukasz.dk/mirror/forums.ps2dev.org/viewtopic3b02.html?t=8798",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DEV",
+          "forum",
+          "mirror",
+          "archive",
+          "preservation",
+          "development",
+          "menu",
+          "PS1",
+          "PSX",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2DEV Mirror — fopen Issue / HDD Device Hooks",
+        "url": "http://oopo.lukasz.dk/mirror/forums.ps2dev.org/viewtopic542c.html?t=4050",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DEV",
+          "forum",
+          "mirror",
+          "archive",
+          "preservation",
+          "development",
+          "HDD",
+          "filesystem",
+          "I/O",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2DEV Mirror — Start-up Question — Network Adapter / HDD / Homebrew Loading",
+        "url": "http://oopo.lukasz.dk/mirror/forums.ps2dev.org/viewtopic98b0-2.html?t=8913",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DEV",
+          "forum",
+          "mirror",
+          "archive",
+          "preservation",
+          "development",
+          "network adapter",
+          "HDD",
+          "homebrew",
+          "ps2link"
+        ]
+      },
+      {
+        "name": "PS2DEV Mirror — Hello World on PS2 over ps2link",
+        "url": "http://oopo.lukasz.dk/mirror/forums.ps2dev.org/viewtopicd55d.html?t=8092",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DEV",
+          "forum",
+          "mirror",
+          "archive",
+          "preservation",
+          "development",
+          "ps2link",
+          "networking",
+          "hello world",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2DEV Mirror — ERL Files and Loader Discussion",
+        "url": "http://oopo.lukasz.dk/mirror/forums.ps2dev.org/viewtopic03e4.html?t=10373",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DEV",
+          "forum",
+          "mirror",
+          "archive",
+          "preservation",
+          "development",
+          "ERL",
+          "ELF",
+          "loader",
+          "PS2SDK",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2DEV Mirror — Trying to Get Hello World Working",
+        "url": "http://oopo.lukasz.dk/mirror/forums.ps2dev.org/viewtopic7678-3.html?t=1818",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DEV",
+          "forum",
+          "mirror",
+          "archive",
+          "preservation",
+          "development",
+          "hello world",
+          "toolchain",
+          "Cygwin",
+          "Independence Exploit",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2DEV Mirror — PS2 Development Forum Archive Page start=350",
+        "url": "http://oopo.lukasz.dk/mirror/forums.ps2dev.org/viewforum3a02.html?f=11&topicdays=0&start=350",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DEV",
+          "forum",
+          "mirror",
+          "archive",
+          "preservation",
+          "development",
+          "forum archive",
+          "PS2 Development",
+          "ERL",
+          "ELF",
+          "BootAdvance",
+          "preservation"
+        ]
+      }
+    ]
+  }
+]
