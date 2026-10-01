@@ -130,6 +130,135 @@
           "Celeste",
           "uLaunchELF"
         ]
+      },
+      {
+        "name": "UsagiRu — OPL build with simultaneous dual-USB support",
+        "url": "https://usagiru.blogspot.com/2024/08/ps2-novo-opl-com-suporte-dois-usb.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "OPL",
+          "Open PS2 Loader",
+          "USB",
+          "loader"
+        ]
+      },
+      {
+        "name": "UsagiRu — RETROLauncher for PS2",
+        "url": "https://usagiru.blogspot.com/2024/08/ps2-retrolauncher.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "RETROLauncher",
+          "launcher",
+          "emulator"
+        ]
+      },
+      {
+        "name": "UsagiRu — PicoDrive v2.00 for PS2",
+        "url": "https://usagiru.blogspot.com/2024/07/ps2-testando-o-novo-picodrive-v200.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "emulator",
+          "PicoDrive",
+          "Mega Drive",
+          "Sega CD",
+          "Master System",
+          "Game Gear",
+          "32X",
+          "ELF"
+        ]
+      },
+      {
+        "name": "UsagiRu — 3D Pinball Space Cadet and T-01 PS2 homebrew ports",
+        "url": "https://usagiru.blogspot.com/2024/07/ps2-novidades-para-o-ps2-3d-pinball-e-t.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "port",
+          "3D Pinball",
+          "T-01"
+        ]
+      },
+      {
+        "name": "UsagiRu — Mario Kart 64 PS2 Port",
+        "url": "https://usagiru.blogspot.com/2026/09/ps2-iso-mario-kart-64.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "port",
+          "decompilation",
+          "Mario Kart 64",
+          "Nintendo 64"
+        ]
+      },
+      {
+        "name": "UsagiRu — Super Smash Bros PS2 Port",
+        "url": "https://usagiru.blogspot.com/2026/09/ps2-iso-super-smash-bros.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "port",
+          "decompilation",
+          "Super Smash Bros",
+          "Nintendo 64"
+        ]
+      },
+      {
+        "name": "UsagiRu — Pou PS2 Port",
+        "url": "https://usagiru.blogspot.com/2026/09/ps2-iso-pou.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "port",
+          "Pou",
+          "custom game"
+        ]
+      },
+      {
+        "name": "UsagiRu — Battletoads OpenBOR PS2 Project",
+        "url": "https://usagiru.blogspot.com/2026/09/ps2-iso-battletoads-openbor.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UsagiRu",
+          "Brazilian",
+          "Portuguese",
+          "homebrew",
+          "OpenBOR",
+          "fan game",
+          "custom game",
+          "Battletoads"
+        ]
       }
     ]
   }
