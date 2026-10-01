@@ -1,0 +1,45 @@
+[
+  {
+    "category": "PS2 Modchip Preservation — Will's Console Modifications",
+    "description": "Deep preservation index of PlayStation 2 modchips with individual chip pages, features, boot instructions, firmware/software packs and installation diagrams.",
+    "links": [
+      {
+        "name": "Will's PS2 Modchip Archive — Home",
+        "url": "https://www.willsconsolemodifications.co.uk/ps2-wiki/index.php",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "hardware",
+          "archive",
+          "preservation"
+        ]
+      },
+      {
+        "name": "Will's PS2 Modchip Archive — All Chips",
+        "url": "https://www.willsconsolemodifications.co.uk/ps2-wiki/chips.php",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "hardware",
+          "archive",
+          "diagrams",
+          "firmware"
+        ]
+      },
+      {
+        "name": "Will's PS2 Modchip Archive — History",
+        "url": "https://www.willsconsolemodifications.co.uk/ps2-wiki/history.php",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "history",
+          "archive",
+          "preservation"
+        ]
+      }
+    ]
+  }
+]
