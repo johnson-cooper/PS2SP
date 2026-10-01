@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:34:08.960Z'
+  lastSynchronized: '2026-10-01T18:55:44.497Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0192c8c621ef1ce12ad7be253e8625af595641366de4ad6e4fdd296a0041909e"
+    releasesEtag: '"835637e6227981ce2bdd900baf80fcc0833c14a489057a00cb276de2952ad369"'
 discovery:
   method: 'fork-network:grimdoomer/Open-PS2-Loader'
   confidence: 100
@@ -45,5 +48,4 @@ relationships:
   forkOf: grimdoomer/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

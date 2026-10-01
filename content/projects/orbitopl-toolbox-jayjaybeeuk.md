@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T15:00:56.456Z'
+  lastSynchronized: '2026-10-01T18:55:48.727Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"fe3604be84fed644193d37c0e7b34cf1ef38a0b93040d9a5bcd7b761105eb584"
+    releasesEtag: '"835637e6227981ce2bdd900baf80fcc0833c14a489057a00cb276de2952ad369"'
 discovery:
   method: 'fork-network:Luden02/OrbitPS2-Manager'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: Luden02/OrbitPS2-Manager
   source: Luden02/OrbitPS2-Manager
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

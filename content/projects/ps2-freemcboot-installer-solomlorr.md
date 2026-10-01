@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T05:10:46.442Z'
+  lastSynchronized: '2026-10-01T18:56:01.582Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"84a86e5e98f2c89a416963d845d080625376c21e706519a599ae61711d91d712"
+    releasesEtag: '"835637e6227981ce2bdd900baf80fcc0833c14a489057a00cb276de2952ad369"'
 discovery:
   method: 'fork-network:israpps/FreeMcBoot-Installer'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: israpps/FreeMcBoot-Installer
   source: israpps/FreeMcBoot-Installer
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

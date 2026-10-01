@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: '2026-09-01T05:01:44Z'
   url: 'https://github.com/1247847495/SNESticleRevive/releases/tag/v1.0.7-anyi'
 activity:
-  lastSynchronized: '2026-10-01T03:27:44.437Z'
+  lastSynchronized: '2026-10-01T18:56:07.145Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d728ac239b16c591a791cb8f770501642ad56edab890881ef77dfdc6e1e092b9"
+    releasesEtag: W/"d3f5b55b3d36097a06d38522a91b6a98195ed76e610fdff3bc13b6a794e8a416"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
@@ -54,5 +57,4 @@ relationships:
   forkOf: ReyFxck/SNESticleRevive
   source: ReyFxck/SNESticleRevive
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

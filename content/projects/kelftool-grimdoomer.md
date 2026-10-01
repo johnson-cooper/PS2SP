@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:14:53.554Z'
+  lastSynchronized: '2026-10-01T18:55:35.564Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"dad18ee2e6ef27eeeaa56caa6064eb95bba8849dd1881824ad2e5cb4e6d18eb2"
+    releasesEtag: '"835637e6227981ce2bdd900baf80fcc0833c14a489057a00cb276de2952ad369"'
 discovery:
   method: 'fork-network:ps2homebrew/kelftool'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: ps2homebrew/kelftool
   source: xfwcfw/kelftool
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

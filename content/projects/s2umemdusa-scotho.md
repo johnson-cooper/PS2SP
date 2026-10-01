@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:17:04.836Z'
+  lastSynchronized: '2026-10-01T18:56:05.748Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"748ff3e97957274e05d0f4a3b3ffc88e3ff5766164ed58caab27f5cb4a041755"
+    releasesEtag: '"835637e6227981ce2bdd900baf80fcc0833c14a489057a00cb276de2952ad369"'
 discovery:
   method: 'fork-network:PSRewired/Memdusa'
   confidence: 95
@@ -43,5 +46,4 @@ relationships:
   forkOf: PSRewired/Memdusa
   source: PSRewired/Memdusa
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -20,21 +20,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 223
-  forks: 14
-  lastCommit: '2026-09-30T14:09:28Z'
+  stars: 224
+  forks: 15
+  lastCommit: '2026-10-01T18:41:00Z'
 latestRelease:
-  tag: v0.4.3
-  name: v0.4.3
-  publishedAt: '2026-09-30T10:07:34Z'
-  url: 'https://github.com/sashkinbro/EmuCoreX/releases/tag/v0.4.3'
+  tag: v0.4.4
+  name: v0.4.4
+  publishedAt: '2026-10-01T07:02:32Z'
+  url: 'https://github.com/sashkinbro/EmuCoreX/releases/tag/v0.4.4'
 activity:
-  lastSynchronized: '2026-10-01T03:31:47.103Z'
+  lastSynchronized: '2026-10-01T18:55:28.796Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0ad03aef5dc550864ed7cb0cddb91e1eda69a66017d90a644c394855b0f8ef4d"
-    releasesEtag: W/"b02fae535d05f24ea8d95a6861aa1df2013ceb6cf3826dba1cd446f8322522c0"
+    repoEtag: W/"3723be310b6b593500a55d1ea8134258a3d828525b159b4a2247f92e1d140859"
+    releasesEtag: W/"c8ed80dadd732ec15271de49feef7eb40ff48ddad93c028889ac00991de6f022"
 discovery:
   method: pending-recheck
   confidence: 100

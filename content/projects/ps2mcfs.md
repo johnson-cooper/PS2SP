@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: '2023-05-02T19:38:07Z'
   url: 'https://github.com/FranciscoDA/ps2mcfs/releases/tag/0.0.1'
 activity:
-  lastSynchronized: '2026-10-01T11:22:08.773Z'
+  lastSynchronized: '2026-10-01T18:56:04.773Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"826c095817455c1efc8faf73fc2263694b3eaa53ea08538f389b923e4c395780"
+    releasesEtag: W/"21d7229499926cee98de31505ff6e3d46f21fda1d9c353674ff8c2401ed42fd9"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -43,5 +46,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

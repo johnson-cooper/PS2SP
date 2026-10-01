@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T17:09:08.395Z'
+  lastSynchronized: '2026-10-01T18:55:58.280Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"189c84f36bf66a544959d5fdbd16d9fb47858a26c654bca30c6a9b3caa2ec921"
+    releasesEtag: '"835637e6227981ce2bdd900baf80fcc0833c14a489057a00cb276de2952ad369"'
 discovery:
   method: 'fork-network:ps2homebrew/pfsshell'
   confidence: 95
@@ -49,5 +52,4 @@ relationships:
   forkOf: ps2homebrew/pfsshell
   source: ps2homebrew/pfsshell
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

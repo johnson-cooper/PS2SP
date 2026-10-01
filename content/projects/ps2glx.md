@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: '2026-02-18T13:04:47Z'
   url: 'https://github.com/Wolf3s/ps2glx/releases/tag/0.14'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-01T18:56:04.142Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b9a85798ec692b52ad95c6b468a9a921bd058658f143fd21cf51169d7de665ee"
+    releasesEtag: W/"fb29c8fb7dd2f2dd4e00624f2b5643d9227a3062841730a9a94bf2715e5e0067"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -42,5 +45,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

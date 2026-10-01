@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-09-22T17:50:24Z'
   url: 'https://github.com/NathanNeurotic/neutrino/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T03:32:41.275Z'
+  lastSynchronized: '2026-10-01T18:55:39.007Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"eaa50410b778aede170d10aec769b4ea9fbc911daf542e9988bfa09cabc92d1f"
-    releasesEtag: W/"113f3070ec35049b4d8e4de3514bc239af849ee5b50fcb90b438cbbd892b256e"
+    repoEtag: W/"f33320088c3813d1b25e2ac63eb2b4ac4d70e0fbe75c7a551a3dcbab0706886c"
+    releasesEtag: W/"058f89fd707c232179704bfe8c21c2f7d76fd6ce72af762246134dc472bb287f"
 discovery:
   method: curated-owner
   confidence: 100
