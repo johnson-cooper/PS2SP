@@ -1,0 +1,625 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Granular index of PlayStation 2 homebrew games, fan games, native ports, game-jam projects, engine showcases, and playable PS2 projects. Retail game dumps are excluded.",
+    "links": [
+      {
+        "name": "ConsoleMods — PS2 Homebrew Games List",
+        "url": "https://consolemods.org/wiki/PS2:Homebrew_Games_List",
+        "keywords": [
+          "PS2",
+          "homebrew games",
+          "ports",
+          "prototypes",
+          "Ballion",
+          "Dave Gnukem",
+          "Fruit'Y",
+          "Guitar Fun",
+          "Hermes",
+          "Rockbot",
+          "SuperTux",
+          "XUMP"
+        ]
+      },
+      {
+        "name": "PSX-Place — PS2 Homebrew Games Category",
+        "url": "https://www.psx-place.com/resources/categories/homebrew-games.22/",
+        "keywords": [
+          "PS2",
+          "homebrew games",
+          "ports",
+          "OpenBOR",
+          "Ballion",
+          "Dave Gnukem",
+          "Dungeon Game",
+          "Bastet"
+        ]
+      },
+      {
+        "name": "TOSEC — PlayStation 2 Homebrew Games ISO Index",
+        "url": "https://data.spludlow.co.uk/tosec/tosec-iso/Sony%20PlayStation%202%20-%20Homebrew%20-%20Games%20-%20%5BISO%5D",
+        "keywords": [
+          "PS2",
+          "homebrew games",
+          "TOSEC",
+          "Sailor Moon RevengeX",
+          "Mazinger Z",
+          "Zoth",
+          "Hermes",
+          "preservation"
+        ]
+      },
+      {
+        "name": "Sailor Moon RevengeX — PS2 Homebrew",
+        "url": "https://megadrivermaniax.itch.io/sailor-moon-revengex",
+        "keywords": [
+          "PS2",
+          "Sailor Moon",
+          "Sailor Moon RevengeX",
+          "Nova32",
+          "BennuGD",
+          "fan game",
+          "beat em up",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Sailor Moon RevengeX — Source Code",
+        "url": "https://github.com/mxfolken/sailor_moon_ps2",
+        "keywords": [
+          "PS2",
+          "Sailor Moon",
+          "RevengeX",
+          "BennuGD",
+          "source code",
+          "fan game",
+          "Nova32"
+        ]
+      },
+      {
+        "name": "BennuGD Forum — Sailor Moon RevengeX PS2 Development Thread",
+        "url": "https://forum.bennugd.org/index.php?topic=4901.0",
+        "keywords": [
+          "PS2",
+          "Sailor Moon RevengeX",
+          "BennuGD",
+          "source",
+          "homebrew",
+          "development"
+        ]
+      },
+      {
+        "name": "Mazinger Z for PS2",
+        "url": "https://megadrivermaniax.itch.io/mazinger-z-for-ps2",
+        "keywords": [
+          "PS2",
+          "Mazinger Z",
+          "Nova32",
+          "BennuGD",
+          "homebrew",
+          "fan game",
+          "arcade"
+        ]
+      },
+      {
+        "name": "BennuGD Forum — Mazinger Z PS2 Homebrew",
+        "url": "https://forum.bennugd.org/index.php?topic=4600.0",
+        "keywords": [
+          "PS2",
+          "Mazinger Z",
+          "BennuGD",
+          "homebrew",
+          "GNU",
+          "source"
+        ]
+      },
+      {
+        "name": "Zoth — Zombie Invasion for PS2",
+        "url": "https://megadrivermaniax.itch.io/zoth-zombie-invasion",
+        "keywords": [
+          "PS2",
+          "Zoth",
+          "Zombie Invasion",
+          "Nova32",
+          "Yeti3D",
+          "homebrew",
+          "3D shooter"
+        ]
+      },
+      {
+        "name": "Retroguru — Hermes: Run A La Carte PS2",
+        "url": "https://www.retroguru.com/hermes/",
+        "keywords": [
+          "PS2",
+          "Hermes",
+          "Run A La Carte",
+          "Retroguru",
+          "homebrew",
+          "platformer"
+        ]
+      },
+      {
+        "name": "Retroguru — Fruit'Y PS2",
+        "url": "https://www.retroguru.com/fruity/",
+        "keywords": [
+          "PS2",
+          "Fruit'Y",
+          "Retroguru",
+          "nop90",
+          "homebrew",
+          "puzzle"
+        ]
+      },
+      {
+        "name": "PSX-Place — Fruit'Y PS2",
+        "url": "https://www.psx-place.com/resources/fruity.1050/",
+        "keywords": [
+          "PS2",
+          "Fruit'Y",
+          "nop90",
+          "homebrew",
+          "Retroguru"
+        ]
+      },
+      {
+        "name": "PSX-Place — 3D Pinball Space Cadet for PS2",
+        "url": "https://www.psx-place.com/resources/3d-pinball-space-cadet-for-ps2.1412/",
+        "keywords": [
+          "PS2",
+          "3D Pinball",
+          "Space Cadet",
+          "port",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PSX-Place — Guitar Fun",
+        "url": "https://www.psx-place.com/threads/guitar-fun.13424/",
+        "keywords": [
+          "PS2",
+          "Guitar Fun",
+          "Guitar Hero clone",
+          "homebrew",
+          "game"
+        ]
+      },
+      {
+        "name": "PSX-Place — Quake for PS2",
+        "url": "https://www.psx-place.com/threads/quake-for-ps2.11192/",
+        "keywords": [
+          "PS2",
+          "Quake",
+          "port",
+          "homebrew",
+          "id Software"
+        ]
+      },
+      {
+        "name": "GitHub — Super Mario 64 PS2 Native Port",
+        "url": "https://github.com/fgsfdsfgs/sm64-port/tree/ps2",
+        "keywords": [
+          "PS2",
+          "Super Mario 64",
+          "SM64",
+          "native port",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PSX-Place — SuperTux PS2",
+        "url": "https://www.psx-place.com/resources/supertux.1235/",
+        "keywords": [
+          "PS2",
+          "SuperTux",
+          "port",
+          "homebrew",
+          "platformer"
+        ]
+      },
+      {
+        "name": "GitHub — Undertale PS2",
+        "url": "https://github.com/KreitinnSoftware/Undertale-PS2",
+        "keywords": [
+          "PS2",
+          "Undertale",
+          "fan port",
+          "homebrew",
+          "KreitinnSoftware"
+        ]
+      },
+      {
+        "name": "GitHub — DDLC PS2 Source",
+        "url": "https://github.com/d3vsaurio/DDLC-PS2-Source",
+        "keywords": [
+          "PS2",
+          "Doki Doki Literature Club",
+          "DDLC",
+          "port",
+          "homebrew",
+          "source"
+        ]
+      },
+      {
+        "name": "GitHub — DDLC PS2",
+        "url": "https://github.com/Snake-2006/DDLC-PS2",
+        "keywords": [
+          "PS2",
+          "Doki Doki Literature Club",
+          "DDLC",
+          "port",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "GitHub — Touhou 6 PS2",
+        "url": "https://github.com/makmal0962/th06-ps2",
+        "keywords": [
+          "PS2",
+          "Touhou",
+          "Touhou 6",
+          "Embodiment of Scarlet Devil",
+          "port",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "GitHub — Quake II PS2",
+        "url": "https://github.com/glampert/quake2-ps2",
+        "keywords": [
+          "PS2",
+          "Quake II",
+          "Quake 2",
+          "port",
+          "homebrew",
+          "VU1"
+        ]
+      },
+      {
+        "name": "GitHub — PrBoom-Plus PS2",
+        "url": "https://github.com/Wolf3s/prboom-plus/tree/ps2",
+        "keywords": [
+          "PS2",
+          "Doom",
+          "PrBoom Plus",
+          "port",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "GitHub — Bit of War PS2",
+        "url": "https://github.com/PS2GAMESDEV/Bit-of-War-PS2",
+        "keywords": [
+          "PS2",
+          "Bit of War",
+          "God of War Betrayal",
+          "fan port",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "GitHub — Game With Car PS2",
+        "url": "https://github.com/freebytego/gwc-ps2",
+        "keywords": [
+          "PS2",
+          "Game With Car",
+          "Tyra",
+          "homebrew game",
+          "3D"
+        ]
+      },
+      {
+        "name": "GitHub — TyraTale",
+        "url": "https://github.com/Br4k2n/TyraTale",
+        "keywords": [
+          "PS2",
+          "TyraTale",
+          "Tyra",
+          "homebrew game",
+          "RPG"
+        ]
+      },
+      {
+        "name": "GitHub — Rock Paper and Scissors PS2",
+        "url": "https://github.com/GDQR/Rock-paper-and-scissors",
+        "keywords": [
+          "PS2",
+          "Rock Paper Scissors",
+          "Tyra",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "GitHub — Mask Game PS2",
+        "url": "https://github.com/GDQR/mask-game",
+        "keywords": [
+          "PS2",
+          "mask game",
+          "Tyra",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "GitHub — Heavenfall PS2 Game",
+        "url": "https://github.com/brendowvaz/heavenfall_ps2_game",
+        "keywords": [
+          "PS2",
+          "Heavenfall",
+          "Tyra",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "GitHub — Tower Defense for PS2",
+        "url": "https://github.com/DevWill-hub/Tower-Defense-game-for-PS2",
+        "keywords": [
+          "PS2",
+          "Tower Defense",
+          "AthenaEnv",
+          "homebrew game",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "GitHub — T-Rex PS2",
+        "url": "https://github.com/jcnmsg/T-Rex-PS2",
+        "keywords": [
+          "PS2",
+          "T-Rex",
+          "AthenaEnv",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "GitHub — BurnTrack PS2 Demo",
+        "url": "https://github.com/AthenaENV-PS2-GAMES/BurnTrack-PS2-DEMO",
+        "keywords": [
+          "PS2",
+          "BurnTrack",
+          "AthenaEnv",
+          "demo",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "GitHub — Snake Game PS2",
+        "url": "https://github.com/j0sedavi/Snake-Game-PS2",
+        "keywords": [
+          "PS2",
+          "Snake",
+          "AthenaEnv",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "GitHub — SpaceGame PS2",
+        "url": "https://github.com/RealLotex/SpaceGame-PS2",
+        "keywords": [
+          "PS2",
+          "SpaceGame",
+          "AthenaEnv",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "GitHub — 2048 PS2",
+        "url": "https://github.com/a1inani/2048-PS2",
+        "keywords": [
+          "PS2",
+          "2048",
+          "AthenaEnv",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "GitHub — Five Nights at Freddy's Sister Location PS2",
+        "url": "https://github.com/PauloDevv/FNAF-5-Sister-Location-PS2",
+        "keywords": [
+          "PS2",
+          "FNAF",
+          "Five Nights at Freddy's",
+          "Sister Location",
+          "AthenaEnv",
+          "fan port"
+        ]
+      },
+      {
+        "name": "GitHub — Super Mario World PS2",
+        "url": "https://github.com/obiot/SMW-PS2",
+        "keywords": [
+          "PS2",
+          "Super Mario World",
+          "SMW",
+          "homebrew port"
+        ]
+      },
+      {
+        "name": "GitHub — Pang PS2",
+        "url": "https://github.com/obiot/Pang-ps2",
+        "keywords": [
+          "PS2",
+          "Pang",
+          "homebrew port",
+          "game"
+        ]
+      },
+      {
+        "name": "GitHub — Star Fox 64 PS2 Port",
+        "url": "https://github.com/orlandodavidnina/sf64-ps2-port",
+        "keywords": [
+          "PS2",
+          "Star Fox 64",
+          "SF64",
+          "port",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "GitHub — Barulandia PS2",
+        "url": "https://github.com/jmgk77/BARULANDIA.PS2",
+        "keywords": [
+          "PS2",
+          "Barulandia",
+          "port",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "GitHub — Cuphead PS2",
+        "url": "https://github.com/eclipsebladestudio/Cuphead-PS2",
+        "keywords": [
+          "PS2",
+          "Cuphead",
+          "fan port",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "itch.io — Tennix PS2 Port",
+        "url": "https://thp.itch.io/tennix",
+        "keywords": [
+          "PS2",
+          "Tennix",
+          "tennis",
+          "SDL",
+          "port",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "itch.io — Dzzee PS2",
+        "url": "https://thp.itch.io/dzzee",
+        "keywords": [
+          "PS2",
+          "Dzzee",
+          "homebrew",
+          "port",
+          "thp"
+        ]
+      },
+      {
+        "name": "itch.io — Loonies 8192 PS2",
+        "url": "https://thp.itch.io/loonies-8192",
+        "keywords": [
+          "PS2",
+          "Loonies 8192",
+          "puzzle",
+          "homebrew",
+          "port"
+        ]
+      },
+      {
+        "name": "itch.io — Lisp Game Jam 2021 PS2 Shooter",
+        "url": "https://tommarkstalkscode.itch.io/lisp-game-jam-2021-ps2-shooter",
+        "keywords": [
+          "PS2",
+          "homebrew",
+          "game jam",
+          "Fennel",
+          "Lisp",
+          "shooter",
+          "Tom Marks"
+        ]
+      },
+      {
+        "name": "itch.io — Flappy Bird PS2",
+        "url": "https://5ber-ohs.itch.io/flappy-bird-ps2",
+        "keywords": [
+          "PS2",
+          "Flappy Bird",
+          "AthenaEnv",
+          "homebrew",
+          "port"
+        ]
+      },
+      {
+        "name": "itch.io — Pou PS2 Creator Page",
+        "url": "https://elmasas.itch.io/",
+        "keywords": [
+          "PS2",
+          "Pou PS2",
+          "Pou",
+          "SDL2",
+          "homebrew",
+          "port"
+        ]
+      },
+      {
+        "name": "itch.io — Forever Remake V2 PS2 Homebrew",
+        "url": "https://makeindieegames.itch.io/forever-remake-v20",
+        "keywords": [
+          "PS2",
+          "Forever Remake",
+          "homebrew",
+          "port",
+          "fan game"
+        ]
+      },
+      {
+        "name": "PSX-Place — PS2-Racer",
+        "url": "https://www.psx-place.com/resources/ps2-racer.426/",
+        "keywords": [
+          "PS2",
+          "PS2-Racer",
+          "James Lee",
+          "homebrew game",
+          "racing"
+        ]
+      },
+      {
+        "name": "GitHub — The Dungeon Game",
+        "url": "https://github.com/glampert/the-dungeon-game",
+        "keywords": [
+          "PS2",
+          "Dungeon Game",
+          "homebrew",
+          "Guilherme Lampert",
+          "action RPG"
+        ]
+      },
+      {
+        "name": "GitHub — Rockbot",
+        "url": "https://github.com/protoman/rockbot",
+        "keywords": [
+          "PS2",
+          "Rockbot",
+          "homebrew game",
+          "Mega Man inspired"
+        ]
+      },
+      {
+        "name": "Retroguru — XUMP The Final Run",
+        "url": "https://www.retroguru.com/xump/",
+        "keywords": [
+          "PS2",
+          "XUMP",
+          "The Final Run",
+          "Retroguru",
+          "homebrew",
+          "puzzle"
+        ]
+      },
+      {
+        "name": "PSX-Place — Ballion PS2",
+        "url": "https://www.psx-place.com/resources/ballion-ps2.423/",
+        "keywords": [
+          "PS2",
+          "Ballion",
+          "Crillion",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "GitHub — Dave Gnukem",
+        "url": "https://github.com/davidjoffe/dave_gnukem",
+        "keywords": [
+          "PS2",
+          "Dave Gnukem",
+          "Drakonite",
+          "port",
+          "homebrew",
+          "platform shooter"
+        ]
+      }
+    ]
+  }
+]
