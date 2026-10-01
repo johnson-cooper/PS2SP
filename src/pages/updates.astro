@@ -1,6 +1,14 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import ReportBrokenLink from "../components/ReportBrokenLink.astro";
 import { categoryLabel, formatDate, getProjects, projectUpdatedAt } from "../lib/catalog";
+
+function projectSourceUrl(project: Awaited<ReturnType<typeof getProjects>>[number]) {
+  if (project.data.source.provider === "github" && project.data.source.repository) {
+    return `https://github.com/${project.data.source.repository}`;
+  }
+  return project.data.source.url ?? project.data.homepage ?? `/project/${project.data.slug}`;
+}
 
 const projects = (await getProjects()).sort((a, b) =>
   new Date(projectUpdatedAt(b)).getTime() - new Date(projectUpdatedAt(a)).getTime()
@@ -28,20 +36,29 @@ const projects = (await getProjects()).sort((a, b) =>
       {projects.map((project) => {
         const date = projectUpdatedAt(project);
         return (
-          <a class="timeline-row" href={`/project/${project.data.slug}`}>
-            <time datetime={date}>{formatDate(date)}</time>
-            <span class="timeline-project">
-              <strong>{project.data.name}</strong>
-              <small>{project.data.summary}</small>
-            </span>
-            <span class="timeline-event">
-              {project.data.latestRelease.tag ? `Release ${project.data.latestRelease.tag}` : "Repository activity"}
-            </span>
-            <span class="timeline-type">
-              {categoryLabel(project.data.categories[0] ?? "uncategorized")}
-              <span class="row-arrow" aria-hidden="true">↗</span>
-            </span>
-          </a>
+          <div class="timeline-item">
+            <a class="timeline-row" href={`/project/${project.data.slug}`}>
+              <time datetime={date}>{formatDate(date)}</time>
+              <span class="timeline-project">
+                <strong>{project.data.name}</strong>
+                <small>{project.data.summary}</small>
+              </span>
+              <span class="timeline-event">
+                {project.data.latestRelease.tag ? `Release ${project.data.latestRelease.tag}` : "Repository activity"}
+              </span>
+              <span class="timeline-type">
+                {categoryLabel(project.data.categories[0] ?? "uncategorized")}
+                <span class="row-arrow" aria-hidden="true">↗</span>
+              </span>
+            </a>
+            <ReportBrokenLink
+              label={project.data.name}
+              url={projectSourceUrl(project)}
+              context="Recent activity listing"
+              pageUrl="/updates"
+              compact
+            />
+          </div>
         );
       })}
     </div>
