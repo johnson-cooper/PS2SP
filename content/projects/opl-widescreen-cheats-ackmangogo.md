@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T15:00:56.456Z'
+  lastSynchronized: '2026-10-01T23:13:30.011Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4f05112f0f2a3f75007d1fd222c77201d8b8fb793b31db98d6bfd42d43084c39"
+    releasesEtag: '"6e97244dccb1a8057b6d23242a745e659f8d5a95344f558f28f4c7a6a8dfce19"'
 discovery:
   method: 'fork-network:PS2-Widescreen/OPL-Widescreen-Cheats'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: PS2-Widescreen/OPL-Widescreen-Cheats
   source: PS2-Widescreen/OPL-Widescreen-Cheats
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

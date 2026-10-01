@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: '2022-05-26T01:12:48Z'
   url: 'https://github.com/israpps/PAKerUtility/releases/tag/v1.01'
 activity:
-  lastSynchronized: '2026-10-01T11:22:08.773Z'
+  lastSynchronized: '2026-10-01T23:13:33.020Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c6bd48b7715daf079303a7174662c86c9e296ec1fd10e61a45b05369e0453eab"
+    releasesEtag: W/"ddf3c14618b9b3a3016a6474704de14b1918d92d31490f7f2f9f416f4914e4de"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -43,5 +46,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

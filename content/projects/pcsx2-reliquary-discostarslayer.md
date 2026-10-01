@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/DiscoStarslayer/pcsx2-reliquary/releases/tag/v1.9.4-reliquary
 activity:
-  lastSynchronized: '2026-10-01T03:33:25.638Z'
+  lastSynchronized: '2026-10-01T23:13:34.660Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1046cc1f2fab80bae58ea825f46e798ba93a1b1f2cd79d3ca1883d398906cf6d"
-    releasesEtag: W/"4782d46c885c8cea8f5fdc84fa52c0b357e629da05667fa4307c88ce466491d8"
+    repoEtag: W/"c6cfd9ec7c09b88b6615f69e22ee8d2c293db8b16ca0a34b71aee2f68851b384"
+    releasesEtag: W/"114752fb4f1022b94f35e80c4f2e06f94c9e926abcd99ffe8e26349ad68f5836"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
