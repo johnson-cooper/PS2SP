@@ -2784,6 +2784,142 @@
     ]
   },
   {
+    "category": "Internet Archive PS2 Homebrew Files — HDD Tools",
+    "description": "Individual PlayStation 2 HDD utilities preserved in the Internet Archive ps2homebrewroms collection.",
+    "links": [
+      {
+        "name": "IA PS2 Homebrew — DMS HDD Dump Tool v1.0",
+        "url": "https://archive.org/download/ps2homebrewroms/hdd%20tools/DMS%20HDD%20Dump%20Tool%20v1.0.7z",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "HDD",
+          "HDD Tools"
+        ]
+      },
+      {
+        "name": "IA PS2 Homebrew — DMS HDD Explorer v1.0",
+        "url": "https://archive.org/download/ps2homebrewroms/hdd%20tools/DMS%20HDD%20Explorer%20v1.0.7z",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "HDD",
+          "HDD Tools"
+        ]
+      },
+      {
+        "name": "IA PS2 Homebrew — DMS HDD Format Tool v1.0",
+        "url": "https://archive.org/download/ps2homebrewroms/hdd%20tools/DMS%20HDD%20Format%20Tool%20v1.0.7z",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "HDD",
+          "HDD Tools"
+        ]
+      },
+      {
+        "name": "IA PS2 Homebrew — HDD HW Test (2016-08-10)",
+        "url": "https://archive.org/download/ps2homebrewroms/hdd%20tools/HDD%20HW%20Test%20%282016-08-10%29.7z",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "HDD",
+          "HDD Tools"
+        ]
+      },
+      {
+        "name": "IA PS2 Homebrew — HDDChecker v0.964 (2019-04-13)",
+        "url": "https://archive.org/download/ps2homebrewroms/hdd%20tools/HDDChecker%20v0.964%20%282019-04-13%29.7z",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "HDD",
+          "HDD Tools"
+        ]
+      },
+      {
+        "name": "IA PS2 Homebrew — HDDemolisher",
+        "url": "https://archive.org/download/ps2homebrewroms/hdd%20tools/HDDemolisher.7z",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "HDD",
+          "HDD Tools"
+        ]
+      },
+      {
+        "name": "IA PS2 Homebrew — HDLoader Game Installer v0.821 (2018-12-08)",
+        "url": "https://archive.org/download/ps2homebrewroms/hdd%20tools/HDLoader%20Game%20Installer%20v0.821%20%282018-12-08%29.7z",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "HDD",
+          "HDD Tools"
+        ]
+      },
+      {
+        "name": "IA PS2 Homebrew — HDLoader Game Updater v0.801R",
+        "url": "https://archive.org/download/ps2homebrewroms/hdd%20tools/HDLoader%20Game%20Updater%20v0.801R.7z",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "HDD",
+          "HDD Tools"
+        ]
+      },
+      {
+        "name": "IA PS2 Homebrew — Infinity DEV2 Installer v1.1",
+        "url": "https://archive.org/download/ps2homebrewroms/hdd%20tools/Infinity%20DEV2%20Installer%20v1.1.7z",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "HDD",
+          "HDD Tools"
+        ]
+      },
+      {
+        "name": "IA PS2 Homebrew — SoftDev2Installer v1.0.2",
+        "url": "https://archive.org/download/ps2homebrewroms/hdd%20tools/SoftDev2Installer%20v1.0.2.7z",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "HDD",
+          "HDD Tools"
+        ]
+      }
+    ]
+  },
+  {
     "category": "Internet Archive PS2 Homebrew Files — Homebrew Games & Ports",
     "description": "Individual homebrew games & ports files preserved in the Internet Archive ps2homebrewroms collection.",
     "links": [
