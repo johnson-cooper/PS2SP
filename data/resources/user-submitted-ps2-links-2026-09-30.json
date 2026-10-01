@@ -6,22 +6,53 @@
       {
         "name": "GameHacking.org — PS2 Code Database",
         "url": "https://gamehacking.org/?sys=ps2",
-        "keywords": ["PS2", "PlayStation 2", "cheats", "codes", "GameShark", "CodeBreaker", "Action Replay"]
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "cheats",
+          "codes",
+          "GameShark",
+          "CodeBreaker",
+          "Action Replay"
+        ]
       },
       {
         "name": "GameHacking.org — PS2 Hacking Library",
         "url": "https://gamehacking.org/library",
-        "keywords": ["PS2", "PlayStation 2", "MIPS", "PS2Dis", "hacking guides", "opcodes", "syscalls"]
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "MIPS",
+          "PS2Dis",
+          "hacking guides",
+          "opcodes",
+          "syscalls"
+        ]
       },
       {
         "name": "GameHacking.org Wiki — Hacking PlayStation 2",
         "url": "https://wiki.gamehacking.org/Hacking_PlayStation_2",
-        "keywords": ["PS2", "PlayStation 2", "GameShark", "Action Replay", "CodeBreaker", "code types"]
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GameShark",
+          "Action Replay",
+          "CodeBreaker",
+          "code types"
+        ]
       },
       {
         "name": "GameHacking.org — Project Artemis for PS2",
         "url": "https://gamehacking.org/artemis",
-        "keywords": ["PS2", "PlayStation 2", "Artemis", "PS2rd", "PS2CC", "debugger", "memory hacking"]
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Artemis",
+          "PS2rd",
+          "PS2CC",
+          "debugger",
+          "memory hacking"
+        ]
       }
     ]
   },
@@ -32,12 +63,27 @@
       {
         "name": "PS2ME — J2ME on PlayStation 2",
         "url": "https://wellinator.github.io/PS2ME/",
-        "keywords": ["PS2ME", "J2ME", "phoneME", "PS2SDK", "homebrew", "ELF", "MIDP"]
+        "keywords": [
+          "PS2ME",
+          "J2ME",
+          "phoneME",
+          "PS2SDK",
+          "homebrew",
+          "ELF",
+          "MIDP"
+        ]
       },
       {
         "name": "mast1c0re PS2 USB ELF Loader",
         "url": "https://github.com/McCaulay/mast1c0re-ps2-usb-elf-loader",
-        "keywords": ["mast1c0re", "Okage Shadow King", "USB", "ELF", "loader", "PS2"]
+        "keywords": [
+          "mast1c0re",
+          "Okage Shadow King",
+          "USB",
+          "ELF",
+          "loader",
+          "PS2"
+        ]
       }
     ]
   },
@@ -48,12 +94,25 @@
       {
         "name": "SKS Apps — PlayStation 2 ELF Menu Launchers",
         "url": "https://sksapps.haldrie.com/ps2launchers.php",
-        "keywords": ["SKS Apps", "uLaunchELF", "LaunchELF", "ELF", "launcher", "PS2"]
+        "keywords": [
+          "SKS Apps",
+          "uLaunchELF",
+          "LaunchELF",
+          "ELF",
+          "launcher",
+          "PS2"
+        ]
       },
       {
         "name": "Internet Archive — Unsorted PS2 Homebrews",
         "url": "https://archive.org/details/ps2homebrewroms",
-        "keywords": ["Internet Archive", "PS2 homebrew", "homebrew collection", "preservation", "ELF"]
+        "keywords": [
+          "Internet Archive",
+          "PS2 homebrew",
+          "homebrew collection",
+          "preservation",
+          "ELF"
+        ]
       }
     ]
   },
@@ -64,7 +123,13 @@
       {
         "name": "PS2 ELF Files and Descriptions",
         "url": "https://www.scribd.com/document/794253400/Config",
-        "keywords": ["PS2", "ELF", "configuration", "homebrew", "documentation"]
+        "keywords": [
+          "PS2",
+          "ELF",
+          "configuration",
+          "homebrew",
+          "documentation"
+        ]
       }
     ]
   },
@@ -75,7 +140,49 @@
       {
         "name": "Digital Foundry — PlayStation 2 Games",
         "url": "https://www.digitalfoundry.net/games/browse?system=ps2",
-        "keywords": ["Digital Foundry", "PS2", "PlayStation 2", "analysis", "performance", "games"]
+        "keywords": [
+          "Digital Foundry",
+          "PS2",
+          "PlayStation 2",
+          "analysis",
+          "performance",
+          "games"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Firmware & BIOS Preservation",
+    "description": "Preserved PlayStation 2 firmware, BIOS image collections, region/version references, and related archival material.",
+    "links": [
+      {
+        "name": "Internet Archive — Sony PlayStation 2 BIOS Images (Redump)",
+        "url": "https://archive.org/download/sony-playstation-2-bios-images-redump",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BIOS",
+          "firmware",
+          "Redump",
+          "Internet Archive",
+          "preservation",
+          "region BIOS",
+          "SCPH"
+        ]
+      },
+      {
+        "name": "Internet Archive — PS2 BIOS Megadump",
+        "url": "https://archive.org/details/ps2-bios-megadump",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BIOS",
+          "firmware",
+          "Internet Archive",
+          "preservation",
+          "BIOS images",
+          "regional BIOS"
+        ]
       }
     ]
   }
