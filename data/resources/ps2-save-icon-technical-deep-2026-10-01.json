@@ -1,0 +1,153 @@
+[
+  {
+    "category": "PS2 Save Icons & icon.sys — Deep Technical Index",
+    "description": "PlayStation 2 memory-card save icon formats, icon.sys structure, 3D icon parsing/rendering, conversion tools, extraction utilities and preservation databases.",
+    "links": [
+      {
+        "name": "PS2 Save Tools — Documents",
+        "url": "https://www.ps2savetools.com/documents/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save tools",
+          "memory card",
+          "documentation",
+          "icon.sys",
+          "3D icon",
+          "format"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — icon.sys Format",
+        "url": "https://www.ps2savetools.com/documents/iconsys-format/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "icon.sys",
+          "save icon",
+          "memory card",
+          "format",
+          "documentation",
+          "3D icon"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — bmp2icon",
+        "url": "https://www.ps2savetools.com/download/bmp2icon/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "bmp2icon",
+          "save icon",
+          "memory card",
+          "conversion",
+          "tool",
+          "icon.sys"
+        ]
+      },
+      {
+        "name": "PS2 Save Tools — Create Your Own Memory Card Icons",
+        "url": "https://www.ps2savetools.com/2003/03/02/create-your-own-memory-card-icons/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save icon",
+          "memory card",
+          "icon.sys",
+          "tutorial",
+          "3D icon",
+          "custom icon"
+        ]
+      },
+      {
+        "name": "Ghulbus Inc — PS2 IconSys Library & Tools",
+        "url": "https://www.ghulbus-inc.de/projects/ps2iconsys/index.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "IconSys",
+          "icon.sys",
+          "save icon",
+          "library",
+          "tool",
+          "development",
+          "memory card"
+        ]
+      },
+      {
+        "name": "SKS Apps — PS2 Memory Card Icon Tutorial",
+        "url": "https://sksapps.haldrie.com/tutorials/ps2/Icon_tutorial.php",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "SKS Apps",
+          "save icon",
+          "memory card",
+          "icon.sys",
+          "tutorial",
+          "3D icon"
+        ]
+      },
+      {
+        "name": "Babyno — Parsing PS2 3D Save Icons",
+        "url": "https://babyno.top/en/posts/2023/10/parsing-ps2-3d-icon/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save icon",
+          "3D icon",
+          "parser",
+          "reverse engineering",
+          "memory card",
+          "icon.sys",
+          "technical"
+        ]
+      },
+      {
+        "name": "Babyno — Rendering PS2 3D Save Icons",
+        "url": "https://babyno.top/en/posts/2023/10/rendering-ps2-3d-icon/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save icon",
+          "3D icon",
+          "renderer",
+          "graphics",
+          "memory card",
+          "icon.sys",
+          "technical"
+        ]
+      },
+      {
+        "name": "PS2IODB — PS2 Memory Card Save Asset Database & Extraction Tools",
+        "url": "https://github.com/Issung/PS2IODB",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2IODB",
+          "save tools",
+          "memory card",
+          "save icon",
+          "asset database",
+          "extraction",
+          "preservation"
+        ]
+      },
+      {
+        "name": "PS2-ICON-PARSER — PlayStation 2 Save Icon Parser",
+        "url": "https://github.com/DISC-Manchester/PS2-ICON-PARSER",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "save icon",
+          "3D icon",
+          "parser",
+          "memory card",
+          "reverse engineering",
+          "icon.sys",
+          "archived"
+        ]
+      }
+    ]
+  }
+]
