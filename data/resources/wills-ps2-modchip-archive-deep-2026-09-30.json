@@ -3342,6 +3342,64 @@
           "GitHub",
           "archived"
         ]
+      },
+      {
+        "name": "GBAtemp PS2 Modchip — ToxicBIOS v1.4 Firmware Update",
+        "url": "https://gbatemp.net/download/toxicbios-v1-4-firmware-update.37666/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "DMS4",
+          "DMS4 EZI",
+          "ToxicBIOS",
+          "firmware",
+          "GBAtemp",
+          "preservation"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Modchip — Matrix Infinity Firmware Update v1.93",
+        "url": "https://gbatemp.net/download/matrix-infinity-firmware-update-v1-93.37665/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "Matrix Infinity",
+          "firmware",
+          "GBAtemp",
+          "preservation"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Modchip — Matrix Infinity Installation Diagrams v1-v15",
+        "url": "https://gbatemp.net/download/matrix-infinity-installation-diagrams-v1-v15.23666/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "Matrix Infinity",
+          "installation",
+          "diagrams",
+          "hardware",
+          "GBAtemp",
+          "preservation"
+        ]
+      },
+      {
+        "name": "GBAtemp PS2 Modchip — Matrix Infinity Dev2 Install",
+        "url": "https://gbatemp.net/download/matrix-infinity-dev2-install.8053/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modchip",
+          "Matrix Infinity",
+          "DEV2",
+          "installation",
+          "guide",
+          "GBAtemp",
+          "preservation"
+        ]
       }
     ]
   }
