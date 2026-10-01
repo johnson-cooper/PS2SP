@@ -9,6 +9,7 @@ export interface SoftwareCatalogEntry {
   tags: string[];
   features: string[];
   href: string;
+  reportUrl: string;
   external: boolean;
   archived: boolean;
   releaseTag: string | null;
@@ -179,6 +180,7 @@ export async function getSoftwareCatalog(): Promise<SoftwareCatalogEntry[]> {
       ),
       features: project.data.features,
       href: `/project/${project.data.slug}`,
+      reportUrl: repositoryUrl ?? project.data.homepage ?? `/project/${project.data.slug}`,
       external: false,
       archived: project.data.repository.archived,
       releaseTag: project.data.latestRelease.tag ?? null,
@@ -216,6 +218,7 @@ export async function getSoftwareCatalog(): Promise<SoftwareCatalogEntry[]> {
       ),
       features: [],
       href: resource.url,
+      reportUrl: resource.url,
       external: true,
       archived: false,
       releaseTag: null,
