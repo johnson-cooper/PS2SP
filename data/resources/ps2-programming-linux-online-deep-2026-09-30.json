@@ -1,0 +1,1542 @@
+[
+  {
+    "category": "PS2 Programming — Lukasz.dk Archive",
+    "description": "Individual historical PS2DEV programming, toolchain, SDK, and developer-archive pages from Lukasz.dk.",
+    "links": [
+      {
+        "name": "Lukasz.dk PS2DEV — Building PS2 Toolchains and PS2SDK in MingW - Lukasz.dk",
+        "url": "https://lukasz.dk/playstation-2-programming/mingw-tutorial",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DEV",
+          "PS2SDK",
+          "toolchain",
+          "programming"
+        ]
+      },
+      {
+        "name": "Lukasz.dk PS2DEV — PS2DEV Archive - Lukasz.dk",
+        "url": "https://lukasz.dk/playstation-2-programming/archive",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DEV",
+          "PS2SDK",
+          "toolchain",
+          "programming"
+        ]
+      },
+      {
+        "name": "Lukasz.dk PS2DEV — Building PS2 Toolchains and PS2SDK in Cygwin - Lukasz.dk",
+        "url": "https://www.lukasz.dk/playstation-2-programming/cygwin-tutorial",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2DEV",
+          "PS2SDK",
+          "toolchain",
+          "programming"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Reverse Engineering — Retro Reversing",
+    "description": "Reverse-engineering references for PlayStation 2 demos, unstripped retail binaries, official SDK material, and platform analysis.",
+    "links": [
+      {
+        "name": "Retro Reversing PS2 — https://www.retroreversing.com/ps2-demos",
+        "url": "https://www.retroreversing.com/ps2-demos",
+        "keywords": [
+          "PS2",
+          "reverse engineering",
+          "SDK",
+          "symbols",
+          "demos"
+        ]
+      },
+      {
+        "name": "Retro Reversing PS2 — https://www.retroreversing.com/ps2-unstripped",
+        "url": "https://www.retroreversing.com/ps2-unstripped",
+        "keywords": [
+          "PS2",
+          "reverse engineering",
+          "SDK",
+          "symbols",
+          "demos"
+        ]
+      },
+      {
+        "name": "Retro Reversing PS2 — https://www.retroreversing.com/ps2-official-sdk",
+        "url": "https://www.retroreversing.com/ps2-official-sdk",
+        "keywords": [
+          "PS2",
+          "reverse engineering",
+          "SDK",
+          "symbols",
+          "demos"
+        ]
+      },
+      {
+        "name": "Retro Reversing PS2 — Sony Playstation 2",
+        "url": "https://www.retroreversing.com/ps2",
+        "keywords": [
+          "PS2",
+          "reverse engineering",
+          "SDK",
+          "symbols",
+          "demos"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Linux — KernelLoader",
+    "description": "KernelLoader releases and installation documentation for running Linux and other operating systems on PlayStation 2 hardware.",
+    "links": [
+      {
+        "name": "PS2 Linux KernelLoader — Playstation 2 Linux kernelloader (ps2dev)",
+        "url": "https://kernelloader.sourceforge.net",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "KernelLoader",
+          "FreeMCBoot",
+          "bootloader"
+        ]
+      },
+      {
+        "name": "PS2 Linux KernelLoader — Playstation 2 Linux kernelloader (ps2dev) - SourceForge",
+        "url": "https://kernelloader.sourceforge.net/kernelloader2.6.php",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "KernelLoader",
+          "FreeMCBoot",
+          "bootloader"
+        ]
+      },
+      {
+        "name": "PS2 Linux KernelLoader — Playstation 2 linux kernelloader (ps2dev)",
+        "url": "https://kernelloader.sourceforge.net/kernelloader2.0.php",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "KernelLoader",
+          "FreeMCBoot",
+          "bootloader"
+        ]
+      },
+      {
+        "name": "PS2 Linux KernelLoader — HOWTO: How to Install Linux on a Playstation 2 without Sony's ...",
+        "url": "https://kernelloader.sourceforge.net/tutorial/howtoinstalllinux.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "KernelLoader",
+          "FreeMCBoot",
+          "bootloader"
+        ]
+      },
+      {
+        "name": "PS2 Linux KernelLoader — Playstation 2 Linux kernelloader (ps2dev) - SourceForge",
+        "url": "https://kernelloader.sourceforge.net/kernelloader2.4.php",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "KernelLoader",
+          "FreeMCBoot",
+          "bootloader"
+        ]
+      },
+      {
+        "name": "PS2 Linux KernelLoader — Playstation 2 Linux kernelloader (ps2dev) - SourceForge",
+        "url": "https://kernelloader.sourceforge.net/kernelloader2.1.php",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "KernelLoader",
+          "FreeMCBoot",
+          "bootloader"
+        ]
+      },
+      {
+        "name": "PS2 Linux KernelLoader — Playstation 2 linux kernelloader (ps2dev)",
+        "url": "https://kernelloader.sourceforge.net/kernelloader1.7.php",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "KernelLoader",
+          "FreeMCBoot",
+          "bootloader"
+        ]
+      },
+      {
+        "name": "PS2 Linux KernelLoader — Playstation 2 linux kernelloader (ps2dev)",
+        "url": "https://kernelloader.sourceforge.net/kernelloader0.8.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "KernelLoader",
+          "FreeMCBoot",
+          "bootloader"
+        ]
+      },
+      {
+        "name": "PS2 Linux KernelLoader — Playstation 2 linux kernelloader (ps2dev)",
+        "url": "https://kernelloader.sourceforge.net/kernelloader1.8.php",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "KernelLoader",
+          "FreeMCBoot",
+          "bootloader"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Linux Community — Deep Index",
+    "description": "Preserved Linux for PlayStation 2 community projects, technical documentation, graphics/audio libraries, VU tooling, educational material, and hardware notes.",
+    "links": [
+      {
+        "name": "PS2 Linux Community — Linux (for PlayStation®2) Version 1.0 FAQ",
+        "url": "https://ps2-linux.tensioncore.com/faq.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Linux for PlayStation 2 Community: Project Info - ps2gl",
+        "url": "https://ps2-linux.tensioncore.com/projects/ps2gl",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Linux for PlayStation 2 Community: Sync on Green Monitor DB",
+        "url": "https://ps2-linux.tensioncore.com/sog.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — All Projects. - Linux for PlayStation 2 Community: Home",
+        "url": "https://ps2-linux.tensioncore.com/softwaremap/allgroups.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Info - Simple DirectMedia Layer",
+        "url": "https://ps2-linux.tensioncore.com/projects/libsdl.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Info - PS2 Linux without a Hard Disk Drive",
+        "url": "https://ps2-linux.tensioncore.com/projects/nohdd.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Info - Full scale clone of blender on X",
+        "url": "https://ps2-linux.tensioncore.com/projects/xblenderclone.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — mahjong 3d - Linux for PlayStation 2 Community: Project Info",
+        "url": "https://ps2-linux.tensioncore.com/projects/mah3d.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — vu coding stuff - Linux for PlayStation 2 Community: Project Info",
+        "url": "https://ps2-linux.tensioncore.com/projects/vustuff.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Info - PlayStation 2 Media Center",
+        "url": "https://ps2-linux.tensioncore.com/projects/ps2mc.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Info - ps2al - Linux for PlayStation 2 Community: Home",
+        "url": "https://ps2-linux.tensioncore.com/projects/ps2al.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Linux For $ONY PlayStatioin2",
+        "url": "https://ps2-linux.tensioncore.com/download/beterhans/PS2_linux_guide_cn.pdf",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — GIF/VIF/DMAtag disassembler - Summary",
+        "url": "https://ps2-linux.tensioncore.com/projects/detagger/index.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Info - Homebrew Haven",
+        "url": "https://ps2-linux.tensioncore.com/projects/haven/index.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Info - Playstation 2 Linux System Documentation",
+        "url": "https://ps2-linux.tensioncore.com/projects/p2lsd/index.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Lunar Lander - Summary",
+        "url": "https://ps2-linux.tensioncore.com/projects/lunarlander/index.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Info - VUC - VU Compiler",
+        "url": "https://ps2-linux.tensioncore.com/projects/vuc/index.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Info - PlayStation 2 for Education",
+        "url": "https://ps2-linux.tensioncore.com/projects/ps2edu/index.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Info - Advanced SPS2 Demos",
+        "url": "https://ps2-linux.tensioncore.com/projects/advsps2demos/index.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Info - PS2Linux System set up and usage HOWTOs",
+        "url": "https://ps2-linux.tensioncore.com/projects/system-howtos.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Info - Gentoo Linux on the PS2",
+        "url": "https://ps2-linux.tensioncore.com/projects/gentoo-ps2.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Browser (Traditional) - Linux for PlayStation 2 Community",
+        "url": "https://ps2-linux.tensioncore.com/softwaremap/trove_list7594.html?form_cat=11",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Upgrading RPM on Linux (for PlayStation®2)",
+        "url": "https://ps2-linux.tensioncore.com/download/apt/rpm-upgrade.pdf",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Info - Mozilla for PlayStation2",
+        "url": "https://ps2-linux.tensioncore.com/projects/mozilla-ps2/index.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — All Projects. - Linux for PlayStation 2 Community: Home",
+        "url": "https://ps2-linux.tensioncore.com/softwaremap/allgroupsdf42.html?project_search=A",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Linux for PlayStation 2 Community - News",
+        "url": "https://ps2-linux.tensioncore.com/forum/message8fc2.html?msg_id=51007",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Browser (Traditional) - Linux for PlayStation 2 Community",
+        "url": "https://ps2-linux.tensioncore.com/softwaremap/trove_list8bc0.html?form_cat=139",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Linux for PlayStation 2 Community - News",
+        "url": "https://ps2-linux.tensioncore.com/forum/messageb5f0.html?msg_id=51025",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Browser (Traditional) - Linux for PlayStation 2 Community",
+        "url": "https://ps2-linux.tensioncore.com/softwaremap/trove_listffb6.html?form_cat=113",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Linux for PlayStation 2 Community - Forums",
+        "url": "https://ps2-linux.tensioncore.com/forum/message4dce.html?msg_id=50175",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Stella (Atari 2600 emulator) for PS2 - Summary",
+        "url": "https://ps2-linux.tensioncore.com/projects/stella-ps2/index.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Mozilla for PlayStation2 - Files",
+        "url": "https://ps2-linux.tensioncore.com/project/shownotese9df.html?release_id=375",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Linux for PlayStation 2 Community",
+        "url": "https://ps2-linux.tensioncore.com/forum/message7ed9.html?msg_id=48431",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Login - Linux for PlayStation 2 Community: Home",
+        "url": "https://ps2-linux.tensioncore.com/account/login1b2c.html?filemodule_id=29",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Linux for PlayStation 2 Community - Forums",
+        "url": "https://ps2-linux.tensioncore.com/forum/indexbf55.html?group_id=1",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Linux for PlayStation 2 Community: Login",
+        "url": "https://ps2-linux.tensioncore.com/account/logine074.html?filemodule_id=292",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Member List - Linux for PlayStation 2 Community",
+        "url": "https://ps2-linux.tensioncore.com/project/memberlist0c6b.html?group_id=223",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Automatically interleaving data with the UNPACK VIFcode",
+        "url": "https://ps2-linux.tensioncore.com/download/vustuff/interleave-0.1.htm",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — File Release Notes and ... - Linux for PlayStation 2 Community",
+        "url": "https://ps2-linux.tensioncore.com/project/shownotese7df.html?release_id=174",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Project Browser (Traditional) - Linux for PlayStation 2 Community",
+        "url": "https://ps2-linux.tensioncore.com/softwaremap/trove_list7636.html?form_cat=201&page=3",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Untitled",
+        "url": "https://ps2-linux.tensioncore.com/docs/ps2linux/display_docfba9.html?docid=5&raw=1",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Linux for PlayStation 2 Community: Browse Bugs By Status",
+        "url": "https://ps2-linux.tensioncore.com/bug/xrhino-kernel/indexe6e8.html?set=open&order=submitted_by",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Linux for PlayStation 2 Community: Project Tree Browser",
+        "url": "https://ps2-linux.tensioncore.com/softwaremap/megatree.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Linux for PlayStation 2 Community: Project Info - SPS2 Demo",
+        "url": "https://ps2-linux.tensioncore.com/projects/sps2demo.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Linux for PlayStation 2 Community: Linux for PlayStation 2 in ...",
+        "url": "https://ps2-linux.tensioncore.com/education/index.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Linux for PlayStation 2 Community: Project Info - PlayStation ...",
+        "url": "https://ps2-linux.tensioncore.com/projects/beterhans.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Linux for PlayStation 2 Community: Project Documentation",
+        "url": "https://ps2-linux.tensioncore.com/docs/psxide.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — PlayStation 2 Mouse Wheel Mini-HOWTO",
+        "url": "https://ps2-linux.tensioncore.com/download/mozilla-ps2/ps2mousewheel.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      },
+      {
+        "name": "PS2 Linux Community — Linux for PlayStation 2 Community: Project Documentation",
+        "url": "https://ps2-linux.tensioncore.com/docs/elite.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "homebrew",
+          "development",
+          "VU",
+          "GS"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Online — Deep Index",
+    "description": "PlayStation 2 online-game lists, server-status pages, DNAS/DNS-related revival material, and game-specific online service pages.",
+    "links": [
+      {
+        "name": "PS2 Online — Official List of PlayStation 2 Online Games (2026)",
+        "url": "https://ps2online.com/list",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — PlayStation 2 Online - Official Community",
+        "url": "https://ps2online.com",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — NFS:U Server \"PlayStation 2 Online NFSU ...",
+        "url": "https://ps2online.com/nfsu",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — Mortal Kombat: Armageddon - Matches",
+        "url": "https://ps2online.com/mka/last7daysfights",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — Mortal Kombat: Armageddon - Matches",
+        "url": "https://ps2online.com/mka/last3daysfights",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — PES 6 Games",
+        "url": "https://ps2online.com/pes6/games",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — Ranking - Mortal Kombat: Armageddon",
+        "url": "https://ps2online.com/mka/ranking",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — OSList",
+        "url": "https://ps2online.com/oslist.php?game=halor",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — OSList",
+        "url": "https://ps2online.com/oslist.php?game=mclub3ps2",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — OSList - ps2online.com",
+        "url": "https://ps2online.com/oslist.php?game=swbfront2ps2",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — OSList - PS2 Online",
+        "url": "https://ps2online.com/oslist.php?game=marvlegps2",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — OSList - PS2 Online",
+        "url": "https://ps2online.com/oslist.php?game=callofdutyps2",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — OSList - PS2 Online",
+        "url": "https://www.ps2online.com/oslist.php?game=blkhwkdnps2",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — OSList - ps2online.com",
+        "url": "https://www.ps2online.com/oslist.php?game=indycarps2",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — OSList - ps2online.com",
+        "url": "https://ps2online.com/oslist.php?game=thps4ps2",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — PES 6 Games - ps2online.com",
+        "url": "https://ps2online.com/pes6/games/index.php?page=469",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — OSList - ps2online.com",
+        "url": "https://www.ps2online.com/oslist.php?game=thps6ps2",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — OSList - ps2online.com",
+        "url": "https://ps2online.com/oslist.php?game=flatoutps2",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — OSList - ps2online.com",
+        "url": "https://ps2online.com/oslist.php?game=bfield1942ps2",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — OSList - ps2online.com",
+        "url": "https://www.ps2online.com/oslist.php?game=uchaosrrps2",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — OSList - ps2online.com",
+        "url": "https://ps2online.com/oslist.php?game=thps3ps2",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — OSList - ps2online.com",
+        "url": "https://www.ps2online.com/oslist.php?game=fwarriorps2",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — www.ps2online.com",
+        "url": "https://www.ps2online.com/pes6/games/stats.php?id=Chinese&page=995",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — PlayStation 2 Online - Official Community",
+        "url": "https://ps2online.com/aron.php",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — www.ps2online.com",
+        "url": "https://www.ps2online.com/pes6/games/stats.php?id=cowboypes&page=600",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — ps2online.com",
+        "url": "https://ps2online.com/pes6/games/stats.php?id=Micael97&page=1100",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — Mortal Kombat: Armageddon - Ranking",
+        "url": "https://www.ps2online.com/mkarmps2/ranking",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — ps2online.com",
+        "url": "https://ps2online.com/pes6/games/stats.php?id=THURAN-23",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      },
+      {
+        "name": "PS2 Online — ps2online.com",
+        "url": "https://ps2online.com/pes6/games/stats.php?id=G4BRI3L&page=500",
+        "keywords": [
+          "PS2",
+          "online",
+          "DNAS",
+          "DNS",
+          "server revival"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Online Revival — PS Rewired",
+    "description": "PlayStation 2-specific PS Rewired setup guides and revived online-server status/reference pages.",
+    "links": [
+      {
+        "name": "PS Rewired — PSRewired Online Servers",
+        "url": "https://psrewired.com",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for SOCOM Fireteam Bravo II NTSC/PAL",
+        "url": "https://psrewired.com/servers/20304",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — How to play SOCOM II Online",
+        "url": "https://psrewired.com/guides/socom2",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for SOCOM II NTSC",
+        "url": "https://psrewired.com/servers/10472",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — How to setup the PS2 / PCSX2 for online play",
+        "url": "https://psrewired.com/guides/pcsx2",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Resistance: Fall of Man (All Regions)",
+        "url": "https://psrewired.com/servers/20174",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Resistance 2",
+        "url": "https://psrewired.com/servers/21734",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Motorstorm Apocalypse NTSC",
+        "url": "https://psrewired.com/servers/22500",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Syphon Filter: Omega Strain KOR",
+        "url": "https://psrewired.com/servers/10794",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Destruction Derby Arena NTSC / PAL",
+        "url": "https://psrewired.com/servers/10538",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for F1 2005 PAL",
+        "url": "https://psrewired.com/servers/10954",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for SOCOM Fireteam Bravo NTSC/PAL",
+        "url": "https://psrewired.com/servers/20034",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Amplitude NTSC",
+        "url": "https://psrewired.com/servers/10164",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Hardware Online Arena PAL/AUS/KOR",
+        "url": "https://psrewired.com/servers/10130",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Killzone NTSC / PAL",
+        "url": "https://psrewired.com/servers/10724",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Gretzky NHL '06",
+        "url": "https://psrewired.com/servers/11234",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Killzone PAL BETA",
+        "url": "https://psrewired.com/servers/10442",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Playstation Home",
+        "url": "https://psrewired.com/servers/20374",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for SOCOM Tactical Strike NTSC/PAL",
+        "url": "https://psrewired.com/servers/21244",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for SOCOM I (All Regions)",
+        "url": "https://psrewired.com/servers/97134",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Syphon Filter: Omega Strain PAL BETA",
+        "url": "https://psrewired.com/servers/10412",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for WRC 4 PAL",
+        "url": "https://psrewired.com/servers/10394",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for ATV Offroad Fury: Blazin Trails PAL",
+        "url": "https://psrewired.com/servers/11424",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for SOCOM II KOR",
+        "url": "https://psrewired.com/servers/10511",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Ratchet & Clank: Size Matters NTSC BETA",
+        "url": "https://psrewired.com/servers/20770",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Gran Turismo 4 Online NTSC BETA",
+        "url": "https://psrewired.com/servers/10782",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Amplitude PAL",
+        "url": "https://psrewired.com/servers/10314",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for SOCOM II NTSC BETA",
+        "url": "https://psrewired.com/servers/10202",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for SOCOM II Japan",
+        "url": "https://psrewired.com/servers/10501",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for WRC Rally Evolved PAL",
+        "url": "https://psrewired.com/servers/10934",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Hotshots Golf Fore! NTSC",
+        "url": "https://psrewired.com/servers/10584",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for ATV Offroad Fury 2 Retail / NFR",
+        "url": "https://psrewired.com/servers/10284",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for SOCOM Confrontation",
+        "url": "https://psrewired.com/servers/21094",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Gretzky NHL '05",
+        "url": "https://psrewired.com/servers/10964",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Arc the Lad: End of Darkness NTSC",
+        "url": "https://psrewired.com/servers/10984",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for Unknown",
+        "url": "https://psrewired.com/servers/10221",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for SOCOM I Competitive",
+        "url": "https://psrewired.com/servers/1337",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS Rewired — Server status for ATV Offroad Fury: Blazin Trails NTSC",
+        "url": "https://psrewired.com/servers/10884",
+        "keywords": [
+          "PS2",
+          "online",
+          "server revival",
+          "DNAS",
+          "PCSX2"
+        ]
+      }
+    ]
+  }
+]
