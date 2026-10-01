@@ -1,0 +1,228 @@
+[
+  {
+    "category": "Independent PS2 Development & Reverse-Engineering Pages — Wave 2",
+    "description": "Scattered PlayStation 2 development, debugging, serial, SDK, reverse-engineering and homebrew articles from personal sites and older technical communities.",
+    "links": [
+      {
+        "name": "Michael Kohn — PlayStation 2 Programming",
+        "url": "https://www.mikekohn.net/software/playstation2.php",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Michael Kohn",
+          "programming",
+          "homebrew",
+          "development",
+          "PS2DEV",
+          "example",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "RetroReversing — SN Systems Network Development Kit for PS2",
+        "url": "https://www.retroreversing.com/sn-systems-network-development-kit-for-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "SN Systems",
+          "Network Development Kit",
+          "development hardware",
+          "reverse engineering",
+          "debugging"
+        ]
+      },
+      {
+        "name": "Hackaday — PlayStation 2 Serial Port",
+        "url": "https://hackaday.com/2006/01/24/playstation-2-serial-port/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "serial",
+          "hardware",
+          "development",
+          "debugging",
+          "homebrew",
+          "PS2DEV"
+        ]
+      },
+      {
+        "name": "Severalfighters — PS2 Homebrew and Tyra: First Impressions",
+        "url": "https://severalfighters.net/ps2-homebrew-and-tyra-first-impressions/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Tyra",
+          "homebrew",
+          "development",
+          "VU",
+          "graphics",
+          "game engine",
+          "article"
+        ]
+      },
+      {
+        "name": "CTurt — Cinoop Game Boy Emulator (PS2 port notes)",
+        "url": "https://cturt.github.io/cinoop.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Cinoop",
+          "Game Boy",
+          "emulator",
+          "homebrew",
+          "development",
+          "graphics"
+        ]
+      },
+      {
+        "name": "psXtools Germany — PS2 Programming Discussion",
+        "url": "https://psxtools.de/forum/index.php?thread/12523-ps2-programmieren/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "German",
+          "Germany",
+          "programming",
+          "PS2SDK",
+          "gsKit",
+          "homebrew",
+          "forum"
+        ]
+      },
+      {
+        "name": "Lukasz Mirror — Homebrew Booting on Unmodified Consoles",
+        "url": "http://oopo.lukasz.dk/mirror/forums.ps2dev.org/viewtopic499d.html?t=672",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Independence Exploit",
+          "homebrew",
+          "booting",
+          "tutorial",
+          "PS2DEV",
+          "mirror",
+          "preservation"
+        ]
+      },
+      {
+        "name": "ASSEMblerGames — PS2 Homebrew Development / Launch Arguments",
+        "url": "https://assemblergames.org/viewtopic.php?t=35612",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew",
+          "development",
+          "launch arguments",
+          "forum",
+          "ASSEMblerGames",
+          "preservation"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Memory Card & Host Utilities — Wave 2",
+    "description": "Additional PlayStation 2 memory-card managers, formatters, host utilities and transfer tools across modern and legacy platforms.",
+    "links": [
+      {
+        "name": "PS2 Homebrew Store — PC Tools",
+        "url": "https://ps2homebrewstore.com/pc-tools/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PC tools",
+          "memory card",
+          "mymc++",
+          "host tools",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2 Memory Card Formatter",
+        "url": "https://github.com/Zero1UP/PS2-Memory-Card-Formatter",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "formatter",
+          "homebrew",
+          "utility",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "mymc_web — Web PS2 Memory Card Manager",
+        "url": "https://github.com/BAD-AL/mymc_web",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "memory card",
+          "PCSX2",
+          "mymc",
+          "web",
+          "manager",
+          "host tool",
+          "GitHub"
+        ]
+      },
+      {
+        "name": "GameBrew — PS Multi Tools",
+        "url": "https://www.gamebrew.org/wiki/PS_Multi_Tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS Multi Tools",
+          "memory card",
+          "FMCB",
+          "format",
+          "extract",
+          "host tool"
+        ]
+      },
+      {
+        "name": "OS4Depot — ps2client for AmigaOS 4",
+        "url": "https://os4depot.net/?function=showfile&file=development/cross/ps2client.lha",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ps2client",
+          "ps2link",
+          "AmigaOS",
+          "host tool",
+          "development",
+          "networking",
+          "VU"
+        ]
+      },
+      {
+        "name": "ReviveToday — FreeMCBoot Tutorial",
+        "url": "https://revive.today/ps2/freemcboot-tutorial",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FMCB",
+          "Free McBoot",
+          "memory card",
+          "softmod",
+          "tutorial",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Flyback Labs — FreeMCBoot and Open PS2 Loader Basics",
+        "url": "https://flybacklabs.com/exploring-the-basics-of-playstation-2-soft-modding-with-freemcboot-and-open-ps2-loader-opl/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "FMCB",
+          "Free McBoot",
+          "OPL",
+          "Open PS2 Loader",
+          "softmod",
+          "memory card",
+          "tutorial"
+        ]
+      }
+    ]
+  }
+]
