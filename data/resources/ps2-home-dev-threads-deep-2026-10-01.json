@@ -1,0 +1,525 @@
+[
+  {
+    "category": "PS2-HOME — Programming & PS2SDK Deep Threads",
+    "description": "Individual PS2-HOME development/tutorial threads covering PS2SDK, toolchains, graphics, VU1, OSDSYS, PS1DRV, emulators, engines, debugging and developer utilities.",
+    "links": [
+      {
+        "name": "PS2-HOME Dev — PS2DEV: An Introduction to PS2DEV and its History",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=103&t=73",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "PS2DEV",
+          "history",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — PS2 BIOS Modules Definitions",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=103&t=423",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "BIOS",
+          "modules",
+          "development",
+          "documentation"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — PlayStation 2 Architecture — A Practical Analysis",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=103&t=9612",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "architecture",
+          "hardware",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — How to Build Open PS2 Loader Using Docker",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=103&t=9537",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "OPL",
+          "Docker",
+          "build",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — How to Compile Open PS2 Loader on Linux",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=50&t=9491",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "OPL",
+          "Linux",
+          "build",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — OSDSYS Notes",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=103&t=8746",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "OSDSYS",
+          "BIOS",
+          "reverse engineering",
+          "documentation"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — How to Draw Pixel-Perfect Sprites on PS2",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=103&t=3481",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "graphics",
+          "sprites",
+          "GS",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — PS2 PS1DRV Documentation",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=103&t=7968",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "PS1DRV",
+          "PS1",
+          "documentation",
+          "reverse engineering"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — Compiling ScummVM for PlayStation 2",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=103&t=6903",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "ScummVM",
+          "emulator",
+          "build",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — BAT to Install / Update PS2SDK",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=103&t=560",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "PS2SDK",
+          "toolchain",
+          "Windows",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — AthenaEnv — Enhanced JavaScript Environment",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=121&t=13773",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "AthenaEnv",
+          "JavaScript",
+          "runtime",
+          "homebrew",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — PS1DRV — PS1 Mode Development",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=40&t=418",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "PS1DRV",
+          "PS1",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — PS2 High Resolution 3D Rendering",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=40&t=3033",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "graphics",
+          "3D",
+          "GS",
+          "rendering",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — Tyra — Open Source Renderer and Game Engine",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=58&t=10295",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "Tyra",
+          "game engine",
+          "renderer",
+          "homebrew",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — PS2SDK VU1 Support",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=40&t=10282",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "PS2SDK",
+          "VU1",
+          "Vector Unit",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — Updated Homebrew Toolchain for PS2",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=40&t=8949",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "toolchain",
+          "PS2SDK",
+          "homebrew",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — Hacking the PS2 with Yabasic",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=40&t=8335",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "YABASIC",
+          "exploit",
+          "homebrew",
+          "security"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — Extracting / Remaking the PS2 Startup Animation",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=40&t=14340",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "startup animation",
+          "BIOS",
+          "OSDSYS",
+          "reverse engineering"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — How to Get Into PS2 Homebrew Development",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=40&t=10976",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "homebrew",
+          "development",
+          "tutorial",
+          "PS2SDK"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — SDL Issues on PS2",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=40&t=12624",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "SDL",
+          "joystick",
+          "graphics",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — Compiling Kernelloader 3.0",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=40&t=13062",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "Kernelloader",
+          "Linux",
+          "build",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — Error Compiling PS2 Toolchain",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=40&t=13253",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "toolchain",
+          "compiler",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — Compiling PS2SDK on Linux Mint / VirtualBox",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=40&t=12680",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "PS2SDK",
+          "Linux Mint",
+          "VirtualBox",
+          "build",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — PS2SDK gsKit Font Draw Problem",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=40&t=13302",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "PS2SDK",
+          "gsKit",
+          "font",
+          "graphics",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — CD Version of the PS2Dev BP Demo",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=121&t=347",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "PS2DEV",
+          "BP Demo",
+          "demoscene",
+          "demo"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — IFCARO 3D",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=121&t=2865",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "IFCARO 3D",
+          "3D",
+          "library",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — PlayLua v2.8 IDE",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=58&t=4505",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "PlayLua",
+          "Lua",
+          "IDE",
+          "development",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — Pre-built Homebrew PS2 MinGW Toolchain",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=121&t=6514",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "MinGW",
+          "toolchain",
+          "PS2SDK",
+          "Windows",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — Precompiled Win32 PS2SDK 5.0",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=121&t=927",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "PS2SDK",
+          "Win32",
+          "toolchain",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — PS2 DVD Player MOD",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=121&t=7088",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "DVD Player",
+          "mod",
+          "krHACKen",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — PS2 ID Dumper",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=121&t=1878",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "ID Dumper",
+          "keys",
+          "CDVD",
+          "utility",
+          "reverse engineering"
+        ]
+      },
+      {
+        "name": "PS2-HOME Dev — Standalone PS2SDK and OPL Offline Setup",
+        "url": "https://www.ps2-home.com/forum/viewtopic.php?f=121&t=578",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2-HOME",
+          "forum",
+          "development",
+          "homebrew",
+          "PS2SDK",
+          "OPL",
+          "offline",
+          "toolchain",
+          "development"
+        ]
+      }
+    ]
+  }
+]
