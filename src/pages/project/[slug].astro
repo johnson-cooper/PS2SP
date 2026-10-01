@@ -1,6 +1,7 @@
 ---
 import { render } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import ReportBrokenLink from "../../components/ReportBrokenLink.astro";
 import { categoryLabel, formatDate, getProjects, projectUpdatedAt } from "../../lib/catalog";
 
 export async function getStaticPaths() {
@@ -42,9 +43,42 @@ const updatedAt = projectUpdatedAt(project);
     </div>
 
     <div class="project-actions">
-      {project.data.latestRelease.url && <a class="button primary" href={project.data.latestRelease.url} target="_blank" rel="noopener noreferrer">Latest release ↗</a>}
-      {sourceUrl && <a class="button" href={sourceUrl} target="_blank" rel="noopener noreferrer">Source ↗</a>}
-      {project.data.homepage && <a class="button" href={project.data.homepage} target="_blank" rel="noopener noreferrer">Website ↗</a>}
+      {project.data.latestRelease.url && (
+        <div class="project-action-group">
+          <a class="button primary" href={project.data.latestRelease.url} target="_blank" rel="noopener noreferrer">Latest release ↗</a>
+          <ReportBrokenLink
+            label={`${project.data.name} latest release`}
+            url={project.data.latestRelease.url}
+            context="Project latest release"
+            pageUrl={`/project/${project.data.slug}`}
+            compact
+          />
+        </div>
+      )}
+      {sourceUrl && (
+        <div class="project-action-group">
+          <a class="button" href={sourceUrl} target="_blank" rel="noopener noreferrer">Source ↗</a>
+          <ReportBrokenLink
+            label={`${project.data.name} source`}
+            url={sourceUrl}
+            context="Project source"
+            pageUrl={`/project/${project.data.slug}`}
+            compact
+          />
+        </div>
+      )}
+      {project.data.homepage && (
+        <div class="project-action-group">
+          <a class="button" href={project.data.homepage} target="_blank" rel="noopener noreferrer">Website ↗</a>
+          <ReportBrokenLink
+            label={`${project.data.name} website`}
+            url={project.data.homepage}
+            context="Project website"
+            pageUrl={`/project/${project.data.slug}`}
+            compact
+          />
+        </div>
+      )}
     </div>
   </header>
 
@@ -57,9 +91,41 @@ const updatedAt = projectUpdatedAt(project);
         <div><span>PS2SP update</span><strong>{formatDate(updatedAt)}</strong></div>
       </section>
 
-      <article class="prose project-prose">
+      <article class="prose project-prose" data-report-prose-links>
         <Content />
       </article>
+
+      <script>
+        const prose = document.querySelector<HTMLElement>("[data-report-prose-links]");
+        if (prose) {
+          const externalLinks = [...prose.querySelectorAll<HTMLAnchorElement>('a[href^="http://"], a[href^="https://"]')];
+          for (const link of externalLinks) {
+            if (link.classList.contains("report-broken-link")) continue;
+            const targetUrl = link.href;
+            const issueTitle = `Broken link: ${targetUrl}`;
+            const issueBody = [
+              "### Broken link report",
+              "",
+              `- Item: ${link.textContent?.trim() || targetUrl}`,
+              `- URL: ${targetUrl}`,
+              " - Context: Project documentation / writeup",
+              `- PS2SP page: ${window.location.pathname}`,
+              "",
+              "The link appears to be broken, unavailable, or no longer points to the indexed PS2 resource."
+            ].join("\\n");
+
+            const report = document.createElement("a");
+            report.className = "inline-link-report report-broken-link";
+            report.href = `https://github.com/johnson-cooper/PS2SP/issues/new?title=${encodeURIComponent(issueTitle)}&body=${encodeURIComponent(issueBody)}`;
+            report.target = "_blank";
+            report.rel = "noopener noreferrer";
+            report.textContent = "report";
+            report.setAttribute("aria-label", `Report broken link: ${targetUrl}`);
+            report.title = `Report broken link: ${targetUrl}`;
+            link.insertAdjacentElement("afterend", report);
+          }
+        }
+      </script>
 
       {project.data.features.length > 0 && (
         <section class="feature-section">
