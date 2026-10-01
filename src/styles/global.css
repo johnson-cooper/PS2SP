@@ -1768,3 +1768,17 @@ h3 { margin: 0; }
     transition: none;
   }
 }
+
+
+/* Linked brand hit-area hardening */
+.brand {
+  display: inline-flex;
+  align-items: center;
+  min-width: max-content;
+  cursor: pointer;
+  z-index: 2;
+}
+.brand img {
+  pointer-events: none;
+  user-select: none;
+}
