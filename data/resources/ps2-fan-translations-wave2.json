@@ -1,0 +1,376 @@
+[
+  {
+    "category": "Custom Content & Game Mods",
+    "description": "PlayStation 2 fan translations and translation tooling, including complete patches, works in progress, reverse-engineering projects, and multilingual patches. These are patches/tools only, not retail game dumps.",
+    "links": [
+      {
+        "name": "PS2 Fan Translation — Detective Conan: Legacy of the British Empire English Patch",
+        "url": "https://github.com/conan-patches/ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Detective Conan",
+          "English translation",
+          "fan translation",
+          "xdelta",
+          "real hardware"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Super Robot Taisen OG Gaiden English Patch",
+        "url": "https://github.com/camd11/srw-og-gaiden-en",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Super Robot Taisen",
+          "OG Gaiden",
+          "English translation",
+          "fan patch",
+          "SLPS-25836"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Cowboy Bebop: Tsuioku no Serenade English Patch",
+        "url": "https://github.com/SONICMAN69/Bebop-PS2-English",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Cowboy Bebop",
+          "English translation",
+          "fan patch",
+          "real hardware"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Chobits: Chiidake no Hito English Translation",
+        "url": "https://github.com/sam8457/Chobits-Translation-Project",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Chobits",
+          "English translation",
+          "fan patch",
+          "subtitles",
+          "SLPM-65255"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Ape Escape: Million Monkeys English Patch Tool",
+        "url": "https://github.com/hypermegacrash/MMTextGadget",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Ape Escape",
+          "Million Monkeys",
+          "English patch",
+          "translation tool"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Super Robot Taisen Resonance Translation",
+        "url": "https://github.com/AGTTeam/ResonanceTranslation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "PS2",
+          "fan translation",
+          "AGTTeam",
+          "English patch"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Fullmetal Alchemist Kami Translation",
+        "url": "https://github.com/AGTTeam/FMAKamiTranslation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Fullmetal Alchemist",
+          "PS2",
+          "fan translation",
+          "English patch"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Biohazard Outbreak File 2 Korean Translation Patch",
+        "url": "https://github.com/blueroses107-ai/Biohazard---outbreak-file-2-korean-translation-patch-",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Biohazard",
+          "Resident Evil Outbreak File 2",
+          "Korean translation",
+          "fan patch"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Biohazard Outbreak Korean Translation Patch",
+        "url": "https://github.com/blueroses107-ai/Biohazard---outbreak-korean-translation-patch-",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Biohazard",
+          "Resident Evil Outbreak",
+          "Korean translation",
+          "fan patch"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Duel Masters Birth of Super Dragon English Patch",
+        "url": "https://github.com/misty-dive/duel-masters-botsd-english-patch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Duel Masters",
+          "English translation",
+          "fan patch"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Elminage PS2 English Patch",
+        "url": "https://github.com/ScatterdBrain/Elminage-Yami-no-Miko-to-Kamigami-no-Yubiwa-PS2-English-Patch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Elminage",
+          "English translation",
+          "PS2",
+          "fan patch"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Bistro Cupid 2 Korean Patch",
+        "url": "https://github.com/jjpatch12/bistro-cupid-2-korean-patch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Bistro Cupid 2",
+          "Korean translation",
+          "PS2"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Suikoden IV Korean Patch",
+        "url": "https://github.com/melonoolong/Suikoden4_KR_Patch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Suikoden IV",
+          "Korean translation",
+          "PS2"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Simple 2000 Ultimate Vol. 5 Love Mahjong English Patch",
+        "url": "https://github.com/ScatterdBrain/Simple-2000-Ultimate-Vol.-5-Love-Mahjong-PS2-English-Translation-Patch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Simple 2000",
+          "Love Mahjong",
+          "English translation",
+          "PS2"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Blokus Club with Bumpy Trot English Patch",
+        "url": "https://github.com/ScatterdBrain/Blokus-Club-with-Bumpy-Trot-PS2-English-Translation-Patch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Blokus Club",
+          "Bumpy Trot",
+          "Steambot Chronicles",
+          "English translation",
+          "PS2"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — PachiPara 12 English Translation",
+        "url": "https://github.com/ScatterdBrain/PachiPara-12-Oumi-to-Natsu-no-Omoide-PS2-English-Translation-Patch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "PachiPara 12",
+          "English translation",
+          "PS2",
+          "IREM"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — SuperLite 2000 Table Hanafuda English Patch",
+        "url": "https://github.com/ScatterdBrain/SuperLite-2000-Table-Hanafuda-PS2-English-Translation-Patch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "SuperLite 2000",
+          "Hanafuda",
+          "English translation",
+          "PS2"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — HoiHoi-san English Translation",
+        "url": "https://github.com/madrxx/hoihoi-en",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "HoiHoi-san",
+          "English translation",
+          "PS2",
+          "fan patch"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Macross PS2 Fan Translation Tooling",
+        "url": "https://github.com/chummy778/Macross-PS2-Fan-Translation-Tooling",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Macross",
+          "fan translation",
+          "PS2",
+          "tooling"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Phantasy Star Generation 2 English Translation",
+        "url": "https://www.pscave.com/psg2/download/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Phantasy Star Generation 2",
+          "English translation",
+          "PS2",
+          "xdelta"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Growlanser VI English Translation Project",
+        "url": "https://growlanser6english.blogspot.com/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Growlanser VI",
+          "English translation",
+          "PS2",
+          "fan translation"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Busin 0 English Translation",
+        "url": "https://busin0-en.pages.dev/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Busin 0",
+          "Wizardry Alternative Neo",
+          "English translation",
+          "PS2",
+          "fan translation"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Busin 0 Translation Source",
+        "url": "https://github.com/Fabulu/Busin0Translation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Busin 0",
+          "English translation",
+          "PS2",
+          "reverse engineering",
+          "tooling"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Ys V: Lost Kefin English Project",
+        "url": "https://github.com/Kaisaan/lostkefin",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Ys V",
+          "Lost Kefin",
+          "English translation",
+          "PS2"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — Venus & Braves English Translation Project Thread",
+        "url": "https://gbatemp.net/threads/venus-braves-english-translation-project-ps2.682019/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "Venus & Braves",
+          "English translation",
+          "PS2",
+          "fan translation"
+        ]
+      },
+      {
+        "name": "PS2 Fan Translation — PS2 Translation Tooling — UMDReplaceK",
+        "url": "https://github.com/SpudManTwo/UMDReplaceK",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "fan translation",
+          "translation patch",
+          "PS2",
+          "translation tool",
+          "ISO file replacement",
+          "fan translation",
+          "modding"
+        ]
+      }
+    ]
+  }
+]
