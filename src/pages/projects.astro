@@ -1,9 +1,9 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ProjectDirectory from "../components/ProjectDirectory.astro";
-import { getProjects } from "../lib/catalog";
+import { getSoftwareCatalog } from "../lib/software";
 
-const projects = await getProjects();
+const software = await getSoftwareCatalog();
 ---
 
 <BaseLayout title="Software">
@@ -11,10 +11,10 @@ const projects = await getProjects();
     <div>
       <p class="eyebrow">Software registry</p>
       <h1>Software index</h1>
-      <p class="lead">A dense, searchable registry of PS2 homebrew, loaders, launchers, tools, SDKs, ports, emulators and related software. Quiet does not mean abandoned; source state is reported separately from editorial status.</p>
+      <p class="lead">A dense, searchable registry of PS2 homebrew, games, ports, loaders, launchers, tools, SDKs, emulators and related software. Tracked projects include rich repository metadata; legacy and externally hosted software remains searchable even when no Git repository exists.</p>
     </div>
-    <div class="page-count"><strong>{projects.length}</strong><span>indexed</span></div>
+    <div class="page-count"><strong>{software.length}</strong><span>indexed</span></div>
   </header>
 
-  <ProjectDirectory projects={projects} />
+  <ProjectDirectory entries={software} />
 </BaseLayout>
