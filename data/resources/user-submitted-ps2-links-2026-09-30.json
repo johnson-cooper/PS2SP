@@ -185,5 +185,78 @@
         ]
       }
     ]
+  },
+  {
+    "category": "Firmware, BIOS & System Software Tools",
+    "description": "PlayStation 2 BIOS dumping utilities, firmware-identification tools, system-software references, and technical guides for preserving a console's own firmware.",
+    "links": [
+      {
+        "name": "F0bes/biosdrain — PS2 BIOS Dumper",
+        "url": "https://github.com/F0bes/biosdrain",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BIOS",
+          "biosdrain",
+          "BIOS dumper",
+          "ROM0",
+          "ROM1",
+          "ROM2",
+          "NVM",
+          "MEC",
+          "homebrew",
+          "preservation"
+        ]
+      },
+      {
+        "name": "F0bes/biosdrain — Releases",
+        "url": "https://github.com/F0bes/biosdrain/releases",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BIOS",
+          "biosdrain",
+          "BIOS dumper",
+          "releases",
+          "ELF",
+          "homebrew",
+          "preservation"
+        ]
+      },
+      {
+        "name": "PCSX2 Documentation — Dumping Your PS2 BIOS",
+        "url": "https://pcsx2.net/docs/setup/bios/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BIOS",
+          "PCSX2",
+          "biosdrain",
+          "dumping guide",
+          "ROM0",
+          "ROM1",
+          "NVM",
+          "MEC",
+          "documentation",
+          "preservation"
+        ]
+      },
+      {
+        "name": "PCSX2 Website Source — BIOS Dumping Documentation",
+        "url": "https://github.com/PCSX2/pcsx2-net-www/blob/main/docs/setup/bios.md",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BIOS",
+          "PCSX2",
+          "biosdrain",
+          "documentation source",
+          "ROM0",
+          "ROM1",
+          "NVM",
+          "MEC"
+        ]
+      }
+    ]
   }
 ]
