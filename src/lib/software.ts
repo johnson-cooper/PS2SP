@@ -64,6 +64,68 @@ function inferResourceCategories(resource: ResourceEntry) {
   return [...new Set(categories.length ? categories : ["utilities"])];
 }
 
+function deriveSoftwareTags(
+  name: string,
+  summary: string,
+  categories: string[],
+  baseTags: string[],
+  sourceKind: "project" | "resource",
+  archived = false
+) {
+  const text = `${name} ${summary} ${categories.join(" ")} ${baseTags.join(" ")}`.toLowerCase();
+  const tags = new Set(baseTags.map((tag) => String(tag).trim()).filter(Boolean));
+
+  const add = (label: string, pattern: RegExp) => {
+    if (pattern.test(text)) tags.add(label);
+  };
+
+  for (const category of categories) tags.add(categoryLabel(category));
+
+  add("OPL", /\bopl\b|open[- ]ps2[- ]loader/);
+  add("Neutrino", /\bneutrino\b/);
+  add("NHDDL", /\bnhddl\b/);
+  add("FMCB", /free.?mcboot|\bfmcb\b/);
+  add("FHDB", /free.?hdboot|\bfhdb\b/);
+  add("POPStarter", /popstarter|popsloader|\bpops\b/);
+  add("PS1", /\bps1\b|playstation\s*1|psx/);
+  add("HDD", /\bhdd\b|hard drive|\bapa\b|\bpfs\b/);
+  add("USB", /\busb\b|usb mass/);
+  add("SMB", /\bsmb\b|samba/);
+  add("UDPFS", /\budpfs\b/);
+  add("UDPBD", /\budpbd\b/);
+  add("MX4SIO", /mx4sio/);
+  add("MMCE", /\bmmce\b/);
+  add("Memory Card", /memory card|memcard|\bvmc\b/);
+  add("VMC", /\bvmc\b|virtual memory card/);
+  add("Save Tools", /save tool|save manager|save editor|mymc|psv save/);
+  add("Cheats", /cheat|codebreaker|artemis|gameshark/);
+  add("Networking", /network|server|ethernet|online|dns|dnas|hostfs/);
+  add("Linux", /\blinux\b|blackrhino/);
+  add("SDK", /\bsdk\b|ps2sdk|toolchain/);
+  add("ELF", /\belf\b/);
+  add("IRX", /\birx\b/);
+  add("GS", /\bgskit\b|graphics synthesizer|\bgs\b/);
+  add("IOP", /\biop\b|input output processor/);
+  add("EE", /emotion engine|\bee\b/);
+  add("Decompilation", /decomp|decompilation/);
+  add("Reverse Engineering", /reverse[- ]engineer|reverse engineering/);
+  add("Exploit", /exploit|vulnerabil|rce|buffer overflow/);
+  add("Modchip", /modchip|modbo|matrix infinity|dms4|crystal chip/);
+  add("Themes", /theme/);
+  add("Demoscene", /demoscene|pouet/);
+  add("Homebrew Game", /homebrew game|game port|fan port/);
+  add("Emulator", /emulat/);
+  add("Launcher", /launcher|launchelf/);
+  add("Loader", /loader/);
+
+  if (sourceKind === "project") tags.add("GitHub");
+  else tags.add("External / Legacy");
+  if (archived) tags.add("Archived");
+  if ([...tags].some((tag) => tag.toLowerCase() === "fork")) tags.add("Fork");
+
+  return [...tags];
+}
+
 function isSoftwareResource(resource: ResourceEntry) {
   const category = resource.category.toLowerCase();
   const name = resource.name.toLowerCase();
@@ -107,7 +169,14 @@ export async function getSoftwareCatalog(): Promise<SoftwareCatalogEntry[]> {
       name: project.data.name,
       summary: project.data.summary,
       categories: project.data.categories,
-      tags: project.data.tags,
+      tags: deriveSoftwareTags(
+        project.data.name,
+        project.data.summary,
+        project.data.categories,
+        project.data.tags,
+        "project",
+        project.data.repository.archived
+      ),
       features: project.data.features,
       href: `/project/${project.data.slug}`,
       external: false,
@@ -130,12 +199,21 @@ export async function getSoftwareCatalog(): Promise<SoftwareCatalogEntry[]> {
     if (canonical) seenUrls.add(canonical);
     seenNames.add(nameKey);
 
+    const resourceCategories = inferResourceCategories(resource);
+    const resourceBaseTags = [...new Set(["resource-index", ...(resource.keywords ?? [])])];
+
     entries.push({
       key: `resource:${canonical || resource.url}`,
       name: resource.name,
       summary: resource.categoryDescription,
-      categories: inferResourceCategories(resource),
-      tags: [...new Set(["resource-index", ...(resource.keywords ?? [])])],
+      categories: resourceCategories,
+      tags: deriveSoftwareTags(
+        resource.name,
+        resource.categoryDescription,
+        resourceCategories,
+        resourceBaseTags,
+        "resource"
+      ),
       features: [],
       href: resource.url,
       external: true,
