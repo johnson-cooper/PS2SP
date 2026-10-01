@@ -1,0 +1,67 @@
+name: Discover PS2 GitHub depth
+
+on:
+  schedule:
+    - cron: "37 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/discover-github-depth.mjs"
+      - "data/resources/github-depth-live.json"
+      - "discovery/github-depth-state.json"
+      - ".github/workflows/github-depth-discovery.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ps2sp-github-depth
+  cancel-in-progress: false
+
+jobs:
+  discover-depth:
+    if: github.repository == 'johnson-cooper/PS2SP'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Scan branches and nested projects
+        env:
+          GITHUB_TOKEN: ${{ secrets.PS2SP_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          MAX_GITHUB_DEPTH_API_REQUESTS: "300"
+          GITHUB_CORE_RATE_LIMIT_RESERVE: "120"
+          GITHUB_DEPTH_REPOS_PER_RUN: "18"
+          GITHUB_DEPTH_BRANCH_PAGES_PER_REPO: "2"
+          GITHUB_DEPTH_CHANGED_BRANCH_TREES_PER_RUN: "90"
+          GITHUB_DEPTH_INTERNAL_PATHS_PER_BRANCH: "40"
+        run: npm run catalog:discover-github-depth
+
+      - name: Validate site
+        run: npm run build
+
+      - name: Commit depth discovery progress
+        run: |
+          if [ -z "$(git status --porcelain -- data/resources/github-depth-live.json discovery/github-depth-state.json)" ]; then
+            echo "GitHub depth discovery already current."
+            exit 0
+          fi
+          git config user.name "ps2sp-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/resources/github-depth-live.json discovery/github-depth-state.json
+          git commit -m "chore(catalog): advance GitHub depth discovery"
+          git pull --rebase origin main
+          git push
