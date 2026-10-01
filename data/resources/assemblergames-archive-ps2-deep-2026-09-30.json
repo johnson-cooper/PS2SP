@@ -959,6 +959,153 @@
           "hardware",
           "reverse engineering"
         ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — PS2 HDD-OSD mod / Browser v2.00",
+        "url": "https://assemblergames-archive.com/thread-59025.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "HDD",
+          "HDD-OSD",
+          "Browser 2.00",
+          "HDD Utility Disc"
+        ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — PS2 HDD-OSD + modchip",
+        "url": "https://assemblergames-archive.com/thread-43565.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "HDD",
+          "HDD-OSD",
+          "modchip"
+        ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — HDLoader/KERMIT game icons and HDD internals",
+        "url": "https://assemblergames-archive.com/post-574644.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "HDD",
+          "HDLoader",
+          "Kermit",
+          "icons",
+          "HDD-OSD"
+        ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — PS2 HDD DTL-H10030 / PCMCIA HDD",
+        "url": "https://assemblergames-archive.com/thread-6935.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "HDD",
+          "DTL-H10030",
+          "PCMCIA",
+          "hardware"
+        ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — HDDOSD Issues on early PS2 / SSD",
+        "url": "https://assemblergames-archive.com/post-822767.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "HDD",
+          "HDD-OSD",
+          "SSD",
+          "SCPH-18000"
+        ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — HDD Utility Disc and OSD installation",
+        "url": "https://assemblergames-archive.com/post-529115.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "HDD",
+          "HDD Utility Disc",
+          "OSD",
+          "SCPH-10000"
+        ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — Kermit ODEM partition recognition / OPL",
+        "url": "https://assemblergames-archive.com/post-844607.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "HDD",
+          "Kermit",
+          "ODEM",
+          "OPL",
+          "partition"
+        ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — PS2 TOOL HDD emulation interface discussion",
+        "url": "https://www.assemblergames-archive.com/thread-1109-nextoldest.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "HDD",
+          "PS2 TOOL",
+          "DTL-T10000",
+          "development",
+          "emulation"
+        ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — Sony Programming and Development — HDD and SATA archive page",
+        "url": "https://assemblergames-archive.com/archive/index.php/forum-15-45.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "HDD",
+          "SATA",
+          "network adapter",
+          "development",
+          "archive"
+        ]
       }
     ]
   }
