@@ -122,6 +122,7 @@ import ps2iodbMultistate2Groups from "../../data/resources/ps2iodb-multistate-ic
 import psbbnAppDbDeepGroups from "../../data/resources/psbbn-appdb-deep.json";
 import psxPlaceHomebrewGamesDeepGroups from "../../data/resources/psx-place-homebrew-games-deep.json";
 import waybackLegacyPs2ModchipLoaderGroups from "../../data/resources/wayback-legacy-ps2-modchips-loaders.json";
+import githubDepthLiveGroups from "../../data/resources/github-depth-live.json";
 
 export interface ResourceLink {
   name: string;
@@ -336,7 +337,8 @@ const allResourceSources = [
   ...(ps2iodbMultistate2Groups as ResourceGroup[]),
   ...(psbbnAppDbDeepGroups as ResourceGroup[]),
   ...(psxPlaceHomebrewGamesDeepGroups as ResourceGroup[]),
-  ...(waybackLegacyPs2ModchipLoaderGroups as ResourceGroup[])
+  ...(waybackLegacyPs2ModchipLoaderGroups as ResourceGroup[]),
+  ...(githubDepthLiveGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
