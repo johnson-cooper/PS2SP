@@ -72,6 +72,7 @@ import crawledLegacyPs2DeepGroups from "../../data/resources/crawled-legacy-ps2-
 import ps2DevForumsLinuxDeepGroups from "../../data/resources/ps2dev-forums-linux-deep-2026-09-30.json";
 import ps2ProgrammingLinuxOnlineDeepGroups from "../../data/resources/ps2-programming-linux-online-deep-2026-09-30.json";
 import ps2CommunityDeepGroups from "../../data/resources/ps2-community-deep-2026-09-30.json";
+import internetArchivePs2Deep3Groups from "../../data/resources/internet-archive-ps2-deep-3-2026-09-30.json";
 
 export interface ResourceLink {
   name: string;
@@ -166,7 +167,8 @@ const allResourceSources = [
   ...(crawledLegacyPs2DeepGroups as ResourceGroup[]),
   ...(ps2DevForumsLinuxDeepGroups as ResourceGroup[]),
   ...(ps2ProgrammingLinuxOnlineDeepGroups as ResourceGroup[]),
-  ...(ps2CommunityDeepGroups as ResourceGroup[])
+  ...(ps2CommunityDeepGroups as ResourceGroup[]),
+  ...(internetArchivePs2Deep3Groups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
