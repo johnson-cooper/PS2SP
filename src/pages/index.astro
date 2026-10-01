@@ -2,9 +2,11 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { categoryLabel, formatDate, getProjects, getSite, projectUpdatedAt } from "../lib/catalog";
 import { getResourceGroups, getResources } from "../lib/resources";
+import { getSoftwareCatalog } from "../lib/software";
 
 const site = (await getSite()).data;
 const projects = await getProjects();
+const software = await getSoftwareCatalog();
 const resourceGroups = getResourceGroups();
 const resources = getResources();
 const featured = projects.filter((project) => project.data.featured).slice(0, 5);
@@ -13,8 +15,8 @@ const recent = [...projects].sort((a, b) =>
 ).slice(0, 5);
 
 const categories = new Map<string, number>();
-for (const project of projects) {
-  for (const category of project.data.categories) {
+for (const entry of software) {
+  for (const category of entry.categories) {
     categories.set(category, (categories.get(category) ?? 0) + 1);
   }
 }
@@ -59,7 +61,7 @@ const ps2Symbols = ["△", "○", "×", "□"];
         </div>
       </div>
       <dl class="console-stats">
-        <div><dt>Software</dt><dd>{projects.length}</dd></div>
+        <div><dt>Software</dt><dd>{software.length}</dd></div>
         <div><dt>Resources</dt><dd>{resources.length}</dd></div>
         <div><dt>Categories</dt><dd>{categories.size}</dd></div>
         <div><dt>Tracked releases</dt><dd>{released}</dd></div>
