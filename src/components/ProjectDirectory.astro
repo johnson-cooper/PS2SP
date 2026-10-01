@@ -137,12 +137,15 @@ const categorySymbolData = Object.fromEntries(categorySymbols);
   </div>
 
   <div class="project-index">
-    <div class="project-index-head" aria-hidden="true">
-      <span>#</span>
-      <span>Software</span>
-      <span>Type</span>
-      <span>Release</span>
-      <span>Activity</span>
+    <div class="project-index-head project-index-head-with-report" aria-hidden="true">
+      <div class="project-index-head-main">
+        <span>#</span>
+        <span>Software</span>
+        <span>Type</span>
+        <span>Release</span>
+        <span>Activity</span>
+      </div>
+      <span>Report broken</span>
     </div>
     <div data-project-results aria-live="polite"></div>
   </div>
@@ -159,6 +162,7 @@ const categorySymbolData = Object.fromEntries(categorySymbols);
       tags: string[];
       features: string[];
       href: string;
+      reportUrl: string;
       external: boolean;
       archived: boolean;
       releaseTag: string | null;
@@ -316,7 +320,32 @@ const categorySymbolData = Object.fromEntries(categorySymbols);
         activity.append(time, arrow);
 
         anchor.append(number, main, type, release, activity);
-        return anchor;
+
+        const report = document.createElement("a");
+        report.className = "resource-report-link project-report-link";
+        report.target = "_blank";
+        report.rel = "noopener noreferrer";
+        report.textContent = "Report broken";
+        report.setAttribute("aria-label", `Report broken software link: ${entry.name}`);
+        report.title = `Report broken link: ${entry.reportUrl}`;
+
+        const issueTitle = `Broken link: ${entry.reportUrl}`;
+        const issueBody = [
+          "### Broken software link",
+          "",
+          `- Software: ${entry.name}`,
+          `- URL: ${entry.reportUrl}`,
+          `- Catalog page: ${window.location.href}`,
+          `- Source type: ${entry.sourceKind}`,
+          "",
+          "The link appears to be broken, unavailable, or no longer points to the indexed PS2 software."
+        ].join("\\n");
+        report.href = `https://github.com/johnson-cooper/PS2SP/issues/new?title=${encodeURIComponent(issueTitle)}&body=${encodeURIComponent(issueBody)}`;
+
+        const wrapper = document.createElement("div");
+        wrapper.className = "project-index-item";
+        wrapper.append(anchor, report);
+        return wrapper;
       }
 
       function syncUrl() {
