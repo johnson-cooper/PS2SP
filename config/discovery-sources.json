@@ -83,6 +83,7 @@
         "Arntzen-Software/parallel-gs",
         "asmblur/ps2cdvd",
         "awaken1ng/udpbd-vexfat",
+        "BAD-AL/mymc_web",
         "Badzolini/opl-artwork-processor",
         "bucanero/apollo-ps2",
         "bucanero/ps2vmc-tool",
@@ -322,7 +323,8 @@
         "xlenore/ps2-covers",
         "xorjustice/Open-PS2-Loader",
         "YouKnow-sys/udpfs-server",
-        "Yuramash/thm_Coverflow_RiptOpl_"
+        "Yuramash/thm_Coverflow_RiptOpl_",
+        "Zero1UP/PS2-Memory-Card-Formatter"
       ]
     }
   ]
