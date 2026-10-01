@@ -103,6 +103,76 @@ export interface ResourceEntry extends ResourceLink {
   categoryDescription: string;
 }
 
+function deriveResourceKeywords(link: ResourceLink, category: string) {
+  const text = `${link.name} ${link.url} ${category} ${(link.keywords ?? []).join(" ")}`.toLowerCase();
+  const tags = new Set((link.keywords ?? []).map((value) => String(value).trim()).filter(Boolean));
+
+  const add = (label: string, pattern: RegExp) => {
+    if (pattern.test(text)) tags.add(label);
+  };
+
+  add("OPL", /\bopl\b|open[- ]ps2[- ]loader/);
+  add("FMCB", /free.?mcboot|\bfmcb\b/);
+  add("FHDB", /free.?hdboot|\bfhdb\b/);
+  add("POPStarter", /popstarter|popsloader/);
+  add("POPS", /\bpops\b|sony.*ps1 emulator/);
+  add("uLaunchELF", /ulaunchelf|u(?:nofficial)?launchelf/);
+  add("wLaunchELF", /wlaunchelf/);
+  add("Neutrino", /\bneutrino\b/);
+  add("NHDDL", /\bnhddl\b/);
+  add("MMCE", /\bmmce\b/);
+  add("MX4SIO", /mx4sio|sio2sd/);
+  add("SMB", /\bsmb\b|samba/);
+  add("UDPFS", /\budpfs\b/);
+  add("UDPBD", /\budpbd\b/);
+  add("HDD", /\bhdd\b|hard.?drive|harddisk|hdloader|hdd-osd/);
+  add("APA", /\bapa\b|apa partition/);
+  add("PFS", /\bpfs\b|pfs shell|pfs explorer/);
+  add("USB", /\busb\b|mass:/);
+  add("Memory Card", /memory card|memcard|magicgate|magic gate/);
+  add("VMC", /\bvmc\b|virtual memory card/);
+  add("Save Tools", /save tool|save manager|save editor|memory manager|mymc/);
+  add("Cheats", /cheat|codebreaker|gameshark|artemis|ps2rd/);
+  add("Modchip", /modchip|modbo|matrix infinity|crystal chip|dms[34]|messiah/);
+  add("Repair", /repair|laser|fuse|capacitor|motherboard repair|troubleshoot/);
+  add("Hardware", /hardware|motherboard|pcb|schematic|board scan|scph-|dtl-/);
+  add("Exploit", /exploit|freedvdboot|fortuna|funtuna|opentuna|mast1c0re|buffer overflow/);
+  add("Security", /security|vulnerabil|anti.?piracy|mechacon|mechapwn/);
+  add("PS2DEV", /ps2dev/);
+  add("PS2SDK", /ps2sdk|ps2 sdk/);
+  add("Toolchain", /toolchain|binutils|gcc|compiler/);
+  add("Development", /development|programming|developer|homebrew dev|sdk/);
+  add("Reverse Engineering", /reverse.?engineering|ghidra|debug symbols|disassembl/);
+  add("Decompilation", /decomp|recompil/);
+  add("Linux", /\blinux\b|blackrhino|kernel loader|kernelloader/);
+  add("Networking", /network|ethernet|dev9|ps2link|hostfs|tcp|udp/);
+  add("Online", /online play|online gaming|revived server|private server/);
+  add("DNAS", /\bdnas\b/);
+  add("Emulator", /emulator|emulation|emulador/);
+  add("Homebrew", /homebrew/);
+  add("Port", /\bport\b|ported to ps2|fan port/);
+  add("Prototype", /prototype|proto build|unreleased build/);
+  add("Demo", /\bdemo\b|demo disc|demodisc/);
+  add("Demoscene", /demoscene|pouet/);
+  add("Preservation", /preserv|archive|wayback|mirror|legacy|historical/);
+  add("Documentation", /documentation|docs|manual|reference|wiki/);
+  add("Tutorial", /tutorial|guide|how.?to/);
+  add("Themes", /theme|skin/);
+  add("PS1", /\bps1\b|playstation 1|psone|psx(?!-place)/);
+  add("PSBBN", /psbbn|broadband navigator/);
+  add("HDD-OSD", /hdd-osd|hdd osd|browser v2\.00/);
+  add("TEST / TOOL", /ps2 test|ps2 tool|dtl-t|dtl-h/);
+
+  add("Brazilian", /brazil|brasil|brazilian|hardlevel|usagiru/);
+  add("Portuguese", /portuguese|português|hardlevel|usagiru/);
+  add("Spanish", /spanish|español|elotrolado/);
+  add("French", /french|france|metagames/);
+  add("German", /german|germany|trisaster|wii-homebrew|hardwareluxx/);
+  add("Italian", /italian|italy|retrohead/);
+
+  return [...tags];
+}
+
 const allResourceSources = [
   ...(resourceGroups as ResourceGroup[]),
   ...(pcsx2WikiExtra0Groups as ResourceGroup[]),
@@ -209,10 +279,11 @@ export function getResourceGroups(): ResourceGroup[] {
     for (const link of source.links) {
       const key = link.url.replace(/\/+$/, "");
       const existing = linksByUrl.get(key);
+      const enrichedKeywords = deriveResourceKeywords(link, source.category);
       if (existing) {
         const mergedKeywords = new Set([
           ...(existing.keywords ?? []),
-          ...(link.keywords ?? []),
+          ...enrichedKeywords,
           link.name
         ]);
         existing.keywords = [...mergedKeywords];
@@ -221,7 +292,7 @@ export function getResourceGroups(): ResourceGroup[] {
         continue;
       }
 
-      const stored = { ...link };
+      const stored = { ...link, keywords: enrichedKeywords };
       linksByUrl.set(key, stored);
       group.links.push(stored);
     }
