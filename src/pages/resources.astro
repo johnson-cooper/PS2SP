@@ -377,6 +377,7 @@ const popularTags = [...tagCounts.entries()]
           nav.addEventListener("click", () => {
             const value = nav.dataset.resourceFamily ?? "";
             selectedFamily = selectedFamily === value && value ? "" : value;
+            if (category) category.value = "";
             apply();
           });
         }
