@@ -37,23 +37,45 @@ async function readJson(filePath, fallback) {
 }
 
 async function fetchHtml(url) {
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 25_000);
-  try {
-    const response = await fetch(url, {
-      headers: {
-        "User-Agent": USER_AGENT,
-        "Accept": "text/html,application/xhtml+xml"
-      },
-      signal: controller.signal
-    });
-    if (!response.ok) {
-      throw new Error(`${response.status} ${response.statusText}`);
+  let lastError;
+
+  for (let attempt = 1; attempt <= 2; attempt++) {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 75_000);
+
+    try {
+      const response = await fetch(url, {
+        headers: {
+          "User-Agent": USER_AGENT,
+          "Accept": "text/html,application/xhtml+xml",
+          "Accept-Language": "en-US,en;q=0.8",
+          "Cache-Control": "no-cache"
+        },
+        redirect: "follow",
+        signal: controller.signal
+      });
+
+      if (!response.ok) {
+        throw new Error(`${response.status} ${response.statusText}`);
+      }
+
+      const html = await response.text();
+      if (html.length < 5_000) {
+        throw new Error(`response unexpectedly small (${html.length} bytes)`);
+      }
+      return html;
+    } catch (error) {
+      lastError = error;
+      console.warn(`Fetch attempt ${attempt}/2 failed for ${url}: ${error.message}`);
+      if (attempt < 2) {
+        await new Promise((resolve) => setTimeout(resolve, 5_000));
+      }
+    } finally {
+      clearTimeout(timeout);
     }
-    return await response.text();
-  } finally {
-    clearTimeout(timeout);
   }
+
+  throw lastError ?? new Error("request failed");
 }
 
 function parseForumPage(html) {
@@ -146,6 +168,8 @@ const requestedStart = Math.max(PAGE_SIZE, Number(state.ps2devForum.nextStart) |
 const targets = [0, requestedStart];
 const found = [];
 let observedMaxStart = Number(state.ps2devForum.maxStart) || 2100;
+let latestSucceeded = false;
+let historicalSucceeded = false;
 
 for (let index = 0; index < targets.length; index++) {
   const start = targets[index];
@@ -153,8 +177,14 @@ for (let index = 0; index < targets.length; index++) {
   try {
     const html = await fetchHtml(url);
     const parsed = parseForumPage(html);
+    if (parsed.topics.length === 0) {
+      throw new Error("page parsed but no PS2 Development topics were found");
+    }
+
     found.push(...parsed.topics);
     observedMaxStart = Math.max(observedMaxStart, parsed.maxStart);
+    if (start === 0) latestSucceeded = true;
+    else historicalSucceeded = true;
     console.log(`PS2Dev forum page start=${start}: ${parsed.topics.length} topics`);
   } catch (error) {
     console.warn(`PS2Dev forum page start=${start} failed: ${error.message}`);
@@ -192,14 +222,16 @@ group.links.sort((a, b) => {
   return bId - aId || a.name.localeCompare(b.name);
 });
 
-const next = requestedStart + PAGE_SIZE > observedMaxStart
-  ? PAGE_SIZE
-  : requestedStart + PAGE_SIZE;
+const next = historicalSucceeded
+  ? (requestedStart + PAGE_SIZE > observedMaxStart ? PAGE_SIZE : requestedStart + PAGE_SIZE)
+  : requestedStart;
 
 state.ps2devForum = {
   nextStart: next,
   maxStart: observedMaxStart,
-  lastRun: new Date().toISOString()
+  lastRun: new Date().toISOString(),
+  latestSucceeded,
+  historicalSucceeded
 };
 
 await fs.mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
@@ -208,5 +240,5 @@ await fs.writeFile(OUTPUT_PATH, `${JSON.stringify(groups, null, 2)}\n`);
 await fs.writeFile(STATE_PATH, `${JSON.stringify(state, null, 2)}\n`);
 
 console.log(
-  `PS2Dev web discovery complete: ${added} added, ${refreshed} refreshed, ${group.links.length} live-indexed; next historical start=${next}/${observedMaxStart}.`
+  `PS2Dev web discovery complete: ${added} added, ${refreshed} refreshed, ${group.links.length} live-indexed; latest=${latestSucceeded ? "ok" : "failed"}, historical=${historicalSucceeded ? "ok" : "failed"}, next historical start=${next}/${observedMaxStart}.`
 );
