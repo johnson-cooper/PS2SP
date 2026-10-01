@@ -6,6 +6,8 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const pagesDir = path.join(ROOT, "src", "pages");
 const layoutPath = path.join(ROOT, "src", "layouts", "BaseLayout.astro");
 const resourcesPath = path.join(ROOT, "src", "pages", "resources.astro");
+const projectDirectoryPath = path.join(ROOT, "src", "components", "ProjectDirectory.astro");
+const reportComponentPath = path.join(ROOT, "src", "components", "ReportBrokenLink.astro");
 
 async function walk(dir) {
   const out = [];
@@ -26,6 +28,13 @@ for (const file of pageFiles) {
   if (!source.includes("BaseLayout")) {
     failures.push(`${rel}: user-facing Astro page does not use BaseLayout`);
   }
+
+  if (
+    rel !== "src/pages/index.astro" &&
+    /\/brand\/ps2sp-(?:wordmark|mark(?:-glow)?)\.(?:png|webp)/.test(source)
+  ) {
+    failures.push(`${rel}: page embeds PS2SP branding directly instead of inheriting the linked BaseLayout brand`);
+  }
 }
 
 const layout = await fs.readFile(layoutPath, "utf8");
@@ -38,10 +47,29 @@ if (!layout.includes('anchor.classList.contains("resource-report-link")')) {
 if (!layout.includes('querySelector(".report-broken-link, .resource-report-link")')) {
   failures.push("src/layouts/BaseLayout.astro: global report fallback does not detect existing dedicated report controls");
 }
+if (!layout.includes('document.querySelectorAll("[data-report-url]")')) {
+  failures.push("src/layouts/BaseLayout.astro: global report fallback does not dedupe existing reports by target URL");
+}
+if (!layout.includes("report.dataset.reportUrl = targetUrl")) {
+  failures.push("src/layouts/BaseLayout.astro: fallback reports do not tag their target URL for idempotent dedupe");
+}
 
 const resources = await fs.readFile(resourcesPath, "utf8");
 if (!resources.includes('report.className = "resource-report-link report-broken-link";')) {
   failures.push("src/pages/resources.astro: dedicated resource report control is missing canonical report-broken-link class");
+}
+if (!resources.includes("report.dataset.reportUrl = entry.url")) {
+  failures.push("src/pages/resources.astro: dedicated resource reports are not tagged with their target URL");
+}
+
+const projectDirectory = await fs.readFile(projectDirectoryPath, "utf8");
+if (!projectDirectory.includes("report.dataset.reportUrl = entry.reportUrl")) {
+  failures.push("src/components/ProjectDirectory.astro: software reports are not tagged with their target URL");
+}
+
+const reportComponent = await fs.readFile(reportComponentPath, "utf8");
+if (!reportComponent.includes("data-report-url={url}")) {
+  failures.push("src/components/ReportBrokenLink.astro: reusable reports are not tagged with their target URL");
 }
 
 if (failures.length) {
