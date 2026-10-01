@@ -76,6 +76,7 @@ import internetArchivePs2Deep3Groups from "../../data/resources/internet-archive
 import manualHardwareExploitsRegionalGroups from "../../data/resources/manual-hardware-exploits-regional-2026-09-30.json";
 import regionalSceneDeepGroups from "../../data/resources/regional-scene-deep-2026-09-30.json";
 import sourceforgeColdevFanportGroups from "../../data/resources/sourceforge-coldev-fanports-2026-09-30.json";
+import bitbuiltQuadeGussePs2DeepGroups from "../../data/resources/bitbuilt-quade-gusse-ps2-deep-2026-09-30.json";
 
 export interface ResourceLink {
   name: string;
@@ -174,7 +175,8 @@ const allResourceSources = [
   ...(internetArchivePs2Deep3Groups as ResourceGroup[]),
   ...(manualHardwareExploitsRegionalGroups as ResourceGroup[]),
   ...(regionalSceneDeepGroups as ResourceGroup[]),
-  ...(sourceforgeColdevFanportGroups as ResourceGroup[])
+  ...(sourceforgeColdevFanportGroups as ResourceGroup[]),
+  ...(bitbuiltQuadeGussePs2DeepGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
