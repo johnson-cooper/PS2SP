@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T05:08:46.679Z'
+  lastSynchronized: '2026-10-01T05:54:34.903Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c16b1b2737e4df7142ea0921678342a7837a4ec3d39fd7ccc07112678ab82b2f"
+    releasesEtag: '"a8e2da9a1ff3d4d61c68fe431338dfeadc6bf7522dcecc0d824a62e17c993c27"'
 discovery:
   method: 'fork-network:PunishedSnake/fhdb-bootstrap-manager'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: PunishedSnake/fhdb-bootstrap-manager
   source: PunishedSnake/fhdb-bootstrap-manager
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

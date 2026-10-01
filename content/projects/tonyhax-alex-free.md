@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2026-04-12T16:45:22Z'
   url: 'https://github.com/alex-free/tonyhax/releases/tag/v1.6.3i'
 activity:
-  lastSynchronized: '2026-09-29T09:05:43.442Z'
+  lastSynchronized: '2026-10-01T05:54:46.309Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4b1d2e7fc9e01305df98027fcd39e393492aed472c1fb6ac5defe1de209666bf"
+    releasesEtag: W/"09f632aba87b80801a4dc4baee19f246351f4c6c22d2992091564313e3e91b50"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100
@@ -45,5 +48,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

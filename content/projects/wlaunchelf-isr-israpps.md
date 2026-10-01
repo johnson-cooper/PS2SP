@@ -36,9 +36,12 @@ latestRelease:
   publishedAt: '2026-01-14T03:21:46Z'
   url: 'https://github.com/israpps/wLaunchELF_ISR/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-09-29T09:05:43.442Z'
+  lastSynchronized: '2026-10-01T05:54:46.848Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6ed0ef05d3f794aef844f6f4d0def90ff8f683f7dc416f6ea54460c9337b72d1"
+    releasesEtag: W/"7fe77c0ee185c1149d91f9f055dba1868819d0e05c0ea037dbb8850cf9ac98a8"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: ps2homebrew/wLaunchELF
   source: ps2homebrew/wLaunchELF
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
