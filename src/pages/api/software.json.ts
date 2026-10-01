@@ -14,6 +14,7 @@ export const GET: APIRoute = async () => {
       tags: entry.tags,
       features: entry.features,
       href: entry.href,
+      reportUrl: entry.reportUrl,
       external: entry.external,
       archived: entry.archived,
       releaseTag: entry.releaseTag,
