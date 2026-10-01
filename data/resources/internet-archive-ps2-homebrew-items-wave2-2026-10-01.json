@@ -1,0 +1,620 @@
+[
+  {
+    "category": "Internet Archive — Individual PS2 Homebrew Items Wave 2",
+    "description": "Item-level Internet Archive pages for preserved PlayStation 2 homebrew, source bundles, demos, emulators, tools, loaders and Linux material.",
+    "links": [
+      {
+        "name": "Internet Archive PS2 — AIO Project: PS2 v2.0.1",
+        "url": "https://archive.org/details/aio-project-ps2-v201",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "AIO Project",
+          "PS2SDK",
+          "applications",
+          "collection"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2 Live Linux DVD",
+        "url": "https://archive.org/details/ps2linux_live_v3_pal_small_no_modchip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "PS2 Linux",
+          "BlackRhino",
+          "Linux",
+          "live DVD"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2BOR Source v0.1b",
+        "url": "https://archive.org/details/ps2bor-src-0.1b",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "PS2BOR",
+          "OpenBOR",
+          "source code",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — FreeDVDBoot Archived GitHub Repository",
+        "url": "https://archive.org/details/github.com-CTurt-FreeDVDBoot_-_2020-06-29_01-39-59",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "FreeDVDBoot",
+          "exploit",
+          "GitHub archive",
+          "source code"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — ScummVM Older Platform Binaries",
+        "url": "https://archive.org/details/scummvm-oldbin",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "ScummVM",
+          "emulator",
+          "binaries",
+          "preservation"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — Hermes PS2 Homebrew Game",
+        "url": "https://archive.org/details/hermes-v.latest-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "Hermes",
+          "homebrew game",
+          "RetroGuru"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — InfoGB-HD",
+        "url": "https://archive.org/details/info-gb-hd-v-1-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "InfoGB",
+          "Game Boy",
+          "emulator"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2Temps and MechaCon Version Checker",
+        "url": "https://archive.org/details/ps-2-temps-and-mecha-con-version-checker-v-2.7z",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "PS2Temps",
+          "MechaCon",
+          "diagnostic",
+          "version checker"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2 Qbert",
+        "url": "https://archive.org/details/qbert_202111",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "Qbert",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — Argon 0.7.1",
+        "url": "https://archive.org/details/argon-0.7.1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "Argon",
+          "media player",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — Simple Media System 2.9 Rev 4",
+        "url": "https://archive.org/details/sms-version-2.9-rev.-4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "SMS",
+          "Simple Media System",
+          "media player"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — Cube PS2SDK Demo",
+        "url": "https://archive.org/details/cube_20211117",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "Cube",
+          "PS2SDK",
+          "demo",
+          "source"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — HD Project v1.081",
+        "url": "https://archive.org/details/hd-project-v-1.081",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "HD Project",
+          "HDD",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — Open PS2 Loader Archive Item",
+        "url": "https://archive.org/details/opnps-2-ld",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "OPL",
+          "Open PS2 Loader",
+          "loader",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — HDLGameInstaller",
+        "url": "https://archive.org/details/181208-hdlgman-client",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "HDLGameInstaller",
+          "HDD",
+          "installer"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — Pang/PS2",
+        "url": "https://archive.org/details/pang_ps2_bin_20060112",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "Pang",
+          "homebrew game",
+          "port"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2OS",
+        "url": "https://archive.org/details/ps-2-os-0.3-24bit-cd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "PS2OS",
+          "shell",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — Artemis",
+        "url": "https://archive.org/details/artemis-ps2-archive-master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "Artemis",
+          "cheats",
+          "debugging",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — Tetris for PS2",
+        "url": "https://archive.org/details/tetris_202111",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "Tetris",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — LensChanger Installer",
+        "url": "https://archive.org/details/lenschanger_instv12b",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "LensChanger",
+          "optical drive",
+          "hardware tool"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2Doom",
+        "url": "https://archive.org/details/ps2doom_v1050",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "Doom",
+          "PS2Doom",
+          "homebrew game",
+          "port"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2-DC64",
+        "url": "https://archive.org/details/ps2dc64",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "Commodore 64",
+          "emulator",
+          "PS2-DC64"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — Jum's PS2 MC Boot Menu",
+        "url": "https://archive.org/details/mcbootmenu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "MC Boot Menu",
+          "launcher",
+          "memory card"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2PCE",
+        "url": "https://archive.org/details/ps2pce05",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "PC Engine",
+          "emulator",
+          "PS2PCE"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — Swap Magic 3 Plus ELF",
+        "url": "https://archive.org/details/swap-magic-3.8-elf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "Swap Magic",
+          "ELF",
+          "loader"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2ESDL",
+        "url": "https://archive.org/details/140517-ps-2-esdl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "PS2ESDL",
+          "external storage",
+          "loader"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — Beats of Rage PS2",
+        "url": "https://archive.org/details/beats-of-rage-ntsc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "Beats of Rage",
+          "homebrew game",
+          "port"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2Loader / CDLoader",
+        "url": "https://archive.org/details/CDLOADER",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "CDLoader",
+          "PS2Loader",
+          "loader"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — Space Invaders for PS2",
+        "url": "https://archive.org/details/ps-2-spaceinvaders-1-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "Space Invaders",
+          "homebrew game",
+          "port"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2Reality Media Player Pro",
+        "url": "https://archive.org/details/ps-2-reality-mediaplayer-pro",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "PS2Reality",
+          "media player",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2 Intro Loader",
+        "url": "https://archive.org/details/ps-2-intro-loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "Intro Loader",
+          "launcher",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — Daedalus PS2",
+        "url": "https://archive.org/details/daedalus_202110",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "Daedalus",
+          "Nintendo 64",
+          "emulator"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2Menu",
+        "url": "https://archive.org/details/ps2menu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "PS2Menu",
+          "file manager",
+          "launcher"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2 DOSBox",
+        "url": "https://archive.org/details/dosbox-svn",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "DOSBox",
+          "x86",
+          "emulator"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2 MAME",
+        "url": "https://archive.org/details/ps-2-n-ps-2-ma-me",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "MAME",
+          "arcade",
+          "emulator"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — TempGBA",
+        "url": "https://archive.org/details/temp-gba-24-06-2017",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "TempGBA",
+          "Game Boy Advance",
+          "emulator"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — Graphics Synthesizer Mode Selector",
+        "url": "https://archive.org/details/gsmodesel",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "GSM",
+          "Graphics Synthesizer",
+          "video mode",
+          "utility"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2 Controller Tester",
+        "url": "https://archive.org/details/padtest_202111",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "PadTest",
+          "controller",
+          "diagnostic"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — Memory Card Annihilator 2.0",
+        "url": "https://archive.org/details/mc-annihilator-v-2.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "Memory Card Annihilator",
+          "memory card",
+          "utility"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PSMS Reloaded New",
+        "url": "https://archive.org/details/psms-reloaded-new-0.6.3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "PSMS",
+          "Master System",
+          "emulator"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — wLaunchELF Archive Item",
+        "url": "https://archive.org/details/boot-41e-4ebe",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "wLaunchELF",
+          "file manager",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — Snes9x for PS2",
+        "url": "https://archive.org/details/packed_snes9xNTSC",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "Snes9x",
+          "SNES",
+          "emulator"
+        ]
+      },
+      {
+        "name": "Internet Archive PS2 — PS2 VCD / DivX Player",
+        "url": "https://archive.org/details/ps-2-vcd-div-x-player-v-1.1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Internet Archive",
+          "homebrew",
+          "preservation",
+          "VCD",
+          "DivX",
+          "media player",
+          "homebrew"
+        ]
+      }
+    ]
+  }
+]
