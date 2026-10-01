@@ -1,0 +1,16 @@
+{
+  "repository": "sevinOG/ps2_openworld_racer",
+  "repositoryId": "1348203584",
+  "url": "https://github.com/sevinOG/ps2_openworld_racer",
+  "description": "sm0l dev project, game serves as research activity product target for the harness",
+  "score": 85,
+  "evidence": [
+    "repository name explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-01T03:27:44.437Z",
+  "checkedAt": "2026-10-01T03:27:44.437Z"
+}
