@@ -1,0 +1,17 @@
+[
+  {
+    "category": "GitHub — Branches & Fork Branches Live",
+    "description": "Continuously refreshed branch index across every published GitHub PS2 project, including forks and forks-of-forks.",
+    "links": []
+  },
+  {
+    "category": "GitHub — Nested Projects & Branch Internals Live",
+    "description": "Branch-specific nested projects, tools, examples, modules, ports and other internally discoverable project roots found inside PS2 repositories.",
+    "links": []
+  },
+  {
+    "category": "GitHub — Repository Submodules Live",
+    "description": "Git submodules discovered inside PS2 repositories and their branches, including cross-host dependencies and repositories nested inside repositories.",
+    "links": []
+  }
+]
