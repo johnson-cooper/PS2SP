@@ -1,0 +1,67 @@
+name: Discover PS2 external Git depth
+
+on:
+  schedule:
+    - cron: "57 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/discover-external-git.mjs"
+      - "config/external-git-sources.json"
+      - "data/resources/external-git-live.json"
+      - "discovery/external-git-state.json"
+      - ".github/workflows/external-git-discovery.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ps2sp-external-git
+  cancel-in-progress: false
+
+jobs:
+  discover-external-git:
+    if: github.repository == 'johnson-cooper/PS2SP'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Scan non-GitHub Git hosts
+        env:
+          MAX_EXTERNAL_GIT_REQUESTS: "260"
+          EXTERNAL_GIT_REPOS_PER_RUN: "20"
+          EXTERNAL_GIT_BRANCH_PAGES_PER_REPO: "2"
+          EXTERNAL_GIT_FORK_PAGES_PER_REPO: "2"
+          EXTERNAL_GIT_TREES_PER_RUN: "80"
+          EXTERNAL_GIT_INTERNAL_PATHS_PER_BRANCH: "40"
+        run: npm run catalog:discover-external-git
+
+      - name: Validate site
+        run: npm run build
+
+      - name: Commit external Git discovery progress
+        run: |
+          if [ -z "$(git status --porcelain -- data/resources/external-git-live.json discovery/external-git-state.json)" ]; then
+            echo "External Git discovery already current."
+            exit 0
+          fi
+          git config user.name "ps2sp-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/resources/external-git-live.json discovery/external-git-state.json
+          git commit -m "chore(catalog): advance external Git discovery"
+          git pull --rebase origin main
+          git push
