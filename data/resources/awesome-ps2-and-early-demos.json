@@ -1,0 +1,545 @@
+[
+  {
+    "category": "System & Software Utilities (Homebrew)",
+    "description": "Additional open PS2 projects drawn from the broader Awesome PS2 ecosystem, including launchers, MMCE, OSDSYS, TIM2, patching, networking and arcade/system tools.",
+    "links": [
+      {
+        "name": "Awesome PS2 — Awesome Open PS2 Projects",
+        "url": "https://github.com/terremoth/awesome-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "awesome list",
+          "homebrew",
+          "tools",
+          "games"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — iLaunchELF",
+        "url": "https://github.com/Based-Skid/iLaunchELF",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "HTTP ELF loader",
+          "launcher"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — PS2Recomp",
+        "url": "https://github.com/ran-j/PS2Recomp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "static recompilation",
+          "ELF",
+          "C++",
+          "reverse engineering"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — VTSPS2 Homebrew Downloader",
+        "url": "https://github.com/Veritas83/VTSPS2-HBDL",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew downloader",
+          "network"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — OpenWRT UDPBD for A5-V11",
+        "url": "https://github.com/GorGylka/UDPBD-A5-V11",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "UDPBD",
+          "OpenWRT",
+          "network storage"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — VTSPS2 CRC32 Library",
+        "url": "https://github.com/Veritas83/VTSPS2-CRC32",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "CRC32",
+          "library",
+          "PS2SDK"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — PS2 libvorbis",
+        "url": "https://github.com/citronalco/ps2-libvorbis",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Vorbis",
+          "audio",
+          "library",
+          "PS2SDK"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — VUTrace",
+        "url": "https://github.com/chaoticgd/vutrace",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "VU1",
+          "tracing",
+          "debugger",
+          "Vector Unit"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — Rebax",
+        "url": "https://github.com/PS2HomeDeveloper/Rebax",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "game engine",
+          "editor",
+          "2D",
+          "3D",
+          "ISO",
+          "ELF"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — PS2 TIM2 Tool",
+        "url": "https://github.com/PS2HomeDeveloper/ps2-tim2-tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "TIM2",
+          "TM2",
+          "texture",
+          "CLUT",
+          "swizzle",
+          "mipmap"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — CheatDevicePS2",
+        "url": "https://github.com/root670/CheatDevicePS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "cheats",
+          "debugging",
+          "game enhancer"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — xeRAbora",
+        "url": "https://github.com/hacan359/xerabora",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "RetroAchievements",
+          "achievements",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — Cue Maker",
+        "url": "https://github.com/tralph3/Cue-Maker",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "CUE",
+          "BIN",
+          "disc image",
+          "tool"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — PS2 Linux Kernel",
+        "url": "https://github.com/frno7/linux",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Linux",
+          "kernel",
+          "PS2 Linux"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — PS2 PNacher",
+        "url": "https://github.com/Snaggly/PS2_Pnacher",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PNACH",
+          "patcher",
+          "ISO",
+          "widescreen",
+          "cheats"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — HDL Batch Installer",
+        "url": "https://github.com/israpps/HDL-Batch-installer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "HDL Dump",
+          "HDD",
+          "installer",
+          "GUI"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — OSDMenu",
+        "url": "https://github.com/pcm720/OSDMenu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "OSDSYS",
+          "HDD OSD",
+          "Browser 2.0",
+          "menu"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — sd2psXtd Firmware",
+        "url": "https://github.com/sd2psXtd/firmware",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "SD2PSX",
+          "memory card emulator",
+          "firmware",
+          "MMCE"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — Proverb",
+        "url": "https://github.com/PS2Homebrew-arcade/proverb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "arcade PS2",
+          "COH-H",
+          "bootloader",
+          "System 246",
+          "System 256"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — BDMAssault",
+        "url": "https://github.com/israpps/BDMAssault",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "exFAT",
+          "USB",
+          "BDM",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — MMCEMAN",
+        "url": "https://github.com/ps2-mmce/mmceman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "MMCE",
+          "SD2PSX",
+          "MemCard PRO2",
+          "IOP module"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — SC2MAKER",
+        "url": "https://github.com/israpps/SC2MAKER",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "System 246",
+          "SoulCalibur 2",
+          "Conquest Card",
+          "memory card"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — OSD-XMB",
+        "url": "https://github.com/HiroTex/OSD-XMB",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "XMB",
+          "OSDSYS",
+          "menu",
+          "launcher"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — DKWDRV",
+        "url": "https://github.com/DKWDRV/DKWDRV",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS1DRV",
+          "PS1",
+          "driver replacement"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — Romman",
+        "url": "https://github.com/israpps/romman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ROM manager",
+          "CLI",
+          "PS2 ROM"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — Java Grinder PS2 Explanation",
+        "url": "http://www.mikekohn.net/micro/playstation2_java.php",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Java",
+          "Java Grinder",
+          "homebrew development"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — YaBasic",
+        "url": "http://www.yabasic.de/download.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "YABASIC",
+          "BASIC",
+          "programming language"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — SIO2SD / MX4SIO Thread",
+        "url": "https://www.psx-place.com/threads/sio2sd-sd-card-adapter-and-sd-driver-for-the-ps2-sio2-interface.29210/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "SIO2SD",
+          "MX4SIO",
+          "SD card",
+          "hardware"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Additional PS2 development/game projects plus individual preserved early PS2 homebrew and demos from PSI-Rockin's ps2demos archive.",
+    "links": [
+      {
+        "name": "Awesome PS2 — PS2Recomp",
+        "url": "https://github.com/ran-j/PS2Recomp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "static recompilation",
+          "ELF",
+          "C++",
+          "reverse engineering"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — VUTrace",
+        "url": "https://github.com/chaoticgd/vutrace",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "VU1",
+          "tracing",
+          "debugger",
+          "Vector Unit"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — Rebax",
+        "url": "https://github.com/PS2HomeDeveloper/Rebax",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "game engine",
+          "editor",
+          "2D",
+          "3D",
+          "ISO",
+          "ELF"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — Java Grinder PS2 Demo",
+        "url": "https://github.com/mikeakohn/playstation2_demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Java Grinder",
+          "Java",
+          "bytecode",
+          "assembly"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — Java Grinder PS2 Explanation",
+        "url": "http://www.mikekohn.net/micro/playstation2_java.php",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Java",
+          "Java Grinder",
+          "homebrew development"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — YaBasic",
+        "url": "http://www.yabasic.de/download.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "YABASIC",
+          "BASIC",
+          "programming language"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — OptiCraft Heritage Edition",
+        "url": "https://github.com/OptiJuegos/OptiCraftHeritageEdition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Minecraft Pocket Edition",
+          "native port",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — TyraCraft",
+        "url": "https://github.com/Wellinator/tyracraft",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Minecraft clone",
+          "Tyra",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — SuperTux PS2 Source",
+        "url": "https://github.com/headshot2017/supertux-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "SuperTux",
+          "source",
+          "port",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "Awesome PS2 — Dungeon PS2 Dev Tests",
+        "url": "https://bitbucket.org/glampert/ps2dev-tests/src/master/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Dungeon",
+          "demo",
+          "Guilherme Lampert",
+          "source"
+        ]
+      },
+      {
+        "name": "PSI-Rockin PS2 Demo Archive — 1987",
+        "url": "https://github.com/PSI-Rockin/ps2demos/blob/master/demos/1987.zip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew preservation",
+          "demo",
+          "source code",
+          "Third Creation",
+          "demoscene"
+        ]
+      },
+      {
+        "name": "PSI-Rockin PS2 Demo Archive — 3stars",
+        "url": "https://github.com/PSI-Rockin/ps2demos/blob/master/demos/3stars.zip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew preservation",
+          "demo",
+          "source code",
+          "Duke of Napalm",
+          "first open-source PS2 homebrew",
+          "MIPS assembly"
+        ]
+      },
+      {
+        "name": "PSI-Rockin PS2 Demo Archive — FiRE",
+        "url": "https://github.com/PSI-Rockin/ps2demos/blob/master/demos/FiRE.zip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew preservation",
+          "demo",
+          "source code",
+          "Jules",
+          "Third Creation",
+          "demoscene"
+        ]
+      },
+      {
+        "name": "PSI-Rockin PS2 Demo Archive — bytheway",
+        "url": "https://github.com/PSI-Rockin/ps2demos/blob/master/demos/bytheway.zip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew preservation",
+          "demo",
+          "source code",
+          "Jules",
+          "Third Creation",
+          "demoscene"
+        ]
+      },
+      {
+        "name": "PSI-Rockin PS2 Demo Archive — pillgen",
+        "url": "https://github.com/PSI-Rockin/ps2demos/blob/master/demos/pillgen.zip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew preservation",
+          "demo",
+          "source code",
+          "Vzzrzzn",
+          "first PS2 homebrew in C",
+          "demo"
+        ]
+      },
+      {
+        "name": "PSI-Rockin PS2 Demo Archive — ps2tut",
+        "url": "https://github.com/PSI-Rockin/ps2demos/blob/master/demos/ps2tut.zip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "homebrew preservation",
+          "demo",
+          "source code",
+          "Tony Saveski",
+          "Dreamtime",
+          "tutorial demos",
+          "source"
+        ]
+      }
+    ]
+  }
+]
