@@ -829,6 +829,136 @@
           "homebrew",
           "technical"
         ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — How to install and run SSH on your PS2 TOOL",
+        "url": "https://assemblergames-archive.com/thread-13413.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "Development",
+          "PS2 TOOL",
+          "Linux",
+          "SSH",
+          "networking"
+        ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — Is DTL-T10000 or DTL-T10000H better?",
+        "url": "https://www.assemblergames-archive.com/thread-58658.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "Development",
+          "PS2 TOOL",
+          "DTL-T10000",
+          "hardware"
+        ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — PS2 TEST Debugging Station — hardware rarity discussion",
+        "url": "https://assemblergames-archive.com/thread-39361-nextoldest.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "Development",
+          "PS2 TEST",
+          "debugging",
+          "hardware"
+        ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — PS2 Dev HDD questions",
+        "url": "https://assemblergames-archive.com/thread-34233.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "Development",
+          "PS2 TOOL",
+          "HDD",
+          "hardware"
+        ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — PlayStation 2 identification tool / PS2Ident",
+        "url": "https://www.assemblergames-archive.com/thread-40115-post-902613.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "Development",
+          "PS2Ident",
+          "hardware",
+          "firmware",
+          "utility"
+        ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — Sony Programming and Development — TOOL/TEST archive page",
+        "url": "https://assemblergames-archive.com/archive/index.php/forum-15-81.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "Development",
+          "PS2 TOOL",
+          "PS2 TEST",
+          "archive"
+        ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — Sony Programming and Development — TOOL passwd / developer archive page",
+        "url": "https://assemblergames-archive.com/archive/index.php/forum-15-49.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "Development",
+          "PS2 TOOL",
+          "archive",
+          "Linux"
+        ]
+      },
+      {
+        "name": "ASSEMblerGames PS2 — PS2 TOOL internals discussion",
+        "url": "https://assemblergames-archive.com/thread-21144-page-3.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "ASSEMblerGames",
+          "archive",
+          "scene",
+          "forum",
+          "Development",
+          "PS2 TOOL",
+          "hardware",
+          "reverse engineering"
+        ]
       }
     ]
   }
