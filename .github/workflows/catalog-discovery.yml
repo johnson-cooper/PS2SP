@@ -2,7 +2,7 @@ name: Discover PS2 projects
 
 on:
   schedule:
-    - cron: "47 */2 * * *"
+    - cron: "47 * * * *"
   workflow_dispatch:
   push:
     branches: [main]
