@@ -74,6 +74,7 @@ import ps2ProgrammingLinuxOnlineDeepGroups from "../../data/resources/ps2-progra
 import ps2CommunityDeepGroups from "../../data/resources/ps2-community-deep-2026-09-30.json";
 import internetArchivePs2Deep3Groups from "../../data/resources/internet-archive-ps2-deep-3-2026-09-30.json";
 import manualHardwareExploitsRegionalGroups from "../../data/resources/manual-hardware-exploits-regional-2026-09-30.json";
+import regionalSceneDeepGroups from "../../data/resources/regional-scene-deep-2026-09-30.json";
 
 export interface ResourceLink {
   name: string;
@@ -170,7 +171,8 @@ const allResourceSources = [
   ...(ps2ProgrammingLinuxOnlineDeepGroups as ResourceGroup[]),
   ...(ps2CommunityDeepGroups as ResourceGroup[]),
   ...(internetArchivePs2Deep3Groups as ResourceGroup[]),
-  ...(manualHardwareExploitsRegionalGroups as ResourceGroup[])
+  ...(manualHardwareExploitsRegionalGroups as ResourceGroup[]),
+  ...(regionalSceneDeepGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
