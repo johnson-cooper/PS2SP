@@ -87,6 +87,30 @@ import ps2devForumLiveGroups from "../../data/resources/ps2dev-forum-live.json";
 import ps2SaveIconTechnicalDeepGroups from "../../data/resources/ps2-save-icon-technical-deep-2026-10-01.json";
 import sceneOrgPs2devDemoGroups from "../../data/resources/scene-org-ps2dev-demos-deep-2026-10-01.json";
 import userCuratedProjectGroups from "../../data/resources/user-curated-projects-2026-10-01.json";
+import awesomePs2EarlyDemoGroups from "../../data/resources/awesome-ps2-and-early-demos.json";
+import demozooPs2SceneWave2Groups from "../../data/resources/demozoo-ps2-scene-wave2.json";
+import githubOrgCompletionWave2Groups from "../../data/resources/github-org-completion-wave2.json";
+import itchioPs2HomebrewWave2Groups from "../../data/resources/itchio-ps2-homebrew-wave2.json";
+import ps2EducationEnginesDeepGroups from "../../data/resources/ps2-education-engines-deep.json";
+import ps2FanTranslationsWave2Groups from "../../data/resources/ps2-fan-translations-wave2.json";
+import ps2HomeArchiveWave2Groups from "../../data/resources/ps2-home-archive-wave2.json";
+import ps2HomebrewGamesPortsWave2Groups from "../../data/resources/ps2-homebrew-games-ports-wave2.json";
+import ps2HomebrewPrimarySourcesWave2Groups from "../../data/resources/ps2-homebrew-primary-sources-wave2.json";
+import ps2ModchipPreservationWave2Groups from "../../data/resources/ps2-modchip-preservation-wave2.json";
+import ps2ModdingWave2Groups from "../../data/resources/ps2-modding-wave2.json";
+import ps2iodbIcon1Groups from "../../data/resources/ps2iodb-icons-1.json";
+import ps2iodbIcon2Groups from "../../data/resources/ps2iodb-icons-2.json";
+import ps2iodbIcon3Groups from "../../data/resources/ps2iodb-icons-3.json";
+import ps2iodbIcon4Groups from "../../data/resources/ps2iodb-icons-4.json";
+import ps2iodbIcon5Groups from "../../data/resources/ps2iodb-icons-5.json";
+import ps2iodbIcon6Groups from "../../data/resources/ps2iodb-icons-6.json";
+import ps2iodbIcon7Groups from "../../data/resources/ps2iodb-icons-7.json";
+import ps2iodbIcon8Groups from "../../data/resources/ps2iodb-icons-8.json";
+import ps2iodbMultistate1Groups from "../../data/resources/ps2iodb-multistate-icons-1.json";
+import ps2iodbMultistate2Groups from "../../data/resources/ps2iodb-multistate-icons-2.json";
+import psbbnAppDbDeepGroups from "../../data/resources/psbbn-appdb-deep.json";
+import psxPlaceHomebrewGamesDeepGroups from "../../data/resources/psx-place-homebrew-games-deep.json";
+import waybackLegacyPs2ModchipLoaderGroups from "../../data/resources/wayback-legacy-ps2-modchips-loaders.json";
 
 export interface ResourceLink {
   name: string;
@@ -266,7 +290,8 @@ const allResourceSources = [
   ...(ps2devForumLiveGroups as ResourceGroup[]),
   ...(ps2SaveIconTechnicalDeepGroups as ResourceGroup[]),
   ...(sceneOrgPs2devDemoGroups as ResourceGroup[]),
-  ...(userCuratedProjectGroups as ResourceGroup[])
+  ...(userCuratedProjectGroups as ResourceGroup[]),
+  ...(awesomePs2EarlyDemoGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
