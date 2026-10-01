@@ -6,22 +6,53 @@
       {
         "name": "GameHacking.org — PS2 Code Database",
         "url": "https://gamehacking.org/?sys=ps2",
-        "keywords": ["PS2", "PlayStation 2", "cheats", "codes", "GameShark", "CodeBreaker", "Action Replay"]
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "cheats",
+          "codes",
+          "GameShark",
+          "CodeBreaker",
+          "Action Replay"
+        ]
       },
       {
         "name": "GameHacking.org — PS2 Hacking Library",
         "url": "https://gamehacking.org/library",
-        "keywords": ["PS2", "PlayStation 2", "MIPS", "PS2Dis", "hacking guides", "opcodes", "syscalls"]
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "MIPS",
+          "PS2Dis",
+          "hacking guides",
+          "opcodes",
+          "syscalls"
+        ]
       },
       {
         "name": "GameHacking.org Wiki — Hacking PlayStation 2",
         "url": "https://wiki.gamehacking.org/Hacking_PlayStation_2",
-        "keywords": ["PS2", "PlayStation 2", "GameShark", "Action Replay", "CodeBreaker", "code types"]
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GameShark",
+          "Action Replay",
+          "CodeBreaker",
+          "code types"
+        ]
       },
       {
         "name": "GameHacking.org — Project Artemis for PS2",
         "url": "https://gamehacking.org/artemis",
-        "keywords": ["PS2", "PlayStation 2", "Artemis", "PS2rd", "PS2CC", "debugger", "memory hacking"]
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Artemis",
+          "PS2rd",
+          "PS2CC",
+          "debugger",
+          "memory hacking"
+        ]
       }
     ]
   },
@@ -32,12 +63,27 @@
       {
         "name": "PS2ME — J2ME on PlayStation 2",
         "url": "https://wellinator.github.io/PS2ME/",
-        "keywords": ["PS2ME", "J2ME", "phoneME", "PS2SDK", "homebrew", "ELF", "MIDP"]
+        "keywords": [
+          "PS2ME",
+          "J2ME",
+          "phoneME",
+          "PS2SDK",
+          "homebrew",
+          "ELF",
+          "MIDP"
+        ]
       },
       {
         "name": "mast1c0re PS2 USB ELF Loader",
         "url": "https://github.com/McCaulay/mast1c0re-ps2-usb-elf-loader",
-        "keywords": ["mast1c0re", "Okage Shadow King", "USB", "ELF", "loader", "PS2"]
+        "keywords": [
+          "mast1c0re",
+          "Okage Shadow King",
+          "USB",
+          "ELF",
+          "loader",
+          "PS2"
+        ]
       }
     ]
   },
@@ -48,12 +94,25 @@
       {
         "name": "SKS Apps — PlayStation 2 ELF Menu Launchers",
         "url": "https://sksapps.haldrie.com/ps2launchers.php",
-        "keywords": ["SKS Apps", "uLaunchELF", "LaunchELF", "ELF", "launcher", "PS2"]
+        "keywords": [
+          "SKS Apps",
+          "uLaunchELF",
+          "LaunchELF",
+          "ELF",
+          "launcher",
+          "PS2"
+        ]
       },
       {
         "name": "Internet Archive — Unsorted PS2 Homebrews",
         "url": "https://archive.org/details/ps2homebrewroms",
-        "keywords": ["Internet Archive", "PS2 homebrew", "homebrew collection", "preservation", "ELF"]
+        "keywords": [
+          "Internet Archive",
+          "PS2 homebrew",
+          "homebrew collection",
+          "preservation",
+          "ELF"
+        ]
       }
     ]
   },
@@ -64,7 +123,13 @@
       {
         "name": "PS2 ELF Files and Descriptions",
         "url": "https://www.scribd.com/document/794253400/Config",
-        "keywords": ["PS2", "ELF", "configuration", "homebrew", "documentation"]
+        "keywords": [
+          "PS2",
+          "ELF",
+          "configuration",
+          "homebrew",
+          "documentation"
+        ]
       }
     ]
   },
@@ -75,7 +140,87 @@
       {
         "name": "Digital Foundry — PlayStation 2 Games",
         "url": "https://www.digitalfoundry.net/games/browse?system=ps2",
-        "keywords": ["Digital Foundry", "PS2", "PlayStation 2", "analysis", "performance", "games"]
+        "keywords": [
+          "Digital Foundry",
+          "PS2",
+          "PlayStation 2",
+          "analysis",
+          "performance",
+          "games"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Firmware, BIOS & System Software Tools",
+    "description": "PlayStation 2 BIOS dumping utilities, firmware-identification tools, system-software references, and technical guides for preserving a console's own firmware.",
+    "links": [
+      {
+        "name": "F0bes/biosdrain — PS2 BIOS Dumper",
+        "url": "https://github.com/F0bes/biosdrain",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BIOS",
+          "biosdrain",
+          "BIOS dumper",
+          "ROM0",
+          "ROM1",
+          "ROM2",
+          "NVM",
+          "MEC",
+          "homebrew",
+          "preservation"
+        ]
+      },
+      {
+        "name": "F0bes/biosdrain — Releases",
+        "url": "https://github.com/F0bes/biosdrain/releases",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BIOS",
+          "biosdrain",
+          "BIOS dumper",
+          "releases",
+          "ELF",
+          "homebrew",
+          "preservation"
+        ]
+      },
+      {
+        "name": "PCSX2 Documentation — Dumping Your PS2 BIOS",
+        "url": "https://pcsx2.net/docs/setup/bios/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BIOS",
+          "PCSX2",
+          "biosdrain",
+          "dumping guide",
+          "ROM0",
+          "ROM1",
+          "NVM",
+          "MEC",
+          "documentation",
+          "preservation"
+        ]
+      },
+      {
+        "name": "PCSX2 Website Source — BIOS Dumping Documentation",
+        "url": "https://github.com/PCSX2/pcsx2-net-www/blob/main/docs/setup/bios.md",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BIOS",
+          "PCSX2",
+          "biosdrain",
+          "documentation source",
+          "ROM0",
+          "ROM1",
+          "NVM",
+          "MEC"
+        ]
       }
     ]
   }
