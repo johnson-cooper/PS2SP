@@ -371,6 +371,72 @@
           "EXTINFO",
           "technical reference"
         ]
+      },
+      {
+        "name": "PS2 Developer Wiki — ROM Contents",
+        "url": "https://www.psdevwiki.com/ps2/ROM/Contents",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BIOS",
+          "ROM",
+          "ROM0",
+          "ROMDIR",
+          "ROMDRV",
+          "ROMVER",
+          "PS1DRV",
+          "PS2LOGO",
+          "OSDSYS",
+          "system software",
+          "technical reference"
+        ]
+      },
+      {
+        "name": "PS2 Developer Wiki — BIOS / ROM Reference",
+        "url": "https://www.psdevwiki.com/ps2/Bios",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BIOS",
+          "ROM",
+          "ROMVER",
+          "firmware",
+          "system software",
+          "technical reference",
+          "PS2 Developer Wiki"
+        ]
+      },
+      {
+        "name": "PS2 Developer Wiki — Dragon MECHACON EEPROM Layout",
+        "url": "https://www.psdevwiki.com/ps2/MechaCon/Dragon_EEPROM_layout",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "MECHACON",
+          "EEPROM",
+          "NVRAM",
+          "DVD Player",
+          "region",
+          "firmware",
+          "Dragon",
+          "technical reference"
+        ]
+      },
+      {
+        "name": "PS2 Developer Wiki — Deckard IOP",
+        "url": "https://www.psdevwiki.com/ps2/IOP/Deckard",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Deckard",
+          "IOP",
+          "ROM0",
+          "XPARAM",
+          "PS2LOGO",
+          "compatibility modes",
+          "firmware",
+          "technical reference"
+        ]
       }
     ]
   }
