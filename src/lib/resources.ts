@@ -86,6 +86,7 @@ import europeanPs2SceneDeepGroups from "../../data/resources/european-ps2-scene-
 import ps2devForumLiveGroups from "../../data/resources/ps2dev-forum-live.json";
 import ps2SaveIconTechnicalDeepGroups from "../../data/resources/ps2-save-icon-technical-deep-2026-10-01.json";
 import sceneOrgPs2devDemoGroups from "../../data/resources/scene-org-ps2dev-demos-deep-2026-10-01.json";
+import userCuratedProjectGroups from "../../data/resources/user-curated-projects-2026-10-01.json";
 
 export interface ResourceLink {
   name: string;
@@ -264,7 +265,8 @@ const allResourceSources = [
   ...(europeanPs2SceneDeepGroups as ResourceGroup[]),
   ...(ps2devForumLiveGroups as ResourceGroup[]),
   ...(ps2SaveIconTechnicalDeepGroups as ResourceGroup[]),
-  ...(sceneOrgPs2devDemoGroups as ResourceGroup[])
+  ...(sceneOrgPs2devDemoGroups as ResourceGroup[]),
+  ...(userCuratedProjectGroups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
