@@ -2,7 +2,294 @@
   {
     "category": "External Git — PS2 Repositories Live",
     "description": "Continuously refreshed PS2 repositories hosted outside GitHub, including Forgejo and Gitea instances.",
-    "links": []
+    "links": [
+      {
+        "name": "PS2BUILD SDK — ps2/audsrv",
+        "url": "https://git.techwritescode.dev/ps2/audsrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/audsrv",
+          "C"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/binutils-gdb",
+        "url": "https://git.techwritescode.dev/ps2/binutils-gdb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/binutils-gdb",
+          "C"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/docs",
+        "url": "https://git.techwritescode.dev/ps2/docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/docs",
+          "HTML"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/gcc",
+        "url": "https://git.techwritescode.dev/ps2/gcc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/gcc",
+          "C++"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/install",
+        "url": "https://git.techwritescode.dev/ps2/install",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/install",
+          "PowerShell"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/masp",
+        "url": "https://git.techwritescode.dev/ps2/masp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/masp",
+          "C",
+          "mirror"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/newlib",
+        "url": "https://git.techwritescode.dev/ps2/newlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/newlib",
+          "C",
+          "mirror"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/openvcl",
+        "url": "https://git.techwritescode.dev/ps2/openvcl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/openvcl",
+          "C++",
+          "mirror"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/ps2build",
+        "url": "https://git.techwritescode.dev/ps2/ps2build",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/ps2build",
+          "Go"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/ps2gl",
+        "url": "https://git.techwritescode.dev/ps2/ps2gl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/ps2gl",
+          "C++"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/ps2stuff",
+        "url": "https://git.techwritescode.dev/ps2/ps2stuff",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/ps2stuff",
+          "C++"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/pthread-embedded",
+        "url": "https://git.techwritescode.dev/ps2/pthread-embedded",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/pthread-embedded",
+          "C",
+          "mirror"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/romfs",
+        "url": "https://git.techwritescode.dev/ps2/romfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/romfs",
+          "C"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/sdk-core",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/sdk-core",
+          "C"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/sdk-world",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/sdk-world",
+          "C"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/setup-ps2build",
+        "url": "https://git.techwritescode.dev/ps2/setup-ps2build",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/setup-ps2build",
+          "TypeScript",
+          "archived"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/setup-sdk",
+        "url": "https://git.techwritescode.dev/ps2/setup-sdk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/setup-sdk",
+          "TypeScript"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/setup-toolchain",
+        "url": "https://git.techwritescode.dev/ps2/setup-toolchain",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/setup-toolchain",
+          "TypeScript",
+          "archived"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/toolchain",
+        "url": "https://git.techwritescode.dev/ps2/toolchain",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/toolchain",
+          "Shell"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/tools",
+        "url": "https://git.techwritescode.dev/ps2/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/tools",
+          "Go"
+        ]
+      }
+    ]
   },
   {
     "category": "External Git — PS2 Fork Networks Live",
@@ -12,11 +299,3453 @@
   {
     "category": "External Git — PS2 Branches Live",
     "description": "Branches discovered across non-GitHub PS2 repositories and their fork networks.",
-    "links": []
+    "links": [
+      {
+        "name": "ps2/audsrv — branch: main",
+        "url": "https://git.techwritescode.dev/ps2/audsrv/src/branch/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/audsrv",
+          "main"
+        ]
+      },
+      {
+        "name": "ps2/binutils-gdb — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/binutils-gdb/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/binutils-gdb",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/docs — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/docs/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/docs",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/gcc — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/gcc/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/gcc",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/install — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/install/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/install",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/masp — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/masp/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/masp",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: arc-20081103-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/arc-20081103-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "arc-20081103-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: arc-insight_6_8-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/arc-insight_6_8-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "arc-insight_6_8-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-2_15-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-2_15-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-2_15-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-2_16-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-2_16-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-2_16-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-2_17-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-2_17-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-2_17-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-2_18-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-2_18-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-2_18-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-2_19-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-2_19-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-2_19-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-2_20-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-2_20-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-2_20-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-2_21-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-2_21-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-2_21-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-2_22_branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-2_22_branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-2_22_branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-2_22-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-2_22-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-2_22-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-2_23-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-2_23-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-2_23-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-2_24-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-2_24-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-2_24-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-arc-20080908-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-arc-20080908-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-arc-20080908-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-arc-20081103-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-arc-20081103-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-arc-20081103-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-csl-2_17-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-csl-2_17-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-csl-2_17-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-csl-arm-2005q1-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-csl-arm-2005q1-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-csl-arm-2005q1-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: binutils-csl-gxxpro-3_4-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-csl-gxxpro-3_4-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "binutils-csl-gxxpro-3_4-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cagney_bfdfile-20040213-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_bfdfile-20040213-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cagney_bfdfile-20040213-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cagney_tramp-20040309-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_tramp-20040309-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cagney_tramp-20040309-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: callout",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/callout",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "callout"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cgen-1_1-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cgen-1_1-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cgen-1_1-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cr-0x3b58",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x3b58",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cr-0x3b58"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cr-0x5e6",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x5e6",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cr-0x5e6"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cr-0x5ef",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x5ef",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cr-0x5ef"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cr-0x5f1",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x5f1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cr-0x5f1"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: csl-arm-20050325-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/csl-arm-20050325-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "csl-arm-20050325-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cv-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cv-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cv-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cv-branch-2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cv-branch-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cv-branch-2"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cv-post-1_7_9",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cv-post-1_7_9",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cv-post-1_7_9"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cygwin-1_7_29-release-branchpoint",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-1_7_29-release-branchpoint",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cygwin-1_7_29-release-branchpoint"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cygwin-2.0",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-2.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cygwin-2.0"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cygwin-3_0-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-3_0-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cygwin-3_0-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cygwin-64bit-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-64bit-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cygwin-64bit-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cygwin-64bit-premerge-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-64bit-premerge-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cygwin-64bit-premerge-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: cygwin-acl",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-acl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "cygwin-acl"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: dje-cgen-play1-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/dje-cgen-play1-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "dje-cgen-play1-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: drow_intercu-20040221-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/drow_intercu-20040221-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "drow_intercu-20040221-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: drow-reverse-20070409-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/drow-reverse-20070409-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "drow-reverse-20070409-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: ee-v4.0.0",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.0.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "ee-v4.0.0"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: ee-v4.1.0",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.1.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "ee-v4.1.0"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: ee-v4.3.0",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.3.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "ee-v4.3.0"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: ee-v4.4.0",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.4.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "ee-v4.4.0"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: ee-v4.5.0",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.5.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "ee-v4.5.0"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: ee-v4.6.0",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.6.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "ee-v4.6.0"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: ezannoni_pie-20040323-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ezannoni_pie-20040323-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "ezannoni_pie-20040323-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: fifo_doover3",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/fifo_doover3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "fifo_doover3"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: fp-zeuch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/fp-zeuch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "fp-zeuch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb_6_1-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_6_1-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb_6_1-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb_6_2-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_6_2-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb_6_2-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb_6_3-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_6_3-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb_6_3-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb_6_4-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_6_4-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb_6_4-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb_6_5-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_6_5-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb_6_5-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb_6_6-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_6_6-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb_6_6-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb_6_7-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_6_7-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb_6_7-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb_6_8-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_6_8-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb_6_8-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb_7_0-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_7_0-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb_7_0-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb_7_1-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_7_1-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb_7_1-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb_7_2-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_7_2-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb_7_2-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb_7_3-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_7_3-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb_7_3-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb_7_4-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_7_4-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb_7_4-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb_7_5-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_7_5-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb_7_5-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb_7_6-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_7_6-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb_7_6-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb-csl-20060226-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb-csl-20060226-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb-csl-20060226-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb-csl-arm-20051020-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb-csl-arm-20051020-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb-csl-arm-20051020-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb-csl-available-20060303-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb-csl-available-20060303-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb-csl-available-20060303-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb-csl-gxxpro-6_3-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb-csl-gxxpro-6_3-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb-csl-gxxpro-6_3-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: gdb-csl-symbian-20060226-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb-csl-symbian-20060226-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "gdb-csl-symbian-20060226-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: insight_6_8-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/insight_6_8-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "insight_6_8-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: jimb-gdb_6_2-e500-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/jimb-gdb_6_2-e500-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "jimb-gdb_6_2-e500-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: jimb-rda-nptl-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/jimb-rda-nptl-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "jimb-rda-nptl-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: msnyder-checkpoint-072509-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/msnyder-checkpoint-072509-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "msnyder-checkpoint-072509-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: msnyder-fork-checkpoint-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/msnyder-fork-checkpoint-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "msnyder-fork-checkpoint-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: msnyder-reverse-20060331-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/msnyder-reverse-20060331-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "msnyder-reverse-20060331-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: msnyder-reverse-20060502-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/msnyder-reverse-20060502-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "msnyder-reverse-20060502-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: msnyder-reverse-20080609-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/msnyder-reverse-20080609-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "msnyder-reverse-20080609-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: msnyder-tracepoint-checkpoint-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/msnyder-tracepoint-checkpoint-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "msnyder-tracepoint-checkpoint-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: multiprocess-20081120-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/multiprocess-20081120-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "multiprocess-20081120-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: newlib-1_17_0-arc",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-1_17_0-arc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "newlib-1_17_0-arc"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: newlib-autotools-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-autotools-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "newlib-autotools-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: newlib-csl-20060320-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-csl-20060320-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "newlib-csl-20060320-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: nickrob-async-20060513-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/nickrob-async-20060513-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "nickrob-async-20060513-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: noreparent",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/noreparent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "noreparent"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: readline_5_1-import-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/readline_5_1-import-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "readline_5_1-import-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: reverse-20080717-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/reverse-20080717-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "reverse-20080717-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: reverse-20080930-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/reverse-20080930-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "reverse-20080930-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: reverse-20081226-branch",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/reverse-20081226-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "reverse-20081226-branch"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: signal-rewrite",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/signal-rewrite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "signal-rewrite"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: topic/af_unix",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/af_unix",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "topic/af_unix"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: topic/ansification",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/ansification",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "topic/ansification"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: topic/fifo",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/fifo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "topic/fifo"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: topic/forkables",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/forkables",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "topic/forkables"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: topic/locales",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/locales",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "topic/locales"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: topic/posix_acl_funcs",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/posix_acl_funcs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "topic/posix_acl_funcs"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: topic/serial_io",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/serial_io",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "topic/serial_io"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: topic/ssp",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/ssp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "topic/ssp"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.2.2",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.2.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.2.2"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: unlabeled-1.22.4",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/unlabeled-1.22.4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "unlabeled-1.22.4"
+        ]
+      },
+      {
+        "name": "ps2/newlib — branch: vendor",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/vendor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib",
+          "vendor"
+        ]
+      },
+      {
+        "name": "ps2/openvcl — branch: fix_ci",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/fix_ci",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/openvcl",
+          "fix_ci"
+        ]
+      },
+      {
+        "name": "ps2/openvcl — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/openvcl",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/ps2build — branch: add-dvp-vsm-support",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/add-dvp-vsm-support",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/ps2build",
+          "add-dvp-vsm-support"
+        ]
+      },
+      {
+        "name": "ps2/ps2build — branch: llvm",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/llvm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/ps2build",
+          "llvm"
+        ]
+      },
+      {
+        "name": "ps2/ps2build — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/ps2build",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/ps2gl — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/ps2gl/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/ps2gl",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/ps2stuff — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/ps2stuff/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/ps2stuff",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/pthread-embedded — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/pthread-embedded/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/pthread-embedded",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/pthread-embedded — branch: platform_agnostic",
+        "url": "https://git.techwritescode.dev/ps2/pthread-embedded/src/branch/platform_agnostic",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/pthread-embedded",
+          "platform_agnostic"
+        ]
+      },
+      {
+        "name": "ps2/romfs — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/romfs/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/romfs",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core — branch: llvm",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/llvm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/sdk-core",
+          "llvm"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core — branch: lwip-upgrade",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/lwip-upgrade",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/sdk-core",
+          "lwip-upgrade"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core — branch: main",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/sdk-core",
+          "main"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core — branch: remove-claude-md",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/remove-claude-md",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/sdk-core",
+          "remove-claude-md"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world — branch: ioptrap-udptty",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ioptrap-udptty",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/sdk-world",
+          "ioptrap-udptty"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/sdk-world",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/setup-ps2build — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/setup-ps2build/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/setup-ps2build",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/setup-sdk — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/setup-sdk/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/setup-sdk",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/setup-toolchain — branch: master",
+        "url": "https://git.techwritescode.dev/ps2/setup-toolchain/src/branch/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/setup-toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2/toolchain — branch: canadian-cross-windows",
+        "url": "https://git.techwritescode.dev/ps2/toolchain/src/branch/canadian-cross-windows",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/toolchain",
+          "canadian-cross-windows"
+        ]
+      },
+      {
+        "name": "ps2/toolchain — branch: main",
+        "url": "https://git.techwritescode.dev/ps2/toolchain/src/branch/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/toolchain",
+          "main"
+        ]
+      },
+      {
+        "name": "ps2/tools — branch: main",
+        "url": "https://git.techwritescode.dev/ps2/tools/src/branch/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/tools",
+          "main"
+        ]
+      }
+    ]
   },
   {
     "category": "External Git — Nested Projects & Branch Internals Live",
     "description": "Branch-specific nested tools, examples, modules, ports and project roots found inside non-GitHub PS2 repositories.",
-    "links": []
+    "links": [
+      {
+        "name": "ps2/binutils-gdb@master — bfd",
+        "url": "https://git.techwritescode.dev/ps2/binutils-gdb/src/branch/master/bfd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/binutils-gdb",
+          "master",
+          "bfd"
+        ]
+      },
+      {
+        "name": "ps2/binutils-gdb@master — binutils",
+        "url": "https://git.techwritescode.dev/ps2/binutils-gdb/src/branch/master/binutils",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/binutils-gdb",
+          "master",
+          "binutils"
+        ]
+      },
+      {
+        "name": "ps2/gcc@master — contrib/bpf-vmtest-tool",
+        "url": "https://git.techwritescode.dev/ps2/gcc/src/branch/master/contrib/bpf-vmtest-tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/gcc",
+          "master",
+          "contrib/bpf-vmtest-tool"
+        ]
+      },
+      {
+        "name": "ps2/gcc@master — contrib/ci-containers",
+        "url": "https://git.techwritescode.dev/ps2/gcc/src/branch/master/contrib/ci-containers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/gcc",
+          "master",
+          "contrib/ci-containers"
+        ]
+      },
+      {
+        "name": "ps2/gcc@master — contrib/header-tools",
+        "url": "https://git.techwritescode.dev/ps2/gcc/src/branch/master/contrib/header-tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/gcc",
+          "master",
+          "contrib/header-tools"
+        ]
+      },
+      {
+        "name": "ps2/gcc@master — contrib/reghunt/date_based",
+        "url": "https://git.techwritescode.dev/ps2/gcc/src/branch/master/contrib/reghunt/date_based",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/gcc",
+          "master",
+          "contrib/reghunt/date_based"
+        ]
+      },
+      {
+        "name": "ps2/gcc@master — contrib/reghunt/examples",
+        "url": "https://git.techwritescode.dev/ps2/gcc/src/branch/master/contrib/reghunt/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/gcc",
+          "master",
+          "contrib/reghunt/examples"
+        ]
+      },
+      {
+        "name": "ps2/gcc@master — contrib/regression",
+        "url": "https://git.techwritescode.dev/ps2/gcc/src/branch/master/contrib/regression",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/gcc",
+          "master",
+          "contrib/regression"
+        ]
+      },
+      {
+        "name": "ps2/gcc@master — contrib/unicode",
+        "url": "https://git.techwritescode.dev/ps2/gcc/src/branch/master/contrib/unicode",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/gcc",
+          "master",
+          "contrib/unicode"
+        ]
+      },
+      {
+        "name": "ps2/gcc@master — contrib/vim-gcc-dev",
+        "url": "https://git.techwritescode.dev/ps2/gcc/src/branch/master/contrib/vim-gcc-dev",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/gcc",
+          "master",
+          "contrib/vim-gcc-dev"
+        ]
+      },
+      {
+        "name": "ps2/gcc@master — fixincludes",
+        "url": "https://git.techwritescode.dev/ps2/gcc/src/branch/master/fixincludes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/gcc",
+          "master",
+          "fixincludes"
+        ]
+      },
+      {
+        "name": "ps2/gcc@master — gcc/ada/doc",
+        "url": "https://git.techwritescode.dev/ps2/gcc/src/branch/master/gcc/ada/doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/gcc",
+          "master",
+          "gcc/ada/doc"
+        ]
+      },
+      {
+        "name": "ps2/gcc@master — INSTALL",
+        "url": "https://git.techwritescode.dev/ps2/gcc/src/branch/master/INSTALL",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/gcc",
+          "master",
+          "INSTALL"
+        ]
+      },
+      {
+        "name": "ps2/masp@master — src",
+        "url": "https://git.techwritescode.dev/ps2/masp/src/branch/master/src",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/masp",
+          "master",
+          "src"
+        ]
+      },
+      {
+        "name": "ps2/masp@master — test",
+        "url": "https://git.techwritescode.dev/ps2/masp/src/branch/master/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/masp",
+          "master",
+          "test"
+        ]
+      },
+      {
+        "name": "ps2/masp@master — test/unit",
+        "url": "https://git.techwritescode.dev/ps2/masp/src/branch/master/test/unit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/masp",
+          "master",
+          "test/unit"
+        ]
+      },
+      {
+        "name": "ps2/newlib@binutils-arc-20080908-branch — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-arc-20080908-branch/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "binutils-arc-20080908-branch",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@binutils-arc-20080908-branch — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-arc-20080908-branch/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "binutils-arc-20080908-branch",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@binutils-arc-20080908-branch — libgloss/m68k",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-arc-20080908-branch/libgloss/m68k",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "binutils-arc-20080908-branch",
+          "libgloss/m68k"
+        ]
+      },
+      {
+        "name": "ps2/newlib@binutils-arc-20080908-branch — libgloss/pa",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-arc-20080908-branch/libgloss/pa",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "binutils-arc-20080908-branch",
+          "libgloss/pa"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x5f1 — newlib",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x5f1/newlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x5f1",
+          "newlib"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cv-branch — winsup",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cv-branch/winsup",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cv-branch",
+          "winsup"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cv-branch — winsup/cygserver",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cv-branch/winsup/cygserver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cv-branch",
+          "winsup/cygserver"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cv-branch — winsup/cygwin/regexp",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cv-branch/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cv-branch",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cv-branch — winsup/doc",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cv-branch/winsup/doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cv-branch",
+          "winsup/doc"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cv-branch — winsup/mingw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cv-branch/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cv-branch",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cv-branch — winsup/mingw/samples",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cv-branch/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cv-branch",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cv-branch — winsup/testsuite",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cv-branch/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cv-branch",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cv-branch-2 — winsup",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cv-branch-2/winsup",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cv-branch-2",
+          "winsup"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cv-branch-2 — winsup/cygserver",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cv-branch-2/winsup/cygserver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cv-branch-2",
+          "winsup/cygserver"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cv-branch-2 — winsup/doc",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cv-branch-2/winsup/doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cv-branch-2",
+          "winsup/doc"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cv-branch-2 — winsup/mingw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cv-branch-2/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cv-branch-2",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cv-branch-2 — winsup/mingw/mingwex/gdtoa",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cv-branch-2/winsup/mingw/mingwex/gdtoa",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cv-branch-2",
+          "winsup/mingw/mingwex/gdtoa"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cv-branch-2 — winsup/mingw/samples",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cv-branch-2/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cv-branch-2",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cygwin-1_7_29-release-branchpoint — winsup",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-1_7_29-release-branchpoint/winsup",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cygwin-1_7_29-release-branchpoint",
+          "winsup"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cygwin-1_7_29-release-branchpoint — winsup/cygserver",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-1_7_29-release-branchpoint/winsup/cygserver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cygwin-1_7_29-release-branchpoint",
+          "winsup/cygserver"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cygwin-1_7_29-release-branchpoint — winsup/doc",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-1_7_29-release-branchpoint/winsup/doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cygwin-1_7_29-release-branchpoint",
+          "winsup/doc"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cygwin-1_7_29-release-branchpoint — winsup/testsuite",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-1_7_29-release-branchpoint/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cygwin-1_7_29-release-branchpoint",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cygwin-1_7_29-release-branchpoint — winsup/testsuite/winsup.api/samples",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-1_7_29-release-branchpoint/winsup/testsuite/winsup.api/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cygwin-1_7_29-release-branchpoint",
+          "winsup/testsuite/winsup.api/samples"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cygwin-2.0 — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-2.0/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cygwin-2.0",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cygwin-2.0 — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-2.0/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cygwin-2.0",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cygwin-3_0-branch — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-3_0-branch/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cygwin-3_0-branch",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cygwin-3_0-branch — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-3_0-branch/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cygwin-3_0-branch",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cygwin-64bit-branch — newlib",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-64bit-branch/newlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cygwin-64bit-branch",
+          "newlib"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cygwin-64bit-premerge-branch — newlib",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-64bit-premerge-branch/newlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cygwin-64bit-premerge-branch",
+          "newlib"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cygwin-acl — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-acl/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cygwin-acl",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cygwin-acl — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cygwin-acl/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cygwin-acl",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@ee-v4.0.0 — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.0.0/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "ee-v4.0.0",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@ee-v4.0.0 — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.0.0/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "ee-v4.0.0",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@ee-v4.1.0 — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.1.0/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "ee-v4.1.0",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@ee-v4.1.0 — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.1.0/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "ee-v4.1.0",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@ee-v4.3.0 — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.3.0/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "ee-v4.3.0",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@ee-v4.3.0 — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.3.0/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "ee-v4.3.0",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@ee-v4.4.0 — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.4.0/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "ee-v4.4.0",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@ee-v4.4.0 — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.4.0/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "ee-v4.4.0",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@ee-v4.5.0 — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.5.0/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "ee-v4.5.0",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@ee-v4.5.0 — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.5.0/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "ee-v4.5.0",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@ee-v4.6.0 — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.6.0/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "ee-v4.6.0",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@ee-v4.6.0 — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ee-v4.6.0/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "ee-v4.6.0",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@fp-zeuch — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/fp-zeuch/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "fp-zeuch",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@fp-zeuch — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/fp-zeuch/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "fp-zeuch",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@master — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/master/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "master",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@master — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/master/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "master",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@newlib-1_17_0-arc — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-1_17_0-arc/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "newlib-1_17_0-arc",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@newlib-1_17_0-arc — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-1_17_0-arc/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "newlib-1_17_0-arc",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@newlib-1_17_0-arc — libgloss/m68k",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-1_17_0-arc/libgloss/m68k",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "newlib-1_17_0-arc",
+          "libgloss/m68k"
+        ]
+      },
+      {
+        "name": "ps2/newlib@newlib-1_17_0-arc — libgloss/pa",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-1_17_0-arc/libgloss/pa",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "newlib-1_17_0-arc",
+          "libgloss/pa"
+        ]
+      },
+      {
+        "name": "ps2/newlib@newlib-csl-20060320-branch — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-csl-20060320-branch/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "newlib-csl-20060320-branch",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@newlib-csl-20060320-branch — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-csl-20060320-branch/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "newlib-csl-20060320-branch",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@newlib-csl-20060320-branch — libgloss/m68k",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-csl-20060320-branch/libgloss/m68k",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "newlib-csl-20060320-branch",
+          "libgloss/m68k"
+        ]
+      },
+      {
+        "name": "ps2/newlib@newlib-csl-20060320-branch — libgloss/pa",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-csl-20060320-branch/libgloss/pa",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "newlib-csl-20060320-branch",
+          "libgloss/pa"
+        ]
+      },
+      {
+        "name": "ps2/newlib@newlib-csl-20060320-branch — newlib",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-csl-20060320-branch/newlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "newlib-csl-20060320-branch",
+          "newlib"
+        ]
+      },
+      {
+        "name": "ps2/newlib@topic/af_unix — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/af_unix/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "topic/af_unix",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@topic/af_unix — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/af_unix/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "topic/af_unix",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@topic/ansification — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/ansification/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "topic/ansification",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@topic/ansification — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/ansification/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "topic/ansification",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@topic/fifo — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/fifo/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "topic/fifo",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@topic/fifo — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/fifo/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "topic/fifo",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@topic/forkables — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/forkables/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "topic/forkables",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@topic/forkables — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/forkables/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "topic/forkables",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@topic/locales — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/locales/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "topic/locales",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@topic/locales — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/locales/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "topic/locales",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@topic/posix_acl_funcs — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/posix_acl_funcs/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "topic/posix_acl_funcs",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@topic/posix_acl_funcs — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/posix_acl_funcs/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "topic/posix_acl_funcs",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@topic/serial_io — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/serial_io/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "topic/serial_io",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@topic/serial_io — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/serial_io/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "topic/serial_io",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@topic/ssp — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/ssp/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "topic/ssp",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@topic/ssp — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/topic/ssp/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "topic/ssp",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@fix_ci — examples",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/fix_ci/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "fix_ci",
+          "examples"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@fix_ci — examples/pdk",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/fix_ci/examples/pdk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "fix_ci",
+          "examples/pdk"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@fix_ci — examples/sprite",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/fix_ci/examples/sprite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "fix_ci",
+          "examples/sprite"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@fix_ci — examples/triangle",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/fix_ci/examples/triangle",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "fix_ci",
+          "examples/triangle"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@fix_ci — examples/triangle_strip",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/fix_ci/examples/triangle_strip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "fix_ci",
+          "examples/triangle_strip"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@fix_ci — examples/triangle-gasp",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/fix_ci/examples/triangle-gasp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "fix_ci",
+          "examples/triangle-gasp"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@fix_ci — test",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/fix_ci/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "fix_ci",
+          "test"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@fix_ci — test/repro",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/fix_ci/test/repro",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "fix_ci",
+          "test/repro"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@fix_ci — tools",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/fix_ci/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "fix_ci",
+          "tools"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@master — examples",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@master — examples/pdk",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/master/examples/pdk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "master",
+          "examples/pdk"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@master — examples/sprite",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/master/examples/sprite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "master",
+          "examples/sprite"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@master — examples/triangle",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/master/examples/triangle",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "master",
+          "examples/triangle"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@master — examples/triangle_strip",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/master/examples/triangle_strip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "master",
+          "examples/triangle_strip"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@master — examples/triangle-gasp",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/master/examples/triangle-gasp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "master",
+          "examples/triangle-gasp"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@master — test",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/master/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "master",
+          "test"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@master — test/repro",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/master/test/repro",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "master",
+          "test/repro"
+        ]
+      },
+      {
+        "name": "ps2/openvcl@master — tools",
+        "url": "https://git.techwritescode.dev/ps2/openvcl/src/branch/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/openvcl",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@add-dvp-vsm-support — internal/explain/testdata/fixtures/cxx-lib",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/add-dvp-vsm-support/internal/explain/testdata/fixtures/cxx-lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "add-dvp-vsm-support",
+          "internal/explain/testdata/fixtures/cxx-lib"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@add-dvp-vsm-support — internal/explain/testdata/fixtures/embed-irx",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/add-dvp-vsm-support/internal/explain/testdata/fixtures/embed-irx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "add-dvp-vsm-support",
+          "internal/explain/testdata/fixtures/embed-irx"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@add-dvp-vsm-support — internal/explain/testdata/fixtures/embed-irx-ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/add-dvp-vsm-support/internal/explain/testdata/fixtures/embed-irx-ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "add-dvp-vsm-support",
+          "internal/explain/testdata/fixtures/embed-irx-ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@add-dvp-vsm-support — internal/explain/testdata/fixtures/overrides",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/add-dvp-vsm-support/internal/explain/testdata/fixtures/overrides",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "add-dvp-vsm-support",
+          "internal/explain/testdata/fixtures/overrides"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@add-dvp-vsm-support — internal/explain/testdata/fixtures/simple-ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/add-dvp-vsm-support/internal/explain/testdata/fixtures/simple-ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "add-dvp-vsm-support",
+          "internal/explain/testdata/fixtures/simple-ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@add-dvp-vsm-support — internal/explain/testdata/fixtures/simple-iop",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/add-dvp-vsm-support/internal/explain/testdata/fixtures/simple-iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "add-dvp-vsm-support",
+          "internal/explain/testdata/fixtures/simple-iop"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@add-dvp-vsm-support — internal/explain/testdata/fixtures/static-lib",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/add-dvp-vsm-support/internal/explain/testdata/fixtures/static-lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "add-dvp-vsm-support",
+          "internal/explain/testdata/fixtures/static-lib"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@add-dvp-vsm-support — internal/explain/testdata/fixtures/vu-microcode",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/add-dvp-vsm-support/internal/explain/testdata/fixtures/vu-microcode",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "add-dvp-vsm-support",
+          "internal/explain/testdata/fixtures/vu-microcode"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@llvm — internal/explain/testdata/fixtures/cxx-lib",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/llvm/internal/explain/testdata/fixtures/cxx-lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "llvm",
+          "internal/explain/testdata/fixtures/cxx-lib"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@llvm — internal/explain/testdata/fixtures/embed-irx",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/llvm/internal/explain/testdata/fixtures/embed-irx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "llvm",
+          "internal/explain/testdata/fixtures/embed-irx"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@llvm — internal/explain/testdata/fixtures/embed-irx-ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/llvm/internal/explain/testdata/fixtures/embed-irx-ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "llvm",
+          "internal/explain/testdata/fixtures/embed-irx-ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@llvm — internal/explain/testdata/fixtures/overrides",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/llvm/internal/explain/testdata/fixtures/overrides",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "llvm",
+          "internal/explain/testdata/fixtures/overrides"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@llvm — internal/explain/testdata/fixtures/simple-ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/llvm/internal/explain/testdata/fixtures/simple-ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "llvm",
+          "internal/explain/testdata/fixtures/simple-ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@llvm — internal/explain/testdata/fixtures/simple-iop",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/llvm/internal/explain/testdata/fixtures/simple-iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "llvm",
+          "internal/explain/testdata/fixtures/simple-iop"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@llvm — internal/explain/testdata/fixtures/static-lib",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/llvm/internal/explain/testdata/fixtures/static-lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "llvm",
+          "internal/explain/testdata/fixtures/static-lib"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@llvm — internal/explain/testdata/fixtures/vu-microcode",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/llvm/internal/explain/testdata/fixtures/vu-microcode",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "llvm",
+          "internal/explain/testdata/fixtures/vu-microcode"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@master — internal/explain/testdata/fixtures/cxx-lib",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/master/internal/explain/testdata/fixtures/cxx-lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "master",
+          "internal/explain/testdata/fixtures/cxx-lib"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@master — internal/explain/testdata/fixtures/embed-irx",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/master/internal/explain/testdata/fixtures/embed-irx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "master",
+          "internal/explain/testdata/fixtures/embed-irx"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@master — internal/explain/testdata/fixtures/embed-irx-ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/master/internal/explain/testdata/fixtures/embed-irx-ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "master",
+          "internal/explain/testdata/fixtures/embed-irx-ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@master — internal/explain/testdata/fixtures/overrides",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/master/internal/explain/testdata/fixtures/overrides",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "master",
+          "internal/explain/testdata/fixtures/overrides"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@master — internal/explain/testdata/fixtures/simple-ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/master/internal/explain/testdata/fixtures/simple-ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "master",
+          "internal/explain/testdata/fixtures/simple-ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@master — internal/explain/testdata/fixtures/simple-iop",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/master/internal/explain/testdata/fixtures/simple-iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "master",
+          "internal/explain/testdata/fixtures/simple-iop"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@master — internal/explain/testdata/fixtures/static-lib",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/master/internal/explain/testdata/fixtures/static-lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "master",
+          "internal/explain/testdata/fixtures/static-lib"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@master — internal/explain/testdata/fixtures/vu-microcode",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/master/internal/explain/testdata/fixtures/vu-microcode",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "master",
+          "internal/explain/testdata/fixtures/vu-microcode"
+        ]
+      },
+      {
+        "name": "ps2/toolchain@canadian-cross-windows — docker",
+        "url": "https://git.techwritescode.dev/ps2/toolchain/src/branch/canadian-cross-windows/docker",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/toolchain",
+          "canadian-cross-windows",
+          "docker"
+        ]
+      },
+      {
+        "name": "ps2/toolchain@canadian-cross-windows — ee",
+        "url": "https://git.techwritescode.dev/ps2/toolchain/src/branch/canadian-cross-windows/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/toolchain",
+          "canadian-cross-windows",
+          "ee"
+        ]
+      },
+      {
+        "name": "ps2/toolchain@canadian-cross-windows — iop",
+        "url": "https://git.techwritescode.dev/ps2/toolchain/src/branch/canadian-cross-windows/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/toolchain",
+          "canadian-cross-windows",
+          "iop"
+        ]
+      },
+      {
+        "name": "ps2/toolchain@main — docker",
+        "url": "https://git.techwritescode.dev/ps2/toolchain/src/branch/main/docker",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/toolchain",
+          "main",
+          "docker"
+        ]
+      },
+      {
+        "name": "ps2/toolchain@main — ee",
+        "url": "https://git.techwritescode.dev/ps2/toolchain/src/branch/main/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/toolchain",
+          "main",
+          "ee"
+        ]
+      },
+      {
+        "name": "ps2/toolchain@main — iop",
+        "url": "https://git.techwritescode.dev/ps2/toolchain/src/branch/main/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/toolchain",
+          "main",
+          "iop"
+        ]
+      }
+    ]
   }
 ]
