@@ -1,0 +1,141 @@
+[
+  {
+    "category": "European PS2 Scene — French & German",
+    "description": "Historic French and German PlayStation 2 scene material covering Free McBoot, homebrew setup, OPL, softmods, hardware, memory cards and MX4SIO.",
+    "links": [
+      {
+        "name": "MetaGames France — Original Free MC Boot Project Thread",
+        "url": "https://www.metagames-eu.com/forums/playstation-2/projet-free-mc-boot-pour-toutes-cartes-memoires-94490.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "French",
+          "France",
+          "MetaGames",
+          "Free MC Boot",
+          "FMCB",
+          "homebrew",
+          "exploit",
+          "memory card",
+          "history"
+        ]
+      },
+      {
+        "name": "Wii-Homebrew Germany — PS2 Homebrew / FMCB Tutorial",
+        "url": "https://forum.wii-homebrew.com/index.php/Thread/12421-TUT-Homebrew-benutzen-auf-der-Playstation-2/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "German",
+          "Germany",
+          "homebrew",
+          "Free MC Boot",
+          "FMCB",
+          "uLaunchELF",
+          "OPL",
+          "HD Loader",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "Wii-Homebrew Germany — PS2 Softmod Discussion",
+        "url": "https://forum.wii-homebrew.com/index.php/Thread/40010-PS2-Umbau-Softmod/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "German",
+          "Germany",
+          "homebrew",
+          "softmod",
+          "Free MC Boot",
+          "FMCB",
+          "tutorial",
+          "scene"
+        ]
+      },
+      {
+        "name": "Trisaster Germany — PlayStation 2 Hardware Forum",
+        "url": "https://www.trisaster.de/forum/index.php?board=3.0%3Bsort%3Dlast_post",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "German",
+          "Germany",
+          "hardware",
+          "repair",
+          "memory card",
+          "modchip",
+          "homebrew",
+          "forum"
+        ]
+      },
+      {
+        "name": "Trisaster Germany — PS2 MX4SIO",
+        "url": "https://www.trisaster.de/page/index.php?topic=575",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "German",
+          "Germany",
+          "MX4SIO",
+          "SIO2SD",
+          "OPL",
+          "hardware",
+          "memory card",
+          "storage"
+        ]
+      },
+      {
+        "name": "Hardwareluxx Germany — Crystal Chip / PS2 Modchip Discussion",
+        "url": "https://www.hardwareluxx.de/community/threads/bester-modchip-f%C3%BCr-die-ps2-playstation-2.184954/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "German",
+          "Germany",
+          "modchip",
+          "Crystal Chip",
+          "homebrew",
+          "boot manager",
+          "firmware"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "European PS2 Scene — Italian & Online Communities",
+    "description": "Italian and broader European PlayStation 2 community references covering tools, patches, homebrew, online play and Free McBoot.",
+    "links": [
+      {
+        "name": "RetroHead Italy — PS2 Tool & Patch Forum",
+        "url": "https://www.retrohead.it/forum/viewforum.php?f=20",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Italian",
+          "Italy",
+          "tools",
+          "patches",
+          "modding",
+          "homebrew",
+          "forum"
+        ]
+      },
+      {
+        "name": "PS2 Online Gaming — FreeMCBoot for Online PS2",
+        "url": "https://www.ps2onlinegaming.com/viewtopic.php?t=1972",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "online",
+          "Free MC Boot",
+          "FMCB",
+          "OPL",
+          "networking",
+          "community",
+          "France"
+        ]
+      }
+    ]
+  }
+]
