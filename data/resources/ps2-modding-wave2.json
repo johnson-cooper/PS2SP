@@ -1,0 +1,799 @@
+[
+  {
+    "category": "Custom Content & Game Mods",
+    "description": "PlayStation 2 game modifications, total conversions, modding frameworks, editors, randomizers, texture packs, widescreen/PNACH projects, and game-specific reverse-engineering tools. Retail game dumps are excluded.",
+    "links": [
+      {
+        "name": "PS2 Modding — ModDB PlayStation 2 Mods Index",
+        "url": "https://www.moddb.com/platforms/ps2/mods",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "ModDB",
+          "PS2 mods",
+          "mod index",
+          "total conversions",
+          "game mods"
+        ]
+      },
+      {
+        "name": "PS2 Modding — ModDB PS2 Tag Index",
+        "url": "https://www.moddb.com/tags/ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "ModDB",
+          "PS2 tag",
+          "mods",
+          "downloads",
+          "patches"
+        ]
+      },
+      {
+        "name": "PS2 Modding — TeamBT4 — Budokai Tenkaichi 4 Mod",
+        "url": "https://teambt4.wixsite.com/teambt4projects?lang=en",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "Dragon Ball Z",
+          "Budokai Tenkaichi 4",
+          "BT4",
+          "PS2 native mod",
+          "TeamBT4"
+        ]
+      },
+      {
+        "name": "PS2 Modding — ModDB — Budokai Tenkaichi 4 Paradox",
+        "url": "https://www.moddb.com/mods/dragon-ball-z-budokai-tenkaichi-4-paradox",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "Dragon Ball Z",
+          "Budokai Tenkaichi 3",
+          "Budokai Tenkaichi 4",
+          "PS2 mod",
+          "Paradox"
+        ]
+      },
+      {
+        "name": "PS2 Modding — ModDB — GTA San Andreas PS2 Mods",
+        "url": "https://www.moddb.com/mods/gta-san-andreas-mods",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "GTA San Andreas",
+          "PS2 mods",
+          "main.scm",
+          "CodeBreaker",
+          "GSM",
+          "PNACH"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — GTA San Andreas PS2 Cheats & Mods",
+        "url": "https://github.com/SomeGTAVCCodes/GTA-San_Andreas-PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "GTA San Andreas",
+          "PS2 mods",
+          "cheats",
+          "PNACH",
+          "main.scm"
+        ]
+      },
+      {
+        "name": "PS2 Modding — ModDB — Half-Life PC Edition PS2 Mod",
+        "url": "https://www.moddb.com/mods/half-life-pc-edition-playstation-2-mod",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "Half-Life",
+          "PS2 mod",
+          "models",
+          "sprites",
+          "menus"
+        ]
+      },
+      {
+        "name": "PS2 Modding — OpenBOR Sailor Moon Fan Modules Article",
+        "url": "https://nekoyama2gillien.blog36.fc2.com/blog-entry-508.html",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "OpenBOR",
+          "Sailor Moon",
+          "Sailor Moon Plus",
+          "Sailor Moon R Plus",
+          "fan game",
+          "mod"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Wrench PS2 Modding Tool",
+        "url": "https://github.com/chaoticgd/wrench",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Ratchet and Clank",
+          "modding tool",
+          "level editor",
+          "assets"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — SlyTools",
+        "url": "https://github.com/VelocityRa/SlyTools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Sly Cooper",
+          "modding tool",
+          "assets",
+          "reverse engineering"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Sly String Toolkit",
+        "url": "https://github.com/TheOnlyZac/sly-string-toolkit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Sly Cooper",
+          "strings",
+          "translation",
+          "modding"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — ZeroEditor",
+        "url": "https://github.com/HikikoMarmy/ZeroEditor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "modding tool",
+          "map editor",
+          "PlayStation 2"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Midnight Club 3 Map Editor",
+        "url": "https://github.com/plmarcos/MapEditorMC3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Midnight Club 3",
+          "map editor",
+          "modding"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Midnight Club 3 PS2 Audio Modder",
+        "url": "https://github.com/ErikBergamim/MidnightClub3PS2AudioModder",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Midnight Club 3",
+          "audio modding",
+          "tool"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Midnight Club 3 ZNX Tools",
+        "url": "https://github.com/znxee/mc3-znx-tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Midnight Club 3",
+          "modding tools",
+          "assets"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Tekken 5 Tools",
+        "url": "https://github.com/smb123w64gb/Tekken5_Tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Tekken 5",
+          "modding",
+          "tools"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — NFS Hot Pursuit 2 ModSuite",
+        "url": "https://github.com/TechX1320/NFSHP2-ModSuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Need for Speed Hot Pursuit 2",
+          "mod suite",
+          "randomizer",
+          "modding"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Beat Down PS2 Tools",
+        "url": "https://github.com/Akaig/Beat-Down-PS2-Tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Beat Down",
+          "modding",
+          "tools"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — God Hand Modding Tools",
+        "url": "https://github.com/Eszuri/Tools-Modding-God-hand",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "God Hand",
+          "modding",
+          "tools"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Resident Evil 4 PS2 Toolset",
+        "url": "https://github.com/christianmateus/RE4_PS2_Toolset",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Resident Evil 4",
+          "RE4",
+          "modding tool",
+          "assets"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Resident Evil 4 PS2 ISO/AFS Manager",
+        "url": "https://github.com/christianmateus/RE4_PS2_ISOAFS_MANAGER",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Resident Evil 4",
+          "RE4",
+          "ISO",
+          "AFS",
+          "modding"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Snowblind PS2 Archive Extractor",
+        "url": "https://github.com/RealNeco000/PS2-Snowblind-Archive-Extractor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Snowblind engine",
+          "archive extractor",
+          "modding"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Mortal Kombat Shaolin Monks Modding Tool",
+        "url": "https://github.com/OGmidway/Mortal-Kombat-Shaolin-Monks-Modding-Tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Mortal Kombat Shaolin Monks",
+          "modding",
+          "character mods",
+          "tool"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — PS2 Plugin Injector",
+        "url": "https://github.com/ermaccer/ps2plugininjector",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "plugin injector",
+          "Mortal Kombat Deception",
+          "Mortal Kombat Armageddon",
+          "Shaolin Monks",
+          "code injection",
+          "modding"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Tenkaichi MDL Assist",
+        "url": "https://github.com/ViveTheModder/tenkaichi-mdl-assist",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Budokai Tenkaichi",
+          "models",
+          "MDL",
+          "modding"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Ultimate Battle Editor",
+        "url": "https://github.com/ViveTheModder/ultimate-battle-editor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Dragon Ball",
+          "battle editor",
+          "modding",
+          "Tenkaichi"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — GT PS2 Model Tool",
+        "url": "https://github.com/Nenkai/GTPS2ModelTool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Gran Turismo",
+          "model tool",
+          "modding",
+          "3D"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Naruto Ultimate Ninja 5 Character Parameter Editor",
+        "url": "https://github.com/zMath3usMSF/UN5CharPrmEditor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Naruto Shippuden Ultimate Ninja 5",
+          "character editor",
+          "modding"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — TimeSplitters Paradox PS2 MapMaker",
+        "url": "https://github.com/Joespider/TimeSplitters_Paradox_PS2_MapMaker",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "TimeSplitters",
+          "map maker",
+          "modding",
+          "custom maps"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Crate Mod Loader",
+        "url": "https://github.com/TheBetaM/CrateModLoader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Crash Twinsanity",
+          "Crash Nitro Kart",
+          "Wrath of Cortex",
+          "mod loader",
+          "randomizer"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Crash Twinsanity Improved",
+        "url": "https://github.com/AlexMollard/Crash-Twinsanity-Improved",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Crash Twinsanity",
+          "mod",
+          "widescreen",
+          "improvements"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Dark Cloud Reforged",
+        "url": "https://github.com/ZeldoKavira/DarkCloud-Reforged",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Dark Cloud",
+          "rebalance",
+          "mod",
+          "gameplay overhaul"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Horizon Forge",
+        "url": "https://github.com/Horizon-Private-Server/horizon-forge",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Ratchet and Clank",
+          "map editor",
+          "Medius",
+          "modding",
+          "custom maps"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — KH2FM Randomizer",
+        "url": "https://github.com/afresquet/kh2fm-randomizer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Kingdom Hearts II Final Mix",
+          "randomizer",
+          "mod"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Midnight Club 3 Car Randomizer",
+        "url": "https://github.com/xan1242/MC3CarRandomizer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Midnight Club 3",
+          "car randomizer",
+          "mod"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Dragon Quest VIII Randomizer",
+        "url": "https://github.com/PietHelzel/dq8_randomizer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Dragon Quest VIII",
+          "randomizer",
+          "mod"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Digital Devil Saga Randomizer",
+        "url": "https://github.com/Astolfothetrapgod/DDS1-Randomizer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Digital Devil Saga",
+          "DDS1",
+          "randomizer",
+          "mod"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Ratchet 3 Archipelago",
+        "url": "https://github.com/Taoshix/Archipelago-RaC3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Ratchet and Clank 3",
+          "Archipelago",
+          "randomizer",
+          "multiworld"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Road Trip Adventure Archipelago",
+        "url": "https://github.com/Phenra/RoadTripAdventure-AP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Road Trip Adventure",
+          "Archipelago",
+          "randomizer",
+          "multiworld"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Zone of the Enders Archipelago",
+        "url": "https://github.com/1theory/Archipelago-ZOE",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Zone of the Enders",
+          "Archipelago",
+          "randomizer"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — PS2 Widescreen PNACH Collection",
+        "url": "https://github.com/NomNom17/PS2-WS-Patches",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "widescreen",
+          "patches",
+          "PNACH",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — PS2RD Cheat/Widescreen Patches",
+        "url": "https://github.com/shansen30003/cheat-ps2rd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "PS2RD",
+          "cheats",
+          "widescreen",
+          "patches"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — PS2 PNACH Collection",
+        "url": "https://github.com/DieSkaarj/PS2Pnaches",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "PNACH",
+          "patches",
+          "cheats",
+          "widescreen",
+          "60fps"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — PS2 Texture Mods Installer/Updater",
+        "url": "https://github.com/jd6-37/ps2-textures-downloader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "texture mods",
+          "PCSX2",
+          "installer",
+          "updater"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — GTA Vice City Stories PS2 Texture Pack",
+        "url": "https://github.com/ASI-Factory/GTA-VCS-Texture-Pack-PS2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "GTA Vice City Stories",
+          "texture pack",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Mortal Kombat Armageddon HD Textures",
+        "url": "https://github.com/ckiscxrsed/Mortal-Kombat-Armageddon-HD-Textures",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Mortal Kombat Armageddon",
+          "HD textures",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — The Warriors Xbox-to-PS2 Texture Pack",
+        "url": "https://github.com/eternights/XboxTexturePack.TheWarriors",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "The Warriors",
+          "texture pack",
+          "Xbox textures",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Gran Turismo 4 Texture Pack",
+        "url": "https://github.com/ykon28/GranTurismo4TexturePack",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Gran Turismo 4",
+          "texture pack",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — Sparking Meteor HD",
+        "url": "https://github.com/LOLDude2427/Sparking-Meteor-HD",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Dragon Ball Z",
+          "Sparking Meteor",
+          "Budokai Tenkaichi 3",
+          "HD textures",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — PS2 Menu 4K Texture Pack",
+        "url": "https://github.com/Alan-bur/PS2M4K",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "OSDSYS",
+          "PS2 Menu",
+          "4K textures",
+          "memory card icons",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — MGS2 PS2 Textures",
+        "url": "https://github.com/dotlessone/MGS2-PS2-Textures",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Metal Gear Solid 2",
+          "textures",
+          "PCSX2",
+          "demaster",
+          "modding"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — MGS2 Community Bugfix Compilation",
+        "url": "https://github.com/ShizCalev/MGS2-Community-Bugfix-Compilation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Metal Gear Solid 2",
+          "bugfix",
+          "textures",
+          "modding"
+        ]
+      },
+      {
+        "name": "PS2 Modding — GitHub — MGS3 Community Bugfix Compilation",
+        "url": "https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "modding",
+          "custom content",
+          "PS2",
+          "Metal Gear Solid 3",
+          "bugfix",
+          "textures",
+          "modding"
+        ]
+      }
+    ]
+  }
+]
