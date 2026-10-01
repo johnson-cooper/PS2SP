@@ -27,6 +27,7 @@ const issueUrl = brokenLinkIssueUrl(label, url, context, pageUrl);
   rel="noopener noreferrer"
   aria-label={`Report broken link: ${label}`}
   title={`Report broken link: ${url}`}
+  data-report-url={url}
 >
   {compact ? "Report" : "Report broken"}
 </a>
