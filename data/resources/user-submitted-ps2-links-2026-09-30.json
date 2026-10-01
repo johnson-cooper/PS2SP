@@ -325,6 +325,52 @@
           "system software",
           "initialization"
         ]
+      },
+      {
+        "name": "PCSX2/tools — BIOS Dumper V2",
+        "url": "https://github.com/PCSX2/tools/releases/tag/bios-dumper%2Fv2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BIOS",
+          "BIOS Dumper V2",
+          "PCSX2",
+          "homebrew",
+          "ELF",
+          "firmware dump",
+          "preservation"
+        ]
+      },
+      {
+        "name": "PCSX2 — BiosTools.cpp ROMVER Parsing Reference",
+        "url": "https://github.com/PCSX2/pcsx2/blob/master/pcsx2/ps2/BiosTools.cpp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BIOS",
+          "PCSX2",
+          "ROMVER",
+          "BIOS region",
+          "BIOS version",
+          "ROMDIR",
+          "technical reference"
+        ]
+      },
+      {
+        "name": "PCSX2 — BiosTools.h BIOS Metadata Reference",
+        "url": "https://github.com/PCSX2/pcsx2/blob/master/pcsx2/ps2/BiosTools.h",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "BIOS",
+          "PCSX2",
+          "BiosVersion",
+          "BiosRegion",
+          "BiosChecksum",
+          "BiosSerial",
+          "EXTINFO",
+          "technical reference"
+        ]
       }
     ]
   }
