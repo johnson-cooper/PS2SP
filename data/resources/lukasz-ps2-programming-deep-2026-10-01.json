@@ -1,0 +1,113 @@
+[
+  {
+    "category": "Lukasz.dk — PS2 Programming Deep Index",
+    "description": "Individual preserved PlayStation 2 development articles covering PS2DEV setup, toolchains, ps2link debugging, archive material and the Third Creation demo contest.",
+    "links": [
+      {
+        "name": "Lukasz PS2 Programming — An Introduction to PS2DEV",
+        "url": "https://lukasz.dk/playstation-2-programming/an-introduction-to-ps2dev",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Lukasz",
+          "PS2DEV",
+          "PS2SDK",
+          "development",
+          "programming",
+          "tutorial",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Lukasz PS2 Programming — Using the PS2Link Exception Screen",
+        "url": "https://lukasz.dk/playstation-2-programming/using-the-ps2link-exception-screen",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Lukasz",
+          "PS2DEV",
+          "PS2SDK",
+          "development",
+          "programming",
+          "tutorial",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Lukasz PS2 Programming — PS2Link Debugging",
+        "url": "https://lukasz.dk/playstation-2-programming/ps2link-debugging",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Lukasz",
+          "PS2DEV",
+          "PS2SDK",
+          "development",
+          "programming",
+          "tutorial",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Lukasz PS2 Programming — Building PS2 Toolchains and PS2SDK in MingW",
+        "url": "https://lukasz.dk/playstation-2-programming/mingw-tutorial",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Lukasz",
+          "PS2DEV",
+          "PS2SDK",
+          "development",
+          "programming",
+          "tutorial",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Lukasz PS2 Programming — PS2DEV Archive",
+        "url": "http://lukasz.dk/playstation-2-programming/archive",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Lukasz",
+          "PS2DEV",
+          "PS2SDK",
+          "development",
+          "programming",
+          "tutorial",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Lukasz PS2 Programming — Building PS2 Toolchains and PS2SDK in Cygwin",
+        "url": "http://lukasz.dk/playstation-2-programming/cygwin-tutorial",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Lukasz",
+          "PS2DEV",
+          "PS2SDK",
+          "development",
+          "programming",
+          "tutorial",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Lukasz PS2 Programming — The Third Creation PS2 Demo Contest",
+        "url": "http://lukasz.dk/playstation-2-programming/the-third-creation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "Lukasz",
+          "PS2DEV",
+          "PS2SDK",
+          "development",
+          "programming",
+          "tutorial",
+          "homebrew"
+        ]
+      }
+    ]
+  }
+]
