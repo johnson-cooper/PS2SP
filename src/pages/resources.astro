@@ -293,6 +293,7 @@ const popularTags = [...tagCounts.entries()]
           report.textContent = "Report broken";
           report.setAttribute("aria-label", `Report broken link: ${entry.name}`);
           report.title = `Report broken link: ${entry.url}`;
+          report.dataset.reportUrl = entry.url;
           const issueTitle = `Broken link: ${entry.url}`;
           const issueBody = [
             "### Broken resource link",
