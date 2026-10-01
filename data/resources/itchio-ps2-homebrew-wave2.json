@@ -1,0 +1,194 @@
+[
+  {
+    "category": "Homebrew Development & Emulation",
+    "description": "Independent PS2 homebrew games, fan ports, experimental engine projects and developer indexes from itch.io.",
+    "links": [
+      {
+        "name": "itch.io — Homebrew + PlayStation 2 Tag",
+        "url": "https://itch.io/games/tag-homebrew/tag-playstation-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "itch.io",
+          "homebrew",
+          "fan games",
+          "ports",
+          "tag index"
+        ]
+      },
+      {
+        "name": "itch.io — Homebrew + PS2 Tag",
+        "url": "https://itch.io/games/tag-homebrew/tag-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "itch.io",
+          "homebrew",
+          "indie games",
+          "tag index"
+        ]
+      },
+      {
+        "name": "itch.io — PlayStation 2 Games Collection by 13 Owls",
+        "url": "https://itch.io/c/3846466/playstation-2-games",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "itch.io",
+          "collection",
+          "homebrew",
+          "ports"
+        ]
+      },
+      {
+        "name": "itch.io — Dragon Ball Racing PS2",
+        "url": "https://goldenpsp.itch.io/dragon-ball-racing-ps2",
+        "keywords": [
+          "PS2",
+          "Dragon Ball Racing",
+          "i-mode",
+          "fan port",
+          "homebrew",
+          "Golden PSP"
+        ]
+      },
+      {
+        "name": "itch.io — Dragon Ball Racing First Public Build",
+        "url": "https://goldenpsp.itch.io/dragon-ball-racing-ps2/devlog/1104157/first-public-build",
+        "keywords": [
+          "PS2",
+          "Dragon Ball Racing",
+          "development log",
+          "homebrew",
+          "port"
+        ]
+      },
+      {
+        "name": "itch.io — T-01",
+        "url": "https://aionmagan.itch.io/t-01",
+        "keywords": [
+          "PS2",
+          "T-01",
+          "Avena Engine",
+          "homebrew game",
+          "prototype",
+          "Aionmagan"
+        ]
+      },
+      {
+        "name": "itch.io — Aionmagan PS2/Avena Projects",
+        "url": "https://aionmagan.itch.io/",
+        "keywords": [
+          "PS2",
+          "Avena Engine",
+          "T-01",
+          "R Proto G",
+          "homebrew development",
+          "Aionmagan"
+        ]
+      },
+      {
+        "name": "itch.io — Pou PS2",
+        "url": "https://elmasas.itch.io/pou-ps2",
+        "keywords": [
+          "PS2",
+          "Pou",
+          "SDL2",
+          "native port",
+          "homebrew",
+          "elmasas"
+        ]
+      },
+      {
+        "name": "itch.io — Plants vs. Zombies PS2",
+        "url": "https://pougamer1995.itch.io/plants-vs-zombies-ps2",
+        "keywords": [
+          "PS2",
+          "Plants vs Zombies",
+          "PvZ",
+          "OptiJuegos",
+          "homebrew",
+          "port"
+        ]
+      },
+      {
+        "name": "itch.io — FNAF 4 PS2",
+        "url": "https://markerthecreator.itch.io/fnaf-4-ps2",
+        "keywords": [
+          "PS2",
+          "FNAF 4",
+          "Five Nights at Freddy's",
+          "fan port",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "itch.io — Flappy Bird PS2",
+        "url": "https://5ber-ohs.itch.io/flappy-bird-ps2",
+        "keywords": [
+          "PS2",
+          "Flappy Bird",
+          "AthenaEnv",
+          "JavaScript",
+          "homebrew port"
+        ]
+      },
+      {
+        "name": "itch.io — Dzzee PS2 Port",
+        "url": "https://thp.itch.io/dzzee",
+        "keywords": [
+          "PS2",
+          "Dzzee",
+          "ps2sdk",
+          "homebrew port",
+          "thp"
+        ]
+      },
+      {
+        "name": "itch.io — Tennix PS2 Port",
+        "url": "https://thp.itch.io/tennix",
+        "keywords": [
+          "PS2",
+          "Tennix",
+          "tennis",
+          "SDL",
+          "open source",
+          "homebrew port"
+        ]
+      },
+      {
+        "name": "itch.io — Loonies 8192",
+        "url": "https://thp.itch.io/loonies-8192",
+        "keywords": [
+          "PS2",
+          "Loonies 8192",
+          "homebrew port",
+          "thp"
+        ]
+      },
+      {
+        "name": "itch.io — PS2 Encyclopedia",
+        "url": "https://daddarulekonge.itch.io/the-playstation-2-encyclopedia-book",
+        "keywords": [
+          "PS2",
+          "PlayStation 2 Encyclopedia",
+          "homebrew",
+          "unreleased games",
+          "reference",
+          "preservation"
+        ]
+      },
+      {
+        "name": "itch.io — Godot on PlayStation 2 Development Report",
+        "url": "https://itch.io/t/3658957/compiling-godot-for-the-playstation-2-progress-report",
+        "keywords": [
+          "PS2",
+          "Godot",
+          "homebrew development",
+          "engine port",
+          "devlog"
+        ]
+      }
+    ]
+  }
+]
