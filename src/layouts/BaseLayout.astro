@@ -94,6 +94,7 @@ const navItems = [
       function addFallbackReport(anchor) {
         if (!(anchor instanceof HTMLAnchorElement)) return;
         if (anchor.classList.contains("report-broken-link")) return;
+        if (anchor.closest("[data-no-link-report], .credits-panel, .credit-card, .footer-credit")) return;
         if (!/^https?:$/i.test(new URL(anchor.href, window.location.href).protocol)) return;
 
         const explicitContainer = anchor.closest(
