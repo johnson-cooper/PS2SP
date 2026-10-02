@@ -133,6 +133,7 @@ import megaExpansionWave8Groups from "../../data/resources/mega-expansion-wave8-
 import megaExpansionWave9Groups from "../../data/resources/mega-expansion-wave9-2026-10-02.json";
 import megaExpansionWave10Groups from "../../data/resources/mega-expansion-wave10-2026-10-02.json";
 import megaExpansionWave11Groups from "../../data/resources/mega-expansion-wave11-2026-10-02.json";
+import megaExpansionWave12Groups from "../../data/resources/mega-expansion-wave12-2026-10-02.json";
 
 export interface ResourceLink {
   name: string;
@@ -358,7 +359,8 @@ const allResourceSources = [
   ...(megaExpansionWave8Groups as ResourceGroup[]),
   ...(megaExpansionWave9Groups as ResourceGroup[]),
   ...(megaExpansionWave10Groups as ResourceGroup[]),
-  ...(megaExpansionWave11Groups as ResourceGroup[])
+  ...(megaExpansionWave11Groups as ResourceGroup[]),
+  ...(megaExpansionWave12Groups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
