@@ -1,0 +1,246 @@
+[
+  {
+    "category": "PS2 Bootloaders, Exploits & System Launchers",
+    "description": "Open-source boot environments, browser exploits, system launchers, loaders, and console configuration utilities for running software on PlayStation 2 hardware.",
+    "links": [
+      {
+        "name": "PlayStation2 Basic BootLoader (PS2BBL)",
+        "url": "https://github.com/israpps/PlayStation2-Basic-BootLoader",
+        "keywords": [
+          "PS2",
+          "PS2BBL",
+          "bootloader",
+          "KELF",
+          "HDD",
+          "MX4SIO",
+          "PSX DESR"
+        ]
+      },
+      {
+        "name": "OpenTuna Installer",
+        "url": "https://github.com/ps2homebrew/opentuna-installer",
+        "keywords": [
+          "PS2",
+          "OpenTuna",
+          "Fortuna",
+          "exploit",
+          "FreeMcBoot",
+          "memory card",
+          "browser exploit"
+        ]
+      },
+      {
+        "name": "FunTuna Fork",
+        "url": "https://github.com/israpps/Funtuna-Fork",
+        "keywords": [
+          "PS2",
+          "FunTuna",
+          "OpenTuna",
+          "FreeMcBoot",
+          "launcher",
+          "SCPH-90000",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "FreeMcTuna — OpenTuna/FMCB Installer",
+        "url": "https://github.com/NathanNeurotic/FreeMcTuna",
+        "keywords": [
+          "PS2",
+          "FreeMcTuna",
+          "OpenTuna",
+          "FMCB",
+          "PS2BBL",
+          "FreeMcBoot",
+          "installer"
+        ]
+      },
+      {
+        "name": "wLaunchELF",
+        "url": "https://github.com/ps2homebrew/wLaunchELF",
+        "keywords": [
+          "PS2",
+          "wLaunchELF",
+          "uLaunchELF",
+          "file manager",
+          "ELF launcher",
+          "HDD",
+          "FTP",
+          "SMB"
+        ]
+      },
+      {
+        "name": "Simple Neutrino Loader (SNL)",
+        "url": "https://github.com/MegaBitmap/PS2-SNL",
+        "keywords": [
+          "PS2",
+          "Neutrino",
+          "SNL",
+          "Enceladus",
+          "game loader",
+          "UDPFS",
+          "customizable",
+          "Lua"
+        ]
+      },
+      {
+        "name": "R3CONFIGURATOR",
+        "url": "https://github.com/saildot4k/R3CONFIGURATOR",
+        "keywords": [
+          "PS2",
+          "Enceladus",
+          "configurator",
+          "Lua",
+          "Deckard",
+          "PowerPC UART",
+          "PS2SDK"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Drive, Region & System Hardware Tools",
+    "description": "Tools and research projects that alter, inspect, repair, or extend PlayStation 2 drive, region, firmware, and hardware behavior.",
+    "links": [
+      {
+        "name": "DKWDRV — Unified PS1DRV Replacement",
+        "url": "https://github.com/DKWDRV/DKWDRV",
+        "keywords": [
+          "PS2",
+          "DKWDRV",
+          "PS1DRV",
+          "PS1",
+          "Deckard",
+          "disc drive",
+          "USB loading",
+          "reverse engineering"
+        ]
+      },
+      {
+        "name": "MechaPwn",
+        "url": "https://github.com/mecharesearch/mechapwn",
+        "keywords": [
+          "PS2",
+          "MechaPwn",
+          "Mechacon",
+          "Dragon",
+          "Deckard",
+          "region",
+          "DVD region",
+          "hardware research"
+        ]
+      },
+      {
+        "name": "HDLGameInstaller",
+        "url": "https://github.com/ps2homebrew/HDLGameInstaller",
+        "keywords": [
+          "PS2",
+          "HDD",
+          "HDLoader",
+          "HDDOSD",
+          "APA",
+          "game installer",
+          "network",
+          "DEV9"
+        ]
+      },
+      {
+        "name": "The Great Experiment (TGE) — Open PS2 Linux RTE Replacement",
+        "url": "https://github.com/ps2homebrew/TGE",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "TGE",
+          "RTE",
+          "PS2 Linux Kit",
+          "IOP",
+          "HDD",
+          "network boot"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "OPL Themes, Artwork & Customization",
+    "description": "OPL theme repositories, artwork packs, resource hubs, and community projects for visual customization of PlayStation 2 loaders.",
+    "links": [
+      {
+        "name": "PSX-Place OPL Themes Resource Library",
+        "url": "https://www.psx-place.com/resources/categories/opl-themes.50/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "themes",
+          "artwork",
+          "resource library",
+          "customization"
+        ]
+      },
+      {
+        "name": "OPL B-APPS Cover Pack",
+        "url": "https://www.psx-place.com/resources/opl-b-apps-cover-pack.1440/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "APPS",
+          "covers",
+          "PSBBN",
+          "RiptOPL",
+          "POPSLoader",
+          "artwork"
+        ]
+      },
+      {
+        "name": "OPL Discs & Boxes Pack",
+        "url": "https://www.psx-place.com/threads/opl-discs-boxes-pack.44496/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "disc art",
+          "box art",
+          "theme assets",
+          "artwork",
+          "Berion"
+        ]
+      },
+      {
+        "name": "Ominence OPL Theme",
+        "url": "https://www.psx-place.com/threads/opl-theme-ominence.44973/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "theme",
+          "Ominence",
+          "PixeliGer",
+          "customization"
+        ]
+      },
+      {
+        "name": "MiXL & MiXXL OPL Themes",
+        "url": "https://www.psx-place.com/threads/opl-theme-mixl-mixxl.43959/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "theme",
+          "MiXL",
+          "MiXXL",
+          "hi-res",
+          "disc art"
+        ]
+      },
+      {
+        "name": "PS2 FraMin Inception — Ripto Original",
+        "url": "https://www.psx-place.com/threads/opl-theme-ps2-framin-inception-ro-ripto-original.42028/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "theme",
+          "FraMin",
+          "Inception",
+          "Ripto",
+          "customization"
+        ]
+      }
+    ]
+  }
+]
