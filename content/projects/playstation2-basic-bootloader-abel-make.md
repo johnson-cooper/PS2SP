@@ -1,0 +1,48 @@
+---
+name: PlayStation2-Basic-BootLoader
+slug: playstation2-basic-bootloader-abel-make
+summary: 'Basic Bootloader for PS2, PSX-DESR'
+categories:
+  - uncategorized
+tags:
+  - fork
+  - auto-discovered
+features: []
+authors: []
+license: GPL-3.0
+homepage: 'https://israpps.github.io/PlayStation2-Basic-BootLoader/'
+source:
+  provider: github
+  repository: abel-make/PlayStation2-Basic-BootLoader
+  repositoryId: '1133548215'
+repository:
+  archived: false
+  defaultBranch: main
+  stars: 0
+  forks: 0
+  lastCommit: '2025-12-14T21:37:50Z'
+latestRelease:
+  tag: null
+  name: null
+  publishedAt: null
+  url: null
+activity:
+  lastSynchronized: '2026-10-02T09:01:16.324Z'
+automation:
+  sync: true
+discovery:
+  method: 'fork-network:israpps/PlayStation2-Basic-BootLoader'
+  confidence: 100
+  evidence:
+    - repository name explicitly identifies PS2
+    - repository description explicitly identifies PS2
+    - GitHub fork of another repository
+  maturity: dormant-unreleased
+verified: false
+featured: false
+relationships:
+  forkOf: null
+  source: null
+---
+
+Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
