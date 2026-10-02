@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T14:27:09.988Z'
+  lastSynchronized: '2026-10-02T02:17:03.522Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"acaf2febb2f76efc4ed306f7ea13a7b88f579501a310319037bc9c083a707527"
+    releasesEtag: '"43e1df94e61d9f1bd74b4226d799875b1c3d7fc44752a9f3e22553acdd6a4cf9"'
 discovery:
   method: 'fork-network:RoloDeOvo/Open-PS2-Loader'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: RoloDeOvo/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

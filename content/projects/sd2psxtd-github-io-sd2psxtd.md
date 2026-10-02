@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2025-09-27T14:21:55Z'
   url: 'https://github.com/sd2psXtd/sd2psXtd.github.io/releases/tag/sc2'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-02T02:17:20.624Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"53ff747fae8e55913ce456978c9071646d95827332dfc90f0b30d5bc195ac907"
+    releasesEtag: W/"7618a8df82b912cf752c87ee5a54f653c5f962cd19e746426dbc386a8a8cfa50"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -39,5 +42,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

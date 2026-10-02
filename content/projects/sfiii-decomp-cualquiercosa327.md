@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:21:45.849Z'
+  lastSynchronized: '2026-10-02T02:17:21.473Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1b2d233c9d3c2bb5d998f7c4bf8b91aa05b05129abc62f4fbeea157324e913c8"
+    releasesEtag: '"43e1df94e61d9f1bd74b4226d799875b1c3d7fc44752a9f3e22553acdd6a4cf9"'
 discovery:
   method: 'fork-network:crowded-street/3s-decomp'
   confidence: 100
@@ -45,5 +48,4 @@ relationships:
   forkOf: crowded-street/3s-decomp
   source: crowded-street/3s-decomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-08-14T17:15:03Z'
   url: 'https://github.com/C0mposer/C-Game-Modding-Utility/releases/tag/1.2'
 activity:
-  lastSynchronized: '2026-10-01T11:22:08.773Z'
+  lastSynchronized: '2026-10-02T02:16:43.727Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"15281a1da60fa24f2dafbbd37b6e011f2d474a729ffe437da1aa995635114af2"
+    releasesEtag: W/"9b31136718cef44c7ab177f1db8add7b81c46d89433e7bd48a8b92661d745344"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -39,5 +42,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

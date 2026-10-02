@@ -35,9 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T10:27:58.408Z'
+  lastSynchronized: '2026-10-02T02:16:51.251Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ee09778ddafee361c386571b99e707641eb5a7e79734137e9a45162bd968ea98"
+    releasesEtag: '"43e1df94e61d9f1bd74b4226d799875b1c3d7fc44752a9f3e22553acdd6a4cf9"'
 discovery:
   method: 'fork-network:israpps/HDL-Batch-installer'
   confidence: 95
@@ -52,5 +55,4 @@ relationships:
   forkOf: israpps/HDL-Batch-installer
   source: israpps/HDL-Batch-installer
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

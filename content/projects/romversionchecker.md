@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-07-19T16:18:02Z'
   url: 'https://github.com/slimpuggamer/ROMVersionChecker/releases/tag/RC3'
 activity:
-  lastSynchronized: '2026-10-01T11:34:08.960Z'
+  lastSynchronized: '2026-10-02T02:17:20.172Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2fbbd7c769645fe16086543c3550cfd518670fd4497049b7f4478e9b65042b62"
+    releasesEtag: W/"2634a19c53176193ae12a2fbf68bc779f7af7fa10fc3c950c29b27195892ab35"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -40,5 +43,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

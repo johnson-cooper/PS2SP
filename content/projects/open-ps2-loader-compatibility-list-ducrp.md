@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:34:08.960Z'
+  lastSynchronized: '2026-10-02T02:16:59.197Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"eddc10a8426f40f74838843ad48a871967ed0f3516bd5c794b7f8fd9384773d4"
+    releasesEtag: '"43e1df94e61d9f1bd74b4226d799875b1c3d7fc44752a9f3e22553acdd6a4cf9"'
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader-Compatibility-list'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: ps2homebrew/Open-PS2-Loader-Compatibility-list
   source: ps2homebrew/Open-PS2-Loader-Compatibility-list
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

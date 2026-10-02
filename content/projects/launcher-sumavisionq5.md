@@ -35,9 +35,12 @@ latestRelease:
   publishedAt: '2026-09-29T19:18:23Z'
   url: 'https://github.com/SumavisionQ5/launcHER/releases/tag/nightly'
 activity:
-  lastSynchronized: '2026-10-01T11:14:53.554Z'
+  lastSynchronized: '2026-10-02T02:16:52.750Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b93a70abc809b0fc960badd8e2cfefe2e9779c7058225774127a2d7c81b485e4"
+    releasesEtag: W/"87414a540dffe38ca97f8ed5059bd98e3f3dfd277cad53b394ffd75c8ba56a78"
 discovery:
   method: 'fork-network:NathanNeurotic/launcHER'
   confidence: 100
@@ -56,5 +59,4 @@ relationships:
   forkOf: NathanNeurotic/launcHER
   source: pcm720/OSDMenu
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

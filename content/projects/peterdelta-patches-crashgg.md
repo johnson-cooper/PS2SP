@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-07-11T05:59:04Z'
   url: 'https://github.com/crashGG/PeterDelta_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T15:03:31.918Z'
+  lastSynchronized: '2026-10-02T02:17:13.737Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"54b40a98af4a0bf3a0831e12a2a9e31aac78c3159f7eb035be92c78435950b54"
+    releasesEtag: W/"06465fbabc848b586c44db66cc375ed81ba2453002a2ad24b9f02095912f7d91"
 discovery:
   method: 'fork-network:PeterDelta/PCSX2'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: PeterDelta/PCSX2
   source: PeterDelta/PCSX2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

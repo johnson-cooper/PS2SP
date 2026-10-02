@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T05:10:46.442Z'
+  lastSynchronized: '2026-10-02T02:16:50.809Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7b72cf30daaeb11c7a0029d0ddafa4c09424236592cf606c6f73d0d35a2e27a7"
+    releasesEtag: '"43e1df94e61d9f1bd74b4226d799875b1c3d7fc44752a9f3e22553acdd6a4cf9"'
 discovery:
   method: 'fork-network:ps2dev/gsKit'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: ps2dev/gsKit
   source: ps2dev/gsKit
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

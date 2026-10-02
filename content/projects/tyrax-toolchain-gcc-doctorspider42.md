@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T05:10:46.442Z'
+  lastSynchronized: '2026-10-02T02:17:23.660Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"881e8ed9d86f40b580d9f0e5f6edcfe9676d49a4a59ef7b9049f24329d1cb882"
+    releasesEtag: '"43e1df94e61d9f1bd74b4226d799875b1c3d7fc44752a9f3e22553acdd6a4cf9"'
 discovery:
   method: 'fork-network:ps2dev/gcc'
   confidence: 95
@@ -43,5 +46,4 @@ relationships:
   forkOf: ps2dev/gcc
   source: gcc-mirror/gcc
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

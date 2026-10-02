@@ -35,9 +35,12 @@ latestRelease:
   publishedAt: '2025-07-27T22:08:28Z'
   url: 'https://github.com/zengelan/Open-PS2-LoaderFritz/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T14:27:09.988Z'
+  lastSynchronized: '2026-10-02T02:17:04.212Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"de8953b5ffa14d89bddf290d5aff24d35a157ac3e66b9a4bea1cbb49138c75e0"
+    releasesEtag: W/"8903b6f6266323b5f008a531597d7246d994cf5a45d202d1df695d2494117a96"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100
@@ -57,5 +60,4 @@ relationships:
   forkOf: ps2homebrew/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

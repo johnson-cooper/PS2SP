@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T14:27:09.988Z'
+  lastSynchronized: '2026-10-02T02:17:18.870Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8ab6419062d6a182a028bcae6598c615c7d3b436494738b92dd559a271178867"
+    releasesEtag: '"43e1df94e61d9f1bd74b4226d799875b1c3d7fc44752a9f3e22553acdd6a4cf9"'
 discovery:
   method: 'fork-network:SvenGDK/Open-PS2-Loader'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: SvenGDK/Open-PS2-Loader
   source: SvenGDK/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
