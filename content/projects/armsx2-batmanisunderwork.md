@@ -20,19 +20,19 @@ repository:
   defaultBranch: phone-input
   stars: 0
   forks: 0
-  lastCommit: '2026-09-30T23:12:34Z'
+  lastCommit: '2026-10-02T06:24:53Z'
 latestRelease:
-  tag: netplay-test-8
-  name: 'Netplay test build (Windows x64) #8'
-  publishedAt: '2026-09-30T21:53:43Z'
-  url: 'https://github.com/batmanisunderwork/ARMSX2/releases/tag/netplay-test-8'
+  tag: netplay-test-39
+  name: 'Netplay test build (Windows x64) #39'
+  publishedAt: '2026-10-02T06:24:53Z'
+  url: 'https://github.com/batmanisunderwork/ARMSX2/releases/tag/netplay-test-39'
 activity:
-  lastSynchronized: '2026-10-01T03:30:32.884Z'
+  lastSynchronized: '2026-10-02T15:49:56.591Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"14ac84ca42486c4446fe0d69a051ec7fc81802350719c1152d19216c5374a2c8"
-    releasesEtag: W/"3ccb8da32374aaa20ae8ce93ccf47f4ab1de306100b070a369a3037167f3ce01"
+    repoEtag: W/"b7070bb744cdc7d1c66d4b4f7289c200628b463e9338987e1ae9cf23e6ca2049"
+    releasesEtag: W/"e9e5a68e7522848174c258d385e182fec703161be41ef41f84ef54b36410019e"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:34:08.960Z'
+  lastSynchronized: '2026-10-02T15:50:20.655Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b44856239d1b3b5c351b9a0969c9575d05ba30e69632824598465a5eb4301a0c"
+    releasesEtag: '"96dbaa5a1ba612f09046f88e261ca7c71987d08e38ee07d6c4ea67437dfe4656"'
 discovery:
   method: 'fork-network:ps2dev/newlib'
   confidence: 95
@@ -43,5 +46,4 @@ relationships:
   forkOf: ps2dev/newlib
   source: pabigot/newlib
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-04-24T13:05:14Z'
   url: 'https://github.com/lynx1983/PFS-BatchKit-Manager/releases/tag/v1.2.1-alpha'
 activity:
-  lastSynchronized: '2026-10-01T17:09:08.395Z'
+  lastSynchronized: '2026-10-02T15:50:36.979Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ed39afaddbc3f5abc13b21c13ce64ebd54e614f625806ed64c3fe4064951e864"
+    releasesEtag: W/"e70895985c32856f9ded7cc85880e769e0b7963d53ff62619f68500510f305a8"
 discovery:
   method: 'fork-network:GDX-X/PFS-BatchKit-Manager'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: GDX-X/PFS-BatchKit-Manager
   source: GDX-X/PFS-BatchKit-Manager
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

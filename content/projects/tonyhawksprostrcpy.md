@@ -17,7 +17,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 358
+  stars: 359
   forks: 15
   lastCommit: '2025-02-24T00:35:11Z'
 latestRelease:
@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2024-09-09T08:21:33Z'
   url: 'https://github.com/grimdoomer/TonyHawksProStrcpy/releases/tag/v1.1'
 activity:
-  lastSynchronized: '2026-09-29T15:52:36.679Z'
+  lastSynchronized: '2026-10-02T15:50:50.356Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"066a5517a47355643ea7268447eb0cc8463b7eeade50f37aef5350768a1546dd"
-    releasesEtag: W/"b84ad9f158a898c45c31e45ecda1b472db70ffa9c417a120a3be70cea332ad4f"
+    repoEtag: W/"b4456ff54aa0bb03bd75214df8b2545aa46f142e2e3198810a88a62cfc38c49e"
+    releasesEtag: W/"a30004bc7c0a6b494c2ce2f56dcb3df4828cad3edd1352c3695b1371f3040759"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
