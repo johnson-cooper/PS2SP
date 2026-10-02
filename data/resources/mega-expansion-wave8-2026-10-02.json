@@ -1,0 +1,210 @@
+[
+  {
+    "category": "OPL Themes, Artwork & Customization",
+    "description": "OPL theme collections, artwork packs, customization hubs, examples, and practical visual-design resources for PlayStation 2 setups.",
+    "links": [
+      {
+        "name": "PSX-Place — OPL Themes Forum",
+        "url": "https://www.psx-place.com/forums/themes-for-opl.229/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "themes",
+          "artwork",
+          "customization",
+          "community"
+        ]
+      },
+      {
+        "name": "+OPL and ART Customization Guide",
+        "url": "https://www.psx-place.com/threads/opl-and-art.41901/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "ART",
+          "CFG",
+          "+OPL",
+          "HDD",
+          "customization",
+          "themes"
+        ]
+      },
+      {
+        "name": "inceBtion OPL Theme",
+        "url": "https://psx-place.com/threads/opl-theme-incebtion.44558/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "theme",
+          "inceBtion",
+          "Berion",
+          "Ripto",
+          "1080i",
+          "widescreen",
+          "animated"
+        ]
+      },
+      {
+        "name": "Platinum Daily Build Anniversary Theme — Ripto Revision",
+        "url": "https://psx-place.com/threads/opl-theme-platinum-daily-build-anniversary-theme-rr-ripto-revision-supports-all-opl.43637/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "theme",
+          "Platinum",
+          "Ripto Revision",
+          "8-bit artwork",
+          "OPL Manager"
+        ]
+      },
+      {
+        "name": "PlayStation Wallpaper OPL Theme",
+        "url": "https://psx-place.com/threads/opl-theme-playstation-wallpaper-beta-by-douglas-nascimento.20526/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "theme",
+          "PlayStation Wallpaper",
+          "hires",
+          "widescreen"
+        ]
+      },
+      {
+        "name": "uCit Split Screen OPL Theme",
+        "url": "https://www.psx-place.com/threads/opl-theme-theme-ucit-aka-split-screen-by-uniqueusername.10822/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "theme",
+          "uCit",
+          "split screen",
+          "cover art",
+          "ART"
+        ]
+      },
+      {
+        "name": "uCit PS2 Cover Art Collection",
+        "url": "https://www.psx-place.com/threads/ps2-coverart-collection-from-currently-uncompleted-ucit-2-0-project-max-resolution-for-opl-0-9-3.14739/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "cover art",
+          "uCit",
+          "ART",
+          "hires",
+          "collection"
+        ]
+      },
+      {
+        "name": "Jay-Jay Transparency OPL Themes Collection",
+        "url": "https://www.psx-place.com/threads/opl-theme-jay-jays-transparency-themes-collection-v1-00.50/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "theme",
+          "transparent",
+          "art backgrounds",
+          "customization"
+        ]
+      },
+      {
+        "name": "Jay-Jay Black On OPL Themes",
+        "url": "https://www.psx-place.com/threads/opl-theme-jay-jays-black-on-themes-v3-0-1.44/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "theme",
+          "color themes",
+          "ART",
+          "SCR",
+          "SCR2"
+        ]
+      },
+      {
+        "name": "Jay-Jay CP On OPL Themes",
+        "url": "https://www.psx-place.com/threads/opl-theme-jay-jays-cp-on-themes-v1-01.47/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "theme",
+          "PAL",
+          "NTSC",
+          "ART",
+          "SCR",
+          "customization"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Video Tutorials — OPL, FMCB & Modern Storage",
+    "description": "High-signal video walkthroughs for FreeMCBoot, Open PS2 Loader, MX4SIO, exFAT, ZSO, HDD and artwork setup.",
+    "links": [
+      {
+        "name": "MrMario2011 — FreeMCBoot via FreeDVDBoot + OPL Setup",
+        "url": "https://www.youtube.com/watch?v=m9xIFI_k77U",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "FreeMCBoot",
+          "FreeDVDBoot",
+          "OPL",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "MrMario2011 — OPL USB Setup, 4GB+ Games & Cover Art",
+        "url": "https://www.youtube.com/watch?v=KpOUylfmQdM",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "OPL",
+          "USB",
+          "cover art",
+          "OPL Manager",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "JUANKYTUTORIALES — Update OPL for exFAT, ZSO, NBD & MX4SIO",
+        "url": "https://www.youtube.com/watch?v=Km4ERm5DOR8",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "OPL",
+          "exFAT",
+          "ZSO",
+          "NBD",
+          "MX4SIO",
+          "FreeMCBoot",
+          "FreeHDBoot"
+        ]
+      },
+      {
+        "name": "JUANKYTUTORIALES — FreeMCBoot 2025 Complete Guide",
+        "url": "https://www.youtube.com/watch?v=Coii1kvRsv0",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "FreeMCBoot",
+          "OPL",
+          "homebrew",
+          "tutorial",
+          "2025"
+        ]
+      },
+      {
+        "name": "JUANKYTUTORIALES — MX4SIO Facts & Configuration",
+        "url": "https://www.youtube.com/watch?v=Ud_lqeC4ukY",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "MX4SIO",
+          "OPL",
+          "SD card",
+          "tutorial"
+        ]
+      }
+    ]
+  }
+]
