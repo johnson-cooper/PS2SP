@@ -161,7 +161,7 @@
       },
       {
         "name": "RenderWare SDK 3.1 Archive",
-        "url": "https://archive.org/details/RenderwareGraphics31",
+        "url": "https://archive.org/details/rw310-ps2",
         "keywords": [
           "PS2",
           "RenderWare",
@@ -296,7 +296,7 @@
     "links": [
       {
         "name": "Making a PS2 Game — Tom Marks",
-        "url": "https://www.youtube.com/results?search_query=Making+a+PS2+Game+Tom+Marks",
+        "url": "https://www.youtube.com/watch?v=ED3Rzlwra_Rm",
         "keywords": [
           "PS2",
           "YouTube",
@@ -332,7 +332,7 @@
       },
       {
         "name": "PS2 Emotion Engine Library Sample Program Listings",
-        "url": "https://archive.org/details/ps2-emotion-engine-library-sample-program-listings",
+        "url": "https://archive.org/details/ps-2-emotion-engine-library-sample-program-listings",
         "keywords": [
           "PS2",
           "Emotion Engine",
