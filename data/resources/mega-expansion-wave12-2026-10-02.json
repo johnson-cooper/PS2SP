@@ -1,0 +1,194 @@
+[
+  {
+    "category": "PS2 Maintained Resource Pages & Recovery",
+    "description": "Maintained community resource pages for diagnostics, recovery, low-level exploits, boot environments, and system software workflows.",
+    "links": [
+      {
+        "name": "PSBBN Definitive Project — PSX-Place Resource",
+        "url": "https://psx-place.com/resources/psbbn-definitive-project.1512/",
+        "keywords": [
+          "PS2",
+          "PSBBN",
+          "HDD",
+          "APA-Jail",
+          "HOSDMenu",
+          "exFAT",
+          "Broadband Navigator"
+        ]
+      },
+      {
+        "name": "Recovery for Dummies — PS2 Diagnostics & Recovery Toolkit",
+        "url": "https://www.psx-place.com/resources/recovery-for-dummies.1520/",
+        "keywords": [
+          "PS2",
+          "recovery",
+          "diagnostics",
+          "FMCB",
+          "PS2BBL",
+          "OSDMenu",
+          "memory card",
+          "DEV3"
+        ]
+      },
+      {
+        "name": "ProtoPwn — Protokernel PS2 Exploit",
+        "url": "https://www.psx-place.com/resources/protopwn.1567/",
+        "keywords": [
+          "PS2",
+          "ProtoPwn",
+          "SCPH-10000",
+          "SCPH-15000",
+          "DTL-H10000",
+          "exploit",
+          "OSDSYS"
+        ]
+      },
+      {
+        "name": "OSDMenu — OSDSYS / HDD OSD Patches",
+        "url": "https://www.psx-place.com/resources/osdmenu.1588/",
+        "keywords": [
+          "PS2",
+          "OSDMenu",
+          "HOSDMenu",
+          "OSDSYS",
+          "HDD OSD",
+          "PS2BBL",
+          "DKWDRV"
+        ]
+      },
+      {
+        "name": "Memory Card Annihilator",
+        "url": "https://psx-place.com/resources/memory-card-annihilator-coded-by-ffgriever-gfx-by-berion.673/",
+        "keywords": [
+          "PS2",
+          "memory card",
+          "Memory Card Annihilator",
+          "format",
+          "PS1",
+          "DEX",
+          "TDB",
+          "Arcade"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 OPL & Storage Management Resources",
+    "description": "Desktop and mobile tools for OPL metadata, artwork, HDD game installation, VMCs, storage management, and library maintenance.",
+    "links": [
+      {
+        "name": "HDL Batch Installer — PSX-Place Resource",
+        "url": "https://www.psx-place.com/resources/hdl-batch-installer.1173/",
+        "keywords": [
+          "PS2",
+          "HDL Batch Installer",
+          "HDD",
+          "HDLoader",
+          "OPL",
+          "HDD OSD",
+          "batch install"
+        ]
+      },
+      {
+        "name": "OPL Mobile Scanner",
+        "url": "https://www.psx-place.com/resources/opl-mobile-scanner.1605/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "Android",
+          "scanner",
+          "metadata",
+          "covers",
+          "CFG",
+          "artwork"
+        ]
+      },
+      {
+        "name": "OPL PC Tools",
+        "url": "https://psx-place.com/resources/opl-pc-tools.672/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "PC tools",
+          "Windows",
+          "Linux",
+          "artwork",
+          "VMC",
+          "game manager"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Saves & Preservation Databases",
+    "description": "Preserved save archives, conversion-friendly collections, and community databases for PlayStation 2 save data.",
+    "links": [
+      {
+        "name": "Apollo PS2 Save Games Archive",
+        "url": "https://psx-place.com/resources/apollo-ps2-save-games-archive.1611/",
+        "keywords": [
+          "PS2",
+          "Apollo",
+          "save games",
+          "PSV",
+          "MAX",
+          "Action Replay",
+          "archive",
+          "preservation"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS1 on PS2 — POPStarter Resources",
+    "description": "POPStarter launchers, configuration tools, documentation hubs, and supporting utilities for running PlayStation games through PS2 POPS workflows.",
+    "links": [
+      {
+        "name": "POPStarter — PSX-Place Resource Hub",
+        "url": "https://psx-place.com/resources/popstarter.683/",
+        "keywords": [
+          "PS2",
+          "PS1",
+          "POPStarter",
+          "POPS",
+          "VCD",
+          "launcher",
+          "documentation"
+        ]
+      },
+      {
+        "name": "POPStarter SMB Configuration Tool",
+        "url": "https://www.psx-place.com/resources/popstarter-smb-configuration-tool.1237/",
+        "keywords": [
+          "PS2",
+          "PS1",
+          "POPStarter",
+          "SMB",
+          "IPCONFIG",
+          "SMBCONFIG",
+          "network"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 HDD Research & Host Tools",
+    "description": "Host-side utilities and scripts for mounting, decrypting, inspecting, and managing PlayStation 2 hard drives and partition layouts.",
+    "links": [
+      {
+        "name": "PS2 HDD Decryption Helper",
+        "url": "https://psx-place.com/resources/ps2-hdd-decryption-helper.1507/",
+        "keywords": [
+          "PS2",
+          "HDD",
+          "decryption",
+          "Linux",
+          "APA",
+          "APA-Jail",
+          "DESR",
+          "mounting"
+        ]
+      }
+    ]
+  }
+]
