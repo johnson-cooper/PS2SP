@@ -1,0 +1,159 @@
+[
+  {
+    "category": "PS2 HDD, APA & PFS Host Tools",
+    "description": "Host-side utilities for managing PS2 HDDs, PFS/APA storage, installing titles, preserving metadata, and maintaining HDD-OSD/PSBBN/OPL setups.",
+    "links": [
+      {
+        "name": "PFS BatchKit Manager (2TB) Support",
+        "url": "https://www.psx-place.com/resources/pfs-batchkit-manager-2tb-support.1202/",
+        "keywords": [
+          "PS2",
+          "PFS BatchKit Manager",
+          "HDD",
+          "PFS",
+          "APA",
+          "2TB",
+          "HDD-OSD",
+          "PSBBN",
+          "OPL",
+          "POPS"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "OPL Configuration & Library Utilities",
+    "description": "Small utilities for creating and editing OPL application metadata, CFG files, title.cfg files, and USB-format libraries.",
+    "links": [
+      {
+        "name": "OPL CFG Editor",
+        "url": "https://www.psx-place.com/resources/opl-cfg-editor.829/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "CFG",
+          "editor",
+          "CSV",
+          "game settings",
+          "configuration"
+        ]
+      },
+      {
+        "name": "OPL conf_apps MAKER",
+        "url": "https://www.psx-place.com/resources/opl-conf_apps-maker.1109/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "conf_apps.cfg",
+          "APPS",
+          "ELF",
+          "SMB",
+          "USB",
+          "HDD"
+        ]
+      },
+      {
+        "name": "Title.cfg Maker",
+        "url": "https://www.psx-place.com/resources/title-cfg-maker.1000/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "title.cfg",
+          "APPS",
+          "ELF",
+          "batch tool"
+        ]
+      },
+      {
+        "name": "USBUtil — English Translation",
+        "url": "https://www.psx-place.com/resources/usbutil-by-iseko-translated-by-jbliz7665.679/",
+        "keywords": [
+          "PS2",
+          "USBUtil",
+          "USB",
+          "UL format",
+          "split ISO",
+          "FAT32",
+          "OPL"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Cheat, Patch & ELF Analysis Tools",
+    "description": "Tools for converting PCSX2 patches, generating PS2RD/OPL cheat data, finding mastercodes, and applying ELF or image-level modifications.",
+    "links": [
+      {
+        "name": "PlayStation2 PNACH Converter",
+        "url": "https://www.psx-place.com/resources/playstation2-pnach-converter.1304/",
+        "keywords": [
+          "PS2",
+          "PNACH",
+          "PCSX2",
+          "PS2RD",
+          "OPL",
+          "cheats",
+          "RAW codes"
+        ]
+      },
+      {
+        "name": "PNACH Converter by pelvicthrustman",
+        "url": "https://www.psx-place.com/resources/pnach-converter-by-pelvicthrustman.1289/",
+        "keywords": [
+          "PS2",
+          "PNACH",
+          "RAW cheats",
+          "ELF patching",
+          "hex patches",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "FreeMastercodeFinder",
+        "url": "https://www.psx-place.com/resources/freemastercodefinder.1351/",
+        "keywords": [
+          "PS2",
+          "mastercode",
+          "PS2RD",
+          "ELF",
+          "cheats",
+          "analysis"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Disc, Image & Preservation Tools",
+    "description": "Utilities for inspecting, repairing, combining, patching, and preparing optical-disc images used with PlayStation 2 and PS1-on-PS2 workflows.",
+    "links": [
+      {
+        "name": "CDMage 1.02.1 Beta",
+        "url": "https://www.psx-place.com/resources/cdmage.1647/",
+        "keywords": [
+          "PS2",
+          "PS1",
+          "CDMage",
+          "BIN",
+          "CUE",
+          "disc image",
+          "repair",
+          "POPStarter"
+        ]
+      },
+      {
+        "name": "PlayStation 2 Master Disc Patcher for MechaPwn",
+        "url": "https://www.psx-place.com/resources/playstation-2-master-disc-patcher-for-mechapwn.1219/",
+        "keywords": [
+          "PS2",
+          "MechaPwn",
+          "Master Disc",
+          "disc patcher",
+          "CD-R",
+          "DVD-R",
+          "ECC",
+          "EDC"
+        ]
+      }
+    ]
+  }
+]
