@@ -125,6 +125,7 @@ import waybackLegacyPs2ModchipLoaderGroups from "../../data/resources/wayback-le
 import githubDepthLiveGroups from "../../data/resources/github-depth-live.json";
 import externalGitLiveGroups from "../../data/resources/external-git-live.json";
 import megaExpansionWave3Groups from "../../data/resources/mega-expansion-wave3-2026-10-02.json";
+import megaExpansionWave4Groups from "../../data/resources/mega-expansion-wave4-2026-10-02.json";
 
 export interface ResourceLink {
   name: string;
@@ -342,7 +343,8 @@ const allResourceSources = [
   ...(waybackLegacyPs2ModchipLoaderGroups as ResourceGroup[]),
   ...(githubDepthLiveGroups as ResourceGroup[]),
   ...(externalGitLiveGroups as ResourceGroup[]),
-  ...(megaExpansionWave3Groups as ResourceGroup[])
+  ...(megaExpansionWave3Groups as ResourceGroup[]),
+  ...(megaExpansionWave4Groups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
