@@ -127,6 +127,7 @@ import externalGitLiveGroups from "../../data/resources/external-git-live.json";
 import megaExpansionWave3Groups from "../../data/resources/mega-expansion-wave3-2026-10-02.json";
 import megaExpansionWave4Groups from "../../data/resources/mega-expansion-wave4-2026-10-02.json";
 import megaExpansionWave5Groups from "../../data/resources/mega-expansion-wave5-2026-10-02.json";
+import megaExpansionWave6Groups from "../../data/resources/mega-expansion-wave6-2026-10-02.json";
 
 export interface ResourceLink {
   name: string;
@@ -346,7 +347,8 @@ const allResourceSources = [
   ...(externalGitLiveGroups as ResourceGroup[]),
   ...(megaExpansionWave3Groups as ResourceGroup[]),
   ...(megaExpansionWave4Groups as ResourceGroup[]),
-  ...(megaExpansionWave5Groups as ResourceGroup[])
+  ...(megaExpansionWave5Groups as ResourceGroup[]),
+  ...(megaExpansionWave6Groups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
