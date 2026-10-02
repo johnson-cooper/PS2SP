@@ -1,0 +1,259 @@
+[
+  {
+    "category": "PS2 Fan Translation & Localization Toolchains",
+    "description": "Open translation projects and utilities for extracting, editing, converting, rebuilding, and testing text and assets in PlayStation 2 games.",
+    "links": [
+      {
+        "name": "Busin 0 English Translation Toolchain",
+        "url": "https://github.com/Fabulu/Busin0Translation",
+        "keywords": [
+          "PS2",
+          "fan translation",
+          "Busin 0",
+          "text extraction",
+          "graphics",
+          "patch build"
+        ]
+      },
+      {
+        "name": "Sengoku Basara 2 English Patch Source",
+        "url": "https://github.com/LowTierDev/SB2EnglishPatch",
+        "keywords": [
+          "PS2",
+          "fan translation",
+          "Sengoku Basara 2",
+          "PCSX2",
+          "patch",
+          "tools"
+        ]
+      },
+      {
+        "name": "ASCII2SHIFTJIS — PS2 Translation String Converter",
+        "url": "https://github.com/LowTierDev/ASCII2SHIFTJIS",
+        "keywords": [
+          "PS2",
+          "translation",
+          "Shift-JIS",
+          "text",
+          "localization",
+          "tool"
+        ]
+      },
+      {
+        "name": "Monster Hunter Pointers Tool",
+        "url": "https://github.com/amaillo/MH-Pointers-Tool",
+        "keywords": [
+          "PS2",
+          "translation",
+          "Monster Hunter",
+          "strings",
+          "pointers",
+          "Shift-JIS",
+          "CSV"
+        ]
+      },
+      {
+        "name": "Fullmetal Alchemist 3 Translation Tool",
+        "url": "https://github.com/AGTTeam/FMAKamiTranslation",
+        "keywords": [
+          "PS2",
+          "fan translation",
+          "Fullmetal Alchemist 3",
+          "text",
+          "texture",
+          "tool"
+        ]
+      },
+      {
+        "name": "Ape Escape Million Monkeys Text Gadget",
+        "url": "https://github.com/hypermegacrash/MMTextGadget",
+        "keywords": [
+          "PS2",
+          "fan translation",
+          "Ape Escape",
+          "Million Monkeys",
+          "text patcher",
+          "xdelta"
+        ]
+      },
+      {
+        "name": "Sarugetchu Million Monkeys Translation Patcher",
+        "url": "https://github.com/Gigahawk/sarugetchu_mm_patcher",
+        "keywords": [
+          "PS2",
+          "fan translation",
+          "Ape Escape",
+          "textures",
+          "subtitles",
+          "patcher"
+        ]
+      },
+      {
+        "name": "Endonesia Translation & Asset Tool",
+        "url": "https://github.com/arsym-dev/endonesia-tool",
+        "keywords": [
+          "PS2",
+          "fan translation",
+          "Endonesia",
+          "font",
+          "script",
+          "asset packer",
+          "asset extractor"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Game Modding & Asset Extraction",
+    "description": "Game-specific PlayStation 2 editors, level tools, archive extractors, model/texture workflows, and asset research utilities.",
+    "links": [
+      {
+        "name": "Wrench — Ratchet & Clank PS2 Modding Suite",
+        "url": "https://github.com/chaoticgd/wrench",
+        "keywords": [
+          "PS2",
+          "Ratchet and Clank",
+          "level editor",
+          "ISO",
+          "textures",
+          "models",
+          "save editor",
+          "modding"
+        ]
+      },
+      {
+        "name": "Harvest Moon Save the Homeland Modding Tool",
+        "url": "https://github.com/DarthKrayt333/HMSTHModdingTool",
+        "keywords": [
+          "PS2",
+          "Harvest Moon",
+          "modding",
+          "textures",
+          "audio",
+          "text",
+          "models",
+          "VIF"
+        ]
+      },
+      {
+        "name": "Choro Q / Road Trip Adventure Modding Tools",
+        "url": "https://github.com/mholeys/roadtrip-choroq-tools",
+        "keywords": [
+          "PS2",
+          "Choro Q",
+          "Road Trip Adventure",
+          "model extractor",
+          "texture extractor",
+          "maps",
+          "modding"
+        ]
+      },
+      {
+        "name": "PS2 Half-Life Texture Extractor",
+        "url": "https://github.com/JollyShmo/PS2-HL-Texture-Extract",
+        "keywords": [
+          "PS2",
+          "Half-Life",
+          "texture extractor",
+          "BMP",
+          "DOL",
+          "modding"
+        ]
+      },
+      {
+        "name": "Gran Turismo GPB Extractor & Maker",
+        "url": "https://github.com/Silentwarior112/GTGPB",
+        "keywords": [
+          "PS2",
+          "Gran Turismo",
+          "GPB",
+          "textures",
+          "assets",
+          "extractor",
+          "maker"
+        ]
+      },
+      {
+        "name": "SSX Collection Multitool",
+        "url": "https://github.com/GlitcherOG/SSX-Collection-Multitool",
+        "keywords": [
+          "PS2",
+          "SSX",
+          "SSX Tricky",
+          "SSX 3",
+          "On Tour",
+          "textures",
+          "models",
+          "audio",
+          "level modding"
+        ]
+      },
+      {
+        "name": "SSX Library",
+        "url": "https://github.com/GlitcherOG/SSX-Library",
+        "keywords": [
+          "PS2",
+          "SSX",
+          "file formats",
+          "audio",
+          "models",
+          "textures",
+          "library",
+          "modding"
+        ]
+      },
+      {
+        "name": "dade — PS2 Amplitude/FreQuency Asset Tools",
+        "url": "https://github.com/Tatsh/dade",
+        "keywords": [
+          "PS2",
+          "Amplitude",
+          "FreQuency",
+          "asset extractor",
+          "converter",
+          "Harmonix",
+          "modding"
+        ]
+      },
+      {
+        "name": "The Sims Console Texture Extractor",
+        "url": "https://github.com/mixiate/tsc-texture-extractor",
+        "keywords": [
+          "PS2",
+          "The Sims",
+          "Urbz",
+          "Bustin Out",
+          "textures",
+          "extractor",
+          "modding"
+        ]
+      },
+      {
+        "name": "BOLT Archive Extractor — PS2 Support",
+        "url": "https://github.com/heinermann/BOLTextract",
+        "keywords": [
+          "PS2",
+          "BOLT",
+          "archive extractor",
+          "assets",
+          "Mass Media Games",
+          "modding"
+        ]
+      },
+      {
+        "name": "Hitman Blood Money Asset Viewer",
+        "url": "https://github.com/HHCHunter/Hitman-Blood-Money-Asset-Viewer",
+        "keywords": [
+          "PS2",
+          "Hitman Blood Money",
+          "asset viewer",
+          "models",
+          "GMS",
+          "BUF",
+          "VU1",
+          "reverse engineering"
+        ]
+      }
+    ]
+  }
+]
