@@ -1,0 +1,347 @@
+[
+  {
+    "category": "Official & Historical PS2 Development Documentation",
+    "description": "Preserved Sony-era PlayStation 2 manuals, architecture references, SDK-era documents, programming guides, and developer-facing hardware documentation.",
+    "links": [
+      {
+        "name": "EE Core Instruction Set Manual",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/EE_Core_Instruction_Set_Manual.pdf",
+        "keywords": [
+          "PS2",
+          "Sony",
+          "Emotion Engine",
+          "EE",
+          "instruction set",
+          "official documentation",
+          "programming manual"
+        ]
+      },
+      {
+        "name": "EE Core User's Manual",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/EE_Core_Users_Manual.pdf",
+        "keywords": [
+          "PS2",
+          "Sony",
+          "Emotion Engine",
+          "EE",
+          "user manual",
+          "official documentation"
+        ]
+      },
+      {
+        "name": "EE Overview Manual",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/EE_Overview_Manual.pdf",
+        "keywords": [
+          "PS2",
+          "Sony",
+          "Emotion Engine",
+          "EE",
+          "overview",
+          "official documentation"
+        ]
+      },
+      {
+        "name": "EE User's Manual",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/EE_Users_Manual.pdf",
+        "keywords": [
+          "PS2",
+          "Sony",
+          "Emotion Engine",
+          "EE",
+          "user manual",
+          "official documentation"
+        ]
+      },
+      {
+        "name": "GS User's Manual",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/GS_Users_Manual.pdf",
+        "keywords": [
+          "PS2",
+          "Sony",
+          "Graphics Synthesizer",
+          "GS",
+          "graphics",
+          "official documentation"
+        ]
+      },
+      {
+        "name": "GS User's Manual Supplement",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/GS_Users_Manual_Supplement.pdf",
+        "keywords": [
+          "PS2",
+          "Sony",
+          "Graphics Synthesizer",
+          "GS",
+          "supplement",
+          "official documentation"
+        ]
+      },
+      {
+        "name": "MIPS Calling Conventions Summary",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/MIPS_Calling_Conventions_Summary.pdf",
+        "keywords": [
+          "PS2",
+          "MIPS",
+          "calling convention",
+          "R5900",
+          "programming reference"
+        ]
+      },
+      {
+        "name": "SPU2 Overview Manual",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/SPU2_Overview_Manual.pdf",
+        "keywords": [
+          "PS2",
+          "Sony",
+          "SPU2",
+          "audio",
+          "sound",
+          "official documentation"
+        ]
+      },
+      {
+        "name": "VU User's Manual",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs/blob/master/VU_Users_Manual.pdf",
+        "keywords": [
+          "PS2",
+          "Sony",
+          "Vector Unit",
+          "VU0",
+          "VU1",
+          "official documentation"
+        ]
+      },
+      {
+        "name": "PS2 Programming Docs Repository",
+        "url": "https://github.com/DarrenRainey/PS2-Programming-Docs",
+        "keywords": [
+          "PS2",
+          "Sony",
+          "programming docs",
+          "manuals",
+          "Emotion Engine",
+          "Graphics Synthesizer",
+          "VU",
+          "SPU2"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Historical PS2 SDK & Compiler Archives",
+    "description": "Archived official and early-generation PlayStation 2 SDK/compiler material preserved for research, compatibility study, and development-history reference.",
+    "links": [
+      {
+        "name": "Next Generation PlayStation Development Software GCC Source 0.2.0–0.3.0",
+        "url": "https://archive.org/details/next-generation-playstation-development-software-gcc-source-0.2.0-0.3.0-ps2",
+        "keywords": [
+          "PS2",
+          "Sony",
+          "GCC",
+          "SDK",
+          "compiler",
+          "development software",
+          "archive",
+          "historical"
+        ]
+      },
+      {
+        "name": "PlayStation 2 July 2005 SDK v3.0.3",
+        "url": "https://archive.org/details/PlayStation2July2005SDKversion3.0.3",
+        "keywords": [
+          "PS2",
+          "Sony",
+          "SDK",
+          "3.0.3",
+          "July 2005",
+          "official development",
+          "archive",
+          "historical"
+        ]
+      },
+      {
+        "name": "RenderWare SDK 3.1 Archive",
+        "url": "https://archive.org/details/RenderwareGraphics31",
+        "keywords": [
+          "PS2",
+          "RenderWare",
+          "SDK",
+          "graphics",
+          "game development",
+          "middleware",
+          "archive"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Developer Video Channels",
+    "description": "YouTube channels repeatedly covering PlayStation 2 development, homebrew programming, tooling, graphics, reverse engineering, and technical demonstrations.",
+    "links": [
+      {
+        "name": "PS2DEV YouTube Channel",
+        "url": "https://youtube.com/@ps2dev",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "PS2DEV",
+          "homebrew development",
+          "programming",
+          "tutorials"
+        ]
+      },
+      {
+        "name": "Daniel Santos — PS2 Development",
+        "url": "https://www.youtube.com/@DanielSantosDev",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "development",
+          "homebrew",
+          "programming"
+        ]
+      },
+      {
+        "name": "Fatality — PS2 Development Videos",
+        "url": "https://www.youtube.com/channel/UCCjF3u3eh3NRYOiMdTT7bcQ",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "development",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Fewnity — PS2 Development Videos",
+        "url": "https://www.youtube.com/@Fewnity",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "development",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Guilherme Lampert — PS2 Graphics & Development",
+        "url": "https://www.youtube.com/@GuilhermeLampert",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "graphics",
+          "development",
+          "homebrew",
+          "programming"
+        ]
+      },
+      {
+        "name": "Pablo Labs — PS2 Development",
+        "url": "https://www.youtube.com/@PabloLabs36",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "development",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "Rick Gaiser — PS2 Development",
+        "url": "https://www.youtube.com/@RickGaiser",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "PS2DEV",
+          "development",
+          "homebrew",
+          "programming"
+        ]
+      },
+      {
+        "name": "Tecnocracia LTDA — PS2 Development",
+        "url": "https://www.youtube.com/@TecnocraciaLTDA",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "development",
+          "homebrew",
+          "Portuguese"
+        ]
+      },
+      {
+        "name": "Tom Marks Talks Code — PS2 Programming",
+        "url": "https://www.youtube.com/@TomMarksTalksCode",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "programming",
+          "game development",
+          "tutorials"
+        ]
+      },
+      {
+        "name": "Wolf3s — PS2 Development",
+        "url": "https://www.youtube.com/@wolf3s567",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "development",
+          "homebrew",
+          "programming"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Development Education & Technical Tutorials",
+    "description": "Programming lectures, architecture explanations, educational material, and technical tutorial sources for learning PS2 development and hardware behavior.",
+    "links": [
+      {
+        "name": "Making a PS2 Game — Tom Marks",
+        "url": "https://www.youtube.com/results?search_query=Making+a+PS2+Game+Tom+Marks",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "game development",
+          "tutorial",
+          "programming",
+          "Tom Marks"
+        ]
+      },
+      {
+        "name": "PS2 Overview — psi-rockin",
+        "url": "https://psi-rockin.github.io/ps2tek/",
+        "keywords": [
+          "PS2",
+          "architecture",
+          "hardware",
+          "technical documentation",
+          "programming",
+          "PS2Tek"
+        ]
+      },
+      {
+        "name": "PlayStation 2 Architecture — Copetti",
+        "url": "https://www.copetti.org/writings/consoles/playstation-2/",
+        "keywords": [
+          "PS2",
+          "architecture",
+          "Emotion Engine",
+          "Graphics Synthesizer",
+          "hardware",
+          "technical overview"
+        ]
+      },
+      {
+        "name": "PS2 Emotion Engine Library Sample Program Listings",
+        "url": "https://archive.org/details/ps2-emotion-engine-library-sample-program-listings",
+        "keywords": [
+          "PS2",
+          "Emotion Engine",
+          "sample code",
+          "programming",
+          "library",
+          "archive"
+        ]
+      }
+    ]
+  }
+]
