@@ -5,6 +5,84 @@
       "apiBase": "https://git.techwritescode.dev/api/v1",
       "webBase": "https://git.techwritescode.dev",
       "label": "PS2BUILD SDK",
+      "repository": "ps2/cmake"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/ps2_drivers"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/libjpeg-turbo"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/freetype"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/libpng"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/ogg"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/vorbis"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/ninja"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/ps2link"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/ps2client"
+    },
+    {
+      "apiBase": "https://git.crustywindo.ws/api/v1",
+      "webBase": "https://git.crustywindo.ws",
+      "label": "ps2rom bare-metal replacement ROM",
+      "repository": "modeco80/ps2rom"
+    },
+    {
+      "apiBase": "https://git.wisellama.rocks/api/v1",
+      "webBase": "https://git.wisellama.rocks",
+      "label": "Open PS2 Loader Wisellama mirror",
+      "repository": "Mirrors/Open-PS2-Loader"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/ps2build"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
       "repository": "ps2/gcc"
     },
     {
@@ -120,84 +198,6 @@
       "webBase": "https://git.techwritescode.dev",
       "label": "PS2BUILD SDK",
       "repository": "ps2/srxfixup"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/cmake"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/ps2_drivers"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/libjpeg-turbo"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/freetype"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/libpng"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/ogg"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/vorbis"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/ninja"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/ps2link"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/ps2client"
-    },
-    {
-      "apiBase": "https://git.crustywindo.ws/api/v1",
-      "webBase": "https://git.crustywindo.ws",
-      "label": "ps2rom bare-metal replacement ROM",
-      "repository": "modeco80/ps2rom"
-    },
-    {
-      "apiBase": "https://git.wisellama.rocks/api/v1",
-      "webBase": "https://git.wisellama.rocks",
-      "label": "Open PS2 Loader Wisellama mirror",
-      "repository": "Mirrors/Open-PS2-Loader"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/ps2build"
     }
   ],
   "branchHeads": {
@@ -352,7 +352,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.106.8": "afbd09c568a622746d250134ed170fd46153dce9",
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded@platform_agnostic": "b1746fd2b52d5aeafc1173761eb50e0958e8994b",
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded@master": "de43c65b16a71d00acca0deaa7332e3c1335a42d",
-    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@main": "9b4570ad2abd0b3e2305a68f78b6b6d2cbbaf195",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@main": "d4b09a7776ceee267dcde6ca8c5abcbee741085e",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@remove-claude-md": "1fe1a05395eac2d8c8f44c699ed6cf39bc8acfc8",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@lwip-upgrade": "f42906f249f380ff746d057c00fece69c86cd060",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@llvm": "b4b46628a84ccb7d3bf542286feccf59828f9eda",
@@ -361,7 +361,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2gl@master": "31d3c61b168bb675e8a7aeca75464f81e64a40db",
     "https://git.techwritescode.dev/api/v1|ps2/ps2stuff@master": "6b2b0c06a5a7c32fbb3c03c292cacb82a7b3a569",
     "https://git.techwritescode.dev/api/v1|ps2/romfs@master": "13607e2ab224ad39051117b8a2ab7c6ba3c6f991",
-    "https://git.techwritescode.dev/api/v1|ps2/sdk-world@master": "65e2100ff66f172afb42225df881c5770c3325b8",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-world@master": "542f62f011f75a447de1d8e72bb00d01d300d230",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-world@ioptrap-udptty": "e58b6bf3b5810c9de367546a69e240ba17cbdad6",
     "https://git.techwritescode.dev/api/v1|ps2/setup-sdk@master": "031f27442052489f2e387d10ac05a7f3d45ec183",
     "https://git.techwritescode.dev/api/v1|ps2/setup-ps2build@master": "2555df6b897ad0cb539d6887c274bfd4725071c4",
@@ -417,7 +417,57 @@
     "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.65.4": "840948e7e4218bca24da5ff0020d84cd61873612",
     "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.231.4": "04162cad52614d642c990b96c287a73e7c51a65f",
     "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.5.2": "bb8e02d9336f837e384edfea83c3c1454c4ec680",
-    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.125.2": "3c74b9edb9dd66d4e5e0a9f62ca16b160760650b"
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.125.2": "3c74b9edb9dd66d4e5e0a9f62ca16b160760650b",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.44.2": "7f63ec912967d23ad6c69bfe2a3cf3b2e3c86078",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.66.2": "93b0a8e4ad43ef8336251bb1ac018049d940641a",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.15.2": "2eeb9c8c50782e9a7a8026d9b5c6c79469a9383a",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.11.2": "3cca030b65e3c9504dca4c874c597fb783ca2006",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.69.4": "3869357061c19a15c4198ee084336caf0791d943",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.13.2": "c3b4966d7533eaf545b2d01be313d78e5e80f241",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.24.2": "2c5347b2ae6e3a67056155f468bf8cecdcfa51a5",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.18.2": "644c83bca346d7bb670e5467c1dcd2e1daa8ee3d",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.144.2": "add161035703b6b24d548a3e726764526dd56a88",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.45.2": "c233948098089d2f721ec3fc3f14b45003acff3b",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@kseitz_interps-20020528-branch": "9ad539c6a6f400a91c4879a9ef2c5e106efbd887",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.116.4": "82fc7120754316442bbcd268170ad46bfa23b698",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.13.4": "be48889fed3264c770dca91ddaae9d925c961213",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.1527.4": "c8733997b8d8125de18b8d28a733811835e4a345",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cygwin-1-3-19-1": "df266cf9b16c9aff9c96d9869b641dc54335c6e1",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cygwin-1-3-13-1": "f822fe98a9ef07aec0cd80c71dca66c560043e29",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cygwin-1-3-13-2": "f822fe98a9ef07aec0cd80c71dca66c560043e29",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cygwin-1-3-14-1": "f822fe98a9ef07aec0cd80c71dca66c560043e29",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cygwin-1-3-15-1": "f822fe98a9ef07aec0cd80c71dca66c560043e29",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cygwin-1-3-16-1": "f822fe98a9ef07aec0cd80c71dca66c560043e29",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cygwin-1-3-17-1": "f822fe98a9ef07aec0cd80c71dca66c560043e29",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cygwin-1-3-18-1": "f822fe98a9ef07aec0cd80c71dca66c560043e29",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@tcltk840-20020924-branch": "80502cc9c875e9ec0c4b370b8f0de11a2579d3c7",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cygwin_daemon": "f70f96c67329f59d3718cb5dede413ff0fdbab3d",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@sid-20020905-branch": "52041eed0c1d44ba95cef84629862451fe5017d3",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@gdb_5_3-branch": "e29580df9f56e884ebb55f5681f2703fe75228a3",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cagney_sysregs-20020825-branch": "e3853f659096680f4953e1ec051d10b1f0ff084e",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@readline_4_3-import-branch": "e3853f659096680f4953e1ec051d10b1f0ff084e",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.226.2": "3bfb3884d41b17ac8255af8925a1c2ec93a36af1",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.50.2": "433b2e494d6db83292886fe6922e26d25ed00f3c",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.1370.2": "bb7ddcba3362726e5cda16b5a6ecb8f1814e23b7",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cygwin-1-3-12-1": "5f61154ea16c2a28fa17dc41ee2ba218239f4a1e",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cygwin-1-3-11-3": "baa639e8ccd69d55b4c0eb71e9564b56130c5622",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cagney_regbuf-20020515-branch": "44420de69d92fec0f1d3c508324544242808e400",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@mingwex": "fb2156b6a89f5096eef74f126ca8545fbd0512db",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@jimb-macro-020506-branch": "2226614012948569d69e5a9f74ebad2645e3ccba",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@binutils-2_12-branch": "e2fa15a3ea462b54bb5389cd224342bef85f4356",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@gdb_5_2-branch": "f671d5b91dc4c7227649aa8628613ab069f05d70",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@pregp02r1": "6cd4acc28c3c30b5208e19479f0136ced03ff846",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cygwin-1-3-10-1": "c8b5f0523b36b4bf40fd49c7ea57206bcbf53916",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cygwin-1-3-7-1": "c8b5f0523b36b4bf40fd49c7ea57206bcbf53916",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cygwin-1-3-8-1": "c8b5f0523b36b4bf40fd49c7ea57206bcbf53916",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@cygwin-1-3-9": "c8b5f0523b36b4bf40fd49c7ea57206bcbf53916",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.188.2.1.8.2.2": "ee99a3bff4d9b9b50cb6557eeb54707c60486e84",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.1042.2.1.4.2.4.2.2": "2dca1086f0e8ca5c558d42e0c8c17e60406e2ad1",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.188.2.1.8": "f11d1d746accc3452aa548ca7624e88ece40b706",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.1042.2.1.4.2.4": "d1e0b274c9cac3c5d688192e951f5b544a03be26",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.15.10": "251b2ad021309e6889f8e4b5667a6dc823391281",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.53.6": "1bd502a92065365d81984c007fefcd98ae4e9c08",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.1042.2.1.4": "52b403c28a07bc1b1c6d8c14fc4ad8698506f895"
   },
   "branchPage": {
     "https://git.techwritescode.dev/api/v1|ps2/ps2build": 2,
@@ -426,7 +476,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/toolchain": 2,
     "https://git.techwritescode.dev/api/v1|ps2/masp": 2,
     "https://git.techwritescode.dev/api/v1|ps2/openvcl": 2,
-    "https://git.techwritescode.dev/api/v1|ps2/newlib": 5,
+    "https://git.techwritescode.dev/api/v1|ps2/newlib": 6,
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded": 2,
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core": 2,
     "https://git.techwritescode.dev/api/v1|ps2/tools": 2,
@@ -490,17 +540,17 @@
     "https://git.wisellama.rocks/api/v1|Mirrors/Open-PS2-Loader": 1
   },
   "lastRun": {
-    "at": "2026-10-02T13:31:14.116Z",
+    "at": "2026-10-02T18:56:01.275Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 29,
-    "branchesChanged": 0,
-    "treesScanned": 0,
+    "branchesSeen": 123,
+    "branchesChanged": 52,
+    "treesScanned": 52,
     "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 0,
-    "nestedAdded": 0,
-    "requests": 83,
+    "branchesAdded": 50,
+    "nestedAdded": 33,
+    "requests": 129,
     "stoppedForBudget": false
   }
 }
