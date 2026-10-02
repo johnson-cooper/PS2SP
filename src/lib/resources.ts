@@ -124,6 +124,7 @@ import psxPlaceHomebrewGamesDeepGroups from "../../data/resources/psx-place-home
 import waybackLegacyPs2ModchipLoaderGroups from "../../data/resources/wayback-legacy-ps2-modchips-loaders.json";
 import githubDepthLiveGroups from "../../data/resources/github-depth-live.json";
 import externalGitLiveGroups from "../../data/resources/external-git-live.json";
+import megaExpansionWave3Groups from "../../data/resources/mega-expansion-wave3-2026-10-02.json";
 
 export interface ResourceLink {
   name: string;
@@ -340,7 +341,8 @@ const allResourceSources = [
   ...(psxPlaceHomebrewGamesDeepGroups as ResourceGroup[]),
   ...(waybackLegacyPs2ModchipLoaderGroups as ResourceGroup[]),
   ...(githubDepthLiveGroups as ResourceGroup[]),
-  ...(externalGitLiveGroups as ResourceGroup[])
+  ...(externalGitLiveGroups as ResourceGroup[]),
+  ...(megaExpansionWave3Groups as ResourceGroup[])
 ];
 
 export function getResourceGroups(): ResourceGroup[] {
