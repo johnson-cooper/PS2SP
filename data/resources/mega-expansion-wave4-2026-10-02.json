@@ -1,0 +1,230 @@
+[
+  {
+    "category": "PS2 Reverse Engineering & Decompilation",
+    "description": "PlayStation 2 reverse-engineering, symbol recovery, decompilation, disassembly, Ghidra integration, and R5900 analysis tooling.",
+    "links": [
+      {
+        "name": "Ghidra Emotion Engine: Reloaded",
+        "url": "https://github.com/chaoticgd/ghidra-emotionengine-reloaded",
+        "keywords": [
+          "PS2",
+          "Ghidra",
+          "Emotion Engine",
+          "R5900",
+          "reverse engineering",
+          "decompiler",
+          "VU",
+          "MMI"
+        ]
+      },
+      {
+        "name": "Chaos Compiler Collection (CCC)",
+        "url": "https://github.com/chaoticgd/ccc",
+        "keywords": [
+          "PS2",
+          "STABS",
+          "mdebug",
+          "symbols",
+          "stdump",
+          "uncc",
+          "demangle",
+          "reverse engineering"
+        ]
+      },
+      {
+        "name": "PS2 Decompiler Toolkit",
+        "url": "https://github.com/ismaelcaraballo-afk/ps2-decompiler",
+        "keywords": [
+          "PS2",
+          "decompiler",
+          "Ghidra",
+          "ELF",
+          "ISO extraction",
+          "symbols",
+          "reverse engineering"
+        ]
+      },
+      {
+        "name": "Ghidra Emotion Engine — Original Archived Extension",
+        "url": "https://github.com/beardypig/ghidra-emotionengine",
+        "keywords": [
+          "PS2",
+          "Ghidra",
+          "Emotion Engine",
+          "R5900",
+          "archived",
+          "reverse engineering"
+        ]
+      },
+      {
+        "name": "MIPS R5900 Ghidra Processor Definitions",
+        "url": "https://github.com/astrelsky/ghidra_MIPSR5900",
+        "keywords": [
+          "PS2",
+          "Ghidra",
+          "R5900",
+          "MIPS",
+          "processor definitions",
+          "reverse engineering"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Saves, Memory Cards & Icon Workflows",
+    "description": "Tools for PS2 memory card images, save conversion, VMC management, PSV/PSU/MAX/CBS/XPS workflows, and browser/save-icon inspection.",
+    "links": [
+      {
+        "name": "PS2VMC Tool",
+        "url": "https://github.com/bucanero/ps2vmc-tool",
+        "keywords": [
+          "PS2",
+          "VMC",
+          "memory card",
+          "PSU",
+          "PSV",
+          "CBS",
+          "MAX",
+          "XPS",
+          "save manager",
+          "3D icons"
+        ]
+      },
+      {
+        "name": "PS2VMC Tool Releases",
+        "url": "https://github.com/bucanero/ps2vmc-tool/releases",
+        "keywords": [
+          "PS2",
+          "VMC",
+          "memory card",
+          "save manager",
+          "web app",
+          "3D icons"
+        ]
+      },
+      {
+        "name": "PCSX2 myMCpp",
+        "url": "https://github.com/PCSX2/myMCpp",
+        "keywords": [
+          "PS2",
+          "memory card",
+          "save editor",
+          "mymc",
+          "PCSX2",
+          "ECC",
+          "PSU"
+        ]
+      },
+      {
+        "name": "PS2 Memory Card Manager",
+        "url": "https://github.com/lawlmoeaung/ps2-memory-card-manager",
+        "keywords": [
+          "PS2",
+          "memory card",
+          "save editor",
+          "PSU",
+          "MAX",
+          "CBS",
+          "SPS",
+          "PSV",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "PS2 VMC GUI",
+        "url": "https://github.com/MegaBitmap/PS2-VMC-GUI",
+        "keywords": [
+          "PS2",
+          "VMC",
+          "GUI",
+          "OPL",
+          "neutrino",
+          "PSV",
+          "PSU",
+          "memory card"
+        ]
+      },
+      {
+        "name": "PS2 Save Utility",
+        "url": "https://github.com/root670/PS2SaveUtility",
+        "keywords": [
+          "PS2",
+          "save converter",
+          "CBS",
+          "MAX",
+          "PSU",
+          "SPS",
+          "XPS"
+        ]
+      },
+      {
+        "name": "PS2SDK Memory Card Save/Icon Example",
+        "url": "https://github.com/ps2dev/ps2sdk/blob/master/ee/rpc/memorycard/samples/mc_example.c",
+        "keywords": [
+          "PS2",
+          "PS2SDK",
+          "memory card",
+          "icon.sys",
+          "save icon",
+          "sample",
+          "development"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Game Modding & Content Editing Tools",
+    "description": "Game-specific and general PlayStation 2 editing tools for assets, gameplay data, textures, archives, and custom content creation.",
+    "links": [
+      {
+        "name": "Backyard Baseball PS2 Editor",
+        "url": "https://github.com/primetime43/Backyard-Baseball-PS2-Editor",
+        "keywords": [
+          "PS2",
+          "modding",
+          "editor",
+          "RenderWare",
+          "textures",
+          "gameplay",
+          "ISO rebuilding"
+        ]
+      },
+      {
+        "name": "PS2 TIM2 Tool Releases",
+        "url": "https://github.com/PS2HomeDeveloper/ps2-tim2-tool/releases",
+        "keywords": [
+          "PS2",
+          "TIM2",
+          "texture",
+          "modding",
+          "conversion",
+          "CLUT",
+          "swizzle",
+          "release binaries"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Video Creators & Tutorials",
+    "description": "Video creators and individual tutorials covering PS2 softmodding, homebrew, OPL, storage, modern accessories, and ecosystem overviews.",
+    "links": [
+      {
+        "name": "Homebrew Drew — Modding the PS2 in 2026",
+        "url": "https://www.youtube.com/watch?v=yoplA0Nu1c8",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "OPL",
+          "MX4SIO",
+          "FreeMCBoot",
+          "Fortuna",
+          "BlueRetro",
+          "PS1",
+          "tutorial",
+          "2026"
+        ]
+      }
+    ]
+  }
+]
