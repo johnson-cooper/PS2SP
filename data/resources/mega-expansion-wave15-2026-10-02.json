@@ -1,0 +1,244 @@
+[
+  {
+    "category": "PS2 Memory Card Hardware & MMCE",
+    "description": "Firmware, host libraries, documentation, and hardware projects for modern PS1/PS2 memory-card emulation, GameID switching, MMCE storage access, and virtual-card workflows.",
+    "links": [
+      {
+        "name": "sd2psXtd Firmware",
+        "url": "https://github.com/sd2psXtd/firmware",
+        "keywords": [
+          "PS2",
+          "PS1",
+          "sd2psXtd",
+          "sd2psx",
+          "MMCE",
+          "MMCEMAN",
+          "MMCEDRV",
+          "GameID",
+          "virtual memory card",
+          "RP2040"
+        ]
+      },
+      {
+        "name": "sd2psXtd Documentation Site",
+        "url": "https://sd2psxtd.github.io/",
+        "keywords": [
+          "PS2",
+          "PS1",
+          "sd2psXtd",
+          "MMCE",
+          "memory card",
+          "firmware",
+          "documentation"
+        ]
+      },
+      {
+        "name": "PS2 MMCE Organization",
+        "url": "https://github.com/ps2-mmce",
+        "keywords": [
+          "PS2",
+          "MMCE",
+          "memory card emulator",
+          "MMCEMAN",
+          "MMCEDRV",
+          "OPL",
+          "Neutrino"
+        ]
+      },
+      {
+        "name": "MMCEMAN / MMCEDRV",
+        "url": "https://github.com/ps2-mmce/mmceman",
+        "keywords": [
+          "PS2",
+          "MMCE",
+          "MMCEMAN",
+          "MMCEDRV",
+          "memory card",
+          "filesystem",
+          "GameID",
+          "game loading"
+        ]
+      },
+      {
+        "name": "MemCard PRO2 Advanced Usage — OPL, FMCB & MMCE",
+        "url": "https://www.8bitmods.wiki/sBlN-advanced-usage",
+        "keywords": [
+          "PS2",
+          "MemCard PRO2",
+          "MMCE",
+          "OPL",
+          "FMCB",
+          "GameID",
+          "VMC",
+          "memory card"
+        ]
+      },
+      {
+        "name": "PSXMEM Firmware",
+        "url": "https://github.com/velikijzhuk/PSXMEMfirmware",
+        "keywords": [
+          "PS2",
+          "PS1",
+          "PSXMEM",
+          "sd2psXtd",
+          "MMCE",
+          "RP2040",
+          "memory card firmware"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Controller & Wireless Hardware",
+    "description": "Open hardware and firmware projects for modernizing PlayStation 2 controller connectivity and wireless input.",
+    "links": [
+      {
+        "name": "Internal BlueRetro PS2 Mod",
+        "url": "https://github.com/michael-hirschmugl/ps2-blueretro",
+        "keywords": [
+          "PS2",
+          "BlueRetro",
+          "Bluetooth",
+          "controller",
+          "ESP32",
+          "wireless",
+          "hardware mod"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Digital Video & HDMI Hardware",
+    "description": "Technical documentation for modern digital-video mods and installation workflows on PlayStation 2 hardware.",
+    "links": [
+      {
+        "name": "Retro GEM — PS2 Overview & Technical Details",
+        "url": "https://docs.pixelfx.co/GEM-Details.html",
+        "keywords": [
+          "PS2",
+          "Retro GEM",
+          "HDMI",
+          "digital video",
+          "PixelFX",
+          "hardware mod"
+        ]
+      },
+      {
+        "name": "Retro GEM — PS2 Fat Installation",
+        "url": "https://wiki.pixelfx.co/index.php/Retro_GEM_PS2_Fat_Installation",
+        "keywords": [
+          "PS2",
+          "Retro GEM",
+          "PS2 Fat",
+          "HDMI",
+          "installation",
+          "hardware mod"
+        ]
+      },
+      {
+        "name": "Retro GEM — PS2 Slim Installation",
+        "url": "https://docs.pixelfx.co/GEM-PS2SLIM-Installation.html",
+        "keywords": [
+          "PS2",
+          "Retro GEM",
+          "PS2 Slim",
+          "HDMI",
+          "installation",
+          "hardware mod"
+        ]
+      },
+      {
+        "name": "Retro GEM — PS2 Compatibility Reference",
+        "url": "https://docs.pixelfx.co/GEM-Support.html",
+        "keywords": [
+          "PS2",
+          "Retro GEM",
+          "HDMI",
+          "compatibility",
+          "motherboard revisions",
+          "hardware"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Hardware Builds & Portables",
+    "description": "Open engineering projects for custom PlayStation 2 mainboards, portable builds, replacement electronics, PCBs, firmware, and mechanical designs.",
+    "links": [
+      {
+        "name": "Custom PlayStation 2 Portable from Scratch",
+        "url": "https://github.com/tschicki/PS2-Portable",
+        "keywords": [
+          "PS2",
+          "portable",
+          "custom mainboard",
+          "PCB",
+          "PS2BBL",
+          "OPL",
+          "NHDDL",
+          "DKWDRV",
+          "MX4SIO",
+          "SD2PSX"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Storage Driver Technical References",
+    "description": "Low-level driver source and implementation references for modern PS2 storage interfaces.",
+    "links": [
+      {
+        "name": "PS2SDK MX4SIO Block Device Driver Source",
+        "url": "https://github.com/ps2dev/ps2sdk/blob/master/iop/sio/mx4sio_bd/src/mx4sio.c",
+        "keywords": [
+          "PS2",
+          "PS2SDK",
+          "MX4SIO",
+          "SIO",
+          "SD card",
+          "block device",
+          "driver",
+          "source"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Current PS2 Loaders & System Frontends",
+    "description": "Current and experimental PlayStation 2 frontends, media applications, launchers, and system-menu integrations.",
+    "links": [
+      {
+        "name": "Simple Media System — Modernized SMS Fork",
+        "url": "https://github.com/NathanNeurotic/Simple-Media-System",
+        "keywords": [
+          "PS2",
+          "SMS",
+          "media player",
+          "MX4SIO",
+          "UDPFS",
+          "MMCE",
+          "HDD",
+          "iLink",
+          "DS3",
+          "DS4"
+        ]
+      },
+      {
+        "name": "OSD-XMB — PS3/PSP-style PS2 Frontend",
+        "url": "https://github.com/HiroTex/OSD-XMB",
+        "keywords": [
+          "PS2",
+          "OSD-XMB",
+          "AthenaEnv",
+          "XMB",
+          "Neutrino",
+          "MMCE",
+          "MX4SIO",
+          "HDD",
+          "POPS",
+          "RetroArch"
+        ]
+      }
+    ]
+  }
+]
