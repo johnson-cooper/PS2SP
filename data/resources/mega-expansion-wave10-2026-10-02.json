@@ -1,0 +1,254 @@
+[
+  {
+    "category": "PS2 Alternative SDKs & Runtime Environments",
+    "description": "Alternative programming environments, language runtimes, experimental SDKs, and engine projects that broaden how homebrew can be built for PlayStation 2.",
+    "links": [
+      {
+        "name": "Enceladus — Lua Runtime for PS2",
+        "url": "https://github.com/DanielSant0s/Enceladus",
+        "keywords": [
+          "PS2",
+          "Enceladus",
+          "Lua",
+          "runtime",
+          "homebrew",
+          "2D",
+          "3D",
+          "audio"
+        ]
+      },
+      {
+        "name": "Nicholas's PS2 Engine",
+        "url": "https://github.com/nicholas477/PS2-Engine",
+        "keywords": [
+          "PS2",
+          "game engine",
+          "PS2DEV",
+          "3D",
+          "models",
+          "fog",
+          "music"
+        ]
+      },
+      {
+        "name": "Prussia — Experimental Rust PS2 SDK",
+        "url": "https://github.com/Ravenslofty/prussia",
+        "keywords": [
+          "PS2",
+          "Rust",
+          "SDK",
+          "MIPS",
+          "Emotion Engine",
+          "SVD",
+          "experimental development"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Hardware, Networking & Low-Level Tools",
+    "description": "Low-level console utilities, network drivers, BIOS-analysis tools, Deckard diagnostics, storage installers, and hardware-facing development projects.",
+    "links": [
+      {
+        "name": "PPC Monitor — Deckard PowerPC 440x5 Monitor",
+        "url": "https://israpps.github.io/PPC-Monitor/",
+        "keywords": [
+          "PS2",
+          "Deckard",
+          "PowerPC",
+          "PPC",
+          "monitor",
+          "SCPH-75xxx",
+          "SCPH-90xxx",
+          "hardware research"
+        ]
+      },
+      {
+        "name": "ps2eth — PS2 Ethernet Drivers",
+        "url": "https://github.com/ps2dev/ps2eth",
+        "keywords": [
+          "PS2",
+          "Ethernet",
+          "SMAP",
+          "PS2KLSI",
+          "DEV9",
+          "network driver",
+          "PS2 Linux"
+        ]
+      },
+      {
+        "name": "PS2 BIOS Module Extractor",
+        "url": "https://github.com/azagramac/ps2-bios-extract-modules",
+        "keywords": [
+          "PS2",
+          "BIOS",
+          "ROM0",
+          "ROM1",
+          "ROM2",
+          "ROMDIR",
+          "module extractor",
+          "firmware research"
+        ]
+      },
+      {
+        "name": "ps2-usbhdl — On-Console USB-to-HDD Installer",
+        "url": "https://github.com/binkynz/ps2-usbhdl",
+        "keywords": [
+          "PS2",
+          "HDD",
+          "USB",
+          "HDLoader",
+          "APA",
+          "OPL",
+          "ISO installer",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "ps2mc — Go CLI for PS2 Memory Cards",
+        "url": "https://github.com/cwood/ps2mc",
+        "keywords": [
+          "PS2",
+          "memory card",
+          "Go",
+          "CLI",
+          "save files",
+          "filesystem"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Game Modding & Content Editing Tools",
+    "description": "Specialized tools for modifying PlayStation 2 games, assets, saves, characters, text, and gameplay data.",
+    "links": [
+      {
+        "name": "UN5 Modding Workshop — Naruto Ultimate Ninja 5",
+        "url": "https://github.com/zMath3usMSF/UN5ModdingWorkshop",
+        "keywords": [
+          "PS2",
+          "Naruto",
+          "Ultimate Ninja 5",
+          "modding",
+          "character editor",
+          "assets",
+          "tool"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Homebrew Games & Fan Ports",
+    "description": "Open-source and homebrew-native games, experiments, remakes, and fan projects designed for PlayStation 2.",
+    "links": [
+      {
+        "name": "Game With Car PS2",
+        "url": "https://github.com/freebytego/gwc-ps2",
+        "keywords": [
+          "PS2",
+          "Tyra",
+          "homebrew game",
+          "racing",
+          "experiment"
+        ]
+      },
+      {
+        "name": "Rock Paper Scissors — Tyra PS2 Game",
+        "url": "https://github.com/GDQR/Rock-paper-and-scissors",
+        "keywords": [
+          "PS2",
+          "Tyra",
+          "homebrew game",
+          "rock paper scissors"
+        ]
+      },
+      {
+        "name": "TyraTale — Undertale PS2 Project",
+        "url": "https://github.com/Br4k2n/TyraTale",
+        "keywords": [
+          "PS2",
+          "Tyra",
+          "Undertale",
+          "fan port",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "Bit of War PS2",
+        "url": "https://github.com/PS2GAMESDEV/Bit-of-War-PS2",
+        "keywords": [
+          "PS2",
+          "homebrew game",
+          "fan game",
+          "God of War inspired",
+          "port"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Linux Development Education",
+    "description": "Preserved educational material for programming the PlayStation 2 Linux Kit, including graphics, DMA, networking, audio, vector units, and classroom use.",
+    "links": [
+      {
+        "name": "Dr. Henry S. Fortuna — PS2 Linux Games Programming",
+        "url": "https://ps2-edu.tensioncore.com/index.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "PS2 Linux Kit",
+          "programming",
+          "tutorials",
+          "graphics",
+          "VU1",
+          "DMAC",
+          "education"
+        ]
+      },
+      {
+        "name": "PS2 Direct Memory Access Controller Tutorial",
+        "url": "https://ps2-edu.tensioncore.com/articles/dmac.html",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "DMAC",
+          "DMA",
+          "Emotion Engine",
+          "programming",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "Teaching Console Games Programming with the Sony PS2 Linux Kit",
+        "url": "https://ps2-edu.tensioncore.com/articles/cgaige04.pdf",
+        "keywords": [
+          "PS2",
+          "Linux Kit",
+          "education",
+          "game programming",
+          "teaching",
+          "academic paper"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Legacy PS2 Language & Engine Ports",
+    "description": "Historical language runtimes and engine-port discussions documenting alternate ways of developing and deploying software on PS2.",
+    "links": [
+      {
+        "name": "BennuGD PS2 Porting Discussion",
+        "url": "https://forum.bennugd.org/index.php?topic=3810.0",
+        "keywords": [
+          "PS2",
+          "BennuGD",
+          "Fenix",
+          "language runtime",
+          "game engine",
+          "porting",
+          "legacy forum"
+        ]
+      }
+    ]
+  }
+]
