@@ -1,0 +1,253 @@
+[
+  {
+    "category": "PS2 Homebrew Engines, Frameworks & Samples",
+    "description": "Game engines, editor-driven frameworks, reusable development libraries, vector-unit tools, samples, and preservation-oriented demo collections for PlayStation 2 homebrew.",
+    "links": [
+      {
+        "name": "Tyra — PlayStation 2 Game Engine",
+        "url": "https://github.com/h4570/tyra",
+        "keywords": [
+          "PS2",
+          "Tyra",
+          "game engine",
+          "VU1",
+          "VU0",
+          "3D",
+          "2D",
+          "PS2DEV",
+          "tutorials"
+        ]
+      },
+      {
+        "name": "TyraX — PS2 Game Engine with 3D Editor",
+        "url": "https://github.com/doctorspider42/tyraX",
+        "keywords": [
+          "PS2",
+          "TyraX",
+          "game engine",
+          "3D editor",
+          "visual scripting",
+          "PS2DEV",
+          "OpenVCL",
+          "ps2link"
+        ]
+      },
+      {
+        "name": "ps2stuff — Utility Library Used by ps2gl",
+        "url": "https://github.com/ps2dev/ps2stuff",
+        "keywords": [
+          "PS2",
+          "ps2stuff",
+          "ps2gl",
+          "library",
+          "development",
+          "SCEA R&D"
+        ]
+      },
+      {
+        "name": "vclpp — PS2 VCL Preprocessor",
+        "url": "https://github.com/glampert/vclpp",
+        "keywords": [
+          "PS2",
+          "VCL",
+          "VU1",
+          "Vector Unit",
+          "preprocessor",
+          "development"
+        ]
+      },
+      {
+        "name": "Guilherme Lampert PS2 Homebrew Demos",
+        "url": "https://github.com/glampert/ps2-homebrew",
+        "keywords": [
+          "PS2",
+          "homebrew",
+          "demos",
+          "PS2DEV",
+          "sample code",
+          "graphics",
+          "games"
+        ]
+      },
+      {
+        "name": "PSI-Rockin PS2 Demos Preservation Collection",
+        "url": "https://github.com/PSI-Rockin/ps2demos",
+        "keywords": [
+          "PS2",
+          "homebrew",
+          "demos",
+          "preservation",
+          "Third Creation",
+          "pillgen",
+          "ps2tut"
+        ]
+      },
+      {
+        "name": "PS2 Homebrew Sample Project",
+        "url": "https://github.com/sammwyy/ps2-homebrew-sample",
+        "keywords": [
+          "PS2",
+          "PS2SDK",
+          "sample",
+          "hello world",
+          "tutorial",
+          "development"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Homebrew Games & Fan Ports",
+    "description": "Open-source or homebrew-native games, remakes, ports, and experiments designed to run on PlayStation 2 hardware.",
+    "links": [
+      {
+        "name": "TyraCraft — Voxel Game for PS2",
+        "url": "https://github.com/Wellinator/tyracraft",
+        "keywords": [
+          "PS2",
+          "TyraCraft",
+          "voxel",
+          "Minecraft-like",
+          "Tyra",
+          "homebrew game"
+        ]
+      },
+      {
+        "name": "Undertale PS2 — AthenaEnv Remake",
+        "url": "https://github.com/KreitinnSoftware/Undertale-PS2",
+        "keywords": [
+          "PS2",
+          "Undertale",
+          "AthenaEnv",
+          "JavaScript",
+          "homebrew game",
+          "remake"
+        ]
+      },
+      {
+        "name": "Undertale PS2 — P1xelDev AthenaEnv Project",
+        "url": "https://github.com/P1xelDevv/Undertale-Ps2",
+        "keywords": [
+          "PS2",
+          "Undertale",
+          "AthenaEnv",
+          "JavaScript",
+          "homebrew",
+          "Portuguese"
+        ]
+      },
+      {
+        "name": "PCSX2OOM — Modernized Doom Port for PS2",
+        "url": "https://github.com/Arawn-Davies/pcsx2oom",
+        "keywords": [
+          "PS2",
+          "Doom",
+          "homebrew port",
+          "PS2SDK",
+          "PWAD",
+          "USB",
+          "networking"
+        ]
+      },
+      {
+        "name": "Doomeladus — Lua Homebrew Environment for PS2",
+        "url": "https://github.com/Doom-modding-and-etc/doomedalus",
+        "keywords": [
+          "PS2",
+          "Doom",
+          "Lua",
+          "homebrew framework",
+          "2D",
+          "3D",
+          "ports"
+        ]
+      },
+      {
+        "name": "Chrome Dino C++ — PS2 SDL2 Port",
+        "url": "https://github.com/DanielLMcGuire/chrome-dino-cpp",
+        "keywords": [
+          "PS2",
+          "Chrome Dino",
+          "SDL2",
+          "homebrew game",
+          "port"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Reverse Engineering & Experimental SDKs",
+    "description": "Specialized tracing, exploit/research SDKs, and experimental tooling for understanding or extending PS2 software behavior.",
+    "links": [
+      {
+        "name": "vutrace — PS2 Vector Unit Tracing Debugger",
+        "url": "https://github.com/chaoticgd/vutrace",
+        "keywords": [
+          "PS2",
+          "VU0",
+          "VU1",
+          "Vector Unit",
+          "tracing",
+          "debugger",
+          "reverse engineering"
+        ]
+      },
+      {
+        "name": "racdoor — Ratchet & Clank Haunted Save SDK",
+        "url": "https://github.com/chaoticgd/racdoor",
+        "keywords": [
+          "PS2",
+          "Ratchet and Clank",
+          "save exploit",
+          "SDK",
+          "research",
+          "modding"
+        ]
+      },
+      {
+        "name": "dart_mymc — Dart Port of mymc",
+        "url": "https://github.com/BAD-AL/dart_mymc",
+        "keywords": [
+          "PS2",
+          "memory card",
+          "mymc",
+          "Dart",
+          "savegame",
+          "library",
+          "CLI"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "OPL Themes, Artwork & Customization",
+    "description": "OPL theme repositories, artwork-oriented layouts, and modern customization projects.",
+    "links": [
+      {
+        "name": "OPLAdvance Theme",
+        "url": "https://github.com/PixeliGer/OPL-Theme-OPLAdvance",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "theme",
+          "USBAdvance",
+          "customization",
+          "theme development"
+        ]
+      },
+      {
+        "name": "PadOS OPL Theme",
+        "url": "https://github.com/PixeliGer/OPL-Theme-PadOS",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "theme",
+          "PadOS",
+          "iPad",
+          "widgets",
+          "customization"
+        ]
+      }
+    ]
+  }
+]
