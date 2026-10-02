@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T17:09:08.395Z'
+  lastSynchronized: '2026-10-02T08:38:35.631Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"38efd9246274960d28138f8e4a32c2c419eff7850075a4e5b0386b6e864de6d4"
+    releasesEtag: '"fdaba95a6d518555214f66c0db98f5da5da81197d4c76531684b38d08594be60"'
 discovery:
   method: 'fork-network:GDX-X/PFS-BatchKit-Manager'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: GDX-X/PFS-BatchKit-Manager
   source: GDX-X/PFS-BatchKit-Manager
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

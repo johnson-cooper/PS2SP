@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2025-05-04T16:52:49Z'
   url: 'https://github.com/ktheticdev/nhddl-massconfig/releases/tag/nightly'
 activity:
-  lastSynchronized: '2026-10-01T11:34:08.960Z'
+  lastSynchronized: '2026-10-02T08:38:23.766Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4d845b6edf8c3c37003e130fcb320490add533009db986fb843b40a7024e8bf1"
+    releasesEtag: W/"fc9fd332f53ff854885ae130eae7407d25874763363ea8aa5813567f685783c0"
 discovery:
   method: 'fork-network:pcm720/nhddl'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: pcm720/nhddl
   source: pcm720/nhddl
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

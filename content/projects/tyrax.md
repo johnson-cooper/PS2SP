@@ -19,20 +19,20 @@ repository:
   defaultBranch: main
   stars: 6
   forks: 1
-  lastCommit: '2026-09-29T08:21:09Z'
+  lastCommit: '2026-10-01T23:06:02Z'
 latestRelease:
-  tag: v1.89.0
-  name: TyraX 1.89.0
-  publishedAt: '2026-09-19T21:35:36Z'
-  url: 'https://github.com/doctorspider42/tyraX/releases/tag/v1.89.0'
+  tag: v1.169.0
+  name: TyraX 1.169.0
+  publishedAt: '2026-10-01T22:57:14Z'
+  url: 'https://github.com/doctorspider42/tyraX/releases/tag/v1.169.0'
 activity:
   lastChecked: '2026-09-29T00:27:52.254Z'
-  lastSynchronized: '2026-09-29T08:31:15.870Z'
+  lastSynchronized: '2026-10-02T08:38:44.866Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1a9a66146ca4aa2890b20e154dadb952dfe4ba752a4aa7c54e47449517d51b6d"
-    releasesEtag: W/"ebc5548b1165d3ea721d12219cde6bacf2b7918f2ff99703928db2a4191981c6"
+    repoEtag: W/"fe2c88abe34d32e47468eb91f52fc2ebf62821657eaa7315bf8f8614e2c835cd"
+    releasesEtag: W/"2c866bf3721a79669856282793af593275556fbf36d6410750bca4d1438efc30"
 discovery:
   method: github-search
   confidence: 100

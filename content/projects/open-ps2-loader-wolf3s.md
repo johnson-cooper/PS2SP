@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-05-03T10:22:51Z'
   url: 'https://github.com/Wolf3s/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T03:32:56.944Z'
+  lastSynchronized: '2026-10-02T08:38:29.742Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8d968eb330a1ad7871f70cfff4cb96261cd7c64adba1c83b82d736dd6c30e1ab"
-    releasesEtag: W/"36910d6e3f131dbdd8c96ab2969a6769344b39f510e042176815bcff2d9e36b4"
+    repoEtag: W/"a53cfc9f8e58ff149dc12f18d91d610af5b88d6a9495fa2569c6dbe222a49732"
+    releasesEtag: W/"7c829f79f04ce3da5df68d0963f0897213c3d1bef1468f09c67e5f4bf7bb59e7"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

@@ -19,19 +19,24 @@ source:
   url: 'https://github.com/Jungsik-won/Poison-Pink-Korean-Translation'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 1
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-01T15:46:32Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.4.0-dev
+  name: Poison Pink 상점·도감 및 전투 자막 보완 개발판 v0.4.0
+  publishedAt: '2026-10-01T15:18:05Z'
+  url: >-
+    https://github.com/Jungsik-won/Poison-Pink-Korean-Translation/releases/tag/v0.4.0-dev
 activity:
   lastChecked: '2026-10-01T14:52:44.353Z'
+  lastSynchronized: '2026-10-02T08:38:36.092Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b705e511bcfb06579ea808ecddfe58b2c1d1e0cc7ae7f018ea98c73579cadadf"
+    releasesEtag: W/"7525c73155e2e14941679c27a918c4265c1b84143904a08122a9a14c0371c5a6"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -44,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

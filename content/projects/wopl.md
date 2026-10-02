@@ -33,12 +33,12 @@ latestRelease:
     https://github.com/ps2homebrew/wOPL/releases/tag/v1.1-351-20260514-082037-786-8742426
 activity:
   lastChecked: '2026-09-29T00:27:16.252Z'
-  lastSynchronized: '2026-09-29T08:31:17.954Z'
+  lastSynchronized: '2026-10-02T08:38:46.886Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c54f7ad66519747402e287fc48dc8fb20b92d02a4e1243bac5af4dfbf55494c1"
-    releasesEtag: W/"6a9b9782eb74c2195449ed4edc1135e9f7a9289c37253ae9b5886bb8cedf9ee4"
+    repoEtag: W/"2249b5b99c46c7feff796cd8b8d77f4233ec59b22f793ed8b7b73b4461bfbc46"
+    releasesEtag: W/"0ae0d6512f5fb112629d37f804285f768f1c4f41447c74c25471d7d31c9de6d7"
 discovery:
   method: curated
   confidence: 100

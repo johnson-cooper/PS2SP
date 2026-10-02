@@ -11,7 +11,7 @@ tags:
   - active-unreleased
 features: []
 authors: []
-license: null
+license: MIT
 homepage: null
 source:
   provider: github
@@ -20,10 +20,10 @@ source:
   url: 'https://github.com/Harskov/stretch-panic-usa'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 2
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-09-30T22:37:31Z'
 latestRelease:
   tag: null
   name: null
@@ -31,8 +31,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-09-29T00:28:40.534Z'
+  lastSynchronized: '2026-10-02T08:38:43.685Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8d877f00a79eedb287370560f287125643deba9b61775c9da1532d5b818c9492"
+    releasesEtag: '"fdaba95a6d518555214f66c0db98f5da5da81197d4c76531684b38d08594be60"'
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 100
@@ -46,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

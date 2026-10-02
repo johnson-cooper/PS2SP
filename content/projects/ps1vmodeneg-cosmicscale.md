@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T17:09:08.395Z'
+  lastSynchronized: '2026-10-02T08:38:37.072Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d6d65f1d9ffcc2f15e7927659f829b2fc7cb59eecbb6807bc8a6e42f7cf13e0e"
+    releasesEtag: '"fdaba95a6d518555214f66c0db98f5da5da81197d4c76531684b38d08594be60"'
 discovery:
   method: 'fork-network:ps2homebrew/PS1VModeNeg'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: ps2homebrew/PS1VModeNeg
   source: ps2homebrew/PS1VModeNeg
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

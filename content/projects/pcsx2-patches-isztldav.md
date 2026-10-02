@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-07-06T20:41:25Z'
   url: 'https://github.com/isztldav/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T15:00:56.456Z'
+  lastSynchronized: '2026-10-02T08:38:33.675Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e273e2b900264e0b4a37e29fa13f002b8466e279875032126f9a95a2e4b8c69b"
+    releasesEtag: W/"4ef64870a401bb153dab279291ffeccc8d8addde8ea450cec17db30e9ffcc079"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: PCSX2/pcsx2_patches
   source: PCSX2/pcsx2_patches
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -17,7 +17,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 208
+  stars: 209
   forks: 30
   lastCommit: '2025-12-25T16:34:27Z'
 latestRelease:
@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2025-09-21T02:42:10Z'
   url: 'https://github.com/HiroTex/OSD-XMB/releases/tag/v2.2.0'
 activity:
-  lastSynchronized: '2026-10-01T03:33:19.109Z'
+  lastSynchronized: '2026-10-02T08:38:31.647Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3df6e78d9556bf3f99dadbc209736ef859da23d6a661f73d77784afcf13cfc86"
-    releasesEtag: W/"24af94f00785f941349f2e4ccca83acb1d3dc91d1b8aa86b278bf593103d4282"
+    repoEtag: W/"5135c072bb6e3de7d21d8b68de2b66de1c20109fce54a5ac7f747ac66f279b0a"
+    releasesEtag: W/"383c05a4245656ee02f1609e37ecbeb555227e259b92e5c4525df158ac5c0d1c"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

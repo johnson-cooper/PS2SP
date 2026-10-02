@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:17:04.836Z'
+  lastSynchronized: '2026-10-02T08:38:20.838Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2914af75389a7871c152532c3e959eab68dcc3c61dc1ba5e8dc2bdaab6e1c689"
+    releasesEtag: '"fdaba95a6d518555214f66c0db98f5da5da81197d4c76531684b38d08594be60"'
 discovery:
   method: 'fork-network:ps2-mmce/mmceman'
   confidence: 100
@@ -45,5 +48,4 @@ relationships:
   forkOf: ps2-mmce/mmceman
   source: ps2-mmce/mmceman
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
