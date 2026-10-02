@@ -1,0 +1,272 @@
+[
+  {
+    "category": "PS2 Runtime Frameworks & Homebrew Engines",
+    "description": "Higher-level runtimes, scripting environments, game frameworks, and reusable engines for building PS2 homebrew applications and games.",
+    "links": [
+      {
+        "name": "AthenaEnv — JavaScript Runtime for PS2 Homebrew",
+        "url": "https://github.com/sovereign-research/athenaenv",
+        "keywords": [
+          "PS2",
+          "AthenaEnv",
+          "JavaScript",
+          "QuickJS",
+          "homebrew engine",
+          "VU1",
+          "graphics",
+          "audio",
+          "network"
+        ]
+      },
+      {
+        "name": "PS2ME — J2ME Runtime for PlayStation 2",
+        "url": "https://github.com/Wellinator/PS2ME",
+        "keywords": [
+          "PS2",
+          "J2ME",
+          "Java",
+          "MIDP",
+          "homebrew",
+          "runtime",
+          "SPU2",
+          "memory card"
+        ]
+      },
+      {
+        "name": "Quake II PS2 Port",
+        "url": "https://github.com/glampert/quake2-ps2",
+        "keywords": [
+          "PS2",
+          "Quake II",
+          "homebrew port",
+          "VU1",
+          "VU0",
+          "SPU2",
+          "USB",
+          "PCSX2"
+        ]
+      },
+      {
+        "name": "SNESticle Revive",
+        "url": "https://github.com/ReyFxck/SNESticleRevive",
+        "keywords": [
+          "PS2",
+          "SNES",
+          "emulator",
+          "homebrew",
+          "SMB",
+          "DEV9",
+          "hostfs"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 HDD, APA & PFS Utilities",
+    "description": "Utilities for PS2 hard disks, APA partition tables, PFS filesystems, provisioning, diagnostics, game installation, and large-disk workflows.",
+    "links": [
+      {
+        "name": "PS2 HDD Manager — Extended APA Desktop Manager",
+        "url": "https://github.com/L10N37/PS2-HDD-Manager",
+        "keywords": [
+          "PS2",
+          "HDD",
+          "APA",
+          "Extended APA",
+          "PFS",
+          "OPL",
+          "FHDB",
+          "4TB",
+          "manager"
+        ]
+      },
+      {
+        "name": "pfsshell — PFS Filesystem Shell",
+        "url": "https://github.com/ps2homebrew/pfsshell",
+        "keywords": [
+          "PS2",
+          "PFS",
+          "APA",
+          "HDD",
+          "filesystem",
+          "shell",
+          "OPL",
+          "SMS"
+        ]
+      },
+      {
+        "name": "HDDChecker — PS2 HDD Diagnostic Tool",
+        "url": "https://github.com/ps2homebrew/HDDChecker",
+        "keywords": [
+          "PS2",
+          "HDD",
+          "SMART",
+          "APA",
+          "PFS",
+          "filesystem check",
+          "diagnostics",
+          "bad sectors"
+        ]
+      },
+      {
+        "name": "HDLGameInstaller — HDD Game Installer",
+        "url": "https://github.com/ps2homebrew/HDLGameInstaller",
+        "keywords": [
+          "PS2",
+          "HDD",
+          "HDL",
+          "APA",
+          "game installer",
+          "DEV9",
+          "network"
+        ]
+      },
+      {
+        "name": "KernelLoader — PS2 Linux Kernel Loader",
+        "url": "https://github.com/rickgaiser/kernelloader",
+        "keywords": [
+          "PS2",
+          "Linux",
+          "KernelLoader",
+          "BlackRhino",
+          "kernel",
+          "initrd",
+          "USB",
+          "HDD"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Debugging, Injection & Network Development",
+    "description": "Remote debugging, live code injection, network loaders, cheat/debug systems, and host-to-console development utilities.",
+    "links": [
+      {
+        "name": "PS2rd — PS2 Remote Debugger",
+        "url": "https://github.com/mlafeldt/ps2rd",
+        "keywords": [
+          "PS2",
+          "PS2rd",
+          "remote debugger",
+          "cheats",
+          "memory dump",
+          "Ethernet",
+          "OPL"
+        ]
+      },
+      {
+        "name": "kos-tool — Multi-console Host Loader with PS2 DEV9 Support",
+        "url": "https://github.com/andressbarajas/kos-tool",
+        "keywords": [
+          "PS2",
+          "DEV9",
+          "SMAP",
+          "network loader",
+          "host tool",
+          "development",
+          "Ethernet"
+        ]
+      },
+      {
+        "name": "C/C++ Game Modding Utility — PS2 Code Injection",
+        "url": "https://github.com/C0mposer/C-Game-Modding-Utility",
+        "keywords": [
+          "PS2",
+          "C++",
+          "modding",
+          "code injection",
+          "ISO rebuild",
+          "PCSX2",
+          "code cave",
+          "hooks"
+        ]
+      },
+      {
+        "name": "PS2Docs — Modern PS2 Rendering/Audio Backend Notes",
+        "url": "https://github.com/ninjadynamics/PS2Docs",
+        "keywords": [
+          "PS2",
+          "ps2gl",
+          "ps2stuff",
+          "SPU2",
+          "audio streaming",
+          "rendering",
+          "development docs"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Boot, System & Save Utilities",
+    "description": "Bootloader installers, system utilities, save managers, and maintenance tools for real PlayStation 2 hardware.",
+    "links": [
+      {
+        "name": "FreeMcBoot Installer — ISR Apps Maintenance Fork",
+        "url": "https://github.com/israpps/FreeMcBoot-Installer",
+        "keywords": [
+          "PS2",
+          "FreeMcBoot",
+          "FreeHdBoot",
+          "FMCB",
+          "FHDB",
+          "installer",
+          "exFAT",
+          "KELF"
+        ]
+      },
+      {
+        "name": "FreeMcBoot — Historical Source Repository",
+        "url": "https://github.com/TnA-Plastic/FreeMcBoot",
+        "keywords": [
+          "PS2",
+          "FreeMcBoot",
+          "FMCB",
+          "OSDSYS",
+          "bootloader",
+          "historical source"
+        ]
+      },
+      {
+        "name": "Apollo Save Tool PS2",
+        "url": "https://github.com/bucanero/apollo-ps2",
+        "keywords": [
+          "PS2",
+          "save manager",
+          "PSU",
+          "PSV",
+          "CBS",
+          "MAX",
+          "XPS",
+          "VMC",
+          "save patches"
+        ]
+      },
+      {
+        "name": "mymc — PS2 Memory Card Image Utility",
+        "url": "https://github.com/ps2dev/mymc",
+        "keywords": [
+          "PS2",
+          "memory card",
+          "PCSX2",
+          "PSU",
+          "MAX",
+          "save import",
+          "save export"
+        ]
+      },
+      {
+        "name": "mymc Revival Fork",
+        "url": "https://github.com/CalmCreative/mymc",
+        "keywords": [
+          "PS2",
+          "memory card",
+          "mymc",
+          "GUI",
+          "macOS",
+          "PSU",
+          "MAX"
+        ]
+      }
+    ]
+  }
+]
