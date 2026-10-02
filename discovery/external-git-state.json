@@ -5,6 +5,84 @@
       "apiBase": "https://git.techwritescode.dev/api/v1",
       "webBase": "https://git.techwritescode.dev",
       "label": "PS2BUILD SDK",
+      "repository": "ps2/vorbis"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/ninja"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/ps2link"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/ps2client"
+    },
+    {
+      "apiBase": "https://git.crustywindo.ws/api/v1",
+      "webBase": "https://git.crustywindo.ws",
+      "label": "ps2rom bare-metal replacement ROM",
+      "repository": "modeco80/ps2rom"
+    },
+    {
+      "apiBase": "https://git.wisellama.rocks/api/v1",
+      "webBase": "https://git.wisellama.rocks",
+      "label": "Open PS2 Loader Wisellama mirror",
+      "repository": "Mirrors/Open-PS2-Loader"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/ps2build"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/gcc"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/binutils-gdb"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/toolchain"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/masp"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/openvcl"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/newlib"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
       "repository": "ps2/pthread-embedded"
     },
     {
@@ -120,84 +198,6 @@
       "webBase": "https://git.techwritescode.dev",
       "label": "PS2BUILD SDK",
       "repository": "ps2/ogg"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/vorbis"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/ninja"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/ps2link"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/ps2client"
-    },
-    {
-      "apiBase": "https://git.crustywindo.ws/api/v1",
-      "webBase": "https://git.crustywindo.ws",
-      "label": "ps2rom bare-metal replacement ROM",
-      "repository": "modeco80/ps2rom"
-    },
-    {
-      "apiBase": "https://git.wisellama.rocks/api/v1",
-      "webBase": "https://git.wisellama.rocks",
-      "label": "Open PS2 Loader Wisellama mirror",
-      "repository": "Mirrors/Open-PS2-Loader"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/ps2build"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/gcc"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/binutils-gdb"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/toolchain"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/masp"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/openvcl"
-    },
-    {
-      "apiBase": "https://git.techwritescode.dev/api/v1",
-      "webBase": "https://git.techwritescode.dev",
-      "label": "PS2BUILD SDK",
-      "repository": "ps2/newlib"
     }
   ],
   "branchHeads": {
@@ -349,7 +349,25 @@
     "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.1710.2": "5468b0dd41e4016ccb83a2718af159d87b99bcf4",
     "https://git.techwritescode.dev/api/v1|ps2/newlib@cagney-unwind-20030108-branch": "6b2b7fecccd51ffb55430ef459450cca40d71740",
     "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.5.16": "f973bbed9887225a96541139710fba3a61eaeb23",
-    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.106.8": "afbd09c568a622746d250134ed170fd46153dce9"
+    "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.106.8": "afbd09c568a622746d250134ed170fd46153dce9",
+    "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded@platform_agnostic": "b1746fd2b52d5aeafc1173761eb50e0958e8994b",
+    "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded@master": "de43c65b16a71d00acca0deaa7332e3c1335a42d",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@main": "9b4570ad2abd0b3e2305a68f78b6b6d2cbbaf195",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@remove-claude-md": "1fe1a05395eac2d8c8f44c699ed6cf39bc8acfc8",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@lwip-upgrade": "f42906f249f380ff746d057c00fece69c86cd060",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@llvm": "b4b46628a84ccb7d3bf542286feccf59828f9eda",
+    "https://git.techwritescode.dev/api/v1|ps2/tools@main": "8bd85de96815bd01c0a7d7c3889b54915b9184e0",
+    "https://git.techwritescode.dev/api/v1|ps2/audsrv@main": "3ce3508445a487573a9995908d2607b8f4d370c8",
+    "https://git.techwritescode.dev/api/v1|ps2/ps2gl@master": "31d3c61b168bb675e8a7aeca75464f81e64a40db",
+    "https://git.techwritescode.dev/api/v1|ps2/ps2stuff@master": "6b2b0c06a5a7c32fbb3c03c292cacb82a7b3a569",
+    "https://git.techwritescode.dev/api/v1|ps2/romfs@master": "13607e2ab224ad39051117b8a2ab7c6ba3c6f991",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-world@master": "65e2100ff66f172afb42225df881c5770c3325b8",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-world@ioptrap-udptty": "e58b6bf3b5810c9de367546a69e240ba17cbdad6",
+    "https://git.techwritescode.dev/api/v1|ps2/setup-sdk@master": "031f27442052489f2e387d10ac05a7f3d45ec183",
+    "https://git.techwritescode.dev/api/v1|ps2/setup-ps2build@master": "2555df6b897ad0cb539d6887c274bfd4725071c4",
+    "https://git.techwritescode.dev/api/v1|ps2/setup-toolchain@master": "0bd04b0b519500fb4bc9dd9e4ae2f6553c21c252",
+    "https://git.techwritescode.dev/api/v1|ps2/install@master": "2c83edbf8202380824f9d3389e55795ddaa667d2",
+    "https://git.techwritescode.dev/api/v1|ps2/docs@master": "1a9514df60e9ebd22abedfaafb848484baaea1c8"
   },
   "branchPage": {
     "https://git.techwritescode.dev/api/v1|ps2/ps2build": 2,
@@ -422,17 +440,17 @@
     "https://git.wisellama.rocks/api/v1|Mirrors/Open-PS2-Loader": 1
   },
   "lastRun": {
-    "at": "2026-10-01T20:46:10.053Z",
+    "at": "2026-10-02T00:28:27.015Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 129,
-    "branchesChanged": 69,
-    "treesScanned": 69,
-    "reposAdded": 13,
+    "branchesSeen": 26,
+    "branchesChanged": 18,
+    "treesScanned": 18,
+    "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 69,
-    "nestedAdded": 338,
-    "requests": 152,
+    "branchesAdded": 0,
+    "nestedAdded": 239,
+    "requests": 101,
     "stoppedForBudget": false
   }
 }
