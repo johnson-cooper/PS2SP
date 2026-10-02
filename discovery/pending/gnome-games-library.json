@@ -2,7 +2,7 @@
   "repository": "Jackicus/GNOME-Games-Library",
   "repositoryId": "1386504039",
   "url": "https://github.com/Jackicus/GNOME-Games-Library",
-  "description": "Your Steam and PlayStation 2 games as a library in GNOME Shell, opened from a button beside Show Apps: in the overview, or in a panel that pops out of it.",
+  "description": "Your Steam and PlayStation 2 games as a library beside Show Apps, in GNOME Shell's overview or a pop-out panel.",
   "score": 75,
   "evidence": [
     "repository description explicitly identifies PS2",
@@ -12,5 +12,5 @@
   "maturity": "active-unreleased",
   "fork": null,
   "discoveredAt": "2026-09-29T00:28:49.765Z",
-  "checkedAt": "2026-10-01T14:52:44.353Z"
+  "checkedAt": "2026-10-02T01:49:16.953Z"
 }
