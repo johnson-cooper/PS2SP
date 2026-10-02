@@ -1,0 +1,508 @@
+[
+  {
+    "category": "PS2 Development Toolchains & SDKs",
+    "description": "Core open-source PlayStation 2 development environments, compilers, SDKs, ports, graphics libraries, packers, loaders, debuggers, and development aggregators.",
+    "links": [
+      {
+        "name": "ps2dev — Complete PS2 Development Environment",
+        "url": "https://github.com/ps2dev/ps2dev",
+        "keywords": [
+          "PS2",
+          "PS2DEV",
+          "toolchain",
+          "SDK",
+          "compiler",
+          "Docker",
+          "homebrew development"
+        ]
+      },
+      {
+        "name": "ps2dev — Prebuilt Development Environment Releases",
+        "url": "https://github.com/ps2dev/ps2dev/releases",
+        "keywords": [
+          "PS2",
+          "PS2DEV",
+          "toolchain",
+          "prebuilt",
+          "Windows",
+          "Linux",
+          "macOS",
+          "Docker"
+        ]
+      },
+      {
+        "name": "ps2toolchain — EE/IOP/DVP Compiler Toolchain",
+        "url": "https://github.com/ps2dev/ps2toolchain",
+        "keywords": [
+          "PS2",
+          "toolchain",
+          "GCC",
+          "binutils",
+          "newlib",
+          "EE",
+          "IOP",
+          "DVP"
+        ]
+      },
+      {
+        "name": "ps2toolchain-ee — Emotion Engine Compiler",
+        "url": "https://github.com/ps2dev/ps2toolchain-ee",
+        "keywords": [
+          "PS2",
+          "Emotion Engine",
+          "EE",
+          "compiler",
+          "GCC",
+          "binutils",
+          "newlib"
+        ]
+      },
+      {
+        "name": "ps2toolchain-iop — IOP Compiler",
+        "url": "https://github.com/ps2dev/ps2toolchain-iop",
+        "keywords": [
+          "PS2",
+          "IOP",
+          "compiler",
+          "GCC",
+          "binutils",
+          "toolchain"
+        ]
+      },
+      {
+        "name": "ps2toolchain-dvp — DVP/VU Compiler",
+        "url": "https://github.com/ps2dev/ps2toolchain-dvp",
+        "keywords": [
+          "PS2",
+          "DVP",
+          "VU",
+          "Vector Unit",
+          "compiler",
+          "toolchain"
+        ]
+      },
+      {
+        "name": "PS2SDK — Homebrew SDK",
+        "url": "https://github.com/ps2dev/ps2sdk",
+        "keywords": [
+          "PS2",
+          "PS2SDK",
+          "SDK",
+          "libraries",
+          "IOP",
+          "EE",
+          "homebrew development"
+        ]
+      },
+      {
+        "name": "PS2SDK API Documentation",
+        "url": "https://ps2dev.github.io/ps2sdk/",
+        "keywords": [
+          "PS2",
+          "PS2SDK",
+          "API",
+          "documentation",
+          "SDK",
+          "homebrew development"
+        ]
+      },
+      {
+        "name": "PS2DEV Getting Started",
+        "url": "https://ps2dev.github.io/",
+        "keywords": [
+          "PS2",
+          "PS2DEV",
+          "getting started",
+          "development",
+          "tutorial",
+          "toolchain"
+        ]
+      },
+      {
+        "name": "PS2SDK Ports",
+        "url": "https://github.com/ps2dev/ps2sdk-ports",
+        "keywords": [
+          "PS2",
+          "PS2SDK",
+          "ports",
+          "libraries",
+          "homebrew",
+          "development"
+        ]
+      },
+      {
+        "name": "gsKit — Graphics Synthesizer Toolkit",
+        "url": "https://github.com/ps2dev/gsKit",
+        "keywords": [
+          "PS2",
+          "gsKit",
+          "Graphics Synthesizer",
+          "GS",
+          "graphics",
+          "homebrew development"
+        ]
+      },
+      {
+        "name": "ps2-packer — PS2 ELF Packer",
+        "url": "https://github.com/ps2dev/ps2-packer",
+        "keywords": [
+          "PS2",
+          "ELF",
+          "packer",
+          "compression",
+          "homebrew development"
+        ]
+      },
+      {
+        "name": "ps2client — Desktop Client for ps2link",
+        "url": "https://github.com/ps2dev/ps2client",
+        "keywords": [
+          "PS2",
+          "ps2client",
+          "ps2link",
+          "hostfs",
+          "network development"
+        ]
+      },
+      {
+        "name": "ps2link — Network ELF Loader",
+        "url": "https://github.com/ps2dev/ps2link",
+        "keywords": [
+          "PS2",
+          "ps2link",
+          "ELF",
+          "network loader",
+          "debugging",
+          "development"
+        ]
+      },
+      {
+        "name": "ps2gdb — GNU Debugger Support for PS2",
+        "url": "https://github.com/ps2dev/ps2gdb",
+        "keywords": [
+          "PS2",
+          "GDB",
+          "debugger",
+          "debugging",
+          "development"
+        ]
+      },
+      {
+        "name": "ps2gl — OpenGL-like PS2 Graphics API",
+        "url": "https://github.com/ps2dev/ps2gl",
+        "keywords": [
+          "PS2",
+          "ps2gl",
+          "OpenGL",
+          "graphics",
+          "development"
+        ]
+      },
+      {
+        "name": "PS2 DEV WORLD — Development Resource Aggregator",
+        "url": "https://github.com/playstation2-development/ps2dev-world",
+        "keywords": [
+          "PS2",
+          "development",
+          "SDK",
+          "tools",
+          "tutorials",
+          "engines",
+          "video tutorials",
+          "YouTube channels"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Artwork, Themes & Visual Customization",
+    "description": "Artwork databases, OPL theme creation references, cover-art workflows, texture tools, save-icon tooling, and visual customization resources.",
+    "links": [
+      {
+        "name": "OPL Theme Creation Manual",
+        "url": "https://www.psx-place.com/threads/opl-theme-creation-manual.41893/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "theme",
+          "theme creation",
+          "art",
+          "tutorial",
+          "English",
+          "Spanish"
+        ]
+      },
+      {
+        "name": "OPL ART Images via USB Tutorial",
+        "url": "https://www.psx-place.com/threads/tutorial-art-images-in-opl-via-usb.41611/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "ART",
+          "covers",
+          "images",
+          "USB",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "OPL Theme Forge Discussion & Hi-Res ART Resources",
+        "url": "https://www.psx-place.com/threads/open-ps2-loader-theme-forge-discussion.20376/",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "themes",
+          "ART",
+          "HiRes covers",
+          "customization"
+        ]
+      },
+      {
+        "name": "PSX/PS2 OPL Art Database Archive",
+        "url": "https://github.com/Luden02/psx-ps2-opl-art-database",
+        "keywords": [
+          "PS2",
+          "PS1",
+          "OPL",
+          "art database",
+          "covers",
+          "backgrounds",
+          "screenshots",
+          "preservation"
+        ]
+      },
+      {
+        "name": "PS2 IconSys — Memory Card Icon Tools",
+        "url": "https://github.com/ticky/ps2iconsys",
+        "keywords": [
+          "PS2",
+          "icon.sys",
+          "memory card",
+          "save icon",
+          "icon editor",
+          "art tools"
+        ]
+      },
+      {
+        "name": "PS2 TIM2 Tool — Texture Conversion Toolkit",
+        "url": "https://github.com/PS2HomeDeveloper/ps2-tim2-tool",
+        "keywords": [
+          "PS2",
+          "TIM2",
+          "TM2",
+          "texture",
+          "CLUT",
+          "swizzle",
+          "mipmap",
+          "modding",
+          "art tools"
+        ]
+      },
+      {
+        "name": "TM2View — PS2 Texture Viewer",
+        "url": "https://github.com/MarkusMaal/TM2View",
+        "keywords": [
+          "PS2",
+          "TIM2",
+          "TM2",
+          "texture viewer",
+          "save icon",
+          "art tools"
+        ]
+      },
+      {
+        "name": "fsOPL — OPL Filesystem & ART Structure Reference",
+        "url": "https://github.com/azagramac/fsOPL",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "ART",
+          "COV",
+          "ICO",
+          "LAB",
+          "LGO",
+          "SCR",
+          "filesystem"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Library Managers & Custom Collection Tools",
+    "description": "Modern and legacy tools for managing OPL libraries, artwork, metadata, game naming, VMCs, cheats, storage layouts, and custom PS2 collections.",
+    "links": [
+      {
+        "name": "OrbitPS2 Manager",
+        "url": "https://github.com/Luden02/OrbitPS2-Manager",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "manager",
+          "artwork",
+          "VMC",
+          "PS1",
+          "POPS",
+          "ZSO",
+          "library"
+        ]
+      },
+      {
+        "name": "OrbitOPL Toolbox",
+        "url": "https://github.com/Luden02/OrbitOPL-Toolbox",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "toolbox",
+          "artwork",
+          "library manager",
+          "PS1",
+          "POPS"
+        ]
+      },
+      {
+        "name": "PS2 Manager — Tauri OPL Library Manager",
+        "url": "https://github.com/gpulch/ps2-manager",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "library manager",
+          "GameTDB",
+          "covers",
+          "cheats",
+          "VMC",
+          "Tauri"
+        ]
+      },
+      {
+        "name": "PyOPLM — Python OPL Manager",
+        "url": "https://github.com/edisnord/PyOPLM",
+        "keywords": [
+          "PS2",
+          "OPL",
+          "manager",
+          "Python",
+          "SMB",
+          "USB",
+          "POPS",
+          "artwork",
+          "ul.cfg"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Official Development Hardware & Historical SDK Context",
+    "description": "Documentation and preservation material covering Sony development hardware, TOOL systems, SDK-era workflows, and historical development infrastructure.",
+    "links": [
+      {
+        "name": "PS2 Developer Wiki — PlayStation 2 TOOL",
+        "url": "https://www.psdevwiki.com/ps2/PlayStation_2_Tool",
+        "keywords": [
+          "PS2",
+          "DTL-T10000",
+          "DTL-T15000",
+          "TOOL",
+          "Sony development hardware",
+          "DSNET",
+          "PIF"
+        ]
+      },
+      {
+        "name": "Internet Archive — PS2 TOOL General Guide",
+        "url": "https://archive.org/details/ps2_tool_guide",
+        "keywords": [
+          "PS2",
+          "TOOL",
+          "DTL-T10000",
+          "development kit",
+          "Sony",
+          "manual",
+          "archive"
+        ]
+      },
+      {
+        "name": "DTL-T15000 Documentation & Photos",
+        "url": "https://github.com/abelbriggs1/ps2-dtl15000-docs",
+        "keywords": [
+          "PS2",
+          "DTL-T15000",
+          "TOOL",
+          "development kit",
+          "photos",
+          "documentation"
+        ]
+      },
+      {
+        "name": "PS2 TOOL Printable Case Models",
+        "url": "https://github.com/slastrina/Sony_PS2_DTL-T10000_3dModels",
+        "keywords": [
+          "PS2",
+          "DTL-T10000",
+          "TOOL",
+          "3D model",
+          "case",
+          "development hardware"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Video Creators & Tutorials",
+    "description": "Video creators and individual tutorials covering PS2 softmodding, OPL, FreeMCBoot, HDD setups, MX4SIO, homebrew, and preservation workflows.",
+    "links": [
+      {
+        "name": "lost saves — PS2 HDD Softmod Tutorial",
+        "url": "https://www.youtube.com/watch?v=T55dWmn4-k4",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "OPL",
+          "HDD",
+          "FHDB",
+          "FreeMCBoot",
+          "MemCardPro2",
+          "tutorial"
+        ]
+      },
+      {
+        "name": "Lima112 — MX4SIO OPL Configuration Tutorial",
+        "url": "https://www.youtube.com/watch?v=oMNA4mTGp2s",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "MX4SIO",
+          "OPL",
+          "SD card",
+          "tutorial",
+          "Portuguese"
+        ]
+      },
+      {
+        "name": "Flippy — PS2 Soft Modding Overview",
+        "url": "https://www.youtube.com/watch?v=m-_OsND9ha4",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "FreeMCBoot",
+          "FreeDVDBoot",
+          "FreeHDBoot",
+          "softmod",
+          "homebrew"
+        ]
+      },
+      {
+        "name": "MCD Network — PS2 Soft Mod Guide",
+        "url": "https://www.youtube.com/watch?v=326Fzu_gy6o",
+        "keywords": [
+          "PS2",
+          "YouTube",
+          "FreeMCBoot",
+          "FreeDVDBoot",
+          "OPL",
+          "softmod",
+          "tutorial"
+        ]
+      }
+    ]
+  }
+]
