@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-09-26T13:25:53Z'
   url: 'https://github.com/Rickow/lecteur-ps2/releases/tag/v0.3.1'
 activity:
-  lastSynchronized: '2026-10-01T03:32:19.058Z'
+  lastSynchronized: '2026-10-02T20:45:44.044Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d20a5861a3357ff83c12674badd2580ac206b50f1b39ea49fbb7fcadcb275484"
-    releasesEtag: W/"5fba0494ec7f870ff1b38f1e1399e237399d034d079a5dcf54ee4a14d5f9fd84"
+    repoEtag: W/"20d8ebcf7d4a78452a293d71b28406cebb05e885a99353b456fdfea018aa3d1f"
+    releasesEtag: W/"b60ca526f9a084d673e5651f921e7758011e54cb9ba191c264360dd287ab94fb"
 discovery:
   method: 'incremental:topic:ps2'
   confidence: 100

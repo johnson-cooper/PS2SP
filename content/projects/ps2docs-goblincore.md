@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:58:32.409Z'
+  lastSynchronized: '2026-10-02T20:46:17.192Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"772b4f51c48956f415deadfb490995944e6bf2d1c82ccaa894d03b7ae6874fbc"
+    releasesEtag: '"ada49b6b807e93177c0d32f27098e7708d0c5756c8bde55ace7056d090b979e9"'
 discovery:
   method: 'fork-network:ninjadynamics/PS2Docs'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: ninjadynamics/PS2Docs
   source: ninjadynamics/PS2Docs
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -35,9 +35,12 @@ latestRelease:
   publishedAt: '2026-05-11T16:00:55Z'
   url: 'https://github.com/rodrigo1593-dev/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T14:27:09.988Z'
+  lastSynchronized: '2026-10-02T20:45:56.982Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b8a7bfba7e1c164f6b8da5411f2cc83785531f8ce911ecc710ca4d57ba3dc13f"
+    releasesEtag: W/"dc58bce68f256e66d30db8e70f584de991ac62344e0623df00af5dce7adb195d"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: ps2homebrew/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

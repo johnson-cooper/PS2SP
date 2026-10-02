@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:22:08.773Z'
+  lastSynchronized: '2026-10-02T20:45:48.087Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1ee95c42054ae9f39eb33a1ad71c2ab41c1b3d394b4210054945f97245ba7be0"
+    releasesEtag: '"ada49b6b807e93177c0d32f27098e7708d0c5756c8bde55ace7056d090b979e9"'
 discovery:
   method: 'fork-network:PCSX2/myMCpp'
   confidence: 100
@@ -45,5 +48,4 @@ relationships:
   forkOf: PCSX2/myMCpp
   source: PCSX2/myMCpp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
