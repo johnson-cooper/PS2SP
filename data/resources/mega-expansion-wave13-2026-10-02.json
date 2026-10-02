@@ -1,0 +1,139 @@
+[
+  {
+    "category": "Current PS2 Loaders & System Frontends",
+    "description": "Current and experimental PlayStation 2 frontends, bootloaders, configurators, and system-menu integrations maintained by the community.",
+    "links": [
+      {
+        "name": "LUNA — Lightweight Unified Neutrino Access",
+        "url": "https://www.psx-place.com/resources/luna-lightweight-unified-neutrino-access.1785/",
+        "keywords": [
+          "PS2",
+          "LUNA",
+          "Neutrino",
+          "NHDDL",
+          "exFAT",
+          "ATA",
+          "game loader",
+          "artwork"
+        ]
+      },
+      {
+        "name": "PlayStation Basic Bootloader Extended (PS2BBL E)",
+        "url": "https://www.psx-place.com/resources/playstation-basic-bootloader-extended-ps2bbl-e.1736/",
+        "keywords": [
+          "PS2",
+          "PS2BBL E",
+          "bootloader",
+          "autoboot",
+          "launch keys",
+          "KELF",
+          "MX4SIO",
+          "MMCE"
+        ]
+      },
+      {
+        "name": "R3Configurator — PS2 System Configuration Frontend",
+        "url": "https://psx-place.com/resources/r3configurator.1735/",
+        "keywords": [
+          "PS2",
+          "R3Configurator",
+          "FMCB",
+          "FHDB",
+          "OSDMenu",
+          "HOSDMenu",
+          "PS2BBL",
+          "PSXBBL"
+        ]
+      },
+      {
+        "name": "DESR XMB Installer",
+        "url": "https://www.psx-place.com/resources/desr-xmb-installer.1779/",
+        "keywords": [
+          "PS2",
+          "PSX DESR",
+          "XMB",
+          "homebrew installer",
+          "HDD",
+          "OPL",
+          "ISO",
+          "MX4SIO"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Exploit & Boot Package Collections",
+    "description": "Packaged exploit and boot environments that make PS2 homebrew entry points easier to install, recover, and preserve.",
+    "links": [
+      {
+        "name": "PSUja — PS2 Exploit Package Collection",
+        "url": "https://www.psx-place.com/resources/psuja.1570/",
+        "keywords": [
+          "PS2",
+          "PSUja",
+          "PSU",
+          "FMCB",
+          "OpenTuna",
+          "ProtoPwn",
+          "PS2BBL",
+          "VMC",
+          "SD2PSX"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS1 on PS2 — POPStarter Resources",
+    "description": "POPStarter installers, launch integrations, and utilities for organizing PlayStation software within PS2 homebrew frontends.",
+    "links": [
+      {
+        "name": "POPStarter Game Installer for OPL",
+        "url": "https://www.psx-place.com/resources/popstarter-game-installer-for-opl.1176/",
+        "keywords": [
+          "PS2",
+          "PS1",
+          "POPStarter",
+          "OPL",
+          "VCD",
+          "BIN",
+          "CUE",
+          "installer"
+        ]
+      },
+      {
+        "name": "POPSY-X — POPStarter & PS2SX XEB+ Integration",
+        "url": "https://www.psx-place.com/resources/popsy-x.1424/",
+        "keywords": [
+          "PS2",
+          "PS1",
+          "POPSY-X",
+          "POPStarter",
+          "PS2SX",
+          "XEB+",
+          "XtremeEliteBoot"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "PS2 Disc, Image & Preservation Tools",
+    "description": "Tools for preparing, patching, validating, and preserving PlayStation 2 and PlayStation disc images.",
+    "links": [
+      {
+        "name": "PlayStation Disc Burner (PSDB)",
+        "url": "https://www.psx-place.com/resources/playstation-disc-burner-psdb.1437/",
+        "keywords": [
+          "PS2",
+          "PS1",
+          "PSDB",
+          "disc burner",
+          "ESR",
+          "Master Disc",
+          "LibCrypt",
+          "VCD",
+          "Linux"
+        ]
+      }
+    ]
+  }
+]
