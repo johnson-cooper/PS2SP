@@ -17,7 +17,7 @@ license: GPL-3.0
 homepage: null
 source:
   provider: github
-  repository: TaylorNAlbarnaz/PS2Recomp
+  repository: LightVelox/PS2Recomp
   repositoryId: '1400859487'
 repository:
   archived: false
@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:58:32.409Z'
+  lastSynchronized: '2026-10-03T19:59:53.066Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6f53a78ed5fd01802f7324b7b0ee61c2fbbab6052ee31c024cd833a7b7c96277"
+    releasesEtag: '"39ecbb028f78daa89c503e80d10c6ce90f348651fad952d398b03e6ea7419959"'
 discovery:
   method: 'fork-network:ran-j/PS2Recomp'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: ran-j/PS2Recomp
   source: ran-j/PS2Recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

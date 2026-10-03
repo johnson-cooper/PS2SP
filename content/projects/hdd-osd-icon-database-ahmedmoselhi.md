@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T10:27:58.408Z'
+  lastSynchronized: '2026-10-03T19:59:24.441Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8f8cc73aff8f7df5ddbf893775fde21ae8ae12ae36cdcf9072592ef86b87ee38"
+    releasesEtag: '"39ecbb028f78daa89c503e80d10c6ce90f348651fad952d398b03e6ea7419959"'
 discovery:
   method: 'fork-network:CosmicScale/HDD-OSD-Icon-Database'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: CosmicScale/HDD-OSD-Icon-Database
   source: CosmicScale/HDD-OSD-Icon-Database
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

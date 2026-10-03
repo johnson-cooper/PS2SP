@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T18:50:06.212Z'
+  lastSynchronized: '2026-10-03T20:00:02.517Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"dabd83e35917b397952aaca49a945dab75cfb9645a489cd101f8cf8ea5aeefdc"
+    releasesEtag: '"39ecbb028f78daa89c503e80d10c6ce90f348651fad952d398b03e6ea7419959"'
 discovery:
   method: 'fork-network:frangarcj/superpsx'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: frangarcj/superpsx
   source: frangarcj/superpsx
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

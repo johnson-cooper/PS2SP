@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:58:32.409Z'
+  lastSynchronized: '2026-10-03T19:59:51.375Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ba506d26991e4b4d1d30e73b026440e1629a5d9b170a39d43ab77c8c57a1149b"
+    releasesEtag: '"39ecbb028f78daa89c503e80d10c6ce90f348651fad952d398b03e6ea7419959"'
 discovery:
   method: 'fork-network:caol64/ps2mc-browser'
   confidence: 100
@@ -45,5 +48,4 @@ relationships:
   forkOf: caol64/ps2mc-browser
   source: caol64/ps2mc-browser
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
