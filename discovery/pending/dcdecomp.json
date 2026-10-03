@@ -1,7 +1,7 @@
 {
-  "repository": "Adubbz/DCDecomp",
+  "repository": "TheMoonPeople/Chronicle",
   "repositoryId": "628511134",
-  "url": "https://github.com/Adubbz/DCDecomp",
+  "url": "https://github.com/TheMoonPeople/Chronicle",
   "description": "DCDecomp is a work-in-progress decompilation project for Dark Cloud for the PlayStation 2.",
   "score": 75,
   "evidence": [
@@ -12,5 +12,5 @@
   "maturity": "active-unreleased",
   "fork": null,
   "discoveredAt": "2026-09-29T00:28:41.380Z",
-  "checkedAt": "2026-10-01T17:09:08.395Z"
+  "checkedAt": "2026-10-03T14:55:33.658Z"
 }
