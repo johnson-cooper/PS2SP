@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T17:09:08.395Z'
+  lastSynchronized: '2026-10-03T00:31:24.581Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"70113c956adad847d8c0556a31d0b443c6e83ad0ce30f86be54698f4c346c511"
+    releasesEtag: '"f521e1d8b7f5d46abcb0e1c9cabd79b931fc80538f7519867e982eb896ac6c3a"'
 discovery:
   method: 'fork-network:ps2homebrew/PMAP'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: ps2homebrew/PMAP
   source: ps2homebrew/PMAP
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
