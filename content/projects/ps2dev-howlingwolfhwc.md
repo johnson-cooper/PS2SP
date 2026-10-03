@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: '2025-12-09T19:03:41Z'
   url: 'https://github.com/HowlingWolfHWC/ps2dev/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-02T09:01:16.324Z'
+  lastSynchronized: '2026-10-03T12:35:08.204Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"38348f8c1496d68d508d0d052a271bca710d81bdd112aa2a85cf3066a3be6775"
+    releasesEtag: W/"ac881b91b8b713fa40f25534675c42d11783ba04d64977dbc7290facdae4ac84"
 discovery:
   method: 'fork-network:ps2dev/ps2dev'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: ps2dev/ps2dev
   source: ps2dev/ps2dev
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

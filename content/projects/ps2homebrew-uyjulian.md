@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:58:32.409Z'
+  lastSynchronized: '2026-10-03T12:35:09.725Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"cf60d09fbc0554957be376d314018d31e555ef6c2174b7bfdb2cbd99d0a62c74"
+    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
 discovery:
   method: 'fork-network:ps2homebrew/ps2homebrew'
   confidence: 95
@@ -43,5 +46,4 @@ relationships:
   forkOf: ps2homebrew/ps2homebrew
   source: ps2homebrew/ps2homebrew
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

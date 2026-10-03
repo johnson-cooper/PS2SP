@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: '2024-10-01T15:08:03Z'
   url: 'https://github.com/FVSCyber/FreeMcBoot-Installer/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T05:10:46.442Z'
+  lastSynchronized: '2026-10-03T12:34:39.689Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"fe61b52315c8a9bcb01e44e1234917b7bf41ad07204b3b4c170a3ea6abb005ea"
+    releasesEtag: W/"11647d889dfca22c2a610261fe60490b86eb314d08ed9334b2f3100e28b52219"
 discovery:
   method: 'fork-network:israpps/FreeMcBoot-Installer'
   confidence: 95
@@ -52,5 +55,4 @@ relationships:
   forkOf: israpps/FreeMcBoot-Installer
   source: israpps/FreeMcBoot-Installer
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

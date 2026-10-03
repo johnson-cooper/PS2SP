@@ -29,9 +29,12 @@ latestRelease:
   url: >-
     https://github.com/NiV-L-A/CLPS2C-Compiler/releases/tag/CLPS2C-Compiler-1.0.5
 activity:
-  lastSynchronized: '2026-10-01T11:22:08.773Z'
+  lastSynchronized: '2026-10-03T12:34:34.494Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2fefabcf56188db40ecb3b42883cb9ecfe6d9ea572cc41f63d489310d91c7b19"
+    releasesEtag: W/"1a108f2d867f4d2defe1f66059a8c89b2da3e7ce97da941aa50dc149528564ad"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -44,5 +47,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

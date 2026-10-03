@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:17:04.836Z'
+  lastSynchronized: '2026-10-03T12:35:19.929Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"56864d9d657aa10c0bf16d6fd4523dd4047d267f4f720d021c44ceb45ebeddf9"
+    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
 discovery:
   method: 'incremental:"PS2 homebrew" in:name,description,readme'
   confidence: 95
@@ -49,5 +52,4 @@ relationships:
   forkOf: CosmicScale/PSBBN-Definitive-Project
   source: CosmicScale/PSBBN-Definitive-Project
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

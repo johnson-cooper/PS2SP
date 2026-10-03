@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:30:35.324Z'
+  lastSynchronized: '2026-10-03T12:34:32.550Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d16a797986276d3802581431fce7b2f1ceb4ef51159d5b4cd9f443c949372154"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"d51f52e49b8b82a6004ece07d77a0effb59a394c2e19d915c8c166c4768aca4e"
+    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
 discovery:
   method: 'fork-network:saildot4k/ATA-Assault'
   confidence: 100

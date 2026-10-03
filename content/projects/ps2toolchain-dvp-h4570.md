@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T00:44:41.508Z'
+  lastSynchronized: '2026-10-03T12:35:16.321Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"310bde7f6479d13b07fb94c73c07ea087e16258cdd1ac9aebe41616b70a76fb8"
+    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
 discovery:
   method: 'fork-network:ps2dev/ps2toolchain-dvp'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: ps2dev/ps2toolchain-dvp
   source: ps2dev/ps2toolchain-dvp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

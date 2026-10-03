@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T09:01:16.324Z'
+  lastSynchronized: '2026-10-03T12:35:05.594Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b0af994c969f0a2afe20fa6380f59771b649bd36ec216e93bb56fafbd02f97fb"
+    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: libretro/ps2
   source: libretro/ps2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

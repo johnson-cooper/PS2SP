@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T17:09:08.395Z'
+  lastSynchronized: '2026-10-03T12:35:00.573Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"25a5c5c9178446478e8de931164f70009ed6b073cf8d905198121b8b693fc8f3"
+    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
 discovery:
   method: 'fork-network:ps2homebrew/pgen'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: ps2homebrew/pgen
   source: ps2homebrew/pgen
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

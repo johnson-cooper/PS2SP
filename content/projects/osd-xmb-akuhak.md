@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T15:00:56.456Z'
+  lastSynchronized: '2026-10-03T12:34:54.329Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2b606237dfbe768d4f91e8c3d9bb90b79e4945eaa18eab05006b2f935906c4ce"
+    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
 discovery:
   method: 'fork-network:HiroTex/OSD-XMB'
   confidence: 100
@@ -45,5 +48,4 @@ relationships:
   forkOf: HiroTex/OSD-XMB
   source: HiroTex/OSD-XMB
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

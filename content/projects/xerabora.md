@@ -21,22 +21,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 28
+  stars: 36
   forks: 3
-  lastCommit: '2026-09-28T17:45:13Z'
+  lastCommit: '2026-10-02T15:41:17Z'
 latestRelease:
-  tag: v0.1.0-alpha.12
-  name: v0.1.0-alpha.12
-  publishedAt: '2026-09-26T15:50:07Z'
-  url: 'https://github.com/hacan359/xerabora/releases/tag/v0.1.0-alpha.12'
+  tag: v0.1.0-alpha.15
+  name: v0.1.0-alpha.15
+  publishedAt: '2026-10-02T15:43:16Z'
+  url: 'https://github.com/hacan359/xerabora/releases/tag/v0.1.0-alpha.15'
 activity:
   lastChecked: '2026-09-29T00:27:16.548Z'
-  lastSynchronized: '2026-09-29T02:37:39.623Z'
+  lastSynchronized: '2026-10-03T12:35:26.625Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6729a30e84137d202ebc041a835067754aed4b25621d07932c09f0a72345fef2"
-    releasesEtag: W/"b095079d7d37d8d4d0e932ac8ddc62d0a38888a2a6cd9234c11ddc4d2fe68a71"
+    repoEtag: W/"962dccde884a1f8c2c607a49e5c905657b927a936042ff5e2aaf2770f4ee1729"
+    releasesEtag: W/"a2a404db4cf24c62986376e1978182e0c8abd0829f7ca488fdd347a37e1101ad"
 discovery:
   method: github-search
   confidence: 100

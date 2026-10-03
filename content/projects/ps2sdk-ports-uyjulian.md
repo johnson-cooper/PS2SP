@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T20:58:56.837Z'
+  lastSynchronized: '2026-10-03T12:35:14.436Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"911e6a76a17e7589d34adf5acf64b777fd734f11a72ae810d85acf9b90d13c76"
+    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
 discovery:
   method: 'fork-network:ps2dev/ps2sdk-ports'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: ps2dev/ps2sdk-ports
   source: ps2dev/ps2sdk-ports
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

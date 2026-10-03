@@ -19,19 +19,23 @@ source:
   url: 'https://github.com/ravenDS/singstar-toolbox'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 31
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-09-23T11:21:36Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.6.0
+  name: SingStar Toolbox v1.6.0
+  publishedAt: '2026-09-23T11:15:26Z'
+  url: 'https://github.com/ravenDS/singstar-toolbox/releases/tag/v1.6.0'
 activity:
   lastChecked: '2026-09-29T09:05:43.442Z'
+  lastSynchronized: '2026-10-03T12:35:25.085Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8fe7215f258b1f411295034fcdf2be239cbf8fe80969f4fa3daca543cb6f887a"
+    releasesEtag: W/"8aacda42bb95e99208d74d53173b6f570ee7e72ed85dd1656231447881f91ba2"
 discovery:
   method: 'pending-promotion:incremental:topic:ps2'
   confidence: 80
@@ -44,5 +48,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

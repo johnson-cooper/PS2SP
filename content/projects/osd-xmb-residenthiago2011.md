@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-06-15T07:30:12Z'
   url: 'https://github.com/residenthiago2011/OSD-XMB/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T15:00:56.456Z'
+  lastSynchronized: '2026-10-03T12:34:54.844Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d1c7ea8166b885fec4caae880934300a9f438fe5eee4fd5e6f22c76a749675a1"
+    releasesEtag: W/"c14c09779f1ceaf720d25c4c59a59da271e30ae1ba565900b2d750fd58870e13"
 discovery:
   method: 'fork-network:HiroTex/OSD-XMB'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: HiroTex/OSD-XMB
   source: HiroTex/OSD-XMB
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

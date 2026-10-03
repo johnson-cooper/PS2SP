@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-09-18T09:22:38Z'
   url: 'https://github.com/dragoonDorise/pcsx2/releases/tag/arm-1.0'
 activity:
-  lastSynchronized: '2026-10-01T15:03:31.918Z'
+  lastSynchronized: '2026-10-03T12:34:55.787Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"398dd79d148c4ba147a2aea636f5897688cd338e1cb2b2a97a145690ca4f2078"
+    releasesEtag: W/"9a9aff9c8d15f5b957551a0df0313ddb6803a74b45cd568c963bb17bc92b54c8"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -10,8 +10,8 @@ tags:
   - active-unreleased
 features: []
 authors: []
-license: null
-homepage: null
+license: MIT
+homepage: 'https://tatsh.github.io/resonance/'
 source:
   provider: github
   repository: Tatsh/resonance
@@ -19,10 +19,10 @@ source:
   url: 'https://github.com/Tatsh/resonance'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-03T10:14:54Z'
 latestRelease:
   tag: null
   name: null
@@ -30,8 +30,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-09-29T00:28:43.161Z'
+  lastSynchronized: '2026-10-03T12:35:21.875Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5aa1f561097767b1a30a9e3a78e758524d8aae837658bcfcdfec3bf953b82747"
+    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 100
@@ -46,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.
