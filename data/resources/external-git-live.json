@@ -8331,6 +8331,20 @@
         ]
       },
       {
+        "name": "ps2/newlib@binutils-2_15-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-2_15-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "binutils-2_15-branch",
+          "include/mpw"
+        ]
+      },
+      {
         "name": "ps2/newlib@binutils-arc-20080908-branch — libgloss",
         "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/binutils-arc-20080908-branch/libgloss",
         "keywords": [
@@ -8384,6 +8398,20 @@
           "ps2/newlib",
           "binutils-arc-20080908-branch",
           "libgloss/pa"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cagney_bfdfile-20040213-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_bfdfile-20040213-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cagney_bfdfile-20040213-branch",
+          "include/mpw"
         ]
       },
       {
@@ -8541,6 +8569,20 @@
         ]
       },
       {
+        "name": "ps2/newlib@cagney_tramp-20040309-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_tramp-20040309-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cagney_tramp-20040309-branch",
+          "include/mpw"
+        ]
+      },
+      {
         "name": "ps2/newlib@cagney_writestrings-20030508-branch — include/mpw",
         "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cagney_writestrings-20030508-branch/include/mpw",
         "keywords": [
@@ -8621,6 +8663,118 @@
           "nested project",
           "ps2/newlib",
           "cgf-dev-branch",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x3b58 — winsup/cygserver",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x3b58/winsup/cygserver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x3b58",
+          "winsup/cygserver"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x3b58 — winsup/cygwin/regexp",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x3b58/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x3b58",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x3b58 — winsup/doc",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x3b58/winsup/doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x3b58",
+          "winsup/doc"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x3b58 — winsup/mingw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x3b58/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x3b58",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x3b58 — winsup/mingw/samples",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x3b58/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x3b58",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x3b58 — winsup/testsuite",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x3b58/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x3b58",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x5e6 — winsup/cygwin/regexp",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x5e6/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x5e6",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "ps2/newlib@cr-0x5ef — winsup/cygwin/regexp",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/cr-0x5ef/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "cr-0x5ef",
           "winsup/cygwin/regexp"
         ]
       },
@@ -9913,6 +10067,20 @@
         ]
       },
       {
+        "name": "ps2/newlib@ezannoni_pie-20040323-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/ezannoni_pie-20040323-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "ezannoni_pie-20040323-branch",
+          "include/mpw"
+        ]
+      },
+      {
         "name": "ps2/newlib@fp-zeuch — libgloss",
         "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/fp-zeuch/libgloss",
         "keywords": [
@@ -10091,6 +10259,20 @@
           "nested project",
           "ps2/newlib",
           "gdb_6_0-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "ps2/newlib@gdb_6_1-branch — include/mpw",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/gdb_6_1-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "gdb_6_1-branch",
           "include/mpw"
         ]
       },
@@ -10459,6 +10641,76 @@
         ]
       },
       {
+        "name": "ps2/newlib@newlib-autotools-branch — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-autotools-branch/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "newlib-autotools-branch",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib@newlib-autotools-branch — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-autotools-branch/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "newlib-autotools-branch",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib@newlib-autotools-branch — libgloss/m68k",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-autotools-branch/libgloss/m68k",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "newlib-autotools-branch",
+          "libgloss/m68k"
+        ]
+      },
+      {
+        "name": "ps2/newlib@newlib-autotools-branch — libgloss/pa",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-autotools-branch/libgloss/pa",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "newlib-autotools-branch",
+          "libgloss/pa"
+        ]
+      },
+      {
+        "name": "ps2/newlib@newlib-autotools-branch — newlib",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-autotools-branch/newlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "newlib-autotools-branch",
+          "newlib"
+        ]
+      },
+      {
         "name": "ps2/newlib@newlib-csl-20060320-branch — libgloss",
         "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/newlib-csl-20060320-branch/libgloss",
         "keywords": [
@@ -10526,6 +10778,20 @@
           "ps2/newlib",
           "newlib-csl-20060320-branch",
           "newlib"
+        ]
+      },
+      {
+        "name": "ps2/newlib@noreparent — winsup/cygwin/regexp",
+        "url": "https://git.techwritescode.dev/ps2/newlib/src/branch/noreparent/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib",
+          "noreparent",
+          "winsup/cygwin/regexp"
         ]
       },
       {
