@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-09-17T12:10:09Z'
   url: 'https://github.com/429Enjoyer/pcsx2-3d-ripper/releases/tag/v2.8.2'
 activity:
-  lastSynchronized: '2026-10-01T23:13:33.643Z'
+  lastSynchronized: '2026-10-03T23:05:23.717Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4c8c323307d6d46e1815bae593288d35c423d081d55af10f126778ae703b174c"
-    releasesEtag: W/"91d75c233434698ac079d1088ae7fb5f60fccba4649639d3a10b90be1054abc1"
+    repoEtag: W/"5716d267e05d6882f49dcabe3278bf85a3b58e9b760435038140b6084fcfaa50"
+    releasesEtag: W/"48efd3f062750e00bada1c4f7caf77e13d424c9d33285c09ee6696d854337c0c"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 95

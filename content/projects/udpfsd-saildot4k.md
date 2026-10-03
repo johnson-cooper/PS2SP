@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-05-19T01:34:11Z'
   url: 'https://github.com/saildot4k/udpfsd/releases/tag/nightly'
 activity:
-  lastSynchronized: '2026-10-03T18:50:06.212Z'
+  lastSynchronized: '2026-10-03T23:05:52.660Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"fc51bdbb09833143726eedefe9a4b64bdecb5a29bb4a7e87a3d59ba2f0b5519d"
+    releasesEtag: W/"34c6339e3134aed549eea50ce5234e36a0039f92d2d63619fe4b2ec1fe6f099b"
 discovery:
   method: 'fork-network:pcm720/udpfsd'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: pcm720/udpfsd
   source: pcm720/udpfsd
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

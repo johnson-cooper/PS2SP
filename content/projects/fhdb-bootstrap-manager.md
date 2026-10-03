@@ -29,12 +29,12 @@ latestRelease:
   url: 'https://github.com/PunishedSnake/fhdb-bootstrap-manager/releases/tag/v0.5.0'
 activity:
   lastChecked: '2026-09-29T00:27:01.624Z'
-  lastSynchronized: '2026-10-01T23:13:04.121Z'
+  lastSynchronized: '2026-10-03T23:04:56.661Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"eebfb7a285b72ab5ceaa9543a809ce64408891138d88e29d3cdcea64e4e91f6d"
-    releasesEtag: W/"efdccd00ccb473da8af675aa20a4740b10dca7603ea1381970b1a7e93953add5"
+    repoEtag: W/"ee2cf3ed81d83b0e1f8259de64e58e40eeaa0baac72c2a135b92bdaa67c36b85"
+    releasesEtag: W/"4064455d0cadbc5dd4179b72e549d19dc43c0290ee150e1014ad9429c5af44c1"
 discovery:
   method: github-search
   confidence: 100
