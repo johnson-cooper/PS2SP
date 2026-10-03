@@ -22,16 +22,19 @@ repository:
   defaultBranch: filter2d
   stars: 0
   forks: 0
-  lastCommit: '2026-09-29T15:50:26Z'
+  lastCommit: '2026-10-02T22:17:57Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T15:03:31.918Z'
+  lastSynchronized: '2026-10-03T06:34:09.611Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5eba509329eb4533230060ec075c5dcd7eb05cedec17d2159b69e33a8f1eee81"
+    releasesEtag: '"089683c071042ad1545a239b9432414c25cabe2d39fe188ff3eb2193f25c0681"'
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

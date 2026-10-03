@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2023-05-22T01:20:33Z'
   url: 'https://github.com/ps2dbg/RDB/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-10-01T11:22:08.773Z'
+  lastSynchronized: '2026-10-03T06:34:35.983Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"19c4eb4c8205758ee8eda9813099b5d8a91eac81eedf6ad5e7e7d692785433cc"
+    releasesEtag: W/"14b42ddf993a2dd838125502068e7dd48351f494d5b5516f1889ceec6f67250d"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -40,5 +43,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

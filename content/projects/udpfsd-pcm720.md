@@ -17,7 +17,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 32
+  stars: 34
   forks: 7
   lastCommit: '2026-08-06T16:06:22Z'
 latestRelease:
@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-08-04T21:32:58Z'
   url: 'https://github.com/pcm720/udpfsd/releases/tag/v0.1.7'
 activity:
-  lastSynchronized: '2026-09-30T06:44:00.250Z'
+  lastSynchronized: '2026-10-03T06:34:38.664Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9e85d2bc024d28e46f467023b863a1170845036477a39fbf396c73ed536ff747"
-    releasesEtag: W/"489f25bb38b89def8a5ca293e200972db5451d99b083c98d2afc62d04dad59b2"
+    repoEtag: W/"604b341216611e19f270f2dabf2c6a88e40ef4bcf9c987ca93de2991beafaae1"
+    releasesEtag: W/"6176e16c2da2a15f75e81721104bb6ee6596d6e7b261780a8bc8c88eb318ad91"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
