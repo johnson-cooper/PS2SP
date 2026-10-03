@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2018-12-14T00:29:42Z'
   url: 'https://github.com/gdomingues/ps2-klient/releases/tag/v0.3.0'
 activity:
-  lastSynchronized: '2026-09-29T09:05:43.442Z'
+  lastSynchronized: '2026-10-03T17:17:54.960Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"18beea0c9902f4ba0e9a9767a5138c73cae00013f37a367dfcffc67d4f9914ec"
+    releasesEtag: W/"85ba8b1ae1ed14212de7fa63a63c4cc2edf71f70b5cb783ccbcd164ea5dc4921"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100
@@ -42,5 +45,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

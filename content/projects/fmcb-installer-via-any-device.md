@@ -30,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/NathanNeurotic/FMCB-Installer-Via-Any-Device/releases/tag/v1.0
 activity:
-  lastSynchronized: '2026-10-01T03:31:52.670Z'
+  lastSynchronized: '2026-10-03T17:17:25.956Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c28504f8f251f743cb5264057b5e4d73d53049e6ec3c1e71854c1bc79e46476f"
-    releasesEtag: W/"02910f11e6809cc62d031d6aaef3d83e18d55cc913a1eb85efbed0eea5d4683e"
+    repoEtag: W/"bf89110972676b98e3ffbe1dd682af32156d7f5d24d84ade377ac4ba9f26819e"
+    releasesEtag: W/"a91beed6c328b2de89ca25b015d0ee3c844f9bf50bc2bc9d82c0feae4b051a0e"
 discovery:
   method: curated-owner
   confidence: 100

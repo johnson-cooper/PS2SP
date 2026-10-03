@@ -20,7 +20,7 @@ source:
 repository:
   archived: false
   defaultBranch: neural-rendering
-  stars: 0
+  stars: 1
   forks: 0
   lastCommit: '2026-10-01T08:11:30Z'
 latestRelease:
@@ -30,9 +30,12 @@ latestRelease:
   url: >-
     https://github.com/MarcPique/PCSX2-with-Neural-Rendering/releases/tag/v0.1.1-neural
 activity:
-  lastSynchronized: '2026-10-01T15:03:31.918Z'
+  lastSynchronized: '2026-10-03T17:17:47.534Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5784d29bdae379592c1a73b2efecc8d6ba0ed8649ac89105a73d66167ebd0b6f"
+    releasesEtag: W/"a67298e295ccbc52e67d420470a7a52690d77b63f97b1eea90052630f1145996"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

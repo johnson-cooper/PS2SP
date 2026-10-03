@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T05:08:46.679Z'
+  lastSynchronized: '2026-10-03T17:17:25.001Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"adc4fe766a48ba21bb35d80a6b6b281ad40f793c37185fc2ec9b3e30ec3e560f"
+    releasesEtag: '"37d53f297b02491206d017408b7e746fc430023590ffcd9ca760caf0a834e39d"'
 discovery:
   method: 'fork-network:ps2homebrew/Fceumm-PS2'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: ps2homebrew/Fceumm-PS2
   source: ps2homebrew/Fceumm-PS2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
