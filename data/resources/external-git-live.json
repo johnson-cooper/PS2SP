@@ -145,6 +145,34 @@
         ]
       },
       {
+        "name": "PS2BUILD SDK — ps2/llvm",
+        "url": "https://git.techwritescode.dev/ps2/llvm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/llvm",
+          "LLVM"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/llvm-toolchain",
+        "url": "https://git.techwritescode.dev/ps2/llvm-toolchain",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/llvm-toolchain",
+          "Shell"
+        ]
+      },
+      {
         "name": "PS2BUILD SDK — ps2/masp",
         "url": "https://git.techwritescode.dev/ps2/masp",
         "keywords": [
@@ -172,6 +200,20 @@
           "ps2/newlib",
           "C",
           "mirror"
+        ]
+      },
+      {
+        "name": "PS2BUILD SDK — ps2/newlib-llvm",
+        "url": "https://git.techwritescode.dev/ps2/newlib-llvm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/newlib-llvm",
+          "C"
         ]
       },
       {
@@ -672,6 +714,42 @@
           "branch",
           "ps2/libpng",
           "master"
+        ]
+      },
+      {
+        "name": "ps2/llvm — branch: main",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/llvm",
+          "main"
+        ]
+      },
+      {
+        "name": "ps2/llvm — branch: r5900-ee",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/llvm",
+          "r5900-ee"
+        ]
+      },
+      {
+        "name": "ps2/llvm-toolchain — branch: main",
+        "url": "https://git.techwritescode.dev/ps2/llvm-toolchain/src/branch/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/llvm-toolchain",
+          "main"
         ]
       },
       {
@@ -4152,6 +4230,30 @@
           "branch",
           "ps2/newlib",
           "Z-emcb-cygwin_daemon"
+        ]
+      },
+      {
+        "name": "ps2/newlib-llvm — branch: ee-v4.6.0",
+        "url": "https://git.techwritescode.dev/ps2/newlib-llvm/src/branch/ee-v4.6.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib-llvm",
+          "ee-v4.6.0"
+        ]
+      },
+      {
+        "name": "ps2/newlib-llvm — branch: ee-v4.6.0-llvm",
+        "url": "https://git.techwritescode.dev/ps2/newlib-llvm/src/branch/ee-v4.6.0-llvm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/newlib-llvm",
+          "ee-v4.6.0-llvm"
         ]
       },
       {
@@ -8199,6 +8301,398 @@
         ]
       },
       {
+        "name": "ps2/llvm@main — .ci/buildbot",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/main/.ci/buildbot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "main",
+          ".ci/buildbot"
+        ]
+      },
+      {
+        "name": "ps2/llvm@main — bolt",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/main/bolt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "main",
+          "bolt"
+        ]
+      },
+      {
+        "name": "ps2/llvm@main — bolt/cmake/modules",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/main/bolt/cmake/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "main",
+          "bolt/cmake/modules"
+        ]
+      },
+      {
+        "name": "ps2/llvm@main — bolt/docs",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/main/bolt/docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "main",
+          "bolt/docs"
+        ]
+      },
+      {
+        "name": "ps2/llvm@main — bolt/lib",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/main/bolt/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "main",
+          "bolt/lib"
+        ]
+      },
+      {
+        "name": "ps2/llvm@main — bolt/lib/Core",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/main/bolt/lib/Core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "main",
+          "bolt/lib/Core"
+        ]
+      },
+      {
+        "name": "ps2/llvm@main — bolt/lib/Passes",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/main/bolt/lib/Passes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "main",
+          "bolt/lib/Passes"
+        ]
+      },
+      {
+        "name": "ps2/llvm@main — bolt/lib/Profile",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/main/bolt/lib/Profile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "main",
+          "bolt/lib/Profile"
+        ]
+      },
+      {
+        "name": "ps2/llvm@main — bolt/lib/Rewrite",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/main/bolt/lib/Rewrite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "main",
+          "bolt/lib/Rewrite"
+        ]
+      },
+      {
+        "name": "ps2/llvm@main — bolt/lib/RuntimeLibs",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/main/bolt/lib/RuntimeLibs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "main",
+          "bolt/lib/RuntimeLibs"
+        ]
+      },
+      {
+        "name": "ps2/llvm@main — bolt/lib/Utils",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/main/bolt/lib/Utils",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "main",
+          "bolt/lib/Utils"
+        ]
+      },
+      {
+        "name": "ps2/llvm@main — bolt/runtime",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/main/bolt/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "main",
+          "bolt/runtime"
+        ]
+      },
+      {
+        "name": "ps2/llvm@main — bolt/test",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/main/bolt/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "main",
+          "bolt/test"
+        ]
+      },
+      {
+        "name": "ps2/llvm@main — bolt/test/Unit",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/main/bolt/test/Unit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "main",
+          "bolt/test/Unit"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-ee — .ci/buildbot",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-ee/.ci/buildbot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-ee",
+          ".ci/buildbot"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-ee — bolt",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-ee/bolt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-ee",
+          "bolt"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-ee — bolt/cmake/modules",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-ee/bolt/cmake/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-ee",
+          "bolt/cmake/modules"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-ee — bolt/docs",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-ee/bolt/docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-ee",
+          "bolt/docs"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-ee — bolt/lib",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-ee/bolt/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-ee",
+          "bolt/lib"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-ee — bolt/lib/Core",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-ee/bolt/lib/Core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-ee",
+          "bolt/lib/Core"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-ee — bolt/lib/Passes",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-ee/bolt/lib/Passes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-ee",
+          "bolt/lib/Passes"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-ee — bolt/lib/Profile",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-ee/bolt/lib/Profile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-ee",
+          "bolt/lib/Profile"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-ee — bolt/lib/Rewrite",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-ee/bolt/lib/Rewrite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-ee",
+          "bolt/lib/Rewrite"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-ee — bolt/lib/RuntimeLibs",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-ee/bolt/lib/RuntimeLibs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-ee",
+          "bolt/lib/RuntimeLibs"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-ee — bolt/lib/Utils",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-ee/bolt/lib/Utils",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-ee",
+          "bolt/lib/Utils"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-ee — bolt/runtime",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-ee/bolt/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-ee",
+          "bolt/runtime"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-ee — bolt/test",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-ee/bolt/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-ee",
+          "bolt/test"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-ee — bolt/test/Unit",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-ee/bolt/test/Unit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-ee",
+          "bolt/test/Unit"
+        ]
+      },
+      {
         "name": "ps2/masp@master — src",
         "url": "https://git.techwritescode.dev/ps2/masp/src/branch/master/src",
         "keywords": [
@@ -8238,6 +8732,62 @@
           "ps2/masp",
           "master",
           "test/unit"
+        ]
+      },
+      {
+        "name": "ps2/newlib-llvm@ee-v4.6.0 — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib-llvm/src/branch/ee-v4.6.0/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib-llvm",
+          "ee-v4.6.0",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib-llvm@ee-v4.6.0 — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib-llvm/src/branch/ee-v4.6.0/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib-llvm",
+          "ee-v4.6.0",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "ps2/newlib-llvm@ee-v4.6.0-llvm — libgloss",
+        "url": "https://git.techwritescode.dev/ps2/newlib-llvm/src/branch/ee-v4.6.0-llvm/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib-llvm",
+          "ee-v4.6.0-llvm",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "ps2/newlib-llvm@ee-v4.6.0-llvm — libgloss/hp74x",
+        "url": "https://git.techwritescode.dev/ps2/newlib-llvm/src/branch/ee-v4.6.0-llvm/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/newlib-llvm",
+          "ee-v4.6.0-llvm",
+          "libgloss/hp74x"
         ]
       },
       {
