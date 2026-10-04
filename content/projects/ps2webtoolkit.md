@@ -1,7 +1,7 @@
 ---
 name: ps2webtoolkit
 slug: ps2webtoolkit
-summary: "Web-based toolkit and documentation generator for PlayStation 2 development."
+summary: Web-based toolkit and documentation generator for PlayStation 2 development.
 categories:
   - development
   - host-tools
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T19:59:58.005Z'
+  lastSynchronized: '2026-10-04T19:38:45.698Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"461f53a57ee69557fb6b21bcd89d2e88aa23a34d1f2b9c3f10b1e1554c09db58"
-    releasesEtag: '"39ecbb028f78daa89c503e80d10c6ce90f348651fad952d398b03e6ea7419959"'
+    repoEtag: W/"4a71429f93539c66c60b7884bd28926ac9f1d00d0abe6bc2f417e89a21bacffe"
+    releasesEtag: '"c3e1ce6b3a20a0f838b2575890f2460f8868a06dc7cb6fca6ad54170fd6df97a"'
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 95

@@ -18,18 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 2095
+  stars: 2107
   forks: 150
-  lastCommit: '2026-10-03T23:34:39Z'
+  lastCommit: '2026-10-04T18:14:40Z'
 latestRelease:
   tag: '2.8'
   name: 'ARMSX2 2.8 '
   publishedAt: '2026-10-03T23:34:39Z'
   url: 'https://github.com/ARMSX2/ARMSX2/releases/tag/2.8'
 activity:
-  lastSynchronized: '2026-10-04T01:00:16.356Z'
+  lastSynchronized: '2026-10-04T19:37:54.913Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"56860b13173ee93a4f8a6462dc2e0be5a55840ccd66e67880e6d6d5f62324fde"
+    releasesEtag: W/"55d6e84d4d9fccc50122e0a45f4f9c7efd823bdb3e6051b095218134d1cdb5f7"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

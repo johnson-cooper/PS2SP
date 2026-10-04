@@ -1,7 +1,9 @@
 ---
 name: HDDChecker
 slug: hddchecker-ahmedmoselhi
-summary: "PlayStation 2 hard disk diagnostic utility that checks surface health, verifies APA partitions, and repairs file systems."
+summary: >-
+  PlayStation 2 hard disk diagnostic utility that checks surface health,
+  verifies APA partitions, and repairs file systems.
 categories:
   - utilities
 tags:
@@ -30,12 +32,12 @@ latestRelease:
   publishedAt: '2022-10-08T18:48:38Z'
   url: 'https://github.com/ahmedmoselhi/HDDChecker/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-03T19:59:24.895Z'
+  lastSynchronized: '2026-10-04T19:38:08.428Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"036331c0b08dbe7270f87c4a2d53aef4aa3958b640210d64c8ec0e5c029cd284"
-    releasesEtag: W/"f699526ed597d11cc298b4dae246ede47b43fbd2599da34b80d83ea097168bdb"
+    repoEtag: W/"323734773de50b6507c4905fb545fe87aa06b2c974309101df7855365dbf8b4a"
+    releasesEtag: W/"b95dd39941502a92131a76d1994c74033b85382d62785f7aba10335dbc87fe1d"
 discovery:
   method: 'fork-network:ps2homebrew/HDDChecker'
   confidence: 100

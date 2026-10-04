@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/jeddyhhh/TW04OnlineServer/releases/tag/release'
 activity:
   lastChecked: '2026-09-29T09:05:43.442Z'
-  lastSynchronized: '2026-10-03T20:00:03.354Z'
+  lastSynchronized: '2026-10-04T19:38:51.598Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2b78f1a1db887273cfb0be0b9059b3da039c5224b0ef8b70e3c1d5ea39046790"
-    releasesEtag: W/"a336da5dd1956945e4e2cc6e6c9272ec5af056f38b8ca893695e6e07b3da502c"
+    repoEtag: W/"94441f82c8da720db6e4990ee3298fc63ea58ed55ebb3861a7a0759a09dfea9e"
+    releasesEtag: W/"f71b1405cb07d5573afcd1693a41b83851ad8d7015740e505d7ec66abda611d8"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 70

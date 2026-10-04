@@ -1,7 +1,9 @@
 ---
 name: ps2
 slug: ps2-retroxr
-summary: "PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation frontend support on PS2."
+summary: >-
+  PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation
+  frontend support on PS2.
 categories:
   - emulators
   - ports
@@ -23,19 +25,19 @@ repository:
   defaultBranch: retroxr
   stars: 0
   forks: 0
-  lastCommit: '2026-09-22T23:59:18Z'
+  lastCommit: '2026-10-04T01:48:24Z'
 latestRelease:
-  tag: retroxr-pcsx2-libretro-v1
-  name: retroXR LRPS2 (libretro) retroxr-pcsx2-libretro-v1
-  publishedAt: '2026-09-22T23:59:18Z'
-  url: 'https://github.com/RetroXR/ps2/releases/tag/retroxr-pcsx2-libretro-v1'
+  tag: retroxr-pcsx2-libretro-v2
+  name: retroXR LRPS2 (libretro) retroxr-pcsx2-libretro-v2
+  publishedAt: '2026-10-04T01:53:01Z'
+  url: 'https://github.com/RetroXR/ps2/releases/tag/retroxr-pcsx2-libretro-v2'
 activity:
-  lastSynchronized: '2026-10-03T19:59:49.350Z'
+  lastSynchronized: '2026-10-04T19:38:35.373Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"67e73fcd089e3b953a39e5013856cc818cf68bb685f50689242edd12f5387db4"
-    releasesEtag: W/"da9f203a88178697533c921707a7fb29e4e8f44be0204b7492d24740f6ffd770"
+    repoEtag: W/"7eb92d1d5226117d7d17a128939f047bd0719ae01e8696dedc01c2281f570946"
+    releasesEtag: W/"c35cb38ade65974b9d5f245aa9b9f3cb0584b6277ab81e628516a6b7c41d06b4"
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 100

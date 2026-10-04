@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2025-11-06T06:45:40Z'
   url: 'https://github.com/wiibur/HDLGameInstaller/releases/tag/v1.0.1'
 activity:
-  lastSynchronized: '2026-10-03T19:59:26.270Z'
+  lastSynchronized: '2026-10-04T19:38:09.774Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4656ab81931f936a67e82326e9ed3318ac3ba28c7b4e83ea433af88983273705"
-    releasesEtag: W/"8cdcd51a35c95a7a24997fb93e1791ec9319dfc5f2109d672657bcbaed8eaf07"
+    repoEtag: W/"376912a753cc9333969ad89d638890d2ce83eb68c6605e5a7b6e0bb9c624e767"
+    releasesEtag: W/"7a4fdf8752d0fe9b24435f0df9efd852bbc56e08bb2f173c94e190c17d311f8e"
 discovery:
   method: 'fork-network:ps2homebrew/HDLGameInstaller'
   confidence: 100

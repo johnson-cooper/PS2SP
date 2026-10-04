@@ -1,7 +1,9 @@
 ---
 name: ps2-covers
 slug: ps2-covers-vibranttreestump
-summary: "Community collection of PlayStation 2 3D and 2D box art covers formatted for Open PS2 Loader (OPL) and PCSX2."
+summary: >-
+  Community collection of PlayStation 2 3D and 2D box art covers formatted for
+  Open PS2 Loader (OPL) and PCSX2.
 categories:
   - themes
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T19:59:46.065Z'
+  lastSynchronized: '2026-10-04T19:38:31.652Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ad59e27c28dc6c9c0241d08781074a242806703ff1a0240f1e4d5c03ffd71d3e"
-    releasesEtag: '"39ecbb028f78daa89c503e80d10c6ce90f348651fad952d398b03e6ea7419959"'
+    repoEtag: W/"2922c6614609ac60d4cd8e5181699d8da0647011864b6f69542a6a8f87f03f37"
+    releasesEtag: '"c3e1ce6b3a20a0f838b2575890f2460f8868a06dc7cb6fca6ad54170fd6df97a"'
 discovery:
   method: 'fork-network:xlenore/ps2-covers'
   confidence: 100
