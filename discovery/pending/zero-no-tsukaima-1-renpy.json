@@ -1,0 +1,16 @@
+{
+  "repository": "timeasoff/Zero-no-Tsukaima-1-RenPy",
+  "repositoryId": "1227603648",
+  "url": "https://github.com/timeasoff/Zero-no-Tsukaima-1-RenPy",
+  "description": "Remaster of Zero no Tsukaima - Koakuma to Harukaze no Concerto (PS2 to Renpy)",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-04T01:00:16.356Z",
+  "checkedAt": "2026-10-04T01:00:16.356Z"
+}
