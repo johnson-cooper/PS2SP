@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T22:32:01.981Z'
+  lastSynchronized: '2026-10-04T23:10:55.945Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ca234d562a9a33e1e2c5788e40059d5783bd2859be60126f598131e2f11df2fa"
+    releasesEtag: '"61757e3d64c94fb335698aebfa6b9571b39b33da64902db3a913fc96d3ebae9b"'
 discovery:
   method: 'fork-network:israpps/Enceladus'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: israpps/Enceladus
   source: DanielSant0s/Enceladus
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

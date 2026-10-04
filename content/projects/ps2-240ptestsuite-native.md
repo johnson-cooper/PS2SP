@@ -1,7 +1,9 @@
 ---
 name: ps2-240ptestsuite-native
 slug: ps2-240ptestsuite-native
-summary: "Native PlayStation 2 port of the 240p Test Suite for evaluating CRT monitors and upscalers."
+summary: >-
+  Native PlayStation 2 port of the 240p Test Suite for evaluating CRT monitors
+  and upscalers.
 categories:
   - utilities
   - ports
@@ -28,12 +30,12 @@ latestRelease:
   url: 'https://github.com/jimmyBizMobile/ps2-240ptestsuite-native/releases/tag/v2.0'
 activity:
   lastChecked: '2026-09-29T00:29:08.414Z'
-  lastSynchronized: '2026-10-03T23:05:28.079Z'
+  lastSynchronized: '2026-10-04T23:11:27.721Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"400d9d011daef8e263b97581fc94b6d6f3ce3e1991b5657502527f4a63d2a522"
-    releasesEtag: W/"45292ce892086efbb6f5ba12632ee60177053b6f29d195a8a5b413c826d0ffaa"
+    repoEtag: W/"6364b3830feafdd67320578bbcbc9742fd06f0b9493411c680fa7c76fa0da30a"
+    releasesEtag: W/"98ebbec1ffe284fc8d7f2d208014e735d632938cc0aa86b325f856793994e0aa"
 discovery:
   method: github-search
   confidence: 100

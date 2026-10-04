@@ -1,7 +1,9 @@
 ---
 name: RE4_PS2_MOD_WORKSPACE
 slug: re4-ps2-mod-workspace
-summary: "Modding workspace and asset extraction toolset for Resident Evil 4 on PlayStation 2."
+summary: >-
+  Modding workspace and asset extraction toolset for Resident Evil 4 on
+  PlayStation 2.
 categories:
   - preservation
   - development
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: '2026-10-03T00:07:10Z'
   url: 'https://github.com/christianmateus/RE4_PS2_MOD_WORKSPACE/releases/tag/v0.9.0'
 activity:
-  lastSynchronized: '2026-10-03T23:05:45.327Z'
+  lastSynchronized: '2026-10-04T23:11:43.421Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"51acf4d514621fa9ca1fafe58ea99b571a1b6be129fb30f62614ab06b02d976c"
-    releasesEtag: W/"bc5570e4a797e91e2b486a6450e090e66fa808075f2fde4da03b5c4c4c00982f"
+    repoEtag: W/"871348f278978cc34802c4325846dbdade4bf1128caf4921df991f4277b07761"
+    releasesEtag: W/"22932cd7027c6bec8478e304645fd4197f14f0950fa81d5248ee008587f7ee0f"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

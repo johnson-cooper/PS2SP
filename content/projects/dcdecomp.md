@@ -18,7 +18,7 @@ license: null
 homepage: null
 source:
   provider: github
-  repository: Plarpoon/DCDecomp
+  repository: Plarpoon/Chronicle
   repositoryId: '990912200'
   url: 'https://github.com/Plarpoon/DCDecomp'
 repository:
@@ -26,7 +26,7 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-03T21:52:15Z'
+  lastCommit: '2026-10-04T08:26:29Z'
 latestRelease:
   tag: null
   name: null
@@ -34,12 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-01T03:27:44.437Z'
-  lastSynchronized: '2026-10-03T23:04:55.028Z'
+  lastSynchronized: '2026-10-04T23:10:54.953Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4b3833aa9a50bb1c9fc3425569a8c51cb749fd31faf1922a8e8d763aba8bcfe3"
-    releasesEtag: '"eff441420b9f37d0682a3b5b87607fca0b4a6609b1e9445c3d202971df108992"'
+    repoEtag: W/"b76c3521e3aa2ba384f53a055074739b3b315a3bc16d7801842e0a21de063924"
+    releasesEtag: '"61757e3d64c94fb335698aebfa6b9571b39b33da64902db3a913fc96d3ebae9b"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85

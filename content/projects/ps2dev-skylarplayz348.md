@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2025-07-11T23:15:06Z'
   url: 'https://github.com/SkylarPlayz348/ps2dev/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-03T23:05:32.671Z'
+  lastSynchronized: '2026-10-04T23:11:32.107Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"23cb2f44381857a3f48c8aa394bab29a662d78d782b5433d5660321359f33a32"
-    releasesEtag: W/"dabe72e1433fa869930614e89d5bcbb2414d46245decdd80f1d844edc1f50695"
+    repoEtag: W/"97a41cce4ddcb8b7e217cf40d146739b2830c4411e3a6c2b9125d2ec1dfb64ee"
+    releasesEtag: W/"a05c039a19eb8c7b64b8ed60590ac01a1e26f7c1b25126fb21183a315e8c4a0d"
 discovery:
   method: 'fork-network:ps2dev/ps2dev'
   confidence: 100

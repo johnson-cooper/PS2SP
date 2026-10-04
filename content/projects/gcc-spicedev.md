@@ -1,7 +1,9 @@
 ---
 name: gcc
 slug: gcc-spicedev
-summary: "GNU Compiler Collection (GCC) cross-compiler toolchain ports targeting the PlayStation 2 Emotion Engine and IOP processors."
+summary: >-
+  GNU Compiler Collection (GCC) cross-compiler toolchain ports targeting the
+  PlayStation 2 Emotion Engine and IOP processors.
 categories:
   - sdks
   - development
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T23:05:02.672Z'
+  lastSynchronized: '2026-10-04T23:11:04.068Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"071819ecbaf21f3f3944e8333e1f412fab5704039b6c30a388fc24cf13de310f"
-    releasesEtag: '"eff441420b9f37d0682a3b5b87607fca0b4a6609b1e9445c3d202971df108992"'
+    repoEtag: W/"f907f0c9921e46489d78cd070dd75c7006aac73aa73c7151ce5d9c45cfc180be"
+    releasesEtag: '"61757e3d64c94fb335698aebfa6b9571b39b33da64902db3a913fc96d3ebae9b"'
 discovery:
   method: 'fork-network:ps2dev/gcc'
   confidence: 95

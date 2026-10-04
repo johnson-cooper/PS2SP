@@ -1,7 +1,9 @@
 ---
 name: ps2docs
 slug: ps2docs-shazz
-summary: "Community documentation and hardware reference manual archives for the PlayStation 2 and Emotion Engine architecture."
+summary: >-
+  Community documentation and hardware reference manual archives for the
+  PlayStation 2 and Emotion Engine architecture.
 categories:
   - preservation
   - development
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T23:05:33.086Z'
+  lastSynchronized: '2026-10-04T23:11:32.464Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"221962453a4973f31dd9ba4790c8dd0f1cfb2cc5d68dec0c1eafa0750fc5014a"
-    releasesEtag: '"eff441420b9f37d0682a3b5b87607fca0b4a6609b1e9445c3d202971df108992"'
+    repoEtag: W/"d152108e9686c0e687aa4e9b614913147b976a916c9d9b0b0ead192dae9edd38"
+    releasesEtag: '"61757e3d64c94fb335698aebfa6b9571b39b33da64902db3a913fc96d3ebae9b"'
 discovery:
   method: 'fork-network:ninjadynamics/PS2Docs'
   confidence: 95

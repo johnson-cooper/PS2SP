@@ -1,7 +1,9 @@
 ---
 name: uLaunchELF
 slug: ulaunchelf-xfwcfw
-summary: "Open-source file manager and ELF launcher for PlayStation 2 with support for memory cards, USB mass storage, internal HDD, and network access."
+summary: >-
+  Open-source file manager and ELF launcher for PlayStation 2 with support for
+  memory cards, USB mass storage, internal HDD, and network access.
 categories:
   - file-managers
   - launchers
@@ -35,12 +37,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T23:05:53.618Z'
+  lastSynchronized: '2026-10-04T23:11:51.002Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"940636a428d8d9c66657b1f068a4163a88abad1a347c906c6c9b7148203a02e1"
-    releasesEtag: '"eff441420b9f37d0682a3b5b87607fca0b4a6609b1e9445c3d202971df108992"'
+    repoEtag: W/"4ddd7305ee7549cc77cf2cc3c2a375af1cf4d6213a3ab4cd7e301a68ba4a55db"
+    releasesEtag: '"61757e3d64c94fb335698aebfa6b9571b39b33da64902db3a913fc96d3ebae9b"'
 discovery:
   method: 'fork-network:ps2homebrew/wLaunchELF'
   confidence: 100

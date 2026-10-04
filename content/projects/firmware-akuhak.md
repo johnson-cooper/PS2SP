@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2025-03-03T21:03:56Z'
   url: 'https://github.com/AKuHAK/firmware/releases/tag/nightly'
 activity:
-  lastSynchronized: '2026-10-04T18:47:49.763Z'
+  lastSynchronized: '2026-10-04T23:10:57.548Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c16694401b62f446625b17057c2875fcd10cc526e32ac4889f5ab793850ddc97"
+    releasesEtag: W/"82f168a8fc8cc797a51a7ca72e9be64cff07d601937ac613b354830f829d21e6"
 discovery:
   method: 'fork-network:sd2psXtd/firmware'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: sd2psXtd/firmware
   source: sd2psx/firmware
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

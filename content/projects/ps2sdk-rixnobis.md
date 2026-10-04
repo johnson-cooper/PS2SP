@@ -1,7 +1,9 @@
 ---
 name: ps2sdk
 slug: ps2sdk-rixnobis
-summary: "Open-source software development kit providing C standard libraries, kernel interfaces, and hardware drivers for PlayStation 2 homebrew development."
+summary: >-
+  Open-source software development kit providing C standard libraries, kernel
+  interfaces, and hardware drivers for PlayStation 2 homebrew development.
 categories:
   - sdks
   - development
@@ -31,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T23:05:37.499Z'
+  lastSynchronized: '2026-10-04T23:11:36.332Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"543e2e0c3ead446431c39a5e11206774494e0a5ff19eef567a64e7ab6b6b1ce2"
-    releasesEtag: '"eff441420b9f37d0682a3b5b87607fca0b4a6609b1e9445c3d202971df108992"'
+    repoEtag: W/"ad0a72413d0572edc8ebd1d0259c796ed5fdd488b6a7256c3702cfcf0f5d9275"
+    releasesEtag: '"61757e3d64c94fb335698aebfa6b9571b39b33da64902db3a913fc96d3ebae9b"'
 discovery:
   method: 'fork-network:ps2dev/ps2sdk'
   confidence: 100

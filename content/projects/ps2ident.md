@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/ps2homebrew/PS2Ident/releases/tag/stable'
 activity:
   lastChecked: '2026-09-29T00:27:11.951Z'
-  lastSynchronized: '2026-10-03T23:05:33.973Z'
+  lastSynchronized: '2026-10-04T23:11:33.433Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d46d653e628a31fddf20961e31ebfd5f86724217bf0c780ab7d6de04cb347685"
-    releasesEtag: W/"940adf34f816032d863f6aad9be7eec8a42f6bbfb7e4a2a04783c7a0b6fb0dc3"
+    repoEtag: W/"96cfd4f3e52be97b27dc313f9eb0d7cd22e9a86da0470f0d629e1e4201616c38"
+    releasesEtag: W/"084060cd4aac8d52e82e775eaeac7bfb373b9b864dc0ecb2f396a8e60f3b0297"
 discovery:
   method: curated
   confidence: 100

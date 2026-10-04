@@ -1,7 +1,9 @@
 ---
 name: ps2link
 slug: ps2link-tatokis
-summary: "PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP from host development tools like ps2client."
+summary: >-
+  PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP
+  from host development tools like ps2client.
 categories:
   - networking
   - development
@@ -32,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T23:05:35.057Z'
+  lastSynchronized: '2026-10-04T23:11:34.299Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d6692c31c6e1543c692ba7e276d510c40dc8b02261da286849873c05e018ead9"
-    releasesEtag: '"eff441420b9f37d0682a3b5b87607fca0b4a6609b1e9445c3d202971df108992"'
+    repoEtag: W/"9efd11a357c5cb4088e05cf9b49a66d2e74d5702a2fcca0e364884c6a34e845a"
+    releasesEtag: '"61757e3d64c94fb335698aebfa6b9571b39b33da64902db3a913fc96d3ebae9b"'
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100
