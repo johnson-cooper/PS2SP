@@ -3,8 +3,9 @@ name: kelftool
 slug: kelftool-emtee40
 summary: 'Utility for decrypt, encrypt and sign PS2 KELF and PSX KELF files'
 categories:
+  - boot-tools
   - development
-  - utilities
+  - host-tools
 tags:
   - fork
   - auto-discovered

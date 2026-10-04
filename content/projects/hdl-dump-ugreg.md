@@ -3,8 +3,8 @@ name: hdl-dump
 slug: hdl-dump-ugreg
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - loaders
   - host-tools
+  - loaders
 tags:
   - hdd
   - hdloader

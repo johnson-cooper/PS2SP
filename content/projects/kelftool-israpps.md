@@ -3,7 +3,9 @@ name: kelftool
 slug: kelftool-israpps
 summary: 'Utility for decrypt, encrypt and sign PS2 KELF and PSX KELF files'
 categories:
-  - utilities
+  - boot-tools
+  - development
+  - host-tools
 tags:
   - fork
   - auto-discovered

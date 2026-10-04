@@ -3,7 +3,7 @@ name: PMAP
 slug: pmap-ps2homebrew
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - development
+  - hardware
   - utilities
 tags:
   - auto-discovered

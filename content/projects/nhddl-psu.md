@@ -3,6 +3,7 @@ name: nhddl-psu
 slug: nhddl-psu
 summary: NHDDL PSU Generator and PSU Builder utility
 categories:
+  - host-tools
   - utilities
 tags:
   - auto-discovered

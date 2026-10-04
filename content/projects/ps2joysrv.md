@@ -3,7 +3,8 @@ name: ps2joysrv
 slug: ps2joysrv
 summary: Bring your old console accessories into modern games
 categories:
-  - utilities
+  - host-tools
+  - hardware
 tags:
   - auto-discovered
 features: []

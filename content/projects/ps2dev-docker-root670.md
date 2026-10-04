@@ -3,8 +3,8 @@ name: ps2dev-docker
 slug: ps2dev-docker-root670
 summary: Docker image for building PlayStation 2 homebrew development using PS2SDK
 categories:
-  - development
   - host-tools
+  - development
 tags:
   - auto-discovered
   - fork

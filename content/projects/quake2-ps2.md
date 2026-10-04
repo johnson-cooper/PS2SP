@@ -5,8 +5,6 @@ summary: Homebrew port of id Software's Quake II to PlayStation 2.
 categories:
   - games
   - ports
-  - sdks
-  - development
 tags:
   - quake
   - quake2

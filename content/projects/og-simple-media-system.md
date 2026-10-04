@@ -3,7 +3,7 @@ name: OG-Simple-Media-System
 slug: og-simple-media-system
 summary: Source code for Simple Media System for PlayStation 2 by Eugene Plotnikov.
 categories:
-  - utilities
+  - media
 tags:
   - nathanneurotic
   - curated-owner

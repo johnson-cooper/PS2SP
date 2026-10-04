@@ -7,7 +7,6 @@ summary: >-
   installation notes.
 categories:
   - hardware
-  - installers
 tags:
   - auto-discovered
 features: []

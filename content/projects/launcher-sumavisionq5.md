@@ -3,9 +3,8 @@ name: launcHER
 slug: launcher-sumavisionq5
 summary: 'Launch ember from any device, on any device, from any program.'
 categories:
-  - boot-tools
   - launchers
-  - dashboards
+  - boot-tools
 tags:
   - launcher
   - ember

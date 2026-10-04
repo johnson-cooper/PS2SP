@@ -3,8 +3,8 @@ name: liero-ps2
 slug: liero-ps2
 summary: a ps2 port of the game liero from windows98
 categories:
-  - ports
   - games
+  - ports
 tags:
   - auto-discovered
   - pending-promoted

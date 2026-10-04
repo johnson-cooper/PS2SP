@@ -3,7 +3,8 @@ name: DKR-PS2
 slug: dkr-ps2
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
+  - games
+  - ports
 tags:
   - auto-discovered
 features: []

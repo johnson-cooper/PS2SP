@@ -4,7 +4,6 @@ slug: awesome-ps2-firegodis
 summary: Awesome PlayStation 2 Apps and Homebrews
 categories:
   - preservation
-  - utilities
 tags:
   - auto-discovered
   - fork

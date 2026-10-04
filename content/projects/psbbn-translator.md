@@ -6,7 +6,7 @@ summary: >-
   Definitive Project (PlayStation 2) em 40 idiomas.
 categories:
   - dashboards
-  - installers
+  - host-tools
 tags:
   - auto-discovered
   - pending-promoted

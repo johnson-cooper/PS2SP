@@ -4,6 +4,7 @@ slug: freemastercodefinder
 summary: An open source spiritual succesor of pelvictrustman's mastercode finder
 categories:
   - cheat-tools
+  - utilities
 tags:
   - auto-discovered
 features: []

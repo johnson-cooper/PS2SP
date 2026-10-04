@@ -3,7 +3,8 @@ name: ButterscotchMac
 slug: butterscotchmac-yt-terzi
 summary: "\U0001F967 An open source re-implementation of GameMaker: Studio's runner (YoYo Runner), targeting Undertale v1.08 (WAD Version 16)"
 categories:
-  - ports
+  - runtimes
+  - engines
 tags:
   - auto-discovered
   - ps2

@@ -4,7 +4,7 @@ slug: udpbd-server-bbuubu
 summary: My version of udpbd-server for raspberry pi
 categories:
   - networking
-  - hardware
+  - host-tools
 tags:
   - auto-discovered
   - fork

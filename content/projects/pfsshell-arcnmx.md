@@ -3,7 +3,8 @@ name: pfsshell
 slug: pfsshell-arcnmx
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
+  - host-tools
+  - file-managers
 tags:
   - pfs
   - apa

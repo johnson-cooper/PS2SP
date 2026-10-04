@@ -4,7 +4,7 @@ slug: playstation2-basic-bootloader-adlt3ch
 summary: 'Basic Bootloader for PS2, PSX-DESR'
 categories:
   - boot-tools
-  - dashboards
+  - launchers
 tags:
   - ps2bbl
   - bootloader

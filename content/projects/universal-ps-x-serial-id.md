@@ -3,6 +3,7 @@ name: Universal-PS-X-Serial-ID
 slug: universal-ps-x-serial-id
 summary: 'Get PS1 Serial ID From BIN, VCD, PBP, PKG'
 categories:
+  - host-tools
   - utilities
 tags:
   - auto-discovered

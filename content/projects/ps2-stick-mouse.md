@@ -6,7 +6,8 @@ summary: >-
   kursor, klik, scroll, dan ngetik pakai suara — semua dari stik PS2 via adaptor
   USB.
 categories:
-  - utilities
+  - host-tools
+  - hardware
 tags:
   - auto-discovered
 features: []

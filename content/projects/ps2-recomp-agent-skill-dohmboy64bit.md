@@ -6,8 +6,8 @@ summary: >-
   autonomous Claude Code skill packing the MIPS R5900 ISA, topological
   multimodal vision, and the complete PS2Recomp knowledge.
 categories:
-  - development
   - preservation
+  - development
 tags:
   - auto-discovered
   - fork

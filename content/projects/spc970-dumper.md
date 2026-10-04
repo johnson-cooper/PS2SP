@@ -4,6 +4,7 @@ slug: spc970-dumper
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
   - hardware
+  - utilities
 tags:
   - auto-discovered
 features: []

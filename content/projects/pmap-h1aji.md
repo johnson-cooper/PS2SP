@@ -3,7 +3,7 @@ name: PMAP
 slug: pmap-h1aji
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - development
+  - hardware
   - utilities
 tags:
   - auto-discovered

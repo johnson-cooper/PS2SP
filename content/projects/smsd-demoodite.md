@@ -3,7 +3,7 @@ name: SMSD
 slug: smsd-demoodite
 summary: Multimedia player for Sony PlayStation 2 specialized for DmoStation 2
 categories:
-  - utilities
+  - media
 tags:
   - media-player
   - video

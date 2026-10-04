@@ -3,7 +3,8 @@ name: RE4_PS2_MOD_WORKSPACE
 slug: re4-ps2-mod-workspace
 summary: WIP
 categories:
-  - utilities
+  - preservation
+  - development
 tags:
   - auto-discovered
 features: []

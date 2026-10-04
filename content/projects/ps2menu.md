@@ -3,7 +3,8 @@ name: ps2menu
 slug: ps2menu
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
+  - launchers
+  - file-managers
 tags:
   - auto-discovered
 features: []

@@ -4,6 +4,7 @@ slug: ps2dev-github-io
 summary: Website of ps2dev
 categories:
   - development
+  - preservation
 tags:
   - auto-discovered
 features: []

@@ -3,7 +3,7 @@ name: PMAP-Linux
 slug: pmap-linux-k0lo86
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - development
+  - hardware
   - utilities
 tags:
   - auto-discovered

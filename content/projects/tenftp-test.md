@@ -3,7 +3,7 @@ name: tenftp_test
 slug: tenftp-test
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
+  - networking
 tags:
   - auto-discovered
 features: []

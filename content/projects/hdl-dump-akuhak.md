@@ -3,8 +3,8 @@ name: hdl-dump
 slug: hdl-dump-akuhak
 summary: Install games in HDLoader format to APA-formatted hard drive
 categories:
-  - loaders
   - host-tools
+  - loaders
 tags:
   - fork
   - auto-discovered

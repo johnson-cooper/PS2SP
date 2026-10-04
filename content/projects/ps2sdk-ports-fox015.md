@@ -4,8 +4,8 @@ slug: ps2sdk-ports-fox015
 summary: Ports of useful libraries to PS2SDK
 categories:
   - sdks
-  - development
   - libraries
+  - development
 tags:
   - ps2sdk
   - ports

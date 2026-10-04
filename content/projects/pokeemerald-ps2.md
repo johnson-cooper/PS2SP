@@ -5,8 +5,7 @@ summary: >-
   Pokémon Emerald on PlayStation 2: a port of pokeemerald-native (pret's
   decompilation) with the picture drawn by the GS
 categories:
-  - preservation
-  - development
+  - games
   - ports
 tags:
   - auto-discovered

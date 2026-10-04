@@ -3,7 +3,7 @@ name: eva2_ps2_eng_translation
 slug: eva2-ps2-eng-translation
 summary: 'English translation of Evangelion: Evangelions for PS2!'
 categories:
-  - utilities
+  - preservation
 tags:
   - auto-discovered
 features: []

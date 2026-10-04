@@ -7,7 +7,8 @@ summary: >-
   Squarepants Movie Game, The Incredibles and The Incredibles: Rise of the
   Underminer (GameCube, PS2, Xbox, PC).
 categories:
-  - utilities
+  - host-tools
+  - development
 tags:
   - auto-discovered
   - pending-promoted

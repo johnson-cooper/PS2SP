@@ -6,6 +6,7 @@ summary: >-
   virtual images, to be used on SD2PSX/MemCardPro
 categories:
   - hardware
+  - boot-tools
 tags:
   - auto-discovered
 features: []

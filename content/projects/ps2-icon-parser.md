@@ -3,7 +3,8 @@ name: PS2-ICON-PARSER
 slug: ps2-icon-parser
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
+  - host-tools
+  - themes
 tags:
   - auto-discovered
 features: []

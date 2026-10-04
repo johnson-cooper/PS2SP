@@ -3,7 +3,7 @@ name: ps2-covers
 slug: ps2-covers-maulanawisnu487-creator
 summary: PS2 Covers Collection
 categories:
-  - utilities
+  - themes
 tags:
   - fork
   - auto-discovered

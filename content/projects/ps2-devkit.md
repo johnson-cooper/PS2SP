@@ -8,7 +8,6 @@ summary: >-
   engines, see how renderware can be applied, but sdl is present) for PS2 in one
   package.
 categories:
-  - networking
   - sdks
   - development
 tags:

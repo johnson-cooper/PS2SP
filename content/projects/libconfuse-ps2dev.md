@@ -3,9 +3,8 @@ name: libconfuse
 slug: libconfuse-ps2dev
 summary: Small configuration file parser library for C.
 categories:
-  - sdks
-  - development
   - libraries
+  - development
 tags:
   - fork
   - auto-discovered

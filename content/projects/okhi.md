@@ -3,7 +3,7 @@ name: okhi
 slug: okhi
 summary: Open Keylogger Hardware Implant - USB & PS2 Keyboards
 categories:
-  - hardware
+  - utilities
 tags:
   - auto-discovered
   - pending-promoted

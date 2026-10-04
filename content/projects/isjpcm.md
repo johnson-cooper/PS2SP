@@ -4,6 +4,7 @@ slug: isjpcm
 summary: sound library from Sjeep
 categories:
   - libraries
+  - media
 tags:
   - auto-discovered
 features: []

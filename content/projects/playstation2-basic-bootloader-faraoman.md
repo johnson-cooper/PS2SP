@@ -4,7 +4,7 @@ slug: playstation2-basic-bootloader-faraoman
 summary: Basic PS2 and PSX-DESR Bootloader
 categories:
   - boot-tools
-  - dashboards
+  - launchers
 tags:
   - ps2bbl
   - bootloader

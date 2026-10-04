@@ -4,7 +4,7 @@ slug: playstation2-basic-bootloader-jnackmclain
 summary: personal build only. all credit to creators
 categories:
   - boot-tools
-  - dashboards
+  - launchers
 tags:
   - ps2bbl
   - bootloader

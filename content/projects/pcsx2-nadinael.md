@@ -3,6 +3,7 @@ name: PCSX2
 slug: pcsx2-nadinael
 summary: List of my contributions to the FPS and widescreen patches for PS1 and PS2.
 categories:
+  - cheat-tools
   - emulators
 tags:
   - auto-discovered

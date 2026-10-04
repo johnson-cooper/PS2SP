@@ -6,6 +6,7 @@ summary: >-
   published PS2 disc image release.
 categories:
   - ports
+  - games
 tags:
   - yugioh
   - goat-format

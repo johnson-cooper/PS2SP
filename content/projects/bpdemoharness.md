@@ -3,7 +3,8 @@ name: BPDemoHarness
 slug: bpdemoharness
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
+  - demos
+  - development
 tags:
   - auto-discovered
 features: []

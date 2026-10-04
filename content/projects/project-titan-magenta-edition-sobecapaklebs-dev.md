@@ -5,7 +5,9 @@ summary: >-
   Experimental PlayStation 2 shell, native runtime, SDK and application
   platform.
 categories:
-  - emulators
+  - runtimes
+  - sdks
+  - development
 tags:
   - auto-discovered
 features: []

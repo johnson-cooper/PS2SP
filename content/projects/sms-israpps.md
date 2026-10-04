@@ -3,7 +3,7 @@ name: SMS
 slug: sms-israpps
 summary: Multimedia player for Sony PlayStation 2 with EXFAT support
 categories:
-  - utilities
+  - media
 tags:
   - fork
   - auto-discovered

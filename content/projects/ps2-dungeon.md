@@ -3,7 +3,7 @@ name: PS2_Dungeon
 slug: ps2-dungeon
 summary: It's a simple game in SDL2 that can be played in a playstation 2
 categories:
-  - utilities
+  - games
 tags:
   - auto-discovered
 features: []

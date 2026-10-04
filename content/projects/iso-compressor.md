@@ -6,6 +6,7 @@ summary: >-
   Windows & Linux) that compresses massive PS1, PS2, and PSP .ISO and .CUE
   backups into highly optimized .CHD, .ZSO, or .CSO files.
 categories:
+  - host-tools
   - utilities
 tags:
   - auto-discovered

@@ -4,6 +4,7 @@ slug: udpbd-server-israpps
 summary: udpbd server by rick gaiser. brought to github with CI
 categories:
   - networking
+  - host-tools
 tags:
   - auto-discovered
 features: []

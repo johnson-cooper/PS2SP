@@ -6,8 +6,6 @@ summary: >-
   Acer Addis emulator.
 categories:
   - emulators
-  - sdks
-  - development
 tags:
   - snes
   - nes

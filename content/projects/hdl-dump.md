@@ -3,8 +3,8 @@ name: hdl-dump
 slug: hdl-dump
 summary: Install games in HDLoader format to APA-formatted PlayStation 2 hard drives.
 categories:
-  - loaders
   - host-tools
+  - loaders
 tags:
   - hdd
   - hdloader

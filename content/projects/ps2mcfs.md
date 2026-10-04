@@ -6,6 +6,8 @@ summary: >-
   from an emulator or obtained from real hardware) into your linux filesystem.
 categories:
   - save-tools
+  - drivers
+  - host-tools
 tags:
   - auto-discovered
 features: []

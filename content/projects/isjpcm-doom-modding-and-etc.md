@@ -4,6 +4,7 @@ slug: isjpcm-doom-modding-and-etc
 summary: sound library from Sjeep
 categories:
   - libraries
+  - media
 tags:
   - auto-discovered
   - fork

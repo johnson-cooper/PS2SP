@@ -3,7 +3,8 @@ name: TGE
 slug: tge
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
+  - engines
+  - development
 tags:
   - auto-discovered
 features: []

@@ -4,6 +4,7 @@ slug: parallel-gs-discostarslayer
 summary: A compute shader emulation of the PlayStation 2 Graphics Synthesizer
 categories:
   - emulators
+  - development
 tags:
   - auto-discovered
   - fork

@@ -6,7 +6,7 @@ summary: >-
   analysis, tools, and ps2kit, a game-agnostic PS2 toolkit. BYOA.
 categories:
   - ports
-  - games
+  - preservation
 tags:
   - auto-discovered
 features: []

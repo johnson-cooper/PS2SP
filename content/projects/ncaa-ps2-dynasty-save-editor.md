@@ -6,6 +6,7 @@ summary: >-
   files 
 categories:
   - save-tools
+  - host-tools
 tags:
   - auto-discovered
   - pending-promoted

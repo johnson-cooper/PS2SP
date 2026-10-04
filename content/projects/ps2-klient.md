@@ -3,7 +3,8 @@ name: ps2-klient
 slug: ps2-klient
 summary: Share files between PC and PlayStation2
 categories:
-  - utilities
+  - host-tools
+  - networking
 tags:
   - auto-discovered
 features: []

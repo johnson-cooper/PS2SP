@@ -5,9 +5,8 @@ summary: >-
   Device-flexible PlayStation 2 launcher designed to start EMBER and related
   homebrew flows.
 categories:
-  - boot-tools
   - launchers
-  - dashboards
+  - boot-tools
 tags:
   - launcher
   - ember

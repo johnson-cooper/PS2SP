@@ -3,9 +3,8 @@ name: PS2GL
 slug: ps2gl
 summary: PlayStation 2 graphics library implementing a subset of OpenGL 1.2.
 categories:
-  - sdks
-  - development
   - libraries
+  - development
 tags:
   - opengl
   - graphics

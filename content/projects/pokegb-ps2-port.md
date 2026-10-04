@@ -3,6 +3,7 @@ name: pokegb-ps2-port
 slug: pokegb-ps2-port
 summary: pokegb-ps2-port is a PlayStation 2 software project discovered by PS2SP.
 categories:
+  - emulators
   - ports
 tags:
   - auto-discovered

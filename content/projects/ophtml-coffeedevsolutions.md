@@ -3,7 +3,8 @@ name: OPHTML
 slug: ophtml-coffeedevsolutions
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
+  - runtimes
+  - development
 tags:
   - auto-discovered
 features: []

@@ -4,7 +4,7 @@ slug: playstation2-basic-bootloader-maruf4767
 summary: 'Basic Bootloader for PS2, PSX-DESR and Namco System 246/256'
 categories:
   - boot-tools
-  - dashboards
+  - launchers
 tags:
   - ps2bbl
   - bootloader

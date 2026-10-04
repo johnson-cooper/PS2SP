@@ -6,6 +6,7 @@ summary: >-
   OpenTuna w/PS2BBL  (Forked from OpenTuna Installer by @ps2homebrew)
 categories:
   - boot-tools
+  - installers
 tags:
   - nathanneurotic
   - curated-owner

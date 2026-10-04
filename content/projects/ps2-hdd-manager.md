@@ -6,6 +6,7 @@ summary: >-
   for >2 TiB disks.
 categories:
   - hardware
+  - utilities
 tags:
   - auto-discovered
 features: []

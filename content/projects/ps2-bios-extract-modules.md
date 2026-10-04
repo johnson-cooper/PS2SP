@@ -3,7 +3,8 @@ name: ps2-bios-extract-modules
 slug: ps2-bios-extract-modules
 summary: ' Script to extract the BIOS modules from the PlayStation 2'
 categories:
-  - utilities
+  - host-tools
+  - preservation
 tags:
   - auto-discovered
 features: []

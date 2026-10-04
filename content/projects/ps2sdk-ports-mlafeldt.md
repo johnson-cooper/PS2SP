@@ -4,8 +4,8 @@ slug: ps2sdk-ports-mlafeldt
 summary: Ports of famous libraries to PS2SDK
 categories:
   - sdks
-  - development
   - libraries
+  - development
 tags:
   - ps2sdk
   - ports

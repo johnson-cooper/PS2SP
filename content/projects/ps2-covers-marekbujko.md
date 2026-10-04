@@ -3,7 +3,7 @@ name: ps2-covers
 slug: ps2-covers-marekbujko
 summary: PS2 Covers Collection
 categories:
-  - utilities
+  - themes
 tags:
   - fork
   - auto-discovered

@@ -5,7 +5,6 @@ summary: Open source library for PS2 development.
 categories:
   - sdks
   - development
-  - libraries
 tags:
   - ps2dev
   - sdk

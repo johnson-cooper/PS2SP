@@ -3,6 +3,7 @@ name: GTA-PS2-Modern-Controls
 slug: gta-ps2-modern-controls
 summary: 'GTA: PS2 Modern Controls'
 categories:
+  - cheat-tools
   - utilities
 tags:
   - auto-discovered

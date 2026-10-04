@@ -3,8 +3,8 @@ name: ps2Perf
 slug: ps2perf
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
   - development
+  - utilities
 tags:
   - auto-discovered
 features: []

@@ -6,8 +6,8 @@ summary: >-
   with Open PS2 Loader (OPL), the popular homebrew app for playing PS2 games
   from USB storage.
 categories:
-  - loaders
   - host-tools
+  - utilities
 tags:
   - auto-discovered
 features: []

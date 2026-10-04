@@ -4,6 +4,7 @@ slug: dsx2-2024-darcotech
 summary: Unofficial Patches for NetherSX2
 categories:
   - emulators
+  - utilities
 tags:
   - auto-discovered
   - pending-promoted

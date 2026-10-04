@@ -4,6 +4,7 @@ slug: mcp2-save-splitter-keeniidx
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
   - save-tools
+  - host-tools
 tags:
   - auto-discovered
   - fork

@@ -6,7 +6,8 @@ summary: >-
   real <-> PCSX2), sem contas e sem servidor central. LAN tunneling L2 sobre UDP
   com criptografia, NAT traversal e fallback por relay.
 categories:
-  - emulators
+  - networking
+  - host-tools
 tags:
   - auto-discovered
   - pending-promoted

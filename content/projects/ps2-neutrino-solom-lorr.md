@@ -3,7 +3,6 @@ name: ps2-neutrino
 slug: ps2-neutrino-solom-lorr
 summary: 'Small, Fast and Modular PS2 Device Emulator'
 categories:
-  - emulators
   - loaders
 tags:
   - neutrino

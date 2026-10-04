@@ -4,6 +4,7 @@ slug: mymcpp
 summary: Open-source PlayStation 2 memory card manager and save editor
 categories:
   - save-tools
+  - host-tools
 tags:
   - nathanneurotic
   - curated-owner

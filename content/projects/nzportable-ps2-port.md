@@ -6,7 +6,7 @@ summary: >-
   bringing the project to PS2 hardware with dedicated console-specific work.
 categories:
   - ports
-  - hardware
+  - games
 tags:
   - nzportable
   - vril-engine

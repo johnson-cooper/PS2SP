@@ -3,7 +3,8 @@ name: gslib
 slug: gslib
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
+  - libraries
+  - development
 tags:
   - auto-discovered
 features: []

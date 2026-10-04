@@ -4,7 +4,7 @@ slug: mmceman-uyjulian
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
   - hardware
-  - utilities
+  - drivers
 tags:
   - auto-discovered
   - fork

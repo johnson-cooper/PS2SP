@@ -3,6 +3,7 @@ name: xerabora
 slug: xerabora-nathanneurotic
 summary: Native PS2 retroachievements
 categories:
+  - networking
   - utilities
 tags:
   - nathanneurotic

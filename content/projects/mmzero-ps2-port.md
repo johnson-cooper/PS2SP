@@ -3,6 +3,7 @@ name: mmzero_ps2_port
 slug: mmzero-ps2-port
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
+  - games
   - ports
 tags:
   - auto-discovered

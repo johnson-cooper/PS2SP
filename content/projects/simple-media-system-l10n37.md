@@ -3,7 +3,7 @@ name: Simple-Media-System
 slug: simple-media-system-l10n37
 summary: SMS (Simple Media System) for PS2 with full device support
 categories:
-  - utilities
+  - media
 tags:
   - nathanneurotic
   - curated-owner

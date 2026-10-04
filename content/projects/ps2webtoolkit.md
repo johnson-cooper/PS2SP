@@ -3,7 +3,8 @@ name: ps2webtoolkit
 slug: ps2webtoolkit
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
+  - development
+  - host-tools
 tags:
   - auto-discovered
 features: []

@@ -3,10 +3,9 @@ name: ps2sdk-ports
 slug: ps2sdk-ports-jay-jay-opl
 summary: Ports of useful libraries to PS2SDK
 categories:
-  - loaders
   - sdks
-  - development
   - libraries
+  - development
 tags:
   - ps2sdk
   - ports

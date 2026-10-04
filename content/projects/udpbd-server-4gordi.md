@@ -4,7 +4,7 @@ slug: udpbd-server-4gordi
 summary: My version of udpbd-server for raspberry pi
 categories:
   - networking
-  - hardware
+  - host-tools
 tags:
   - auto-discovered
 features: []

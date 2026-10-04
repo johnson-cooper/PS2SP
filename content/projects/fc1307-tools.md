@@ -3,7 +3,8 @@ name: fc1307-tools
 slug: fc1307-tools
 summary: Miscellaneous utilities for FC1307 SD-IDE chip
 categories:
-  - development
+  - hardware
+  - utilities
 tags:
   - nathanneurotic
   - curated-owner

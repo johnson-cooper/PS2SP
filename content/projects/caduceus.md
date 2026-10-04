@@ -6,6 +6,7 @@ summary: >-
   conectando sua biblioteca de jogos ao console pelo OPL.
 categories:
   - loaders
+  - networking
 tags:
   - auto-discovered
   - pending-promoted

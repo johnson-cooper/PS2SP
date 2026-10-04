@@ -3,6 +3,7 @@ name: RoadTripAdventure-AP
 slug: roadtripadventure-ap
 summary: Archipelago randomizer implementation for the PS2 game Road Trip Adventure
 categories:
+  - utilities
   - games
 tags:
   - auto-discovered

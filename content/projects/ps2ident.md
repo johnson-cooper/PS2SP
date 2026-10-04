@@ -4,6 +4,7 @@ slug: ps2ident
 summary: PlayStation 2 identification and ROM/NVRAM dumping utility.
 categories:
   - hardware
+  - utilities
 tags:
   - bios
   - rom

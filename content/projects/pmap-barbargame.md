@@ -3,7 +3,7 @@ name: PMAP
 slug: pmap-barbargame
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - development
+  - hardware
   - utilities
 tags:
   - auto-discovered

@@ -9,8 +9,6 @@ summary: >-
   Discord! @itsveenee
 categories:
   - emulators
-  - sdks
-  - development
 tags:
   - snes
   - nes

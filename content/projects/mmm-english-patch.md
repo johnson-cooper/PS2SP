@@ -5,7 +5,8 @@ summary: >-
   English fan translation patch for My Merry May (PS2, SLPS-25192). Patch only,
   no game data.
 categories:
-  - utilities
+  - preservation
+  - development
 tags:
   - auto-discovered
   - pending-promoted

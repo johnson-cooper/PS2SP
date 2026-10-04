@@ -3,7 +3,8 @@ name: ColdWinterPS2_Model_Viewer
 slug: coldwinterps2-model-viewer
 summary: Noesis plugin to visualize models from Cold Winter
 categories:
-  - utilities
+  - host-tools
+  - preservation
 tags:
   - auto-discovered
   - pending-promoted

@@ -4,6 +4,7 @@ slug: mymc-azagramac
 summary: A public domain utility for working with PlayStation 2 memory card images.
 categories:
   - save-tools
+  - host-tools
 tags:
   - memory-card
   - saves

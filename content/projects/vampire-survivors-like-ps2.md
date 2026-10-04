@@ -3,7 +3,7 @@ name: vampire-survivors-like-ps2
 slug: vampire-survivors-like-ps2
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
+  - games
 tags:
   - auto-discovered
 features: []

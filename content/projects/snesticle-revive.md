@@ -4,8 +4,6 @@ slug: snesticle-revive
 summary: Actively maintained SNES/NES homebrew emulator for PlayStation 2.
 categories:
   - emulators
-  - sdks
-  - development
 tags:
   - snes
   - nes

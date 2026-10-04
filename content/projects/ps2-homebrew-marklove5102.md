@@ -3,7 +3,7 @@ name: ps2-homebrew
 slug: ps2-homebrew-marklove5102
 summary: PlayStation 2 homebrew demos.
 categories:
-  - sdks
+  - demos
   - development
 tags:
   - demos

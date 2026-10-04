@@ -3,8 +3,8 @@ name: PS2---wLaunchELF
 slug: ps2-wlaunchelf-solomlorr
 summary: ELF loader and File browser for Sony PlayStation 2
 categories:
-  - launchers
   - file-managers
+  - launchers
 tags:
   - wlaunchelf
   - ulaunchelf

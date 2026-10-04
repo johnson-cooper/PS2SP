@@ -4,6 +4,7 @@ slug: savesx2
 summary: PS2 Memory Card Manager for Android
 categories:
   - save-tools
+  - host-tools
 tags:
   - auto-discovered
 features: []

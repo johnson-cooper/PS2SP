@@ -6,7 +6,6 @@ summary: >-
   four grid themes, an art pipeline, and a WYSIWYG theme previewer.
 categories:
   - loaders
-  - themes
 tags:
   - nathanneurotic
   - curated-owner

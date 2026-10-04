@@ -3,8 +3,7 @@ name: ps2-SDL
 slug: ps2-sdl
 summary: "PlayStation 2 port of SDL 1.2 with PS2SDK backends for graphics, audio, input, threading, timers, and CD-ROM access."
 categories:
-  - ports
-  - sdks
+  - libraries
   - development
 tags:
   - nathanneurotic

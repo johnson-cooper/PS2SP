@@ -4,7 +4,7 @@ slug: mmceman-ps2-mmce
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
   - hardware
-  - utilities
+  - drivers
 tags:
   - auto-discovered
 features: []

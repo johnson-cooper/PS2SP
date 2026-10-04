@@ -3,7 +3,7 @@ name: PS2 Homebrew Demos
 slug: glampert-ps2-homebrew
 summary: Collection of PlayStation 2 homebrew demos and small games built with PS2DEV.
 categories:
-  - sdks
+  - demos
   - development
 tags:
   - demos

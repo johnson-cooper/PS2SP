@@ -4,6 +4,7 @@ slug: opentuna-installer
 summary: Installer for the OpenTuna PlayStation 2 homebrew entry point.
 categories:
   - boot-tools
+  - installers
 tags:
   - opentuna
   - exploit

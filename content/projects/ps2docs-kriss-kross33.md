@@ -3,8 +3,8 @@ name: PS2Docs
 slug: ps2docs-kriss-kross33
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - development
   - preservation
+  - development
 tags:
   - auto-discovered
   - fork

@@ -3,7 +3,7 @@ name: MikosCraft
 slug: mikoscraft
 summary: PlayStation 2 homebrew project discovered by PS2SP.
 categories:
-  - utilities
+  - games
 tags:
   - auto-discovered
 features: []

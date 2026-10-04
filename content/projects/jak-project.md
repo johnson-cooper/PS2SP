@@ -3,7 +3,9 @@ name: jak-project
 slug: jak-project
 summary: Reviving the language that brought us the Jak & Daxter Series
 categories:
-  - utilities
+  - ports
+  - preservation
+  - development
 tags:
   - auto-discovered
 features: []

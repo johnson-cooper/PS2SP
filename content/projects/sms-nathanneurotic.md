@@ -3,7 +3,7 @@ name: SMS
 slug: sms-nathanneurotic
 summary: Multimedia player for Sony PlayStation 2
 categories:
-  - utilities
+  - media
 tags:
   - nathanneurotic
   - curated-owner

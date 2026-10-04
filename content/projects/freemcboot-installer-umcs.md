@@ -7,6 +7,7 @@ summary: >-
   These have been modified to install PS2BBL instead.
 categories:
   - boot-tools
+  - installers
 tags:
   - nathanneurotic
   - curated-owner

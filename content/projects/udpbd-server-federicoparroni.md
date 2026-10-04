@@ -4,6 +4,7 @@ slug: udpbd-server-federicoparroni
 summary: UDPBD server
 categories:
   - networking
+  - host-tools
 tags:
   - auto-discovered
   - fork

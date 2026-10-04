@@ -4,6 +4,7 @@ slug: isjpcm-sl1pkn07
 summary: sound library from Sjeep
 categories:
   - libraries
+  - media
 tags:
   - auto-discovered
   - fork

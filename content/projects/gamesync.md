@@ -3,7 +3,8 @@ name: GameSync
 slug: gamesync
 summary: Sync save data between multiple 3ds devices
 categories:
-  - utilities
+  - save-tools
+  - networking
 tags:
   - auto-discovered
   - pending-promoted

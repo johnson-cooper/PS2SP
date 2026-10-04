@@ -4,8 +4,8 @@ slug: ps2sdk-ports-jendo42
 summary: Ports of useful libraries to PS2SDK
 categories:
   - sdks
-  - development
   - libraries
+  - development
 tags:
   - ps2sdk
   - ports

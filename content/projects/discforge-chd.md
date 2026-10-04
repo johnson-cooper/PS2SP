@@ -6,6 +6,7 @@ summary: >-
   serial e publicação automática de atualizações.
 categories:
   - host-tools
+  - utilities
 tags:
   - auto-discovered
   - pending-promoted

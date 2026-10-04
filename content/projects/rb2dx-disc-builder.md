@@ -5,6 +5,7 @@ summary: >-
   Builds a custom Rock Band 2 Deluxe disc for the PlayStation 2 from folders of
   Clone Hero songs
 categories:
+  - host-tools
   - utilities
 tags:
   - auto-discovered

@@ -3,7 +3,6 @@ name: ps2gl
 slug: ps2gl-jay-jay-opl
 summary: Subset of the OpenGL 1.2 Library
 categories:
-  - loaders
   - libraries
   - development
 tags:

@@ -3,6 +3,7 @@ name: minictaft-ps2
 slug: minictaft-ps2
 summary: a ps2 port of Minicraft+ made by notch
 categories:
+  - games
   - ports
 tags:
   - auto-discovered

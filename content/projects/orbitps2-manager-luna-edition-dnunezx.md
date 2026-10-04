@@ -5,7 +5,8 @@ summary: >-
   A modern, cross-platform way to manage your OPL game collection.  Compatible
   with LUNA
 categories:
-  - loaders
+  - host-tools
+  - utilities
 tags:
   - fork
   - auto-discovered

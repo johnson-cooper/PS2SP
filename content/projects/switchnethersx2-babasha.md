@@ -4,6 +4,7 @@ slug: switchnethersx2-babasha
 summary: Continuation of NetherSX2 based on AetherSX2 4248
 categories:
   - emulators
+  - utilities
 tags:
   - auto-discovered
   - pending-promoted

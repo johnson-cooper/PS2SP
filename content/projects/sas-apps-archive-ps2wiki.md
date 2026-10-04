@@ -4,7 +4,6 @@ slug: sas-apps-archive-ps2wiki
 summary: The one place to download all* PS2 Apps!
 categories:
   - preservation
-  - utilities
 tags:
   - auto-discovered
 features: []

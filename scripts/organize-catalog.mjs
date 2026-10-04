@@ -55,8 +55,10 @@ async function main() {
     const slug = getField(/^slug:\s*(.+)$/m) || fileName.replace(/\.md$/, "");
     const name = getField(/^name:\s*(.+)$/m) || slug;
     const summary = (getField(/^summary:\s*(?:>-|\|-)?\s*\n?([^\n]+(?:\n[ \t]+[^\n]+)*)/m) || "").replace(/\s+/g, " ");
-    const repo = getField(/repository:\s*([^\s\n]+)/) || "";
-    const forkOf = getField(/forkOf:\s*([^\s\n]+)/) || null;
+    const rawRepo = getField(/repository:\s*([^\s\n]+)/) || "";
+    const repo = rawRepo === "null" ? "" : rawRepo;
+    const rawFork = getField(/forkOf:\s*([^\s\n]+)/) || null;
+    const forkOf = rawFork === "null" ? null : rawFork;
     const tags = getList("tags");
     const oldCategories = getList("categories");
     const oldHidden = /hidden:\s*true/m.test(fm);

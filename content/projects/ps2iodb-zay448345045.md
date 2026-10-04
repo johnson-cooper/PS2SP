@@ -6,6 +6,7 @@ summary: >-
   & tools for extraction
 categories:
   - save-tools
+  - preservation
 tags:
   - auto-discovered
   - pending-promoted

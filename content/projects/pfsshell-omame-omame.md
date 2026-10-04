@@ -3,7 +3,8 @@ name: pfsshell
 slug: pfsshell-omame-omame
 summary: Browse and edit PFS filesystems
 categories:
-  - utilities
+  - host-tools
+  - file-managers
 tags:
   - pfs
   - apa

@@ -3,7 +3,7 @@ name: shmupX.github.io
 slug: shmupx-github-io
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
+  - preservation
 tags:
   - auto-discovered
 features: []

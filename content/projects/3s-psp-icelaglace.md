@@ -3,8 +3,7 @@ name: 3s-psp
 slug: 3s-psp-icelaglace
 summary: trying to port 3rd strike to the psp (doesn't work on psp-1000)
 categories:
-  - preservation
-  - development
+  - ports
 tags:
   - auto-discovered
   - fork

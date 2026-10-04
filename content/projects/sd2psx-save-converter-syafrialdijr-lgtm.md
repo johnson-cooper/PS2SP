@@ -4,6 +4,7 @@ slug: sd2psx-save-converter-syafrialdijr-lgtm
 summary: Manage your sd2psx
 categories:
   - save-tools
+  - hardware
 tags:
   - auto-discovered
   - fork

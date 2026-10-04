@@ -3,7 +3,7 @@ name: Simple-Media-System
 slug: simple-media-system
 summary: Simple Media System for PlayStation 2 with expanded device support.
 categories:
-  - utilities
+  - media
 tags:
   - nathanneurotic
   - curated-owner

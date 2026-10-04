@@ -4,6 +4,7 @@ slug: quake1-ps2-jrandis
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
   - games
+  - ports
 tags:
   - quake
   - fps

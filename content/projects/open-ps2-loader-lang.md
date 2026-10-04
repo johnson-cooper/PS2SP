@@ -4,6 +4,7 @@ slug: open-ps2-loader-lang
 summary: Language files for OPL/uOPL/wOPL/OPLDB
 categories:
   - loaders
+  - utilities
 tags:
   - nathanneurotic
   - curated-owner

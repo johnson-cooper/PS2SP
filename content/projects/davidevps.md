@@ -5,7 +5,8 @@ summary: >-
   PStore2: Seu lugar para baixar jogos e aplicativos diretamente do seu
   PlayStation 2.
 categories:
-  - utilities
+  - dashboards
+  - networking
 tags:
   - auto-discovered
 features: []

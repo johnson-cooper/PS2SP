@@ -3,7 +3,8 @@ name: pfsshell
 slug: pfsshell-bignaux
 summary: Browse and edit PFS filesystems on APA-formatted hard drive
 categories:
-  - utilities
+  - host-tools
+  - file-managers
 tags:
   - pfs
   - apa

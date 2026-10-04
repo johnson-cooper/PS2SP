@@ -3,7 +3,8 @@ name: opl-artwork-processor
 slug: opl-artwork-processor
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - loaders
+  - host-tools
+  - themes
 tags:
   - auto-discovered
 features: []

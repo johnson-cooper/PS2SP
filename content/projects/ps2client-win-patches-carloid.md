@@ -3,6 +3,8 @@ name: ps2client-win-patches
 slug: ps2client-win-patches-carloid
 summary: Desktop clients to interact with ps2link and ps2netfs
 categories:
+  - host-tools
+  - development
   - networking
 tags:
   - ps2link

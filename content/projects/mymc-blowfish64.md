@@ -6,6 +6,7 @@ summary: >-
   Ross Ridge.
 categories:
   - save-tools
+  - host-tools
 tags:
   - memory-card
   - saves

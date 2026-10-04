@@ -4,6 +4,7 @@ slug: sd2psx-save-converter
 summary: Manage your sd2psx
 categories:
   - save-tools
+  - hardware
 tags:
   - auto-discovered
 features: []

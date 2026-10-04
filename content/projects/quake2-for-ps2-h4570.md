@@ -5,8 +5,6 @@ summary: An attempt at a homebrew port of id's Quake 2 for the PlayStation 2 Con
 categories:
   - games
   - ports
-  - sdks
-  - development
 tags:
   - quake
   - quake2

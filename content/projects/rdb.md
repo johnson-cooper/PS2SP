@@ -3,7 +3,9 @@ name: RDB
 slug: rdb
 summary: Retail Debugging Startup Card for SCE PlayStation2
 categories:
+  - boot-tools
   - development
+  - hardware
 tags:
   - auto-discovered
 features: []

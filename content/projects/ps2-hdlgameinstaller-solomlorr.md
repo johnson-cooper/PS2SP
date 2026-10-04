@@ -3,8 +3,8 @@ name: PS2---HDLGameInstaller
 slug: ps2-hdlgameinstaller-solomlorr
 summary: The HDLoader game installer
 categories:
-  - loaders
   - installers
+  - loaders
 tags:
   - hdd
   - hdloader

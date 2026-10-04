@@ -3,6 +3,8 @@ name: ps2client
 slug: ps2client-israpps
 summary: Desktop clients to interact with ps2link and ps2netfs
 categories:
+  - host-tools
+  - development
   - networking
 tags:
   - fork

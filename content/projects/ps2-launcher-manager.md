@@ -3,6 +3,7 @@ name: PS2-Launcher-Manager
 slug: ps2-launcher-manager
 summary: Download image assets for PS2-Launcher
 categories:
+  - host-tools
   - launchers
 tags:
   - auto-discovered

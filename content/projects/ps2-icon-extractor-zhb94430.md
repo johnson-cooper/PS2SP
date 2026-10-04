@@ -4,7 +4,7 @@ slug: ps2-icon-extractor-zhb94430
 summary: This tool extracts 3D icons that comes with PS2 save files
 categories:
   - save-tools
-  - utilities
+  - host-tools
 tags:
   - fork
   - auto-discovered

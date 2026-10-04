@@ -3,7 +3,8 @@ name: Title-Database-Scrapper
 slug: title-database-scrapper
 summary: This script scrapes game titles from the redump database for PS1 & PS2
 categories:
-  - utilities
+  - host-tools
+  - preservation
 tags:
   - auto-discovered
 features: []

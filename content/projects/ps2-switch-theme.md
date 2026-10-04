@@ -38,5 +38,6 @@ discovery:
   confidence: 100
 verified: false
 featured: false
+hidden: true
 ---
 Automatically discovered by PS2SP from strong PlayStation 2-specific repository signals. This entry can be expanded and curated without affecting automated repository metadata.

@@ -5,9 +5,8 @@ summary: >-
   Tool to Install ps2 games in HDLoader format to APA-formatted hard drive, fork
   intended for HDL Batch installer usage
 categories:
-  - loaders
   - host-tools
-  - installers
+  - loaders
 tags:
   - fork
   - auto-discovered

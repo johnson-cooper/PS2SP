@@ -3,7 +3,8 @@ name: romflash
 slug: romflash
 summary: Playstation 2 ROM flashing tool
 categories:
-  - utilities
+  - boot-tools
+  - hardware
 tags:
   - auto-discovered
 features: []

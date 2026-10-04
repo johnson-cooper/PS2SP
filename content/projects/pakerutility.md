@@ -5,6 +5,7 @@ summary: >-
   Command line tool to (un)pack `.PAK` files used by the Sony Utility Discs for
   PS2 and PSX
 categories:
+  - host-tools
   - utilities
 tags:
   - auto-discovered

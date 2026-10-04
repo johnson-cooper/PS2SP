@@ -3,7 +3,8 @@ name: OrbitPS2-Manager-for-PR
 slug: orbitps2-manager-for-pr
 summary: 'A modern, cross-platform way to manage your OPL game collection.'
 categories:
-  - loaders
+  - host-tools
+  - utilities
 tags:
   - nathanneurotic
   - curated-owner

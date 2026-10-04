@@ -3,7 +3,7 @@ name: Pang-ps2
 slug: pang-ps2
 summary: a remake of the old arcade ball game Pang for the PlayStation 2™
 categories:
-  - utilities
+  - games
 tags:
   - auto-discovered
 features: []

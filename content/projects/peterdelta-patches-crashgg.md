@@ -3,6 +3,7 @@ name: PeterDelta_patches
 slug: peterdelta-patches-crashgg
 summary: List of my contribution to the PS2 60fps patches and their preservation.
 categories:
+  - cheat-tools
   - emulators
 tags:
   - auto-discovered

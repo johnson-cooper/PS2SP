@@ -3,7 +3,7 @@ name: openvcl
 slug: openvcl-ps2dev
 summary: Replacement for VCL (VU Command Line)
 categories:
-  - sdks
+  - libraries
   - development
 tags:
   - fork

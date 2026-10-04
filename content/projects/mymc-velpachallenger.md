@@ -4,6 +4,7 @@ slug: mymc-velpachallenger
 summary: Fork of mymc
 categories:
   - save-tools
+  - host-tools
 tags:
   - memory-card
   - saves

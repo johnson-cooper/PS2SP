@@ -3,9 +3,7 @@ name: RomP
 slug: romp
 summary: 'Natively run your RomM library games! On Windows, Linux, and macOS'
 categories:
-  - emulators
-  - libraries
-  - development
+  - host-tools
 tags:
   - auto-discovered
   - pending-promoted

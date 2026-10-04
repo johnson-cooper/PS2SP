@@ -5,10 +5,8 @@ summary: >-
   Toolchain and C99 runtime for building PlayStation 2 homebrew interfaces from
   HTML and CSS, baked on the host and rendered with gsKit on-console.
 categories:
-  - sdks
-  - development
-  - libraries
   - runtimes
+  - development
 tags:
   - nathanneurotic
   - curated-owner

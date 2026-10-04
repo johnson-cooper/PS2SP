@@ -6,6 +6,7 @@ summary: >-
   old homebrew wich loads external USB Drivers
 categories:
   - drivers
+  - utilities
 tags:
   - nathanneurotic
   - curated-owner

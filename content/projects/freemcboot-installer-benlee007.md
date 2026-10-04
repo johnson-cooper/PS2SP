@@ -6,6 +6,7 @@ summary: >-
   and launcher for PS2
 categories:
   - boot-tools
+  - installers
 tags:
   - freemcboot
   - fmcb

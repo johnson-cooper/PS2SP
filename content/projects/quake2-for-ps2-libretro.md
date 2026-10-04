@@ -3,12 +3,8 @@ name: quake2-for-ps2
 slug: quake2-for-ps2-libretro
 summary: A fan made port of id's Quake || for the PlayStation 2 Console.
 categories:
-  - emulators
   - games
   - ports
-  - sdks
-  - development
-  - libraries
 tags:
   - quake
   - quake2

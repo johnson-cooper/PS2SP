@@ -4,6 +4,7 @@ slug: melonds-ps2-danielsant0s
 summary: Port of melonDS for PS2.
 categories:
   - emulators
+  - ports
 tags:
   - fork
   - auto-discovered

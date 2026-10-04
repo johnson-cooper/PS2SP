@@ -3,7 +3,8 @@ name: PS2RD-CHT-Manager
 slug: ps2rd-cht-manager
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
+  - cheat-tools
+  - host-tools
 tags:
   - auto-discovered
 features: []

@@ -3,7 +3,8 @@ name: tentsr
 slug: tentsr
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
+  - drivers
+  - development
 tags:
   - auto-discovered
 features: []

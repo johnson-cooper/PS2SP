@@ -3,8 +3,8 @@ name: ps2docs
 slug: ps2docs-4kbyter
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - development
   - preservation
+  - development
 tags:
   - auto-discovered
   - fork

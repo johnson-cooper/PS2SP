@@ -3,8 +3,8 @@ name: Open-PS2-Loader-Compatibility-list
 slug: open-ps2-loader-compatibility-list-ducrp
 summary: A GitHub pages compatibility list for loader (PS2)
 categories:
-  - utilities
   - preservation
+  - utilities
 tags:
   - auto-discovered
   - fork

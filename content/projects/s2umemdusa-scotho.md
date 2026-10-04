@@ -3,7 +3,8 @@ name: s2uMemdusa
 slug: s2umemdusa-scotho
 summary: local testing
 categories:
-  - save-tools
+  - networking
+  - boot-tools
 tags:
   - auto-discovered
   - fork

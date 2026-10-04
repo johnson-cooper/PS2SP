@@ -3,7 +3,8 @@ name: pfsshell
 slug: pfsshell-parzivalwolfram
 summary: Browse and edit PFS filesystems
 categories:
-  - utilities
+  - host-tools
+  - file-managers
 tags:
   - pfs
   - apa

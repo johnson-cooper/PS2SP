@@ -3,9 +3,7 @@ name: CrystalClock
 slug: crystalclock
 summary: Re-creation of the PlayStation 2 display clock in Raylib.
 categories:
-  - libraries
-  - development
-  - engines
+  - demos
 tags:
   - nathanneurotic
   - curated-owner

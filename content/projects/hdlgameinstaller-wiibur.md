@@ -3,8 +3,8 @@ name: HDLGameInstaller
 slug: hdlgameinstaller-wiibur
 summary: The HDLoader game installer
 categories:
-  - loaders
   - installers
+  - loaders
 tags:
   - hdd
   - hdloader

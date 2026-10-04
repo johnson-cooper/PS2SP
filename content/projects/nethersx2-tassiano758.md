@@ -4,6 +4,7 @@ slug: nethersx2-tassiano758
 summary: 'maybe this is illegal, i made .APK release'
 categories:
   - emulators
+  - utilities
 tags:
   - auto-discovered
   - pending-promoted

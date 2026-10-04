@@ -4,6 +4,7 @@ slug: freemcboot-installer
 summary: 'Installer for FreeMcBoot, the PlayStation 2 homebrew bootloader and launcher.'
 categories:
   - boot-tools
+  - installers
 tags:
   - freemcboot
   - fmcb

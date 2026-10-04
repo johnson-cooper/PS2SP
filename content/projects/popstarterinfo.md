@@ -3,8 +3,7 @@ name: POPSTARTERINFO
 slug: popstarterinfo
 summary: Archive and documentation for POPStarter development and use on PlayStation 2.
 categories:
-  - loaders
-  - development
+  - preservation
 tags:
   - nathanneurotic
   - curated-owner

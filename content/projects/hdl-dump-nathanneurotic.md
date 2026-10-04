@@ -3,8 +3,8 @@ name: hdl-dump
 slug: hdl-dump-nathanneurotic
 summary: Install games in HDLoader format to APA-formatted hard drive
 categories:
-  - loaders
   - host-tools
+  - loaders
 tags:
   - nathanneurotic
   - curated-owner

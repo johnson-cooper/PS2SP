@@ -3,6 +3,7 @@ name: mkps2iso
 slug: mkps2iso
 summary: PlayStation 2 ISO/UDF disc image builder & dumper
 categories:
+  - host-tools
   - utilities
 tags:
   - auto-discovered

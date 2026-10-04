@@ -3,7 +3,8 @@ name: TW04OnlineServer
 slug: tw04onlineserver
 summary: Replacement for the EA Sports Tiger Woods PGA Tour 2004 online server
 categories:
-  - utilities
+  - networking
+  - preservation
 tags:
   - auto-discovered
   - pending-promoted

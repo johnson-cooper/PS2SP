@@ -3,6 +3,7 @@ name: PCSX2
 slug: pcsx2-sovietleader228
 summary: List of my contribution to the PS2 60fps patches and their preservation.
 categories:
+  - cheat-tools
   - emulators
 tags:
   - auto-discovered

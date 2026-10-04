@@ -4,6 +4,7 @@ slug: ps2-drivers-israpps
 summary: A library for making easier the usage of the IO drivers (`.IRX` + `EE .a`)
 categories:
   - drivers
+  - libraries
 tags:
   - auto-discovered
   - fork

@@ -6,7 +6,6 @@ summary: >-
   based on Open PS2 Loader with a redesigned interface, visual improvements,
   cover art support, and enhanced browsing experience.
 categories:
-  - loaders
   - launchers
 tags:
   - nathanneurotic

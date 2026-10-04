@@ -4,6 +4,7 @@ slug: opentuna-installer-akuhak
 summary: OpenTuna installer
 categories:
   - boot-tools
+  - installers
 tags:
   - opentuna
   - exploit

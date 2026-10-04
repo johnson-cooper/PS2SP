@@ -3,7 +3,8 @@ name: Ember
 slug: ember
 summary: A fast PS1 for PS2 solution
 categories:
-  - utilities
+  - loaders
+  - emulators
 tags:
   - auto-discovered
 features: []

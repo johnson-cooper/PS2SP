@@ -6,7 +6,8 @@ summary: >-
   games such as SpongeBob SquarePants: Battle for Bikini Bottom and Scooby Doo:
   Night of 100 Frights (GameCube, PS2, Xbox, PC).
 categories:
-  - utilities
+  - host-tools
+  - development
 tags:
   - auto-discovered
   - pending-promoted

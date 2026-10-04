@@ -3,7 +3,8 @@ name: wxVU
 slug: wxvu
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
+  - development
+  - emulators
 tags:
   - auto-discovered
 features: []

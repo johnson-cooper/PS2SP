@@ -4,6 +4,7 @@ slug: mymcplusplus-israpps
 summary: 'Revised PlayStation 2 memory card manager '
 categories:
   - save-tools
+  - host-tools
 tags:
   - fork
   - auto-discovered

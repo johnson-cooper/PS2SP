@@ -5,7 +5,8 @@ summary: >-
   PlayStation 2 IOP modules for MMCE devices, providing card switching, Game ID
   communication, filesystem access, and lightweight in-game data streaming.
 categories:
-  - utilities
+  - hardware
+  - drivers
 tags:
   - nathanneurotic
   - curated-owner

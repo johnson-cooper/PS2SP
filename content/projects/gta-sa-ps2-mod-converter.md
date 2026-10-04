@@ -6,6 +6,7 @@ summary: >-
   format
 categories:
   - host-tools
+  - utilities
 tags:
   - auto-discovered
 features: []

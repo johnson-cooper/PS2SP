@@ -4,6 +4,7 @@ slug: osdbits
 summary: parts of the Playstation2's OSDSYS reverse engineered
 categories:
   - dashboards
+  - development
 tags:
   - nathanneurotic
   - curated-owner

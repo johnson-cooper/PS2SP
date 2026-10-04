@@ -3,9 +3,9 @@ name: HDL-Batch-installer
 slug: hdl-batch-installer-haker120
 summary: A GUI for HDL Dump.
 categories:
-  - loaders
   - host-tools
   - installers
+  - loaders
 tags:
   - hdl-dump
   - hdd

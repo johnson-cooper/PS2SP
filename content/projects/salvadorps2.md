@@ -3,7 +3,8 @@ name: salvadorPS2
 slug: salvadorps2
 summary: A command-line tool that compresses small PlayStation 2 executable files
 categories:
-  - utilities
+  - host-tools
+  - development
 tags:
   - auto-discovered
 features: []

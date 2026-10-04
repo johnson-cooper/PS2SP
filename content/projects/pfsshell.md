@@ -5,7 +5,8 @@ summary: >-
   Desktop shell for browsing and editing PFS filesystems on APA-formatted
   PlayStation 2 hard drives.
 categories:
-  - utilities
+  - host-tools
+  - file-managers
 tags:
   - pfs
   - apa

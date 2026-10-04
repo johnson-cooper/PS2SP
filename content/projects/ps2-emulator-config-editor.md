@@ -5,6 +5,7 @@ summary: >-
   Plugs a portable PS2 emulator into the retro-gaming ecosystem for on-the-go
   play
 categories:
+  - host-tools
   - emulators
 tags:
   - auto-discovered

@@ -5,9 +5,8 @@ summary: >-
   Network-based PlayStation 2 homebrew-launcher exploit for supported Medius
   games, using server-controlled memory writes to load LaunchELF.
 categories:
-  - boot-tools
-  - launchers
   - networking
+  - boot-tools
 tags:
   - nathanneurotic
   - curated-owner

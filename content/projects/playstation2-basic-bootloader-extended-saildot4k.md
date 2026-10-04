@@ -7,8 +7,7 @@ summary: >-
   Neutrino eGSM
 categories:
   - boot-tools
-  - loaders
-  - dashboards
+  - launchers
 tags:
   - auto-discovered
 features: []

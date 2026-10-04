@@ -4,6 +4,7 @@ slug: freemcboot-installer-infinitycorp214
 summary: Custom installers for FreeMcBoot 1.966 & 1.965
 categories:
   - boot-tools
+  - installers
 tags:
   - freemcboot
   - fmcb

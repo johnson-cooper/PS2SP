@@ -3,7 +3,7 @@ name: Poison-Pink-Korean-Translation
 slug: poison-pink-korean-translation
 summary: Poison Pink PS2 비공식 한국어화 개발·검수 프로젝트 — 미번역 이미지와 추가 검수가 남아 있는 개발판입니다.
 categories:
-  - utilities
+  - preservation
 tags:
   - auto-discovered
   - pending-promoted

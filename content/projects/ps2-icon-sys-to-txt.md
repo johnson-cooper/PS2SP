@@ -3,7 +3,8 @@ name: PS2-icon-sys-to-txt
 slug: ps2-icon-sys-to-txt
 summary: 'Drag and Drop batch w/ python script for PS2 Save Icons: icon.sys to icon.txt'
 categories:
-  - utilities
+  - save-tools
+  - host-tools
 tags:
   - nathanneurotic
   - curated-owner

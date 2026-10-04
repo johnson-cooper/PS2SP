@@ -5,6 +5,7 @@ summary: >-
   This tool allows you to display play history from the "Your System
   Configuration" save file
 categories:
+  - save-tools
   - utilities
 tags:
   - auto-discovered

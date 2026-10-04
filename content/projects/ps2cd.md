@@ -5,6 +5,7 @@ summary: >-
   PS2CD - Rust-based deterministic PS2 CD/DVD image builder with IML and custom
   boot logo support 
 categories:
+  - host-tools
   - utilities
 tags:
   - auto-discovered

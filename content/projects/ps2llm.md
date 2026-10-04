@@ -6,7 +6,8 @@ summary: >-
   featuring JIT weight-streaming from storage USB and C89 Emotion Engine
   optimizations.
 categories:
-  - utilities
+  - runtimes
+  - engines
 tags:
   - auto-discovered
 features: []

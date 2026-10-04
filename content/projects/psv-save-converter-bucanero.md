@@ -6,7 +6,7 @@ summary: >-
   format.
 categories:
   - save-tools
-  - utilities
+  - host-tools
 tags:
   - fork
   - auto-discovered

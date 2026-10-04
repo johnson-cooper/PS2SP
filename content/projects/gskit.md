@@ -3,9 +3,8 @@ name: gsKit
 slug: gskit
 summary: C interface and graphics toolkit for the PlayStation 2 Graphics Synthesizer.
 categories:
-  - sdks
-  - development
   - libraries
+  - development
 tags:
   - graphics
   - gs

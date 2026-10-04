@@ -3,6 +3,7 @@ name: R3CONFIGURATOR
 slug: r3configurator
 summary: Configurator based on DanielSant0s' Enceladus Lua environment
 categories:
+  - hardware
   - utilities
 tags:
   - nathanneurotic

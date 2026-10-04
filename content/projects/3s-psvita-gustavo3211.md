@@ -3,8 +3,7 @@ name: 3s-psvita
 slug: 3s-psvita-gustavo3211
 summary: trying to port 3rd strike to the psvita
 categories:
-  - preservation
-  - development
+  - ports
 tags:
   - auto-discovered
   - fork

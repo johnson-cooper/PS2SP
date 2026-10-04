@@ -3,7 +3,7 @@ name: SoftDev2
 slug: softdev2
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
+  - development
 tags:
   - auto-discovered
 features: []

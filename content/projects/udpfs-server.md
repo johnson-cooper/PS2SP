@@ -6,6 +6,7 @@ summary: >-
   device
 categories:
   - networking
+  - host-tools
 tags:
   - auto-discovered
 features: []

@@ -7,9 +7,8 @@ summary: >-
   stuff(cdvddrvr). This was written long ago by Pixel and I.  It needs some TLC.
 categories:
   - preservation
-  - development
-  - loaders
   - drivers
+  - development
 tags:
   - auto-discovered
 features: []

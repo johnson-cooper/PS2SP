@@ -5,8 +5,8 @@ summary: >-
   A consistent non-gamebreaking 60FPS Patch for Dragon Ball Z: Budokai Tenkaichi
   3 on PS2
 categories:
+  - cheat-tools
   - emulators
-  - utilities
 tags:
   - auto-discovered
   - pending-promoted

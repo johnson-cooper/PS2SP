@@ -3,7 +3,6 @@ name: mdma
 slug: mdma
 summary: a Playstation2 DMA packet library
 categories:
-  - networking
   - libraries
   - development
 tags:

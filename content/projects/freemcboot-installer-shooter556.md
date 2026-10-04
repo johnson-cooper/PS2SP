@@ -4,6 +4,7 @@ slug: freemcboot-installer-shooter556
 summary: 'Custom installers for FreeMcBoot 1.966, 1.965 and 1.953'
 categories:
   - boot-tools
+  - installers
 tags:
   - freemcboot
   - fmcb

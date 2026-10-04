@@ -6,7 +6,8 @@ summary: >-
   characters, rigs, textures, custom animations, ADX audio and loops,
   Blender/GLB workflows, ISO rebuilding, in-app updates and previous builds.
 categories:
-  - utilities
+  - host-tools
+  - development
 tags:
   - auto-discovered
 features: []

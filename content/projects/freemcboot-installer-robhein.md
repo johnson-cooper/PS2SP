@@ -4,6 +4,7 @@ slug: freemcboot-installer-robhein
 summary: Custom installers for Several versions of FreeMcBoot
 categories:
   - boot-tools
+  - installers
 tags:
   - freemcboot
   - fmcb

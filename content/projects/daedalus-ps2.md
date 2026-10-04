@@ -3,6 +3,7 @@ name: daedalus-PS2
 slug: daedalus-ps2
 summary: Daedalus PS2 port
 categories:
+  - emulators
   - ports
 tags:
   - auto-discovered

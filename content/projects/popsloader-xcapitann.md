@@ -4,6 +4,7 @@ slug: popsloader-xcapitann
 summary: 'https://github.com/NathanNeurotic/POPSLoader/releases'
 categories:
   - loaders
+  - emulators
 tags:
   - fork
   - auto-discovered

@@ -4,6 +4,7 @@ slug: open-ps2-loader-user-guide
 summary: Open PS2 Loader User Guide
 categories:
   - loaders
+  - preservation
 tags:
   - auto-discovered
 features: []

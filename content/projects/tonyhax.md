@@ -5,7 +5,8 @@ summary: >-
   Universal PS1 backup loader fork with support for early PlayStation 2 console
   models.
 categories:
-  - utilities
+  - boot-tools
+  - loaders
 tags:
   - nathanneurotic
   - curated-owner

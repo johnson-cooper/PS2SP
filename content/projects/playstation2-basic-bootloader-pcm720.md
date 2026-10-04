@@ -4,6 +4,7 @@ slug: playstation2-basic-bootloader-pcm720
 summary: PS2BBL fork with added chainloading functionality
 categories:
   - boot-tools
+  - launchers
 tags:
   - fork
   - auto-discovered

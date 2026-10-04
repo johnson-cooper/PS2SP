@@ -5,7 +5,8 @@ summary: >-
   Manage your Playstation 2 CDVD-Images on your USB-Drive for use with
   OpenPS2Loader or PS2ESDL.
 categories:
-  - utilities
+  - host-tools
+  - loaders
 tags:
   - auto-discovered
   - fork

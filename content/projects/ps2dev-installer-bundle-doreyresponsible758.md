@@ -6,8 +6,8 @@ summary: >-
   Ubuntu or Ubuntu via WSL with tested tools and SDKs.
 categories:
   - sdks
-  - development
   - installers
+  - development
 tags:
   - auto-discovered
 features: []

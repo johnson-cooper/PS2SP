@@ -3,6 +3,7 @@ name: ps2-240ptestsuite-native
 slug: ps2-240ptestsuite-native
 summary: 'a native PS2 port of the 240p test suite '
 categories:
+  - utilities
   - ports
 tags:
   - auto-discovered

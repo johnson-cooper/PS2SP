@@ -3,7 +3,8 @@ name: ps2rd
 slug: ps2rd
 summary: Collection of tools to remotely debug PS2 games
 categories:
-  - utilities
+  - cheat-tools
+  - development
 tags:
   - auto-discovered
 features: []

@@ -5,7 +5,7 @@ summary: >-
   tech's code used as a learning playground. I recommend using the official
   repo.
 categories:
-  - utilities
+  - hardware
 tags:
   - nathanneurotic
   - curated-owner

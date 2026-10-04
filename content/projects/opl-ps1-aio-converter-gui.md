@@ -5,7 +5,8 @@ summary: >-
   AIO tool for converting and managing PS1 games for use with POPStarter on
   PlayStation 2 OPL.
 categories:
-  - loaders
+  - host-tools
+  - utilities
 tags:
   - auto-discovered
 features: []

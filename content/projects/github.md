@@ -3,8 +3,7 @@ name: .github
 slug: github
 summary: Github special repository
 categories:
-  - sdks
-  - development
+  - utilities
 tags:
   - auto-discovered
 features: []

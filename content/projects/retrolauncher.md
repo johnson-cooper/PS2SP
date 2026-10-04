@@ -5,8 +5,6 @@ summary: >-
   Graphical launcher for retro games on PlayStation 2 using RetroArch,
   POPStarter, and Neutrino.
 categories:
-  - emulators
-  - loaders
   - launchers
 tags:
   - retroarch

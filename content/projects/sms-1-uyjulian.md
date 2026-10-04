@@ -3,7 +3,7 @@ name: SMS-1
 slug: sms-1-uyjulian
 summary: Multimedia player for Sony PlayStation 2
 categories:
-  - utilities
+  - media
 tags:
   - media-player
   - video

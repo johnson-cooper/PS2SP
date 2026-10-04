@@ -4,6 +4,7 @@ slug: singstar-toolbox
 summary: Make custom PS2/PS3 SingStar discs + convert UltraStar to SingStar.
 categories:
   - media
+  - host-tools
 tags:
   - auto-discovered
   - pending-promoted

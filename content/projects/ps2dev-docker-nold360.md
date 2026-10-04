@@ -5,8 +5,8 @@ summary: >-
   Automatically build a docker image with the ps2dev toolchain ready to be used
   for homebrew development.
 categories:
-  - development
   - host-tools
+  - development
 tags:
   - auto-discovered
   - fork

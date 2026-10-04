@@ -6,6 +6,7 @@ summary: >-
   split-screen fixes, Ghost Recon and Jungle Storm enemy population, decals and
   effects.
 categories:
+  - host-tools
   - utilities
 tags:
   - auto-discovered

@@ -3,7 +3,8 @@ name: PSVitaGAME-TEST
 slug: psvitagame-test-firewolf2436
 summary: test stuff fr vita cause yea...
 categories:
-  - utilities
+  - preservation
+  - development
 tags:
   - auto-discovered
   - pending-promoted

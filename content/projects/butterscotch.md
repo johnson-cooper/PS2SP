@@ -5,7 +5,8 @@ summary: >-
   Open-source GameMaker: Studio runner with native PlayStation 2 builds,
   including PS2-specific ELF targets.
 categories:
-  - utilities
+  - runtimes
+  - engines
 tags:
   - auto-discovered
   - ps2

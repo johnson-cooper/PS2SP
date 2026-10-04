@@ -5,7 +5,8 @@ summary: >-
   2 simple windows .bat and .py combos, which will run through all ./ icon.sys
   or title.cfg files from scripts ran directory.
 categories:
-  - utilities
+  - save-tools
+  - host-tools
 tags:
   - nathanneurotic
   - curated-owner

@@ -3,7 +3,8 @@ name: wrench
 slug: wrench-ghostcoder6969
 summary: 'A set of modding tools (level editor, etc) for the Ratchet & Clank PS2 games.'
 categories:
-  - utilities
+  - host-tools
+  - development
 tags:
   - auto-discovered
   - pending-promoted

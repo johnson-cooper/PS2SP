@@ -3,7 +3,8 @@ name: Butterscotch
 slug: butterscotch-un1q32
 summary: "\U0001F967 An open source re-implementation of GameMaker: Studio's runner (YoYo Runner), targeting Undertale v1.08 (Bytecode Version 16)"
 categories:
-  - utilities
+  - runtimes
+  - engines
 tags:
   - auto-discovered
   - ps2

@@ -3,8 +3,8 @@ name: ps2-unpacker
 slug: ps2-unpacker-redthing1
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - utilities
   - development
+  - utilities
 tags:
   - auto-discovered
   - fork

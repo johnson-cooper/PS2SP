@@ -5,6 +5,7 @@ summary: >-
   Daily price-momentum board for collectible retro games (PS2, GameCube, PSP,
   Vita, N64, Dreamcast). Go collector + React site on GitHub Pages, no server.
 categories:
+  - preservation
   - utilities
 tags:
   - auto-discovered
