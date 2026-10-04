@@ -1,7 +1,9 @@
 ---
 name: Open-PS2-Loader
 slug: open-ps2-loader-patrickprz
-summary: "Community fork of Open PS2 Loader (OPL) with custom patches, interface updates, and experimental loader backends."
+summary: >-
+  Community fork of Open PS2 Loader (OPL) with custom patches, interface
+  updates, and experimental loader backends.
 categories:
   - loaders
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:50:27.282Z'
+  lastSynchronized: '2026-10-04T15:23:31.076Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b1859db1528520e9b6b790d7881ac6cf3fbf284860745905a0949d662f2e45e8"
-    releasesEtag: '"96dbaa5a1ba612f09046f88e261ca7c71987d08e38ee07d6c4ea67437dfe4656"'
+    repoEtag: W/"a42e58d1af76d0d2ea5fd86466031f9f289c92b8c1922700d8ad242849adbac8"
+    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
 discovery:
   method: 'fork-network:RoloDeOvo/Open-PS2-Loader'
   confidence: 100

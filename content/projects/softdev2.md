@@ -1,7 +1,7 @@
 ---
 name: SoftDev2
 slug: softdev2
-summary: "Integrated software development framework and code samples for PlayStation 2."
+summary: Integrated software development framework and code samples for PlayStation 2.
 categories:
   - development
 tags:
@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2021-09-06T20:32:56Z'
   url: 'https://github.com/parrado/SoftDev2/releases/tag/v1.0.5'
 activity:
-  lastSynchronized: '2026-10-02T15:50:49.952Z'
+  lastSynchronized: '2026-10-04T15:24:03.515Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0ca9b965f98fb4b7737a262bd4f4ef28b63f6f9c5b578ffca062bfdbeea54f8c"
-    releasesEtag: W/"c6f140ebb6e6337a5e3e265ea464787723a4468033dcd07b88e100bd819d63fa"
+    repoEtag: W/"c7b3e1539c8cef23bc159e2516e1cc9495f9e5fb550ffa8be4ebb7447b34ec21"
+    releasesEtag: W/"84990976bd15d92e041a9addc430b27ecbc4b827c22f20f9c1fe7618a5100eae"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

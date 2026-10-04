@@ -1,7 +1,9 @@
 ---
 name: isjpcm
 slug: isjpcm
-summary: "PCM sound output and audio streaming library for PlayStation 2 homebrew development, created by Sjeep."
+summary: >-
+  PCM sound output and audio streaming library for PlayStation 2 homebrew
+  development, created by Sjeep.
 categories:
   - libraries
   - media
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:50:12.838Z'
+  lastSynchronized: '2026-10-04T15:23:17.554Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b708fa4e6ac2d019239cf157f704229a52a51cfcac9f38712518f594dba41d94"
-    releasesEtag: '"96dbaa5a1ba612f09046f88e261ca7c71987d08e38ee07d6c4ea67437dfe4656"'
+    repoEtag: W/"11bb0a0b044733ea004a39dac02f3f736cfc7a790b1a74c9a9fb02e81434bec9"
+    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100

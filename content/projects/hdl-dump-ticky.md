@@ -1,7 +1,9 @@
 ---
 name: hdl-dump
 slug: hdl-dump-ticky
-summary: "Host command-line tool for installing and extracting PS2 games on APA-formatted internal hard drives over network or direct connection."
+summary: >-
+  Host command-line tool for installing and extracting PS2 games on
+  APA-formatted internal hard drives over network or direct connection.
 categories:
   - host-tools
   - loaders
@@ -32,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:50:11.263Z'
+  lastSynchronized: '2026-10-04T15:23:15.110Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"91bfdb7ec13aa3c2019e0616794722183276926a566ba8a5922e10bfec6a750b"
-    releasesEtag: '"96dbaa5a1ba612f09046f88e261ca7c71987d08e38ee07d6c4ea67437dfe4656"'
+    repoEtag: W/"7c8cc00119da3219566efe812364109420bdd696d62ba1e170e23c0890b5ac8a"
+    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
 discovery:
   method: 'fork-network:ps2homebrew/hdl-dump'
   confidence: 95

@@ -1,7 +1,9 @@
 ---
 name: DKWDRV-1
 slug: dkwdrv-1-israpps
-summary: "Unified PS1DRV replacement driver for PlayStation 2 consoles, enhancing PS1 backward compatibility, optical drive timing, and video modes."
+summary: >-
+  Unified PS1DRV replacement driver for PlayStation 2 consoles, enhancing PS1
+  backward compatibility, optical drive timing, and video modes.
 categories:
   - drivers
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:50:00.464Z'
+  lastSynchronized: '2026-10-04T15:23:06.406Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"65899a0924477c791c6e1d44226084c7aa5148cdaa46cba4c2330a8d3016296b"
-    releasesEtag: '"96dbaa5a1ba612f09046f88e261ca7c71987d08e38ee07d6c4ea67437dfe4656"'
+    repoEtag: W/"419ea353e50c02890dfeb6f4423833efe01a04ac6441e34dd8ca9d411b1b8a5d"
+    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
 discovery:
   method: 'fork-network:DKWDRV/DKWDRV'
   confidence: 95

@@ -1,7 +1,9 @@
 ---
 name: libretro-pcsx2
 slug: libretro-pcsx2-crazyqk2019
-summary: "PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation frontend support on PS2."
+summary: >-
+  PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation
+  frontend support on PS2.
 categories:
   - emulators
   - ports
@@ -30,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:50:13.765Z'
+  lastSynchronized: '2026-10-04T15:23:18.468Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"539f43ca99533b381e986d2fe04940790e8ac73178c5c10fadd952640aee6f85"
-    releasesEtag: '"96dbaa5a1ba612f09046f88e261ca7c71987d08e38ee07d6c4ea67437dfe4656"'
+    repoEtag: W/"a2dc9ee506c68a7dac7be3b232b383e34c7fd54c8d42b454a08d68ca1e07aa0a"
+    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 95

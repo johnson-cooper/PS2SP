@@ -1,7 +1,9 @@
 ---
 name: OPL-Launcher
 slug: opl-launcher-israpps
-summary: "Lightweight companion ELF launcher that boots games directly through Open PS2 Loader without loading the full GUI."
+summary: >-
+  Lightweight companion ELF launcher that boots games directly through Open PS2
+  Loader without loading the full GUI.
 categories:
   - launchers
   - loaders
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:50:28.980Z'
+  lastSynchronized: '2026-10-04T15:23:32.611Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bae53e42d78cec9093779ef9cb7581ba5e39dd6501061b550556efa916e0f4a1"
-    releasesEtag: '"96dbaa5a1ba612f09046f88e261ca7c71987d08e38ee07d6c4ea67437dfe4656"'
+    repoEtag: W/"1e4282e9b2072b7dc5e4ef2bd2b1f19ac659b2a534bc26f96cd67f30c06f7b56"
+    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 95

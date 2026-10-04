@@ -1,7 +1,9 @@
 ---
 name: LbFn
 slug: lbfn
-summary: "Fast homebrew launcher and disc boot utility for PlayStation 2, featuring video mode selection and high-resolution output."
+summary: >-
+  Fast homebrew launcher and disc boot utility for PlayStation 2, featuring
+  video mode selection and high-resolution output.
 categories:
   - loaders
   - utilities
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:50:13.292Z'
+  lastSynchronized: '2026-10-04T15:23:17.983Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8272cee75e4dfbdcc25ecf93dcd0d5dbaa2ac2dee9d64b603acfb782cac8d5ef"
-    releasesEtag: '"96dbaa5a1ba612f09046f88e261ca7c71987d08e38ee07d6c4ea67437dfe4656"'
+    repoEtag: W/"00e47424069cafa979e5af539ad9c7d88656e616ff761e5c9fa89a87ef10b2ac"
+    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100

@@ -1,7 +1,9 @@
 ---
 name: PS2SP
 slug: ps2sp-johnson-cooper
-summary: "PlayStation 2 Software Plaza, an open community directory of PS2 homebrew, tools, and resources."
+summary: >-
+  PlayStation 2 Software Plaza, an open community directory of PS2 homebrew,
+  tools, and resources.
 categories:
   - preservation
   - utilities
@@ -20,19 +22,19 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 1
-  lastCommit: '2026-10-02T13:31:29Z'
+  lastCommit: '2026-10-04T15:00:36Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:50:46.773Z'
+  lastSynchronized: '2026-10-04T15:23:51.778Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c07488307815463a5f9b471f9838cc1b40e46008db5e59478a433d1c29fd42ac"
-    releasesEtag: '"96dbaa5a1ba612f09046f88e261ca7c71987d08e38ee07d6c4ea67437dfe4656"'
+    repoEtag: W/"65a0210adbae31c4e2ef2f47a4a43d8aa04c2d73a15c2d32dc0f18ec12193181"
+    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

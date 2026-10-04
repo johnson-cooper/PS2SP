@@ -1,7 +1,9 @@
 ---
 name: Lrps2-Lockstep
 slug: lrps2-lockstep-bloodotakuz
-summary: "PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation frontend support on PS2."
+summary: >-
+  PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation
+  frontend support on PS2.
 categories:
   - emulators
   - ports
@@ -30,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:50:14.719Z'
+  lastSynchronized: '2026-10-04T15:23:19.413Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a3c7aa223a83b740ed16b888c0698b2ea5e2bc392b6f2e1f977023f848304400"
-    releasesEtag: '"96dbaa5a1ba612f09046f88e261ca7c71987d08e38ee07d6c4ea67437dfe4656"'
+    repoEtag: W/"dc36ac757c6c76da3245a9132cb3f57da98a04a59f3c9c1e0475f13a978881ee"
+    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 95

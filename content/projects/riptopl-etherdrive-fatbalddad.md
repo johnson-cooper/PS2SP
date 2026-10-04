@@ -38,9 +38,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T10:40:07.412Z'
+  lastSynchronized: '2026-10-04T15:24:00.410Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6dcd48e62778525a6fc9050ac0290a7dc2652c97f5bc7f692541b1cb5dadc617"
+    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
 discovery:
   method: 'fork-network:NathanNeurotic/Open-PS2-Loader'
   confidence: 100
@@ -58,5 +61,4 @@ relationships:
   forkOf: NathanNeurotic/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

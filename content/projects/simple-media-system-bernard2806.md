@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T14:55:33.658Z'
+  lastSynchronized: '2026-10-04T15:24:01.393Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"3438f843817dd562ba518227c6da2e17c1f2079aa9fff7930d07145129877a3f"
+    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
 discovery:
   method: 'fork-network:NathanNeurotic/Simple-Media-System'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: NathanNeurotic/Simple-Media-System
   source: NathanNeurotic/Simple-Media-System
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

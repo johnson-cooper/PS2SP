@@ -13,7 +13,7 @@ tags:
 features: []
 authors: []
 license: null
-homepage: null
+homepage: 'https://decomp.dev/Lynder063/rac1-decomp'
 source:
   provider: github
   repository: Veradictus/rac1-decomp
@@ -21,10 +21,10 @@ source:
   url: 'https://github.com/Veradictus/rac1-decomp'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-03T23:02:53Z'
 latestRelease:
   tag: null
   name: null
@@ -32,8 +32,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-04T01:00:16.356Z'
+  lastSynchronized: '2026-10-04T15:23:57.559Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f065a877b9403ae9cea0045f857e8c79202210c9c5e0f1c9cb10404c992d3089"
+    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -49,5 +53,4 @@ relationships:
   forkOf: Lynder063/rac1-decomp
   source: Lynder063/rac1-decomp
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

@@ -1,7 +1,9 @@
 ---
 name: LuaPlayer
 slug: luaplayer
-summary: "Lua scripting engine and runtime environment for running Lua games and applications on PlayStation 2."
+summary: >-
+  Lua scripting engine and runtime environment for running Lua games and
+  applications on PlayStation 2.
 categories:
   - runtimes
   - development
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:50:15.196Z'
+  lastSynchronized: '2026-10-04T15:23:19.859Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"df60e538f590120ff9cc5525bf05e7dbcc912dec55493af96c12a7bc73cb2c91"
-    releasesEtag: '"96dbaa5a1ba612f09046f88e261ca7c71987d08e38ee07d6c4ea67437dfe4656"'
+    repoEtag: W/"2e9fea9fc42d1e2b329cfa47cd9128ae1c0d46839f47f435ded90560ad609575"
+    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 95

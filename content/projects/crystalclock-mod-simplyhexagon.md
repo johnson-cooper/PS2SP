@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:49:59.964Z'
+  lastSynchronized: '2026-10-04T15:23:06.017Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1c50dccdfd663f312ff5075b9f15f3625a529d8ef4a8799300b98c4e7a60188e"
-    releasesEtag: '"96dbaa5a1ba612f09046f88e261ca7c71987d08e38ee07d6c4ea67437dfe4656"'
+    repoEtag: W/"c719f65621d90ca5b5c0939beee632f6d4132b92a1981bc13800fa0d728d857c"
+    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
 discovery:
   method: 'fork-network:rrtry/CrystalClock'
   confidence: 95

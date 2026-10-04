@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: cps2_improvements
-  stars: 0
+  stars: 2
   forks: 0
-  lastCommit: '2026-09-15T01:13:13Z'
+  lastCommit: '2026-10-02T22:47:15Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:50:21.250Z'
+  lastSynchronized: '2026-10-04T15:23:24.887Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d25291e3d6882e021b138747873d46263c788d24f27edf40a4f9254a073d7130"
-    releasesEtag: '"96dbaa5a1ba612f09046f88e261ca7c71987d08e38ee07d6c4ea67437dfe4656"'
+    repoEtag: W/"f4baaf90a333a8a0918fda146ceb0fbdbf74347084f6cfa74d159e4dae1e51f6"
+    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
 discovery:
   method: 'fork-network:SumavisionQ5/NJEMU-PS2'
   confidence: 100

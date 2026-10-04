@@ -1,7 +1,9 @@
 ---
 name: mmceman
 slug: mmceman-ps2-mmce
-summary: "IOP kernel modules and manager for MMCE hardware devices on PlayStation 2, enabling memory card switching and Game ID integration."
+summary: >-
+  IOP kernel modules and manager for MMCE hardware devices on PlayStation 2,
+  enabling memory card switching and Game ID integration.
 categories:
   - hardware
   - drivers
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: '2026-03-10T19:27:00Z'
   url: 'https://github.com/ps2-mmce/mmceman/releases/tag/v2.1.1'
 activity:
-  lastSynchronized: '2026-10-02T15:50:16.784Z'
+  lastSynchronized: '2026-10-04T15:23:21.177Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"956ea5d7f645865193e2bcbf7c447a47591f1470a1ba31165a62074887a09ee5"
-    releasesEtag: W/"e469d297bf208d06d37cedf76be7ce5fe65d9bddf9db31d9e6eb63aae1d055ac"
+    repoEtag: W/"788623bdedcf5f1e9b23050732bece0205b903cebde6abf9b67e521edb5543ed"
+    releasesEtag: W/"d6267817dab2e4b06aadc7343999bdd22fa89bac751cbc30669fb3ce07154b9b"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
