@@ -3,7 +3,7 @@ name: scosdsys
 slug: scosdsys
 summary: Self contained OSDSYS
 categories:
-  - uncategorized
+  - dashboards
 tags:
   - auto-discovered
 features: []

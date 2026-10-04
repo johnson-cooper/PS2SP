@@ -3,7 +3,8 @@ name: mymc_web
 slug: mymc-web-dmonmikes
 summary: Web interface to manage PCSX2 .ps2 memory card images
 categories:
-  - uncategorized
+  - save-tools
+  - host-tools
 tags:
   - auto-discovered
   - fork

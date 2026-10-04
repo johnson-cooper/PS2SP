@@ -5,7 +5,8 @@ summary: >-
   CLPS2C-Compiler is a compiler for CLPS2C, a domain-specific language built
   specifically for writing PS2 cheat codes.
 categories:
-  - uncategorized
+  - cheat-tools
+  - development
 tags:
   - auto-discovered
 features: []

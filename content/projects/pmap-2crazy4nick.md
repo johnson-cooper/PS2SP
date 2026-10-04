@@ -3,7 +3,8 @@ name: PMAP
 slug: pmap-2crazy4nick
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - development
+  - utilities
 tags:
   - auto-discovered
   - fork

@@ -3,7 +3,7 @@ name: udpfsd
 slug: udpfsd-pcm720
 summary: A UDPFS server written in Go
 categories:
-  - uncategorized
+  - networking
 tags:
   - auto-discovered
 features: []

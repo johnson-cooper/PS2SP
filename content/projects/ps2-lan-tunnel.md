@@ -7,7 +7,6 @@ summary: >-
   com criptografia, NAT traversal e fallback por relay.
 categories:
   - emulators
-  - networking
 tags:
   - auto-discovered
   - pending-promoted

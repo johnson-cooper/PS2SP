@@ -3,7 +3,7 @@ name: sd2psXtd.github.io
 slug: sd2psxtd-github-io-mark-b97
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - hardware
 tags:
   - auto-discovered
   - fork

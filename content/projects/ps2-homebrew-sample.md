@@ -3,7 +3,7 @@ name: ps2-homebrew-sample
 slug: ps2-homebrew-sample
 summary: Hello World using PS2SDK DevKit (For homebrew development purposes)
 categories:
-  - uncategorized
+  - development
 tags:
   - auto-discovered
 features: []

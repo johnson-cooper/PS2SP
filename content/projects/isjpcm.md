@@ -3,7 +3,7 @@ name: isjpcm
 slug: isjpcm
 summary: sound library from Sjeep
 categories:
-  - uncategorized
+  - libraries
 tags:
   - auto-discovered
 features: []

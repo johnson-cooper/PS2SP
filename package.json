@@ -17,7 +17,8 @@
     "catalog:discover-web": "node scripts/discover-web.mjs",
     "catalog:discover-github-depth": "node scripts/discover-github-depth.mjs",
     "audit:ui": "node scripts/audit-ui-contracts.mjs",
-    "catalog:discover-external-git": "node scripts/discover-external-git.mjs"
+    "catalog:discover-external-git": "node scripts/discover-external-git.mjs",
+    "catalog:organize": "node scripts/organize-catalog.mjs"
   },
   "dependencies": {
     "astro": "^7.3.5",

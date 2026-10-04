@@ -3,7 +3,7 @@ name: ps2_drivers
 slug: ps2-drivers-akuhak
 summary: A library for making easier the usage of the IO drivers (`.IRX` + `EE .a`)
 categories:
-  - uncategorized
+  - drivers
 tags:
   - auto-discovered
   - fork

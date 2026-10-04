@@ -5,7 +5,8 @@ summary: >-
   Graphical PlayStation 2 launcher for browsing and starting PS1 games through
   POPStarter.
 categories:
-  - launchers
+  - loaders
+  - emulators
 tags:
   - ps1
   - popstarter

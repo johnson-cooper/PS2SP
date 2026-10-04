@@ -3,7 +3,7 @@ name: C-Game-Modding-Utility
 slug: c-game-modding-utility
 summary: A game modding utility that makes injecting C/C++ code easier.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

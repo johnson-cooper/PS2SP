@@ -3,7 +3,8 @@ name: lrps2-libretro
 slug: lrps2-libretro-wizzardsk
 summary: LRPS2 libretro core with ARM support
 categories:
-  - uncategorized
+  - emulators
+  - ports
 tags:
   - auto-discovered
   - pending-promoted

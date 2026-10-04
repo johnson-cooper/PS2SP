@@ -5,7 +5,7 @@ summary: >-
   Patch PS1 and PS2 CD games to work on early PS2 models when burned to 80
   minute/700MB CD-Rs.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

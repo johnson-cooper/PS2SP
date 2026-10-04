@@ -3,7 +3,7 @@ name: Simple-Media-System
 slug: simple-media-system-themriron2
 summary: Source code for Simple Media System for PlayStation 2 by Eugene Plotnikov.
 categories:
-  - uncategorized
+  - media
 tags:
   - auto-discovered
 features: []

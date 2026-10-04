@@ -3,7 +3,7 @@ name: opl-mmce
 slug: opl-mmce-jusefn
 summary: Game and app loader for Sony PlayStation 2
 categories:
-  - uncategorized
+  - loaders
 tags:
   - fork
   - auto-discovered

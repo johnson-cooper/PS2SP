@@ -3,8 +3,8 @@ name: sd2psXtd.github.io
 slug: sd2psxtd-github-io
 summary: "Website and tools for sd2psXtd, extended SD2PSX firmware with PS2 Game ID switching, MMCE support, memory-card features, and PS1/PS2 utilities."
 categories:
+  - games
   - hardware
-  - utilities
 tags:
   - nathanneurotic
   - curated-owner

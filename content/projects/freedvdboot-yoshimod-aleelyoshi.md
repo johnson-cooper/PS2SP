@@ -3,7 +3,7 @@ name: FreeDVDBoot-YoshiMod
 slug: freedvdboot-yoshimod-aleelyoshi
 summary: PlayStation 2 DVD Player Exploit
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
   - fork

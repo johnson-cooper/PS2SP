@@ -3,7 +3,8 @@ name: HDLGameInstaller
 slug: hdlgameinstaller-nathanneurotic
 summary: The HDLoader game installer
 categories:
-  - utilities
+  - loaders
+  - installers
 tags:
   - nathanneurotic
   - curated-owner

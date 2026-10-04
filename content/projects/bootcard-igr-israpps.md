@@ -3,7 +3,8 @@ name: bootcard_igr
 slug: bootcard-igr-israpps
 summary: Return memcard pro to the boot card when OPL IGR is triggered
 categories:
-  - uncategorized
+  - loaders
+  - save-tools
 tags:
   - fork
   - auto-discovered

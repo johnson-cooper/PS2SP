@@ -28,7 +28,7 @@ const projects = defineCollection({
       stars: z.number().default(0),
       forks: z.number().default(0),
       lastCommit: nullableString
-    }).default({}),
+    }).default({ archived: false, stars: 0, forks: 0 }),
     latestRelease: z.object({
       tag: nullableString,
       name: nullableString,

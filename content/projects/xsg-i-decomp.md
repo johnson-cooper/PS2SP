@@ -3,7 +3,8 @@ name: xsg-i-decomp
 slug: xsg-i-decomp
 summary: 'Matching decompilation of Xenosaga Episode I: Der Wille zur Macht for the PS2'
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
 features: []

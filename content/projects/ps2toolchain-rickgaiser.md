@@ -5,7 +5,8 @@ summary: >-
   The PS2 toolchain scripts automatically build and install compilers and
   binutils that can be used to create homebrew software for the PS2 console.
 categories:
-  - uncategorized
+  - sdks
+  - development
 tags:
   - fork
   - auto-discovered

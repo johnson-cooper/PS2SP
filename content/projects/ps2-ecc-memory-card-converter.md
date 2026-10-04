@@ -3,7 +3,7 @@ name: PS2-ECC-Memory-Card-Converter
 slug: ps2-ecc-memory-card-converter
 summary: A simple PS2 MC ECC conversion tool made in 2008
 categories:
-  - uncategorized
+  - host-tools
 tags:
   - auto-discovered
 features: []

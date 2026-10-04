@@ -8,7 +8,7 @@ summary: >-
   support via BeetlePCE. Based on SNESticle Revive by @ReyFxck. Contact me on
   Discord! @itsveenee
 categories:
-  - uncategorized
+  - emulators
 tags:
   - fork
   - auto-discovered

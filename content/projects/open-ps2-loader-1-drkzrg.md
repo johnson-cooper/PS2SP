@@ -3,7 +3,7 @@ name: Open-PS2-Loader-1
 slug: open-ps2-loader-1-drkzrg
 summary: Game and app loader for Sony PlayStation 2
 categories:
-  - uncategorized
+  - loaders
 tags:
   - fork
   - auto-discovered

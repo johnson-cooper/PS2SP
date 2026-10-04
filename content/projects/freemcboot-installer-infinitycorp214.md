@@ -3,7 +3,6 @@ name: FreeMcBoot-Installer
 slug: freemcboot-installer-infinitycorp214
 summary: Custom installers for FreeMcBoot 1.966 & 1.965
 categories:
-  - installers
   - boot-tools
 tags:
   - freemcboot

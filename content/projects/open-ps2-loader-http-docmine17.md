@@ -3,7 +3,7 @@ name: Open-PS2-Loader-HTTP
 slug: open-ps2-loader-http-docmine17
 summary: Open PS2 Loader with HTTP Range Requests streaming support
 categories:
-  - uncategorized
+  - loaders
 tags:
   - auto-discovered
 features: []

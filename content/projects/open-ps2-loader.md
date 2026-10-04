@@ -4,7 +4,6 @@ slug: open-ps2-loader
 summary: Game and application loader for Sony PlayStation 2.
 categories:
   - loaders
-  - utilities
 tags:
   - opl
   - hdloader

@@ -4,7 +4,6 @@ slug: open-ps2-loaderfritz-zengelan
 summary: Game and app loader for Sony PlayStation 2 customizedforfritzbox
 categories:
   - loaders
-  - utilities
 tags:
   - opl
   - hdloader

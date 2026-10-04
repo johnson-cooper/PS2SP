@@ -5,7 +5,7 @@ summary: >-
   A simple script that can batch rebind the `boot.bin` from security dongle
   virtual images, to be used on SD2PSX/MemCardPro
 categories:
-  - uncategorized
+  - hardware
 tags:
   - auto-discovered
 features: []

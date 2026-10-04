@@ -3,7 +3,7 @@ name: pcsx2x
 slug: pcsx2x-yussefsamir26-prog
 summary: PCSX2 - The Playstation 2 Emulator
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

@@ -3,7 +3,7 @@ name: NJEMU-PS2
 slug: njemu-ps2-sumavisionq5
 summary: CPS1 CPS2 NEOGEO(CD)Emulators for PS2
 categories:
-  - uncategorized
+  - emulators
 tags:
   - fork
   - auto-discovered

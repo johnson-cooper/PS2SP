@@ -3,7 +3,7 @@ name: PS2-BlockBattle
 slug: ps2-blockbattle
 summary: A free PS2 game that pays homage to Tetris
 categories:
-  - uncategorized
+  - games
 tags:
   - auto-discovered
   - pending-promoted

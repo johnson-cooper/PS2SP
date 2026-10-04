@@ -3,9 +3,8 @@ name: wLaunchELF_ISR
 slug: wlaunchelf-isr-arobins
 summary: Stable fork of the most famous file browser for Playstation 2
 categories:
-  - launchers
   - file-managers
-  - utilities
+  - launchers
 tags:
   - wlaunchelf
   - ulaunchelf

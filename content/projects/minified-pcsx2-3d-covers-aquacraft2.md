@@ -3,7 +3,7 @@ name: Minified-pcsx2-3D-covers
 slug: minified-pcsx2-3d-covers-aquacraft2
 summary: 'US-only PS2 3D covers, converted to Webp to save space'
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
   - fork

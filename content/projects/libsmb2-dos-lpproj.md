@@ -3,7 +3,8 @@ name: libsmb2.dos
 slug: libsmb2-dos-lpproj
 summary: SMB2/3 userspace client
 categories:
-  - uncategorized
+  - libraries
+  - networking
 tags:
   - auto-discovered
   - pending-promoted

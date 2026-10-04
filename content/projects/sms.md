@@ -3,7 +3,7 @@ name: SMS
 slug: sms
 summary: Multimedia player for Sony PlayStation 2.
 categories:
-  - media
+  - utilities
 tags:
   - media-player
   - video

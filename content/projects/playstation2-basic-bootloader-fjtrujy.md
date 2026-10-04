@@ -4,7 +4,7 @@ slug: playstation2-basic-bootloader-fjtrujy
 summary: Basic PS2 and PSX-DESR Bootloader
 categories:
   - boot-tools
-  - launchers
+  - dashboards
 tags:
   - ps2bbl
   - bootloader

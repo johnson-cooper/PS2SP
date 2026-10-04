@@ -3,7 +3,8 @@ name: ps2
 slug: ps2-m4tth4ck333
 summary: pleySTation2
 categories:
-  - uncategorized
+  - emulators
+  - ports
 tags:
   - auto-discovered
   - pending-promoted

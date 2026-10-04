@@ -3,8 +3,9 @@ name: tyrax-toolchain-ps2sdk-ports
 slug: tyrax-toolchain-ps2sdk-ports-doctorspider42
 summary: Ports of useful libraries to PS2SDK
 categories:
-  - libraries
+  - sdks
   - development
+  - libraries
 tags:
   - ps2sdk
   - ports

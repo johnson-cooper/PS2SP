@@ -5,8 +5,12 @@ summary: >-
   Active Quake II port for PlayStation 2: VU1 rendering, MD2 models, DualShock
   input, PCSX2 and real-hardware test builds.
 categories:
-  - ports
+  - emulators
   - games
+  - ports
+  - hardware
+  - sdks
+  - development
 tags:
   - quake
   - quake2

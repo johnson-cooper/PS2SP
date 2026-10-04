@@ -5,7 +5,8 @@ summary: >-
   FMCB via OpenTuna on Any Console SCPH-18000+ (Forked from OpenTuna Installer
   by @ps2homebrew)
 categories:
-  - uncategorized
+  - boot-tools
+  - installers
 tags:
   - fork
   - auto-discovered

@@ -3,7 +3,6 @@ name: PS2HDDTester
 slug: ps2hddtester-akuhak
 summary: HDD speed test tool for PlayStation 2 consoles
 categories:
-  - hardware
   - utilities
 tags:
   - hdd

@@ -3,7 +3,7 @@ name: OPL-Theme-Ominence
 slug: opl-theme-ominence-pixeliger
 summary: Open PS2 Loader theme based on Eminence 2 Kodi theme
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
 features: []

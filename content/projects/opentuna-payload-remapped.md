@@ -4,7 +4,6 @@ slug: opentuna-payload-remapped
 summary: Modified opentuna-payload
 categories:
   - boot-tools
-  - installers
 tags:
   - nathanneurotic
   - curated-owner

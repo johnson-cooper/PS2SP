@@ -3,7 +3,7 @@ name: ps2-magicgate-inspector
 slug: ps2-magicgate-inspector
 summary: PlayStation 2 homebrew project discovered by PS2SP.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

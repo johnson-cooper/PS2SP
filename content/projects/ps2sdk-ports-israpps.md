@@ -3,8 +3,9 @@ name: ps2sdk-ports
 slug: ps2sdk-ports-israpps
 summary: Ports of useful libraries to PS2SDK
 categories:
-  - libraries
+  - sdks
   - development
+  - libraries
 tags:
   - ps2sdk
   - ports

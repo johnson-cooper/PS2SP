@@ -3,7 +3,7 @@ name: pcsx2-arm
 slug: pcsx2-arm-arjun1194
 summary: PCSX2 - The Playstation 2 Emulator
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

@@ -3,8 +3,8 @@ name: PS2 Packer
 slug: ps2-packer
 summary: Utility for creating packed ELF executables for PlayStation 2.
 categories:
+  - sdks
   - development
-  - utilities
 tags:
   - elf
   - packer

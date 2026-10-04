@@ -5,7 +5,7 @@ summary: >-
   PS2 Covers Collection with some custom ones for some mods and some game
   patches
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
   - fork

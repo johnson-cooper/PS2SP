@@ -5,7 +5,9 @@ summary: >-
   Install and configure a complete PS2 homebrew development environment on
   Ubuntu or Ubuntu via WSL with tested tools and SDKs.
 categories:
-  - uncategorized
+  - sdks
+  - development
+  - installers
 tags:
   - auto-discovered
 features: []

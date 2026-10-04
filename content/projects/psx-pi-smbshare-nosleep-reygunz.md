@@ -3,7 +3,8 @@ name: psx-pi-smbshare-NOSLEEP
 slug: psx-pi-smbshare-nosleep-reygunz
 summary: A swiss army knife for enhancing classic game consoles with Raspberry Pi
 categories:
-  - uncategorized
+  - networking
+  - host-tools
 tags:
   - auto-discovered
   - fork

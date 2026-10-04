@@ -3,6 +3,7 @@ name: nhddl
 slug: nhddl
 summary: A PS2-based launcher for Neutrino
 categories:
+  - launchers
   - loaders
 tags:
   - nathanneurotic

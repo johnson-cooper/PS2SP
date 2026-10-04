@@ -3,7 +3,8 @@ name: PFS-BatchKit-Manager
 slug: pfs-batchkit-manager-bringlive
 summary: Manage your PlayStation 2 HDD
 categories:
-  - uncategorized
+  - host-tools
+  - utilities
 tags:
   - auto-discovered
   - fork

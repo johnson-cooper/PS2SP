@@ -5,7 +5,6 @@ summary: Shaolin Monks Recomp attempt.
 categories:
   - preservation
   - development
-  - engines
 tags:
   - auto-discovered
   - pending-promoted

@@ -5,9 +5,9 @@ summary: >-
   Desktop GUI for HDL Dump with batch game installation and PlayStation 2 HDD
   management.
 categories:
+  - loaders
   - host-tools
   - installers
-  - utilities
 tags:
   - hdl-dump
   - hdd

@@ -3,7 +3,7 @@ name: ps2ded-vscode
 slug: ps2ded-vscode-retrogenps
 summary: VS Code Devcontainer template for PS2DED
 categories:
-  - uncategorized
+  - development
 tags:
   - auto-discovered
   - fork

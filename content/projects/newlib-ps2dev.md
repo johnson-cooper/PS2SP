@@ -3,7 +3,8 @@ name: newlib
 slug: newlib-ps2dev
 summary: Unofficial mirror of sourceware newlib repository. Updated daily.
 categories:
-  - uncategorized
+  - libraries
+  - development
 tags:
   - fork
   - auto-discovered

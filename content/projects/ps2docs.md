@@ -3,7 +3,8 @@ name: PS2Docs
 slug: ps2docs
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - development
+  - preservation
 tags:
   - auto-discovered
 features: []

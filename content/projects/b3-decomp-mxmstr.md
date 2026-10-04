@@ -3,7 +3,8 @@ name: b3-decomp
 slug: b3-decomp-mxmstr
 summary: Decompilation of Sly Cooper and the Thievius Raccoonus for PS2
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
   - fork

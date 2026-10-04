@@ -3,7 +3,8 @@ name: pcsx2-libretro
 slug: pcsx2-libretro-ebochain
 summary: pcsx2-libretro
 categories:
-  - uncategorized
+  - emulators
+  - ports
 tags:
   - auto-discovered
   - pending-promoted

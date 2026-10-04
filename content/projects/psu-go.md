@@ -3,7 +3,9 @@ name: psu-go
 slug: psu-go
 summary: A small Go library for creating PS2 PSU save files
 categories:
-  - uncategorized
+  - save-tools
+  - libraries
+  - development
 tags:
   - auto-discovered
 features: []

@@ -3,7 +3,7 @@ name: proverb
 slug: proverb
 summary: alternative bootloader to Sony's PSALM `boot.bin` for arcade PS2s
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
 features: []

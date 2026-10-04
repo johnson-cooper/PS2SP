@@ -3,7 +3,7 @@ name: helengine-demo-disc
 slug: helengine-demo-disc
 summary: helengine demo disc
 categories:
-  - engines
+  - demos
 tags:
   - auto-discovered
   - pending-promoted

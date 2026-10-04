@@ -3,7 +3,7 @@ name: PS2-Xilinx-UltrascalePlus
 slug: ps2-xilinx-ultrascaleplus
 summary: PS2 Virtualization on Xilinx Ultrascale+ Hardware
 categories:
-  - uncategorized
+  - hardware
 tags:
   - auto-discovered
 features: []

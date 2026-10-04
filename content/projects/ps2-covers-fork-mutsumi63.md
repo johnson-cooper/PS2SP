@@ -3,7 +3,7 @@ name: ps2-covers-fork
 slug: ps2-covers-fork-mutsumi63
 summary: PS2 Covers Collection
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
   - fork

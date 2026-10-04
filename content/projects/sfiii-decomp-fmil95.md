@@ -3,7 +3,8 @@ name: sfiii-decomp
 slug: sfiii-decomp-fmil95
 summary: Decompilation of Street Fighter III (PS2)
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
   - fork

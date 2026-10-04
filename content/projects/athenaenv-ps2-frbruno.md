@@ -5,7 +5,7 @@ summary: >-
   AthenaEnv é um kit completo para que usuários criem software homebrew para
   PlayStation 2 utilizando a linguagem JavaScript. 
 categories:
-  - engines
+  - runtimes
   - development
 tags:
   - javascript

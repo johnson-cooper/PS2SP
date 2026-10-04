@@ -3,7 +3,7 @@ name: Xbox-2-PlayStation-Emulator-AlFa
 slug: xbox-2-playstation-emulator-alfa
 summary: 'Original Xbox Emulator for The Sony PlayStation 2 '
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
 features: []

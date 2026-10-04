@@ -5,7 +5,7 @@ summary: >-
   PS2 homebrew project to bring support for EXFAT USB devices to closed source
   old homebrew wich loads external USB Drivers
 categories:
-  - utilities
+  - drivers
 tags:
   - nathanneurotic
   - curated-owner

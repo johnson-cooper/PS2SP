@@ -3,7 +3,8 @@ name: OpenROM-Beta
 slug: openrom-beta-clausvalcatd
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - host-tools
+  - utilities
 tags:
   - auto-discovered
   - fork

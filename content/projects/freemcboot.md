@@ -3,7 +3,7 @@ name: FreeMcBoot
 slug: freemcboot
 summary: '''Free MemoryCard Boot'' for PS2'
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
 features: []

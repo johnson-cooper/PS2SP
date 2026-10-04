@@ -3,7 +3,8 @@ name: sly1
 slug: sly1-artifaxtech
 summary: Decompilation of Sly Cooper and the Thievius Raccoonus for PS2
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
   - fork

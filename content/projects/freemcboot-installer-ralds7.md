@@ -3,7 +3,6 @@ name: FreeMcBoot-Installer
 slug: freemcboot-installer-ralds7
 summary: 'Custom installers for FreeMcBoot 1.966, 1.965 and 1.953'
 categories:
-  - installers
   - boot-tools
 tags:
   - freemcboot

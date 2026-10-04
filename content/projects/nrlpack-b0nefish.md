@@ -3,7 +3,8 @@ name: nrlpack
 slug: nrlpack-b0nefish
 summary: Windows based playstation 2 executables packer.
 categories:
-  - uncategorized
+  - utilities
+  - development
 tags:
   - auto-discovered
   - fork

@@ -3,7 +3,8 @@ name: helloWorldPS2
 slug: helloworldps2-uyjulian
 summary: helloWorld for PS2 SDK
 categories:
-  - uncategorized
+  - sdks
+  - development
 tags:
   - fork
   - auto-discovered

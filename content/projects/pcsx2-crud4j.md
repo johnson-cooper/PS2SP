@@ -3,7 +3,7 @@ name: PCSX2
 slug: pcsx2-crud4j
 summary: List of my contribution to the PS2 60fps patches and their preservation.
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

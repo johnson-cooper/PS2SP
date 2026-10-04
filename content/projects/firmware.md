@@ -3,7 +3,7 @@ name: firmware
 slug: firmware
 summary: firmware is a PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - hardware
 tags:
   - auto-discovered
   - pending-promoted

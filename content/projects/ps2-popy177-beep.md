@@ -3,7 +3,7 @@ name: ps2--
 slug: ps2-popy177-beep
 summary: PS2 Covers Collection
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
   - fork

@@ -4,7 +4,6 @@ slug: grustniy-open-ps2-loader-nk357156-dev
 summary: Game and app loader for Sony PlayStation 2
 categories:
   - loaders
-  - utilities
 tags:
   - opl
   - hdloader

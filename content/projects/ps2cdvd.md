@@ -6,7 +6,10 @@ summary: >-
   that the ISO9660 stuff is in a separate IRX(isofs) than the rest of the CDVD
   stuff(cdvddrvr). This was written long ago by Pixel and I.  It needs some TLC.
 categories:
-  - uncategorized
+  - preservation
+  - development
+  - loaders
+  - drivers
 tags:
   - auto-discovered
 features: []

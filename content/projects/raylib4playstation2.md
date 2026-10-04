@@ -3,7 +3,10 @@ name: raylib4PlayStation2
 slug: raylib4playstation2
 summary: Raylib port for PlayStation 2
 categories:
-  - uncategorized
+  - ports
+  - libraries
+  - development
+  - engines
 tags:
   - auto-discovered
 features: []

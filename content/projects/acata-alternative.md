@@ -3,7 +3,7 @@ name: acata-alternative
 slug: acata-alternative
 summary: (WIP not ready for usage yet) Shim redirection module for acata/acatahd
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

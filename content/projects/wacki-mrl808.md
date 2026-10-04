@@ -7,7 +7,8 @@ summary: >-
   from the original. Plays start to finish on macOS, Linux, Windows, Miyoo and
   PortMaster handhelds.
 categories:
-  - uncategorized
+  - games
+  - ports
 tags:
   - auto-discovered
   - fork

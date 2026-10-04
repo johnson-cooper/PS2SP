@@ -5,9 +5,8 @@ summary: >-
   Mod of a stable wLaunchELF version with lots of extra cool features thanks to
   ISR
 categories:
-  - launchers
   - file-managers
-  - utilities
+  - launchers
 tags:
   - wlaunchelf
   - ulaunchelf

@@ -3,7 +3,6 @@ name: pfsshell
 slug: pfsshell-nathanneurotic
 summary: Browse and edit PFS filesystems on APA-formatted hard drive
 categories:
-  - file-managers
   - utilities
 tags:
   - nathanneurotic

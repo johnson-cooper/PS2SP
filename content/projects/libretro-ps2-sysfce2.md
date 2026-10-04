@@ -5,7 +5,8 @@ summary: >-
   Sony PlayStation 2 core (fork of PCSX2) | (PKGBUILD:
   https://aur.archlinux.org/packages/libretro-lrps2-git)
 categories:
-  - uncategorized
+  - emulators
+  - ports
 tags:
   - auto-discovered
   - pending-promoted

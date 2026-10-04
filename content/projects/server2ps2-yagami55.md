@@ -3,7 +3,8 @@ name: Server2PS2
 slug: server2ps2-yagami55
 summary: Universal PS2 server with a lot of features
 categories:
-  - uncategorized
+  - networking
+  - host-tools
 tags:
   - auto-discovered
   - fork

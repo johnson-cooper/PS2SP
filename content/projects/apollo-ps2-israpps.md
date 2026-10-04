@@ -3,7 +3,7 @@ name: apollo-ps2
 slug: apollo-ps2-israpps
 summary: Apollo Save Tool (PS2)
 categories:
-  - uncategorized
+  - save-tools
 tags:
   - fork
   - auto-discovered

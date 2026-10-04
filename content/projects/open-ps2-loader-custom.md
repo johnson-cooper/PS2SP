@@ -3,7 +3,7 @@ name: Open-PS2-Loader-Custom
 slug: open-ps2-loader-custom
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - loaders
 tags:
   - auto-discovered
 features: []

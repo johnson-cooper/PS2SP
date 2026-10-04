@@ -3,7 +3,7 @@ name: romman
 slug: romman
 summary: Image manager for PlayStation2 ROM and IOPRP images
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

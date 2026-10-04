@@ -5,7 +5,7 @@ summary: >-
   Tools to convert GTA San Andreas PC mods (.dff/.txd) to PS2-native RenderWare
   format
 categories:
-  - uncategorized
+  - host-tools
 tags:
   - auto-discovered
 features: []

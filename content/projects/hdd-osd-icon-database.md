@@ -3,7 +3,8 @@ name: HDD-OSD-Icon-Database
 slug: hdd-osd-icon-database
 summary: HDD-OSD icon database for the PSBBN Definitive Project
 categories:
-  - uncategorized
+  - themes
+  - dashboards
 tags:
   - auto-discovered
 features: []

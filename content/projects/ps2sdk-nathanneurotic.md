@@ -3,6 +3,7 @@ name: ps2sdk
 slug: ps2sdk-nathanneurotic
 summary: Homebrew PS2 SDK
 categories:
+  - sdks
   - development
 tags:
   - nathanneurotic

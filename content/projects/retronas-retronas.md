@@ -5,7 +5,8 @@ summary: >-
   Use a Raspberry Pi, old computer or VM as network storage for different retro
   computers and consoles
 categories:
-  - uncategorized
+  - networking
+  - host-tools
 tags:
   - auto-discovered
 features: []

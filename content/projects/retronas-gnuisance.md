@@ -5,7 +5,8 @@ summary: >-
   Use a Raspberry Pi as network storage for different retro computers and
   consoles
 categories:
-  - uncategorized
+  - networking
+  - host-tools
 tags:
   - auto-discovered
   - fork

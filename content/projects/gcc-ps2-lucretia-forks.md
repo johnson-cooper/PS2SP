@@ -3,7 +3,8 @@ name: gcc-ps2
 slug: gcc-ps2-lucretia-forks
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - sdks
+  - development
 tags:
   - fork
   - auto-discovered

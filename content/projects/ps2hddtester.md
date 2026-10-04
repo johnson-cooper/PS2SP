@@ -3,7 +3,6 @@ name: PS2HDDTester
 slug: ps2hddtester
 summary: Hard-drive speed testing utility for PlayStation 2 consoles.
 categories:
-  - hardware
   - utilities
 tags:
   - hdd

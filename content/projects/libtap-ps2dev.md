@@ -3,7 +3,8 @@ name: libtap
 slug: libtap-ps2dev
 summary: Write tests in C
 categories:
-  - uncategorized
+  - libraries
+  - development
 tags:
   - fork
   - auto-discovered

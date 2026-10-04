@@ -5,7 +5,8 @@ summary: >-
   Modernized FreeMcBoot installer designed to boot and install from multiple
   PlayStation 2 devices.
 categories:
-  - utilities
+  - boot-tools
+  - installers
 tags:
   - nathanneurotic
   - curated-owner

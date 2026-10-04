@@ -3,7 +3,7 @@ name: s2uMemdusa
 slug: s2umemdusa-scotho
 summary: local testing
 categories:
-  - uncategorized
+  - save-tools
 tags:
   - auto-discovered
   - fork

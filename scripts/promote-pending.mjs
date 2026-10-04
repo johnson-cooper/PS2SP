@@ -1,5 +1,6 @@
 import fs from "node:fs/promises";
 import matter from "gray-matter";
+import { inferCategories, shouldHideProject } from "./lib/categorization.mjs";
 
 const projectsDir = new URL("../content/projects/", import.meta.url);
 const pendingDir = new URL("../discovery/pending/", import.meta.url);
@@ -90,32 +91,7 @@ function shouldPromote(record) {
   return score >= 95 && strongEvidence >= 2;
 }
 
-function inferCategories(record) {
-  const repository = String(record?.repository ?? "");
-  const name = repository.split("/").at(-1) ?? "";
-  const text = `${name} ${record?.description ?? ""}`.toLowerCase();
-  const categories = [];
 
-  if (/theme/.test(text)) categories.push("themes");
-  if (/save[^a-z0-9]*(?:editor|manager|tool)|memory card save/.test(text)) categories.push("save-tools");
-  if (/emulat|pcsx2|nethersx2|vitasx2|rompemu/.test(text)) categories.push("emulators");
-  if (/decomp|recomp|reverse[- ]engineer/.test(text)) categories.push("preservation", "development");
-  if (/\bsdk\b|toolchain/.test(text)) categories.push("sdks", "development");
-  if (/\blib(?:rary)?\b|raylib/.test(text)) categories.push("libraries");
-  if (/engine|runtime/.test(text)) categories.push("engines");
-  if (/driver/.test(text)) categories.push("drivers");
-  if (/server|network|\blan\b|hostfs|online/.test(text)) categories.push("networking");
-  if (/loader|\bopl\b/.test(text)) categories.push("loaders");
-  if (/bootloader|free.?mcboot|\bfmcb\b|exploit/.test(text)) categories.push("boot-tools");
-  if (/editor|converter|compressor|toolbox|viewer|manager|dumper|inspector|patch(?:er)?/.test(text)) {
-    categories.push("utilities");
-  }
-  if (/\bport\b|ported to|for (?:the )?playstation 2/.test(text) && categories.length === 0) {
-    categories.push("ports");
-  }
-
-  return [...new Set(categories.length ? categories : ["uncategorized"])];
-}
 
 async function readPublishedSources() {
   const byName = new Set();
@@ -197,14 +173,29 @@ for (const pendingFile of pendingFiles) {
   const slug = slugify(repoName);
   const maturity = maturityState(record);
   const fileName = await availableFileName(record, published.fileNames);
+  const projectSlug = fileName.replace(/\.md$/, "");
+  const tags = ["auto-discovered", "pending-promoted", maturity].filter(Boolean);
+  const categories = inferCategories({
+    slug: projectSlug,
+    name: repoName,
+    summary: record.description || "",
+    tags,
+    repository
+  });
+  const hidden = shouldHideProject({
+    slug: projectSlug,
+    name: repoName,
+    summary: record.description || "",
+    repository
+  });
   const project = {
     name: repoName,
-    slug: fileName.replace(/\.md$/, ""),
+    slug: projectSlug,
     summary:
       record.description ||
       `${repoName} is a PlayStation 2 software project discovered by PS2SP.`,
-    categories: inferCategories(record),
-    tags: ["auto-discovered", "pending-promoted", maturity].filter(Boolean),
+    categories,
+    tags,
     features: [],
     authors: [],
     license: null,
@@ -242,7 +233,7 @@ for (const pendingFile of pendingFiles) {
     },
     verified: false,
     featured: false,
-    hidden: false
+    hidden
   };
 
   if (record.fork?.parent || record.fork?.source) {

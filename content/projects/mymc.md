@@ -3,9 +3,7 @@ name: mymc
 slug: mymc
 summary: Desktop utility for working with PlayStation 2 memory card images.
 categories:
-  - host-tools
   - save-tools
-  - utilities
 tags:
   - memory-card
   - saves

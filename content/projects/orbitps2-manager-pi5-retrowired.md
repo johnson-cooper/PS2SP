@@ -6,7 +6,8 @@ summary: >-
   managing OPL game collections.  See CHANGES-PI5.md for the differences from
   upstream.
 categories:
-  - uncategorized
+  - host-tools
+  - utilities
 tags:
   - auto-discovered
   - fork

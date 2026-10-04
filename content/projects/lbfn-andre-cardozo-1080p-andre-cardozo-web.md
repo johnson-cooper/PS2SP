@@ -3,7 +3,8 @@ name: LbFn-Andre-Cardozo-1080p
 slug: lbfn-andre-cardozo-1080p-andre-cardozo-web
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - loaders
+  - utilities
 tags:
   - auto-discovered
   - fork

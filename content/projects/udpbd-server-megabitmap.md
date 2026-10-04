@@ -3,7 +3,7 @@ name: udpbd-server
 slug: udpbd-server-megabitmap
 summary: udpbd server by rick gaiser. brought to github with CI
 categories:
-  - uncategorized
+  - networking
 tags:
   - auto-discovered
   - fork

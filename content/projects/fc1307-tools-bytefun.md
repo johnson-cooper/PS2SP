@@ -3,7 +3,8 @@ name: fc1307-tools
 slug: fc1307-tools-bytefun
 summary: Miscellaneous utilities for FC1307 SD-IDE chip
 categories:
-  - uncategorized
+  - hardware
+  - utilities
 tags:
   - fork
   - auto-discovered

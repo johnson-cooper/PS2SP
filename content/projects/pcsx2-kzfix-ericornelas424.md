@@ -3,7 +3,7 @@ name: pcsx2-kzfix
 slug: pcsx2-kzfix-ericornelas424
 summary: PCSX2 - The Playstation 2 Emulator for Killzone
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

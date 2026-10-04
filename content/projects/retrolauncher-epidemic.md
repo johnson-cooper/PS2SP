@@ -7,7 +7,7 @@ summary: >-
   conjunction with Retroarch, POPStarter, Neutrino and wLaunchELF ISR for the
   execution of the games/APPS.
 categories:
-  - uncategorized
+  - launchers
 tags:
   - auto-discovered
   - fork

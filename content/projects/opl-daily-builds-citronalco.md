@@ -3,7 +3,7 @@ name: OPL-Daily-Builds
 slug: opl-daily-builds-citronalco
 summary: Open PS2 Loader with improved support for PS1 games - BROKEN!
 categories:
-  - uncategorized
+  - loaders
 tags:
   - fork
   - auto-discovered

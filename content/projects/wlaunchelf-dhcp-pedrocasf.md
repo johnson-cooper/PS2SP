@@ -3,9 +3,8 @@ name: wLaunchELF-DHCP
 slug: wlaunchelf-dhcp-pedrocasf
 summary: ELF loader and File browser for Sony PlayStation 2 DHCP support (WIP)
 categories:
-  - launchers
   - file-managers
-  - utilities
+  - launchers
 tags:
   - wlaunchelf
   - ulaunchelf

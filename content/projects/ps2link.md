@@ -3,8 +3,9 @@ name: PS2Link
 slug: ps2link
 summary: PlayStation 2-side boot loader used for network development workflows.
 categories:
-  - development
   - networking
+  - sdks
+  - development
 tags:
   - debugging
   - network

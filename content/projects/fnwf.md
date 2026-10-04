@@ -3,7 +3,7 @@ name: fnwf
 slug: fnwf
 summary: Five Nights With Friends
 categories:
-  - uncategorized
+  - games
 tags:
   - auto-discovered
   - pending-promoted

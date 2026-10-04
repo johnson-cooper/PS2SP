@@ -3,7 +3,7 @@ name: DKWDRV
 slug: dkwdrv-israpps
 summary: 'Unified Single PS1DRV Replacement, compatible with mostly all PS2 models.'
 categories:
-  - uncategorized
+  - drivers
 tags:
   - auto-discovered
   - fork

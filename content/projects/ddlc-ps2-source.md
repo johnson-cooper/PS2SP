@@ -5,7 +5,8 @@ summary: >-
   An unofficial Doki Doki Literature Club port for the Playstation 2 game
   console
 categories:
-  - uncategorized
+  - games
+  - ports
 tags:
   - auto-discovered
 features: []

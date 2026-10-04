@@ -5,7 +5,8 @@ summary: >-
   A GitHub pages compatibility list for OPL, this is a draft to show to the
   developers, might get merged to official repo 
 categories:
-  - uncategorized
+  - utilities
+  - preservation
 tags:
   - auto-discovered
   - fork

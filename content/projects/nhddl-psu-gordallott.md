@@ -3,7 +3,7 @@ name: nhddl-psu
 slug: nhddl-psu-gordallott
 summary: NHDDL PSU Generator and PSU Builder utility
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
   - fork

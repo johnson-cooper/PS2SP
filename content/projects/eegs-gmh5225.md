@@ -3,7 +3,7 @@ name: eegs
 slug: eegs-gmh5225
 summary: Experimental PlayStation 2 emulator
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

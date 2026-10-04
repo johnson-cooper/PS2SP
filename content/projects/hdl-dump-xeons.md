@@ -3,8 +3,8 @@ name: hdl-dump
 slug: hdl-dump-xeons
 summary: Install games in HDLoader format to APA-formatted hard drive
 categories:
+  - loaders
   - host-tools
-  - utilities
 tags:
   - hdd
   - hdloader

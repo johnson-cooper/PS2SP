@@ -3,7 +3,7 @@ name: OSD-XMB-HD
 slug: osd-xmb-hd-gorgylka
 summary: Playstation 2 XMB Styled User Interface with 720p / 1080i mods
 categories:
-  - uncategorized
+  - dashboards
 tags:
   - auto-discovered
   - fork

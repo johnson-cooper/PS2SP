@@ -3,7 +3,7 @@ name: OPL-Theme-PadOS
 slug: opl-theme-pados
 summary: Open PS2 Loader theme based on iPad iOS interface and widgets
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
 features: []

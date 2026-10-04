@@ -3,7 +3,8 @@ name: R3CONFIGURATOR
 slug: r3configurator-saildot4k
 summary: Configurator based on DanielSant0s' Enceladus Lua environment
 categories:
-  - uncategorized
+  - hardware
+  - utilities
 tags:
   - fork
   - auto-discovered

@@ -3,7 +3,7 @@ name: okhi
 slug: okhi-razvialex
 summary: Open Keylogger Hardware Implant - USB & PS2 Keyboards
 categories:
-  - uncategorized
+  - hardware
 tags:
   - auto-discovered
   - pending-promoted
@@ -42,6 +42,7 @@ discovery:
   maturity: dormant-unreleased
 verified: false
 featured: false
+hidden: true
 relationships:
   forkOf: therealdreg/okhi
   source: therealdreg/okhi

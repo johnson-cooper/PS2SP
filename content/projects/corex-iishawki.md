@@ -3,7 +3,7 @@ name: CoreX
 slug: corex-iishawki
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

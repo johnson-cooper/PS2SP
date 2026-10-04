@@ -5,7 +5,7 @@ summary: >-
   Experimental Windows fork: native Neural/ReShade sliders and presets,
   settings-only controls, Vulkan reload without restarting PCSX2.
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

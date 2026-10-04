@@ -3,8 +3,8 @@ name: hdl-dump-directory-style
 slug: hdl-dump-directory-style-molton
 summary: Install games in HDLoader format to APA-formatted hard drive
 categories:
+  - loaders
   - host-tools
-  - utilities
 tags:
   - hdd
   - hdloader

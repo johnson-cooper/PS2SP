@@ -3,7 +3,8 @@ name: libretro-pcsx2
 slug: libretro-pcsx2-crazyqk2019
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - emulators
+  - ports
 tags:
   - auto-discovered
   - pending-promoted

@@ -5,7 +5,8 @@ summary: >-
   OptiCraftHeritageEdition is a PlayStation 2 software project discovered by
   PS2SP.
 categories:
-  - uncategorized
+  - games
+  - ports
 tags:
   - auto-discovered
   - pending-promoted

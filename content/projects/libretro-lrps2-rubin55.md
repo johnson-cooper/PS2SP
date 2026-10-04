@@ -3,7 +3,8 @@ name: libretro-lrps2
 slug: libretro-lrps2-rubin55
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - emulators
+  - ports
 tags:
   - auto-discovered
   - pending-promoted

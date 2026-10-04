@@ -5,7 +5,7 @@ summary: >-
   Unofficial PCSX2 fork with experimental PS2 3D scene capture to OBJ models and
   textures, based on stable PCSX2 releases.
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

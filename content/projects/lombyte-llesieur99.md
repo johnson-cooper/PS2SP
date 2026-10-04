@@ -3,7 +3,8 @@ name: Lombyte
 slug: lombyte-llesieur99
 summary: Decompilation of Ratchet & Clank (2002)
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
   - fork

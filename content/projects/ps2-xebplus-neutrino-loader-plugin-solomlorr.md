@@ -3,7 +3,8 @@ name: Ps2---xebplus-neutrino-loader-plugin
 slug: ps2-xebplus-neutrino-loader-plugin-solomlorr
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - launchers
+  - loaders
 tags:
   - auto-discovered
   - fork

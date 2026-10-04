@@ -3,7 +3,7 @@ name: resonance
 slug: resonance
 summary: Reconstructed source of the PlayStation 2 game FreQuency.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
   - pending-promoted

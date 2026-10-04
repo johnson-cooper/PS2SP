@@ -5,7 +5,7 @@ summary: >-
   xeRAbora for Android: the RetroAchievements client for a real PlayStation 2,
   running on your phone. No PC.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
   - maintained-fork

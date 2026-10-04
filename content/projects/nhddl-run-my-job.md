@@ -3,7 +3,8 @@ name: nhddl
 slug: nhddl-run-my-job
 summary: A PS2-based launcher for Neutrino
 categories:
-  - uncategorized
+  - launchers
+  - loaders
 tags:
   - auto-discovered
   - fork

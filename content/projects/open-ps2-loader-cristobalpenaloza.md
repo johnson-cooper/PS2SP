@@ -3,7 +3,7 @@ name: Open-PS2-Loader
 slug: open-ps2-loader-cristobalpenaloza
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - loaders
 tags:
   - fork
   - auto-discovered

@@ -3,7 +3,8 @@ name: OSDMenu
 slug: osdmenu-pnplusplus
 summary: Free McBoot 1.8 OSDSYS patches ported to modern PS2SDK
 categories:
-  - uncategorized
+  - dashboards
+  - launchers
 tags:
   - auto-discovered
   - fork

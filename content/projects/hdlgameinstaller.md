@@ -3,8 +3,8 @@ name: HDLGameInstaller
 slug: hdlgameinstaller
 summary: On-console HDLoader game installer for PlayStation 2.
 categories:
+  - loaders
   - installers
-  - utilities
 tags:
   - hdd
   - hdloader

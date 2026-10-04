@@ -5,7 +5,7 @@ summary: >-
   ARMSX2 Gold - A PlayStation 2 emulator for Android with optimized performance
   and enhanced interface
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
 features: []

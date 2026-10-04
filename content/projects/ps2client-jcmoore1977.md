@@ -3,8 +3,6 @@ name: ps2client
 slug: ps2client-jcmoore1977
 summary: Desktop clients to interact with ps2link and ps2netfs
 categories:
-  - host-tools
-  - development
   - networking
 tags:
   - ps2link

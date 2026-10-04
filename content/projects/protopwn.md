@@ -6,7 +6,7 @@ summary: >-
   and DTL-H10000(S)) that enables arbitrary code execution through a flaw in the
   OSDSYS Browser update code.
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
 features: []

@@ -3,7 +3,7 @@ name: iris_dev
 slug: iris-dev-russpalms
 summary: Fork of Experimental PlayStation 2 emulator
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

@@ -3,7 +3,8 @@ name: ps2
 slug: ps2-jackwthake
 summary: Playstation 2 style renderer / game engine
 categories:
-  - uncategorized
+  - engines
+  - development
 tags:
   - auto-discovered
 features: []

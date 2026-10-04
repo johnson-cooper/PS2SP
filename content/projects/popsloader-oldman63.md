@@ -3,7 +3,8 @@ name: POPSLoader
 slug: popsloader-oldman63
 summary: 'https://nathanneurotic.github.io/POPSLoader/'
 categories:
-  - uncategorized
+  - loaders
+  - emulators
 tags:
   - auto-discovered
   - fork

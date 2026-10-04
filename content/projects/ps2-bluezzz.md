@@ -6,7 +6,7 @@ summary: >-
   PlayStation 2 Slim. It is designed to make internal Bluetooth audio installs
   cleaner, easier to solder, easier to mount, and easier to document.
 categories:
-  - uncategorized
+  - hardware
 tags:
   - auto-discovered
 features: []

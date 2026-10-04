@@ -3,7 +3,8 @@ name: myMCpp
 slug: mymcpp-chaoticgd
 summary: Open-source PlayStation 2 memory card manager and save editor
 categories:
-  - uncategorized
+  - save-tools
+  - host-tools
 tags:
   - auto-discovered
   - fork

@@ -4,7 +4,6 @@ slug: open-ps2-loader-iman1234567899
 summary: Game and app loader for Sony PlayStation 2
 categories:
   - loaders
-  - utilities
 tags:
   - opl
   - hdloader

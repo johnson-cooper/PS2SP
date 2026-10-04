@@ -3,7 +3,7 @@ name: ps2homebrew.github.io
 slug: ps2homebrew-github-io
 summary: Website for PS2 Homebrew Projects
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

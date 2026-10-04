@@ -5,7 +5,8 @@ summary: >-
   cue2pops working for windows. Also a try to refactor the program into
   something sane
 categories:
-  - uncategorized
+  - host-tools
+  - utilities
 tags:
   - fork
   - auto-discovered

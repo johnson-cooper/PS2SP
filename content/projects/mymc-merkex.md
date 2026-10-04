@@ -5,9 +5,7 @@ summary: >-
   A public domain utility for working with PlayStation 2 memory card images. By
   Ross Ridge.
 categories:
-  - host-tools
   - save-tools
-  - utilities
 tags:
   - memory-card
   - saves

@@ -6,7 +6,7 @@ summary: >-
   interface, visual improvements, cover art support, and enhanced browsing
   experience.
 categories:
-  - uncategorized
+  - launchers
 tags:
   - auto-discovered
 features: []

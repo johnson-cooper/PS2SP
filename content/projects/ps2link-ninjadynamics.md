@@ -3,8 +3,8 @@ name: ps2link
 slug: ps2link-ninjadynamics
 summary: PS2-side boot loader
 categories:
-  - development
   - networking
+  - development
 tags:
   - debugging
   - network

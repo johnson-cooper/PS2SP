@@ -3,7 +3,7 @@ name: opentuna-RLE
 slug: opentuna-rle-danielt3
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
   - fork

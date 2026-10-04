@@ -5,7 +5,7 @@ summary: >-
   Open PS2 Loader fork with hardware-tested Extended/Banked APA support for >2
   TiB PlayStation 2 internal HDDs.
 categories:
-  - uncategorized
+  - loaders
 tags:
   - auto-discovered
 features: []

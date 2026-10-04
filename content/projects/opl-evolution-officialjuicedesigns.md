@@ -5,7 +5,7 @@ summary: >-
   Unofficial experimental Open PS2 Loader fork with a unified PS2/PS1 interface
   and native VMC management.
 categories:
-  - uncategorized
+  - loaders
 tags:
   - auto-discovered
 features: []

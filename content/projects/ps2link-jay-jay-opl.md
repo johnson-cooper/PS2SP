@@ -3,8 +3,9 @@ name: ps2link
 slug: ps2link-jay-jay-opl
 summary: PS2-side boot loader
 categories:
-  - development
+  - loaders
   - networking
+  - development
 tags:
   - debugging
   - network

@@ -3,8 +3,9 @@ name: ps2-packer
 slug: ps2-packer-jay-jay-opl
 summary: Create packed ELF files to run on the PS2
 categories:
+  - loaders
+  - sdks
   - development
-  - utilities
 tags:
   - elf
   - packer

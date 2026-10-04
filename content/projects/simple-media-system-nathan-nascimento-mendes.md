@@ -3,7 +3,7 @@ name: Simple-Media-System
 slug: simple-media-system-nathan-nascimento-mendes
 summary: SMS (Simple Media System) for PS2 with full device support
 categories:
-  - media
+  - utilities
 tags:
   - nathanneurotic
   - curated-owner

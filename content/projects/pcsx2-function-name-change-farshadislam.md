@@ -3,7 +3,7 @@ name: pcsx2_function_name_change
 slug: pcsx2-function-name-change-farshadislam
 summary: PCSX2 - The Playstation 2 Emulator
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

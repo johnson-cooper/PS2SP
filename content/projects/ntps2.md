@@ -5,7 +5,7 @@ summary: >-
   A simple NTP client for the PS2. A project I found interesting and appealing,
   my first bit of homebrew and first work written for a retro console.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

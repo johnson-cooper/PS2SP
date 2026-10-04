@@ -5,7 +5,8 @@ summary: >-
   Experimental R5900/IOP static recompilation of Devil May Cry (2001, PS2
   SLES_503.58) via PS2Recomp.
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
 features: []

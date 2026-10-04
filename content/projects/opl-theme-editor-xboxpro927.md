@@ -3,7 +3,8 @@ name: OPL-Theme-Editor
 slug: opl-theme-editor-xboxpro927
 summary: A WYSIWYG theme editor for Open PS2 Loader.
 categories:
-  - uncategorized
+  - host-tools
+  - themes
 tags:
   - auto-discovered
   - fork

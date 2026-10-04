@@ -4,7 +4,6 @@ slug: funtuna-fork-remapped
 summary: old FreeMcBoot package for ps2 models incompatible with system updates
 categories:
   - boot-tools
-  - installers
 tags:
   - nathanneurotic
   - curated-owner

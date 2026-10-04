@@ -5,7 +5,8 @@ summary: >-
   GPL-3.0 CLI that fetches console compilers and builds PS1, PS2, N64, and
   Interactive DVD products for Blazium Engine.
 categories:
-  - uncategorized
+  - sdks
+  - development
 tags:
   - auto-discovered
 features: []

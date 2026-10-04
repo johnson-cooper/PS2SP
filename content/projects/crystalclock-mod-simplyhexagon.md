@@ -5,7 +5,7 @@ summary: >-
   Re-creation of PS2's display clock in Raylib. Original repo by rrtry, minor
   edits by me
 categories:
-  - uncategorized
+  - demos
 tags:
   - auto-discovered
   - fork

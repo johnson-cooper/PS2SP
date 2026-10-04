@@ -5,7 +5,7 @@ summary: >-
   Doom for the PlayStation 2, booting from a disc — with sound, music and
   controller support.
 categories:
-  - ports
+  - games
 tags:
   - auto-discovered
   - pending-promoted

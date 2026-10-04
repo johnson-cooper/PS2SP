@@ -3,7 +3,7 @@ name: pcsx2
 slug: pcsx2-ps2homebrew
 summary: PCSX2 - The Playstation 2 Emulator
 categories:
-  - uncategorized
+  - emulators
 tags:
   - fork
   - auto-discovered

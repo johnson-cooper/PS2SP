@@ -3,7 +3,7 @@ name: pcsx2-Silent-Hill-VR
 slug: pcsx2-silent-hill-vr-leandrushp
 summary: PCSX2 - The Playstation 2 Emulator
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

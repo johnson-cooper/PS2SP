@@ -3,7 +3,8 @@ name: newlib
 slug: newlib-projectcrayon
 summary: 'sourceware newlib repository for ps2dev, msys2 compatible'
 categories:
-  - uncategorized
+  - libraries
+  - development
 tags:
   - fork
   - auto-discovered

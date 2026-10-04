@@ -3,7 +3,7 @@ name: ps2-modchip-files
 slug: ps2-modchip-files
 summary: An archive containing various files for a range of PS2 modchips.
 categories:
-  - uncategorized
+  - hardware
 tags:
   - auto-discovered
 features: []

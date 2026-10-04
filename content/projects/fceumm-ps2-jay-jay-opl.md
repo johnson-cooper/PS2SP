@@ -4,6 +4,7 @@ slug: fceumm-ps2-jay-jay-opl
 summary: FCEUmm-PS2
 categories:
   - emulators
+  - loaders
 tags:
   - nes
   - famicom

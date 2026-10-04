@@ -3,7 +3,8 @@ name: Army-Men-RTS_PS2_Advanced-Cheat_Pack_Final
 slug: army-men-rts-ps2-advanced-cheat-pack-final
 summary: Advanced PCSX2 cheat pack for Army Men RTS PAL – SLES-507.06 / CRC DAB59034
 categories:
-  - uncategorized
+  - emulators
+  - cheat-tools
 tags:
   - auto-discovered
 features: []

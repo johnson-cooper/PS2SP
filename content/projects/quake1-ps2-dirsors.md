@@ -3,7 +3,6 @@ name: quake1_ps2
 slug: quake1-ps2-dirsors
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - ports
   - games
 tags:
   - quake

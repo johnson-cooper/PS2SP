@@ -3,7 +3,7 @@ name: pcsx2-f
 slug: pcsx2-f-fernandosousagomes0-star
 summary: PCSX2 - The Playstation 2 Emulator
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

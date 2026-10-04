@@ -3,7 +3,8 @@ name: ps2-clang-patches
 slug: ps2-clang-patches-f0bes
 summary: A port of LLVM to the PS2. Early stages; help appreciated.
 categories:
-  - uncategorized
+  - development
+  - sdks
 tags:
   - auto-discovered
   - fork

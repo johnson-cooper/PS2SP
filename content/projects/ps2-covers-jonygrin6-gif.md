@@ -3,7 +3,7 @@ name: ps2-covers
 slug: ps2-covers-jonygrin6-gif
 summary: PS2 Covers Collection
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
   - fork

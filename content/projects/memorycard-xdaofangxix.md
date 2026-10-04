@@ -3,7 +3,8 @@ name: MemoryCard
 slug: memorycard-xdaofangxix
 summary: Web interface to manage PCSX2 .ps2 memory card images
 categories:
-  - uncategorized
+  - save-tools
+  - host-tools
 tags:
   - auto-discovered
   - fork

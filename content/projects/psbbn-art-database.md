@@ -3,7 +3,8 @@ name: psbbn-art-database
 slug: psbbn-art-database
 summary: Art database for the PSBBN Definitive Project
 categories:
-  - uncategorized
+  - themes
+  - dashboards
 tags:
   - auto-discovered
 features: []

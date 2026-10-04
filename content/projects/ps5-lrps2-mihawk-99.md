@@ -3,7 +3,8 @@ name: PS5_LRPS2
 slug: ps5-lrps2-mihawk-99
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - emulators
+  - ports
 tags:
   - auto-discovered
   - pending-promoted

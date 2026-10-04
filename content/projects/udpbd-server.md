@@ -4,7 +4,7 @@ slug: udpbd-server
 summary: My version of udpbd-server for raspberry pi
 categories:
   - networking
-  - host-tools
+  - hardware
 tags:
   - nathanneurotic
   - curated-owner

@@ -1,4 +1,5 @@
 import { categoryLabel, getProjects, projectUpdatedAt } from "./catalog";
+import { inferCategories } from "./categorization";
 import { getResources, type ResourceEntry } from "./resources";
 
 export interface SoftwareCatalogEntry {
@@ -35,34 +36,12 @@ function normalizedUrl(value?: string | null) {
   }
 }
 
-function inferResourceCategories(resource: ResourceEntry) {
-  const text = `${resource.name} ${resource.category} ${resource.categoryDescription} ${resource.keywords?.join(" ") ?? ""}`.toLowerCase();
-  const categories: string[] = [];
-
-  if (/homebrew games?|game ports?|games? & ports?|\bgame\b/.test(text)) categories.push("games");
-  if (/\bport\b|ported/.test(text)) categories.push("ports");
-  if (/emulat/.test(text)) categories.push("emulators");
-  if (/\bloader\b|open ps2 loader|\bopl\b|neutrino/.test(text)) categories.push("loaders");
-  if (/\blauncher\b|launch.?elf/.test(text)) categories.push("launchers");
-  if (/free.?mcboot|\bfmcb\b|free.?hdboot|\bfhdb\b|exploit|bootloader/.test(text)) categories.push("boot-tools");
-  if (/installer|installation utility/.test(text)) categories.push("installers");
-  if (/dashboard|osdsys|browser replacement/.test(text)) categories.push("dashboards");
-  if (/file manager|ulaunchelf|wlaunchelf/.test(text)) categories.push("file-managers");
-  if (/media player|audio player|video player/.test(text)) categories.push("media");
-  if (/network|server|smb|udpfs|udpbd|ps2link|hostfs|online/.test(text)) categories.push("networking");
-  if (/save tool|save manager|save editor|memory card utility/.test(text)) categories.push("save-tools");
-  if (/cheat|codebreaker|gameshark|artemis/.test(text)) categories.push("cheat-tools");
-  if (/\bsdk\b|toolchain|compiler|development tool|ps2dev/.test(text)) categories.push("development");
-  if (/\bsdk\b|ps2sdk/.test(text)) categories.push("sdks");
-  if (/\blibrary\b|\blib[a-z0-9_-]+\b/.test(text)) categories.push("libraries");
-  if (/\bengine\b/.test(text)) categories.push("engines");
-  if (/runtime|lua player|j2me/.test(text)) categories.push("runtimes");
-  if (/\bdriver\b|irx/.test(text)) categories.push("drivers");
-  if (/theme/.test(text)) categories.push("themes");
-  if (/\bdemo\b|demoscene/.test(text)) categories.push("demos");
-  if (/converter|editor|manager|tool|utility|dumper|viewer|patcher|frontend|gui|builder/.test(text)) categories.push("utilities");
-
-  return [...new Set(categories.length ? categories : ["utilities"])];
+function inferResourceCategories(resource: ResourceEntry): string[] {
+  return inferCategories({
+    name: resource.name,
+    summary: `${resource.category} ${resource.categoryDescription}`,
+    tags: resource.keywords ?? []
+  });
 }
 
 function deriveSoftwareTags(

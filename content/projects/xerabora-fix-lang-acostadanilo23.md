@@ -7,7 +7,9 @@ summary: >-
   its memory and the same window goes live. The first console that does is a
   real PlayStation 2, through a patched Open PS2 Loader.
 categories:
-  - uncategorized
+  - loaders
+  - libraries
+  - development
 tags:
   - auto-discovered
   - fork

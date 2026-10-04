@@ -6,7 +6,7 @@ summary: >-
   HLK-7628N/OpenWrt ecosystem. Designed for SMB, UDPBD, UDPFS, WiFi bridging,
   and integrated storage solutions for PS2 Slim consoles.
 categories:
-  - uncategorized
+  - networking
 tags:
   - auto-discovered
 features: []

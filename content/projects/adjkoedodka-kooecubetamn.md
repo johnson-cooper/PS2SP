@@ -6,7 +6,6 @@ summary: >-
   Community's Allocation of Work.
 categories:
   - loaders
-  - utilities
 tags:
   - opl
   - hdloader

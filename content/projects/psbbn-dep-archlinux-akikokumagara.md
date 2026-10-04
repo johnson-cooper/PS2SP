@@ -5,7 +5,8 @@ summary: >-
   A full English translation of the stock Japanese PlayStation Broadband
   Navigator (PSBBN) software version 0.32
 categories:
-  - uncategorized
+  - dashboards
+  - installers
 tags:
   - auto-discovered
   - fork

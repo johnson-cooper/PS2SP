@@ -5,7 +5,8 @@ summary: >-
   This tool converts and resigns PS1 and PS2 savegame files to PS3's PSV save
   format.
 categories:
-  - uncategorized
+  - save-tools
+  - utilities
 tags:
   - fork
   - auto-discovered

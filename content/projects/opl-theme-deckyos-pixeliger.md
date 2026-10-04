@@ -3,7 +3,7 @@ name: OPL-Theme-DeckyOS
 slug: opl-theme-deckyos-pixeliger
 summary: Open PS2 Loader Theme based on the SteamOS UI
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
 features: []

@@ -3,7 +3,8 @@ name: psx-pi-smbshare
 slug: psx-pi-smbshare-kayleas
 summary: A swiss army knife for enhancing classic game consoles with Raspberry Pi
 categories:
-  - uncategorized
+  - networking
+  - host-tools
 tags:
   - auto-discovered
   - fork

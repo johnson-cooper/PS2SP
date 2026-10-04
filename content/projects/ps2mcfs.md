@@ -5,7 +5,7 @@ summary: >-
   FUSE driver that allows mounting Sony PlayStation 2 memory card files (either
   from an emulator or obtained from real hardware) into your linux filesystem.
 categories:
-  - uncategorized
+  - save-tools
 tags:
   - auto-discovered
 features: []

@@ -1,5 +1,6 @@
 import fs from "node:fs/promises";
 import matter from "gray-matter";
+import { inferCategories, shouldHideProject } from "./lib/categorization.mjs";
 
 const token = process.env.GITHUB_TOKEN;
 if (!token) {
@@ -394,12 +395,29 @@ async function publishProject(repo, releases, maturity, score, evidence, origin,
   const target = new URL(`${slug}.md`, projectsDir);
   const parent = forkStatus?.parentProject ?? null;
   const release = maturity.stable ?? maturity.published ?? latestPublishedRelease(releases);
+  const tags = [...new Set([...(parent?.tags ?? []), ...(repo.fork ? ["fork"] : []), "auto-discovered"])];
+  const categories = parent?.categories && !parent.categories.includes("uncategorized") && parent.categories.length > 0
+    ? parent.categories
+    : inferCategories({
+        slug,
+        name: repo.name,
+        summary: repo.description,
+        tags,
+        repository: repo.full_name,
+        forkOf: forkStatus?.parent ?? null
+      });
+  const hidden = shouldHideProject({
+    slug,
+    name: repo.name,
+    summary: repo.description,
+    repository: repo.full_name
+  });
   const project = {
     name: repo.name,
     slug,
     summary: repo.description || "PlayStation 2 software project discovered by PS2SP.",
-    categories: parent?.categories ?? ["uncategorized"],
-    tags: [...new Set([...(parent?.tags ?? []), ...(repo.fork ? ["fork"] : []), "auto-discovered"])],
+    categories,
+    tags,
     features: parent?.features ?? [],
     authors: [],
     license: repo.license?.spdx_id && repo.license.spdx_id !== "NOASSERTION" ? repo.license.spdx_id : null,
@@ -422,7 +440,8 @@ async function publishProject(repo, releases, maturity, score, evidence, origin,
     automation: { sync: true },
     discovery: { method: origin, confidence: score, evidence, maturity: maturity.state },
     verified: false,
-    featured: false
+    featured: false,
+    hidden
   };
   if (forkStatus) {
     project.relationships = { forkOf: forkStatus.parent, source: forkStatus.source };

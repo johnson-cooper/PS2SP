@@ -3,7 +3,7 @@ name: DKWDRV
 slug: dkwdrv-soridon
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - drivers
 tags:
   - auto-discovered
   - fork

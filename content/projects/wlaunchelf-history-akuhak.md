@@ -3,9 +3,8 @@ name: wLaunchELF-history
 slug: wlaunchelf-history-akuhak
 summary: ELF loader and File browser for Sony PlayStation 2
 categories:
-  - launchers
   - file-managers
-  - utilities
+  - launchers
 tags:
   - wlaunchelf
   - ulaunchelf

@@ -6,7 +6,7 @@ summary: >-
   HUEVOMAN77. Rendimiento adaptativo para gama baja y media, drivers Turnip
   propios, ajustes por juego. Basado en PCSX2 (GPL-3.0).
 categories:
-  - uncategorized
+  - emulators
 tags:
   - fork
   - auto-discovered

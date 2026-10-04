@@ -7,7 +7,8 @@ summary: >-
   from the original. Plays start to finish on macOS, Linux, Windows, Android,
   Miyoo and PortMaster handhelds, and the PlayStation 2.
 categories:
-  - uncategorized
+  - games
+  - ports
 tags:
   - auto-discovered
 features: []

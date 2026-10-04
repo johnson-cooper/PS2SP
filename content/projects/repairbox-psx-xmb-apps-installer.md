@@ -5,7 +5,8 @@ summary: >-
   Installs PS2 homebrew applications in the Sony PSX DESR XMB. Supports PSX1 and
   PSX2.
 categories:
-  - uncategorized
+  - installers
+  - dashboards
 tags:
   - auto-discovered
 features: []

@@ -4,7 +4,7 @@ slug: wlaunchelf-r3z-nathanneurotic
 summary: Stable fork of the most famous file browser for Playstation 2
 categories:
   - file-managers
-  - utilities
+  - launchers
 tags:
   - nathanneurotic
   - curated-owner

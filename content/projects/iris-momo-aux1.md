@@ -3,7 +3,7 @@ name: iris
 slug: iris-momo-aux1
 summary: 'Sony PlayStation 2 emulator for Windows, Linux, macOS, Xbox, Android and iOS!'
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

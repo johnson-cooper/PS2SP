@@ -3,7 +3,7 @@ name: PS2Links
 slug: ps2links
 summary: Collection of PS2 Related Links from around the web.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

@@ -3,7 +3,7 @@ name: helengine-ps2
 slug: helengine-ps2
 summary: helengine PlayStation 2 handler
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

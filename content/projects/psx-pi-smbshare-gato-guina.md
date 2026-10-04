@@ -3,7 +3,8 @@ name: psx-pi-smbshare
 slug: psx-pi-smbshare-gato-guina
 summary: FORK. psx-pi-smbshare without XLink Kai
 categories:
-  - uncategorized
+  - networking
+  - host-tools
 tags:
   - auto-discovered
   - fork

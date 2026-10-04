@@ -3,7 +3,8 @@ name: ps2-unpacker
 slug: ps2-unpacker
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - utilities
+  - development
 tags:
   - auto-discovered
 features: []

@@ -3,7 +3,8 @@ name: libtap
 slug: libtap-jay-jay-opl
 summary: Write tests in C
 categories:
-  - uncategorized
+  - libraries
+  - development
 tags:
   - fork
   - auto-discovered

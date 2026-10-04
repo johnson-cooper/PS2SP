@@ -3,7 +3,7 @@ name: Open-PS2-Loader_xg
 slug: open-ps2-loader-xg-davidxgames
 summary: Game and app loader for Sony PlayStation 2
 categories:
-  - uncategorized
+  - loaders
 tags:
   - fork
   - auto-discovered

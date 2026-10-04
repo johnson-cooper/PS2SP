@@ -3,7 +3,8 @@ name: fluidsynth
 slug: fluidsynth-ps2dev
 summary: Software synthesizer based on the SoundFont 2 specifications
 categories:
-  - uncategorized
+  - sdks
+  - development
 tags:
   - fork
   - auto-discovered

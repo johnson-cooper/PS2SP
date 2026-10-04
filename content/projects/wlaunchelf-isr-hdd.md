@@ -5,7 +5,8 @@ summary: >-
   moded version of wLaunchELF capable of injecting icons & other data to APA
   partitions
 categories:
-  - uncategorized
+  - file-managers
+  - launchers
 tags:
   - auto-discovered
 features: []

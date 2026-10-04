@@ -3,7 +3,7 @@ name: OSD-XMB-Plugins
 slug: osd-xmb-plugins
 summary: Plugins to add to OSD-XMB by Hiro Tex
 categories:
-  - uncategorized
+  - dashboards
 tags:
   - auto-discovered
 features: []

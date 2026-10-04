@@ -3,7 +3,8 @@ name: psbbn-art-database
 slug: psbbn-art-database-konstantindjairo
 summary: Art database for the PSBBN Definitive Project
 categories:
-  - uncategorized
+  - themes
+  - dashboards
 tags:
   - auto-discovered
   - fork

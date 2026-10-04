@@ -3,7 +3,8 @@ name: sly1
 slug: sly1-mc-muffin
 summary: Decompilation of Sly Cooper and the Thievius Raccoonus for the PS2
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
   - fork

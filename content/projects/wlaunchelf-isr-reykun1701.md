@@ -5,9 +5,8 @@ summary: >-
   Mod of a stable wLaunchELF version with timestamp manipulation, text editor
   shortcuts and PS3/PS4 Dualshock support
 categories:
-  - launchers
   - file-managers
-  - utilities
+  - launchers
 tags:
   - wlaunchelf
   - ulaunchelf

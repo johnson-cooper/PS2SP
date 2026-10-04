@@ -5,7 +5,8 @@ summary: >-
   A small 3D game engine and editor for building Windows and PlayStation 2
   homebrew games.
 categories:
-  - uncategorized
+  - engines
+  - development
 tags:
   - auto-discovered
 features: []

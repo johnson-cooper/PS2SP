@@ -8,6 +8,8 @@ summary: >-
   by @ReyFxck. Contact me on Discord! @itsveenee
 categories:
   - emulators
+  - sdks
+  - development
 tags:
   - snes
   - nes

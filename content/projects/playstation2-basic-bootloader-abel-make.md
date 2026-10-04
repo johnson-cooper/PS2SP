@@ -3,7 +3,8 @@ name: PlayStation2-Basic-BootLoader
 slug: playstation2-basic-bootloader-abel-make
 summary: 'Basic Bootloader for PS2, PSX-DESR'
 categories:
-  - uncategorized
+  - boot-tools
+  - dashboards
 tags:
   - fork
   - auto-discovered

@@ -3,7 +3,7 @@ name: osdbits
 slug: osdbits
 summary: parts of the Playstation2's OSDSYS reverse engineered
 categories:
-  - development
+  - dashboards
 tags:
   - nathanneurotic
   - curated-owner

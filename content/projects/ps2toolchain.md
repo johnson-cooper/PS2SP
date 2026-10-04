@@ -3,8 +3,8 @@ name: PS2Toolchain
 slug: ps2toolchain
 summary: Compiler and toolchain build scripts for PlayStation 2 homebrew development.
 categories:
-  - development
   - sdks
+  - development
 tags:
   - compiler
   - toolchain

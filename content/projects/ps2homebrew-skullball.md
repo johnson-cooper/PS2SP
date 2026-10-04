@@ -3,7 +3,7 @@ name: ps2homebrew
 slug: ps2homebrew-skullball
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - development
 tags:
   - auto-discovered
   - fork

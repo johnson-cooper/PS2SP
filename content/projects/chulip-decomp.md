@@ -3,7 +3,8 @@ name: chulip-decomp
 slug: chulip-decomp
 summary: Matching decompilation of Chulip (USA) for PlayStation 2
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
 features: []

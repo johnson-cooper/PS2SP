@@ -3,7 +3,6 @@ name: pfsshell
 slug: pfsshell-bitrot-alpha
 summary: Browse and edit PFS filesystems on APA-formatted hard drive
 categories:
-  - host-tools
   - utilities
 tags:
   - pfs

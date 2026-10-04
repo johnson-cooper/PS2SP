@@ -3,7 +3,8 @@ name: 3s-decomp
 slug: 3s-decomp-foolycooly95
 summary: Decompilation of Street Fighter III (PS2)
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
   - fork

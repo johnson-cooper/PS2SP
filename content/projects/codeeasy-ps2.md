@@ -3,7 +3,7 @@ name: codeeasy-ps2
 slug: codeeasy-ps2
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - development
 tags:
   - auto-discovered
 features: []

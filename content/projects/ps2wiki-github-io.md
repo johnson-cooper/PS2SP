@@ -3,7 +3,7 @@ name: ps2wiki.github.io
 slug: ps2wiki-github-io
 summary: PS2 Homebrew Wiki
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

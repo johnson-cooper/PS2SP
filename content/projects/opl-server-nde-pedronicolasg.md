@@ -3,7 +3,8 @@ name: OPL-Server-NDE
 slug: opl-server-nde-pedronicolasg
 summary: Um servidor SAMBA (protocolo SMBv1) dedicado para OPL
 categories:
-  - uncategorized
+  - networking
+  - host-tools
 tags:
   - auto-discovered
   - fork

@@ -3,7 +3,7 @@ name: masp
 slug: masp-ps2dev
 summary: Mirror for masp
 categories:
-  - uncategorized
+  - development
 tags:
   - fork
   - auto-discovered

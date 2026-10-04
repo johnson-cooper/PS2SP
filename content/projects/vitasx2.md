@@ -3,7 +3,7 @@ name: vitasx2
 slug: vitasx2
 summary: PlayStation 2 Emulator for PS Vita / ARM32. Based on PCSX2.
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
 features: []

@@ -3,7 +3,8 @@ name: nrlpack
 slug: nrlpack
 summary: PlayStation 2 executables packer
 categories:
-  - uncategorized
+  - utilities
+  - development
 tags:
   - auto-discovered
 features: []

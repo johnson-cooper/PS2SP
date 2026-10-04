@@ -5,8 +5,9 @@ summary: >-
   Star Fox 64 port to PlayStation 2 - Decompiled game with PS2 hardware
   abstraction layer
 categories:
-  - preservation
-  - development
+  - ports
+  - games
+  - hardware
 tags:
   - auto-discovered
   - pending-promoted

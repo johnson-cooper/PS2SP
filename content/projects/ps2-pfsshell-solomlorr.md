@@ -3,7 +3,6 @@ name: PS2---pfsshell
 slug: ps2-pfsshell-solomlorr
 summary: Browse and edit PFS filesystems on APA-formatted hard drive
 categories:
-  - host-tools
   - utilities
 tags:
   - pfs

@@ -6,8 +6,8 @@ summary: >-
   used in the creation of homebrew software for the Sony PlayStation® 2
   videogame system.
 categories:
-  - development
   - sdks
+  - development
 tags:
   - compiler
   - toolchain

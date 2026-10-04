@@ -5,7 +5,7 @@ summary: >-
   A collection of Cheats to force widescreen aspect ratio for PS2 games, ready
   to use on OpenPS2Loader
 categories:
-  - uncategorized
+  - cheat-tools
 tags:
   - auto-discovered
   - fork

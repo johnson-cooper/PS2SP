@@ -3,7 +3,7 @@ name: sd2psx-save-converter
 slug: sd2psx-save-converter-syafrialdijr-lgtm
 summary: Manage your sd2psx
 categories:
-  - uncategorized
+  - save-tools
 tags:
   - auto-discovered
   - fork

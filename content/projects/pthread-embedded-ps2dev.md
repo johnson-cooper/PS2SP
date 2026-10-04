@@ -3,7 +3,8 @@ name: pthread-embedded
 slug: pthread-embedded-ps2dev
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - libraries
+  - development
 tags:
   - fork
   - auto-discovered

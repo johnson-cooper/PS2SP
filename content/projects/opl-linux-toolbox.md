@@ -3,7 +3,8 @@ name: opl-linux-toolbox
 slug: opl-linux-toolbox
 summary: '    Linux-first desktop manager for Open PS2 Loader libraries — safe PS2/PS1 imports, artwork, CFG, VMC, FAT32/UL support and native Linux packages.'
 categories:
-  - uncategorized
+  - host-tools
+  - utilities
 tags:
   - auto-discovered
 features: []

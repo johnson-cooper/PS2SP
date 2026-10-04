@@ -6,7 +6,7 @@ summary: >-
   consoles (works on all though) that have issues booting games with
   OPL-Launcher from internal HDD.
 categories:
-  - uncategorized
+  - loaders
 tags:
   - auto-discovered
   - fork

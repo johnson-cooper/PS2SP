@@ -4,6 +4,8 @@ slug: snesticlerevive-1247847495
 summary: 自制超级任天堂模拟器汉化版，适用于Playstation 2，最初基于Acer Addis模拟器。anyi多盒1
 categories:
   - emulators
+  - sdks
+  - development
 tags:
   - snes
   - nes

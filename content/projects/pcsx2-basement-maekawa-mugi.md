@@ -3,7 +3,7 @@ name: pcsx2-basement
 slug: pcsx2-basement-maekawa-mugi
 summary: fully ai coded complete full tlb with jit support of pcsx2
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

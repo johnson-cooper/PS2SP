@@ -3,7 +3,8 @@ name: PMAP
 slug: pmap-adlt3ch
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - development
+  - utilities
 tags:
   - auto-discovered
   - fork

@@ -3,7 +3,7 @@ name: jellyfish
 slug: jellyfish
 summary: ' Jellyfin music client for the PlayStation 2'
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

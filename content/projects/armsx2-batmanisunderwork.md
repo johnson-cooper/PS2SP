@@ -3,7 +3,7 @@ name: ARMSX2
 slug: armsx2-batmanisunderwork
 summary: ARMSX2 - The Playstation 2 Emulator for ARM64 Platforms
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

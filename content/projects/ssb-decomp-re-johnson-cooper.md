@@ -3,7 +3,8 @@ name: ssb-decomp-re
 slug: ssb-decomp-re-johnson-cooper
 summary: Super Smash Bros. for the Nintendo 64 PS2 PORT
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - fork
   - auto-discovered

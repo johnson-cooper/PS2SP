@@ -6,7 +6,8 @@ summary: >-
   PS1, PS2, Xbox, GameCube, Wii, Saturn,  Sega CD and more. Windows, Linux &
   macOS.
 categories:
-  - uncategorized
+  - host-tools
+  - utilities
 tags:
   - auto-discovered
 features: []

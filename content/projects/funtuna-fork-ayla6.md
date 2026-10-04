@@ -3,7 +3,7 @@ name: Funtuna-Fork
 slug: funtuna-fork-ayla6
 summary: whatever dude i just wanna use the actions
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
   - fork

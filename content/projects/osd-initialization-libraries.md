@@ -3,7 +3,8 @@ name: OSD-Initialization-Libraries
 slug: osd-initialization-libraries
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - libraries
+  - dashboards
 tags:
   - auto-discovered
 features: []

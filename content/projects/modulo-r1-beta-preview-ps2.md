@@ -6,7 +6,7 @@ summary: >-
   Neutrino. The completed source code will be published in a properly, and this
   repository will then be archived.
 categories:
-  - utilities
+  - loaders
 tags:
   - nathanneurotic
   - curated-owner

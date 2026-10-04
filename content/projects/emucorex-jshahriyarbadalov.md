@@ -6,7 +6,7 @@ summary: >-
   EmuCoreX, a modern game library, live overlay controls, and a handheld-focused
   experience.
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

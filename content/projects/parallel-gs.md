@@ -3,7 +3,7 @@ name: parallel-gs
 slug: parallel-gs
 summary: A compute shader emulation of the PlayStation 2 Graphics Synthesizer
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
 features: []

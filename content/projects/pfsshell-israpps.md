@@ -3,7 +3,7 @@ name: pfsshell
 slug: pfsshell-israpps
 summary: Browse and edit PFS filesystems on APA-formatted hard drive
 categories:
-  - uncategorized
+  - utilities
 tags:
   - fork
   - auto-discovered

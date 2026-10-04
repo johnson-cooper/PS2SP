@@ -3,7 +3,8 @@ name: awesome-ps2
 slug: awesome-ps2-terremoth
 summary: Awesome PlayStation 2 Apps and Homebrews
 categories:
-  - uncategorized
+  - preservation
+  - utilities
 tags:
   - auto-discovered
 features: []

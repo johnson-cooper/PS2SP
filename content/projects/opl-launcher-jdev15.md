@@ -5,7 +5,8 @@ summary: >-
   Fork to build OPL Launcher with latest release of the PS2 SDK to prevent hangs
   on some Crucial SSDs
 categories:
-  - uncategorized
+  - launchers
+  - loaders
 tags:
   - auto-discovered
   - fork

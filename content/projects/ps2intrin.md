@@ -3,7 +3,7 @@ name: ps2intrin
 slug: ps2intrin
 summary: C-Function wrappers for EE-Core specific instructions
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

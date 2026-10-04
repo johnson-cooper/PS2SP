@@ -6,7 +6,8 @@ summary: >-
   ground control, with documentation, test results, revision history, and
   installation notes.
 categories:
-  - uncategorized
+  - hardware
+  - installers
 tags:
   - auto-discovered
 features: []

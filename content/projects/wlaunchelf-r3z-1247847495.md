@@ -5,9 +5,8 @@ summary: >-
   Stable fork of the most famous file browser for Playstation 2 with all other
   features merged and more.
 categories:
-  - launchers
   - file-managers
-  - utilities
+  - launchers
 tags:
   - wlaunchelf
   - file-browser

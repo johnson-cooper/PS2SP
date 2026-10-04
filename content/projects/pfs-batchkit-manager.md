@@ -3,8 +3,7 @@ name: PFS-BatchKit-Manager
 slug: pfs-batchkit-manager
 summary: Manage your PlayStation 2/PSX DESR HDD
 categories:
-  - file-managers
-  - utilities
+  - host-tools
 tags:
   - nathanneurotic
   - curated-owner

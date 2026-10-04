@@ -3,7 +3,8 @@ name: iop-gcc
 slug: iop-gcc-aap
 summary: PlayStation 2 iop-gcc toolchain source
 categories:
-  - uncategorized
+  - sdks
+  - development
 tags:
   - fork
   - auto-discovered

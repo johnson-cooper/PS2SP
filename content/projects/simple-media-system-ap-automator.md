@@ -3,7 +3,7 @@ name: Simple-Media-System
 slug: simple-media-system-ap-automator
 summary: Source code for Simple Media System for PlayStation 2.
 categories:
-  - uncategorized
+  - media
 tags:
   - auto-discovered
   - fork

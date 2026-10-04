@@ -3,9 +3,8 @@ name: wLaunchELF_ps2homebrew
 slug: wlaunchelf-ps2homebrew-marcelocripe
 summary: ELF loader and File browser for Sony PlayStation 2
 categories:
-  - launchers
   - file-managers
-  - utilities
+  - launchers
 tags:
   - wlaunchelf
   - ulaunchelf

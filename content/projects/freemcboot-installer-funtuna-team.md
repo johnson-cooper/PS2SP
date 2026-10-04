@@ -3,7 +3,6 @@ name: FreeMcBoot-Installer
 slug: freemcboot-installer-funtuna-team
 summary: Custom installers for Several versions of FreeMcBoot
 categories:
-  - installers
   - boot-tools
 tags:
   - freemcboot

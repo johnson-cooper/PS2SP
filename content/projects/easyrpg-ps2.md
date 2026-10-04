@@ -5,8 +5,10 @@ summary: >-
   PlayStation 2 port of EasyRPG Player, an interpreter for RPG Maker 2000/2003
   and EasyRPG games.
 categories:
-  - runtimes
+  - games
   - ports
+  - runtimes
+  - development
 tags:
   - nathanneurotic
   - curated-owner

@@ -5,7 +5,8 @@ summary: >-
   Ukrainian localization fork of CosmicScale/PSBBN-Definitive-Project
   (feat/ukrainian-translation).
 categories:
-  - uncategorized
+  - dashboards
+  - installers
 tags:
   - auto-discovered
   - fork

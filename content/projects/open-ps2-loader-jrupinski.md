@@ -4,7 +4,6 @@ slug: open-ps2-loader-jrupinski
 summary: Game and app loader for Sony PlayStation 2 - fork with 1080p restored
 categories:
   - loaders
-  - utilities
 tags:
   - opl
   - hdloader

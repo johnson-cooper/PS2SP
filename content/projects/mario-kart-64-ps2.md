@@ -6,7 +6,8 @@ summary: >-
   nueva que reemplaza el hardware de la N64. Audio original con la mezcla
   exacta, modo 60 FPS, Memory Card y ISO para OPL y PCSX2.
 categories:
-  - uncategorized
+  - games
+  - ports
 tags:
   - auto-discovered
 features: []

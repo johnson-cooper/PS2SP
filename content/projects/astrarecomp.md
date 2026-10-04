@@ -6,7 +6,8 @@ summary: >-
   bring-up, and a Vita-native hybrid runtime. Experimental—no playable retail
   games or audio output yet.
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
 features: []

@@ -3,7 +3,7 @@ name: ROMVersionChecker
 slug: romversionchecker
 summary: A app to check a PS2's ROM Version
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

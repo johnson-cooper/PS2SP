@@ -3,7 +3,7 @@ name: ps2-covers
 slug: ps2-covers-gamer191
 summary: 'Fork to remove covers I don''t need, so I can download the repo zip quicker'
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
   - fork

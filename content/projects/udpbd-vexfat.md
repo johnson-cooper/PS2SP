@@ -3,7 +3,7 @@ name: udpbd-vexfat
 slug: udpbd-vexfat
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - networking
 tags:
   - auto-discovered
 features: []

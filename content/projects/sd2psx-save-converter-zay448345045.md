@@ -3,7 +3,7 @@ name: sd2psx-save-converter
 slug: sd2psx-save-converter-zay448345045
 summary: Manage your sd2psx
 categories:
-  - uncategorized
+  - save-tools
 tags:
   - auto-discovered
   - fork

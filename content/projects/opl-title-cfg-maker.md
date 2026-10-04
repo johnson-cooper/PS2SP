@@ -3,7 +3,8 @@ name: opl-Title.cfg-maker
 slug: opl-title-cfg-maker
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - host-tools
+  - utilities
 tags:
   - auto-discovered
 features: []

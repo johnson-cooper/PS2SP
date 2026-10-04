@@ -3,7 +3,7 @@ name: iris
 slug: iris-arcum42
 summary: Experimental PlayStation 2 emulator
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

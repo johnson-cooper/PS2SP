@@ -3,7 +3,7 @@ name: SPC970-MechaLIBerator
 slug: spc970-mechaliberator
 summary: SPC970 Mechacon dumper
 categories:
-  - utilities
+  - hardware
 tags:
   - auto-discovered
   - pending-promoted

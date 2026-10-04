@@ -6,7 +6,7 @@ summary: >-
   POPStarter support and extended device handling.
 categories:
   - file-managers
-  - utilities
+  - launchers
 tags:
   - nathanneurotic
   - curated-owner

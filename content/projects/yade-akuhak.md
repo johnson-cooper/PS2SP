@@ -5,7 +5,7 @@ summary: >-
   YetAnotherDvdExploit, a dvd exploit for the Play Station 2 (fully working on
   dvd player v3.00E and possibly v3.00A, v3.00U, v3.00J)
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - fork
   - auto-discovered

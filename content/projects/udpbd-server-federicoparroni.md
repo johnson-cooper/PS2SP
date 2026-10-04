@@ -3,7 +3,7 @@ name: udpbd-server
 slug: udpbd-server-federicoparroni
 summary: UDPBD server
 categories:
-  - uncategorized
+  - networking
 tags:
   - auto-discovered
   - fork

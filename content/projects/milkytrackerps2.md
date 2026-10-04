@@ -3,7 +3,8 @@ name: MilkyTrackerPS2
 slug: milkytrackerps2
 summary: A favorite FT2 compatible music tracker ported badly to PlayStation 2
 categories:
-  - uncategorized
+  - ports
+  - media
 tags:
   - auto-discovered
 features: []

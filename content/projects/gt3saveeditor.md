@@ -5,7 +5,6 @@ summary: >-
   This GUI tool allows users to read and edit save files for the PlayStation 2
   game Gran Turismo 3.
 categories:
-  - save-tools
   - utilities
 tags:
   - auto-discovered

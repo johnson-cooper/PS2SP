@@ -3,7 +3,7 @@ name: TM2Toolkit
 slug: tm2toolkit
 summary: Tools to extract and create PlayStation 2 TIM2 textures
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

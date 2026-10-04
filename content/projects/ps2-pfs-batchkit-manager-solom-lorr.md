@@ -3,7 +3,8 @@ name: ps2-PFS-BatchKit-Manager
 slug: ps2-pfs-batchkit-manager-solom-lorr
 summary: Manage your PlayStation 2/PSX DESR HDD
 categories:
-  - uncategorized
+  - host-tools
+  - utilities
 tags:
   - auto-discovered
   - fork

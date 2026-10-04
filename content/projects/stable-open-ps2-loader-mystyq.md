@@ -6,7 +6,6 @@ summary: >-
   optimizations*
 categories:
   - loaders
-  - utilities
 tags:
   - opl
   - hdloader

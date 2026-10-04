@@ -5,7 +5,8 @@ summary: >-
   SDL2 port of chromium dino_game with desktop, android, ps2, original xbox and
   UWP (xbox1/series/windows) support
 categories:
-  - uncategorized
+  - ports
+  - games
 tags:
   - auto-discovered
 features: []

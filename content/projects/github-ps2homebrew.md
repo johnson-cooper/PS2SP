@@ -3,7 +3,7 @@ name: .github
 slug: github-ps2homebrew
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []
@@ -40,5 +40,6 @@ discovery:
   maturity: dormant-unreleased
 verified: false
 featured: false
+hidden: true
 ---
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

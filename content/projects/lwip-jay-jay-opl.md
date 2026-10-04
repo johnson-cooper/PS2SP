@@ -3,7 +3,8 @@ name: lwip
 slug: lwip-jay-jay-opl
 summary: 'lwIP mirror from http://git.savannah.gnu.org/cgit/lwip.git'
 categories:
-  - uncategorized
+  - libraries
+  - networking
 tags:
   - fork
   - auto-discovered

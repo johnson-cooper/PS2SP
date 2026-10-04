@@ -5,7 +5,7 @@ summary: >-
   Serve modern SMB3 shares to Windows XP, 2000, NT 4.0 and the PS2 over SMB1,
   without turning SMB1 on anywhere else.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

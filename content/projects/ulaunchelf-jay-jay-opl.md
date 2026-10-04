@@ -3,9 +3,8 @@ name: uLaunchELF
 slug: ulaunchelf-jay-jay-opl
 summary: File browser for ps2
 categories:
-  - launchers
   - file-managers
-  - utilities
+  - launchers
 tags:
   - wlaunchelf
   - ulaunchelf

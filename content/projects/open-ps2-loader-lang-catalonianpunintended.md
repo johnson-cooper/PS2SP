@@ -3,7 +3,8 @@ name: Open-PS2-Loader-lang
 slug: open-ps2-loader-lang-catalonianpunintended
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - loaders
+  - utilities
 tags:
   - auto-discovered
   - fork

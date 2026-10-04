@@ -5,8 +5,7 @@ summary: >-
   Unified replacement for the PlayStation 2's original PS1DRV, adding broader
   compatibility, fixes, configuration options, and PS1-mode features.
 categories:
-  - loaders
-  - emulators
+  - drivers
 tags:
   - nathanneurotic
   - curated-owner

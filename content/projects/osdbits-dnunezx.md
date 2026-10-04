@@ -3,7 +3,8 @@ name: osdbits
 slug: osdbits-dnunezx
 summary: parts of the Playstation2's OSDSYS reverse engineered
 categories:
-  - uncategorized
+  - dashboards
+  - development
 tags:
   - auto-discovered
   - fork

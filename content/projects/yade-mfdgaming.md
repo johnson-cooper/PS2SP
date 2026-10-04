@@ -6,7 +6,7 @@ summary: >-
   dvd player v3.00E and possibly v3.00A, v3.00U, v3.00J, v3.02A, v3.02E, v3.02C,
   v3.02D, 3.02G, 3.02J, 3.02K, 3.02U, 3.03J, 3.03E, 3.04J, 3.04M)
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
 features: []

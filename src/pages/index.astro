@@ -2,13 +2,12 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ReportBrokenLink from "../components/ReportBrokenLink.astro";
 import { categoryLabel, formatDate, getProjects, getSite, projectUpdatedAt } from "../lib/catalog";
-import { getResourceGroups, getResources } from "../lib/resources";
+import { getResources } from "../lib/resources";
 import { getSoftwareCatalog } from "../lib/software";
 
 const site = (await getSite()).data;
 const projects = await getProjects();
 const software = await getSoftwareCatalog();
-const resourceGroups = getResourceGroups();
 const resources = getResources();
 
 const activeSoftware = software
@@ -251,7 +250,7 @@ const ps2Symbols = ["△", "○", "×", "□"];
       <a href="/projects?sort=updated">Full filterable index →</a>
     </div>
     <div class="category-strip">
-      {[...categories.entries()].sort((a, b) => b[1] - a[1]).slice(0, 18).map(([id, count], index) => (
+      {[...categories.entries()].filter(([id]) => id !== "uncategorized").sort((a, b) => b[1] - a[1]).slice(0, 18).map(([id, count], index) => (
         <a href={`/projects?category=${encodeURIComponent(id)}&sort=updated`}>
           <strong><span class="ps2-symbol" aria-hidden="true">{ps2Symbols[index % ps2Symbols.length]}</span>{categoryLabel(id)}</strong>
           <span>{count}</span>

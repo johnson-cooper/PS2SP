@@ -3,7 +3,7 @@ name: PS2JS
 slug: ps2js-timfox
 summary: A Javascript environment for creating games on PlayStation 2.
 categories:
-  - engines
+  - runtimes
   - development
 tags:
   - javascript

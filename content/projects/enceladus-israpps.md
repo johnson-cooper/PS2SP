@@ -3,7 +3,9 @@ name: Enceladus
 slug: enceladus-israpps
 summary: ' A complete Lua environment for creating homebrew applications and games on PlayStation 2.'
 categories:
-  - uncategorized
+  - engines
+  - runtimes
+  - development
 tags:
   - auto-discovered
   - fork

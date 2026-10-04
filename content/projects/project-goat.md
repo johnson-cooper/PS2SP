@@ -5,7 +5,6 @@ summary: >-
   A cross-platform Yu-Gi-Oh! GOAT Format simulator with a PlayStation 2 port and
   published PS2 disc image release.
 categories:
-  - games
   - ports
 tags:
   - yugioh

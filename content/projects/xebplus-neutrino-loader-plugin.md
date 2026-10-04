@@ -3,7 +3,8 @@ name: xebplus-neutrino-loader-plugin
 slug: xebplus-neutrino-loader-plugin
 summary: PlayStation 2 homebrew project discovered by PS2SP.
 categories:
-  - uncategorized
+  - launchers
+  - loaders
 tags:
   - auto-discovered
 features: []

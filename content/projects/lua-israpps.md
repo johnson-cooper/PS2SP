@@ -6,7 +6,8 @@ summary: >-
   send pull requests. Send any issue to the Lua mailing list
   https://www.lua.org/lua-l.html
 categories:
-  - uncategorized
+  - runtimes
+  - development
 tags:
   - fork
   - auto-discovered

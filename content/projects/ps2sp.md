@@ -5,7 +5,6 @@ summary: >-
   PlayStation 2 Software Plaza, a continuously maintained index of PlayStation 2
   software and related projects.
 categories:
-  - preservation
   - utilities
 tags:
   - nathanneurotic

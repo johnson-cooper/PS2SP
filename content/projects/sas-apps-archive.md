@@ -3,7 +3,7 @@ name: sas-apps-archive
 slug: sas-apps-archive
 summary: The one place to download all* PS2 Apps!
 categories:
-  - preservation
+  - utilities
 tags:
   - nathanneurotic
   - curated-owner

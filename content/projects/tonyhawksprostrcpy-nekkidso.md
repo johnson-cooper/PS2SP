@@ -3,7 +3,7 @@ name: TonyHawksProStrcpy
 slug: tonyhawksprostrcpy-nekkidso
 summary: Code execution exploit for Tony Hawk's video game series
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
   - fork

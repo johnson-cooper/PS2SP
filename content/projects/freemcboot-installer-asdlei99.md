@@ -3,7 +3,6 @@ name: FreeMcBoot-Installer
 slug: freemcboot-installer-asdlei99
 summary: 'Custom installers for FreeMcBoot 1.966, 1.965 and 1.953'
 categories:
-  - installers
   - boot-tools
 tags:
   - freemcboot

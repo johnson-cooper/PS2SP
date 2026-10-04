@@ -3,7 +3,8 @@ name: ps2dev-world
 slug: ps2dev-world
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - sdks
+  - development
 tags:
   - auto-discovered
 features: []

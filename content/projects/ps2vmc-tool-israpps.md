@@ -3,7 +3,7 @@ name: ps2vmc-tool
 slug: ps2vmc-tool-israpps
 summary: PS1/PS2 VMC memcard manager tools
 categories:
-  - uncategorized
+  - save-tools
 tags:
   - fork
   - auto-discovered

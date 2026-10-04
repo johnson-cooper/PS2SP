@@ -5,7 +5,8 @@ summary: >-
   This is a plugin for the Xtreme Elite Boot Plus dashboard for the PlayStation
   2.
 categories:
-  - uncategorized
+  - dashboards
+  - networking
 tags:
   - auto-discovered
   - fork

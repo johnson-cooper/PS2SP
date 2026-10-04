@@ -3,7 +3,8 @@ name: nhddl
 slug: nhddl-israpps
 summary: A PS2 exFAT BDM Launcher for Neutrino
 categories:
-  - uncategorized
+  - launchers
+  - loaders
 tags:
   - auto-discovered
   - fork

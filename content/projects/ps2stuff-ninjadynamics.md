@@ -3,7 +3,8 @@ name: ps2stuff
 slug: ps2stuff-ninjadynamics
 summary: Library used by ps2gl
 categories:
-  - uncategorized
+  - development
+  - libraries
 tags:
   - auto-discovered
   - fork

@@ -3,7 +3,7 @@ name: PS2-SAS-icon-guide
 slug: ps2-sas-icon-guide
 summary: A guide to create icons for SAS-compliant PS2 apps. Includes assets and tools.
 categories:
-  - preservation
+  - utilities
 tags:
   - nathanneurotic
   - curated-owner

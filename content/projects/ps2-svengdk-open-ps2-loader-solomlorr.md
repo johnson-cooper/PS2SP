@@ -5,7 +5,7 @@ summary: >-
   Modified version of OpenPS2Loader. Created for the PSX DVR (DESR) consoles
   that have issues booting games with OPL-Launcher from internal HDD.
 categories:
-  - uncategorized
+  - loaders
 tags:
   - auto-discovered
   - fork

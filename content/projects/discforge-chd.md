@@ -5,7 +5,7 @@ summary: >-
   CHD Optimizer para Windows x64 em C#: conversão PS1/PS2, capas, consulta por
   serial e publicação automática de atualizações.
 categories:
-  - uncategorized
+  - host-tools
 tags:
   - auto-discovered
   - pending-promoted

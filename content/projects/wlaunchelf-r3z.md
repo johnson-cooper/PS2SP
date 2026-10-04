@@ -3,9 +3,8 @@ name: wLaunchELF R3Z
 slug: wlaunchelf-r3z
 summary: Modernized wLaunchELF fork with additional merged features for PlayStation 2.
 categories:
-  - launchers
   - file-managers
-  - utilities
+  - launchers
 tags:
   - wlaunchelf
   - file-browser

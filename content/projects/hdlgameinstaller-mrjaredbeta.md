@@ -3,8 +3,8 @@ name: HDLGameInstaller
 slug: hdlgameinstaller-mrjaredbeta
 summary: The HDLoader game installer
 categories:
+  - loaders
   - installers
-  - utilities
 tags:
   - hdd
   - hdloader

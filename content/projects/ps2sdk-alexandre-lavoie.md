@@ -5,7 +5,6 @@ summary: Homebrew PS2 SDK
 categories:
   - sdks
   - development
-  - libraries
 tags:
   - ps2dev
   - sdk

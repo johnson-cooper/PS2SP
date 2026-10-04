@@ -3,7 +3,7 @@ name: OSD-XMB_Copy
 slug: osd-xmb-copy-taccountant2026
 summary: Playstation 2 XMB Styled User Interface
 categories:
-  - uncategorized
+  - dashboards
 tags:
   - auto-discovered
   - fork

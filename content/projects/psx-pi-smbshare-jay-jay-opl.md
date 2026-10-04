@@ -3,7 +3,8 @@ name: psx-pi-smbshare
 slug: psx-pi-smbshare-jay-jay-opl
 summary: SMB sharing for Multiman and Open Playstation Loader on Raspberry Pi
 categories:
-  - uncategorized
+  - networking
+  - host-tools
 tags:
   - auto-discovered
   - fork

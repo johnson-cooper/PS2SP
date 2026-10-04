@@ -3,7 +3,7 @@ name: PS2-OPL-CFG-Compatibility-Database
 slug: ps2-opl-cfg-compatibility-database
 summary: Database compatibilities for OPL
 categories:
-  - uncategorized
+  - loaders
 tags:
   - auto-discovered
 features: []

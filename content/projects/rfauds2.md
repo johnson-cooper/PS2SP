@@ -3,7 +3,8 @@ name: RFAuds2
 slug: rfauds2
 summary: Modern Audio Library for PlayStation 2 ©
 categories:
-  - uncategorized
+  - libraries
+  - development
 tags:
   - auto-discovered
 features: []

@@ -5,9 +5,8 @@ summary: >-
   Mod of a stable wLaunchELF version with timestamp manipulation and text editor
   shortcuts.
 categories:
-  - launchers
   - file-managers
-  - utilities
+  - launchers
 tags:
   - wlaunchelf
   - ulaunchelf

@@ -3,7 +3,7 @@ name: pppps2pc
 slug: pppps2pc
 summary: Extremely simple tool to enable the ParaParaParadise PS2 controller on a PC.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

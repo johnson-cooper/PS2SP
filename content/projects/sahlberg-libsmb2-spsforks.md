@@ -3,7 +3,8 @@ name: sahlberg-libsmb2
 slug: sahlberg-libsmb2-spsforks
 summary: SMB2/3 userspace client
 categories:
-  - uncategorized
+  - libraries
+  - networking
 tags:
   - auto-discovered
   - pending-promoted

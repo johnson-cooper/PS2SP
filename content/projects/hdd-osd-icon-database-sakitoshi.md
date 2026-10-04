@@ -3,7 +3,8 @@ name: HDD-OSD-Icon-Database
 slug: hdd-osd-icon-database-sakitoshi
 summary: 'HDD-OSD icon database for the PSBBN Definitive English Patch project '
 categories:
-  - uncategorized
+  - themes
+  - dashboards
 tags:
   - auto-discovered
   - fork

@@ -3,7 +3,8 @@ name: Open-PS2-Loader-Compatibility-list
 slug: open-ps2-loader-compatibility-list-famasndn777
 summary: A GitHub pages compatibility list for OPL
 categories:
-  - uncategorized
+  - utilities
+  - preservation
 tags:
   - auto-discovered
   - fork

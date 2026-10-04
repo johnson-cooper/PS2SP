@@ -3,7 +3,8 @@ name: xebplus-neutrino-loader-plugin
 slug: xebplus-neutrino-loader-plugin-epidemic
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - launchers
+  - loaders
 tags:
   - auto-discovered
   - fork

@@ -3,7 +3,8 @@ name: Beta9-Rcovery-Backup-Checkpoint
 slug: beta9-rcovery-backup-checkpoint-nuno6573
 summary: 'https://github.com/NathanNeurotic/POPSLoader/releases'
 categories:
-  - uncategorized
+  - loaders
+  - emulators
 tags:
   - auto-discovered
   - fork

@@ -3,8 +3,8 @@ name: Quake PS2
 slug: quake-ps2
 summary: PlayStation 2 homebrew port of the original Quake engine.
 categories:
-  - ports
   - games
+  - ports
 tags:
   - quake
   - fps

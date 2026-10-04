@@ -3,7 +3,7 @@ name: wOPL
 slug: wopl-wolf3s
 summary: The Continuation of Unofficial Open PS2 Loader by @Krahjohlito as wOPL!
 categories:
-  - uncategorized
+  - loaders
 tags:
   - fork
   - auto-discovered

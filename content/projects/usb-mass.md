@@ -3,7 +3,7 @@ name: usb_mass
 slug: usb-mass
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

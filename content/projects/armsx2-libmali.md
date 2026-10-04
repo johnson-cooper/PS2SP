@@ -5,8 +5,8 @@ summary: >-
   Vulkan driver for Arm Mali (G615) on the stock kbase kernel driver, built for
   the ARMSX2 PS2 emulator
 categories:
-  - emulators
   - drivers
+  - emulators
 tags:
   - auto-discovered
   - pending-promoted

@@ -6,6 +6,7 @@ summary: >-
   games, using server-controlled memory writes to load LaunchELF.
 categories:
   - boot-tools
+  - launchers
   - networking
 tags:
   - nathanneurotic

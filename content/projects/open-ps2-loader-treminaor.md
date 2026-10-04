@@ -5,7 +5,7 @@ summary: >-
   Game and app loader for Sony PlayStation 2 (NBD updated to support greater
   than 2TB streams)
 categories:
-  - uncategorized
+  - loaders
 tags:
   - fork
   - auto-discovered

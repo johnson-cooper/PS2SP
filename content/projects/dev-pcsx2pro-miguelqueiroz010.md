@@ -3,7 +3,7 @@ name: dev-pcsx2pro
 slug: dev-pcsx2pro-miguelqueiroz010
 summary: DEVELOPER EDITION - PCSX2 (PS2 EMULATOR WITH BETTER DEBUGGER)
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

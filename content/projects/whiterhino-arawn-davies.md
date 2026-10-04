@@ -3,7 +3,7 @@ name: whiterhino
 slug: whiterhino-arawn-davies
 summary: PCSX2 - The Playstation 2 Emulator
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

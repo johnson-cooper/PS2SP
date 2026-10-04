@@ -4,7 +4,6 @@ slug: ps2-servers
 summary: 'Click-and-go SMB, UDPBD, and UDPFS LAN servers for PlayStation 2 homebrew.'
 categories:
   - networking
-  - host-tools
 tags:
   - nathanneurotic
   - curated-owner

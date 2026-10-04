@@ -4,7 +4,6 @@ slug: udpfsd
 summary: A UDPFS server written in Go
 categories:
   - networking
-  - host-tools
 tags:
   - nathanneurotic
   - curated-owner

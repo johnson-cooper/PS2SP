@@ -3,7 +3,7 @@ name: OPL-Theme-DeckyOS
 slug: opl-theme-deckyos
 summary: PlayStation 2 homebrew project discovered by PS2SP.
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
 features: []

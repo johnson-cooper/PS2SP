@@ -3,7 +3,8 @@ name: PSBBN-Definitive-Project
 slug: psbbn-definitive-project-nathanneurotic
 summary: The ultimate setup for the PlayStation 2's internal drive.
 categories:
-  - utilities
+  - dashboards
+  - installers
 tags:
   - nathanneurotic
   - curated-owner

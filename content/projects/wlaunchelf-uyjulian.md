@@ -3,9 +3,8 @@ name: wLaunchELF
 slug: wlaunchelf-uyjulian
 summary: File browser for ps2
 categories:
-  - launchers
   - file-managers
-  - utilities
+  - launchers
 tags:
   - wlaunchelf
   - ulaunchelf

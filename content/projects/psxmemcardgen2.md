@@ -3,7 +3,8 @@ name: PSxMemCardGen2
 slug: psxmemcardgen2
 summary: A device capable of storing an unlimited number of PS1 and PS2 game saves
 categories:
-  - uncategorized
+  - save-tools
+  - hardware
 tags:
   - auto-discovered
 features: []

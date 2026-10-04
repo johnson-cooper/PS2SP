@@ -4,7 +4,6 @@ slug: pmap
 summary: "PlayStation 2 Mechacon Adjustment Program for CD/DVD subsystem maintenance, including EEPROM service, electrical adjustment, and mechanism/skew calibration."
 categories:
   - hardware
-  - utilities
 tags:
   - nathanneurotic
   - curated-owner

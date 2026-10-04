@@ -5,7 +5,6 @@ summary: Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 categories:
   - preservation
   - development
-  - engines
 tags:
   - auto-discovered
   - pending-promoted

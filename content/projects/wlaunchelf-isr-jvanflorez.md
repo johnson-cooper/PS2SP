@@ -3,9 +3,8 @@ name: wLaunchELF_ISR
 slug: wlaunchelf-isr-jvanflorez
 summary: Mod of a stable wLaunchELF version with lots of extra cool features
 categories:
-  - launchers
   - file-managers
-  - utilities
+  - launchers
 tags:
   - wlaunchelf
   - ulaunchelf

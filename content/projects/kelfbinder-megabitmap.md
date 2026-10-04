@@ -3,7 +3,8 @@ name: KELFBinder
 slug: kelfbinder-megabitmap
 summary: DVDPlayer and System Updates Manager for SCE PlayStation2
 categories:
-  - uncategorized
+  - boot-tools
+  - utilities
 tags:
   - auto-discovered
   - fork

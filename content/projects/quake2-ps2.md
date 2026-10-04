@@ -3,8 +3,10 @@ name: Quake II PS2
 slug: quake2-ps2
 summary: Homebrew port of id Software's Quake II to PlayStation 2.
 categories:
-  - ports
   - games
+  - ports
+  - sdks
+  - development
 tags:
   - quake
   - quake2

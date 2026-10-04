@@ -3,8 +3,7 @@ name: DKWDRV-OLD
 slug: dkwdrv-old
 summary: 'Unified Single PS1DRV Replacement, compatible with mostly all PS2 models.'
 categories:
-  - loaders
-  - emulators
+  - drivers
 tags:
   - nathanneurotic
   - curated-owner

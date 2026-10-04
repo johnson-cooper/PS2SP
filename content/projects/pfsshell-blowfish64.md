@@ -3,7 +3,6 @@ name: pfsshell
 slug: pfsshell-blowfish64
 summary: Browse and edit PFS filesystems on APA-formatted hard drive
 categories:
-  - host-tools
   - utilities
 tags:
   - pfs

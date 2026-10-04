@@ -3,7 +3,8 @@ name: IDAPy-PS2
 slug: idapy-ps2-ziemas
 summary: IDA python scripts for reverse engineering PS2 EE and IOP executables
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - fork
   - auto-discovered

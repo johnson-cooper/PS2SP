@@ -3,7 +3,7 @@ name: awesome-ps2
 slug: awesome-ps2
 summary: Awesome PlayStation 2 Apps and Homebrews
 categories:
-  - preservation
+  - utilities
 tags:
   - nathanneurotic
   - curated-owner

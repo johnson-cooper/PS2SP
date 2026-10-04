@@ -5,7 +5,8 @@ summary: >-
   Toward a native PC port of Extermination (PS2, 2001): disc and format
   analysis, tools, and ps2kit, a game-agnostic PS2 toolkit. BYOA.
 categories:
-  - uncategorized
+  - ports
+  - games
 tags:
   - auto-discovered
 features: []

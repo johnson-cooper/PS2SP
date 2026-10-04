@@ -5,7 +5,7 @@ summary: >-
   PCSX2 is a free full-version PlayStation 2 emulator for Windows that lets you
   enjoy classic games like Gran Turismo and Final Fantasy
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
 features: []

@@ -4,7 +4,6 @@ slug: ps2ftpd
 summary: FTP server for Sony PlayStation 2.
 categories:
   - networking
-  - utilities
 tags:
   - ftp
   - server

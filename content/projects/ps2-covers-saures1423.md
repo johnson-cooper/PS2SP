@@ -3,7 +3,7 @@ name: ps2-covers
 slug: ps2-covers-saures1423
 summary: PS2 Covers Collection
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
   - fork

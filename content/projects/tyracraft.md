@@ -3,7 +3,9 @@ name: tyracraft
 slug: tyracraft
 summary: Minecraft for PS2 with Tyra Engine
 categories:
-  - uncategorized
+  - games
+  - engines
+  - development
 tags:
   - auto-discovered
 features: []

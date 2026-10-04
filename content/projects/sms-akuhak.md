@@ -3,7 +3,7 @@ name: SMS
 slug: sms-akuhak
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - media
+  - utilities
 tags:
   - media-player
   - video

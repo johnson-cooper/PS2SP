@@ -6,7 +6,8 @@ summary: >-
   into matching C code with the long term goal being a port to PC that will
   heavily support modding.
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
 features: []

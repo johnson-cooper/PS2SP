@@ -3,7 +3,7 @@ name: iris_ps2_emu
 slug: iris-ps2-emu-mengualp
 summary: Experimental PlayStation 2 emulator
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

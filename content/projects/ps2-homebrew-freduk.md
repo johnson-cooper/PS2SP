@@ -3,8 +3,8 @@ name: ps2-homebrew
 slug: ps2-homebrew-freduk
 summary: PlayStation 2 homebrew demos.
 categories:
-  - demos
-  - games
+  - sdks
+  - development
 tags:
   - demos
   - homebrew-games

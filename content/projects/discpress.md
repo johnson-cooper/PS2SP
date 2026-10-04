@@ -6,7 +6,8 @@ summary: >-
   offline HTML file, with game names from Redump. Works on iPhone, Android and
   desktop, and nothing is uploaded.
 categories:
-  - uncategorized
+  - emulators
+  - host-tools
 tags:
   - auto-discovered
   - pending-promoted

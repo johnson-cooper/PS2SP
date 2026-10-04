@@ -6,9 +6,8 @@ summary: >-
   network, games sent from the PC over udpfs, remote commands, plus Windows
   tools (English and Portuguese)
 categories:
-  - launchers
   - file-managers
-  - utilities
+  - launchers
 tags:
   - wlaunchelf
   - file-browser

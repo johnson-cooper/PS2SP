@@ -3,8 +3,9 @@ name: PS2SDK Ports
 slug: ps2sdk-ports
 summary: Ports of useful third-party libraries to PS2SDK.
 categories:
-  - libraries
+  - sdks
   - development
+  - libraries
 tags:
   - ps2sdk
   - ports

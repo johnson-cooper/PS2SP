@@ -3,7 +3,8 @@ name: dreamgl
 slug: dreamgl-sl1pkn07
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - libraries
+  - development
 tags:
   - auto-discovered
   - fork

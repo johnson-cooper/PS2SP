@@ -4,7 +4,7 @@ slug: playstation2-basic-bootloader-allkatran
 summary: 'Basic Bootloader for PS2, PSX-DESR'
 categories:
   - boot-tools
-  - launchers
+  - dashboards
 tags:
   - ps2bbl
   - bootloader

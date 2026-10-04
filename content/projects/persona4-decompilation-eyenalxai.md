@@ -3,7 +3,8 @@ name: Persona4-Decompilation
 slug: persona4-decompilation-eyenalxai
 summary: 'Matching decompilation of Shin Megami Tensei: Persona 4 for PlayStation 2'
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
   - fork

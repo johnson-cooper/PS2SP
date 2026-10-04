@@ -3,7 +3,8 @@ name: ps2mc-browser
 slug: ps2mc-browser-limaolin1945
 summary: A PS2 game save browser supports displaying 3D icons.
 categories:
-  - uncategorized
+  - save-tools
+  - host-tools
 tags:
   - auto-discovered
   - fork

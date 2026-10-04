@@ -3,7 +3,8 @@ name: wLaunchELF
 slug: wlaunchelf-ps2-widescreen
 summary: ELF loader and File browser for Sony PlayStation 2
 categories:
-  - uncategorized
+  - file-managers
+  - launchers
 tags:
   - fork
   - auto-discovered

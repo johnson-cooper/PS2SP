@@ -3,7 +3,8 @@ name: POPSLoader
 slug: popsloader-362053534
 summary: 'https://github.com/NathanNeurotic/POPSLoader/releases'
 categories:
-  - uncategorized
+  - loaders
+  - emulators
 tags:
   - auto-discovered
   - fork

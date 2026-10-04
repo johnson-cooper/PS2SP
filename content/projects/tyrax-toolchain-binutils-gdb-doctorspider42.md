@@ -3,7 +3,8 @@ name: tyrax-toolchain-binutils-gdb
 slug: tyrax-toolchain-binutils-gdb-doctorspider42
 summary: Unofficial mirror of sourceware binutils-gdb repository. Updated daily.
 categories:
-  - uncategorized
+  - sdks
+  - development
 tags:
   - fork
   - auto-discovered

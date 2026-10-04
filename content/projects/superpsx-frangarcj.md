@@ -3,7 +3,7 @@ name: superpsx
 slug: superpsx-frangarcj
 summary: WIP PSX emulator for PS2
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
 features: []

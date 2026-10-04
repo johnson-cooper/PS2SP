@@ -3,7 +3,8 @@ name: ps2Perf
 slug: ps2perf-fjtrujy
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - utilities
+  - development
 tags:
   - auto-discovered
   - fork

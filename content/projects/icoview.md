@@ -3,7 +3,7 @@ name: ICOview
 slug: icoview
 summary: map viewer for the ps2 game ICO
 categories:
-  - uncategorized
+  - games
 tags:
   - auto-discovered
 features: []

@@ -5,7 +5,7 @@ summary: >-
   HDDChecker is a basic disk diagnostic tool meant for testing the health of
   your PlayStation 2 console's Harddisk Drive unit.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - fork
   - auto-discovered

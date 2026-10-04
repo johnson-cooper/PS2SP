@@ -3,7 +3,8 @@ name: nhddl-luna
 slug: nhddl-luna-dnunezx
 summary: A PS2-based launcher for Neutrino
 categories:
-  - uncategorized
+  - launchers
+  - loaders
 tags:
   - fork
   - auto-discovered

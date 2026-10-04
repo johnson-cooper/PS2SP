@@ -5,7 +5,8 @@ summary: >-
   Fork focused primarily on the PS2 version, preserving Minecraft original
   identity.
 categories:
-  - uncategorized
+  - games
+  - ports
 tags:
   - fork
   - auto-discovered

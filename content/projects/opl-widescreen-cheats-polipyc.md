@@ -3,7 +3,7 @@ name: OPL-Widescreen-Cheats
 slug: opl-widescreen-cheats-polipyc
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - cheat-tools
 tags:
   - auto-discovered
   - fork

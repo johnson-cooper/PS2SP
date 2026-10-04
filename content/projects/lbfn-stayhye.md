@@ -3,7 +3,8 @@ name: LbFn
 slug: lbfn-stayhye
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - loaders
+  - utilities
 tags:
   - auto-discovered
   - fork

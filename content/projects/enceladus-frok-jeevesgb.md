@@ -5,7 +5,9 @@ summary: >-
   A fork of Enceladus -  A complete Lua environment for creating homebrew
   applications and games on PlayStation 2.
 categories:
-  - uncategorized
+  - engines
+  - runtimes
+  - development
 tags:
   - auto-discovered
   - fork

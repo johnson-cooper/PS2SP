@@ -3,7 +3,7 @@ name: PS2-Memory-Card-Formatter
 slug: ps2-memory-card-formatter
 summary: PS2 Homebrew Utility that will format both Memory Card Slot 1 and 2
 categories:
-  - uncategorized
+  - save-tools
 tags:
   - auto-discovered
 features: []

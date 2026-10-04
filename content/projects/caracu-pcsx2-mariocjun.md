@@ -3,7 +3,7 @@ name: caracu-pcsx2
 slug: caracu-pcsx2-mariocjun
 summary: PCSX2 - The Playstation 2 Emulator
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

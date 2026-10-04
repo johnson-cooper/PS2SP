@@ -4,7 +4,6 @@ slug: projeto-interno-gugu-games-gbmtechreview-eng
 summary: Game and app loader for Sony PlayStation 2
 categories:
   - loaders
-  - utilities
 tags:
   - opl
   - hdloader

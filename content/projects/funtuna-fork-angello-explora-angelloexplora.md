@@ -3,7 +3,7 @@ name: Funtuna-Fork-Angello-Explora
 slug: funtuna-fork-angello-explora-angelloexplora
 summary: old FreeMcBoot package for ps2 models incompatible with system updates
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
   - fork

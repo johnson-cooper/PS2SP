@@ -3,7 +3,7 @@ name: pcsx2-skatenet
 slug: pcsx2-skatenet-sdig-michal-brecka
 summary: PCSX2 - The Playstation 2 Emulator
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

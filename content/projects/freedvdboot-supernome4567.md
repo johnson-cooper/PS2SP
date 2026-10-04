@@ -3,7 +3,7 @@ name: FreeDVDBoot
 slug: freedvdboot-supernome4567
 summary: PlayStation 2 DVD Player Exploit
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
   - fork

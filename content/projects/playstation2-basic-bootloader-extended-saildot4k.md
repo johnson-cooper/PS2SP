@@ -6,7 +6,9 @@ summary: >-
   support 10 paths per launch key, args, RetroGem GameID, PS1Vmode Negator,
   Neutrino eGSM
 categories:
-  - uncategorized
+  - boot-tools
+  - loaders
+  - dashboards
 tags:
   - auto-discovered
 features: []

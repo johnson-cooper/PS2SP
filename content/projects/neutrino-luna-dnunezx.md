@@ -3,7 +3,7 @@ name: neutrino-luna
 slug: neutrino-luna-dnunezx
 summary: 'Small, Fast and Modular PS2 Device Emulator'
 categories:
-  - uncategorized
+  - loaders
 tags:
   - fork
   - auto-discovered

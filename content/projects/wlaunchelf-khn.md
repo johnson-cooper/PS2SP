@@ -6,7 +6,7 @@ summary: >-
   handling.
 categories:
   - file-managers
-  - utilities
+  - launchers
 tags:
   - nathanneurotic
   - curated-owner

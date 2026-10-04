@@ -3,7 +3,7 @@ name: PS2-Audio-Extractor
 slug: ps2-audio-extractor
 summary: PlayStation 2 homebrew project discovered by PS2SP.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

@@ -5,7 +5,6 @@ summary: Custom branch of Tyra engine for Minity Engine
 categories:
   - engines
   - development
-  - libraries
 tags:
   - game-engine
   - renderer

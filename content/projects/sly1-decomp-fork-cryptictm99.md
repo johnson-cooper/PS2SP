@@ -3,7 +3,8 @@ name: sly1-decomp-fork
 slug: sly1-decomp-fork-cryptictm99
 summary: Decompilation of Sly Cooper and the Thievius Raccoonus for PS2
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
   - fork

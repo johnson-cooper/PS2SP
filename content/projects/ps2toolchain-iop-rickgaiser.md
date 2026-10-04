@@ -6,7 +6,8 @@ summary: >-
   in the creation of homebrew software for the Sony PlayStation® 2 videogame
   system.
 categories:
-  - uncategorized
+  - sdks
+  - development
 tags:
   - fork
   - auto-discovered

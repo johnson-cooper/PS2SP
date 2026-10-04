@@ -3,7 +3,7 @@ name: OPL-Theme-Editor
 slug: opl-theme-editor-jay-jay-opl
 summary: A WYSIWYG theme editor for Open PS2 Loader.
 categories:
-  - uncategorized
+  - themes
 tags:
   - fork
   - auto-discovered

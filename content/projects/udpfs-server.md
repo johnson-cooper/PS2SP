@@ -5,7 +5,7 @@ summary: >-
   Share folders and disk images with a PS2 over the network from a Android
   device
 categories:
-  - uncategorized
+  - networking
 tags:
   - auto-discovered
 features: []

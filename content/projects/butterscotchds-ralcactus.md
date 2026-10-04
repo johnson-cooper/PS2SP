@@ -5,8 +5,7 @@ summary: >-
   Theres a 80% chance this isn't getting finished, just doing this more so for
   fun
 categories:
-  - runtimes
-  - ports
+  - utilities
 tags:
   - auto-discovered
   - ps2

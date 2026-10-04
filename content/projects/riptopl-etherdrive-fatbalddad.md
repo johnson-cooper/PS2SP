@@ -8,7 +8,6 @@ summary: >-
   Work.
 categories:
   - loaders
-  - utilities
 tags:
   - opl
   - hdloader

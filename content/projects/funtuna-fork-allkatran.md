@@ -3,7 +3,7 @@ name: Funtuna-Fork
 slug: funtuna-fork-allkatran
 summary: old FreeMcBoot package for ps2 models incompatible with system updates
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
   - fork

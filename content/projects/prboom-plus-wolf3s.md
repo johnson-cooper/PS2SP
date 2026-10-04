@@ -5,7 +5,8 @@ summary: >-
   This is a cleaned up copy of the PrBoom+ SVN repository as a courtesy for
   those interested in forking that port
 categories:
-  - uncategorized
+  - games
+  - ports
 tags:
   - fork
   - auto-discovered

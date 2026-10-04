@@ -3,7 +3,7 @@ name: OPL-Theme-Pixel-Prime
 slug: opl-theme-pixel-prime
 summary: Open PS2 Loader theme based on Amazon Prime Video UI
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
 features: []

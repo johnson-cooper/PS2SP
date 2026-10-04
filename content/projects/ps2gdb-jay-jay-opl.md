@@ -3,6 +3,7 @@ name: ps2gdb
 slug: ps2gdb-jay-jay-opl
 summary: PS2 GDB stub
 categories:
+  - loaders
   - development
 tags:
   - gdb

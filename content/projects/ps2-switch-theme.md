@@ -3,7 +3,7 @@ name: PS2-Switch-theme
 slug: ps2-switch-theme
 summary: 'this is a simple ps2 theme for the switch :D '
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
 features: []

@@ -5,7 +5,7 @@ summary: >-
   ARMSX2 for Meta Quest: stereoscopic 3D virtual screen, Touch controller
   mapping and rumble (fork of ARMSX2/ARMSX2)
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
 features: []

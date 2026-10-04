@@ -3,7 +3,6 @@ name: opentuna-installer
 slug: opentuna-installer-danielt3
 summary: OpenTuna installer
 categories:
-  - installers
   - boot-tools
 tags:
   - opentuna

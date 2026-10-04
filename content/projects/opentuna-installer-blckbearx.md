@@ -3,7 +3,6 @@ name: opentuna-installer
 slug: opentuna-installer-blckbearx
 summary: OpenTuna installer
 categories:
-  - installers
   - boot-tools
 tags:
   - opentuna

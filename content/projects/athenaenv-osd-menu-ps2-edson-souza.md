@@ -5,7 +5,8 @@ summary: >-
   A complete Javascript environment for creating homebrew applications and games
   on PlayStation 2.
 categories:
-  - engines
+  - launchers
+  - runtimes
   - development
 tags:
   - javascript

@@ -3,7 +3,8 @@ name: RIPPS2
 slug: ripps2
 summary: 'PS2-inspired front end: web theme beta now, custom OPL theme + RIPPS2.elf next'
 categories:
-  - uncategorized
+  - loaders
+  - themes
 tags:
   - auto-discovered
 features: []

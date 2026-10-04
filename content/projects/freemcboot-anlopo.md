@@ -3,7 +3,7 @@ name: FreeMcBoot
 slug: freemcboot-anlopo
 summary: '''Free MemoryCard Boot'' for PS2'
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
   - fork

@@ -3,7 +3,7 @@ name: okhi
 slug: okhi
 summary: Open Keylogger Hardware Implant - USB & PS2 Keyboards
 categories:
-  - uncategorized
+  - hardware
 tags:
   - auto-discovered
   - pending-promoted
@@ -46,6 +46,6 @@ discovery:
   maturity: released-active
 verified: false
 featured: false
-hidden: false
+hidden: true
 ---
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

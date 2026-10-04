@@ -5,7 +5,8 @@ summary: >-
   PlayStation 2 (PS2) port of the game Barulandia
   (https://play.google.com/store/apps/details?id=barulandia.br.com.jmgk) 
 categories:
-  - uncategorized
+  - games
+  - ports
 tags:
   - auto-discovered
 features: []

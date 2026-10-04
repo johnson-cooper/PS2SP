@@ -3,7 +3,8 @@ name: mmceman
 slug: mmceman-uyjulian
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - hardware
+  - utilities
 tags:
   - auto-discovered
   - fork

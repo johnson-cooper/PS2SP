@@ -3,7 +3,8 @@ name: HDLGameInstaller
 slug: hdlgameinstaller-israpps
 summary: The HDLoader game installer
 categories:
-  - uncategorized
+  - loaders
+  - installers
 tags:
   - fork
   - auto-discovered

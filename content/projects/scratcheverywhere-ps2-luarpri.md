@@ -3,7 +3,8 @@ name: ScratchEverywhere-ps2
 slug: scratcheverywhere-ps2-luarpri
 summary: Custom Scratch Runtime made in C++!
 categories:
-  - uncategorized
+  - runtimes
+  - development
 tags:
   - fork
   - auto-discovered

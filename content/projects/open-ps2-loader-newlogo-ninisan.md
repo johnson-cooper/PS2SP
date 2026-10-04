@@ -3,7 +3,7 @@ name: Open-PS2-Loader_NewLogo
 slug: open-ps2-loader-newlogo-ninisan
 summary: Game and app loader for Sony PlayStation 2 - built with a different logo
 categories:
-  - uncategorized
+  - loaders
 tags:
   - fork
   - auto-discovered

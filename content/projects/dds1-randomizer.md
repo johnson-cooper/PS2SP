@@ -3,7 +3,7 @@ name: DDS1-Randomizer
 slug: dds1-randomizer
 summary: 'Randomizer for Shin Megami Tensei: Digital Devil Saga (PS2, NTSC-U)'
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
   - pending-promoted

@@ -5,7 +5,6 @@ summary: >-
   A fork of the open source re-implementation of the YoYo runner (Butterscotch)
   designed for the Nintendo 3DS and Wii U
 categories:
-  - runtimes
   - ports
 tags:
   - auto-discovered

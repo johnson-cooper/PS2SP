@@ -3,7 +3,7 @@ name: CrystalClock
 slug: crystalclock-rrtry
 summary: Re-creation of PS2's display clock in Raylib
 categories:
-  - uncategorized
+  - demos
 tags:
   - auto-discovered
 features: []

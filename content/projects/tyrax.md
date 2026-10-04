@@ -3,7 +3,8 @@ name: tyraX
 slug: tyrax
 summary: 'PlayStation 2 game engine with 3D Editor, based on the original Tyra'
 categories:
-  - uncategorized
+  - engines
+  - development
 tags:
   - auto-discovered
 features: []

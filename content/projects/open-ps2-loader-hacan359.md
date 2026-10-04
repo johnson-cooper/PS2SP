@@ -7,7 +7,6 @@ summary: >-
   client. The master branch mirrors ps2homebrew/Open-PS2-Loader.
 categories:
   - loaders
-  - utilities
 tags:
   - opl
   - hdloader

@@ -3,7 +3,10 @@ name: Icon-pack-for-HDL-Batch-installer
 slug: icon-pack-for-hdl-batch-installer-israpps
 summary: "\U0001F6A7 (WIP) HDDOSD icon pack for Playstation 2 Fat"
 categories:
-  - uncategorized
+  - loaders
+  - host-tools
+  - themes
+  - installers
 tags:
   - fork
   - auto-discovered

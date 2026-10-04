@@ -3,7 +3,7 @@ name: ps2dsoloader
 slug: ps2dsoloader
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

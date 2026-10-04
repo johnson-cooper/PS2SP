@@ -6,7 +6,7 @@ summary: >-
   around Play! (HLE BIOS, WebGL2). Gamepad, save states, .ps2 memory-card
   import/export + persistence. No BIOS or games included.
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
 features: []

@@ -3,7 +3,7 @@ name: FreeDVDBoot
 slug: freedvdboot-panos-jr
 summary: PlayStation 2 DVD Player Exploit
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
   - fork

@@ -3,7 +3,7 @@ name: PS2-widescreen-cheats
 slug: ps2-widescreen-cheats
 summary: A collection of .CHT files in Cheat Device format containing widescreen codes
 categories:
-  - uncategorized
+  - cheat-tools
 tags:
   - auto-discovered
 features: []

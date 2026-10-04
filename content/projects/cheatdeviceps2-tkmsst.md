@@ -5,7 +5,7 @@ summary: >-
   Game enhancer for PlayStation 2 similar to Action Replay, GameShark, and
   CodeBreaker. with EXFAT USB devices support
 categories:
-  - uncategorized
+  - cheat-tools
 tags:
   - fork
   - auto-discovered

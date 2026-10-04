@@ -6,7 +6,6 @@ summary: >-
   Language
 categories:
   - loaders
-  - utilities
 tags:
   - opl
   - hdloader

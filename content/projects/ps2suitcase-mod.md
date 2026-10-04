@@ -5,7 +5,6 @@ summary: >-
   tech's code used as a learning playground. I recommend using the official
   repo.
 categories:
-  - hardware
   - utilities
 tags:
   - nathanneurotic

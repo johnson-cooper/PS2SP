@@ -3,7 +3,8 @@ name: 3s-decomp
 slug: 3s-decomp-tlbjr
 summary: 'Decompilation of Street Fighter III: 3rd Strike for PlayStation 2'
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
   - fork

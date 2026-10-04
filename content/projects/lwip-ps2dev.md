@@ -3,7 +3,8 @@ name: lwip
 slug: lwip-ps2dev
 summary: 'lwIP mirror from http://git.savannah.gnu.org/cgit/lwip.git'
 categories:
-  - uncategorized
+  - libraries
+  - networking
 tags:
   - fork
   - auto-discovered

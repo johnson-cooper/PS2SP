@@ -3,7 +3,8 @@ name: OSDSYS-Launcher
 slug: osdsys-launcher-israpps
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - launchers
+  - dashboards
 tags:
   - fork
   - auto-discovered

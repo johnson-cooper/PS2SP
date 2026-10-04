@@ -5,7 +5,8 @@ summary: >-
   The Open PS2 Loader CFG Database Project - now with Game Info And
   Descriptions!
 categories:
-  - uncategorized
+  - loaders
+  - utilities
 tags:
   - auto-discovered
   - fork

@@ -3,8 +3,10 @@ name: quake2-for-ps2
 slug: quake2-for-ps2-jrandis
 summary: A fan made port of id's Quake || for the PlayStation 2 Console.
 categories:
-  - ports
   - games
+  - ports
+  - sdks
+  - development
 tags:
   - quake
   - quake2

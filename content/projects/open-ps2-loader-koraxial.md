@@ -5,7 +5,7 @@ summary: >-
   My fork of OPL for learning/contributing purposes. ALWAYS use OFFICIAL OPL
   from ps2homebrew/Open-PS2-Loader
 categories:
-  - uncategorized
+  - loaders
 tags:
   - fork
   - auto-discovered

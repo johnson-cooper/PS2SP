@@ -3,7 +3,8 @@ name: ps2eth
 slug: ps2eth
 summary: PS2 Ethernet drivers (incl. SMAP)
 categories:
-  - uncategorized
+  - drivers
+  - networking
 tags:
   - auto-discovered
 features: []

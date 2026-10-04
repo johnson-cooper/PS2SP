@@ -3,7 +3,7 @@ name: pcsx2
 slug: pcsx2-werman
 summary: PCSX2 - The Playstation 2 Emulator
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

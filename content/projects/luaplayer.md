@@ -3,7 +3,8 @@ name: LuaPlayer
 slug: luaplayer
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - runtimes
+  - development
 tags:
   - auto-discovered
 features: []

@@ -3,7 +3,7 @@ name: FreeDVDBoot-2.13E
 slug: freedvdboot-2-13e-vinsertf128
 summary: PlayStation 2 DVD Player Exploit for DVD Reader version 2.13E
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
   - fork

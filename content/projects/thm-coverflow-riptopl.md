@@ -3,7 +3,7 @@ name: thm_Coverflow_RiptOpl_
 slug: thm-coverflow-riptopl
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

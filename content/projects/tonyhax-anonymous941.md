@@ -5,7 +5,7 @@ summary: >-
   Japanese/American/European Universal PS1 Backup loader fork for ALL PS1
   consoles, and PS2 consoles SCPH-10000-SCPH-39004
 categories:
-  - uncategorized
+  - utilities
 tags:
   - fork
   - auto-discovered

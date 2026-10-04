@@ -3,7 +3,7 @@ name: bevy-playstation2
 slug: bevy-playstation2
 summary: WIP Playstation 2 demo app using Bevy
 categories:
-  - uncategorized
+  - demos
 tags:
   - auto-discovered
 features: []

@@ -3,7 +3,7 @@ name: tyrax-toolchain-masp
 slug: tyrax-toolchain-masp-doctorspider42
 summary: Mirror for masp
 categories:
-  - uncategorized
+  - development
 tags:
   - fork
   - auto-discovered

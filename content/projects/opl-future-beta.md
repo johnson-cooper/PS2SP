@@ -6,7 +6,7 @@ summary: >-
   FUTURE, carousel de capas, dock de dispositivos e barra de status HUD. Fork do
   OPL com correções e build validado.
 categories:
-  - uncategorized
+  - loaders
 tags:
   - auto-discovered
 features: []

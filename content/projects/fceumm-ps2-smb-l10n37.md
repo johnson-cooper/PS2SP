@@ -4,6 +4,7 @@ slug: fceumm-ps2-smb-l10n37
 summary: FCEUmm-PS2 with SMB support
 categories:
   - emulators
+  - networking
 tags:
   - nes
   - famicom

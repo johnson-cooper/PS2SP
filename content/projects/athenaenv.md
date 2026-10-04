@@ -5,7 +5,7 @@ summary: >-
   JavaScript environment for creating PlayStation 2 homebrew applications and
   games.
 categories:
-  - engines
+  - runtimes
   - development
 tags:
   - javascript

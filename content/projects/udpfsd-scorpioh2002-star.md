@@ -3,7 +3,7 @@ name: udpfsd
 slug: udpfsd-scorpioh2002-star
 summary: A UDPFS server written in Go
 categories:
-  - uncategorized
+  - networking
 tags:
   - auto-discovered
   - fork

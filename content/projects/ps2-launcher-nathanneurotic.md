@@ -7,6 +7,7 @@ summary: >-
   cover art support, and enhanced browsing experience.
 categories:
   - loaders
+  - launchers
 tags:
   - nathanneurotic
   - curated-owner

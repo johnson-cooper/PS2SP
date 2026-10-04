@@ -3,7 +3,7 @@ name: pcsx2-RTM
 slug: pcsx2-rtm-rtmtree
 summary: PCSX2 - The Playstation 2 Emulator
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

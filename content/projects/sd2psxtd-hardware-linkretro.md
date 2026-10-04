@@ -5,7 +5,8 @@ summary: >-
   Redesigned PCB and shell for the sd2psx (SD2PSXTD), the multipurpose
   MemoryCard Emulator for PS1/PS2
 categories:
-  - uncategorized
+  - emulators
+  - hardware
 tags:
   - fork
   - auto-discovered

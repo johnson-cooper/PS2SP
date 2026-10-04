@@ -3,7 +3,6 @@ name: pfsshell
 slug: pfsshell-counterbox
 summary: Browse and edit PFS filesystems
 categories:
-  - host-tools
   - utilities
 tags:
   - pfs

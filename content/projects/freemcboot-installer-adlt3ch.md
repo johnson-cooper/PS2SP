@@ -5,7 +5,6 @@ summary: >-
   Custom installers for Several versions of FreeMcBoot. A homebrew bootloader
   and launcher for PS2
 categories:
-  - installers
   - boot-tools
 tags:
   - freemcboot

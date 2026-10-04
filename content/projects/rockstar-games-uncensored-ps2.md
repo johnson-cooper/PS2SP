@@ -3,7 +3,8 @@ name: Rockstar-Games-Uncensored-PS2
 slug: rockstar-games-uncensored-ps2
 summary: Cheats to Uncensor Violence in Rockstar Games for PS2 & PCSX2
 categories:
-  - uncategorized
+  - emulators
+  - cheat-tools
 tags:
   - auto-discovered
 features: []

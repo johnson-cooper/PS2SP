@@ -3,7 +3,7 @@ name: OPL-Theme-OPLAdvance
 slug: opl-theme-opladvance
 summary: Open PS2 Loader theme that takes you back to the USBAdvance days
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
 features: []

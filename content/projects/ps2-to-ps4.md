@@ -5,7 +5,7 @@ summary: >-
   Batch-convert a PS2 collection to PS4 fake PKGs with easy-ps2-fpkg and stage
   them on a GoldHEN console over FTP
 categories:
-  - uncategorized
+  - networking
 tags:
   - auto-discovered
 features: []

@@ -3,7 +3,7 @@ name: ps2dev.github.io
 slug: ps2dev-github-io
 summary: Website of ps2dev
 categories:
-  - uncategorized
+  - development
 tags:
   - auto-discovered
 features: []

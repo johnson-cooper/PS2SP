@@ -3,7 +3,7 @@ name: pcsx2_patches
 slug: pcsx2-patches-lammykat
 summary: 'Patches for Widescreen, No Interlace etc go in here, syncs with the main repo'
 categories:
-  - uncategorized
+  - cheat-tools
 tags:
   - auto-discovered
   - fork

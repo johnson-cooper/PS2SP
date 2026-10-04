@@ -5,7 +5,8 @@ summary: >-
   Collaborative decompilation of Sly Cooper and the Thievius Raccoonus for PS2.
   New contributors welcome!
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
   - fork

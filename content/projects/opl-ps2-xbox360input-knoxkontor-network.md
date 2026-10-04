@@ -3,7 +3,7 @@ name: OPL-PS2-XBOX360input
 slug: opl-ps2-xbox360input-knoxkontor-network
 summary: OPL PS2 version with XBOX360 support
 categories:
-  - uncategorized
+  - loaders
 tags:
   - fork
   - auto-discovered

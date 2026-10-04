@@ -3,7 +3,8 @@ name: psbbn-art-database
 slug: psbbn-art-database-thejusticemanps1
 summary: Art database for the PSBBN Definitive English Patch project
 categories:
-  - uncategorized
+  - themes
+  - dashboards
 tags:
   - auto-discovered
   - fork

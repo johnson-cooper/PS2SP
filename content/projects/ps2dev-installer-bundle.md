@@ -3,7 +3,9 @@ name: ps2dev-installer-bundle
 slug: ps2dev-installer-bundle
 summary: No-headache PS2 Development Setup - WSL/Ubuntu Ready
 categories:
+  - sdks
   - development
+  - installers
 tags:
   - nathanneurotic
   - curated-owner

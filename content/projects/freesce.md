@@ -3,7 +3,8 @@ name: freesce
 slug: freesce
 summary: free and reverse engineered implementation of the Playstation2 SDK
 categories:
-  - uncategorized
+  - sdks
+  - development
 tags:
   - auto-discovered
 features: []

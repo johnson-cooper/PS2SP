@@ -5,7 +5,8 @@ summary: >-
   Install PS2 ISOs from a USB stick to the internal HDD, on the PS2 itself. No
   PC required.
 categories:
-  - uncategorized
+  - installers
+  - loaders
 tags:
   - auto-discovered
 features: []

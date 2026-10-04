@@ -3,7 +3,7 @@ name: Open-PS2-Loader-SvenGDK
 slug: open-ps2-loader-svengdk-yagami55
 summary: Game and app loader for Sony PlayStation 2. Modified for the PSX.
 categories:
-  - uncategorized
+  - loaders
 tags:
   - auto-discovered
   - fork

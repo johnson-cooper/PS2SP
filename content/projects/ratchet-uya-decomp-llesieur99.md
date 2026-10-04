@@ -3,7 +3,8 @@ name: ratchet-uya-decomp
 slug: ratchet-uya-decomp-llesieur99
 summary: 'Decompilation of Ratchet & Clank: Up Your Arsenal'
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
   - fork

@@ -3,7 +3,8 @@ name: libgpu2
 slug: libgpu2
 summary: Reverse engineered reference GS implementation by Sony
 categories:
-  - uncategorized
+  - libraries
+  - development
 tags:
   - auto-discovered
 features: []

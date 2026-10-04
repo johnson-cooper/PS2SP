@@ -3,7 +3,7 @@ name: SMS-media-player
 slug: sms-media-player-projectzeus01010101
 summary: Multimedia player for Sony PlayStation 2
 categories:
-  - media
+  - utilities
 tags:
   - media-player
   - video

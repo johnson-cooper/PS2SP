@@ -3,7 +3,7 @@ name: myPS2
 slug: myps2
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

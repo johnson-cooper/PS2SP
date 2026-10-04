@@ -3,7 +3,7 @@ name: R4D-DOCS
 slug: r4d-docs
 summary: 'https://www.psx-place.com/resources/recovery-for-dummies.1520/'
 categories:
-  - preservation
+  - utilities
 tags:
   - nathanneurotic
   - curated-owner

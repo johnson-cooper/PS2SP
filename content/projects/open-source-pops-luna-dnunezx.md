@@ -3,7 +3,7 @@ name: Open-Source-Pops-luna
 slug: open-source-pops-luna-dnunezx
 summary: An attempt to create an open source PS1 emulator for the PS2
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

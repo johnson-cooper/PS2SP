@@ -3,7 +3,7 @@ name: PS2-covers
 slug: ps2-covers-anthonygunardi
 summary: PS2 Covers Collection
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
   - fork

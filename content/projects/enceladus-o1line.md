@@ -3,7 +3,9 @@ name: Enceladus
 slug: enceladus-o1line
 summary: PS2에서 루아 개발
 categories:
-  - uncategorized
+  - engines
+  - runtimes
+  - development
 tags:
   - auto-discovered
   - fork

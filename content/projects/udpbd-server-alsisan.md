@@ -3,7 +3,7 @@ name: udpbd-server
 slug: udpbd-server-alsisan
 summary: udpbd server PS2 static cross-compilation to Linux 32bit ARM7
 categories:
-  - uncategorized
+  - networking
 tags:
   - auto-discovered
   - fork

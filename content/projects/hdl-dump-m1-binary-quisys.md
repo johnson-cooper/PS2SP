@@ -3,8 +3,8 @@ name: hdl-dump-m1-binary
 slug: hdl-dump-m1-binary-quisys
 summary: Binaries for HDL dump for MacOS m1
 categories:
+  - loaders
   - host-tools
-  - utilities
 tags:
   - hdd
   - hdloader

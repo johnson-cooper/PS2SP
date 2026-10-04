@@ -3,7 +3,7 @@ name: NeoCD-PS2
 slug: neocd-ps2-marcellodash
 summary: ' an open source NeoGeo CD emulator for the Sony Playstation2™'
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

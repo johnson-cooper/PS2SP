@@ -3,7 +3,8 @@ name: OSD-Initialization-Libraries
 slug: osd-initialization-libraries-akuhak
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - libraries
+  - dashboards
 tags:
   - auto-discovered
   - fork

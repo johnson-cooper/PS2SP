@@ -7,7 +7,6 @@ summary: >-
   3.02G, 3.02J, 3.02K, 3.02U, 3.03J, 3.03E, 3.04J, 3.04M)
 categories:
   - boot-tools
-  - installers
 tags:
   - nathanneurotic
   - curated-owner

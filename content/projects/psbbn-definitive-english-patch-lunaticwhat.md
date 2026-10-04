@@ -5,7 +5,8 @@ summary: >-
   The Definitive Project for the PlayStation Broadband Navigator (PSBBN)
   software with large drive support
 categories:
-  - uncategorized
+  - dashboards
+  - installers
 tags:
   - auto-discovered
   - fork

@@ -3,7 +3,6 @@ name: pfsshell
 slug: pfsshell-makefu
 summary: Browse PFS filesystems
 categories:
-  - host-tools
   - utilities
 tags:
   - pfs

@@ -5,7 +5,7 @@ summary: >-
   collection of utility programs to dump data from Namco System246/System256
   units
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

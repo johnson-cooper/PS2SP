@@ -3,7 +3,7 @@ name: Funtuna-Fork
 slug: funtuna-fork-parrado
 summary: a homebrew ps2 app launcher for FMCB-incompatible ps2 units
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
   - fork

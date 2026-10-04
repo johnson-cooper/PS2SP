@@ -5,7 +5,8 @@ summary: >-
   Suite corporativa de traducao e localizacao automatizada para o PSBBN
   Definitive Project (PlayStation 2) em 40 idiomas.
 categories:
-  - uncategorized
+  - dashboards
+  - installers
 tags:
   - auto-discovered
   - pending-promoted

@@ -3,7 +3,8 @@ name: libjpg
 slug: libjpg
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - libraries
+  - development
 tags:
   - auto-discovered
 features: []

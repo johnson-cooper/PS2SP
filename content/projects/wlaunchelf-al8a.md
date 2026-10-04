@@ -3,9 +3,8 @@ name: wLaunchELF
 slug: wlaunchelf-al8a
 summary: ELF loader and File browser for Sony PlayStation 2
 categories:
-  - launchers
   - file-managers
-  - utilities
+  - launchers
 tags:
   - wlaunchelf
   - ulaunchelf

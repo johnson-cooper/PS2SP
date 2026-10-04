@@ -5,9 +5,9 @@ summary: >-
   A GUI for HDL Dump. Featuring batch installation of PS2 games to PS2 internal
   hdd and some game management utilities
 categories:
+  - loaders
   - host-tools
   - installers
-  - utilities
 tags:
   - hdl-dump
   - hdd

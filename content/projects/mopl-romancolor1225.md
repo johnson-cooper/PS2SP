@@ -6,7 +6,6 @@ summary: >-
   interface
 categories:
   - loaders
-  - utilities
 tags:
   - opl
   - hdloader

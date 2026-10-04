@@ -3,7 +3,7 @@ name: Open-Source-Pops
 slug: open-source-pops-362053534
 summary: An attempt to create an open source PS1 emulator for the PS2
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

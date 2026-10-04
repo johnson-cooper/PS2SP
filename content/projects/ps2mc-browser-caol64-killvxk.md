@@ -3,7 +3,8 @@ name: ps2mc-browser-caol64
 slug: ps2mc-browser-caol64-killvxk
 summary: A PS2 game save browser supports displaying 3D icons.
 categories:
-  - uncategorized
+  - save-tools
+  - host-tools
 tags:
   - auto-discovered
   - fork

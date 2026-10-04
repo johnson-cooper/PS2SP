@@ -5,7 +5,8 @@ summary: >-
   This program will automatically build a docker image with the ps2dev toolchain
   ready to be used for homebrew development.
 categories:
-  - uncategorized
+  - development
+  - host-tools
 tags:
   - auto-discovered
 features: []

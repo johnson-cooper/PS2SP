@@ -5,7 +5,7 @@ summary: >-
   A custom Open PS2 Loader build: the SHELF sidebar UI, nine renderer patches,
   four grid themes, an art pipeline, and a WYSIWYG theme previewer.
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

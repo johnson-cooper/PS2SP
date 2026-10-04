@@ -3,7 +3,8 @@ name: Double-Unofficial-Open-PS2-Loader-lang
 slug: double-unofficial-open-ps2-loader-lang-oldman63
 summary: Language files for wOPL
 categories:
-  - uncategorized
+  - loaders
+  - utilities
 tags:
   - auto-discovered
   - fork

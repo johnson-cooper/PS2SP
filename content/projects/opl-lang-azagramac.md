@@ -3,7 +3,8 @@ name: OPL-lang
 slug: opl-lang-azagramac
 summary: Langs for Open PS2 Loader
 categories:
-  - uncategorized
+  - loaders
+  - utilities
 tags:
   - auto-discovered
   - fork

@@ -3,7 +3,8 @@ name: kelftool
 slug: kelftool-pcm720
 summary: 'Utility for decrypt, encrypt and sign PS2 KELF and PSX KELF files'
 categories:
-  - uncategorized
+  - development
+  - utilities
 tags:
   - fork
   - auto-discovered

@@ -3,7 +3,7 @@ name: Open-PS2-Loader-lang
 slug: open-ps2-loader-lang
 summary: Language files for OPL/uOPL/wOPL/OPLDB
 categories:
-  - preservation
+  - loaders
 tags:
   - nathanneurotic
   - curated-owner

@@ -5,7 +5,8 @@ summary: >-
   Universal ROM Compression Suite for retro gaming. Convert PS1, PS2, Xbox,
   GameCube ISOs to CHD, CSO, ECM and more. Windows, Linux & macOS.
 categories:
-  - uncategorized
+  - host-tools
+  - utilities
 tags:
   - auto-discovered
   - fork

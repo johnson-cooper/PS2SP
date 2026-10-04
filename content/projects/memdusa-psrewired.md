@@ -3,7 +3,7 @@ name: Memdusa
 slug: memdusa-psrewired
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - save-tools
 tags:
   - auto-discovered
 features: []

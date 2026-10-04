@@ -3,7 +3,8 @@ name: OPL-Server-Linux
 slug: opl-server-linux-viniciusmorato
 summary: A dedicated SAMBA (SMBv1 Protocol) Server for OPL
 categories:
-  - uncategorized
+  - networking
+  - host-tools
 tags:
   - auto-discovered
   - fork

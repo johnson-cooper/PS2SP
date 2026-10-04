@@ -3,7 +3,8 @@ name: xtc
 slug: xtc
 summary: A 3D rendering library for the Playstation2
 categories:
-  - uncategorized
+  - libraries
+  - development
 tags:
   - auto-discovered
 features: []

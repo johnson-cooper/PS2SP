@@ -3,7 +3,7 @@ name: ps2-covers
 slug: ps2-covers-cat-ling
 summary: PS2 Covers Collection forked from xlenore's repo
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
   - fork

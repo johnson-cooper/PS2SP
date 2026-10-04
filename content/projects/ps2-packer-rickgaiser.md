@@ -3,7 +3,7 @@ name: ps2-packer
 slug: ps2-packer-rickgaiser
 summary: Create packed ELF files to run on the PS2
 categories:
-  - uncategorized
+  - utilities
 tags:
   - fork
   - auto-discovered

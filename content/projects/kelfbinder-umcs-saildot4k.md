@@ -5,7 +5,6 @@ summary: >-
   UMCS Installer on Modified version of @israpps's System Updates Manager for
   SCE PlayStation 2: KELFBinder.
 categories:
-  - boot-tools
   - installers
 tags:
   - nathanneurotic

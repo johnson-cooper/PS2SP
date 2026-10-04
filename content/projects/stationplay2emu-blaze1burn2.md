@@ -3,7 +3,7 @@ name: Stationplay2EMU
 slug: stationplay2emu-blaze1burn2
 summary: 'PCSX2 - The Playstation 2 Emulator fork '
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

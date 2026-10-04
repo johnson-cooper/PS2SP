@@ -5,7 +5,6 @@ summary: 'Renderer, game engine for PS2 (PlayStation 2™).'
 categories:
   - engines
   - development
-  - libraries
 tags:
   - game-engine
   - renderer

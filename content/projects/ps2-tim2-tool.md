@@ -8,7 +8,7 @@ summary: >-
   verification, metadata inspection, batch conversion, and dimension validation.
   Built for PS2 homebrew development and modding.
 categories:
-  - uncategorized
+  - development
 tags:
   - auto-discovered
 features: []

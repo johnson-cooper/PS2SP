@@ -3,7 +3,8 @@ name: Lrps2-Lockstep
 slug: lrps2-lockstep-bloodotakuz
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - emulators
+  - ports
 tags:
   - auto-discovered
   - pending-promoted

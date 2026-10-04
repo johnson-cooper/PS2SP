@@ -5,7 +5,7 @@ summary: >-
   Fixes 2D textures not being filtered with bilinear filter and also adds XBR
   upscale support for them
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

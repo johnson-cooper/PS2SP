@@ -3,7 +3,10 @@ name: mk64-ps2
 slug: mk64-ps2-freshollie
 summary: A work in progress PlayStation 2 port of Mario Kart 64 decompilation
 categories:
-  - uncategorized
+  - preservation
+  - development
+  - games
+  - ports
 tags:
   - fork
   - auto-discovered

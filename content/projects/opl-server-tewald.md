@@ -3,7 +3,8 @@ name: OPL-Server
 slug: opl-server-tewald
 summary: A dedicated SAMBA (SMBv1 Protocol) Server for OPL
 categories:
-  - uncategorized
+  - networking
+  - host-tools
 tags:
   - auto-discovered
   - fork

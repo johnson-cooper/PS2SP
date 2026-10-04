@@ -3,9 +3,8 @@ name: wLaunchELF_R3Z
 slug: wlaunchelf-r3z-angguss
 summary: Stable fork of the most famous file browser for Playstation 2
 categories:
-  - launchers
   - file-managers
-  - utilities
+  - launchers
 tags:
   - wlaunchelf
   - file-browser

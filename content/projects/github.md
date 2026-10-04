@@ -3,7 +3,8 @@ name: .github
 slug: github
 summary: Github special repository
 categories:
-  - uncategorized
+  - sdks
+  - development
 tags:
   - auto-discovered
 features: []
@@ -40,5 +41,6 @@ discovery:
   maturity: dormant-unreleased
 verified: false
 featured: false
+hidden: true
 ---
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

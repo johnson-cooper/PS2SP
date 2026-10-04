@@ -5,7 +5,8 @@ summary: >-
   PlayStation 2 HDD bootstrap, APA diagnostics, forensic backup and guarded
   recovery toolkit—because “just format it” is not a recovery strategy.
 categories:
-  - uncategorized
+  - boot-tools
+  - utilities
 tags:
   - auto-discovered
 features: []

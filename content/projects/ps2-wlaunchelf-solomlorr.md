@@ -5,7 +5,6 @@ summary: ELF loader and File browser for Sony PlayStation 2
 categories:
   - launchers
   - file-managers
-  - utilities
 tags:
   - wlaunchelf
   - ulaunchelf

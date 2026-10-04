@@ -3,7 +3,8 @@ name: ee-gcc
 slug: ee-gcc-aap
 summary: PlayStation 2 ee-gcc toolchain source
 categories:
-  - uncategorized
+  - sdks
+  - development
 tags:
   - fork
   - auto-discovered

@@ -3,8 +3,8 @@ name: ps2link
 slug: ps2link-jendo42
 summary: PS2-side boot loader
 categories:
-  - development
   - networking
+  - development
 tags:
   - debugging
   - network

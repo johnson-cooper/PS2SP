@@ -3,7 +3,8 @@ name: PS2---OPL-Launcher
 slug: ps2-opl-launcher-solomlorr
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - launchers
+  - loaders
 tags:
   - auto-discovered
   - fork

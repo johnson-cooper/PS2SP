@@ -3,7 +3,8 @@ name: ico
 slug: ico
 summary: Decompilation of ICO (PS2)
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
 features: []

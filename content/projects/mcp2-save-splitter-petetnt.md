@@ -3,7 +3,7 @@ name: mcp2-save-splitter
 slug: mcp2-save-splitter-petetnt
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - save-tools
 tags:
   - auto-discovered
   - fork

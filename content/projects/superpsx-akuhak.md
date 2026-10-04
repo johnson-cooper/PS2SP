@@ -3,7 +3,7 @@ name: superpsx
 slug: superpsx-akuhak
 summary: WIP PSX emulator for PS2
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

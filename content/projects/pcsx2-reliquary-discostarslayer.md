@@ -3,7 +3,7 @@ name: pcsx2-reliquary
 slug: pcsx2-reliquary-discostarslayer
 summary: PCSX2 Reliquary - PS2 Emulator for the nerds
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

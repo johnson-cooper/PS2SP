@@ -3,7 +3,7 @@ name: FreeDVDBoot
 slug: freedvdboot-ahmeddarwish2
 summary: PlayStation 2 DVD Player Exploit
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
   - fork

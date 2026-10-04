@@ -3,7 +3,8 @@ name: OPL-Launcher
 slug: opl-launcher
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - launchers
+  - loaders
 tags:
   - auto-discovered
 features: []

@@ -7,7 +7,7 @@ summary: >-
   Frankenstein PS2 Loader Built Entirely From The Community's Allocation of
   Work.
 categories:
-  - uncategorized
+  - loaders
 tags:
   - fork
   - auto-discovered

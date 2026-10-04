@@ -3,7 +3,8 @@ name: PS2-OPL-CFG
 slug: ps2-opl-cfg-sonkaede
 summary: OPL Open PS2 Loader CFG Repository (Unofficial)
 categories:
-  - uncategorized
+  - loaders
+  - utilities
 tags:
   - auto-discovered
   - fork

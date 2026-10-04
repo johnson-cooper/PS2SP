@@ -5,8 +5,7 @@ summary: >-
   base PS2 icon models (`.icn`) and textures, stamp/skin them, optionally create
   transform variants
 categories:
-  - save-tools
-  - utilities
+  - themes
 tags:
   - nathanneurotic
   - curated-owner

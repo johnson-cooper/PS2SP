@@ -4,7 +4,6 @@ slug: playstation2-basic-bootloader-extended
 summary: 'https://github.com/saildot4k/PlayStation2-Basic-BootLoader-Extended'
 categories:
   - boot-tools
-  - installers
 tags:
   - nathanneurotic
   - curated-owner

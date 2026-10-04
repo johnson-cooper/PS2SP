@@ -3,7 +3,8 @@ name: PS2InfoGB
 slug: ps2infogb
 summary: InfoGB emulator port for PlayStation 2 (USB mass support version) by KarasQ.
 categories:
-  - uncategorized
+  - emulators
+  - ports
 tags:
   - auto-discovered
 features: []

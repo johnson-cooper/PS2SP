@@ -4,7 +4,7 @@ slug: ps2bbl
 summary: Minimal bootloader for PlayStation 2 and PSX-DESR systems.
 categories:
   - boot-tools
-  - launchers
+  - dashboards
 tags:
   - ps2bbl
   - bootloader

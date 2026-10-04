@@ -3,7 +3,8 @@ name: 3s-decomp-pc
 slug: 3s-decomp-pc-efimandreev0
 summary: 'Decompilation of Street Fighter III: 3rd Strike for PC'
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
   - fork

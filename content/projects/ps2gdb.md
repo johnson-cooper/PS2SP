@@ -3,6 +3,7 @@ name: PS2GDB
 slug: ps2gdb
 summary: GDB debugging stub for PlayStation 2 homebrew development.
 categories:
+  - sdks
   - development
 tags:
   - gdb

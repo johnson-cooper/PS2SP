@@ -4,7 +4,7 @@ slug: ps2me
 summary: Java ME virtual machine and game runtime for PlayStation 2.
 categories:
   - runtimes
-  - emulators
+  - development
 tags:
   - j2me
   - java-me

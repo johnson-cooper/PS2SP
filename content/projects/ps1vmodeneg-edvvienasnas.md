@@ -5,7 +5,7 @@ summary: >-
   It is a tool that selects the correct video mode for your imported PlayStation
   game
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
   - fork

@@ -4,7 +4,6 @@ slug: opl-daily-builds-projectzeus01010101
 summary: OPL "Daily" Builds (Releases)
 categories:
   - loaders
-  - utilities
 tags:
   - opl
   - hdloader

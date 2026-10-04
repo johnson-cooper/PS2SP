@@ -3,7 +3,7 @@ name: PS2---SMS
 slug: ps2-sms-solomlorr
 summary: Multimedia player for Sony PlayStation 2
 categories:
-  - media
+  - utilities
 tags:
   - media-player
   - video

@@ -3,7 +3,9 @@ name: doomedalus
 slug: doomedalus-doom-modding-and-etc
 summary: ' A complete doom Lua environment for creating homebrew applications and games on PlayStation 2.'
 categories:
-  - uncategorized
+  - engines
+  - runtimes
+  - development
 tags:
   - auto-discovered
   - fork

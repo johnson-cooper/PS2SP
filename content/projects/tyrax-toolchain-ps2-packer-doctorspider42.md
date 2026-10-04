@@ -3,8 +3,8 @@ name: tyrax-toolchain-ps2-packer
 slug: tyrax-toolchain-ps2-packer-doctorspider42
 summary: Create packed ELF files to run on the PS2
 categories:
+  - sdks
   - development
-  - utilities
 tags:
   - elf
   - packer

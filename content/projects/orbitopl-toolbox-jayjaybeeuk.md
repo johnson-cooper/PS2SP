@@ -3,7 +3,8 @@ name: OrbitOPL-Toolbox
 slug: orbitopl-toolbox-jayjaybeeuk
 summary: 'A modern, cross-platform way to manage your OPL game collection.'
 categories:
-  - uncategorized
+  - host-tools
+  - utilities
 tags:
   - auto-discovered
   - fork

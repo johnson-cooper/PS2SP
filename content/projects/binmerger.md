@@ -3,7 +3,8 @@ name: BinMerger
 slug: binmerger
 summary: A tool to merge CDRWIN cuesheets with multiple BIN files
 categories:
-  - uncategorized
+  - host-tools
+  - utilities
 tags:
   - auto-discovered
 features: []

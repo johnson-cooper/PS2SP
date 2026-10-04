@@ -7,8 +7,6 @@ summary: >-
   from the console
 categories:
   - hardware
-  - utilities
-  - preservation
 tags:
   - bios
   - rom

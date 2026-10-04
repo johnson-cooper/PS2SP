@@ -3,7 +3,7 @@ name: ROMIMG
 slug: romimg
 summary: A tool to Manage PlayStation2 IOPRP images by @sp193
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

@@ -6,7 +6,6 @@ summary: >-
   files into Memcard Pro 2 GameID-ready .mc2 card sets.
 categories:
   - save-tools
-  - host-tools
 tags:
   - nathanneurotic
   - curated-owner

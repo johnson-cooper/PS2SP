@@ -3,7 +3,8 @@ name: OPL-lang-gal
 slug: opl-lang-gal-gomgo-github
 summary: Open PS2 Loader Languages adding Galician Language
 categories:
-  - uncategorized
+  - loaders
+  - utilities
 tags:
   - auto-discovered
   - fork

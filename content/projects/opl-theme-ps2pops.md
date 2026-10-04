@@ -3,7 +3,7 @@ name: OPL-Theme-PS2pops
 slug: opl-theme-ps2pops
 summary: Open PS2 Loader theme based on KORIUM - PS2 games and PSX (POPS) games only.
 categories:
-  - uncategorized
+  - themes
 tags:
   - auto-discovered
 features: []

@@ -3,7 +3,7 @@ name: udpfsd
 slug: udpfsd-gbah0ji9i
 summary: A UDPFS server written in Go
 categories:
-  - uncategorized
+  - networking
 tags:
   - auto-discovered
   - fork

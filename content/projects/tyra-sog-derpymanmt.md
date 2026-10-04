@@ -5,7 +5,6 @@ summary: Using Tyra for a game "Shadows of Giants"
 categories:
   - engines
   - development
-  - libraries
 tags:
   - game-engine
   - renderer

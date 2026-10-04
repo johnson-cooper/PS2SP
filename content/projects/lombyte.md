@@ -5,7 +5,8 @@ summary: >-
   Reconstructing Ratchet & Clank (PS2) as readable C that compiles
   byte-identically to the original R5900 executable
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - auto-discovered
 features: []

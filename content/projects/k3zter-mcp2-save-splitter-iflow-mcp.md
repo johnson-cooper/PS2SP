@@ -3,7 +3,7 @@ name: k3zter-mcp2-save-splitter
 slug: k3zter-mcp2-save-splitter-iflow-mcp
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - save-tools
 tags:
   - auto-discovered
   - fork

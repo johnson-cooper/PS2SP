@@ -3,7 +3,8 @@ name: PS2ME
 slug: ps2me-nathanneurotic
 summary: J2ME VM for PlayStation 2
 categories:
-  - emulators
+  - runtimes
+  - development
 tags:
   - nathanneurotic
   - curated-owner

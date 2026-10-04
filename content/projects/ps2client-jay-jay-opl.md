@@ -3,8 +3,7 @@ name: ps2client
 slug: ps2client-jay-jay-opl
 summary: Desktop clients to interact with ps2link and ps2netfs
 categories:
-  - host-tools
-  - development
+  - loaders
   - networking
 tags:
   - ps2link

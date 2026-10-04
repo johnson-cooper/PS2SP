@@ -3,7 +3,7 @@ name: ps2vault
 slug: ps2vault
 summary: PS2 Vault
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

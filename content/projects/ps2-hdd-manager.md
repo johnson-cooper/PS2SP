@@ -5,7 +5,7 @@ summary: >-
   PlayStation 2 APA/PFS HDD manager with hardware-tested Extended APA support
   for >2 TiB disks.
 categories:
-  - uncategorized
+  - hardware
 tags:
   - auto-discovered
 features: []

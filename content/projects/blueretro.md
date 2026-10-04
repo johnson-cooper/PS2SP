@@ -6,7 +6,6 @@ summary: >-
   computers
 categories:
   - hardware
-  - utilities
 tags:
   - nathanneurotic
   - curated-owner

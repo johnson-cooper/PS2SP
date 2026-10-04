@@ -3,7 +3,7 @@ name: TonyHawksProStrcpy
 slug: tonyhawksprostrcpy-sleepthegod
 summary: Code execution exploit for Tony Hawk's video game series
 categories:
-  - uncategorized
+  - boot-tools
 tags:
   - auto-discovered
   - fork

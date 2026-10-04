@@ -3,7 +3,8 @@ name: ps2_emuvr
 slug: ps2-emuvr-webhead2oo9
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - emulators
+  - ports
 tags:
   - auto-discovered
   - pending-promoted

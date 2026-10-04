@@ -4,7 +4,6 @@ slug: esgc-ps2-hostfs-db
 summary: A database of custom HostFS patches for PlayStation 2 games.
 categories:
   - networking
-  - utilities
 tags:
   - auto-discovered
   - pending-promoted

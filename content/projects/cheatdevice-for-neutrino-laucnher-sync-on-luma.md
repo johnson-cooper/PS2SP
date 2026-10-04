@@ -5,7 +5,7 @@ summary: >-
   A fork of Cheat Device for the PlayStation 2 designed to work with the XEB+
   neutrino Launcher plugin and other similar loaders
 categories:
-  - uncategorized
+  - cheat-tools
 tags:
   - fork
   - auto-discovered

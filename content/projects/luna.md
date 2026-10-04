@@ -3,7 +3,7 @@ name: LUNA
 slug: luna
 summary: LUNA is visual PS2 loader built from NHDDL and Neutrino.
 categories:
-  - uncategorized
+  - loaders
 tags:
   - auto-discovered
 features: []

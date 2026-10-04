@@ -3,7 +3,7 @@ name: FreeMastercodeFinder
 slug: freemastercodefinder
 summary: An open source spiritual succesor of pelvictrustman's mastercode finder
 categories:
-  - uncategorized
+  - cheat-tools
 tags:
   - auto-discovered
 features: []

@@ -3,7 +3,7 @@ name: ROCKET
 slug: rocket-dnunezx
 summary: Patches for OSDSYS and HDD OSD (Browser 2.0) based on Free McBoot 1.8.
 categories:
-  - uncategorized
+  - dashboards
 tags:
   - fork
   - auto-discovered

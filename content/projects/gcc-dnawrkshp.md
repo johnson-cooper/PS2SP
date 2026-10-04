@@ -3,7 +3,8 @@ name: gcc
 slug: gcc-dnawrkshp
 summary: PlayStation 2 software project discovered by PS2SP.
 categories:
-  - uncategorized
+  - sdks
+  - development
 tags:
   - fork
   - auto-discovered

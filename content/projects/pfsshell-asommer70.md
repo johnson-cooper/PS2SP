@@ -3,7 +3,6 @@ name: pfsshell
 slug: pfsshell-asommer70
 summary: Browse and edit PFS filesystems
 categories:
-  - host-tools
   - utilities
 tags:
   - pfs

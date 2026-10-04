@@ -5,7 +5,6 @@ summary: Open-source software development kit for PlayStation 2 homebrew.
 categories:
   - sdks
   - development
-  - libraries
 tags:
   - ps2dev
   - sdk

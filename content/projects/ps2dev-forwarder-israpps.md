@@ -5,7 +5,7 @@ summary: >-
   The repository for catching and forwarding dispatch events from ps2dev
   organization
 categories:
-  - uncategorized
+  - development
 tags:
   - auto-discovered
   - fork

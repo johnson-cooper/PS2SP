@@ -3,8 +3,10 @@ name: quake2-for-ps2
 slug: quake2-for-ps2-quake-backup
 summary: An attempt at a homebrew port of id's Quake 2 for the PlayStation 2 Console.
 categories:
-  - ports
   - games
+  - ports
+  - sdks
+  - development
 tags:
   - quake
   - quake2

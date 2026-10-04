@@ -4,6 +4,8 @@ slug: rod-oplfork
 summary: "Open PS2 Loader fork for loading PS2 games and applications from HDD, USB, SMB, MX4SIO, and iLink storage."
 categories:
   - loaders
+  - networking
+  - hardware
 tags:
   - nathanneurotic
   - curated-owner

@@ -3,7 +3,7 @@ name: POPSLoader
 slug: popsloader-saildot4k
 summary: 'https://github.com/NathanNeurotic/POPSLoader/releases'
 categories:
-  - uncategorized
+  - loaders
 tags:
   - fork
   - auto-discovered

@@ -5,7 +5,6 @@ summary: Game engine for PlayStation 2™
 categories:
   - engines
   - development
-  - libraries
 tags:
   - game-engine
   - renderer

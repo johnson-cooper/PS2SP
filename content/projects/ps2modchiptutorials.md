@@ -3,7 +3,7 @@ name: ps2modchiptutorials
 slug: ps2modchiptutorials
 summary: PS2 Modchip Tutorials
 categories:
-  - preservation
+  - hardware
 tags:
   - nathanneurotic
   - curated-owner

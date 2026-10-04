@@ -3,7 +3,7 @@ name: pcsxroo
 slug: pcsxroo-saupernova13
 summary: PCSX2 fork that exposes a CLI for enhanced agent debugging and patch creation
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

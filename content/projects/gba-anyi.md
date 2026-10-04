@@ -3,7 +3,7 @@ name: gba-anyi
 slug: gba-anyi
 summary: PS2 实机专用 GB/GBC/GBA 模拟器（anyi 汉化版，基于 SNESticle Aurora）
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
 features: []

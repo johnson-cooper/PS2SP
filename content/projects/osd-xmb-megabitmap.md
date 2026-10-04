@@ -3,7 +3,7 @@ name: OSD-XMB
 slug: osd-xmb-megabitmap
 summary: Playstation 2 XMB Styled User Interface
 categories:
-  - uncategorized
+  - dashboards
 tags:
   - auto-discovered
   - fork

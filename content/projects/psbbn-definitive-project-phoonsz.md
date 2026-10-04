@@ -3,7 +3,8 @@ name: PSBBN-Definitive-Project
 slug: psbbn-definitive-project-phoonsz
 summary: ' The ultimate setup for the PlayStation 2''s internal drive.'
 categories:
-  - uncategorized
+  - dashboards
+  - installers
 tags:
   - auto-discovered
   - fork

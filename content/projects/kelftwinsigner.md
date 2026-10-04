@@ -5,7 +5,7 @@ summary: >-
   Program to replicate the magicgate binding from a bound KELF into another one
   that hasn't been bound
 categories:
-  - uncategorized
+  - utilities
 tags:
   - auto-discovered
 features: []

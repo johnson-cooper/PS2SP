@@ -3,7 +3,8 @@ name: dds-decomp
 slug: dds-decomp-redthing1
 summary: 'Matching decompilation of Shin Megami Tensei: Digital Devil Saga 1 & 2 (PS2)'
 categories:
-  - uncategorized
+  - preservation
+  - development
 tags:
   - fork
   - auto-discovered

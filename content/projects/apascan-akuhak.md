@@ -3,7 +3,8 @@ name: apascan
 slug: apascan-akuhak
 summary: PlayStation 2 hard drive partition scanner for Linux
 categories:
-  - uncategorized
+  - host-tools
+  - utilities
 tags:
   - auto-discovered
   - fork

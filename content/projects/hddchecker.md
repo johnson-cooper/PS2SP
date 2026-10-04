@@ -3,7 +3,6 @@ name: HDDChecker
 slug: hddchecker
 summary: Diagnostic utility for testing the health of a PlayStation 2 hard disk drive.
 categories:
-  - hardware
   - utilities
 tags:
   - hdd

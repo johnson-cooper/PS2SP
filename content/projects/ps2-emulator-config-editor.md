@@ -6,7 +6,6 @@ summary: >-
   play
 categories:
   - emulators
-  - utilities
 tags:
   - auto-discovered
   - pending-promoted

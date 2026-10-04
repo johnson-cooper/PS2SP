@@ -3,7 +3,7 @@ name: iris-backup
 slug: iris-backup-felipegamingyt
 summary: 'Sony PlayStation 2 emulator for Windows, Linux and macOS'
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

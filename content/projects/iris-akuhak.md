@@ -3,7 +3,7 @@ name: iris
 slug: iris-akuhak
 summary: 'Sony PlayStation 2 emulator for Windows, Linux and macOS'
 categories:
-  - uncategorized
+  - emulators
 tags:
   - auto-discovered
   - fork

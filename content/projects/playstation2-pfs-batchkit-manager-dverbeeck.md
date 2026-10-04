@@ -3,7 +3,8 @@ name: PlayStation2-PFS-BatchKit-Manager
 slug: playstation2-pfs-batchkit-manager-dverbeeck
 summary: Manage your PlayStation 2 HDD
 categories:
-  - uncategorized
+  - host-tools
+  - utilities
 tags:
   - auto-discovered
   - fork

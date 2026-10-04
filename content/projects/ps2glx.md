@@ -5,7 +5,8 @@ summary: >-
   ps2glx is an ultra-lightweight wrapper for ps2gl under Linux. In turn, ps2gl
   is an OpenGL-like API for the PlayStation 2.
 categories:
-  - uncategorized
+  - libraries
+  - development
 tags:
   - auto-discovered
 features: []

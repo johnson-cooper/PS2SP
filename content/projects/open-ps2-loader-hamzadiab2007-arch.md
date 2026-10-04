@@ -4,7 +4,6 @@ slug: open-ps2-loader-hamzadiab2007-arch
 summary: Game and app loader for Sony PlayStation 2
 categories:
   - loaders
-  - utilities
 tags:
   - opl
   - hdloader
