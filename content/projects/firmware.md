@@ -1,7 +1,7 @@
 ---
 name: firmware
 slug: firmware
-summary: firmware is a PlayStation 2 software project discovered by PS2SP.
+summary: "Firmware implementation for the sd2psx memory card hardware interface."
 categories:
   - hardware
 tags:

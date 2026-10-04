@@ -1,7 +1,7 @@
 ---
 name: codeeasy-ps2
 slug: codeeasy-ps2-easierbycode
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Beginner-friendly framework and sample projects for learning homebrew programming on the PlayStation 2."
 categories:
   - development
 tags:

@@ -1,7 +1,7 @@
 ---
 name: ps2stuff
 slug: ps2stuff-f0bes
-summary: Library used by ps2gl
+summary: "Support library containing math, matrix, and low-level utility routines for the ps2gl 3D graphics library."
 categories:
   - development
   - libraries

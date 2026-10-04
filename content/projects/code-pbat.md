@@ -1,7 +1,7 @@
 ---
 name: code-pbat
 slug: code-pbat
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Batch and shell automation toolchain for compiling and deploying PlayStation 2 homebrew."
 categories:
   - development
 tags:

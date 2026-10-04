@@ -1,7 +1,7 @@
 ---
 name: myPS2
 slug: myps2
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Multimedia dashboard and file manager for PlayStation 2 with audio playback and image viewing."
 categories:
   - dashboards
   - media

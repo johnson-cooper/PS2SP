@@ -1,7 +1,7 @@
 ---
 name: OPHTML
 slug: ophtml-coffeedevsolutions
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Toolchain and C99 runtime for building PlayStation 2 homebrew user interfaces using HTML and CSS."
 categories:
   - runtimes
   - development

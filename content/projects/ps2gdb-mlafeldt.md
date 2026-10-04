@@ -1,7 +1,7 @@
 ---
 name: ps2gdb
 slug: ps2gdb-mlafeldt
-summary: PS2 GDB stub
+summary: "Remote GDB debugging stub for PlayStation 2, enabling source-level debugging over serial or network connections."
 categories:
   - development
 tags:

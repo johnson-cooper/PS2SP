@@ -1,7 +1,7 @@
 ---
 name: xebplus-neutrino-loader-plugin
 slug: xebplus-neutrino-loader-plugin
-summary: PlayStation 2 homebrew project discovered by PS2SP.
+summary: "Neutrino game loader plugin for the Xtreme Elite Boot Plus (XEB+) dashboard on PlayStation 2."
 categories:
   - launchers
   - loaders

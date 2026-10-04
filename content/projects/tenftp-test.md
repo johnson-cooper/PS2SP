@@ -1,7 +1,7 @@
 ---
 name: tenftp_test
 slug: tenftp-test
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "High-speed FTP server implementation for PlayStation 2 with 100Mbit network transfer optimization."
 categories:
   - networking
 tags:

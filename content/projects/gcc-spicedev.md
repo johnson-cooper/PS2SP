@@ -1,7 +1,7 @@
 ---
 name: gcc
 slug: gcc-spicedev
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "GNU Compiler Collection (GCC) cross-compiler toolchain ports targeting the PlayStation 2 Emotion Engine and IOP processors."
 categories:
   - sdks
   - development

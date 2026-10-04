@@ -1,7 +1,7 @@
 ---
 name: PMAP
 slug: pmap-akuhak
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "PlayStation 2 MechaCon Adjustment Program for servicing, calibrating, and diagnosing the CD/DVD drive subsystem and EEPROM."
 categories:
   - hardware
   - utilities

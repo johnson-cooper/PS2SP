@@ -1,7 +1,7 @@
 ---
 name: Memdusa
 slug: memdusa-xcentx
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Network-based homebrew launcher and memory card bootloader exploit utilizing Medius online services on PlayStation 2."
 categories:
   - networking
   - boot-tools

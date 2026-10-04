@@ -1,7 +1,7 @@
 ---
 name: ps2-magicgate-inspector
 slug: ps2-magicgate-inspector
-summary: PlayStation 2 homebrew project discovered by PS2SP.
+summary: "PlayStation 2 hardware inspection utility that checks MagicGate encryption support and memory card authenticity."
 categories:
   - hardware
   - utilities

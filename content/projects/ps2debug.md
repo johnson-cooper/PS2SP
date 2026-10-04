@@ -1,7 +1,7 @@
 ---
 name: ps2debug
 slug: ps2debug
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Low-level exception handler and debugger module for PlayStation 2 EE and IOP processors."
 categories:
   - development
 tags:

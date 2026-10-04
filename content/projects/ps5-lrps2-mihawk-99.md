@@ -1,7 +1,7 @@
 ---
 name: PS5_LRPS2
 slug: ps5-lrps2-mihawk-99
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation frontend support on PS2."
 categories:
   - emulators
   - ports

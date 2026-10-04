@@ -1,7 +1,7 @@
 ---
 name: tyrax-toolchain-pthread-embedded
 slug: tyrax-toolchain-pthread-embedded-doctorspider42
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "POSIX threads (pthreads) implementation ported to the PlayStation 2 homebrew SDK environment."
 categories:
   - libraries
   - development

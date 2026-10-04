@@ -1,7 +1,7 @@
 ---
 name: s2uMemdusa
 slug: s2umemdusa-scotho
-summary: local testing
+summary: "Network-based homebrew launcher and memory card bootloader exploit utilizing Medius online services on PlayStation 2."
 categories:
   - networking
   - boot-tools

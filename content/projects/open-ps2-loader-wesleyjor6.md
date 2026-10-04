@@ -1,7 +1,7 @@
 ---
 name: Open-PS2-Loader
 slug: open-ps2-loader-wesleyjor6
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Community fork of Open PS2 Loader (OPL) with custom patches, interface updates, and experimental loader backends."
 categories:
   - loaders
 tags:

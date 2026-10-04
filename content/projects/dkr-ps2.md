@@ -1,7 +1,7 @@
 ---
 name: DKR-PS2
 slug: dkr-ps2
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Work-in-progress port of the Diddy Kong Racing decompilation targeting the PlayStation 2."
 categories:
   - games
   - ports

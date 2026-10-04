@@ -1,7 +1,7 @@
 ---
 name: Fceumm-PS2
 slug: fceumm-ps2-solomlorr
-summary: FCEUmm-PS2
+summary: "PlayStation 2 port of the FCEUmm NES and Famicom emulator with support for USB storage, hard drives, and memory cards."
 categories:
   - emulators
 tags:

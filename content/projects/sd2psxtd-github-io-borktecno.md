@@ -1,7 +1,7 @@
 ---
 name: sd2psXtd.github.io
 slug: sd2psxtd-github-io-borktecno
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Firmware, documentation, and tools for sd2psXtd, an extended SD2PSX/MemCard PRO compatible memory card device with PS2 Game ID switching."
 categories:
   - hardware
 tags:

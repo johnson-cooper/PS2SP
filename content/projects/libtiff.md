@@ -1,7 +1,7 @@
 ---
 name: libtiff
 slug: libtiff
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "TIFF image format reading and writing library for PlayStation 2."
 categories:
   - libraries
   - media

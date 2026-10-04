@@ -1,7 +1,7 @@
 ---
 name: libito
 slug: libito
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Low-level multi-threading, memory management, and utility library for PlayStation 2."
 categories:
   - libraries
   - development

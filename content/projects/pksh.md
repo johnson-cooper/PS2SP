@@ -1,7 +1,7 @@
 ---
 name: pksh
 slug: pksh
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Interactive debug shell and remote command environment for PlayStation 2 kernel development."
 categories:
   - utilities
 tags:

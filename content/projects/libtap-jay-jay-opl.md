@@ -1,7 +1,7 @@
 ---
 name: libtap
 slug: libtap-jay-jay-opl
-summary: Write tests in C
+summary: "C testing library implementing the Test Anything Protocol (TAP), ported to the PS2SDK."
 categories:
   - libraries
   - development

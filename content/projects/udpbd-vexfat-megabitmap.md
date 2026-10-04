@@ -1,7 +1,7 @@
 ---
 name: udpbd-vexfat
 slug: udpbd-vexfat-megabitmap
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "UDP Block Device driver fork featuring virtual exFAT partition support for network loading on PlayStation 2."
 categories:
   - networking
 tags:

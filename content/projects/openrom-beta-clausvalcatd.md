@@ -1,7 +1,7 @@
 ---
 name: OpenROM-Beta
 slug: openrom-beta-clausvalcatd
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "PlayStation 2 ROM and firmware analysis toolkit for unpacking and inspecting BIOS images."
 categories:
   - host-tools
   - utilities

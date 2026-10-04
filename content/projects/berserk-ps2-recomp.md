@@ -1,7 +1,7 @@
 ---
 name: berserk-ps2-recomp
 slug: berserk-ps2-recomp
-summary: berserk-ps2-recomp is a PlayStation 2 software project discovered by PS2SP.
+summary: "Static recompilation and reverse engineering project for Berserk: Millennium Falcon Hen Seima Senki no Shou on PlayStation 2."
 categories:
   - preservation
   - development

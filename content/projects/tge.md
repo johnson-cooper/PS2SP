@@ -1,7 +1,7 @@
 ---
 name: TGE
 slug: tge
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "3D rendering engine and graphics pipeline framework designed for PlayStation 2 homebrew games."
 categories:
   - engines
   - development

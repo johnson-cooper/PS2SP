@@ -1,7 +1,7 @@
 ---
 name: 2004sp-ps2port
 slug: 2004sp-ps2port-noblefalcon
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "PlayStation 2 native client port of 2004scape, an authentic recreation of Old School RuneScape as it existed in 2004."
 categories:
   - ports
   - games

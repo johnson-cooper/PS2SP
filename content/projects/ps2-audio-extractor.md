@@ -1,7 +1,7 @@
 ---
 name: PS2-Audio-Extractor
 slug: ps2-audio-extractor
-summary: PlayStation 2 homebrew project discovered by PS2SP.
+summary: "Audio extractor and converter for PlayStation 2 game sound formats, converting to WAV and MP3."
 categories:
   - media
   - host-tools

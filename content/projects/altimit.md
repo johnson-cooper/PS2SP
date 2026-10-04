@@ -1,7 +1,7 @@
 ---
 name: altimit
 slug: altimit
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Altimit OS desktop-like environment and launcher prototype for the PlayStation 2."
 categories:
   - utilities
 tags:

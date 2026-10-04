@@ -1,7 +1,7 @@
 ---
 name: ps2vfs
 slug: ps2vfs
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Virtual file system (VFS) abstraction module for PlayStation 2 homebrew applications."
 categories:
   - drivers
   - libraries

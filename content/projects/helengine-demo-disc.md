@@ -1,7 +1,7 @@
 ---
 name: helengine-demo-disc
 slug: helengine-demo-disc
-summary: helengine demo disc
+summary: "Interactive PlayStation 2 demo disc showcasing the 3D graphics rendering features of HelEngine."
 categories:
   - demos
 tags:

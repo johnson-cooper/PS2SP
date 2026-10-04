@@ -1,7 +1,7 @@
 ---
 name: Open-PS2-Loader-Custom
 slug: open-ps2-loader-custom
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Community fork of Open PS2 Loader (OPL) with custom patches and experimental features."
 categories:
   - loaders
 tags:

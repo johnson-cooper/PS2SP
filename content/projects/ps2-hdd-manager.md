@@ -1,9 +1,7 @@
 ---
 name: PS2-HDD-Manager
 slug: ps2-hdd-manager
-summary: >-
-  PlayStation 2 APA/PFS HDD manager with hardware-tested Extended APA support
-  for >2 TiB disks.
+summary: "PlayStation 2 hard drive partition manager with support for Extended APA and drives over 2 TiB."
 categories:
   - hardware
   - utilities

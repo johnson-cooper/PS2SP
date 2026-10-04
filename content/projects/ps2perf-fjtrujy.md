@@ -1,7 +1,7 @@
 ---
 name: ps2Perf
 slug: ps2perf-fjtrujy
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Performance profiler and hardware counter benchmarking tool for PlayStation 2 Emotion Engine code."
 categories:
   - development
   - utilities

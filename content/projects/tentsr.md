@@ -1,7 +1,7 @@
 ---
 name: tentsr
 slug: tentsr
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Terminate and Stay Resident (TSR) kernel module for background operations on PlayStation 2."
 categories:
   - drivers
   - development

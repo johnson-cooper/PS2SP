@@ -1,7 +1,7 @@
 ---
 name: ps2dsoloader
 slug: ps2dsoloader
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Homebrew loader that boots PlayStation 2 ELF files directly from digital storage devices."
 categories:
   - loaders
   - development

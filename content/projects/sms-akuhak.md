@@ -1,7 +1,7 @@
 ---
 name: SMS
 slug: sms-akuhak
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Simple Media System (SMS) multimedia player for PlayStation 2 supporting DivX, AVI, and MP3 audio."
 categories:
   - media
 tags:

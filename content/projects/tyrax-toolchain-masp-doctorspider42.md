@@ -1,7 +1,7 @@
 ---
 name: tyrax-toolchain-masp
 slug: tyrax-toolchain-masp-doctorspider42
-summary: Mirror for masp
+summary: "Macro Assembler (masp) for the PlayStation 2 Vector Unit (VU) and Emotion Engine coprocessors."
 categories:
   - development
 tags:

@@ -1,7 +1,7 @@
 ---
 name: ps2wiki.github.io
 slug: ps2wiki-github-io
-summary: PS2 Homebrew Wiki
+summary: "Community knowledge base and technical documentation wiki for PlayStation 2 homebrew, softmods, and hardware."
 categories:
   - preservation
   - development

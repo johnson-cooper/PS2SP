@@ -1,9 +1,9 @@
 ---
 name: pulsedash
 slug: pulsedash
-summary: pulsedash is a PlayStation 2 software project discovered by PS2SP.
+summary: "Rhythm and geometry action homebrew game for PlayStation 2."
 categories:
-  - utilities
+  - games
 tags:
   - auto-discovered
   - pending-promoted

@@ -1,7 +1,7 @@
 ---
 name: libsmb2
 slug: libsmb2-benjarvis
-summary: SMB2/3 userspace client
+summary: "Userspace SMB2/SMB3 client library ported to PlayStation 2 for connecting to modern network shares in homebrew loaders."
 categories:
   - libraries
   - networking

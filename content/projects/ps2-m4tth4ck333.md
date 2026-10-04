@@ -1,7 +1,7 @@
 ---
 name: ps2
 slug: ps2-m4tth4ck333
-summary: pleySTation2
+summary: "PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation frontend support on PS2."
 categories:
   - emulators
   - ports

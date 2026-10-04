@@ -1,7 +1,7 @@
 ---
 name: BPDemoHarness
 slug: bpdemoharness
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Burnout Point of Impact / RenderWare demo harness for testing and profiling graphics rendering on PlayStation 2."
 categories:
   - demos
   - development

@@ -1,7 +1,7 @@
 ---
 name: sd2psx-save-converter
 slug: sd2psx-save-converter-zay448345045
-summary: Manage your sd2psx
+summary: "Host tool for managing, converting, and syncing save files on sd2psx and SD-based PlayStation 2 memory card devices."
 categories:
   - save-tools
   - hardware

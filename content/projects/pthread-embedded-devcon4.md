@@ -1,7 +1,7 @@
 ---
 name: pthread-embedded
 slug: pthread-embedded-devcon4
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "POSIX threads (pthreads) implementation ported to the PlayStation 2 homebrew SDK environment."
 categories:
   - libraries
   - development

@@ -1,7 +1,7 @@
 ---
 name: libjpg
 slug: libjpg
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "JPEG image decoding and rendering library for PlayStation 2 homebrew."
 categories:
   - libraries
   - media

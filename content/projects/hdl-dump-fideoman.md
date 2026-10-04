@@ -1,7 +1,7 @@
 ---
 name: hdl-dump
 slug: hdl-dump-fideoman
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Host command-line tool for installing and extracting PS2 games on APA-formatted internal hard drives over network or direct connection."
 categories:
   - host-tools
   - loaders

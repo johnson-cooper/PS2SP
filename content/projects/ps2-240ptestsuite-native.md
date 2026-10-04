@@ -1,7 +1,7 @@
 ---
 name: ps2-240ptestsuite-native
 slug: ps2-240ptestsuite-native
-summary: 'a native PS2 port of the 240p test suite '
+summary: "Native PlayStation 2 port of the 240p Test Suite for evaluating CRT monitors and upscalers."
 categories:
   - utilities
   - ports

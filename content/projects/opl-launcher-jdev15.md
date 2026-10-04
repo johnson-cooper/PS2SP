@@ -1,9 +1,7 @@
 ---
 name: OPL-Launcher
 slug: opl-launcher-jdev15
-summary: >-
-  Fork to build OPL Launcher with latest release of the PS2 SDK to prevent hangs
-  on some Crucial SSDs
+summary: "Lightweight companion ELF launcher that boots games directly through Open PS2 Loader without loading the full GUI."
 categories:
   - launchers
   - loaders

@@ -1,7 +1,7 @@
 ---
 name: ps2homebrew
 slug: ps2homebrew-uyjulian
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Central GitHub organization repository and issue tracker for the ps2homebrew community."
 categories:
   - development
 tags:

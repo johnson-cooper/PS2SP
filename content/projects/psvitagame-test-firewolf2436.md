@@ -1,7 +1,7 @@
 ---
 name: PSVitaGAME-TEST
 slug: psvitagame-test-firewolf2436
-summary: test stuff fr vita cause yea...
+summary: "Reverse engineering and static recompilation project for Mortal Kombat: Shaolin Monks on PlayStation 2."
 categories:
   - preservation
   - development

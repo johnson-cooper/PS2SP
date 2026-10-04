@@ -1,7 +1,7 @@
 ---
 name: opentuna-RLE
 slug: opentuna-rle
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "RLE-compressed payload variant of the OpenTuna exploit for PlayStation 2 Slim consoles."
 categories:
   - boot-tools
 tags:

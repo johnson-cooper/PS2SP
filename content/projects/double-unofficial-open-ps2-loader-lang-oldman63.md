@@ -1,7 +1,7 @@
 ---
 name: Double-Unofficial-Open-PS2-Loader-lang
 slug: double-unofficial-open-ps2-loader-lang-oldman63
-summary: Language files for wOPL
+summary: "Community translation files and localization language packs for Unofficial Open PS2 Loader (wOPL)."
 categories:
   - loaders
   - utilities

@@ -1,7 +1,7 @@
 ---
 name: opentuna-installer
 slug: opentuna-installer-israpps
-summary: OpenTuna installer
+summary: "Automated installer for the OpenTuna exploit, enabling homebrew execution on PlayStation 2 Slim models incompatible with FreeMcBoot."
 categories:
   - boot-tools
   - installers

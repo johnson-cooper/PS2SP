@@ -1,7 +1,7 @@
 ---
 name: MikosCraft
 slug: mikoscraft
-summary: PlayStation 2 homebrew project discovered by PS2SP.
+summary: "Voxel-based sandbox building game for PlayStation 2 inspired by Minecraft."
 categories:
   - games
 tags:

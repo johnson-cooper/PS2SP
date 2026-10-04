@@ -1,7 +1,7 @@
 ---
 name: SoftDev2
 slug: softdev2
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Integrated software development framework and code samples for PlayStation 2."
 categories:
   - development
 tags:

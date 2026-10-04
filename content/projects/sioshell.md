@@ -1,7 +1,7 @@
 ---
 name: sioshell
 slug: sioshell
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Serial I/O (SIO) interactive command shell for PlayStation 2 debugging and kernel inspection."
 categories:
   - host-tools
   - development

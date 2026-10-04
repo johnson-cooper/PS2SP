@@ -1,7 +1,7 @@
 ---
 name: mvc2-ps2-decomp
 slug: mvc2-ps2-decomp
-summary: mvc2-ps2-decomp is a PlayStation 2 software project discovered by PS2SP.
+summary: "Decompilation project for Marvel vs. Capcom 2 on PlayStation 2."
 categories:
   - preservation
   - development

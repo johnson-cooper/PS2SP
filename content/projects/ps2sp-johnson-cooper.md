@@ -1,7 +1,7 @@
 ---
 name: PS2SP
 slug: ps2sp-johnson-cooper
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "PlayStation 2 Software Plaza, an open community directory of PS2 homebrew, tools, and resources."
 categories:
   - preservation
   - utilities

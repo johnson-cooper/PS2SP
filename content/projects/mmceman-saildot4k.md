@@ -1,7 +1,7 @@
 ---
 name: mmceman
 slug: mmceman-saildot4k
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "IOP kernel modules and manager for MMCE hardware devices on PlayStation 2, enabling memory card switching and Game ID integration."
 categories:
   - hardware
   - drivers

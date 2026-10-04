@@ -1,7 +1,7 @@
 ---
 name: uLaunchELF
 slug: ulaunchelf-jflynnxyz
-summary: File browser for ps2
+summary: "Open-source file manager and ELF launcher for PlayStation 2 with support for memory cards, USB mass storage, internal HDD, and network access."
 categories:
   - file-managers
   - launchers

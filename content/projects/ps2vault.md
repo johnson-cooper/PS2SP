@@ -1,7 +1,7 @@
 ---
 name: ps2vault
 slug: ps2vault
-summary: PS2 Vault
+summary: "Software repository and archive dedicated to preserving PlayStation 2 homebrew, tools, and guides."
 categories:
   - preservation
 tags:

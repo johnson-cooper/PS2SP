@@ -1,7 +1,7 @@
 ---
 name: OSDSYS-Launcher
 slug: osdsys-launcher-israpps
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Direct launcher that boots into the PlayStation 2 OSDSYS browser while bypassing softmod screens."
 categories:
   - launchers
   - dashboards

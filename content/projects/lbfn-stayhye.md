@@ -1,7 +1,7 @@
 ---
 name: LbFn
 slug: lbfn-stayhye
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Fast homebrew launcher and disc boot utility for PlayStation 2, featuring video mode selection and high-resolution output."
 categories:
   - loaders
   - utilities

@@ -1,7 +1,7 @@
 ---
 name: ps2-SDL
 slug: ps2-sdl-7dog123
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "SDL 1.2 port for PlayStation 2, providing windowing, 2D graphics, sound, and controller support for homebrew."
 categories:
   - libraries
   - development

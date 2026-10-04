@@ -1,7 +1,7 @@
 ---
 name: SPC970-MechaLIBerator
 slug: spc970-mechaliberator
-summary: SPC970 Mechacon dumper
+summary: "Arduino-based hardware tool for dumping the internal ROM and EEPROM of the Sony SPC970 MechaCon chip."
 categories:
   - hardware
   - utilities

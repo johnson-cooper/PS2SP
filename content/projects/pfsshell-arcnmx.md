@@ -1,7 +1,7 @@
 ---
 name: pfsshell
 slug: pfsshell-arcnmx
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Host command-line tool for browsing and editing PFS filesystems on APA-formatted hard drives."
 categories:
   - host-tools
   - file-managers

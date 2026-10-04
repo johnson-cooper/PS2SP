@@ -1,7 +1,7 @@
 ---
 name: mcp2-save-splitter
 slug: mcp2-save-splitter-k3zter
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "PowerShell tool for splitting and converting MemCard PRO 2 multi-save VMC images into individual PlayStation 2 save files."
 categories:
   - save-tools
   - host-tools

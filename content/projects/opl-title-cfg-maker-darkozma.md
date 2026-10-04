@@ -1,7 +1,7 @@
 ---
 name: opl-Title.cfg-maker
 slug: opl-title-cfg-maker-darkozma
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Desktop tool for generating and editing title.cfg game metadata files for Open PS2 Loader."
 categories:
   - host-tools
   - utilities

@@ -1,7 +1,7 @@
 ---
 name: mmzero_ps2_port
 slug: mmzero-ps2-port
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Homebrew port of Mega Man Zero decompilation targeting the PlayStation 2."
 categories:
   - games
   - ports

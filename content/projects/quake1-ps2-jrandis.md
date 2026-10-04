@@ -1,7 +1,7 @@
 ---
 name: quake1_ps2
 slug: quake1-ps2-jrandis
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "PlayStation 2 homebrew port of the original id Software Quake engine with USB and HDD loading."
 categories:
   - games
   - ports

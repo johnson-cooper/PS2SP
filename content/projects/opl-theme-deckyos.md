@@ -1,7 +1,7 @@
 ---
 name: OPL-Theme-DeckyOS
 slug: opl-theme-deckyos
-summary: PlayStation 2 homebrew project discovered by PS2SP.
+summary: "Open PS2 Loader theme replicating the SteamOS Decky interface layout and typography."
 categories:
   - themes
 tags:

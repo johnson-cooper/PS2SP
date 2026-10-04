@@ -1,7 +1,7 @@
 ---
 name: isjpcm
 slug: isjpcm-doom-modding-and-etc
-summary: sound library from Sjeep
+summary: "PCM sound output and audio streaming library for PlayStation 2 homebrew development, created by Sjeep."
 categories:
   - libraries
   - media

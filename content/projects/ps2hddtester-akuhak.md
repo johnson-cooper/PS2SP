@@ -1,7 +1,7 @@
 ---
 name: PS2HDDTester
 slug: ps2hddtester-akuhak
-summary: HDD speed test tool for PlayStation 2 consoles
+summary: "Benchmark tool for PlayStation 2 that measures read, write, and access latency across internal ATA hard drives."
 categories:
   - utilities
 tags:

@@ -1,7 +1,7 @@
 ---
 name: apollo-ps2
 slug: apollo-ps2
-summary: Apollo Save Tool (PS2)
+summary: "Comprehensive save game manager for PlayStation 2 that manages, backups, restores, unlocks, and patches save files on memory cards and USB storage."
 categories:
   - save-tools
 tags:

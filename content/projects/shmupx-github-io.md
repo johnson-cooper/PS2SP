@@ -1,7 +1,7 @@
 ---
 name: shmupX.github.io
 slug: shmupx-github-io
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Documentation and catalog resource dedicated to shoot 'em up (shmup) games on the PlayStation 2."
 categories:
   - preservation
 tags:

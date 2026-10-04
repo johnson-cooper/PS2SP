@@ -1,7 +1,7 @@
 ---
 name: superpsx
 slug: superpsx
-summary: WIP PSX emulator for PS2
+summary: "Experimental PlayStation 1 emulator running natively on the PlayStation 2 Emotion Engine."
 categories:
   - emulators
 tags:

@@ -1,7 +1,7 @@
 ---
 name: daedalus-PS2
 slug: daedalus-ps2
-summary: Daedalus PS2 port
+summary: "Open-source Nintendo 64 emulator ported to the PlayStation 2."
 categories:
   - emulators
   - ports

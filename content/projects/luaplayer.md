@@ -1,7 +1,7 @@
 ---
 name: LuaPlayer
 slug: luaplayer
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Lua scripting engine and runtime environment for running Lua games and applications on PlayStation 2."
 categories:
   - runtimes
   - development

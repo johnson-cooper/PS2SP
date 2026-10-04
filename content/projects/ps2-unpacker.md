@@ -1,7 +1,7 @@
 ---
 name: ps2-unpacker
 slug: ps2-unpacker
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Decompressor and unpacker for PlayStation 2 ELF files compressed with ps2-packer or UPX."
 categories:
   - development
   - utilities

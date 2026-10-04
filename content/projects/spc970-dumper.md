@@ -1,7 +1,7 @@
 ---
 name: spc970-dumper
 slug: spc970-dumper
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Hardware EEPROM dumper for the Sony SPC970 MechaCon security processor on PlayStation 2."
 categories:
   - hardware
   - utilities

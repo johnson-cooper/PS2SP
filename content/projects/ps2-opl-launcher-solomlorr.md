@@ -1,7 +1,7 @@
 ---
 name: PS2---OPL-Launcher
 slug: ps2-opl-launcher-solomlorr
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Lightweight companion ELF launcher that boots games directly through Open PS2 Loader without loading the full GUI."
 categories:
   - launchers
   - loaders

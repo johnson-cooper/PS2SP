@@ -1,7 +1,7 @@
 ---
 name: Open-PS2-Loader-lang
 slug: open-ps2-loader-lang-362053534
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Official multi-language localization packs and translation strings for Open PS2 Loader (OPL)."
 categories:
   - loaders
   - utilities

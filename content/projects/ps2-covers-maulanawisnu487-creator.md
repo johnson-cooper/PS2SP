@@ -1,7 +1,7 @@
 ---
 name: ps2-covers
 slug: ps2-covers-maulanawisnu487-creator
-summary: PS2 Covers Collection
+summary: "Community collection of PlayStation 2 3D and 2D box art covers formatted for Open PS2 Loader (OPL) and PCSX2."
 categories:
   - themes
 tags:

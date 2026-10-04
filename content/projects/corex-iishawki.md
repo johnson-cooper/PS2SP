@@ -1,7 +1,7 @@
 ---
 name: CoreX
 slug: corex-iishawki
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "PlayStation 2 emulator for Android featuring a PCSX2-based core, modernized touchscreen controls, and game library navigation."
 categories:
   - emulators
 tags:

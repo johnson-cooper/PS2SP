@@ -1,7 +1,7 @@
 ---
 name: ps2sdk
 slug: ps2sdk-ninjadynamics
-summary: Homebrew PS2 SDK
+summary: "Open-source software development kit providing C standard libraries, kernel interfaces, and hardware drivers for PlayStation 2 homebrew development."
 categories:
   - sdks
   - development

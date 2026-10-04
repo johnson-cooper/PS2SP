@@ -1,7 +1,7 @@
 ---
 name: ps2-xebplus-neutrino-loader-plugin
 slug: ps2-xebplus-neutrino-loader-plugin-solom-lorr
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Neutrino game loader plugin for the Xtreme Elite Boot Plus (XEB+) dashboard on PlayStation 2."
 categories:
   - launchers
   - loaders

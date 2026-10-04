@@ -1,7 +1,7 @@
 ---
 name: PS2-ICON-PARSER
 slug: ps2-icon-parser
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Parser and visualizer for PlayStation 2 save game 3D icons (icon.sys and icon.icn files)."
 categories:
   - host-tools
   - themes

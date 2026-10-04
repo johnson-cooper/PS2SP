@@ -1,7 +1,7 @@
 ---
 name: dreamgl
 slug: dreamgl-fjtrujy
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "OpenGL 1.3 implementation targeting the PlayStation 2 Graphics Synthesizer with Vector Unit acceleration."
 categories:
   - libraries
   - development

@@ -1,7 +1,7 @@
 ---
 name: ps2ftp
 slug: ps2ftp
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Lightweight FTP server application for PlayStation 2, enabling wireless or wired file transfers to memory cards and hard drives."
 categories:
   - networking
 tags:

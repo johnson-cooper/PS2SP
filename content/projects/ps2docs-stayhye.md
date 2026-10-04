@@ -1,7 +1,7 @@
 ---
 name: PS2Docs
 slug: ps2docs-stayhye
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Community documentation and hardware reference manual archives for the PlayStation 2 and Emotion Engine architecture."
 categories:
   - preservation
   - development

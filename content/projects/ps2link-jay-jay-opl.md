@@ -1,7 +1,7 @@
 ---
 name: ps2link
 slug: ps2link-jay-jay-opl
-summary: PS2-side boot loader
+summary: "PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP from host development tools like ps2client."
 categories:
   - networking
   - development

@@ -1,7 +1,7 @@
 ---
 name: ps2menu
 slug: ps2menu
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Classic visual ELF launcher and memory card manager for PlayStation 2."
 categories:
   - launchers
   - file-managers

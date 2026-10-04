@@ -1,7 +1,7 @@
 ---
 name: ps2modchiptutorials
 slug: ps2modchiptutorials
-summary: PS2 Modchip Tutorials
+summary: "Reference guides, schematics, and installation tutorials for PlayStation 2 modchips."
 categories:
   - hardware
 tags:

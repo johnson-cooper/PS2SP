@@ -1,7 +1,7 @@
 ---
 name: ps2img
 slug: ps2img
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Image processing and conversion library for PlayStation 2 graphics formats including TIM2."
 categories:
   - utilities
 tags:

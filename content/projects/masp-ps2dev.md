@@ -1,7 +1,7 @@
 ---
 name: masp
 slug: masp-ps2dev
-summary: Mirror for masp
+summary: "Macro Assembler (masp) for the PlayStation 2 Vector Unit (VU) and Emotion Engine coprocessors."
 categories:
   - development
 tags:

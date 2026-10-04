@@ -1,7 +1,7 @@
 ---
 name: udpbd-server
 slug: udpbd-server-federicoparroni
-summary: UDPBD server
+summary: "UDP Block Device server for streaming ISO disc images to PlayStation 2 over a local network."
 categories:
   - networking
   - host-tools

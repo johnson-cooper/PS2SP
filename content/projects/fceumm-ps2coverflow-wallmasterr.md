@@ -1,7 +1,7 @@
 ---
 name: Fceumm-PS2coverflow
 slug: fceumm-ps2coverflow-wallmasterr
-summary: FCEUmm-PS2coverflow
+summary: "PlayStation 2 port of the FCEUmm NES and Famicom emulator with support for USB storage, hard drives, and memory cards."
 categories:
   - emulators
 tags:

@@ -1,7 +1,7 @@
 ---
 name: wLaunchELF-DHCP
 slug: wlaunchelf-dhcp-pedrocasf
-summary: ELF loader and File browser for Sony PlayStation 2 DHCP support (WIP)
+summary: "Open-source file manager and ELF launcher for PlayStation 2 with support for memory cards, USB mass storage, internal HDD, and network access."
 categories:
   - file-managers
   - launchers

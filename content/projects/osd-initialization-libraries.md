@@ -1,7 +1,7 @@
 ---
 name: OSD-Initialization-Libraries
 slug: osd-initialization-libraries
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Reverse-engineered Sony OSD initialization libraries used to build custom dashboards and browser replacements on PS2."
 categories:
   - libraries
   - dashboards

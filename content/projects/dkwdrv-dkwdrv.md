@@ -1,7 +1,7 @@
 ---
 name: DKWDRV
 slug: dkwdrv-dkwdrv
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Unified PS1DRV replacement driver for PlayStation 2 consoles, enhancing PS1 backward compatibility, optical drive timing, and video modes."
 categories:
   - drivers
 tags:

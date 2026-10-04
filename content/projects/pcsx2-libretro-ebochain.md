@@ -1,7 +1,7 @@
 ---
 name: pcsx2-libretro
 slug: pcsx2-libretro-ebochain
-summary: pcsx2-libretro
+summary: "PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation frontend support on PS2."
 categories:
   - emulators
   - ports

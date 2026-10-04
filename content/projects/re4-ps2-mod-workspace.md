@@ -1,7 +1,7 @@
 ---
 name: RE4_PS2_MOD_WORKSPACE
 slug: re4-ps2-mod-workspace
-summary: WIP
+summary: "Modding workspace and asset extraction toolset for Resident Evil 4 on PlayStation 2."
 categories:
   - preservation
   - development

@@ -1,7 +1,7 @@
 ---
 name: thm_Coverflow_RiptOpl_
 slug: thm-coverflow-riptopl
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Coverflow-style visual theme for RiptOPL and Open PS2 Loader."
 categories:
   - themes
 tags:

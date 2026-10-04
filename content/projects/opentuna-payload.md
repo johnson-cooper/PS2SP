@@ -1,7 +1,7 @@
 ---
 name: opentuna-payload
 slug: opentuna-payload
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Core payload for the OpenTuna save-file exploit on PlayStation 2 consoles."
 categories:
   - boot-tools
 tags:

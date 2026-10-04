@@ -1,7 +1,7 @@
 ---
 name: pokegb-ps2-port
 slug: pokegb-ps2-port
-summary: pokegb-ps2-port is a PlayStation 2 software project discovered by PS2SP.
+summary: "Game Boy and Game Boy Color emulator ported to the PlayStation 2 with USB storage support."
 categories:
   - emulators
   - ports

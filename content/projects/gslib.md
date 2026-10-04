@@ -1,7 +1,7 @@
 ---
 name: gslib
 slug: gslib
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Graphics Synthesizer 2D and 3D interface and drawing library for PlayStation 2."
 categories:
   - libraries
   - development

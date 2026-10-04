@@ -1,9 +1,7 @@
 ---
 name: OptiCraft-Heritage-XBOX-CLASSIC-Edition
 slug: opticraft-heritage-xbox-classic-edition
-summary: >-
-  OptiCraft-Heritage-XBOX-CLASSIC-Edition is a PlayStation 2 software project
-  discovered by PS2SP.
+summary: "Minecraft clone optimized for retro consoles, ported from the OptiCraft codebase."
 categories:
   - games
   - ports

@@ -1,7 +1,7 @@
 ---
 name: usb_mass
 slug: usb-mass
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "USB mass storage driver providing FAT16/FAT32/exFAT drive access for PlayStation 2 homebrew."
 categories:
   - drivers
 tags:

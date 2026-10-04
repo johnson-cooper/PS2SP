@@ -1,7 +1,7 @@
 ---
 name: ps2dev-world
 slug: ps2dev-world
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Community hub and build repository for PlayStation 2 homebrew toolchains and libraries."
 categories:
   - sdks
   - development

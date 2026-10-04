@@ -1,7 +1,7 @@
 ---
 name: Lrps2-Lockstep
 slug: lrps2-lockstep-bloodotakuz
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation frontend support on PS2."
 categories:
   - emulators
   - ports

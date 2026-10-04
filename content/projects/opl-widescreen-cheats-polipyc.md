@@ -1,7 +1,7 @@
 ---
 name: OPL-Widescreen-Cheats
 slug: opl-widescreen-cheats-polipyc
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Collection of game engine cheats forcing true 16:9 widescreen rendering in PlayStation 2 games."
 categories:
   - cheat-tools
 tags:

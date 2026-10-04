@@ -1,7 +1,7 @@
 ---
 name: wxVU
 slug: wxvu
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Vector Unit (VU0/VU1) microcode emulator and debugger GUI built with wxWidgets."
 categories:
   - development
   - emulators

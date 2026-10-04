@@ -1,7 +1,7 @@
 ---
 name: opl-artwork-processor
 slug: opl-artwork-processor
-summary: PlayStation 2 software project discovered by PS2SP.
+summary: "Automation tool for resizing, formatting, and packaging game artwork for Open PS2 Loader."
 categories:
   - host-tools
   - themes

@@ -1,7 +1,7 @@
 ---
 name: scosdsys
 slug: scosdsys
-summary: Self contained OSDSYS
+summary: "Self-contained OSDSYS dashboard for PlayStation 2, running without internal ROM dependencies."
 categories:
   - dashboards
 tags:

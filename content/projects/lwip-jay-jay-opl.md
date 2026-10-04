@@ -1,7 +1,7 @@
 ---
 name: lwip
 slug: lwip-jay-jay-opl
-summary: 'lwIP mirror from http://git.savannah.gnu.org/cgit/lwip.git'
+summary: "Lightweight IP (lwIP) TCP/IP protocol stack implementation optimized for the PlayStation 2 Ethernet adapter."
 categories:
   - libraries
   - networking
