@@ -1,8 +1,8 @@
 {
-  "repository": "darksoul896/Pcsx2-Full-Version",
-  "repositoryId": "1362718121",
-  "url": "https://github.com/darksoul896/Pcsx2-Full-Version",
-  "description": "PCSX2 is a free full-version PlayStation 2 emulator for Windows that lets you enjoy classic games like Gran Turismo and Final Fantasy. With improved graphics and limitless memory cards, you can save anytime. Download the latest version free.",
+  "repository": "HertzPerfumer/Pcsx2-Full-Version",
+  "repositoryId": "1367806356",
+  "url": "https://github.com/HertzPerfumer/Pcsx2-Full-Version",
+  "description": "PlayStation 2 emulator for Android with a PCSX2-based core adapted by EmuCoreX, a modern game library, live overlay controls",
   "score": 75,
   "evidence": [
     "repository description explicitly identifies PS2",
@@ -11,6 +11,6 @@
   "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
   "maturity": "active-unreleased",
   "fork": null,
-  "discoveredAt": "2026-10-04T08:48:40.209Z",
-  "checkedAt": "2026-10-04T08:48:40.209Z"
+  "discoveredAt": "2026-10-04T18:47:49.763Z",
+  "checkedAt": "2026-10-04T18:47:49.763Z"
 }
