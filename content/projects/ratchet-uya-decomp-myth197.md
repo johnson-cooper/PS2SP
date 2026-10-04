@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T10:40:07.412Z'
+  lastSynchronized: '2026-10-04T09:49:05.146Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e23bd7b89bb3f0272f4dc9b3dbcba18092bcda56d1aa3d80f37f83f325ed56ba"
+    releasesEtag: '"205ceb82f13cba436dca499998ae6d9dd440b81ff6365ed99f7a8898063b3181"'
 discovery:
   method: 'fork-network:vetusmagnus/ratchet-uya-decomp'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: vetusmagnus/ratchet-uya-decomp
   source: vetusmagnus/ratchet-uya-decomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

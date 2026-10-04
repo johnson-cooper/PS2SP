@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T14:52:44.353Z'
+  lastSynchronized: '2026-10-04T09:48:39.469Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"3ce5e0f233ca52da0c5d00195278dae998a73cafbef5520af7875ce7e765ae85"
+    releasesEtag: '"205ceb82f13cba436dca499998ae6d9dd440b81ff6365ed99f7a8898063b3181"'
 discovery:
   method: 'fork-network:Gageformer/Open-Source-Pops'
   confidence: 100
@@ -45,5 +48,4 @@ relationships:
   forkOf: Gageformer/Open-Source-Pops
   source: Gageformer/Open-Source-Pops
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

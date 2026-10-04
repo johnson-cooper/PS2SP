@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2026-08-09T00:16:15Z'
   url: 'https://github.com/L10N37/Simple-Media-System/releases/tag/test-media'
 activity:
-  lastSynchronized: '2026-10-03T14:55:33.658Z'
+  lastSynchronized: '2026-10-04T09:49:08.091Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"cb774b7473ce29d0131816ffa91fe38cf82f6f08deecf09a79286ce9304bc8f7"
+    releasesEtag: W/"eee68dcd876efcf654d3302b4faaf564dcc9b2d92763648392e964085b51d21b"
 discovery:
   method: 'fork-network:NathanNeurotic/Simple-Media-System'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: NathanNeurotic/Simple-Media-System
   source: NathanNeurotic/Simple-Media-System
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

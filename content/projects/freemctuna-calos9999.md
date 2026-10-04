@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: '2025-03-02T12:45:13Z'
   url: 'https://github.com/calos9999/FreeMcTuna/releases/tag/FreeMcTunaAIO'
 activity:
-  lastSynchronized: '2026-10-01T05:10:46.442Z'
+  lastSynchronized: '2026-10-04T09:48:23.110Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8b569c5b0b3cdfa61975a3d0487ca30463b04bbe8dcd7dcdc24145ac119a6ab6"
+    releasesEtag: W/"770ebb142ef8b779155ca36fceb43ccdea7ff4f8818c2a1892c83dc3198ecd47"
 discovery:
   method: 'fork-network:NathanNeurotic/FreeMcTuna'
   confidence: 95
@@ -51,5 +54,4 @@ relationships:
   forkOf: NathanNeurotic/FreeMcTuna
   source: ps2homebrew/opentuna-installer
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

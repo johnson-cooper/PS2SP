@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-06-22T05:12:00Z'
   url: 'https://github.com/saildot4k/ATA-Assault/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T03:30:35.811Z'
+  lastSynchronized: '2026-10-04T09:48:15.558Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"04222ab05e24c2c27a3343bbe7f61a2e2265f2d6beb28fdd983e37fad0019239"
-    releasesEtag: W/"6dfab285d1a0486e3d5e34e7fce2b0f8a2ddf70b6f81b6225ff97c04b0e21cb9"
+    repoEtag: W/"dd48df53bb8f6f5cd091065d69c5c74658ed6b80f6e2b49c442e067dcad6a611"
+    releasesEtag: W/"ec51f756c4ebee8e5ddcea4dc65eb659a57587c9380bffbbf13a4fdd77b02684"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

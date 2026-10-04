@@ -1,7 +1,9 @@
 ---
 name: Open-PS2-Loader-lang
 slug: open-ps2-loader-lang-catalonianpunintended
-summary: "Official multi-language localization packs and translation strings for Open PS2 Loader (OPL)."
+summary: >-
+  Official multi-language localization packs and translation strings for Open
+  PS2 Loader (OPL).
 categories:
   - loaders
   - utilities
@@ -28,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:34:08.960Z'
+  lastSynchronized: '2026-10-04T09:48:36.829Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"123b77fc276367cedf62e42f470ad7bc7f1bf837d38c0ec1ad4cfb35e38735a8"
+    releasesEtag: '"205ceb82f13cba436dca499998ae6d9dd440b81ff6365ed99f7a8898063b3181"'
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader-lang'
   confidence: 95
@@ -47,5 +52,4 @@ relationships:
   forkOf: ps2homebrew/Open-PS2-Loader-lang
   source: ps2homebrew/Open-PS2-Loader-lang
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

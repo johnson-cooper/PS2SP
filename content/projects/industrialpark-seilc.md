@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T10:27:58.408Z'
+  lastSynchronized: '2026-10-04T09:48:26.281Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"836ccde52650539802630ccb4bd7271a45293087ca05e02172c02ecf9d6872fc"
+    releasesEtag: '"205ceb82f13cba436dca499998ae6d9dd440b81ff6365ed99f7a8898063b3181"'
 discovery:
   method: 'fork-network:igorseabra4/IndustrialPark'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: igorseabra4/IndustrialPark
   source: igorseabra4/IndustrialPark
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -1,7 +1,9 @@
 ---
 name: OPL-Launcher
 slug: opl-launcher-tiagofanhais
-summary: "Lightweight companion ELF launcher that boots games directly through Open PS2 Loader without loading the full GUI."
+summary: >-
+  Lightweight companion ELF launcher that boots games directly through Open PS2
+  Loader without loading the full GUI.
 categories:
   - launchers
   - loaders
@@ -28,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T14:52:44.353Z'
+  lastSynchronized: '2026-10-04T09:48:40.737Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"910ffa662483fd96618cc8b517ce426e7b4f308041313a186ccb9bed9a6e5a1c"
+    releasesEtag: '"205ceb82f13cba436dca499998ae6d9dd440b81ff6365ed99f7a8898063b3181"'
 discovery:
   method: 'fork-network:ps2homebrew/OPL-Launcher'
   confidence: 95
@@ -44,5 +49,4 @@ relationships:
   forkOf: ps2homebrew/OPL-Launcher
   source: ps2homebrew/OPL-Launcher
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

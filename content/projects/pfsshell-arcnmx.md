@@ -1,7 +1,9 @@
 ---
 name: pfsshell
 slug: pfsshell-arcnmx
-summary: "Host command-line tool for browsing and editing PFS filesystems on APA-formatted hard drives."
+summary: >-
+  Host command-line tool for browsing and editing PFS filesystems on
+  APA-formatted hard drives.
 categories:
   - host-tools
   - file-managers
@@ -33,9 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T17:09:08.395Z'
+  lastSynchronized: '2026-10-04T09:48:45.575Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"05ffce4b2c93d44d30f8841a113395132dd7705059533567ee9455806a7d0c3c"
+    releasesEtag: '"205ceb82f13cba436dca499998ae6d9dd440b81ff6365ed99f7a8898063b3181"'
 discovery:
   method: 'fork-network:ps2homebrew/pfsshell'
   confidence: 95
@@ -49,5 +54,4 @@ relationships:
   forkOf: ps2homebrew/pfsshell
   source: ps2homebrew/pfsshell
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

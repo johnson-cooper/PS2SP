@@ -1,7 +1,9 @@
 ---
 name: ps2gdb
 slug: ps2gdb-jay-jay-opl
-summary: "Remote GDB debugging stub for PlayStation 2, enabling source-level debugging over serial or network connections."
+summary: >-
+  Remote GDB debugging stub for PlayStation 2, enabling source-level debugging
+  over serial or network connections.
 categories:
   - development
 tags:
@@ -29,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:58:32.409Z'
+  lastSynchronized: '2026-10-04T09:48:54.802Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a4854edd2f2a0a0987bc20473d60815e5014b343d78af0bb9f2e29f63f1a9166"
+    releasesEtag: '"205ceb82f13cba436dca499998ae6d9dd440b81ff6365ed99f7a8898063b3181"'
 discovery:
   method: 'fork-network:ps2dev/ps2gdb'
   confidence: 95
@@ -46,5 +51,4 @@ relationships:
   forkOf: ps2dev/ps2gdb
   source: ps2dev/ps2gdb
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

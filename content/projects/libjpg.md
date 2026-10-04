@@ -1,7 +1,7 @@
 ---
 name: libjpg
 slug: libjpg
-summary: "JPEG image decoding and rendering library for PlayStation 2 homebrew."
+summary: JPEG image decoding and rendering library for PlayStation 2 homebrew.
 categories:
   - libraries
   - media
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:32:20.743Z'
+  lastSynchronized: '2026-10-04T09:48:28.088Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5507072d084ca8bfec41b8efdef81ea2d99627ad376933e464c6d6e9d12822ac"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"6b044e170af432b7210d609dfe9bd7e6e6d9732e6c3facde3514011548db4f23"
+    releasesEtag: '"205ceb82f13cba436dca499998ae6d9dd440b81ff6365ed99f7a8898063b3181"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 95

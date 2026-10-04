@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-07-08T14:22:03Z'
   url: 'https://github.com/N4gtan/mkps2iso/releases/tag/v1.1.1'
 activity:
-  lastSynchronized: '2026-10-01T11:22:08.773Z'
+  lastSynchronized: '2026-10-04T09:48:30.778Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"aff38f5150180cf71665ba6e5fccbe87a45498dd5ae0f73d2b1e80c1a9e77953"
+    releasesEtag: W/"8ab73005a4af1b7abc5dd5dc3aaccb163fbe77f514f321e8b0eae36292bcc11f"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -42,5 +45,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -1,7 +1,9 @@
 ---
 name: ps2homebrew
 slug: ps2homebrew-akuhak
-summary: "Central GitHub organization repository and issue tracker for the ps2homebrew community."
+summary: >-
+  Central GitHub organization repository and issue tracker for the ps2homebrew
+  community.
 categories:
   - development
 tags:
@@ -27,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:58:32.409Z'
+  lastSynchronized: '2026-10-04T09:48:56.605Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4b7fb77a6749f118e5fe5ea903a644a6882d865b2f71dc51946694439126ce2c"
+    releasesEtag: '"205ceb82f13cba436dca499998ae6d9dd440b81ff6365ed99f7a8898063b3181"'
 discovery:
   method: 'fork-network:ps2homebrew/ps2homebrew'
   confidence: 95
@@ -43,5 +48,4 @@ relationships:
   forkOf: ps2homebrew/ps2homebrew
   source: ps2homebrew/ps2homebrew
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
