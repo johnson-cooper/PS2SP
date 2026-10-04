@@ -1,0 +1,17 @@
+{
+  "repository": "colebohte/FlintLauncher",
+  "repositoryId": "1330320115",
+  "url": "https://github.com/colebohte/FlintLauncher",
+  "description": "Custom Classicube Client",
+  "score": 75,
+  "evidence": [
+    "README explicitly mentions PlayStation 2",
+    "README contains PS2 development/toolchain evidence",
+    "published GitHub release present"
+  ],
+  "origin": "incremental:\"ps2 port\" in:name,description,readme",
+  "maturity": "prerelease-only",
+  "fork": null,
+  "discoveredAt": "2026-10-04T08:48:40.209Z",
+  "checkedAt": "2026-10-04T08:48:40.209Z"
+}
