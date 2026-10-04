@@ -741,6 +741,18 @@
         ]
       },
       {
+        "name": "ps2/llvm-toolchain — branch: ci-exec-bits",
+        "url": "https://git.techwritescode.dev/ps2/llvm-toolchain/src/branch/ci-exec-bits",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/llvm-toolchain",
+          "ci-exec-bits"
+        ]
+      },
+      {
         "name": "ps2/llvm-toolchain — branch: main",
         "url": "https://git.techwritescode.dev/ps2/llvm-toolchain/src/branch/main",
         "keywords": [
