@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-08-14T17:15:03Z'
   url: 'https://github.com/C0mposer/C-Game-Modding-Utility/releases/tag/1.2'
 activity:
-  lastSynchronized: '2026-10-02T02:16:43.727Z'
+  lastSynchronized: '2026-10-04T02:39:43.190Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"15281a1da60fa24f2dafbbd37b6e011f2d474a729ffe437da1aa995635114af2"
-    releasesEtag: W/"9b31136718cef44c7ab177f1db8add7b81c46d89433e7bd48a8b92661d745344"
+    repoEtag: W/"870fcab3e86deba9b793fbc1ce53ba5786db95947b59aabc3ed2ab91729282ae"
+    releasesEtag: W/"a029810142385afa486a84f50d8345e927209059b97d2f708b531f090a45663b"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

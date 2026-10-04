@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-07-27T18:10:08Z'
   url: 'https://github.com/oldman63/POPSLoader/releases/tag/rolling-release'
 activity:
-  lastSynchronized: '2026-10-02T02:17:15.326Z'
+  lastSynchronized: '2026-10-04T02:40:14.370Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e7a9f83bb4375164063b2d9da29eafc3a3f1751f4899e4fdda2c6bda6096298f"
-    releasesEtag: W/"8956c996285b479f0a63a3fef5466e009a58cabba27d59f308056111b9155054"
+    repoEtag: W/"61869e58583994a35dd4b1c0532f4bb10d3025d6738051885d82930dae136e35"
+    releasesEtag: W/"9625647c5441b64e2aa00cee5f54f16781735557f4ade00709036ab4efac304a"
 discovery:
   method: 'fork-network:NathanNeurotic/POPSLoader'
   confidence: 95
