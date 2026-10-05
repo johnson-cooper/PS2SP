@@ -572,7 +572,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/toolchain": 2,
     "https://git.techwritescode.dev/api/v1|ps2/masp": 2,
     "https://git.techwritescode.dev/api/v1|ps2/openvcl": 2,
-    "https://git.techwritescode.dev/api/v1|ps2/newlib": 4,
+    "https://git.techwritescode.dev/api/v1|ps2/newlib": 5,
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded": 2,
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core": 2,
     "https://git.techwritescode.dev/api/v1|ps2/tools": 2,
@@ -642,17 +642,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm": 1
   },
   "lastRun": {
-    "at": "2026-10-05T17:46:14.090Z",
+    "at": "2026-10-05T18:26:28.261Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 33,
-    "branchesChanged": 2,
-    "treesScanned": 2,
+    "branchesSeen": 123,
+    "branchesChanged": 0,
+    "treesScanned": 0,
     "reposAdded": 0,
     "forksAdded": 0,
     "branchesAdded": 0,
     "nestedAdded": 0,
-    "requests": 85,
+    "requests": 77,
     "stoppedForBudget": false
-  }
+  },
+  "queueCursor": 20
 }
