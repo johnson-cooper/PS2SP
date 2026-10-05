@@ -1,0 +1,99 @@
+name: Submit a PS2 resource
+description: Suggest a PS2-related resource for inclusion in the PS2SP directory.
+title: "[Resource]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping expand PS2SP. Submit one resource per issue.
+
+        A maintainer will review the submission and add it to the catalog manually if it fits the project scope. PS2SP indexes useful PlayStation 2 software and ecosystem material; it does not need general retail game dumps or retail game collections.
+
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+      description: The title or commonly used name of the resource.
+      placeholder: "Example: PS2SDK documentation"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Primary URL
+      description: Direct link to the resource, project, page, archive, repository, or service.
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: family
+    attributes:
+      label: Resource family
+      description: Pick the closest high-level section. Maintainers can recategorize it during review.
+      options:
+        - Software & Homebrew
+        - Development & Technical
+        - Hardware & Repair
+        - Exploits & Security
+        - Online & Networking
+        - Demos & Prototypes
+        - Preservation & Archives
+        - Communities & Regional
+        - Guides & Reference
+        - Other PS2 Resources
+    validations:
+      required: true
+
+  - type: input
+    id: category
+    attributes:
+      label: Suggested category or section
+      description: Optional more-specific classification, if you know where it belongs.
+      placeholder: "Examples: SDKs, Homebrew games, Modchips, Service manuals, PS2 Linux"
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What is it, and why is it relevant to PS2?
+      description: Briefly describe the resource and the PlayStation 2 material it contains.
+      placeholder: "Describe what the resource provides and why it belongs in PS2SP."
+    validations:
+      required: true
+
+  - type: input
+    id: keywords
+    attributes:
+      label: Keywords / tags
+      description: Useful search terms, project names, technologies, hardware, regions, or topics.
+      placeholder: "OPL, homebrew, SDK, EE, IOP, modchip, preservation"
+
+  - type: input
+    id: creator
+    attributes:
+      label: Creator, maintainer, or source
+      description: Person, team, organization, site, or archive responsible for the resource, if known.
+
+  - type: input
+    id: alternate
+    attributes:
+      label: Mirror or archive URL
+      description: Optional alternate, Wayback, Internet Archive, mirror, or preserved copy.
+      placeholder: "https://..."
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      description: Anything a maintainer should know when reviewing or cataloging the submission.
+
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Scope check
+      options:
+        - label: I confirmed this resource contains material directly related to PlayStation 2.
+          required: true
+        - label: This is not a general retail game dump or retail game collection.
+          required: true

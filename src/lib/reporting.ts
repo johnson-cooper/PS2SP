@@ -1,5 +1,7 @@
 const ISSUE_BASE = "https://github.com/johnson-cooper/PS2SP/issues/new";
 
+export const RESOURCE_SUBMISSION_ISSUE_URL = `${ISSUE_BASE}?template=resource-submission.yml`;
+
 export function brokenLinkIssueUrl(
   label: string,
   url: string,

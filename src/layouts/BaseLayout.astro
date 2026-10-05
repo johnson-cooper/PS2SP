@@ -1,6 +1,7 @@
 ---
 import "../styles/global.css";
 import { getSite } from "../lib/catalog";
+import { RESOURCE_SUBMISSION_ISSUE_URL } from "../lib/reporting";
 
 interface Props {
   title?: string;
@@ -74,6 +75,12 @@ const navItems = [
           <a class="header-search" href="/projects" aria-label="Search PS2SP">
             <span>Search</span><kbd>/</kbd>
           </a>
+          <a
+            class="source-link submit-resource-link"
+            href={RESOURCE_SUBMISSION_ISSUE_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+          >Submit resource ↗</a>
           <a class="source-link" href={site.repository} target="_blank" rel="noopener noreferrer">GitHub ↗</a>
         </div>
       </div>
@@ -179,6 +186,7 @@ const navItems = [
           <a href="/projects">Software</a>
           <a href="/resources">Directory</a>
           <a href="/updates">Updates</a>
+          <a href={RESOURCE_SUBMISSION_ISSUE_URL} target="_blank" rel="noopener noreferrer">Submit a resource</a>
           <a href={site.repository}>Source</a>
         </div>
         <p class="legal">Not affiliated with or endorsed by Sony Interactive Entertainment. PlayStation and related marks belong to their respective owners.</p>
