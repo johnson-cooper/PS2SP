@@ -4,6 +4,7 @@ import ReportBrokenLink from "../components/ReportBrokenLink.astro";
 import { categoryLabel, formatDate, getProjects, getSite, projectUpdatedAt } from "../lib/catalog";
 import { getResources } from "../lib/resources";
 import { getSoftwareCatalog } from "../lib/software";
+import { RESOURCE_SUBMISSION_ISSUE_URL } from "../lib/reporting";
 
 const site = (await getSite()).data;
 const projects = await getProjects();
@@ -102,6 +103,12 @@ const ps2Symbols = ["△", "○", "×", "□"];
         <a href="/projects?sort=updated">Active software <span>→</span></a>
         <a href="/resources">Full PS2 directory <span>→</span></a>
         <a href="/updates">Recent activity <span>→</span></a>
+        <a
+          class="submit-resource-cta"
+          href={RESOURCE_SUBMISSION_ISSUE_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+        >Submit a Resource Here! <span>↗</span></a>
       </div>
     </div>
 
