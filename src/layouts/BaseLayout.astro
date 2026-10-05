@@ -69,6 +69,12 @@ const navItems = [
             const active = item.match.some((prefix) => path === prefix || path.startsWith(prefix));
             return <a class:list={["nav-link", { active }]} href={item.href} aria-current={active ? "page" : undefined}>{item.label}</a>;
           })}
+          <a
+            class="nav-link nav-submit-resource"
+            href={RESOURCE_SUBMISSION_ISSUE_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+          >Submit Resource</a>
         </nav>
 
         <div class="header-actions">
