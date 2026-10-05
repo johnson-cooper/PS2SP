@@ -9,8 +9,6 @@ on:
     paths:
       - "scripts/discover-external-git.mjs"
       - "config/external-git-sources.json"
-      - "data/resources/external-git-live.json"
-      - "discovery/external-git-state.json"
       - ".github/workflows/external-git-discovery.yml"
 
 permissions:
