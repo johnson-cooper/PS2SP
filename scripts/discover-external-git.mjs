@@ -190,6 +190,7 @@ const config = await readJson(CONFIG_PATH, { forgejoOrganizations: [], forgejoRe
 const state = await readJson(STATE_PATH, {
   version: 1,
   queue: [],
+  queueCursor: 0,
   branchHeads: {},
   branchPage: {},
   forkPage: {},
@@ -197,6 +198,7 @@ const state = await readJson(STATE_PATH, {
 });
 state.version = 1;
 state.queue ??= [];
+state.queueCursor = Math.max(0, Number(state.queueCursor) || 0);
 state.branchHeads ??= {};
 state.branchPage ??= {};
 state.forkPage ??= {};
@@ -251,6 +253,9 @@ for (const seed of seedRepos) {
 }
 
 const groups = await readJson(OUTPUT_PATH, []);
+const existingResourceUrls = new Set(
+  groups.flatMap((group) => (group.links ?? []).map((link) => link?.url).filter(Boolean).map(canonicalUrl))
+);
 const repoGroup = ensureGroup(
   groups,
   "External Git — PS2 Repositories Live",
@@ -282,12 +287,13 @@ let branchesAdded = 0;
 let nestedAdded = 0;
 
 try {
-  const iterations = Math.min(REPOS_PER_RUN, queue.length);
+  const initialQueueLength = queue.length;
+  const iterations = Math.min(REPOS_PER_RUN, initialQueueLength);
+  const startIndex = initialQueueLength > 0 ? state.queueCursor % initialQueueLength : 0;
 
   for (let i = 0; i < iterations; i++) {
-    const current = queue.shift();
+    const current = queue[(startIndex + i) % initialQueueLength];
     if (!current) break;
-    queue.push(current);
 
     const { source, repository } = current;
     repositoriesScanned++;
@@ -391,6 +397,9 @@ try {
 
     console.log(`external git ${repository}: ${branches.size} branch(es)`);
   }
+  state.queueCursor = initialQueueLength > 0
+    ? (startIndex + iterations) % initialQueueLength
+    : 0;
 } catch (error) {
   if (error instanceof BudgetStop) {
     stoppedForBudget = true;
@@ -404,7 +413,17 @@ for (const group of groups) {
   group.links.sort((a, b) => a.name.localeCompare(b.name, undefined, { sensitivity: "base" }));
 }
 
-state.queue = queue.slice(0, 50000).map(({ source, repository }) => ({
+const finalResourceUrls = new Set(
+  groups.flatMap((group) => (group.links ?? []).map((link) => link?.url).filter(Boolean).map(canonicalUrl))
+);
+const missingResourceUrls = [...existingResourceUrls].filter((url) => !finalResourceUrls.has(url));
+if (missingResourceUrls.length > 0) {
+  throw new Error(
+    `External Git discovery refused to remove ${missingResourceUrls.length} existing resource(s): ${missingResourceUrls.slice(0, 10).join(", ")}`
+  );
+}
+
+state.queue = queue.map(({ source, repository }) => ({
   apiBase: source.apiBase,
   webBase: source.webBase,
   label: source.label,
