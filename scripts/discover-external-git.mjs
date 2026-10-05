@@ -294,6 +294,7 @@ try {
   for (let i = 0; i < iterations; i++) {
     const current = queue[(startIndex + i) % initialQueueLength];
     if (!current) break;
+    state.queueCursor = (startIndex + i + 1) % initialQueueLength;
 
     const { source, repository } = current;
     repositoriesScanned++;
@@ -397,9 +398,6 @@ try {
 
     console.log(`external git ${repository}: ${branches.size} branch(es)`);
   }
-  state.queueCursor = initialQueueLength > 0
-    ? (startIndex + iterations) % initialQueueLength
-    : 0;
 } catch (error) {
   if (error instanceof BudgetStop) {
     stoppedForBudget = true;
