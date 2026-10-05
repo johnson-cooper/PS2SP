@@ -753,6 +753,18 @@
         ]
       },
       {
+        "name": "ps2/llvm-toolchain — branch: llvm-linux-runner",
+        "url": "https://git.techwritescode.dev/ps2/llvm-toolchain/src/branch/llvm-linux-runner",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/llvm-toolchain",
+          "llvm-linux-runner"
+        ]
+      },
+      {
         "name": "ps2/llvm-toolchain — branch: main",
         "url": "https://git.techwritescode.dev/ps2/llvm-toolchain/src/branch/main",
         "keywords": [
