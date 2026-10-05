@@ -1,0 +1,16 @@
+{
+  "repository": "rabbithuntyt-ai/Ps-vita-ps2-emu",
+  "repositoryId": "1405011717",
+  "url": "https://github.com/rabbithuntyt-ai/Ps-vita-ps2-emu",
+  "description": null,
+  "score": 85,
+  "evidence": [
+    "repository name explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-10-05T07:41:33.942Z",
+  "checkedAt": "2026-10-05T07:41:33.942Z"
+}

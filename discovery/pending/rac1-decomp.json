@@ -1,7 +1,7 @@
 {
-  "repository": "Lynder063/rac1-decomp",
+  "repository": "OpenRAC/rac1-decomp",
   "repositoryId": "1361920188",
-  "url": "https://github.com/Lynder063/rac1-decomp",
+  "url": "https://github.com/OpenRAC/rac1-decomp",
   "description": "Matching decompilation of Ratchet & Clank (2002, PS2)",
   "score": 75,
   "evidence": [
@@ -12,5 +12,5 @@
   "maturity": "active-unreleased",
   "fork": null,
   "discoveredAt": "2026-09-29T00:28:19.276Z",
-  "checkedAt": "2026-10-04T22:32:01.981Z"
+  "checkedAt": "2026-10-05T07:41:33.942Z"
 }
