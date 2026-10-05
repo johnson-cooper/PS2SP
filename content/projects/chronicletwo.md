@@ -23,10 +23,10 @@ source:
   url: 'https://github.com/Plarpoon/ChronicleTwo'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-05T02:03:26Z'
 latestRelease:
   tag: null
   name: null
@@ -34,8 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-05T01:16:51.480Z'
+  lastSynchronized: '2026-10-05T09:05:09.504Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1c3777af04c1739bb8cc8f0bc5265fa38e626ed707cc5a20d2bb22dbe6be01cb"
+    releasesEtag: '"0f6334518bb38df42431c65e204b9abe3e2e87281dff502f2948a210e6314cd0"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85
@@ -51,5 +55,4 @@ relationships:
   forkOf: TheMoonPeople/ChronicleTwo
   source: TheMoonPeople/ChronicleTwo
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

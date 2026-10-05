@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: '2026-08-04T18:36:57Z'
   url: 'https://github.com/efimandreev0/Butterscotch/releases/tag/v1.3'
 activity:
-  lastSynchronized: '2026-10-04T14:58:43.222Z'
+  lastSynchronized: '2026-10-05T09:05:07.629Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b6f4b707aade13e6c4551765d0c9a9c7168722b010d209ae302f4dfe6934d7ce"
+    releasesEtag: W/"c4cf44e7c60b7c1cd31a35d267954ed3733a1c45d86f900bad6617e4c98a45cc"
 discovery:
   method: 'fork-network:ButterscotchRunner/Butterscotch'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: ButterscotchRunner/Butterscotch
   source: ButterscotchRunner/Butterscotch
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

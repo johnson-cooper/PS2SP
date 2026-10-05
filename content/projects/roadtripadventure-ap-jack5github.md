@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T22:32:01.981Z'
+  lastSynchronized: '2026-10-05T09:06:16.236Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1c57accca4b23a84e9aa81c75dc04d06c5049340cad8336854356ae473094cdc"
+    releasesEtag: '"0f6334518bb38df42431c65e204b9abe3e2e87281dff502f2948a210e6314cd0"'
 discovery:
   method: 'fork-network:Phenra/RoadTripAdventure-AP'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: Phenra/RoadTripAdventure-AP
   source: Phenra/RoadTripAdventure-AP
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

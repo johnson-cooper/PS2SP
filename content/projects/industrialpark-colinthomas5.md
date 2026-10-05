@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T09:48:25.322Z'
+  lastSynchronized: '2026-10-05T09:05:18.836Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5e7ee258bb1d3a75fd8c2acbae5646620bd78659973297bcc596b63cd4f83dbb"
-    releasesEtag: '"205ceb82f13cba436dca499998ae6d9dd440b81ff6365ed99f7a8898063b3181"'
+    repoEtag: W/"84276a529bea48a8c7594f37b0654d81bbc812cbca7e8e3e50747f2cd90f231b"
+    releasesEtag: '"0f6334518bb38df42431c65e204b9abe3e2e87281dff502f2948a210e6314cd0"'
 discovery:
   method: 'fork-network:igorseabra4/IndustrialPark'
   confidence: 100
