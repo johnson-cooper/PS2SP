@@ -1,7 +1,9 @@
 ---
 name: superpsx
 slug: superpsx-akuhak
-summary: "Experimental PlayStation 1 emulator running natively on the PlayStation 2 Emotion Engine."
+summary: >-
+  Experimental PlayStation 1 emulator running natively on the PlayStation 2
+  Emotion Engine.
 categories:
   - emulators
 tags:
@@ -27,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T18:50:06.212Z'
+  lastSynchronized: '2026-10-05T18:29:39.202Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"801721839e7f93c007343fe21ce49d7f76b2204d452c12272185bc5d453e9cfc"
+    releasesEtag: '"5933a7f6c2ffddf67ce6b6f105e8d733fe1114600e221295106c6f62492c0879"'
 discovery:
   method: 'fork-network:frangarcj/superpsx'
   confidence: 100
@@ -46,5 +51,4 @@ relationships:
   forkOf: frangarcj/superpsx
   source: frangarcj/superpsx
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

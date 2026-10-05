@@ -1,7 +1,9 @@
 ---
 name: ps2-covers
 slug: ps2-covers-sa3owibowo
-summary: "Community collection of PlayStation 2 3D and 2D box art covers formatted for Open PS2 Loader (OPL) and PCSX2."
+summary: >-
+  Community collection of PlayStation 2 3D and 2D box art covers formatted for
+  Open PS2 Loader (OPL) and PCSX2.
 categories:
   - themes
 tags:
@@ -27,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T22:00:19.221Z'
+  lastSynchronized: '2026-10-05T18:29:13.444Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4713ac1234dac7b9f65c44636709fb28efecb33f41f5ceeb5c6da20004fa793f"
+    releasesEtag: '"5933a7f6c2ffddf67ce6b6f105e8d733fe1114600e221295106c6f62492c0879"'
 discovery:
   method: 'fork-network:xlenore/ps2-covers'
   confidence: 100
@@ -45,5 +50,4 @@ relationships:
   forkOf: xlenore/ps2-covers
   source: xlenore/ps2-covers
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

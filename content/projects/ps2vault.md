@@ -1,7 +1,9 @@
 ---
 name: ps2vault
 slug: ps2vault
-summary: "Software repository and archive dedicated to preserving PlayStation 2 homebrew, tools, and guides."
+summary: >-
+  Software repository and archive dedicated to preserving PlayStation 2
+  homebrew, tools, and guides.
 categories:
   - preservation
 tags:
@@ -26,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T18:56:05.251Z'
+  lastSynchronized: '2026-10-05T18:29:30.187Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9b8c702ce886851deabf4ab02112c4900941a791e0e0138b4b236f6a39201b81"
-    releasesEtag: '"835637e6227981ce2bdd900baf80fcc0833c14a489057a00cb276de2952ad369"'
+    repoEtag: W/"0e60e656ac9cd825900cbb3023d5826839592e77fe241f3ae1f09e7d2c1f5349"
+    releasesEtag: '"5933a7f6c2ffddf67ce6b6f105e8d733fe1114600e221295106c6f62492c0879"'
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

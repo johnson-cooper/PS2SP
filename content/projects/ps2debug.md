@@ -1,7 +1,9 @@
 ---
 name: ps2debug
 slug: ps2debug
-summary: "Low-level exception handler and debugger module for PlayStation 2 EE and IOP processors."
+summary: >-
+  Low-level exception handler and debugger module for PlayStation 2 EE and IOP
+  processors.
 categories:
   - development
 tags:
@@ -26,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T18:56:02.613Z'
+  lastSynchronized: '2026-10-05T18:29:19.618Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a6a3edc92ce97857595da2c824e844d3c240d57dfa39aabfed93aab621542fa0"
-    releasesEtag: '"835637e6227981ce2bdd900baf80fcc0833c14a489057a00cb276de2952ad369"'
+    repoEtag: W/"51c404f5d5c26c42b85b38801ca6f4fd34649984d7ce2f2e517eb7a2b9082cd3"
+    releasesEtag: '"5933a7f6c2ffddf67ce6b6f105e8d733fe1114600e221295106c6f62492c0879"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 95

@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T18:47:49.763Z'
+  lastSynchronized: '2026-10-05T18:29:01.082Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"9dd8f28b36480c94df939cd80274cdd2392bd56e087a42b4072f06102a34f38d"
+    releasesEtag: '"5933a7f6c2ffddf67ce6b6f105e8d733fe1114600e221295106c6f62492c0879"'
 discovery:
   method: 'fork-network:DiscoStarslayer/pcsx2-reliquary'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: DiscoStarslayer/pcsx2-reliquary
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

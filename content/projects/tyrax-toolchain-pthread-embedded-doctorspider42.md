@@ -1,7 +1,9 @@
 ---
 name: tyrax-toolchain-pthread-embedded
 slug: tyrax-toolchain-pthread-embedded-doctorspider42
-summary: "POSIX threads (pthreads) implementation ported to the PlayStation 2 homebrew SDK environment."
+summary: >-
+  POSIX threads (pthreads) implementation ported to the PlayStation 2 homebrew
+  SDK environment.
 categories:
   - libraries
   - development
@@ -28,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T10:40:07.412Z'
+  lastSynchronized: '2026-10-05T18:29:40.291Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"918f2b888765d020619cf6f774821583991aaf28b8c63091bccbae776226d6b4"
+    releasesEtag: '"5933a7f6c2ffddf67ce6b6f105e8d733fe1114600e221295106c6f62492c0879"'
 discovery:
   method: 'fork-network:ps2dev/pthread-embedded'
   confidence: 95
@@ -44,5 +49,4 @@ relationships:
   forkOf: ps2dev/pthread-embedded
   source: DaveeFTW/pthread-embedded
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

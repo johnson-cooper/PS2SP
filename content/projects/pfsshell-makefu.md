@@ -1,7 +1,9 @@
 ---
 name: pfsshell
 slug: pfsshell-makefu
-summary: "Host command-line tool for browsing and editing PFS filesystems on APA-formatted hard drives."
+summary: >-
+  Host command-line tool for browsing and editing PFS filesystems on
+  APA-formatted hard drives.
 categories:
   - host-tools
   - file-managers
@@ -33,12 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T18:55:57.752Z'
+  lastSynchronized: '2026-10-05T18:29:07.932Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9c68b16bcc4ce62984f88afa8a50c7772c36499aec29e1d435f40789d4e55166"
-    releasesEtag: '"835637e6227981ce2bdd900baf80fcc0833c14a489057a00cb276de2952ad369"'
+    repoEtag: W/"eed06349c55721c700c970420cbd4625d6b2e05044ec8f920e93705c473e79cf"
+    releasesEtag: '"5933a7f6c2ffddf67ce6b6f105e8d733fe1114600e221295106c6f62492c0879"'
 discovery:
   method: 'fork-network:ps2homebrew/pfsshell'
   confidence: 95

@@ -1,7 +1,9 @@
 ---
 name: s2uMemdusa
 slug: s2umemdusa-scotho
-summary: "Network-based homebrew launcher and memory card bootloader exploit utilizing Medius online services on PlayStation 2."
+summary: >-
+  Network-based homebrew launcher and memory card bootloader exploit utilizing
+  Medius online services on PlayStation 2.
 categories:
   - networking
   - boot-tools
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T18:56:05.748Z'
+  lastSynchronized: '2026-10-05T18:29:36.294Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"748ff3e97957274e05d0f4a3b3ffc88e3ff5766164ed58caab27f5cb4a041755"
-    releasesEtag: '"835637e6227981ce2bdd900baf80fcc0833c14a489057a00cb276de2952ad369"'
+    repoEtag: W/"4a38f3bceae073532ba70338bf03a43676c484ba06881c10516452356d51a09a"
+    releasesEtag: '"5933a7f6c2ffddf67ce6b6f105e8d733fe1114600e221295106c6f62492c0879"'
 discovery:
   method: 'fork-network:PSRewired/Memdusa'
   confidence: 95
