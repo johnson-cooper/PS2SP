@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2022-02-09T19:59:21Z'
   url: 'https://github.com/israpps/wLaunchELF_ISR_HDD/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-04T02:40:41.358Z'
+  lastSynchronized: '2026-10-05T02:02:15.510Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e6039ab97aaed8e4de24e00e18c7036f304392da40f0ecd27ea4e6a2e9b9e4ae"
-    releasesEtag: W/"23d942fbb0b6d25f494e66edfce416b7ccc307a781636f1b0a7d92b9584b272e"
+    repoEtag: W/"60549e1336d67036f0a3ae7280f7e6fea00213a4e9a20deafab2c31617ae591a"
+    releasesEtag: W/"4f2429e5f1aa4f5c6238ecea932809c583f2c9f31082a321d53e35727c652066"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

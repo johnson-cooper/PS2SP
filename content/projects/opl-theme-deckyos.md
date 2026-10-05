@@ -1,7 +1,9 @@
 ---
 name: OPL-Theme-DeckyOS
 slug: opl-theme-deckyos
-summary: "Open PS2 Loader theme replicating the SteamOS Decky interface layout and typography."
+summary: >-
+  Open PS2 Loader theme replicating the SteamOS Decky interface layout and
+  typography.
 categories:
   - themes
 tags:
@@ -19,7 +21,7 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-04T02:20:05Z'
+  lastCommit: '2026-10-04T07:11:20Z'
 latestRelease:
   tag: null
   name: null
@@ -27,12 +29,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-09-29T00:27:07.337Z'
-  lastSynchronized: '2026-10-04T02:40:05.436Z'
+  lastSynchronized: '2026-10-05T02:01:40.694Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"78d7d2262e3929311773e275f97e9df3a35116be81d18b856951f1d49405b00c"
-    releasesEtag: '"10b8d79c2d26644f68c0d7e245e812f21f59204eb4412b161f80bbe0eedc8509"'
+    repoEtag: W/"8c8cfa003cd7575fe6486cc5de26ae8f5048de20377c73f9e09dfa60c529f894"
+    releasesEtag: '"703fa8bfca1a460de66424607408ff71ecc747090655fd13abba30d3114735bf"'
 discovery:
   method: github-search
   confidence: 100

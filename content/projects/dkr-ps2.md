@@ -1,7 +1,9 @@
 ---
 name: DKR-PS2
 slug: dkr-ps2
-summary: "Work-in-progress port of the Diddy Kong Racing decompilation targeting the PlayStation 2."
+summary: >-
+  Work-in-progress port of the Diddy Kong Racing decompilation targeting the
+  PlayStation 2.
 categories:
   - games
   - ports
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T02:39:44.484Z'
+  lastSynchronized: '2026-10-05T02:01:20.435Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"79023c49d90a94a4a505660dfe0962c37ef218675cfe5f7f2434198bc087d91d"
-    releasesEtag: '"10b8d79c2d26644f68c0d7e245e812f21f59204eb4412b161f80bbe0eedc8509"'
+    repoEtag: W/"c7e6de4492bd180ffbd5e6a25a594378250213371da1f63b14c5ed59201a7baf"
+    releasesEtag: '"703fa8bfca1a460de66424607408ff71ecc747090655fd13abba30d3114735bf"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

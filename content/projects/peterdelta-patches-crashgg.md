@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-07-11T05:59:04Z'
   url: 'https://github.com/crashGG/PeterDelta_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-04T02:40:12.924Z'
+  lastSynchronized: '2026-10-05T02:01:48.151Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"54c7cf4875acc639c411341e32feba5eec67d8945f91ac51e5577e6fe7f8fc06"
-    releasesEtag: W/"148203e7694cabfcc0f92d6a331ac7a18b0873acd951f238b963bc92de21f956"
+    repoEtag: W/"bc9e8f01f7a708874f22d219bddc83021b04802dfc319fc1005a7e946ba6303b"
+    releasesEtag: W/"c8a7e0a30758db1609c68484982619528af414bcf21b7ad8630e79f03c611968"
 discovery:
   method: 'fork-network:PeterDelta/PCSX2'
   confidence: 95

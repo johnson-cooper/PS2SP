@@ -1,7 +1,9 @@
 ---
 name: Memdusa
 slug: memdusa-psrewired
-summary: "Network-based homebrew launcher and memory card bootloader exploit utilizing Medius online services on PlayStation 2."
+summary: >-
+  Network-based homebrew launcher and memory card bootloader exploit utilizing
+  Medius online services on PlayStation 2.
 categories:
   - networking
   - boot-tools
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: '2026-05-14T06:40:06Z'
   url: 'https://github.com/PSRewired/Memdusa/releases/tag/v1.0.2'
 activity:
-  lastSynchronized: '2026-10-04T02:39:54.669Z'
+  lastSynchronized: '2026-10-05T02:01:30.244Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"26397f28496e2c49709fae73cbc98f3ca4823a1845c20aee1db5853377c9deb5"
-    releasesEtag: W/"41395dd102196993e4122cd7490f4c6cee2b91a5ad0374f6164d883a61ac2f01"
+    repoEtag: W/"84d2f735757820d25f5ee64cd53bf79d4bdd0e0ee8f6ede927c4e4d12005b3bc"
+    releasesEtag: W/"ee914c4c9cf1087b5a4c6b1d8c571a8694947ef1c8d2a88aad6442cf713fd72b"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

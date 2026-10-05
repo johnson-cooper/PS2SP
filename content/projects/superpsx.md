@@ -1,7 +1,9 @@
 ---
 name: superpsx
 slug: superpsx
-summary: "Experimental PlayStation 1 emulator running natively on the PlayStation 2 Emotion Engine."
+summary: >-
+  Experimental PlayStation 1 emulator running natively on the PlayStation 2
+  Emotion Engine.
 categories:
   - emulators
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T02:40:34.127Z'
+  lastSynchronized: '2026-10-05T02:02:09.584Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"748fddd3b103cb8794023c029d06c72c7a11c4408fef49150eb72b117397224f"
-    releasesEtag: '"10b8d79c2d26644f68c0d7e245e812f21f59204eb4412b161f80bbe0eedc8509"'
+    repoEtag: W/"e5fe50e996fef112ec87733683949c2f711a33eefe1f55b79f10880c267ba4d4"
+    releasesEtag: '"703fa8bfca1a460de66424607408ff71ecc747090655fd13abba30d3114735bf"'
 discovery:
   method: curated-owner
   confidence: 100

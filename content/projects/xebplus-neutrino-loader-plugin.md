@@ -1,7 +1,9 @@
 ---
 name: xebplus-neutrino-loader-plugin
 slug: xebplus-neutrino-loader-plugin
-summary: "Neutrino game loader plugin for the Xtreme Elite Boot Plus (XEB+) dashboard on PlayStation 2."
+summary: >-
+  Neutrino game loader plugin for the Xtreme Elite Boot Plus (XEB+) dashboard on
+  PlayStation 2.
 categories:
   - launchers
   - loaders
@@ -29,12 +31,12 @@ latestRelease:
     https://github.com/sync-on-luma/xebplus-neutrino-loader-plugin/releases/tag/2.9.7
 activity:
   lastChecked: '2026-09-29T00:27:31.245Z'
-  lastSynchronized: '2026-10-04T02:40:42.299Z'
+  lastSynchronized: '2026-10-05T02:02:16.405Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fbae2141d5503dfa846efda06db6031bc5d786b7161e10742d90e1cd915b8ec2"
-    releasesEtag: W/"700d49c77b96e610b6c2af8e7cff0e12aa17c5e374ac303ac2ff66345a3c69a4"
+    repoEtag: W/"a187cd67cd0d1c1c6a85ee26395c3874e81a969eca320a0221c8e97aa016cd06"
+    releasesEtag: W/"d71a7f2c62d71af7922b48b3017c0f307c26492d98c20d8bafff17fb2c40a59b"
 discovery:
   method: github-search
   confidence: 100

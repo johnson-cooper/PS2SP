@@ -1,7 +1,9 @@
 ---
 name: tyrax-toolchain-gcc
 slug: tyrax-toolchain-gcc-doctorspider42
-summary: "GNU Compiler Collection (GCC) cross-compiler toolchain ports targeting the PlayStation 2 Emotion Engine and IOP processors."
+summary: >-
+  GNU Compiler Collection (GCC) cross-compiler toolchain ports targeting the
+  PlayStation 2 Emotion Engine and IOP processors.
 categories:
   - sdks
   - development
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T02:40:38.186Z'
+  lastSynchronized: '2026-10-05T02:02:13.264Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b35f3672877e1b9142784ec19fc7e8dc7eaa92889a764a8dae8e264566286712"
-    releasesEtag: '"10b8d79c2d26644f68c0d7e245e812f21f59204eb4412b161f80bbe0eedc8509"'
+    repoEtag: W/"cdc51a1e877c2e862e7f4eb17c910c2031ce5f2ee07bd7c860c0082e4fe57469"
+    releasesEtag: '"703fa8bfca1a460de66424607408ff71ecc747090655fd13abba30d3114735bf"'
 discovery:
   method: 'fork-network:ps2dev/gcc'
   confidence: 95

@@ -13,7 +13,7 @@ tags:
   - fork
 features: []
 authors: []
-license: null
+license: GPL-2.0
 homepage: null
 source:
   provider: github
@@ -22,10 +22,10 @@ source:
   url: 'https://github.com/RgeditV1/OptiCraftHeritageEdition'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-04T22:12:32Z'
 latestRelease:
   tag: null
   name: null
@@ -33,8 +33,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-04T22:32:01.981Z'
+  lastSynchronized: '2026-10-05T02:01:42.814Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4144a36e12a4bc7ab9b2ea2f1007792be691cbb1975907357669f039ebb9e55b"
+    releasesEtag: '"703fa8bfca1a460de66424607408ff71ecc747090655fd13abba30d3114735bf"'
 discovery:
   method: 'pending-promotion:incremental:ps2sdk in:name,description,readme'
   confidence: 75
@@ -50,5 +54,4 @@ relationships:
   forkOf: OptiJuegos/OptiCraftHeritageEdition
   source: OptiJuegos/OptiCraftHeritageEdition
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

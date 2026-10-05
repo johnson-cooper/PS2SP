@@ -1,7 +1,9 @@
 ---
 name: ps2-covers
 slug: ps2-covers-victomina
-summary: "Community collection of PlayStation 2 3D and 2D box art covers formatted for Open PS2 Loader (OPL) and PCSX2."
+summary: >-
+  Community collection of PlayStation 2 3D and 2D box art covers formatted for
+  Open PS2 Loader (OPL) and PCSX2.
 categories:
   - themes
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T02:40:16.450Z'
+  lastSynchronized: '2026-10-05T02:01:52.388Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f4ba2178c2ca56fa2bc39f972e7cd0598d454ed606e41b549c5b73bf63278b2d"
-    releasesEtag: '"10b8d79c2d26644f68c0d7e245e812f21f59204eb4412b161f80bbe0eedc8509"'
+    repoEtag: W/"3434e03adf3bafc03160e20d3b15919fbf3f0eb5a423a2cb69f196e945752f03"
+    releasesEtag: '"703fa8bfca1a460de66424607408ff71ecc747090655fd13abba30d3114735bf"'
 discovery:
   method: 'fork-network:xlenore/ps2-covers'
   confidence: 100

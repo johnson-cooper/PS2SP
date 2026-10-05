@@ -1,7 +1,9 @@
 ---
 name: hdl-dump
 slug: hdl-dump-konzy
-summary: "Host command-line tool for installing and extracting PS2 games on APA-formatted internal hard drives over network or direct connection."
+summary: >-
+  Host command-line tool for installing and extracting PS2 games on
+  APA-formatted internal hard drives over network or direct connection.
 categories:
   - host-tools
   - loaders
@@ -32,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T02:39:51.284Z'
+  lastSynchronized: '2026-10-05T02:01:26.315Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e8270ed629b25e1a9a86721fc0a8c1a5a93565e6825e42946bef8b83696e04d6"
-    releasesEtag: '"10b8d79c2d26644f68c0d7e245e812f21f59204eb4412b161f80bbe0eedc8509"'
+    repoEtag: W/"50b5d343d4e1dc8976ef44569385609e0c55b5f59166717526de7c6b605bd92d"
+    releasesEtag: '"703fa8bfca1a460de66424607408ff71ecc747090655fd13abba30d3114735bf"'
 discovery:
   method: 'fork-network:ps2homebrew/hdl-dump'
   confidence: 95

@@ -1,7 +1,9 @@
 ---
 name: tenftp_test
 slug: tenftp-test
-summary: "High-speed FTP server implementation for PlayStation 2 with 100Mbit network transfer optimization."
+summary: >-
+  High-speed FTP server implementation for PlayStation 2 with 100Mbit network
+  transfer optimization.
 categories:
   - networking
 tags:
@@ -26,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T02:40:34.559Z'
+  lastSynchronized: '2026-10-05T02:02:09.930Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3655b07082edbd3cf40c5bd5d96a0355aff77affa0e3773cf0faa85b8d378d4d"
-    releasesEtag: '"10b8d79c2d26644f68c0d7e245e812f21f59204eb4412b161f80bbe0eedc8509"'
+    repoEtag: W/"da93e2f9b763c534b61f0775c2194cda2aa8a8b71ab3c7768665e277071be55e"
+    releasesEtag: '"703fa8bfca1a460de66424607408ff71ecc747090655fd13abba30d3114735bf"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 95

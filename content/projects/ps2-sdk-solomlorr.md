@@ -1,7 +1,9 @@
 ---
 name: ps2---sdk
 slug: ps2-sdk-solomlorr
-summary: "Open-source software development kit providing C standard libraries, kernel interfaces, and hardware drivers for PlayStation 2 homebrew development."
+summary: >-
+  Open-source software development kit providing C standard libraries, kernel
+  interfaces, and hardware drivers for PlayStation 2 homebrew development.
 categories:
   - sdks
   - development
@@ -31,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T02:40:17.847Z'
+  lastSynchronized: '2026-10-05T02:01:53.676Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d192c0115e2e3f80cbb0fdfe5c9d74047df524f234e363c738189b763bbd7d61"
-    releasesEtag: '"10b8d79c2d26644f68c0d7e245e812f21f59204eb4412b161f80bbe0eedc8509"'
+    repoEtag: W/"89511634050d6826ce5de2da9ee71059eef4a4d4f99a29acb22c898d896e53ff"
+    releasesEtag: '"703fa8bfca1a460de66424607408ff71ecc747090655fd13abba30d3114735bf"'
 discovery:
   method: 'fork-network:ps2dev/ps2sdk'
   confidence: 100

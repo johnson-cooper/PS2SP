@@ -1,7 +1,9 @@
 ---
 name: gcc
 slug: gcc-ziemas
-summary: "GNU Compiler Collection (GCC) cross-compiler toolchain ports targeting the PlayStation 2 Emotion Engine and IOP processors."
+summary: >-
+  GNU Compiler Collection (GCC) cross-compiler toolchain ports targeting the
+  PlayStation 2 Emotion Engine and IOP processors.
 categories:
   - sdks
   - development
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T02:39:49.930Z'
+  lastSynchronized: '2026-10-05T02:01:25.109Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f65579bdf791f0f4312b5b697436ce4d114ee524c58389db8f7d8c25add779ae"
-    releasesEtag: '"10b8d79c2d26644f68c0d7e245e812f21f59204eb4412b161f80bbe0eedc8509"'
+    repoEtag: W/"b2b84df9254f9638c79663a1a9959f8c0b47671e9d6366bf0347604743f5ccf4"
+    releasesEtag: '"703fa8bfca1a460de66424607408ff71ecc747090655fd13abba30d3114735bf"'
 discovery:
   method: 'fork-network:ps2dev/gcc'
   confidence: 95

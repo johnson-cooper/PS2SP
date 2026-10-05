@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-05-04T08:58:04Z'
   url: 'https://github.com/PixeliGer/OPL-Theme-Ominence/releases/tag/v1.3.0'
 activity:
-  lastSynchronized: '2026-10-04T02:40:05.899Z'
+  lastSynchronized: '2026-10-05T02:01:41.147Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ebf8050710690c27a62825b7fc03c4cc805ba2ffed0427672880b2ab3e654284"
-    releasesEtag: W/"720581efa48482129a463cd018337f4b6e7e52af8eae9783c3c3616eb30151f4"
+    repoEtag: W/"da9e6e8812273399a5cc8d7e3f90e0aa3f7095a02611fe977bc684d3456a0681"
+    releasesEtag: W/"57b8b9e7e1074d794eacbcbe36a5305afa8fbc925c5afbd668daff8abeeba56c"
 discovery:
   method: pending-recheck
   confidence: 100

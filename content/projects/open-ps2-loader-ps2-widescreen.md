@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2022-11-02T19:02:55Z'
   url: 'https://github.com/PS2-Widescreen/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-04T02:40:01.732Z'
+  lastSynchronized: '2026-10-05T02:01:37.266Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"dfee6d1c82f7dfcac77c79f328c62ff39e0506a20ce90c6e3bdf747a788078d7"
-    releasesEtag: W/"585eef912a549da899a10a774bf98595f82fbb73495db3441ed941748f732d8a"
+    repoEtag: W/"199bd46c50f45c6abba1867b57777edbf9193233babc0cbac1fbf99356c1b0de"
+    releasesEtag: W/"b3c5a5b39a91174e5aa6a57214213d3e876355885d278e8afde8ae4fe323370d"
 discovery:
   method: 'fork-network:israpps/Open-PS2-Loader'
   confidence: 100

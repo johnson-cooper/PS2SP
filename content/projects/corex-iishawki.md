@@ -1,7 +1,9 @@
 ---
 name: CoreX
 slug: corex-iishawki
-summary: "PlayStation 2 emulator for Android featuring a PCSX2-based core, modernized touchscreen controls, and game library navigation."
+summary: >-
+  PlayStation 2 emulator for Android featuring a PCSX2-based core, modernized
+  touchscreen controls, and game library navigation.
 categories:
   - emulators
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T02:39:43.683Z'
+  lastSynchronized: '2026-10-05T02:01:19.555Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8cbb7c856ea375c84793c65b31ebcdc3995af8e8cdae885844f653bf2debec2b"
-    releasesEtag: '"10b8d79c2d26644f68c0d7e245e812f21f59204eb4412b161f80bbe0eedc8509"'
+    repoEtag: W/"7845416fd3d817e784513e2be9d99d5505e4c427508c17300211fe60ce056cc0"
+    releasesEtag: '"703fa8bfca1a460de66424607408ff71ecc747090655fd13abba30d3114735bf"'
 discovery:
   method: 'fork-network:sashkinbro/EmuCoreX'
   confidence: 95

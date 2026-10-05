@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2026-09-29T19:18:23Z'
   url: 'https://github.com/SumavisionQ5/launcHER/releases/tag/nightly'
 activity:
-  lastSynchronized: '2026-10-04T02:39:52.387Z'
+  lastSynchronized: '2026-10-05T02:01:27.218Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"18dcd01cb0e12ee17d4f75ccbdeb17ea37e8be98b9920d88b7aef7c946bbd9ee"
-    releasesEtag: W/"da7a3c053bc69e741f4d219d58f6689ee850b52abe17edaa54c9d64aeda01284"
+    repoEtag: W/"9fa67ef7fe5f1f951064356b8fca7e7aff0086f94fcc78a4ade6220b986f2c86"
+    releasesEtag: W/"afcbda5e128c1a50af411f61c04e86a5bf2c3850fe4282f555cacc0ee6439929"
 discovery:
   method: 'fork-network:NathanNeurotic/launcHER'
   confidence: 100

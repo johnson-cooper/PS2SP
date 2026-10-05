@@ -1,7 +1,9 @@
 ---
 name: ps2link
 slug: ps2link-fjtrujy
-summary: "PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP from host development tools like ps2client."
+summary: >-
+  PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP
+  from host development tools like ps2client.
 categories:
   - networking
   - development
@@ -32,12 +34,12 @@ latestRelease:
   publishedAt: '2020-05-21T10:40:34Z'
   url: 'https://github.com/fjtrujy/ps2link/releases/tag/v0.0.3'
 activity:
-  lastSynchronized: '2026-10-04T02:40:20.615Z'
+  lastSynchronized: '2026-10-05T02:01:56.376Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c660277744533bb15312908bcd2ae53a838e8f1081bf91fe5711689472ce3f25"
-    releasesEtag: W/"72587c65677485b9292bd800c7dbfa4f296e10ba190051a47d38275eedc7e3c9"
+    repoEtag: W/"5c48af83e9c915486efaca25725529c70f7c02d2767f59cebc9a4cc6a415cfa4"
+    releasesEtag: W/"4a855a6be1062876f4e4f80080e2b3e7797b5cebb70c2c45bd105b05a6153cb3"
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100

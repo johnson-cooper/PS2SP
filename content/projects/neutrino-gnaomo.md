@@ -35,12 +35,12 @@ latestRelease:
   url: 'https://github.com/gnaomo/neutrino/releases/tag/uya-slowdown-fix'
 activity:
   lastChecked: '2026-09-29T00:31:02.473Z'
-  lastSynchronized: '2026-10-04T02:39:56.450Z'
+  lastSynchronized: '2026-10-05T02:01:32.060Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b73553e82bc5d5aac32c198382d299083a3bf1e07e634280a73a27d9ffd68f49"
-    releasesEtag: W/"d324b5a8e5e737b48384b6691cab72aa4320a8eb4bbece71392dffbee124e9a0"
+    repoEtag: W/"bd65ac2c9247ce30f4ba08fe0133243ab5cc8ba6fa725de32dd9955bb6444098"
+    releasesEtag: W/"af3269f1754731fdef910ee78bd432302cf56924eb95394589cc79e568baa752"
 discovery:
   method: github-maintained-fork
   confidence: 100

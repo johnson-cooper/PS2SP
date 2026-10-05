@@ -1,7 +1,9 @@
 ---
 name: ps2sdk
 slug: ps2sdk-pcm720
-summary: "Open-source software development kit providing C standard libraries, kernel interfaces, and hardware drivers for PlayStation 2 homebrew development."
+summary: >-
+  Open-source software development kit providing C standard libraries, kernel
+  interfaces, and hardware drivers for PlayStation 2 homebrew development.
 categories:
   - sdks
   - development
@@ -24,19 +26,19 @@ repository:
   defaultBranch: master
   stars: 1
   forks: 0
-  lastCommit: '2026-09-18T19:35:55Z'
+  lastCommit: '2026-10-04T18:09:43Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T02:40:22.302Z'
+  lastSynchronized: '2026-10-05T02:01:58.009Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"aaaa04f400911d24255db64d43b807e907e19b09bbe5506df7e36d385a777880"
-    releasesEtag: '"10b8d79c2d26644f68c0d7e245e812f21f59204eb4412b161f80bbe0eedc8509"'
+    repoEtag: W/"4fa5c0e6a89b7d0ca1e53e143609de111aaa35327ff464ef2410fc12681adcdf"
+    releasesEtag: '"703fa8bfca1a460de66424607408ff71ecc747090655fd13abba30d3114735bf"'
 discovery:
   method: 'fork-network:ps2dev/ps2sdk'
   confidence: 100

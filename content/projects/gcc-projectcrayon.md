@@ -1,7 +1,9 @@
 ---
 name: gcc
 slug: gcc-projectcrayon
-summary: "GNU Compiler Collection (GCC) cross-compiler toolchain ports targeting the PlayStation 2 Emotion Engine and IOP processors."
+summary: >-
+  GNU Compiler Collection (GCC) cross-compiler toolchain ports targeting the
+  PlayStation 2 Emotion Engine and IOP processors.
 categories:
   - sdks
   - development
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T02:39:49.492Z'
+  lastSynchronized: '2026-10-05T02:01:24.729Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2b1f798b4618691c51c21a84b292d5a6ee3b6f7c41488f9326ad1c989ba85755"
-    releasesEtag: '"10b8d79c2d26644f68c0d7e245e812f21f59204eb4412b161f80bbe0eedc8509"'
+    repoEtag: W/"67313a463d1a22f9bcb371a524a3cf7e9f0061aa99265c930e2ea25640d1b068"
+    releasesEtag: '"703fa8bfca1a460de66424607408ff71ecc747090655fd13abba30d3114735bf"'
 discovery:
   method: 'fork-network:ps2dev/gcc'
   confidence: 95
