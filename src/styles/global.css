@@ -144,6 +144,14 @@ button { color: inherit; }
   font-size: .9rem;
 }
 .nav-link:hover, .nav-link.active { color: var(--text); }
+.nav-submit-resource {
+  color: var(--accent-2);
+  font-weight: 700;
+}
+.nav-submit-resource:hover {
+  color: #fff;
+  background: rgba(91, 151, 255, .08);
+}
 .nav-link.active::after {
   content: "";
   position: absolute;
@@ -313,6 +321,20 @@ h3 { margin: 0; }
 .hero-shortcuts a { color: var(--muted); font-size: .82rem; }
 .hero-shortcuts a span { color: var(--accent); margin-left: 5px; }
 .hero-shortcuts a:hover { color: var(--text); }
+.hero-shortcuts .submit-resource-cta {
+  display: inline-flex;
+  align-items: center;
+  padding: 7px 11px;
+  border: 1px solid rgba(112, 214, 255, .42);
+  background: rgba(21, 76, 153, .16);
+  color: var(--accent-2);
+  font-weight: 750;
+}
+.hero-shortcuts .submit-resource-cta:hover {
+  border-color: rgba(112, 214, 255, .72);
+  background: rgba(21, 76, 153, .27);
+  color: #fff;
+}
 
 .hero-console {
   width: min(100%, 340px);
