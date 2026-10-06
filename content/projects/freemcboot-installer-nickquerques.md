@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T15:23:12.183Z'
+  lastSynchronized: '2026-10-06T15:12:59.119Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"53e1ada98ec6b8bbe398200f7cc556fcfd578c9327ef0c29b4efb752bd92b8e4"
-    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
+    repoEtag: W/"89ca80a52c8b729a000d27fcc7f30d8234b1d4f0b07cf091e01d28e8bfbf0990"
+    releasesEtag: '"88d0f30a6abaccceeda259d5a1dd03b64eb67051bf25bedbd1d7274769c5a8d8"'
 discovery:
   method: 'fork-network:israpps/FreeMcBoot-Installer'
   confidence: 95

@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T15:24:01.393Z'
+  lastSynchronized: '2026-10-06T15:13:56.692Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3438f843817dd562ba518227c6da2e17c1f2079aa9fff7930d07145129877a3f"
-    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
+    repoEtag: W/"533c4a9908c122e52bfe5fc212193221fe927850c1fa1d4b6e4f3e9197a5f841"
+    releasesEtag: '"88d0f30a6abaccceeda259d5a1dd03b64eb67051bf25bedbd1d7274769c5a8d8"'
 discovery:
   method: 'fork-network:NathanNeurotic/Simple-Media-System'
   confidence: 100

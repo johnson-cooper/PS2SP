@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T15:24:03.099Z'
+  lastSynchronized: '2026-10-06T15:13:58.737Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0580ca60fe79d0e3db418cf351542d5cc2d48d86cc09b3532afd369f93336c04"
-    releasesEtag: '"88e3252b024a81bfe2859d1e26a4b9b16c85c9ea992575462dfbfa456c717306"'
+    repoEtag: W/"e7e702f362ff705632712d5159943b619433d698635ea238ec7353203641a165"
+    releasesEtag: '"88d0f30a6abaccceeda259d5a1dd03b64eb67051bf25bedbd1d7274769c5a8d8"'
 discovery:
   method: 'fork-network:ReyFxck/SNESticleRevive'
   confidence: 100

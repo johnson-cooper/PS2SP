@@ -23,20 +23,20 @@ repository:
   defaultBranch: master
   stars: 141
   forks: 16
-  lastCommit: '2026-10-04T00:40:36Z'
+  lastCommit: '2026-10-05T22:48:39Z'
 latestRelease:
-  tag: v0.5
-  name: Version 0.5
-  publishedAt: '2025-08-14T20:34:08Z'
-  url: 'https://github.com/chaoticgd/wrench/releases/tag/v0.5'
+  tag: v0.6
+  name: Version 0.6
+  publishedAt: '2026-10-04T15:37:36Z'
+  url: 'https://github.com/chaoticgd/wrench/releases/tag/v0.6'
 activity:
   lastChecked: '2026-09-29T09:05:43.442Z'
-  lastSynchronized: '2026-10-04T15:24:06.729Z'
+  lastSynchronized: '2026-10-06T15:14:03.682Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3d61f8b63fa9bceae54d1a559e2606c337c793107caa342406f89683840cd130"
-    releasesEtag: W/"c24f75d3b37ff5757c7777a5994ae5f2df9c56efd0c73a9378cdcac9951bca21"
+    repoEtag: W/"dbe641d5ed68b4ead51c5bf8cd3a0c88e7e812d054b2d563d2528e9dc65f9574"
+    releasesEtag: W/"4c66a7bb98fcfaabb16e5e12a90f5b84e9b4ef194e9561f8691615bb44f51462"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2024-09-09T08:21:33Z'
   url: 'https://github.com/grimdoomer/TonyHawksProStrcpy/releases/tag/v1.1'
 activity:
-  lastSynchronized: '2026-10-04T15:24:04.054Z'
+  lastSynchronized: '2026-10-06T15:14:00.826Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a8ae83ece5016101914d341af2026a01233a8ac8242e616ac7c6c73ad90a2faf"
-    releasesEtag: W/"e8c8d57a82e94998f5ee4bc845414f550dc710cb14544bbf712dbd257cc51e48"
+    repoEtag: W/"b9200c8e11c8c1a25f364e7dab478e89752c9665da4f330764c19bffaa21eec5"
+    releasesEtag: W/"949523b44a86ea731d95cd9b0103b872912b7898952080e4a0d7ba4a6ec52272"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

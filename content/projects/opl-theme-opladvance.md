@@ -27,12 +27,12 @@ latestRelease:
   url: 'https://github.com/PixeliGer/OPL-Theme-OPLAdvance/releases/tag/v1.3'
 activity:
   lastChecked: '2026-09-29T00:27:30.317Z'
-  lastSynchronized: '2026-10-04T15:23:33.507Z'
+  lastSynchronized: '2026-10-06T15:13:24.432Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a0912a5c80c2559b56bb2a09915a75df214509f564639d0f72f89993b5afb399"
-    releasesEtag: W/"701a76268021e604a562df22a1702338b7254d8a0fab7e5fbb5e90c712bb03a7"
+    repoEtag: W/"0145acc10049e761945765c0174b16198a6360f4357ac937f356c6a6ece8efaa"
+    releasesEtag: W/"a7f26b4a1ac3dd2d65359011c322f1c7e739dc1007b06a573e2d5eef85248182"
 discovery:
   method: github-search
   confidence: 100

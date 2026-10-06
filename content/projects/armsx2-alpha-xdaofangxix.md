@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-09-30T02:52:47Z'
   url: 'https://github.com/XDaoFangxiX/ARMSX2-Alpha/releases/tag/2.9.2-build.41'
 activity:
-  lastSynchronized: '2026-10-06T03:20:11.642Z'
+  lastSynchronized: '2026-10-06T15:12:42.028Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a39f032c188f03019a7a5a6104a4a382ea8fbe76c56aeb5e6d080e90340e501e"
+    releasesEtag: W/"0d6d06e64b62f075cde30c2519dd367e180ec08ddc75fadee2f28147589c806c"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: ARMSX2/ARMSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
