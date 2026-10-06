@@ -1,7 +1,9 @@
 ---
 name: Open-PS2-Loader-Custom
 slug: open-ps2-loader-custom
-summary: "Community fork of Open PS2 Loader (OPL) with custom patches and experimental features."
+summary: >-
+  Community fork of Open PS2 Loader (OPL) with custom patches and experimental
+  features.
 categories:
   - loaders
 tags:
@@ -26,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T00:31:11.265Z'
+  lastSynchronized: '2026-10-06T00:49:53.595Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9ba50c36bd10d2d3119abe2bb02de16ef5f38b17dc1423f168ae9ef323664457"
-    releasesEtag: '"f521e1d8b7f5d46abcb0e1c9cabd79b931fc80538f7519867e982eb896ac6c3a"'
+    repoEtag: W/"04bead979e3354db28e5427ebcee62ec40d1e31361234c5610aa0fab7713d4b9"
+    releasesEtag: '"fe68fc8db0e297396a5826cd51b686f8bdb6f6aaa8dec163abdd3f6eb97d8d4a"'
 discovery:
   method: pending-recheck
   confidence: 100

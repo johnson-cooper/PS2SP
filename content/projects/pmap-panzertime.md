@@ -1,7 +1,9 @@
 ---
 name: PMAP
 slug: pmap-panzertime
-summary: "PlayStation 2 MechaCon Adjustment Program for servicing, calibrating, and diagnosing the CD/DVD drive subsystem and EEPROM."
+summary: >-
+  PlayStation 2 MechaCon Adjustment Program for servicing, calibrating, and
+  diagnosing the CD/DVD drive subsystem and EEPROM.
 categories:
   - hardware
   - utilities
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T00:31:24.581Z'
+  lastSynchronized: '2026-10-06T00:50:07.533Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"70113c956adad847d8c0556a31d0b443c6e83ad0ce30f86be54698f4c346c511"
-    releasesEtag: '"f521e1d8b7f5d46abcb0e1c9cabd79b931fc80538f7519867e982eb896ac6c3a"'
+    repoEtag: W/"c57bc192a5d298cd5f294a2b1b12771b7430ae43c976bbc85a930472642b349a"
+    releasesEtag: '"fe68fc8db0e297396a5826cd51b686f8bdb6f6aaa8dec163abdd3f6eb97d8d4a"'
 discovery:
   method: 'fork-network:ps2homebrew/PMAP'
   confidence: 95

@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/israpps/FreeMcBoot-Installer/releases/tag/latest'
 activity:
   lastChecked: '2026-09-29T00:27:02.184Z'
-  lastSynchronized: '2026-10-03T00:30:59.800Z'
+  lastSynchronized: '2026-10-06T00:49:42.442Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d804155d84c07dbd250512991ede28278012c3ae6bdf580326472b5bc0179a2a"
-    releasesEtag: W/"1e5202c3b0acb264595e46d02798dbdbfb902747042de668ea228b58b5f485e3"
+    repoEtag: W/"fdd2cf8bb4100ba5f4c2c38d56ec778f34c19dac3dd295b91047ac818b14e5ae"
+    releasesEtag: W/"44c03c5cd75b3e5eb030d8ac0a15f703228b0b315d7c221b0d29d23d276319b0"
 discovery:
   method: curated
   confidence: 100

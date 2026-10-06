@@ -1,7 +1,9 @@
 ---
 name: PS5_LRPS2
 slug: ps5-lrps2-mihawk-99
-summary: "PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation frontend support on PS2."
+summary: >-
+  PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation
+  frontend support on PS2.
 categories:
   - emulators
   - ports
@@ -21,21 +23,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 15
   forks: 0
-  lastCommit: '2026-10-01T12:38:49Z'
+  lastCommit: '2026-10-05T17:52:00Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T00:31:37.111Z'
+  lastSynchronized: '2026-10-06T00:50:22.742Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b04e056d3803bd0d892755795babee92773ff8feb2ea95a45a5c6946eb3b0364"
-    releasesEtag: '"f521e1d8b7f5d46abcb0e1c9cabd79b931fc80538f7519867e982eb896ac6c3a"'
+    repoEtag: W/"7017be219ee48401133d84e6559a8c263d118bfd22d9a6330c25f482de007b3a"
+    releasesEtag: '"fe68fc8db0e297396a5826cd51b686f8bdb6f6aaa8dec163abdd3f6eb97d8d4a"'
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 95

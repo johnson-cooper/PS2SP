@@ -1,7 +1,9 @@
 ---
 name: libsmb2
 slug: libsmb2-itotaljustice
-summary: "Userspace SMB2/SMB3 client library ported to PlayStation 2 for connecting to modern network shares in homebrew loaders."
+summary: >-
+  Userspace SMB2/SMB3 client library ported to PlayStation 2 for connecting to
+  modern network shares in homebrew loaders.
 categories:
   - libraries
   - networking
@@ -30,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T00:31:04.591Z'
+  lastSynchronized: '2026-10-06T00:49:47.052Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0c10f70b80702c6b024a49ffd5fbe57d1f38e0ab70b4adaffee49bc1d763d8bc"
-    releasesEtag: '"f521e1d8b7f5d46abcb0e1c9cabd79b931fc80538f7519867e982eb896ac6c3a"'
+    repoEtag: W/"51124b684ae9bd907a579b64d1f74663ded3ea23629dae461bb9d4c3b3a56ed5"
+    releasesEtag: '"fe68fc8db0e297396a5826cd51b686f8bdb6f6aaa8dec163abdd3f6eb97d8d4a"'
 discovery:
   method: 'fork-network:sahlberg/libsmb2'
   confidence: 95

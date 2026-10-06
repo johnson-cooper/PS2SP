@@ -1,7 +1,9 @@
 ---
 name: ps2link
 slug: ps2link-ushiiwaka
-summary: "PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP from host development tools like ps2client."
+summary: >-
+  PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP
+  from host development tools like ps2client.
 categories:
   - networking
   - development
@@ -32,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T00:31:33.547Z'
+  lastSynchronized: '2026-10-06T00:50:17.794Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"94395d5df6a74f1d0d9647bd075bd2728efc251d64b19872a117343d9c0bcdcb"
-    releasesEtag: '"f521e1d8b7f5d46abcb0e1c9cabd79b931fc80538f7519867e982eb896ac6c3a"'
+    repoEtag: W/"0db3c1c6136d1807600174c724b55596114c9e5fde0fb4645f56c69948cec9ed"
+    releasesEtag: '"fe68fc8db0e297396a5826cd51b686f8bdb6f6aaa8dec163abdd3f6eb97d8d4a"'
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100

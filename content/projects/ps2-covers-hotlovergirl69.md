@@ -1,7 +1,9 @@
 ---
 name: ps2-covers
 slug: ps2-covers-hotlovergirl69
-summary: "Community collection of PlayStation 2 3D and 2D box art covers formatted for Open PS2 Loader (OPL) and PCSX2."
+summary: >-
+  Community collection of PlayStation 2 3D and 2D box art covers formatted for
+  Open PS2 Loader (OPL) and PCSX2.
 categories:
   - themes
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T00:31:26.128Z'
+  lastSynchronized: '2026-10-06T00:50:09.095Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9708938fd330db65261965e73cc7547f468d2240922c9dd6cfed1ea476d902ad"
-    releasesEtag: '"f521e1d8b7f5d46abcb0e1c9cabd79b931fc80538f7519867e982eb896ac6c3a"'
+    repoEtag: W/"8280ff65b78499f4db339cb810c43cacb6486d1e236a66bff598985328579f2d"
+    releasesEtag: '"fe68fc8db0e297396a5826cd51b686f8bdb6f6aaa8dec163abdd3f6eb97d8d4a"'
 discovery:
   method: 'fork-network:xlenore/ps2-covers'
   confidence: 100

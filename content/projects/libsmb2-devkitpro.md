@@ -1,7 +1,9 @@
 ---
 name: libsmb2
 slug: libsmb2-devkitpro
-summary: "Userspace SMB2/SMB3 client library ported to PlayStation 2 for connecting to modern network shares in homebrew loaders."
+summary: >-
+  Userspace SMB2/SMB3 client library ported to PlayStation 2 for connecting to
+  modern network shares in homebrew loaders.
 categories:
   - libraries
   - networking
@@ -30,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T00:31:04.114Z'
+  lastSynchronized: '2026-10-06T00:49:46.589Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d15589473f7fe22e4cd34306a07ce08810f4a32b21258e588e394fc6025085df"
-    releasesEtag: '"f521e1d8b7f5d46abcb0e1c9cabd79b931fc80538f7519867e982eb896ac6c3a"'
+    repoEtag: W/"e572606c513d4b32676e71aeaaafe9fd1fba408ddab61aa529c56a258d399010"
+    releasesEtag: '"fe68fc8db0e297396a5826cd51b686f8bdb6f6aaa8dec163abdd3f6eb97d8d4a"'
 discovery:
   method: 'fork-network:sahlberg/libsmb2'
   confidence: 95

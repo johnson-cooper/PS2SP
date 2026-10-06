@@ -1,7 +1,9 @@
 ---
 name: opl-artwork-processor
 slug: opl-artwork-processor
-summary: "Automation tool for resizing, formatting, and packaging game artwork for Open PS2 Loader."
+summary: >-
+  Automation tool for resizing, formatting, and packaging game artwork for Open
+  PS2 Loader.
 categories:
   - host-tools
   - themes
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: '2025-03-14T23:03:18Z'
   url: 'https://github.com/Badzolini/opl-artwork-processor/releases/tag/2025-03-14'
 activity:
-  lastSynchronized: '2026-10-03T00:31:16.275Z'
+  lastSynchronized: '2026-10-06T00:49:58.495Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9c05d301c941a5207b2a7f761af80f4626e90c95975f430cce89faff2019f9da"
-    releasesEtag: W/"80f124f36e9a90fb33282b366d60149db67f678b462be5f5c31963c857b513c7"
+    repoEtag: W/"7aef69459337fb8950ddd1feb8783ab76ae2bdbef1e900efba62dd77d8509a1c"
+    releasesEtag: W/"22e9c307ed9e9dd75e1baec6ecd49373d03e2fbdc80df837ca6223737590d0ae"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

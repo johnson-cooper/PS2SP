@@ -1,7 +1,9 @@
 ---
 name: ps2link
 slug: ps2link-boganon
-summary: "PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP from host development tools like ps2client."
+summary: >-
+  PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP
+  from host development tools like ps2client.
 categories:
   - networking
   - development
@@ -32,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T00:31:33.047Z'
+  lastSynchronized: '2026-10-06T00:50:17.330Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bb4bfda39600e6d1ba03177a41d2bf2dfdb3c03231f202ba6ef4d689ded1f6d3"
-    releasesEtag: '"f521e1d8b7f5d46abcb0e1c9cabd79b931fc80538f7519867e982eb896ac6c3a"'
+    repoEtag: W/"f94caa3c6b7ece163fa312dc4868de0259583cd1f5fdf205a2610eabaeb262cb"
+    releasesEtag: '"fe68fc8db0e297396a5826cd51b686f8bdb6f6aaa8dec163abdd3f6eb97d8d4a"'
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100

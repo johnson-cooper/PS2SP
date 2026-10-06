@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-10-02T08:50:46Z'
   url: 'https://github.com/Radioo/pcsx2-reliquary/releases/tag/v0.0.2'
 activity:
-  lastSynchronized: '2026-10-04T18:47:49.763Z'
+  lastSynchronized: '2026-10-06T00:50:04.259Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"651c7fb6c3704861069a59304328d7279bc69a229b16dd71e16933da10530b93"
+    releasesEtag: W/"6e87cb65a37689d375849160bab9174a7bdda59913c8dec89aee593530d77da2"
 discovery:
   method: 'fork-network:DiscoStarslayer/pcsx2-reliquary'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: DiscoStarslayer/pcsx2-reliquary
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

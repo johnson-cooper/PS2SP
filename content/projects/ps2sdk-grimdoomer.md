@@ -1,7 +1,9 @@
 ---
 name: ps2sdk
 slug: ps2sdk-grimdoomer
-summary: "Open-source software development kit providing C standard libraries, kernel interfaces, and hardware drivers for PlayStation 2 homebrew development."
+summary: >-
+  Open-source software development kit providing C standard libraries, kernel
+  interfaces, and hardware drivers for PlayStation 2 homebrew development.
 categories:
   - sdks
   - development
@@ -31,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T00:31:35.160Z'
+  lastSynchronized: '2026-10-06T00:50:19.111Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"df2238eb467dc04cde7a49299d86a284c9e61f0585a3246b28ed3046b439017b"
-    releasesEtag: '"f521e1d8b7f5d46abcb0e1c9cabd79b931fc80538f7519867e982eb896ac6c3a"'
+    repoEtag: W/"5ab097d2fec6cc3e9c678723104c76f0126acac70bd29cb449e319a504b720da"
+    releasesEtag: '"fe68fc8db0e297396a5826cd51b686f8bdb6f6aaa8dec163abdd3f6eb97d8d4a"'
 discovery:
   method: 'fork-network:ps2dev/ps2sdk'
   confidence: 100

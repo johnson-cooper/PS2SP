@@ -1,7 +1,9 @@
 ---
 name: ps2
 slug: ps2-astenciledbee
-summary: "PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation frontend support on PS2."
+summary: >-
+  PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation
+  frontend support on PS2.
 categories:
   - emulators
   - ports
@@ -30,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T00:31:25.632Z'
+  lastSynchronized: '2026-10-06T00:50:08.573Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4fe4db2e7e176f4315649703ad668a49d8795e7991e57d453e1ae295323e3e05"
-    releasesEtag: '"f521e1d8b7f5d46abcb0e1c9cabd79b931fc80538f7519867e982eb896ac6c3a"'
+    repoEtag: W/"4e82ddc3ebc4a3d2463092543fdabc55abdd80f46a5f60ea5f14be88097411a8"
+    releasesEtag: '"fe68fc8db0e297396a5826cd51b686f8bdb6f6aaa8dec163abdd3f6eb97d8d4a"'
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 95

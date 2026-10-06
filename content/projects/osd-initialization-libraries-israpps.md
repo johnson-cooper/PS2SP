@@ -1,7 +1,9 @@
 ---
 name: OSD-Initialization-Libraries
 slug: osd-initialization-libraries-israpps
-summary: "Reverse-engineered Sony OSD initialization libraries used to build custom dashboards and browser replacements on PS2."
+summary: >-
+  Reverse-engineered Sony OSD initialization libraries used to build custom
+  dashboards and browser replacements on PS2.
 categories:
   - libraries
   - dashboards
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T00:31:19.261Z'
+  lastSynchronized: '2026-10-06T00:50:01.814Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a09cf0120a7693fc9a85be8d35100fd857de9e9dd314676b8cb2be3a1572526e"
-    releasesEtag: '"f521e1d8b7f5d46abcb0e1c9cabd79b931fc80538f7519867e982eb896ac6c3a"'
+    repoEtag: W/"9adb9d3569e632825a6b449aa6ad586941eff7b26e90d4882d5a52d86c2a20b8"
+    releasesEtag: '"fe68fc8db0e297396a5826cd51b686f8bdb6f6aaa8dec163abdd3f6eb97d8d4a"'
 discovery:
   method: 'fork-network:ps2homebrew/OSD-Initialization-Libraries'
   confidence: 95

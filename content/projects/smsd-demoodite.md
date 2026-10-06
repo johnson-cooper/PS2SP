@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T14:55:33.658Z'
+  lastSynchronized: '2026-10-06T00:50:29.394Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f7c5e8ddd38ce29655823c5dae6200914d20596041cb0112f5257b72a28cd217"
+    releasesEtag: '"fe68fc8db0e297396a5826cd51b686f8bdb6f6aaa8dec163abdd3f6eb97d8d4a"'
 discovery:
   method: 'fork-network:ps2homebrew/SMS'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: ps2homebrew/SMS
   source: ps2homebrew/SMS
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
