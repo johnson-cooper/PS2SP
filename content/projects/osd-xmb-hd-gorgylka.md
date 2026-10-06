@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2025-11-28T10:46:11Z'
   url: 'https://github.com/GorGylka/OSD-XMB-HD/releases/tag/3'
 activity:
-  lastSynchronized: '2026-10-01T15:00:56.456Z'
+  lastSynchronized: '2026-10-06T07:35:36.908Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"16fd7bb0a9cf89cd9059bd6dd96d3ce4fb9a2d9d5627321ed14eaa12ccccf138"
+    releasesEtag: W/"c524d95cdd622b5e660b1b22ddd6e8983c1f4cdacccdfc10f9a73ad68c620aa3"
 discovery:
   method: 'fork-network:HiroTex/OSD-XMB'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: HiroTex/OSD-XMB
   source: HiroTex/OSD-XMB
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T05:46:50.003Z'
+  lastSynchronized: '2026-10-06T07:36:01.971Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"67e0667a6360416548cafd9be3325c3e364cf108b472e2bd08dceef361f3c2e7"
+    releasesEtag: '"fda0faeeded81ec1ec657e529388474a4dc17fc4cffc29d4d1c5424a71c977c0"'
 discovery:
   method: 'fork-network:toolboc/psx-pi-smbshare'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: toolboc/psx-pi-smbshare
   source: toolboc/psx-pi-smbshare
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T15:00:56.456Z'
+  lastSynchronized: '2026-10-06T07:35:39.587Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"17f4eed75566a09b1381f83b16e740b8a666ea045dbc63bda2c9c1ba4c3e9fda"
+    releasesEtag: '"fda0faeeded81ec1ec657e529388474a4dc17fc4cffc29d4d1c5424a71c977c0"'
 discovery:
   method: 'fork-network:aap/osdbits'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: aap/osdbits
   source: aap/osdbits
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

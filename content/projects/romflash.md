@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2025-04-28T15:39:14Z'
   url: 'https://github.com/ps2dbg/romflash/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-06T07:36:05.675Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"354b7e96a7875c7714555d1cf5e285c5ed001e287b000868fe5048c7ad50b175"
+    releasesEtag: W/"eb9b0c8b3881d255f677aa09102a2fd219d47f3e2b8404bae7bc43c1d8c4987f"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -41,5 +44,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

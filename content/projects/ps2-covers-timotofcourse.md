@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T22:00:19.221Z'
+  lastSynchronized: '2026-10-06T07:35:47.965Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d2023bdf156411e82f7163403a98289ca9acb5bed626d4828e0168ae07e91d48"
+    releasesEtag: '"fda0faeeded81ec1ec657e529388474a4dc17fc4cffc29d4d1c5424a71c977c0"'
 discovery:
   method: 'fork-network:xlenore/ps2-covers'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: xlenore/ps2-covers
   source: xlenore/ps2-covers
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

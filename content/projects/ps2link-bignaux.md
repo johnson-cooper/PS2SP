@@ -1,7 +1,9 @@
 ---
 name: ps2link
 slug: ps2link-bignaux
-summary: "PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP from host development tools like ps2client."
+summary: >-
+  PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP
+  from host development tools like ps2client.
 categories:
   - networking
   - development
@@ -32,9 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:58:32.409Z'
+  lastSynchronized: '2026-10-06T07:35:55.476Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e2432a787419e1e65b8cfd1f23dfaddbd51030498244687200793a8d74d71a54"
+    releasesEtag: '"fda0faeeded81ec1ec657e529388474a4dc17fc4cffc29d4d1c5424a71c977c0"'
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100
@@ -50,5 +55,4 @@ relationships:
   forkOf: ps2dev/ps2link
   source: ps2dev/ps2link
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

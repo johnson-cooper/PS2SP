@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:17:04.836Z'
+  lastSynchronized: '2026-10-06T07:35:27.643Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1e488660eb28bf181160e2e1c233de35c4c19832f24ec06a752f84dc36810dd4"
+    releasesEtag: '"fda0faeeded81ec1ec657e529388474a4dc17fc4cffc29d4d1c5424a71c977c0"'
 discovery:
   method: 'fork-network:ps2dev/mymc'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: ps2dev/mymc
   source: ps2dev/mymc
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

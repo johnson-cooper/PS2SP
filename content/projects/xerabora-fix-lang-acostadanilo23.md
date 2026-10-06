@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T22:26:09.550Z'
+  lastSynchronized: '2026-10-06T07:36:10.726Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a48a53004019bc659785a67fe887aa3ac7dc9f38bb08a77269c60b1eb083bf8c"
+    releasesEtag: '"fda0faeeded81ec1ec657e529388474a4dc17fc4cffc29d4d1c5424a71c977c0"'
 discovery:
   method: 'fork-network:hacan359/xerabora'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: hacan359/xerabora
   source: hacan359/xerabora
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

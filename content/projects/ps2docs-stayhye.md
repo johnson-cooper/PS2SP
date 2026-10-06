@@ -1,7 +1,9 @@
 ---
 name: PS2Docs
 slug: ps2docs-stayhye
-summary: "Community documentation and hardware reference manual archives for the PlayStation 2 and Emotion Engine architecture."
+summary: >-
+  Community documentation and hardware reference manual archives for the
+  PlayStation 2 and Emotion Engine architecture.
 categories:
   - preservation
   - development
@@ -28,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:58:32.409Z'
+  lastSynchronized: '2026-10-06T07:35:53.728Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0cc3bc4617415376881e1f513d640c2cddae4a1861126710fa0fd35f2a5ca886"
+    releasesEtag: '"fda0faeeded81ec1ec657e529388474a4dc17fc4cffc29d4d1c5424a71c977c0"'
 discovery:
   method: 'fork-network:ninjadynamics/PS2Docs'
   confidence: 95
@@ -45,5 +50,4 @@ relationships:
   forkOf: ninjadynamics/PS2Docs
   source: ninjadynamics/PS2Docs
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

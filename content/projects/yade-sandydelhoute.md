@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T01:00:16.356Z'
+  lastSynchronized: '2026-10-06T07:36:12.669Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4cf7916ae985b3233275dd573df7cef6d8f846b63270ba70908c2857bbe1edfe"
+    releasesEtag: '"fda0faeeded81ec1ec657e529388474a4dc17fc4cffc29d4d1c5424a71c977c0"'
 discovery:
   method: 'fork-network:MFDGaming/YADE'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: MFDGaming/YADE
   source: MFDGaming/YADE
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

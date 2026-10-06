@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T10:27:58.408Z'
+  lastSynchronized: '2026-10-06T07:35:23.410Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1957167b9d3de99c302d133afaaefee3eca2dbf818aeef2d529fc03593ff76bf"
+    releasesEtag: '"fda0faeeded81ec1ec657e529388474a4dc17fc4cffc29d4d1c5424a71c977c0"'
 discovery:
   method: 'fork-network:allkern/iris'
   confidence: 100
@@ -45,5 +48,4 @@ relationships:
   forkOf: allkern/iris
   source: allkern/iris
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

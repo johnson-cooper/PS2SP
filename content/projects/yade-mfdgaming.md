@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2026-03-06T07:36:20Z'
   url: 'https://github.com/MFDGaming/YADE/releases/tag/v1.0.7'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-06T07:36:12.176Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e1bb5d598517146d952a6513951539e841444592987dc07bdf187fe7e874a407"
+    releasesEtag: W/"1926170c5e8266f09fc39cd07a8a7f5eacfc62e93a95a651b1e4b72aac6ea881"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -43,5 +46,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

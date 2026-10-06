@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T10:27:58.408Z'
+  lastSynchronized: '2026-10-06T07:35:21.970Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d090427cffdc1c680591fbad8696247503da6b0cd6144f21ec02420c75bee4f1"
+    releasesEtag: '"fda0faeeded81ec1ec657e529388474a4dc17fc4cffc29d4d1c5424a71c977c0"'
 discovery:
   method: 'fork-network:ps2homebrew/hdl-dump'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: ps2homebrew/hdl-dump
   source: ps2homebrew/hdl-dump
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

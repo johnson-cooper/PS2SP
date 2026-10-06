@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T01:49:16.953Z'
+  lastSynchronized: '2026-10-06T07:35:48.747Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"37d2b505205433062fafeb9aa460cddabc7ba3c0089e82d3aee199f8b7aa4597"
+    releasesEtag: '"fda0faeeded81ec1ec657e529388474a4dc17fc4cffc29d4d1c5424a71c977c0"'
 discovery:
   method: 'fork-network:sammwyy/ps2-homebrew-sample'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: sammwyy/ps2-homebrew-sample
   source: sammwyy/ps2-homebrew-sample
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
