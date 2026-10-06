@@ -643,18 +643,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm": 1
   },
   "lastRun": {
-    "at": "2026-10-05T23:38:33.604Z",
+    "at": "2026-10-06T04:31:26.036Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 136,
-    "branchesChanged": 4,
-    "treesScanned": 4,
+    "branchesSeen": 20,
+    "branchesChanged": 0,
+    "treesScanned": 0,
     "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 1,
+    "branchesAdded": 0,
     "nestedAdded": 0,
-    "requests": 87,
+    "requests": 77,
     "stoppedForBudget": false
   },
-  "queueCursor": 4
+  "queueCursor": 24
 }
