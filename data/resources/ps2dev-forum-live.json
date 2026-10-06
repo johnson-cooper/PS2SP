@@ -3760,8 +3760,68 @@
         ]
       },
       {
+        "name": "PS2Dev Forums — Syscalls list",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9720",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Mon Jan 28, 2008 8:04 am",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9716",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — ERL files ?? and more newbie questions",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9708",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
         "name": "PS2Dev Forums — An Introduction to PS2DEV",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=9678",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Running Multiple Threads Help",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9649",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Can an ELF launcher do this...?",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9647",
         "keywords": [
           "PS2",
           "PlayStation 2",
@@ -3784,8 +3844,56 @@
         ]
       },
       {
+        "name": "PS2Dev Forums — Help - Geting Started",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9635",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Sun Jan 06, 2008 3:14 am",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9598",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Networking and Compiling(with Cygwin) problems",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9589",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
         "name": "PS2Dev Forums — apascan - Handy tool for Linux",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=9563",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Need help to start",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9555",
         "keywords": [
           "PS2",
           "PlayStation 2",
@@ -3808,6 +3916,30 @@
         ]
       },
       {
+        "name": "PS2Dev Forums — Some questions about tlb",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9505",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Framebuffer",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9483",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
         "name": "PS2Dev Forums — PS2 under Cygwin",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=9463",
         "keywords": [
@@ -3820,8 +3952,68 @@
         ]
       },
       {
+        "name": "PS2Dev Forums — Trying to Use PS2 as a MIDI triggered Visualizer",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9413",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Small ps2link fix",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9412",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
         "name": "PS2Dev Forums — SDL and thread support",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=9411",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Newbie help dumping bios",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9408",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — PS2 debugger",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9389",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — H.264 decoder on PS2",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9388",
         "keywords": [
           "PS2",
           "PlayStation 2",
@@ -3856,6 +4048,258 @@
         ]
       },
       {
+        "name": "PS2Dev Forums — No output file?",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9311",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Is there a ready to use homebrew SDK for PS2?",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9310",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — fread is not working properly?",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9296",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Problems with reads in no-wait RPC calls",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9276",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Issues concerning PS2SDK",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9262",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — swap magic 3.6plus work on scph-75001??",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9239",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Questions about mips asm/inline asm and other stuff",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9237",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Using frame buffer as a texture",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9212",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — PS2 Robot, anybody?",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9209",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Network issues",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9204",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Yet another thread on linux...",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9180",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — USB Memory-Stick",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9158",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Movies Online",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9157",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Newbie Help Urgent !",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9123",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Sat Oct 06, 2007 12:06 am",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9095",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — HDD and SMS Player",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9059",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — I'm considering developing on PS2, but need more infos",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9021",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Glitches in gsKit font display",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9012",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Hybrid disc and isoloader",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9006",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — scph-50002 Disc Read Error",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9005",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Amigamod 1.1",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=9003",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
         "name": "PS2Dev Forums — gsKit fontm problem and broken arial.fnt",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=8952",
         "keywords": [
@@ -3868,8 +4312,116 @@
         ]
       },
       {
+        "name": "PS2Dev Forums — Problem with z buffer",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=8944",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Start up question",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=8913",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Detect game title being played?",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=8880",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — PS2SDK updates and additions",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=8872",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
         "name": "PS2Dev Forums — Loading an ELF file above 0x80000000",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=8860",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Sat Aug 25, 2007 1:19 am",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=8842",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — How Do I Get Homebrew on PS2?",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=8827",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — gsKit png/dat font support",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=8825",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — EE serial port on 7900x",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=8815",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — About Linux on ps2",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=8725",
         "keywords": [
           "PS2",
           "PlayStation 2",
@@ -3942,6 +4494,18 @@
       {
         "name": "PS2Dev Forums — Executable files packer test",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=7870",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Xlink and PS2Link problems",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=7793",
         "keywords": [
           "PS2",
           "PlayStation 2",
@@ -4038,6 +4602,18 @@
       {
         "name": "PS2Dev Forums — PS2Link extra config",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=5037",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — trying to compile launchelf",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=4542",
         "keywords": [
           "PS2",
           "PlayStation 2",
@@ -4156,8 +4732,32 @@
         ]
       },
       {
+        "name": "PS2Dev Forums — PS2 BootAdvance",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=1209",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
         "name": "PS2Dev Forums — linking with calloc",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=1125",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — What needs to be done to make TGE happen ?",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=760",
         "keywords": [
           "PS2",
           "PlayStation 2",
