@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T20:46:14.555Z'
+  lastSynchronized: '2026-10-06T20:21:45.242Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c6f7d9912f4dfaae32a4a0c7b95f9ff275a29677b0f16e3355386d18ccae635a"
-    releasesEtag: '"ada49b6b807e93177c0d32f27098e7708d0c5756c8bde55ace7056d090b979e9"'
+    repoEtag: W/"879b038ce263691638b2fccc3648b8748c3c5810e4fe17b910fe65a034308071"
+    releasesEtag: '"624cf56eb0a8ff9c4ff3a4dfbff7e41d3f50ef2329c064c77f53b5250d4ff688"'
 discovery:
   method: 'fork-network:ps2dev/ps2-packer'
   confidence: 100

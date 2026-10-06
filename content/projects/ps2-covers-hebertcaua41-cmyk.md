@@ -1,7 +1,9 @@
 ---
 name: ps2-covers
 slug: ps2-covers-hebertcaua41-cmyk
-summary: "Community collection of PlayStation 2 3D and 2D box art covers formatted for Open PS2 Loader (OPL) and PCSX2."
+summary: >-
+  Community collection of PlayStation 2 3D and 2D box art covers formatted for
+  Open PS2 Loader (OPL) and PCSX2.
 categories:
   - themes
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T20:46:09.846Z'
+  lastSynchronized: '2026-10-06T20:21:41.048Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9659a97c322d2ba85724ebd9af70483ed92a356a5ed66a3bf6ddfb36afc4e82c"
-    releasesEtag: '"ada49b6b807e93177c0d32f27098e7708d0c5756c8bde55ace7056d090b979e9"'
+    repoEtag: W/"717624ce9ad7ec42fc8ce3ca55a08b83614212787128004008ba6b2cf52975b0"
+    releasesEtag: '"624cf56eb0a8ff9c4ff3a4dfbff7e41d3f50ef2329c064c77f53b5250d4ff688"'
 discovery:
   method: 'fork-network:xlenore/ps2-covers'
   confidence: 100

@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T18:50:06.212Z'
+  lastSynchronized: '2026-10-06T20:22:01.432Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"46aee3a5d4cdf9c30c9aed7ddb21b696b9153edec405f1049d1a2f0688ad3e63"
+    releasesEtag: '"624cf56eb0a8ff9c4ff3a4dfbff7e41d3f50ef2329c064c77f53b5250d4ff688"'
 discovery:
   method: 'fork-network:grimdoomer/TonyHawksProStrcpy'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: grimdoomer/TonyHawksProStrcpy
   source: grimdoomer/TonyHawksProStrcpy
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

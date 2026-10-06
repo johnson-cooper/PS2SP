@@ -1,7 +1,9 @@
 ---
 name: Fceumm-PS2coverflow
 slug: fceumm-ps2coverflow-wallmasterr
-summary: "PlayStation 2 port of the FCEUmm NES and Famicom emulator with support for USB storage, hard drives, and memory cards."
+summary: >-
+  PlayStation 2 port of the FCEUmm NES and Famicom emulator with support for USB
+  storage, hard drives, and memory cards.
 categories:
   - emulators
 tags:
@@ -30,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T20:45:37.760Z'
+  lastSynchronized: '2026-10-06T20:21:08.618Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"27527f1e9d7c96ec54b4de66a211963e85cf06d659e3910e4e318ac9b1ad1007"
-    releasesEtag: '"ada49b6b807e93177c0d32f27098e7708d0c5756c8bde55ace7056d090b979e9"'
+    repoEtag: W/"a8412b6027257ca4ebb78c46508420cb46d6b4b5e6f9b46d08a338d99ad9e78c"
+    releasesEtag: '"624cf56eb0a8ff9c4ff3a4dfbff7e41d3f50ef2329c064c77f53b5250d4ff688"'
 discovery:
   method: 'fork-network:ps2homebrew/Fceumm-PS2'
   confidence: 95

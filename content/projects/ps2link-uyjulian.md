@@ -1,7 +1,9 @@
 ---
 name: ps2link
 slug: ps2link-uyjulian
-summary: "PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP from host development tools like ps2client."
+summary: >-
+  PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP
+  from host development tools like ps2client.
 categories:
   - networking
   - development
@@ -32,12 +34,12 @@ latestRelease:
   publishedAt: '2026-05-13T15:20:22Z'
   url: 'https://github.com/uyjulian/ps2link/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-02T20:46:19.039Z'
+  lastSynchronized: '2026-10-06T20:21:49.505Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8eaee68ef60ff883b05ad394734fcb7a775cb434e920b56dff0269fb1d727b34"
-    releasesEtag: W/"2b90cafd90b652328a71b9e9423cd96090d72a29a41fb6e9a2ff930d7806c210"
+    repoEtag: W/"75b441334f22c2a6e3f60d9ca63ebb61f422e75f9d12d8f02bb68f592ed1ec43"
+    releasesEtag: W/"e9f3d3ffaf342ba5780181ac26cc4043dfe9efab668b4367895566d9ea4c4209"
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100

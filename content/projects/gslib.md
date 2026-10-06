@@ -1,7 +1,9 @@
 ---
 name: gslib
 slug: gslib
-summary: "Graphics Synthesizer 2D and 3D interface and drawing library for PlayStation 2."
+summary: >-
+  Graphics Synthesizer 2D and 3D interface and drawing library for PlayStation
+  2.
 categories:
   - libraries
   - development
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T20:45:40.973Z'
+  lastSynchronized: '2026-10-06T20:21:13.941Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f239a5fd9d1e3a0f61378d91bed38eb1254e8580257d9d05ecf471d4b0259bc3"
-    releasesEtag: '"ada49b6b807e93177c0d32f27098e7708d0c5756c8bde55ace7056d090b979e9"'
+    repoEtag: W/"356398ca05fa4a103119eae7c6e71f9ab3af25a54f1eec5ef1034fcf8f78de7c"
+    releasesEtag: '"624cf56eb0a8ff9c4ff3a4dfbff7e41d3f50ef2329c064c77f53b5250d4ff688"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 95

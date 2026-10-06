@@ -31,16 +31,19 @@ repository:
   defaultBranch: feat/mmce-smb-autolaunch
   stars: 0
   forks: 0
-  lastCommit: '2026-09-29T20:37:54Z'
+  lastCommit: '2026-10-06T19:29:05Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: rolling
+  name: Rolling
+  publishedAt: '2026-10-06T03:43:11Z'
+  url: 'https://github.com/higorhgon/Open-PS2-Loader/releases/tag/rolling'
 activity:
-  lastSynchronized: '2026-10-03T10:40:07.412Z'
+  lastSynchronized: '2026-10-06T20:21:28.182Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0e4dd89fd130a89f9ccb68ad56ef404b64f601fea9d088890af4e1068bd90bcd"
+    releasesEtag: W/"f384d46d56c393993329c226ded50534b32a4ded03c3eaee4b7c01c34e1af02b"
 discovery:
   method: 'fork-network:NathanNeurotic/Open-PS2-Loader'
   confidence: 100
@@ -56,5 +59,4 @@ relationships:
   forkOf: NathanNeurotic/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

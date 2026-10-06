@@ -21,19 +21,19 @@ repository:
   defaultBranch: osdhub
   stars: 1
   forks: 0
-  lastCommit: '2026-10-01T02:35:49Z'
+  lastCommit: '2026-10-06T19:27:54Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: osdhub-2026.10.06
+  name: OSDHub 2026.10.06
+  publishedAt: '2026-10-06T19:27:54Z'
+  url: 'https://github.com/higorhgon/OSDMenu/releases/tag/osdhub-2026.10.06'
 activity:
-  lastSynchronized: '2026-10-02T20:46:00.475Z'
+  lastSynchronized: '2026-10-06T20:21:32.516Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4bb2080d0107acb61bcac3c37560f103d33a1ff79e4fd8e9362508a07c0bf190"
-    releasesEtag: '"ada49b6b807e93177c0d32f27098e7708d0c5756c8bde55ace7056d090b979e9"'
+    repoEtag: W/"96bff53cae0a435f9b815ab62879a10c54fed43703102244da66b9bee7ce5618"
+    releasesEtag: W/"e6baf6723e8fe50086e2346de94d389dbc6a6bdb5f9abe54ed2933e9eee58420"
 discovery:
   method: 'fork-network:pcm720/OSDMenu'
   confidence: 95

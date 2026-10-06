@@ -21,10 +21,10 @@ source:
   url: 'https://github.com/coolermaxx-hub/parappa2AISLOP'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-05T05:51:30Z'
 latestRelease:
   tag: null
   name: null
@@ -32,8 +32,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-04T01:00:16.356Z'
+  lastSynchronized: '2026-10-06T20:21:32.984Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"21c3cbcd9d826fe3f4539da71da0a69522797c9e0a189655df76f1ebaf606212"
+    releasesEtag: '"624cf56eb0a8ff9c4ff3a4dfbff7e41d3f50ef2329c064c77f53b5250d4ff688"'
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -49,5 +53,4 @@ relationships:
   forkOf: parappadev/parappa2
   source: parappadev/parappa2
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

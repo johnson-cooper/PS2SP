@@ -1,7 +1,9 @@
 ---
 name: ps2
 slug: ps2-cscd98
-summary: "PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation frontend support on PS2."
+summary: >-
+  PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation
+  frontend support on PS2.
 categories:
   - emulators
   - ports
@@ -30,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T20:46:12.461Z'
+  lastSynchronized: '2026-10-06T20:21:43.336Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1de6a4503a299e0e9c857f4bd9f7abb7580822421f475b1cd400a86559d570bb"
-    releasesEtag: '"ada49b6b807e93177c0d32f27098e7708d0c5756c8bde55ace7056d090b979e9"'
+    repoEtag: W/"b7b0ab83489d8be4a54653a8c41f007193a7afe7a5142869d91cd69f9bfaf365"
+    releasesEtag: '"624cf56eb0a8ff9c4ff3a4dfbff7e41d3f50ef2329c064c77f53b5250d4ff688"'
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 100

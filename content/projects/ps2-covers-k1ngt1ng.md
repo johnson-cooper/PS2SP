@@ -1,7 +1,9 @@
 ---
 name: ps2-covers
 slug: ps2-covers-k1ngt1ng
-summary: "Community collection of PlayStation 2 3D and 2D box art covers formatted for Open PS2 Loader (OPL) and PCSX2."
+summary: >-
+  Community collection of PlayStation 2 3D and 2D box art covers formatted for
+  Open PS2 Loader (OPL) and PCSX2.
 categories:
   - themes
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T20:46:10.888Z'
+  lastSynchronized: '2026-10-06T20:21:41.990Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"55fac8227b3ba1ca2ea8605ed130df4c3402e80ea055ee60956b793d6190337c"
-    releasesEtag: '"ada49b6b807e93177c0d32f27098e7708d0c5756c8bde55ace7056d090b979e9"'
+    repoEtag: W/"5b02662b4fe5f48b87b678d28d2b684499592626c40aece09092178bde83b161"
+    releasesEtag: '"624cf56eb0a8ff9c4ff3a4dfbff7e41d3f50ef2329c064c77f53b5250d4ff688"'
 discovery:
   method: 'fork-network:xlenore/ps2-covers'
   confidence: 100
