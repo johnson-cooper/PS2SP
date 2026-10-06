@@ -652,18 +652,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/vcl": 1
   },
   "lastRun": {
-    "at": "2026-10-06T11:42:54.559Z",
+    "at": "2026-10-06T17:48:57.736Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 124,
-    "branchesChanged": 3,
-    "treesScanned": 3,
-    "reposAdded": 1,
+    "branchesSeen": 25,
+    "branchesChanged": 0,
+    "treesScanned": 0,
+    "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 1,
-    "nestedAdded": 1,
-    "requests": 86,
+    "branchesAdded": 0,
+    "nestedAdded": 0,
+    "requests": 77,
     "stoppedForBudget": false
   },
-  "queueCursor": 7
+  "queueCursor": 27
 }
