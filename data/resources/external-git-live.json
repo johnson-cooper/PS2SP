@@ -486,6 +486,20 @@
         ]
       },
       {
+        "name": "PS2BUILD SDK — ps2/vcl",
+        "url": "https://git.techwritescode.dev/ps2/vcl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/vcl",
+          "Go"
+        ]
+      },
+      {
         "name": "PS2BUILD SDK — ps2/vorbis",
         "url": "https://git.techwritescode.dev/ps2/vorbis",
         "keywords": [
@@ -4661,6 +4675,18 @@
           "external Git",
           "branch",
           "ps2/tools",
+          "main"
+        ]
+      },
+      {
+        "name": "ps2/vcl — branch: main",
+        "url": "https://git.techwritescode.dev/ps2/vcl/src/branch/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/vcl",
           "main"
         ]
       },
@@ -17912,6 +17938,20 @@
           "ps2/tools",
           "main",
           "stub"
+        ]
+      },
+      {
+        "name": "ps2/vcl@main — oracle",
+        "url": "https://git.techwritescode.dev/ps2/vcl/src/branch/main/oracle",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/vcl",
+          "main",
+          "oracle"
         ]
       },
       {

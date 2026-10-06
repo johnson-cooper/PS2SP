@@ -216,6 +216,12 @@
       "webBase": "https://git.techwritescode.dev",
       "label": "PS2BUILD SDK",
       "repository": "ps2/openvcl"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/vcl"
     }
   ],
   "branchHeads": {
@@ -374,7 +380,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@remove-claude-md": "1fe1a05395eac2d8c8f44c699ed6cf39bc8acfc8",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@lwip-upgrade": "f42906f249f380ff746d057c00fece69c86cd060",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@llvm": "b4b46628a84ccb7d3bf542286feccf59828f9eda",
-    "https://git.techwritescode.dev/api/v1|ps2/tools@main": "8bd85de96815bd01c0a7d7c3889b54915b9184e0",
+    "https://git.techwritescode.dev/api/v1|ps2/tools@main": "cb6d2b078d380af9c4175f405af95b3fac6b81b6",
     "https://git.techwritescode.dev/api/v1|ps2/audsrv@main": "3ce3508445a487573a9995908d2607b8f4d370c8",
     "https://git.techwritescode.dev/api/v1|ps2/ps2gl@master": "31d3c61b168bb675e8a7aeca75464f81e64a40db",
     "https://git.techwritescode.dev/api/v1|ps2/ps2stuff@master": "6b2b0c06a5a7c32fbb3c03c292cacb82a7b3a569",
@@ -560,11 +566,12 @@
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-98-llvm-compat": "a00c8255dfe9958553baa41a5f18a546d94208bf",
     "https://git.techwritescode.dev/api/v1|ps2/llvm@r5900-ee": "a8e9761d51a02bab593b688049f0f13c4d8dee4d",
     "https://git.techwritescode.dev/api/v1|ps2/llvm@main": "fa360c3b8dbfd8a449364b7a6e454878bcf00eb9",
-    "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain@main": "11ded7f655b46a6a8252a8508c502355b34f099e",
+    "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain@main": "836a3897ae39b0b0087214a33d91317b715fc81f",
     "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm@ee-v4.6.0-llvm": "bf8b96af8b38743654c5ce15c4c45e5771fc2690",
     "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm@ee-v4.6.0": "58fb6406408a541e0c826f47487315b485d4db56",
     "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain@ci-exec-bits": "c0a7170a685999b503b62239903ae883954e347d",
-    "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain@llvm-linux-runner": "836a3897ae39b0b0087214a33d91317b715fc81f"
+    "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain@llvm-linux-runner": "836a3897ae39b0b0087214a33d91317b715fc81f",
+    "https://git.techwritescode.dev/api/v1|ps2/vcl@main": "901abdacc469552c673714f933565a052419da44"
   },
   "branchPage": {
     "https://git.techwritescode.dev/api/v1|ps2/ps2build": 2,
@@ -573,7 +580,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/toolchain": 2,
     "https://git.techwritescode.dev/api/v1|ps2/masp": 2,
     "https://git.techwritescode.dev/api/v1|ps2/openvcl": 2,
-    "https://git.techwritescode.dev/api/v1|ps2/newlib": 6,
+    "https://git.techwritescode.dev/api/v1|ps2/newlib": 2,
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded": 2,
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core": 2,
     "https://git.techwritescode.dev/api/v1|ps2/tools": 2,
@@ -602,7 +609,8 @@
     "https://git.wisellama.rocks/api/v1|Mirrors/Open-PS2-Loader": 2,
     "https://git.techwritescode.dev/api/v1|ps2/llvm": 2,
     "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain": 2,
-    "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm": 2
+    "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm": 2,
+    "https://git.techwritescode.dev/api/v1|ps2/vcl": 2
   },
   "forkPage": {
     "https://git.techwritescode.dev/api/v1|ps2/ps2build": 1,
@@ -640,21 +648,22 @@
     "https://git.wisellama.rocks/api/v1|Mirrors/Open-PS2-Loader": 1,
     "https://git.techwritescode.dev/api/v1|ps2/llvm": 1,
     "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain": 1,
-    "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm": 1
+    "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm": 1,
+    "https://git.techwritescode.dev/api/v1|ps2/vcl": 1
   },
   "lastRun": {
-    "at": "2026-10-06T04:31:26.036Z",
+    "at": "2026-10-06T11:42:54.559Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 20,
-    "branchesChanged": 0,
-    "treesScanned": 0,
-    "reposAdded": 0,
+    "branchesSeen": 124,
+    "branchesChanged": 3,
+    "treesScanned": 3,
+    "reposAdded": 1,
     "forksAdded": 0,
-    "branchesAdded": 0,
-    "nestedAdded": 0,
-    "requests": 77,
+    "branchesAdded": 1,
+    "nestedAdded": 1,
+    "requests": 86,
     "stoppedForBudget": false
   },
-  "queueCursor": 24
+  "queueCursor": 7
 }
