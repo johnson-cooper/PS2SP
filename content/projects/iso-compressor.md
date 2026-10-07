@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/wako69420/iso-compressor/releases/tag/v1.4.3'
 activity:
   lastChecked: '2026-09-29T09:05:43.442Z'
-  lastSynchronized: '2026-10-06T07:35:23.894Z'
+  lastSynchronized: '2026-10-07T07:15:23.613Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7ed5a784d61750147f570e98e99886d6cc8b45a3c7a2773866af7a82a16feb6c"
-    releasesEtag: W/"279c5bcb44fcc15a46bcbabd05abc8cc489c523fdf08499893b9a3d8d14a1c22"
+    repoEtag: W/"c11735e0912a650e6493a0c6e0d7d55c983012f00bbc82fc734944a7734c8804"
+    releasesEtag: W/"0ece504b3442b603b5f6aef499e8db7022217b887557dfa30adb74157021e5bb"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

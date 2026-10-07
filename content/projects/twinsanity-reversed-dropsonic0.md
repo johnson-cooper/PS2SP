@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-07T01:48:56.704Z'
+  lastSynchronized: '2026-10-07T07:16:33.860Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"53ced681b6671e1c7878629cab259db523388335739c84a9adcd7fbb2355e090"
+    releasesEtag: '"5ba9417b6cb8fc0d2c14c7a833046e8092aa536b94d6db887fbc3e67ec2e1f04"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: Smartkin/twinsanity-reversed
   source: Smartkin/twinsanity-reversed
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

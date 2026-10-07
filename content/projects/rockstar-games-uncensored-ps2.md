@@ -27,12 +27,12 @@ latestRelease:
   url: >-
     https://github.com/GDX-X/Rockstar-Games-Uncensored-PS2/releases/tag/Uncensored
 activity:
-  lastSynchronized: '2026-10-06T07:36:05.135Z'
+  lastSynchronized: '2026-10-07T07:16:28.184Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2d1cd05ed9f32b342c004f9f5467c5cf308113300ec51e6c472affb6ecdfa81d"
-    releasesEtag: W/"8bfea390a5bc4f6aab2aeecb34c3dc217456953e81e6bb5ea1ca2b716deb1959"
+    repoEtag: W/"32a7a85bae8bb272fc560efb5285fb8cb6f49c1d4e25706cd1cd18a398ac034a"
+    releasesEtag: W/"3e3025617481fdf047249cedbe62f0d0482d981bfec38efaa1deb766fe286608"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100
