@@ -1,7 +1,9 @@
 ---
 name: Double-Unofficial-Open-PS2-Loader-lang
 slug: double-unofficial-open-ps2-loader-lang-oldman63
-summary: "Community translation files and localization language packs for Unofficial Open PS2 Loader (wOPL)."
+summary: >-
+  Community translation files and localization language packs for Unofficial
+  Open PS2 Loader (wOPL).
 categories:
   - loaders
   - utilities
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:31:43.165Z'
+  lastSynchronized: '2026-10-07T14:33:54.967Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"37853ca430bf756fa0c4bf8bd899ddd82dd9d36b928114495b15035bec5e1a55"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"22a13153c5510cfb28f90ab816545723c76fb94ba88a2d2d76dd322b3f28c05f"
+    releasesEtag: '"a8b72fc23874e1701b2920e2e37cd2ca4913fb4b114fa3cba3efba72e700fa11"'
 discovery:
   method: 'fork-network:ps2homebrew/Double-Unofficial-Open-PS2-Loader-lang'
   confidence: 95

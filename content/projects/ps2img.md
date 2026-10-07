@@ -1,7 +1,9 @@
 ---
 name: ps2img
 slug: ps2img
-summary: "Image processing and conversion library for PlayStation 2 graphics formats including TIM2."
+summary: >-
+  Image processing and conversion library for PlayStation 2 graphics formats
+  including TIM2.
 categories:
   - utilities
 tags:
@@ -26,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-09-29T04:57:53.380Z'
+  lastSynchronized: '2026-10-07T14:34:46.262Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2978ab115916d7196c083cce746f0a3983f67ad21b37f59fa96bff8ec90a7a15"
+    releasesEtag: '"a8b72fc23874e1701b2920e2e37cd2ca4913fb4b114fa3cba3efba72e700fa11"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100
@@ -39,5 +44,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

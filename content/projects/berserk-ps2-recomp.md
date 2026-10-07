@@ -1,7 +1,9 @@
 ---
 name: berserk-ps2-recomp
 slug: berserk-ps2-recomp
-summary: "Static recompilation and reverse engineering project for Berserk: Millennium Falcon Hen Seima Senki no Shou on PlayStation 2."
+summary: >-
+  Static recompilation and reverse engineering project for Berserk: Millennium
+  Falcon Hen Seima Senki no Shou on PlayStation 2.
 categories:
   - preservation
   - development
@@ -21,7 +23,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
   lastCommit: '2026-09-04T18:54:01Z'
 latestRelease:
@@ -31,12 +33,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-09-29T00:29:04.919Z'
-  lastSynchronized: '2026-10-01T03:31:10.300Z'
+  lastSynchronized: '2026-10-07T14:33:50.135Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"42c0894ad7b9d51ab98b7309f89b33e7fa2393473f26eef15fc321ef7c4ced4d"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"1a5e3b4ddcdaecc599ae2c44614d727a8a6c5ce06a7efff42e81fca85cb9aa41"
+    releasesEtag: '"a8b72fc23874e1701b2920e2e37cd2ca4913fb4b114fa3cba3efba72e700fa11"'
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 90

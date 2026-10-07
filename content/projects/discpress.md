@@ -26,20 +26,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-01T01:44:47Z'
+  lastCommit: '2026-10-06T00:14:08Z'
 latestRelease:
-  tag: v1.5.0
-  name: Discpress v1.5.0
-  publishedAt: '2026-10-01T00:23:18Z'
-  url: 'https://github.com/PowerBeef/discpress/releases/tag/v1.5.0'
+  tag: v1.8.0
+  name: Discpress v1.8.0
+  publishedAt: '2026-10-05T23:12:19Z'
+  url: 'https://github.com/PowerBeef/discpress/releases/tag/v1.8.0'
 activity:
   lastChecked: '2026-09-29T00:27:59.402Z'
-  lastSynchronized: '2026-10-01T03:31:35.129Z'
+  lastSynchronized: '2026-10-07T14:33:53.941Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cbb284372bff710533bd523d3bc6433a74c0e0c32426d456ce3384a651f654a0"
-    releasesEtag: W/"10f036437a2485e0f7ccbb69d60a456168ae670388f74f55dc88f8476abb06bd"
+    repoEtag: W/"d8fad8c62529c8c1fd572487df1c074c5d77c9ec719abfb4c2a85b0b43e57f19"
+    releasesEtag: W/"3a2751000b274d7f2ab68a36ab5c6394cff2654c639a35ee57c70c24a585f6bd"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 85

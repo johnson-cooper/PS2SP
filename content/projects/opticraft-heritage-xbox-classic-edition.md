@@ -1,7 +1,9 @@
 ---
 name: OptiCraft-Heritage-XBOX-CLASSIC-Edition
 slug: opticraft-heritage-xbox-classic-edition
-summary: "Minecraft clone optimized for retro consoles, ported from the OptiCraft codebase."
+summary: >-
+  Minecraft clone optimized for retro consoles, ported from the OptiCraft
+  codebase.
 categories:
   - games
   - ports
@@ -21,23 +23,23 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 3
+  stars: 5
   forks: 0
-  lastCommit: '2026-09-30T23:06:38Z'
+  lastCommit: '2026-10-04T14:03:23Z'
 latestRelease:
-  tag: xbox-v1.1
-  name: OptiCraft Heritage Edition — Xbox original v1.1
-  publishedAt: '2026-09-26T01:13:15Z'
+  tag: xbox-v1.2
+  name: OptiCraft Heritage Edition — Xbox original v1.2
+  publishedAt: '2026-10-04T14:03:23Z'
   url: >-
-    https://github.com/xeodeo/OptiCraft-Heritage-XBOX-CLASSIC-Edition/releases/tag/xbox-v1.1
+    https://github.com/xeodeo/OptiCraft-Heritage-XBOX-CLASSIC-Edition/releases/tag/xbox-v1.2
 activity:
   lastChecked: '2026-09-29T11:01:59.784Z'
-  lastSynchronized: '2026-10-01T03:33:15.463Z'
+  lastSynchronized: '2026-10-07T14:34:26.948Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1106ca3701256751d82d2dd18c77925eeb6b56b2c87ad4561608dc5da316b830"
-    releasesEtag: W/"5956147258bb263b83bb18bb7ae214748600df8ee66e5822370c31b073c5f6f0"
+    repoEtag: W/"b00709bdba4b2e52de868971b63a38028e25bd6332cccb4727505b9f5c13a19d"
+    releasesEtag: W/"ea60e2a3c881aa1ad122bcd0b29c32683496d8f3fee2d06352a11a2561d8afcb"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 75

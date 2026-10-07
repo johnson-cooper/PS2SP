@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T05:10:46.442Z'
+  lastSynchronized: '2026-10-07T14:34:02.985Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"51b7142b7b3202557d4757fce5690dc5387fc7b28ac256153daa53994a5cc449"
+    releasesEtag: '"a8b72fc23874e1701b2920e2e37cd2ca4913fb4b114fa3cba3efba72e700fa11"'
 discovery:
   method: 'fork-network:TnA-Plastic/FreeMcBoot'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: TnA-Plastic/FreeMcBoot
   source: TnA-Plastic/FreeMcBoot
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

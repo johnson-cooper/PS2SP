@@ -1,7 +1,9 @@
 ---
 name: ps2gdb
 slug: ps2gdb-fjtrujy
-summary: "Remote GDB debugging stub for PlayStation 2, enabling source-level debugging over serial or network connections."
+summary: >-
+  Remote GDB debugging stub for PlayStation 2, enabling source-level debugging
+  over serial or network connections.
 categories:
   - development
 tags:
@@ -29,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:58:32.409Z'
+  lastSynchronized: '2026-10-07T14:34:45.220Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4cb871308ddaa980fe6cdf93adcd8ec911d0de96b8a86256c3db0761ea68589b"
+    releasesEtag: '"a8b72fc23874e1701b2920e2e37cd2ca4913fb4b114fa3cba3efba72e700fa11"'
 discovery:
   method: 'fork-network:ps2dev/ps2gdb'
   confidence: 95
@@ -46,5 +51,4 @@ relationships:
   forkOf: ps2dev/ps2gdb
   source: ps2dev/ps2gdb
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

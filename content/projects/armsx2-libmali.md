@@ -17,7 +17,7 @@ license: null
 homepage: null
 source:
   provider: github
-  repository: bmdhacks/armsx2-libmali
+  repository: bmdhacks/malisx2
   repositoryId: '1396628888'
   url: 'https://github.com/bmdhacks/armsx2-libmali'
 repository:
@@ -25,20 +25,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-09-30T05:20:50Z'
+  lastCommit: '2026-10-07T10:59:41Z'
 latestRelease:
-  tag: v0.0.1
-  name: libmali 0.0.1
-  publishedAt: '2026-09-30T05:20:50Z'
-  url: 'https://github.com/bmdhacks/armsx2-libmali/releases/tag/v0.0.1'
+  tag: v0.1.1
+  name: malisx2 0.1.1
+  publishedAt: '2026-10-07T10:59:41Z'
+  url: 'https://github.com/bmdhacks/malisx2/releases/tag/v0.1.1'
 activity:
   lastChecked: '2026-09-30T16:31:42.278Z'
-  lastSynchronized: '2026-10-01T03:30:33.937Z'
+  lastSynchronized: '2026-10-07T14:33:47.565Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b6e933c060428f4f6cd0fce4825a4c29166003c62c59e8b7f9ba4eff99178e1c"
-    releasesEtag: W/"66a1979fb35f3788f3afab187d7b77a12e963c1589878e2ea4a6b108631a7a27"
+    repoEtag: W/"a18839396d1e2b5b6ceb48347e0ab843f4a50b0cd28b4a8b4f382b1c1e87e844"
+    releasesEtag: W/"cece2fc2ca90a94af75b0f6626da28b7db3e7ea4296a52be02dde6cceb07dc6f"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

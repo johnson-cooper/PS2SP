@@ -1,7 +1,9 @@
 ---
 name: opl-Title.cfg-maker
 slug: opl-title-cfg-maker
-summary: "Desktop tool for generating and editing title.cfg game metadata files for Open PS2 Loader."
+summary: >-
+  Desktop tool for generating and editing title.cfg game metadata files for Open
+  PS2 Loader.
 categories:
   - host-tools
   - utilities
@@ -28,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/israpps/opl-Title.cfg-maker/releases/tag/2.2.5-%7C-1.0.12.0
 activity:
-  lastSynchronized: '2026-10-01T03:33:12.959Z'
+  lastSynchronized: '2026-10-07T14:34:26.481Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7848a514d034de3b2ae6c59b2908f61228853bedbdb01f16a6aeecf0fa99185a"
-    releasesEtag: W/"4aca5287cff36643119470aae60f3b0c0fd741b4fd135b44b7b8a1a12b0b136a"
+    repoEtag: W/"58c589746aa30d9b01a8f65b4c3253d490fa4e838aae91cda139eec7ae4a3d77"
+    releasesEtag: W/"a48324e3b368baaa0f902f5e3811d3b81a57ba39e7e720b825618b90c49f1f0e"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2026-02-05T20:58:01Z'
   url: 'https://github.com/ottelo9/sd2psxtd/releases/tag/nightly'
 activity:
-  lastSynchronized: '2026-10-04T18:47:49.763Z'
+  lastSynchronized: '2026-10-07T14:34:57.817Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c4bfe3a3d6e971cca394c8d555fee933537f9f264d318678b8b79ea1f7500931"
+    releasesEtag: W/"631747dc8188578bd58a2e35e6a96d645a7b18366dc52b99ecd1c0102cab8fc3"
 discovery:
   method: 'fork-network:sd2psXtd/firmware'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: sd2psXtd/firmware
   source: sd2psx/firmware
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

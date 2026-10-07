@@ -1,7 +1,9 @@
 ---
 name: ps2
 slug: ps2-hunterk
-summary: "PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation frontend support on PS2."
+summary: >-
+  PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation
+  frontend support on PS2.
 categories:
   - emulators
   - ports
@@ -30,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T09:01:16.324Z'
+  lastSynchronized: '2026-10-07T14:34:38.807Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"08de9c3c18548649fb133252c0e2349be85c7fcb5cbaea7c46ee2fd8b32b51e9"
+    releasesEtag: '"a8b72fc23874e1701b2920e2e37cd2ca4913fb4b114fa3cba3efba72e700fa11"'
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 95
@@ -47,5 +52,4 @@ relationships:
   forkOf: libretro/ps2
   source: libretro/ps2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

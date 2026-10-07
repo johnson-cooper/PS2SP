@@ -1,7 +1,9 @@
 ---
 name: ps2-unpacker
 slug: ps2-unpacker-megabitmap
-summary: "Decompressor and unpacker for PlayStation 2 ELF files compressed with ps2-packer or UPX."
+summary: >-
+  Decompressor and unpacker for PlayStation 2 ELF files compressed with
+  ps2-packer or UPX.
 categories:
   - development
   - utilities
@@ -28,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T09:01:16.324Z'
+  lastSynchronized: '2026-10-07T14:34:41.433Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7b4bc5d540eb9439e4f74492ad573f8c60aec8bc197c624bd1d84dd58333332a"
+    releasesEtag: '"a8b72fc23874e1701b2920e2e37cd2ca4913fb4b114fa3cba3efba72e700fa11"'
 discovery:
   method: 'fork-network:ps2homebrew/ps2-unpacker'
   confidence: 95
@@ -45,5 +50,4 @@ relationships:
   forkOf: ps2homebrew/ps2-unpacker
   source: ps2homebrew/ps2-unpacker
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

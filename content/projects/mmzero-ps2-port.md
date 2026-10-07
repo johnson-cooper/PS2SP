@@ -1,7 +1,7 @@
 ---
 name: mmzero_ps2_port
 slug: mmzero-ps2-port
-summary: "Homebrew port of Mega Man Zero decompilation targeting the PlayStation 2."
+summary: Homebrew port of Mega Man Zero decompilation targeting the PlayStation 2.
 categories:
   - games
   - ports
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:32:33.369Z'
+  lastSynchronized: '2026-10-07T14:34:15.878Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"69980809fd68c61354e0e473ebae8b3b6c2da6375f6bbe8087a03695ecbf83a4"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"f5c8f8bb43b1e7e076d82a171bc88e8908f467e863812a9e6d6a406886a42645"
+    releasesEtag: '"a8b72fc23874e1701b2920e2e37cd2ca4913fb4b114fa3cba3efba72e700fa11"'
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

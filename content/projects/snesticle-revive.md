@@ -19,24 +19,24 @@ source:
   repository: ReyFxck/SNESticleRevive
   repositoryId: '1251724306'
 repository:
-  archived: false
+  archived: true
   defaultBranch: main
-  stars: 35
+  stars: 37
   forks: 9
-  lastCommit: '2026-09-29T01:42:10Z'
+  lastCommit: '2026-10-03T16:53:21Z'
 latestRelease:
-  tag: 1.1.0
-  name: 'SNESTICLE REVIVE 1.1.0 [STABLE]'
-  publishedAt: '2026-09-21T19:57:12Z'
-  url: 'https://github.com/ReyFxck/SNESticleRevive/releases/tag/1.1.0'
+  tag: 1.1.1
+  name: 'SNESTICLE REVIVE 1.1.1 [STABLE]'
+  publishedAt: '2026-10-03T02:26:21Z'
+  url: 'https://github.com/ReyFxck/SNESticleRevive/releases/tag/1.1.1'
 activity:
   lastChecked: '2026-09-29T00:27:15.092Z'
-  lastSynchronized: '2026-09-29T02:37:26.469Z'
+  lastSynchronized: '2026-10-07T14:34:58.312Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"be1b832987dee63faa2a2b6061447a071cd354aaad512188ce46fd10c4db943b"
-    releasesEtag: W/"20ade8a77df11c09d90c3e63847eb7cf2e6a8dd689cbfe247a4d36a1a9fad6ca"
+    repoEtag: W/"f256865f697e418a6bbdad30249c3b0d3e24f0435a4295f5cdb8aaba8d809618"
+    releasesEtag: W/"67e4c7897de4b8811330b2b56e05af8f5535473f378b3b446ce63e3d34993a43"
 discovery:
   method: curated
   confidence: 100

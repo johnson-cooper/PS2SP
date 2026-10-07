@@ -1,7 +1,9 @@
 ---
 name: ps2
 slug: ps2-warmenhoven
-summary: "PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation frontend support on PS2."
+summary: >-
+  PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation
+  frontend support on PS2.
 categories:
   - emulators
   - ports
@@ -23,16 +25,19 @@ repository:
   defaultBranch: libretroization
   stars: 0
   forks: 1
-  lastCommit: '2026-09-30T05:41:19Z'
+  lastCommit: '2026-10-07T06:09:11Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T09:01:16.324Z'
+  lastSynchronized: '2026-10-07T14:34:41.913Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e8df00f1f6b69878b06df4f494812f251e4294e28603186f3be5de268a8ec269"
+    releasesEtag: '"a8b72fc23874e1701b2920e2e37cd2ca4913fb4b114fa3cba3efba72e700fa11"'
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 100
@@ -48,5 +53,4 @@ relationships:
   forkOf: libretro/ps2
   source: libretro/ps2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

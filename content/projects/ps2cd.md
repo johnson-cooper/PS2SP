@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/jonnypaes/ps2cd/releases/tag/v0.1.1'
 activity:
   lastChecked: '2026-09-29T00:27:33.671Z'
-  lastSynchronized: '2026-09-29T02:37:08.591Z'
+  lastSynchronized: '2026-10-07T14:34:42.488Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1fcba3f0ee3b24d857a6f0915e85e0d52bde0ffad883a44e032bcce8857c001a"
-    releasesEtag: W/"6d93efd635a479ec508b7f8d5f3e4634f1a48781be448ba2a6e41c56ae30cb80"
+    repoEtag: W/"9e4911865d9db18d9e2c901ba0a82a2304af6203faec6b2b2180d3666977ff40"
+    releasesEtag: W/"326b01e4fc691479aade9ec4685b6dc90e6895e11eecdc19ed398793e64c2721"
 discovery:
   method: github-search
   confidence: 100

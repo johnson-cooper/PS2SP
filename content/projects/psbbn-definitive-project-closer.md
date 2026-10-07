@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T05:46:50.003Z'
+  lastSynchronized: '2026-10-07T14:34:53.679Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a1f472804e47d794be9fd3403469ca42c13c3d0c4fead66818a87220671e1e4a"
+    releasesEtag: '"a8b72fc23874e1701b2920e2e37cd2ca4913fb4b114fa3cba3efba72e700fa11"'
 discovery:
   method: 'fork-network:CosmicScale/PSBBN-Definitive-Project'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: CosmicScale/PSBBN-Definitive-Project
   source: CosmicScale/PSBBN-Definitive-Project
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -1,7 +1,9 @@
 ---
 name: ps2vfs
 slug: ps2vfs
-summary: "Virtual file system (VFS) abstraction module for PlayStation 2 homebrew applications."
+summary: >-
+  Virtual file system (VFS) abstraction module for PlayStation 2 homebrew
+  applications.
 categories:
   - drivers
   - libraries
@@ -27,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-09-29T04:57:53.380Z'
+  lastSynchronized: '2026-10-07T14:34:52.356Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"bac31567793829f8576162509d0dd872fb3716841719b52358a88118e7663b0e"
+    releasesEtag: '"a8b72fc23874e1701b2920e2e37cd2ca4913fb4b114fa3cba3efba72e700fa11"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100
@@ -40,5 +45,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

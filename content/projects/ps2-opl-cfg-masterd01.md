@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T01:49:16.953Z'
+  lastSynchronized: '2026-10-07T14:34:39.853Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ef39a146636402eb6b4c94d5f42991f3ff405174666169c96bef3ab1a973abde"
+    releasesEtag: '"a8b72fc23874e1701b2920e2e37cd2ca4913fb4b114fa3cba3efba72e700fa11"'
 discovery:
   method: 'fork-network:VTSTech/PS2-OPL-CFG'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: VTSTech/PS2-OPL-CFG
   source: VTSTech/PS2-OPL-CFG
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T15:03:31.918Z'
+  lastSynchronized: '2026-10-07T14:34:32.068Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"bc54ae24b194351fd83f9c58775af120169fa13d28f5d5dbcdf32d1dfb66fd13"
+    releasesEtag: '"a8b72fc23874e1701b2920e2e37cd2ca4913fb4b114fa3cba3efba72e700fa11"'
 discovery:
   method: 'fork-network:PeterDelta/PCSX2'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: PeterDelta/PCSX2
   source: PeterDelta/PCSX2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

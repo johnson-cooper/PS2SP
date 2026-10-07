@@ -1,7 +1,9 @@
 ---
 name: ps2link
 slug: ps2link-jay-jay-opl
-summary: "PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP from host development tools like ps2client."
+summary: >-
+  PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP
+  from host development tools like ps2client.
 categories:
   - networking
   - development
@@ -32,9 +34,12 @@ latestRelease:
   publishedAt: '2021-07-22T12:09:14Z'
   url: 'https://github.com/Jay-Jay-OPL/ps2link/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-02T15:58:32.409Z'
+  lastSynchronized: '2026-10-07T14:34:46.871Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b9aaaf75c2a7680698d801019c2d64bc167b00ffa5402f055840390d597d7283"
+    releasesEtag: W/"e1615da6467f2cd85684253b102a2fc50532486d3d8f43e8b04e98d11ece6477"
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100
@@ -51,5 +56,4 @@ relationships:
   forkOf: ps2dev/ps2link
   source: ps2dev/ps2link
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
