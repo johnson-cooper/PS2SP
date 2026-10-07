@@ -70,6 +70,6 @@ jobs:
           git config user.name "ps2sp-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add content/projects discovery/pending discovery/state.json
-          git commit -m "chore(catalog): advance PS2 discovery"
+          git commit -m "[CF-Pages-Skip] chore(catalog): advance PS2 discovery"
           git pull --rebase origin main
           git push
