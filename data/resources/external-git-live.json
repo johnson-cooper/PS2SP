@@ -329,6 +329,20 @@
         ]
       },
       {
+        "name": "PS2BUILD SDK — ps2/ps2rig",
+        "url": "https://git.techwritescode.dev/ps2/ps2rig",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "Forgejo",
+          "Gitea",
+          "repository",
+          "ps2/ps2rig",
+          "Go"
+        ]
+      },
+      {
         "name": "PS2BUILD SDK — ps2/ps2stuff",
         "url": "https://git.techwritescode.dev/ps2/ps2stuff",
         "keywords": [
@@ -4451,6 +4465,18 @@
         ]
       },
       {
+        "name": "ps2/ps2rig — branch: main",
+        "url": "https://git.techwritescode.dev/ps2/ps2rig/src/branch/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/ps2rig",
+          "main"
+        ]
+      },
+      {
         "name": "ps2/ps2stuff — branch: master",
         "url": "https://git.techwritescode.dev/ps2/ps2stuff/src/branch/master",
         "keywords": [
@@ -4688,6 +4714,18 @@
           "branch",
           "ps2/tools",
           "main"
+        ]
+      },
+      {
+        "name": "ps2/tools — branch: ps2client-public",
+        "url": "https://git.techwritescode.dev/ps2/tools/src/branch/ps2client-public",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/tools",
+          "ps2client-public"
         ]
       },
       {
@@ -13179,6 +13217,48 @@
         ]
       },
       {
+        "name": "ps2/ps2rig@main — examples",
+        "url": "https://git.techwritescode.dev/ps2/ps2rig/src/branch/main/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2rig",
+          "main",
+          "examples"
+        ]
+      },
+      {
+        "name": "ps2/ps2rig@main — examples/crashtest",
+        "url": "https://git.techwritescode.dev/ps2/ps2rig/src/branch/main/examples/crashtest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2rig",
+          "main",
+          "examples/crashtest"
+        ]
+      },
+      {
+        "name": "ps2/ps2rig@main — examples/exittest",
+        "url": "https://git.techwritescode.dev/ps2/ps2rig/src/branch/main/examples/exittest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2rig",
+          "main",
+          "examples/exittest"
+        ]
+      },
+      {
         "name": "ps2/ps2stuff@master — tests",
         "url": "https://git.techwritescode.dev/ps2/ps2stuff/src/branch/master/tests",
         "keywords": [
@@ -18061,6 +18141,76 @@
           "nested project",
           "ps2/tools",
           "main",
+          "stub"
+        ]
+      },
+      {
+        "name": "ps2/tools@ps2client-public — cmd/ps2client/examples",
+        "url": "https://git.techwritescode.dev/ps2/tools/src/branch/ps2client-public/cmd/ps2client/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/tools",
+          "ps2client-public",
+          "cmd/ps2client/examples"
+        ]
+      },
+      {
+        "name": "ps2/tools@ps2client-public — cmd/ps2client/examples/consoletest",
+        "url": "https://git.techwritescode.dev/ps2/tools/src/branch/ps2client-public/cmd/ps2client/examples/consoletest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/tools",
+          "ps2client-public",
+          "cmd/ps2client/examples/consoletest"
+        ]
+      },
+      {
+        "name": "ps2/tools@ps2client-public — licenses/tools",
+        "url": "https://git.techwritescode.dev/ps2/tools/src/branch/ps2client-public/licenses/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/tools",
+          "ps2client-public",
+          "licenses/tools"
+        ]
+      },
+      {
+        "name": "ps2/tools@ps2client-public — pkg/ps2client/e2e/hosttest",
+        "url": "https://git.techwritescode.dev/ps2/tools/src/branch/ps2client-public/pkg/ps2client/e2e/hosttest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/tools",
+          "ps2client-public",
+          "pkg/ps2client/e2e/hosttest"
+        ]
+      },
+      {
+        "name": "ps2/tools@ps2client-public — stub",
+        "url": "https://git.techwritescode.dev/ps2/tools/src/branch/ps2client-public/stub",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/tools",
+          "ps2client-public",
           "stub"
         ]
       },
