@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T05:08:46.679Z'
+  lastSynchronized: '2026-10-07T16:30:15.430Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2b69c6909fab5ae3728e01d8077ddc99f78df435bf7074384ce61cf7a10571c9"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:pcm720/fc1307-tools'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: pcm720/fc1307-tools
   source: amnemonic/fc1307-tools
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

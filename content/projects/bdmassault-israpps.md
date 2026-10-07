@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2023-12-19T04:17:18Z'
   url: 'https://github.com/israpps/BDMAssault/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-10-02T08:38:08.975Z'
+  lastSynchronized: '2026-10-07T16:28:22.807Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"69fb8184dba24f0fb06fe7ede01524eb97bf9c3898b71a5b73962b351d7cee51"
-    releasesEtag: W/"bb8f7dd1ad981d66fe9b90a246838782e16909f17ea8ae88ec94cb1fd1b7a703"
+    repoEtag: W/"a5c0230a4f9d014987b57b1e59a360d112d85a0af0d39f71bb163467c14d5043"
+    releasesEtag: W/"48381734fd76fe8f2b7423619789c2e74b4ca6b776efd54718e3742511c6f2b8"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

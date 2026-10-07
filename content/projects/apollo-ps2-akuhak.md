@@ -1,7 +1,9 @@
 ---
 name: apollo-ps2
 slug: apollo-ps2-akuhak
-summary: "Comprehensive save game manager for PlayStation 2 that manages, backups, restores, unlocks, and patches save files on memory cards and USB storage."
+summary: >-
+  Comprehensive save game manager for PlayStation 2 that manages, backups,
+  restores, unlocks, and patches save files on memory cards and USB storage.
 categories:
   - save-tools
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:30:29.264Z'
+  lastSynchronized: '2026-10-07T16:27:35.880Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7a100b495825018c09ecd715163521f8aa9348021e9ea397460a949defdb4be9"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"eff18f4d132f51f699e8c6a99089e7193e8c493241173127358e8c825633b08d"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:bucanero/apollo-ps2'
   confidence: 100

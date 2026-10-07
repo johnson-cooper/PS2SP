@@ -18,7 +18,7 @@ license: null
 homepage: 'https://themoonpeople.github.io/Chronicle/'
 source:
   provider: github
-  repository: Jeffiest/Chronicle-Windows
+  repository: Jeffiest/Chronicle
   repositoryId: '1403878539'
   url: 'https://github.com/Jeffie-Rose/Chronicle-Windows'
 repository:
@@ -26,20 +26,20 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-04T18:08:57Z'
+  lastCommit: '2026-10-07T15:46:39Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: windows-2026-10-06-0728
+  name: Dark Cloud (PAL) Windows build windows-2026-10-06-0728
+  publishedAt: '2026-10-06T12:28:26Z'
+  url: 'https://github.com/Jeffiest/Chronicle/releases/tag/windows-2026-10-06-0728'
 activity:
   lastChecked: '2026-10-04T08:48:40.209Z'
-  lastSynchronized: '2026-10-04T19:37:58.824Z'
+  lastSynchronized: '2026-10-07T16:29:27.089Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3b8b060c4f7a9f2024529ec88586ba62f6c64600ebb74514733e7342e24897b7"
-    releasesEtag: '"c3e1ce6b3a20a0f838b2575890f2460f8868a06dc7cb6fca6ad54170fd6df97a"'
+    repoEtag: W/"0e76bbb2c9493b16b49bbd372c6438956f047d2a00f65a3617e13bba0451bb32"
+    releasesEtag: W/"f8f03fee44301b36720dc041d6b8c983abc71e97ec407e82ef67ac956ed2f164"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85

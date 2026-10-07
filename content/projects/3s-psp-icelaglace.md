@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T01:00:16.356Z'
+  lastSynchronized: '2026-10-07T16:27:31.929Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e049c935f0ef503a7a77cffbfa277a57f046f136bfac0825b73285735e68f4fe"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:demmis98/3s-psp'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: demmis98/3s-psp
   source: crowded-street/3s-decomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

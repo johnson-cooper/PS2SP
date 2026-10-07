@@ -23,19 +23,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2025-10-15T04:31:31Z'
+  lastCommit: '2026-10-04T09:41:53Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:31:09.424Z'
+  lastSynchronized: '2026-10-07T16:28:23.277Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5b4dd0eb9aac809c2fc7798f588de36932c8eb7714aabc38e3b4a59acb34cc57"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"a4fb5deddd77a61c9fee28e9fa61cccb504cd0351fa0967d97d7e8fa82ab8979"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:israpps/BDMAssault'
   confidence: 100

@@ -1,7 +1,9 @@
 ---
 name: dreamgl
 slug: dreamgl-fjtrujy
-summary: "OpenGL 1.3 implementation targeting the PlayStation 2 Graphics Synthesizer with Vector Unit acceleration."
+summary: >-
+  OpenGL 1.3 implementation targeting the PlayStation 2 Graphics Synthesizer
+  with Vector Unit acceleration.
 categories:
   - libraries
   - development
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:31:44.042Z'
+  lastSynchronized: '2026-10-07T16:29:54.570Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ad921633207d1220de8b836f2abf7827960844cf701b4943a057f1adf10edbc7"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"7b746b1c19bd0ec32f9653061940ca63c68a5942ba26eeb03c8e3b24aa7a8ad4"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:ps2homebrew/dreamgl'
   confidence: 95

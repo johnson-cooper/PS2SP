@@ -23,16 +23,19 @@ repository:
   defaultBranch: main
   stars: 4
   forks: 0
-  lastCommit: '2026-09-27T04:53:32Z'
+  lastCommit: '2026-10-05T00:15:20Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T14:58:43.222Z'
+  lastSynchronized: '2026-10-07T16:28:54.960Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0ef655d398e55ef67f23f5bafc363f1f663f81ee1cef41bb216ff96e696c80bf"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:ButterscotchRunner/Butterscotch'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: ButterscotchRunner/Butterscotch
   source: ButterscotchRunner/Butterscotch
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

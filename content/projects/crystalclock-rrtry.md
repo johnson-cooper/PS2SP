@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2025-08-03T10:00:32Z'
   url: 'https://github.com/rrtry/CrystalClock/releases/tag/v1.0.4'
 activity:
-  lastSynchronized: '2026-10-01T13:15:38.344Z'
+  lastSynchronized: '2026-10-07T16:29:36.138Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3f7a87ca468d32552ad9806062060231bbcdf0710db27cd1a9f485f22c215682"
-    releasesEtag: W/"8926d8bcabb5da142bfa69e99eaf0085fb83f92b624ba954f76bad848dcdde53"
+    repoEtag: W/"73f20263d61bbd06610f7ac55763bda06d2e703879333d3de1022dafb40ee857"
+    releasesEtag: W/"99ff2aa84b6951431e4ae3e3f3f804f24a04f1219c324886ddf60d13c2918dd0"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

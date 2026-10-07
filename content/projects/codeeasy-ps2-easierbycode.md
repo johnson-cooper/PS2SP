@@ -1,7 +1,9 @@
 ---
 name: codeeasy-ps2
 slug: codeeasy-ps2-easierbycode
-summary: "Beginner-friendly framework and sample projects for learning homebrew programming on the PlayStation 2."
+summary: >-
+  Beginner-friendly framework and sample projects for learning homebrew
+  programming on the PlayStation 2.
 categories:
   - development
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:31:26.850Z'
+  lastSynchronized: '2026-10-07T16:29:32.634Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e019d012338f24dac288aa409343fe96733f5c39c5d6127de6953b698f4b3b44"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"27dbbf3754773df2acb05279d592b45813f541f69fa24f1da1ab7a1fd31353ca"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:DanielAbrante/codeeasy-ps2'
   confidence: 95

@@ -20,17 +20,20 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-10-04T10:53:38Z'
+  lastCommit: '2026-10-06T08:44:01Z'
 latestRelease:
-  tag: v1.0
-  name: EVE new generation 한국어 패치 v1.0
-  publishedAt: '2026-10-04T09:23:46Z'
+  tag: v1.1
+  name: EVE New Generation 한국어 패치 v1.1
+  publishedAt: '2026-10-05T04:17:21Z'
   url: >-
-    https://github.com/Dollars-Archive/eve-new-generation-kr-patch/releases/tag/v1.0
+    https://github.com/Dollars-Archive/eve-new-generation-kr-patch/releases/tag/v1.1
 activity:
-  lastSynchronized: '2026-10-04T18:47:49.763Z'
+  lastSynchronized: '2026-10-07T16:30:14.479Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"80d47ede94860550f712b1ae092c124ca55e322e8f7228690b79e251b2e3ce33"
+    releasesEtag: W/"aeb0d512fcc92e7bdff7054905cf978694e8a62fd9b3c2d2aefdb0aaa5ca7fab"
 discovery:
   method: pending-recheck
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

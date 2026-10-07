@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T05:08:46.679Z'
+  lastSynchronized: '2026-10-07T16:30:02.380Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"be81e5c3e78635b01efd1e8e6faa049cbde279572d6d2d5715850e39067c5631"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:sashkinbro/EmuCoreX'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: sashkinbro/EmuCoreX
   source: sashkinbro/EmuCoreX
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

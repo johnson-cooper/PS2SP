@@ -1,7 +1,9 @@
 ---
 name: DKWDRV
 slug: dkwdrv-soridon
-summary: "Unified PS1DRV replacement driver for PlayStation 2 consoles, enhancing PS1 backward compatibility, optical drive timing, and video modes."
+summary: >-
+  Unified PS1DRV replacement driver for PlayStation 2 consoles, enhancing PS1
+  backward compatibility, optical drive timing, and video modes.
 categories:
   - drivers
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T06:33:44.697Z'
+  lastSynchronized: '2026-10-07T16:29:50.106Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"15c070ec39b58f33551efb7f8e9fe99ecb02435836ec8e47f95b35d6c8773f8a"
-    releasesEtag: '"089683c071042ad1545a239b9432414c25cabe2d39fe188ff3eb2193f25c0681"'
+    repoEtag: W/"56ee5a9ef32cf280408a85d8a2f19ddf44f1f62f878ffb26db0512a41b206411"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:DKWDRV/DKWDRV'
   confidence: 95

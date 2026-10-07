@@ -1,7 +1,9 @@
 ---
 name: BPDemoHarness
 slug: bpdemoharness
-summary: "Burnout Point of Impact / RenderWare demo harness for testing and profiling graphics rendering on PlayStation 2."
+summary: >-
+  Burnout Point of Impact / RenderWare demo harness for testing and profiling
+  graphics rendering on PlayStation 2.
 categories:
   - demos
   - development
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T12:34:34.043Z'
+  lastSynchronized: '2026-10-07T16:28:35.940Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"90f5a216160b1ae61402ecc37146807debc10fc43ecb83b0960112d8320fec88"
-    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
+    repoEtag: W/"0b3f01aa6e23adda8ad8ee6c06747a4bcae7976b8449577bd8e0fdb8a08ab441"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100

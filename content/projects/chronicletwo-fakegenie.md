@@ -23,10 +23,10 @@ source:
   url: 'https://github.com/fakegenie/ChronicleTwo'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-07T14:40:49Z'
 latestRelease:
   tag: null
   name: null
@@ -34,8 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-05T22:55:14.648Z'
+  lastSynchronized: '2026-10-07T16:29:29.072Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e14e312137cdc8a54da269d4f2055bd46fa366cafa9edeeb1eba72a46b391d34"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85
@@ -51,5 +55,4 @@ relationships:
   forkOf: TheMoonPeople/ChronicleTwo
   source: TheMoonPeople/ChronicleTwo
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

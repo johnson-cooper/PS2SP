@@ -21,18 +21,18 @@ repository:
   forks: 0
   lastCommit: '2026-09-29T16:00:56Z'
 latestRelease:
-  tag: Army_Men_RTS_cheat_pack_Final
-  name: ''
-  publishedAt: '2026-09-29T12:37:13Z'
+  tag: army-men
+  name: '[Army_Men_RTS_PS2_Advanced_Cheat_Pack_v2.0_FINAL-DAB59034.zip]'
+  publishedAt: '2026-10-01T14:02:48Z'
   url: >-
-    https://github.com/TheWalkAlone/Army-Men-RTS_PS2_Advanced-Cheat_Pack_Final/releases/tag/Army_Men_RTS_cheat_pack_Final
+    https://github.com/TheWalkAlone/Army-Men-RTS_PS2_Advanced-Cheat_Pack_Final/releases/tag/army-men
 activity:
-  lastSynchronized: '2026-10-01T03:30:34.430Z'
+  lastSynchronized: '2026-10-07T16:27:46.998Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c237538677c620f2dd00f4660529bda816f55d4a490de471c544f6c55d500d8e"
-    releasesEtag: W/"ef1d0fc21e0cc0f1d06a0f53620613c8daeb3b9229339778a431c200e8ae91c9"
+    repoEtag: W/"4cb0bd4741cc592d994bdaa9734e7037fd592bdfa0f85e3d0c0757f3d297a8e1"
+    releasesEtag: W/"82d6b1bb3e2e73aafc9040678c1c299449a92c84a2d2868a34bf8393883ca7ef"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

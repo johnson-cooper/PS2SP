@@ -1,7 +1,9 @@
 ---
 name: 2004sp-ps2port
 slug: 2004sp-ps2port-connordy
-summary: "PlayStation 2 native client port of 2004scape, an authentic recreation of Old School RuneScape as it existed in 2004."
+summary: >-
+  PlayStation 2 native client port of 2004scape, an authentic recreation of Old
+  School RuneScape as it existed in 2004.
 categories:
   - ports
   - games
@@ -27,19 +29,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-01T00:27:55Z'
+  lastCommit: '2026-10-01T19:13:58Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:30:19.911Z'
+  lastSynchronized: '2026-10-07T16:27:23.572Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"abc988b05392a30ee9e25a6c71b9581c7d61881b17c7e18f3c34f747f2cd61c5"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"79e76d5182a176cbe7e53e791ef032b36d8d94312aefd473c44b4ec7ce5db086"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:johnson-cooper/2004sp-ps2port'
   confidence: 95

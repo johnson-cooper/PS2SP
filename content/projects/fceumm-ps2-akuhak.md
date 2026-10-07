@@ -1,7 +1,9 @@
 ---
 name: Fceumm-PS2
 slug: fceumm-ps2-akuhak
-summary: "PlayStation 2 port of the FCEUmm NES and Famicom emulator with support for USB storage, hard drives, and memory cards."
+summary: >-
+  PlayStation 2 port of the FCEUmm NES and Famicom emulator with support for USB
+  storage, hard drives, and memory cards.
 categories:
   - emulators
 tags:
@@ -30,12 +32,12 @@ latestRelease:
   publishedAt: '2021-08-15T08:16:56Z'
   url: 'https://github.com/AKuHAK/Fceumm-PS2/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T13:15:39.645Z'
+  lastSynchronized: '2026-10-07T16:30:17.957Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5751a4c77108a4f4a0be462e3ef04bc7d9fe6b210b44e77b436ab7cd13d24de9"
-    releasesEtag: W/"ba0c63c45bfb2edaab64f9de184e74368e2d14a7949bc2039e93360e8d1c5176"
+    repoEtag: W/"8b20628f899fe34fdeba343da433d2bd10a7eb7878b3b06a0efa5e4c4dd82913"
+    releasesEtag: W/"e6edbe396e7ef37438ad0c1a1256e9b7bc7e87354eed5afcc4785c5cef8e3b9b"
 discovery:
   method: 'fork-network:ps2homebrew/Fceumm-PS2'
   confidence: 100

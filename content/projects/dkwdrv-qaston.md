@@ -1,7 +1,9 @@
 ---
 name: DKWDRV
 slug: dkwdrv-qaston
-summary: "Unified PS1DRV replacement driver for PlayStation 2 consoles, enhancing PS1 backward compatibility, optical drive timing, and video modes."
+summary: >-
+  Unified PS1DRV replacement driver for PlayStation 2 consoles, enhancing PS1
+  backward compatibility, optical drive timing, and video modes.
 categories:
   - drivers
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:31:40.008Z'
+  lastSynchronized: '2026-10-07T16:29:49.214Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fef7fde5eee83cd842a7f2df9b591cfa7697c8bc01e178228c9d4e6051be54f7"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"f97bee85e6ca6a18a2c9f9d69363bac973fd5dea83aca6fe218bbfb73a6e2dcc"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:DKWDRV/DKWDRV'
   confidence: 95

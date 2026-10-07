@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:22:08.773Z'
+  lastSynchronized: '2026-10-07T16:30:07.513Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4c186c99b2fd529c448edd5ccc33b91fb335465c39a4e0cd8b3e44befd01db92"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:Trixarian/NetherSX2-patch'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: Trixarian/NetherSX2-patch
   source: Trixarian/NetherSX2-patch
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

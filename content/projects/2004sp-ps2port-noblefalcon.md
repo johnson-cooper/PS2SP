@@ -1,7 +1,9 @@
 ---
 name: 2004sp-ps2port
 slug: 2004sp-ps2port-noblefalcon
-summary: "PlayStation 2 native client port of 2004scape, an authentic recreation of Old School RuneScape as it existed in 2004."
+summary: >-
+  PlayStation 2 native client port of 2004scape, an authentic recreation of Old
+  School RuneScape as it existed in 2004.
 categories:
   - ports
   - games
@@ -34,12 +36,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:30:20.352Z'
+  lastSynchronized: '2026-10-07T16:27:24.115Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f2f3bee2ea1a3efb1c917260d7743a22592d44101c22af26a4fe218a45b93c86"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"c6819d0a9bb3eeb629e44e4c07cfc0cf0abf5c79bd01b74f0bfefaa091cdf1af"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:johnson-cooper/2004sp-ps2port'
   confidence: 95

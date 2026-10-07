@@ -1,7 +1,7 @@
 ---
 name: daedalus-PS2
 slug: daedalus-ps2
-summary: "Open-source Nintendo 64 emulator ported to the PlayStation 2."
+summary: Open-source Nintendo 64 emulator ported to the PlayStation 2.
 categories:
   - emulators
   - ports
@@ -20,19 +20,19 @@ repository:
   defaultBranch: master
   stars: 3
   forks: 0
-  lastCommit: '2026-09-30T22:30:49Z'
+  lastCommit: '2026-10-01T20:21:07Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:31:30.810Z'
+  lastSynchronized: '2026-10-07T16:29:38.260Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c84f172ff469d18a56aec0d1bbffb064c7da984c2fe89f32d9ac3e4e5d293cae"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"da67fb6ccc405e5bb99478c9467acbc51e9c4e562e3bf189086c2092a846c109"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: pending-recheck
   confidence: 95

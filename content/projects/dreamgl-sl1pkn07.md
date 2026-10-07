@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-06T15:12:50.731Z'
+  lastSynchronized: '2026-10-07T16:29:55.599Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"70ff9bb33a58b3cadf608b24e1c2226ed68f42b552060e17c741981c38bab324"
-    releasesEtag: '"88d0f30a6abaccceeda259d5a1dd03b64eb67051bf25bedbd1d7274769c5a8d8"'
+    repoEtag: W/"83fff3b4ff7eb55e9ec41395b34454b7251cf56cb356f6dbab11d1c4075941c9"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:ps2homebrew/dreamgl'
   confidence: 95

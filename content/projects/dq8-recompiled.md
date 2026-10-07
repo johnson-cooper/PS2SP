@@ -12,7 +12,7 @@ tags:
   - fork
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -21,10 +21,10 @@ source:
   url: 'https://github.com/Yakuru-43/DQ8-Recompiled'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-07T12:49:26Z'
 latestRelease:
   tag: null
   name: null
@@ -32,8 +32,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-04T01:00:16.356Z'
+  lastSynchronized: '2026-10-07T16:29:54.099Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"669db2a195b6f3d346164f44c70c9e15e3bee8879687c472f755361a80ebcc36"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -49,5 +53,4 @@ relationships:
   forkOf: Sinan-Karakaya/DQ8-Recompiled
   source: Sinan-Karakaya/DQ8-Recompiled
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

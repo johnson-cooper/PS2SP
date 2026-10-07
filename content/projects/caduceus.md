@@ -23,22 +23,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 2
   forks: 0
-  lastCommit: '2026-09-29T16:14:29Z'
+  lastCommit: '2026-10-06T18:33:39Z'
 latestRelease:
-  tag: v1.1.0
-  name: Caduceus 1.1.0 - Conquistas e Discord
-  publishedAt: '2026-09-29T15:15:34Z'
-  url: 'https://github.com/Rian6/caduceus/releases/tag/v1.1.0'
+  tag: v1.2.1
+  name: v1.2.1
+  publishedAt: '2026-10-06T15:45:38Z'
+  url: 'https://github.com/Rian6/caduceus/releases/tag/v1.2.1'
 activity:
   lastChecked: '2026-09-29T00:28:21.949Z'
-  lastSynchronized: '2026-10-01T03:31:21.614Z'
+  lastSynchronized: '2026-10-07T16:29:20.576Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"aea806482f6baa81789b61f62a9fd3a48d063f4fab72b289e3a145f8cf146b83"
-    releasesEtag: W/"92d933536621898360d2d2fa1bb82cecd3dc1a372489bd994a5a5c1f01482c7a"
+    repoEtag: W/"2016e44e2ca9a5bd21e45eb8e8ab5be9da14229c43a42a2eb7104a23a6fcc03a"
+    releasesEtag: W/"e8d91954774f71fbe76c0394892c2c5b9163c5148c7c4789c28e55d801be6539"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 90

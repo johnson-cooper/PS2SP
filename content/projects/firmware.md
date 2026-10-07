@@ -1,7 +1,7 @@
 ---
 name: firmware
 slug: firmware
-summary: "Firmware implementation for the sd2psx memory card hardware interface."
+summary: Firmware implementation for the sd2psx memory card hardware interface.
 categories:
   - hardware
 tags:
@@ -21,9 +21,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 226
+  stars: 227
   forks: 18
-  lastCommit: '2026-09-30T12:12:16Z'
+  lastCommit: '2026-10-05T12:20:35Z'
 latestRelease:
   tag: 1.4.0
   name: 1.4.0
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/sd2psXtd/firmware/releases/tag/1.4.0'
 activity:
   lastChecked: '2026-10-01T03:27:44.437Z'
-  lastSynchronized: '2026-10-02T08:38:11.983Z'
+  lastSynchronized: '2026-10-07T16:30:33.268Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7e91f75fe5ba4ce0582cf0ad424c4be36e012178f64b47e951411e167dac934e"
-    releasesEtag: W/"a04b7aa78bd0b88898348cc283b90b69990268e892101dc43600aa1921d170ec"
+    repoEtag: W/"335af75438e1c942b0f0cd01002c48eb772452c4f03d7fd299bf34b51b7226ad"
+    releasesEtag: W/"f083f9d61db38f3af167dd04d9f9cb197a3c1bd51a291a48df816be3e099ad38"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 80

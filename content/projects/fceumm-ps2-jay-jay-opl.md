@@ -1,7 +1,9 @@
 ---
 name: Fceumm-PS2
 slug: fceumm-ps2-jay-jay-opl
-summary: "PlayStation 2 port of the FCEUmm NES and Famicom emulator with support for USB storage, hard drives, and memory cards."
+summary: >-
+  PlayStation 2 port of the FCEUmm NES and Famicom emulator with support for USB
+  storage, hard drives, and memory cards.
 categories:
   - emulators
 tags:
@@ -30,12 +32,12 @@ latestRelease:
   publishedAt: '2021-07-22T12:27:24Z'
   url: 'https://github.com/Jay-Jay-OPL/Fceumm-PS2/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T05:54:34.524Z'
+  lastSynchronized: '2026-10-07T16:30:22.563Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5fd22d15b7ae7da9dbe2013e16803567da7e3ad0620405b39016abc911a7c641"
-    releasesEtag: W/"99f8dd95124f593c7760c28421f0fe41770cee7b6a980fb44314c18099b9282b"
+    repoEtag: W/"d357c431d8772cf89d1538b4c1f320141df85c241f1cd47497029dded90e2539"
+    releasesEtag: W/"c09c550614a27783daf2e86f1137ad3df06e817c1e10d50b121e6a2ea73bec49"
 discovery:
   method: 'fork-network:ps2homebrew/Fceumm-PS2'
   confidence: 100

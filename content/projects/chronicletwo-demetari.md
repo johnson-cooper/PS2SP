@@ -23,10 +23,10 @@ source:
   url: 'https://github.com/Demetari/ChronicleTwo'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: master
+  stars: 1
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-06T00:27:09Z'
 latestRelease:
   tag: null
   name: null
@@ -34,8 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-06T03:20:11.642Z'
+  lastSynchronized: '2026-10-07T16:29:28.593Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"988c3ae2227d6e43296750ebe14b7317510ae59915a3ee376a21b06a354680b4"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85
@@ -51,5 +55,4 @@ relationships:
   forkOf: TheMoonPeople/ChronicleTwo
   source: TheMoonPeople/ChronicleTwo
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

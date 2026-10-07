@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T18:47:49.763Z'
+  lastSynchronized: '2026-10-07T16:30:29.396Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1ff8a489b2685aa38baa4032603dc671737181bf26d6ed8a2a961e9fce36067b"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:sd2psXtd/firmware'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: sd2psXtd/firmware
   source: sd2psx/firmware
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

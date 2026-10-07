@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T05:54:34.903Z'
+  lastSynchronized: '2026-10-07T16:30:28.369Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c16b1b2737e4df7142ea0921678342a7837a4ec3d39fd7ccc07112678ab82b2f"
-    releasesEtag: '"a8e2da9a1ff3d4d61c68fe431338dfeadc6bf7522dcecc0d824a62e17c993c27"'
+    repoEtag: W/"7ba3c6f343e1b7bb0f228e7b5e01a1c9204cef1cfde4ee1d28c1bc3581944781"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:PunishedSnake/fhdb-bootstrap-manager'
   confidence: 100

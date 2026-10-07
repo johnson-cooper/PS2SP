@@ -30,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/NiV-L-A/CLPS2C-Compiler/releases/tag/CLPS2C-Compiler-1.0.5
 activity:
-  lastSynchronized: '2026-10-03T12:34:34.494Z'
+  lastSynchronized: '2026-10-07T16:29:31.626Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2fefabcf56188db40ecb3b42883cb9ecfe6d9ea572cc41f63d489310d91c7b19"
-    releasesEtag: W/"1a108f2d867f4d2defe1f66059a8c89b2da3e7ce97da941aa50dc149528564ad"
+    repoEtag: W/"6edcded2adbc2f5079afdf00b878668da3256c8a903dc96c435c4ad50544023c"
+    releasesEtag: W/"32ba3485a8dbc5214d2cc65c4fa303c997d39b6be926895126abfd995788b799"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

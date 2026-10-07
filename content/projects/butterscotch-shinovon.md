@@ -23,16 +23,19 @@ repository:
   defaultBranch: symbian
   stars: 2
   forks: 0
-  lastCommit: '2026-10-03T15:35:41Z'
+  lastCommit: '2026-10-05T05:17:24Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T14:58:43.222Z'
+  lastSynchronized: '2026-10-07T16:29:07.591Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f71acb9b792c0dbf01474c4bc811675ff1edd99f23d155e8cd38844e8e43d9f8"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:ButterscotchRunner/Butterscotch'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: ButterscotchRunner/Butterscotch
   source: ButterscotchRunner/Butterscotch
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

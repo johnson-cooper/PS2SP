@@ -1,7 +1,9 @@
 ---
 name: DKWDRV
 slug: dkwdrv-icechampion
-summary: "Unified PS1DRV replacement driver for PlayStation 2 consoles, enhancing PS1 backward compatibility, optical drive timing, and video modes."
+summary: >-
+  Unified PS1DRV replacement driver for PlayStation 2 consoles, enhancing PS1
+  backward compatibility, optical drive timing, and video modes.
 categories:
   - drivers
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:31:37.909Z'
+  lastSynchronized: '2026-10-07T16:29:46.635Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c13d7159e263777d7d50d5002ef70c11b5c2c49b249d53739f7339542f8aa527"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"09e8fd526c32fbc2a84beabdd92b5ced0a982bd3881a4188b94ecd023413929b"
+    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
 discovery:
   method: 'fork-network:DKWDRV/DKWDRV'
   confidence: 95

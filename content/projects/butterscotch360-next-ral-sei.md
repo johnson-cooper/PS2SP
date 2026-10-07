@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 2
+  stars: 3
   forks: 1
   lastCommit: '2026-09-07T09:51:08Z'
 latestRelease:
@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: '2026-08-02T07:19:04Z'
   url: 'https://github.com/Ral-sei/Butterscotch360-Next/releases/tag/Next-v0.2'
 activity:
-  lastSynchronized: '2026-10-04T14:58:43.222Z'
+  lastSynchronized: '2026-10-07T16:29:16.716Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"62e95d6ee279d3212bcc47696745815d2613a4532640524e9b2d5c04c74bfb0b"
+    releasesEtag: W/"d0f74b13587665dbeeb82c1f3b9475223d3b7ac616d8e0f57ee55a34603ea554"
 discovery:
   method: 'fork-network:ButterscotchRunner/Butterscotch'
   confidence: 95
@@ -51,5 +54,4 @@ relationships:
   forkOf: ButterscotchRunner/Butterscotch
   source: ButterscotchRunner/Butterscotch
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
