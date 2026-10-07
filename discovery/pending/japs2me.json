@@ -1,0 +1,16 @@
+{
+  "repository": "MARKMENTAL/JAPS2ME",
+  "repositoryId": "1409426942",
+  "url": "https://github.com/MARKMENTAL/JAPS2ME",
+  "description": "JAPS2ME - (Just A PS2 Memory Card Editor) is a command-line tool for managing PCSX2 PlayStation 2 memory-card images. ",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-07T22:16:51.969Z",
+  "checkedAt": "2026-10-07T22:16:51.969Z"
+}
