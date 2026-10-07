@@ -231,7 +231,7 @@
     }
   ],
   "branchHeads": {
-    "https://git.techwritescode.dev/api/v1|ps2/ps2build@master": "a1e7deffcfca8dcf30842e4d9f93b490e69c76c8",
+    "https://git.techwritescode.dev/api/v1|ps2/ps2build@master": "7ebc03afbbcd851aaabf3f955d488371a0f1e68d",
     "https://git.techwritescode.dev/api/v1|ps2/ps2build@llvm": "7af4e19a999bba54816e6b8b46ca5a80ce2e98d2",
     "https://git.techwritescode.dev/api/v1|ps2/ps2build@add-dvp-vsm-support": "99a53b52171e10f78d066bcf5fdf3ff2f1eddc43",
     "https://git.techwritescode.dev/api/v1|ps2/gcc@master": "507a37e0ac2da66cc2399f563463eeabd38c342f",
@@ -580,7 +580,8 @@
     "https://git.techwritescode.dev/api/v1|ps2/vcl@main": "4b14358e352693f48245b60043c54b15dd656b18",
     "https://git.techwritescode.dev/api/v1|ps2/ps2build@ps2-vcl-source-type": "4f9d0d3d6f6276798d8aa4ddb88fd0701eaff89c",
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig@main": "412e1169162e0acdd691dcc7b10cdfcbd34535f7",
-    "https://git.techwritescode.dev/api/v1|ps2/tools@ps2client-public": "1f24c0bd55ba0427f676aeb0a6315fe5e7c2d1c1"
+    "https://git.techwritescode.dev/api/v1|ps2/tools@ps2client-public": "1f24c0bd55ba0427f676aeb0a6315fe5e7c2d1c1",
+    "https://git.techwritescode.dev/api/v1|ps2/ps2build@docs/registry-index": "4f6abbb328f1ae7886e8b48e6679b5e5b63d745f"
   },
   "branchPage": {
     "https://git.techwritescode.dev/api/v1|ps2/ps2build": 2,
@@ -663,18 +664,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-10-07T17:11:16.065Z",
+    "at": "2026-10-07T22:34:27.643Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 125,
-    "branchesChanged": 3,
-    "treesScanned": 3,
-    "reposAdded": 1,
+    "branchesSeen": 33,
+    "branchesChanged": 2,
+    "treesScanned": 2,
+    "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 2,
+    "branchesAdded": 1,
     "nestedAdded": 8,
-    "requests": 80,
+    "requests": 85,
     "stoppedForBudget": false
   },
-  "queueCursor": 15
+  "queueCursor": 35
 }
