@@ -4403,6 +4403,18 @@
         ]
       },
       {
+        "name": "ps2/ps2build — branch: ps2-vcl-source-type",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/ps2-vcl-source-type",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/ps2build",
+          "ps2-vcl-source-type"
+        ]
+      },
+      {
         "name": "ps2/ps2client — branch: master",
         "url": "https://git.techwritescode.dev/ps2/ps2client/src/branch/master",
         "keywords": [
@@ -12939,6 +12951,118 @@
           "nested project",
           "ps2/ps2build",
           "master",
+          "internal/explain/testdata/fixtures/vu-microcode"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@ps2-vcl-source-type — internal/explain/testdata/fixtures/cxx-lib",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/ps2-vcl-source-type/internal/explain/testdata/fixtures/cxx-lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "ps2-vcl-source-type",
+          "internal/explain/testdata/fixtures/cxx-lib"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@ps2-vcl-source-type — internal/explain/testdata/fixtures/embed-irx",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/ps2-vcl-source-type/internal/explain/testdata/fixtures/embed-irx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "ps2-vcl-source-type",
+          "internal/explain/testdata/fixtures/embed-irx"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@ps2-vcl-source-type — internal/explain/testdata/fixtures/embed-irx-ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/ps2-vcl-source-type/internal/explain/testdata/fixtures/embed-irx-ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "ps2-vcl-source-type",
+          "internal/explain/testdata/fixtures/embed-irx-ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@ps2-vcl-source-type — internal/explain/testdata/fixtures/overrides",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/ps2-vcl-source-type/internal/explain/testdata/fixtures/overrides",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "ps2-vcl-source-type",
+          "internal/explain/testdata/fixtures/overrides"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@ps2-vcl-source-type — internal/explain/testdata/fixtures/simple-ee",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/ps2-vcl-source-type/internal/explain/testdata/fixtures/simple-ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "ps2-vcl-source-type",
+          "internal/explain/testdata/fixtures/simple-ee"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@ps2-vcl-source-type — internal/explain/testdata/fixtures/simple-iop",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/ps2-vcl-source-type/internal/explain/testdata/fixtures/simple-iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "ps2-vcl-source-type",
+          "internal/explain/testdata/fixtures/simple-iop"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@ps2-vcl-source-type — internal/explain/testdata/fixtures/static-lib",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/ps2-vcl-source-type/internal/explain/testdata/fixtures/static-lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "ps2-vcl-source-type",
+          "internal/explain/testdata/fixtures/static-lib"
+        ]
+      },
+      {
+        "name": "ps2/ps2build@ps2-vcl-source-type — internal/explain/testdata/fixtures/vu-microcode",
+        "url": "https://git.techwritescode.dev/ps2/ps2build/src/branch/ps2-vcl-source-type/internal/explain/testdata/fixtures/vu-microcode",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/ps2build",
+          "ps2-vcl-source-type",
           "internal/explain/testdata/fixtures/vu-microcode"
         ]
       },

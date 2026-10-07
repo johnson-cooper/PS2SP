@@ -222,6 +222,12 @@
       "webBase": "https://git.techwritescode.dev",
       "label": "PS2BUILD SDK",
       "repository": "ps2/vcl"
+    },
+    {
+      "apiBase": "https://git.techwritescode.dev/api/v1",
+      "webBase": "https://git.techwritescode.dev",
+      "label": "PS2BUILD SDK",
+      "repository": "ps2/ps2rig"
     }
   ],
   "branchHeads": {
@@ -571,7 +577,8 @@
     "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm@ee-v4.6.0": "58fb6406408a541e0c826f47487315b485d4db56",
     "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain@ci-exec-bits": "c0a7170a685999b503b62239903ae883954e347d",
     "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain@llvm-linux-runner": "836a3897ae39b0b0087214a33d91317b715fc81f",
-    "https://git.techwritescode.dev/api/v1|ps2/vcl@main": "139261c38d019eaa8e2c7ceaa4f3e19f42b83803"
+    "https://git.techwritescode.dev/api/v1|ps2/vcl@main": "139261c38d019eaa8e2c7ceaa4f3e19f42b83803",
+    "https://git.techwritescode.dev/api/v1|ps2/ps2build@ps2-vcl-source-type": "4f9d0d3d6f6276798d8aa4ddb88fd0701eaff89c"
   },
   "branchPage": {
     "https://git.techwritescode.dev/api/v1|ps2/ps2build": 2,
@@ -652,18 +659,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/vcl": 1
   },
   "lastRun": {
-    "at": "2026-10-07T09:41:26.683Z",
+    "at": "2026-10-07T16:24:40.365Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 126,
+    "branchesSeen": 32,
     "branchesChanged": 1,
     "treesScanned": 1,
     "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 0,
-    "nestedAdded": 0,
-    "requests": 78,
+    "branchesAdded": 1,
+    "nestedAdded": 8,
+    "requests": 84,
     "stoppedForBudget": false
   },
-  "queueCursor": 13
+  "queueCursor": 33
 }
