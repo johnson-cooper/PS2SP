@@ -1,0 +1,16 @@
+{
+  "repository": "murkzuk/panzer-front-formats",
+  "repositoryId": "1408193787",
+  "url": "https://github.com/murkzuk/panzer-front-formats",
+  "description": "Reverse-engineered file formats, extraction tools and widescreen patch for Panzer Front Ausf.B (PS2). Contains no game data.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-07T09:16:30.481Z",
+  "checkedAt": "2026-10-07T09:16:30.481Z"
+}

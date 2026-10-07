@@ -1,0 +1,16 @@
+{
+  "repository": "siddharthakumar-98/MC3DER",
+  "repositoryId": "1408244871",
+  "url": "https://github.com/siddharthakumar-98/MC3DER",
+  "description": "Byte-matching decompilation of Midnight Club 3: DUB Edition Remix (PS2, NTSC-U, SLUS-21355), followed by a native Rust rewrite ported from it. The build will reproduce the original ELF byte for byte. Contains no game code, assets or compilers: bring your own disc. Unofficial fan project, not affiliated with Rockstar Games or Take-Two.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-07T09:16:30.481Z",
+  "checkedAt": "2026-10-07T09:16:30.481Z"
+}
