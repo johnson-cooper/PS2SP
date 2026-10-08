@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-03-10T19:27:00Z'
   url: 'https://github.com/ps2-mmce/mmceman/releases/tag/v2.1.1'
 activity:
-  lastSynchronized: '2026-10-06T15:13:08.607Z'
+  lastSynchronized: '2026-10-08T15:37:58.295Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7e1dec78f24774b030e970451faa711ae48ddba8e2b93d7e0e4376ee93b89a14"
-    releasesEtag: W/"35b91437c1157a35b9af2fc376f36e5f8fcd57d815931be9825c0365353ceab2"
+    repoEtag: W/"c59f459a0ea7418c894da488a051f51ddd3ea82c013f8c4308c05e9064e8c640"
+    releasesEtag: W/"96f4788e88cf4ee567b6a1611ce58cdfbc3bc9b29043abbd797495ff9d221c22"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-02T06:24:53Z'
   url: 'https://github.com/batmanisunderwork/ARMSX2/releases/tag/netplay-test-39'
 activity:
-  lastSynchronized: '2026-10-07T16:27:41.759Z'
+  lastSynchronized: '2026-10-08T15:37:27.669Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e2d62a8cc9c4e6d66f7c4b57ba7fe7ac2b1c965fa46653c3751ef736f0d93d10"
-    releasesEtag: W/"af532a61c7596117af134ceb4facad7aa7c41de466faef74b3ccfa6917f9e883"
+    repoEtag: W/"a267d0b2ce4c91a96f3b37d144dbc872cd142cc1c67d0fdb9628deeca89bacf8"
+    releasesEtag: W/"693c94983e3d3f31a78a073a42cf8e641758f0e260730983dd29a65a5f45886e"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

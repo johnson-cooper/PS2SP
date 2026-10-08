@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-06T15:13:13.004Z'
+  lastSynchronized: '2026-10-08T15:38:02.704Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"450b9c17719c02d9add3a7c1f2fc152259956d983ac52aa17a8974839315d6a9"
-    releasesEtag: '"88d0f30a6abaccceeda259d5a1dd03b64eb67051bf25bedbd1d7274769c5a8d8"'
+    repoEtag: W/"3302e9b3054e89997fe8eb1b2c181ba08aca5236d98fe4388a926b878caaa4c6"
+    releasesEtag: '"2dcdff1a5aaed0ad93609eac259884f0a36befe69726ce01babbb70a62aedf52"'
 discovery:
   method: 'fork-network:SumavisionQ5/NJEMU-PS2'
   confidence: 100
