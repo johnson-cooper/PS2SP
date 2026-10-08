@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-08-24T14:46:49Z'
   url: 'https://github.com/PeterDelta/PCSX2/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-07T07:15:52.497Z'
+  lastSynchronized: '2026-10-08T07:26:21.946Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ca484d34a7b2342d50314fda21457211d2bdbad2da1765a1bfdb6348eed7ade3"
-    releasesEtag: W/"9ec48f43ea3adc47e6a88e69639c30227bd85348f7a580b10f1a22d402158bfd"
+    repoEtag: W/"5d8a46ff8c5f839740c700379b0f7aa8b1d14b42480280c5f19904a77c9d0965"
+    releasesEtag: W/"b85bf5a1bd404d327c107cd4cc391e613fd81dc5a87805578dd5bfc8ae3b6019"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
