@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 6
-  forks: 0
-  lastCommit: '2026-10-01T03:28:02Z'
+  stars: 17
+  forks: 1
+  lastCommit: '2026-10-06T01:36:01Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.0.0
+  name: 'v1.0.0: ICO PAL retail boot ELF rebuilt from source'
+  publishedAt: '2026-10-02T02:37:37Z'
+  url: 'https://github.com/nathanialf/ico/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-10-01T03:32:10.722Z'
+  lastSynchronized: '2026-10-08T01:01:15.121Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"44260f2ba00cc9b54a46154abcfd5305f476a6035c4ef798fbb6a17d22fb5a64"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"2eca3f46d58c23f0eed662d952393755d066701409463b7c5d36b20c2aea6fba"
+    releasesEtag: W/"1159d341d650d5f72ef68628742b2aed0a3ebb6cf42355bf53666db5d63fa850"
 discovery:
   method: pending-recheck
   confidence: 100

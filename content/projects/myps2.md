@@ -1,7 +1,9 @@
 ---
 name: myPS2
 slug: myps2
-summary: "Multimedia dashboard and file manager for PlayStation 2 with audio playback and image viewing."
+summary: >-
+  Multimedia dashboard and file manager for PlayStation 2 with audio playback
+  and image viewing.
 categories:
   - dashboards
   - media
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:32:37.564Z'
+  lastSynchronized: '2026-10-08T01:01:21.034Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fcff13097bbdc95669f0234bc26193d094137117dd13cd388eb296afb9171b86"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"25a712967bdac303c1cb01a7bf39938599c9dca1dc80a5a35a07cea21a2dd624"
+    releasesEtag: '"44c99e19d6cfb480c6298becb242ab4963907c99ac330a153049370e2c1d93bb"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100

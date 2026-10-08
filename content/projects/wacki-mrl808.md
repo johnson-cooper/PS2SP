@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T22:26:09.550Z'
+  lastSynchronized: '2026-10-08T01:01:59.190Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4b5c4ada584f95991b6e29810aca686b6c142b691459ba45a3c73e3604f1eac9"
+    releasesEtag: '"44c99e19d6cfb480c6298becb242ab4963907c99ac330a153049370e2c1d93bb"'
 discovery:
   method: 'fork-network:mszula/wacki'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: mszula/wacki
   source: mszula/wacki
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

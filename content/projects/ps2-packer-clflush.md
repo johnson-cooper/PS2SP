@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T01:49:16.953Z'
+  lastSynchronized: '2026-10-08T01:01:42.754Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"bd801baf248ec2a23d1d3dfc4b968e490bb1b1b3174d8a6726173c028340c2fb"
+    releasesEtag: '"44c99e19d6cfb480c6298becb242ab4963907c99ac330a153049370e2c1d93bb"'
 discovery:
   method: 'fork-network:ps2dev/ps2-packer'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: ps2dev/ps2-packer
   source: ps2dev/ps2-packer
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

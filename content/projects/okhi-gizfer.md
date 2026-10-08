@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:34:08.960Z'
+  lastSynchronized: '2026-10-08T01:01:25.064Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"445a5bee588007a581bc525eb5914b106760bafeef3904365cc48f09e3875fd4"
+    releasesEtag: '"44c99e19d6cfb480c6298becb242ab4963907c99ac330a153049370e2c1d93bb"'
 discovery:
   method: 'fork-network:therealdreg/okhi'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: therealdreg/okhi
   source: therealdreg/okhi
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -1,7 +1,9 @@
 ---
 name: sd2psXtd.github.io
 slug: sd2psxtd-github-io-shamsulc8-ui
-summary: "Firmware, documentation, and tools for sd2psXtd, an extended SD2PSX/MemCard PRO compatible memory card device with PS2 Game ID switching."
+summary: >-
+  Firmware, documentation, and tools for sd2psXtd, an extended SD2PSX/MemCard
+  PRO compatible memory card device with PS2 Game ID switching.
 categories:
   - hardware
 tags:
@@ -27,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T14:55:33.658Z'
+  lastSynchronized: '2026-10-08T01:01:56.338Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"07ac3b389ae201c469f80a2b5abc4e0427053b75d6f9c2c4e11891c935db075e"
+    releasesEtag: '"44c99e19d6cfb480c6298becb242ab4963907c99ac330a153049370e2c1d93bb"'
 discovery:
   method: 'fork-network:sd2psXtd/sd2psXtd.github.io'
   confidence: 95
@@ -43,5 +48,4 @@ relationships:
   forkOf: sd2psXtd/sd2psXtd.github.io
   source: sd2psXtd/sd2psXtd.github.io
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

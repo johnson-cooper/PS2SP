@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T15:00:56.456Z'
+  lastSynchronized: '2026-10-08T01:01:31.744Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ae6d82674ed8e6e58b9e94cb86ba8fa9629c363e5f1bbc118f9594bcc3b590bd"
+    releasesEtag: '"44c99e19d6cfb480c6298becb242ab4963907c99ac330a153049370e2c1d93bb"'
 discovery:
   method: 'fork-network:pcm720/OSDMenu'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: pcm720/OSDMenu
   source: pcm720/OSDMenu
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -1,7 +1,9 @@
 ---
 name: OpenROM-Beta
 slug: openrom-beta-clausvalcatd
-summary: "PlayStation 2 ROM and firmware analysis toolkit for unpacking and inspecting BIOS images."
+summary: >-
+  PlayStation 2 ROM and firmware analysis toolkit for unpacking and inspecting
+  BIOS images.
 categories:
   - host-tools
   - utilities
@@ -28,9 +30,12 @@ latestRelease:
   publishedAt: '2026-08-21T19:25:10Z'
   url: 'https://github.com/ClausValcaTD/OpenROM-Beta/releases/tag/nodtool-main'
 activity:
-  lastSynchronized: '2026-10-01T14:52:44.353Z'
+  lastSynchronized: '2026-10-08T01:01:28.082Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4ea6c61da4f1b66dcc009e04fbc728535e40e5c7c8a19fabf8c52c4a213b7b1a"
+    releasesEtag: W/"8c27905ee34d96a6bb257a1d251c466458259d0baff76a42d796f9312c846617"
 discovery:
   method: 'fork-network:M5Devs/OpenROM'
   confidence: 95
@@ -45,5 +50,4 @@ relationships:
   forkOf: M5Devs/OpenROM
   source: M5Devs/OpenROM
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

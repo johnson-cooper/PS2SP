@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2025-11-22T21:21:10Z'
   url: 'https://github.com/israpps/romman/releases/tag/develop-49'
 activity:
-  lastSynchronized: '2026-10-01T11:22:08.773Z'
+  lastSynchronized: '2026-10-08T01:01:55.374Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"53c0364a7867f7424e30cb97836baf022a20d9c5bd45dfb03f40dd84d0cca2f3"
+    releasesEtag: W/"8cc3bbe9beeda48c0dddea9943b62435f0cbf7814d45717999d01d0d8ad8acf0"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -41,5 +44,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

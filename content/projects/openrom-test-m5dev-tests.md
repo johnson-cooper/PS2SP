@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: '2026-09-13T09:52:13Z'
   url: 'https://github.com/m5dev-tests/OpenROM-test/releases/tag/v2.2.0'
 activity:
-  lastSynchronized: '2026-10-01T14:52:44.353Z'
+  lastSynchronized: '2026-10-08T01:01:28.621Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4c61bd24f74a05d3c3bc7cfdf44db9db23281e050b75580f86779c8cfc987d12"
+    releasesEtag: W/"80dc124ad2d177f3722b8368b4a2b7c28d6da60b4e0b711178c32d8d53ecff05"
 discovery:
   method: 'fork-network:M5Devs/OpenROM'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: M5Devs/OpenROM
   source: M5Devs/OpenROM
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

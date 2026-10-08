@@ -1,7 +1,9 @@
 ---
 name: OSD-Initialization-Libraries
 slug: osd-initialization-libraries-akuhak
-summary: "Reverse-engineered Sony OSD initialization libraries used to build custom dashboards and browser replacements on PS2."
+summary: >-
+  Reverse-engineered Sony OSD initialization libraries used to build custom
+  dashboards and browser replacements on PS2.
 categories:
   - libraries
   - dashboards
@@ -28,9 +30,12 @@ latestRelease:
   publishedAt: '2022-06-09T15:36:28Z'
   url: 'https://github.com/AKuHAK/OSD-Initialization-Libraries/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T15:00:56.456Z'
+  lastSynchronized: '2026-10-08T01:01:30.072Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"906d359705d604191e7efa282d07bc3acc77babbbc14bb6ede7faca63920f94a"
+    releasesEtag: W/"c06aa048032f430a0fc55206b3189ee63ad5179d207d9a2671a283372eb47656"
 discovery:
   method: 'fork-network:ps2homebrew/OSD-Initialization-Libraries'
   confidence: 95
@@ -49,5 +54,4 @@ relationships:
   forkOf: ps2homebrew/OSD-Initialization-Libraries
   source: ps2homebrew/OSD-Initialization-Libraries
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

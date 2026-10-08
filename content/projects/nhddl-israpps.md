@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:34:08.960Z'
+  lastSynchronized: '2026-10-08T01:01:24.129Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"12495b29af19cb189bbc9de9ce47ace0a507ad7d05285128e20c1b3c5e5a2653"
+    releasesEtag: '"44c99e19d6cfb480c6298becb242ab4963907c99ac330a153049370e2c1d93bb"'
 discovery:
   method: 'fork-network:pcm720/nhddl'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: pcm720/nhddl
   source: pcm720/nhddl
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

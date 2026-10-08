@@ -1,7 +1,7 @@
 ---
 name: mvc2-ps2-decomp
 slug: mvc2-ps2-decomp
-summary: "Decompilation project for Marvel vs. Capcom 2 on PlayStation 2."
+summary: Decompilation project for Marvel vs. Capcom 2 on PlayStation 2.
 categories:
   - preservation
   - development
@@ -23,7 +23,7 @@ repository:
   defaultBranch: main
   stars: 9
   forks: 0
-  lastCommit: '2026-09-29T05:08:35Z'
+  lastCommit: '2026-10-07T21:53:47Z'
 latestRelease:
   tag: null
   name: null
@@ -31,12 +31,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-09-29T00:29:02.962Z'
-  lastSynchronized: '2026-10-01T03:32:34.917Z'
+  lastSynchronized: '2026-10-08T01:01:18.782Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d512225c8458ae0790ec2ff95ec4cef2798718a9f18cfa66bc032bc96d0a92c1"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"4ce3d408507e3467dcc596bfa3d672ef4e862cc7028a08dee8d1f2f31a2c8608"
+    releasesEtag: '"44c99e19d6cfb480c6298becb242ab4963907c99ac330a153049370e2c1d93bb"'
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 95

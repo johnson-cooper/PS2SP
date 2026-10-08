@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T05:10:46.442Z'
+  lastSynchronized: '2026-10-08T01:01:11.800Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"90b2a8cbeb7dddf65983bfdb5242503b19b99c79a59279626833c89b59050f29"
+    releasesEtag: '"44c99e19d6cfb480c6298becb242ab4963907c99ac330a153049370e2c1d93bb"'
 discovery:
   method: 'fork-network:israpps/Funtuna-Fork'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: israpps/Funtuna-Fork
   source: israpps/Funtuna-Fork
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

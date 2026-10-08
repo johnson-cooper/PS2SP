@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T17:09:08.395Z'
+  lastSynchronized: '2026-10-08T01:01:36.965Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c9bb13391d05a06f621fd34c34f93d77faa2233c3ecba9ee426ca52f5e00f973"
+    releasesEtag: '"44c99e19d6cfb480c6298becb242ab4963907c99ac330a153049370e2c1d93bb"'
 discovery:
   method: 'fork-network:Raikaru/Persona4-Decompilation'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: Raikaru/Persona4-Decompilation
   source: Raikaru/Persona4-Decompilation
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

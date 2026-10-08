@@ -1,7 +1,9 @@
 ---
 name: libtap
 slug: libtap-jrandis
-summary: "C testing library implementing the Test Anything Protocol (TAP), ported to the PS2SDK."
+summary: >-
+  C testing library implementing the Test Anything Protocol (TAP), ported to the
+  PS2SDK.
 categories:
   - libraries
   - development
@@ -28,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:17:04.836Z'
+  lastSynchronized: '2026-10-08T01:01:17.453Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"984d79fef259388f0b5005f307f57edda2b4d27aae87bf022ff851e72c1ab375"
+    releasesEtag: '"44c99e19d6cfb480c6298becb242ab4963907c99ac330a153049370e2c1d93bb"'
 discovery:
   method: 'fork-network:ps2dev/libtap'
   confidence: 95
@@ -44,5 +49,4 @@ relationships:
   forkOf: ps2dev/libtap
   source: zorgnax/libtap
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

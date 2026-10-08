@@ -28,16 +28,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-09-30T18:56:55Z'
+  lastCommit: '2026-10-07T10:35:32Z'
 latestRelease:
   tag: v0.1.0-alpha.72
   name: Quake II PS2 0.1.0-alpha.72
   publishedAt: '2026-09-13T14:27:52Z'
   url: 'https://github.com/alekszverr-jpg/quake2-ps2/releases/tag/v0.1.0-alpha.72'
 activity:
-  lastSynchronized: '2026-10-01T03:27:44.437Z'
+  lastSynchronized: '2026-10-08T01:01:50.921Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b4c747a5324a8276322a5f04e728ec2aa070ae02d9435e56d10667fc641ae3e2"
+    releasesEtag: W/"5a8608c0f57ccbc0d6eeb1d438741f762e8bfb990544908d4ab2a4601a9cc8ba"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
@@ -57,5 +60,4 @@ relationships:
   forkOf: glampert/quake2-ps2
   source: glampert/quake2-ps2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

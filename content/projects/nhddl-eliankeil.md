@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: '2026-01-02T15:38:51Z'
   url: 'https://github.com/eliankeil/nhddl/releases/tag/Experimental'
 activity:
-  lastSynchronized: '2026-10-01T11:34:08.960Z'
+  lastSynchronized: '2026-10-08T01:01:23.747Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b81bf49242055dcbe2a5e1e99248d697d88957ddd7b99b21373818447136d3fc"
+    releasesEtag: W/"41e94cae6160e6ba0a5200c96fae8174de8267e3e40aef18d6a9a28fb6d9e366"
 discovery:
   method: 'fork-network:pcm720/nhddl'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: pcm720/nhddl
   source: pcm720/nhddl
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
