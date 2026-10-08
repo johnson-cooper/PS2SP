@@ -577,7 +577,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm@ee-v4.6.0": "58fb6406408a541e0c826f47487315b485d4db56",
     "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain@ci-exec-bits": "c0a7170a685999b503b62239903ae883954e347d",
     "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain@llvm-linux-runner": "836a3897ae39b0b0087214a33d91317b715fc81f",
-    "https://git.techwritescode.dev/api/v1|ps2/vcl@main": "4b14358e352693f48245b60043c54b15dd656b18",
+    "https://git.techwritescode.dev/api/v1|ps2/vcl@main": "7f2a707ed510280ce1373e133ff7e208e14a79c9",
     "https://git.techwritescode.dev/api/v1|ps2/ps2build@ps2-vcl-source-type": "4f9d0d3d6f6276798d8aa4ddb88fd0701eaff89c",
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig@main": "412e1169162e0acdd691dcc7b10cdfcbd34535f7",
     "https://git.techwritescode.dev/api/v1|ps2/tools@ps2client-public": "1f24c0bd55ba0427f676aeb0a6315fe5e7c2d1c1",
@@ -590,7 +590,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/toolchain": 2,
     "https://git.techwritescode.dev/api/v1|ps2/masp": 2,
     "https://git.techwritescode.dev/api/v1|ps2/openvcl": 2,
-    "https://git.techwritescode.dev/api/v1|ps2/newlib": 5,
+    "https://git.techwritescode.dev/api/v1|ps2/newlib": 6,
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded": 2,
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core": 2,
     "https://git.techwritescode.dev/api/v1|ps2/tools": 2,
@@ -664,18 +664,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-10-07T22:34:27.643Z",
+    "at": "2026-10-08T02:25:08.567Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 33,
-    "branchesChanged": 2,
-    "treesScanned": 2,
+    "branchesSeen": 125,
+    "branchesChanged": 1,
+    "treesScanned": 1,
     "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 1,
-    "nestedAdded": 8,
-    "requests": 85,
+    "branchesAdded": 0,
+    "nestedAdded": 0,
+    "requests": 78,
     "stoppedForBudget": false
   },
-  "queueCursor": 35
+  "queueCursor": 17
 }
