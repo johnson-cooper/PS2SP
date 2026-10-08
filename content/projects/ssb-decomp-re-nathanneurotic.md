@@ -21,16 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-05T16:16:54Z'
+  lastCommit: '2026-10-08T20:29:43Z'
 latestRelease:
-  tag: nightly-b4dc1ab
-  name: Nightly b4dc1ab
-  publishedAt: '2026-10-04T17:24:06Z'
-  url: 'https://github.com/NathanNeurotic/ssb-decomp-re/releases/tag/nightly-b4dc1ab'
+  tag: nightly-0aeed9e
+  name: Reliable PS2 baseline — 2026-10-08
+  publishedAt: '2026-10-08T19:10:34Z'
+  url: 'https://github.com/NathanNeurotic/ssb-decomp-re/releases/tag/nightly-0aeed9e'
 activity:
-  lastSynchronized: '2026-10-05T16:23:22.148Z'
+  lastSynchronized: '2026-10-08T21:21:53.133Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"54dc6dc855a4db192e7bf2bf1b53d3c10bd463a1bd1065f4ff6ef9ce799e67b5"
+    releasesEtag: W/"380e0ef43ac9c4fa9479c55061f17942875c952de516a3164cce8ab1f0dd34c4"
 discovery:
   method: 'fork-network:johnson-cooper/ssb-decomp-re'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: johnson-cooper/ssb-decomp-re
   source: VetriTheRetri/ssb-decomp-re
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

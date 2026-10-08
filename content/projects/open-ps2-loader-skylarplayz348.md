@@ -27,16 +27,19 @@ repository:
   defaultBranch: master
   stars: 2
   forks: 0
-  lastCommit: '2026-07-21T18:26:52Z'
+  lastCommit: '2026-10-08T06:37:26Z'
 latestRelease:
   tag: latest
   name: latest
-  publishedAt: '2026-07-21T18:26:53Z'
+  publishedAt: '2026-10-08T06:37:27Z'
   url: 'https://github.com/SkylarPlayz348/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T14:27:09.988Z'
+  lastSynchronized: '2026-10-08T21:21:10.440Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"984f4db7c6f5c7ef57361b72abd9b3ab75238a97d1644270739f5095d5abed9b"
+    releasesEtag: W/"604601d5ce36b291f5d43070adc939af1f522300fb21531321ca3765f90be104"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: ps2homebrew/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

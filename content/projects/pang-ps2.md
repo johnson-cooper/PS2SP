@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2023-07-20T01:53:27Z'
   url: 'https://github.com/obiot/Pang-ps2/releases/tag/20060112'
 activity:
-  lastSynchronized: '2026-10-01T03:33:21.398Z'
+  lastSynchronized: '2026-10-08T21:21:15.770Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1c4c4d7facb4a32088a9cffe0dae2d78282545be2534d46d4079ff0302a6b09a"
-    releasesEtag: W/"a7bcda62e303f3f15be8735bf07f0453d7e2794b39408ed35f1a20a578946f3f"
+    repoEtag: W/"6ebb9653f190aa5027b05d4c43eeb9e6400af777d1dc36832f18e78f20e3ae13"
+    releasesEtag: W/"8f02b16f962ac391b236f1ff87314ec682cd3aaefbac136e05f3544ff1d2fc34"
 discovery:
   method: pending-recheck
   confidence: 100

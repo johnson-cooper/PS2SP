@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-05T16:23:22.148Z'
+  lastSynchronized: '2026-10-08T21:20:50.356Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4c6b4909ac1561a4ad4e7633d3eec6f20eab62cbf9e8dcd54272884b24309971"
+    releasesEtag: '"9d58babb9c0ebce4843e7fb6d1a98d7c2a114a7ab5d177718e3a0fa6f173a756"'
 discovery:
   method: 'fork-network:CTurt/FreeDVDBoot'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: CTurt/FreeDVDBoot
   source: CTurt/FreeDVDBoot
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

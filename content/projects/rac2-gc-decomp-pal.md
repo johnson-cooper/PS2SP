@@ -14,7 +14,7 @@ tags:
   - fork
 features: []
 authors: []
-license: null
+license: MIT
 homepage: null
 source:
   provider: github
@@ -23,10 +23,10 @@ source:
   url: 'https://github.com/platypet2217-star/rac2-gc-decomp-pal'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: RAC2
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-08T07:09:55Z'
 latestRelease:
   tag: null
   name: null
@@ -34,8 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-08T02:16:36.120Z'
+  lastSynchronized: '2026-10-08T21:21:45.590Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"57b8096e75334b7cc2e002d6ff56f2965f5dbf80d26501d537aed4660bc886bf"
+    releasesEtag: '"9d58babb9c0ebce4843e7fb6d1a98d7c2a114a7ab5d177718e3a0fa6f173a756"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75
@@ -51,5 +55,4 @@ relationships:
   forkOf: OpenRAC/rac2-gc-decomp
   source: OpenRAC/rac2-gc-decomp
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

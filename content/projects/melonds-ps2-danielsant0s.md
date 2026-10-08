@@ -20,7 +20,7 @@ repository:
   archived: false
   defaultBranch: master
   stars: 37
-  forks: 2
+  forks: 3
   lastCommit: '2023-06-02T10:29:41Z'
 latestRelease:
   tag: PS2Alpha0.3
@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: '2023-06-02T10:29:41Z'
   url: 'https://github.com/DanielSant0s/melonDS-PS2/releases/tag/PS2Alpha0.3'
 activity:
-  lastSynchronized: '2026-10-01T11:22:08.773Z'
+  lastSynchronized: '2026-10-08T21:21:02.311Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"50506485b40571753e87bcaad3c3685e3741d09013b9fb170eb75e82b78d5945"
+    releasesEtag: W/"3625c86247c57bd42580aefdfb30f574569a0d79f20e4775e8bbc045aa81b584"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: Rinnegatamante/melonDS-Vita
   source: Rinnegatamante/melonDS-Vita
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

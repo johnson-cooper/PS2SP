@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: '2025-06-29T08:59:27Z'
   url: 'https://github.com/MREC7/NetherSX2-patch/releases/tag/1.9'
 activity:
-  lastSynchronized: '2026-10-01T11:22:08.773Z'
+  lastSynchronized: '2026-10-08T21:21:06.544Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1c6ce9b816b5d0297e1d39c1df4c12d111a593f33938ff32467df5711e6219da"
+    releasesEtag: W/"32805553e03bee3e5134379b57aba3254e203a20a277606c7a71afebacd953c7"
 discovery:
   method: 'fork-network:Trixarian/NetherSX2-patch'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: Trixarian/NetherSX2-patch
   source: Trixarian/NetherSX2-patch
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

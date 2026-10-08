@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T10:27:58.408Z'
+  lastSynchronized: '2026-10-08T21:21:28.010Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8882da3668107aa598f2f6cc55c7abfd692531500e1e1c53eec3983ff7130ef4"
+    releasesEtag: '"9d58babb9c0ebce4843e7fb6d1a98d7c2a114a7ab5d177718e3a0fa6f173a756"'
 discovery:
   method: 'fork-network:ps2homebrew/HDLGameInstaller'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: ps2homebrew/HDLGameInstaller
   source: ps2homebrew/HDLGameInstaller
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

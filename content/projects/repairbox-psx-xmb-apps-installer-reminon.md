@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T10:40:07.412Z'
+  lastSynchronized: '2026-10-08T21:21:46.903Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e7cbec591864109985faecd57d7b5929a29ae1462a2300832bf9145b1eb05c41"
+    releasesEtag: '"9d58babb9c0ebce4843e7fb6d1a98d7c2a114a7ab5d177718e3a0fa6f173a756"'
 discovery:
   method: 'fork-network:DanielFergisz/RepairBox-PSX-XMB-Apps-Installer'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: DanielFergisz/RepairBox-PSX-XMB-Apps-Installer
   source: DanielFergisz/RepairBox-PSX-XMB-Apps-Installer
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/Dollars-Archive/eve-new-generation-kr-patch/releases/tag/v1.1
 activity:
-  lastSynchronized: '2026-10-07T16:30:14.479Z'
+  lastSynchronized: '2026-10-08T21:20:45.086Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"80d47ede94860550f712b1ae092c124ca55e322e8f7228690b79e251b2e3ce33"
-    releasesEtag: W/"aeb0d512fcc92e7bdff7054905cf978694e8a62fd9b3c2d2aefdb0aaa5ca7fab"
+    repoEtag: W/"d5f6aacdcd3fb339c3c4fe8f69feea2a5b410c1ad23c3b6854b597563016ddfa"
+    releasesEtag: W/"514ce3cda057f0203ceb58d0521431741a38ce86dde5e07581b648823850b8e4"
 discovery:
   method: pending-recheck
   confidence: 100

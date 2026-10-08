@@ -12,7 +12,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: MIT
 homepage: null
 source:
   provider: github
@@ -21,19 +21,23 @@ source:
   url: 'https://github.com/MarkusMaal/FlipnicFileTools'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 1
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-07T17:26:35Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: 2.3.1
+  name: Flipnic File Tools 2.31
+  publishedAt: '2026-06-03T15:14:45Z'
+  url: 'https://github.com/MarkusMaal/FlipnicFileTools/releases/tag/2.3.1'
 activity:
   lastChecked: '2026-10-07T22:16:51.969Z'
+  lastSynchronized: '2026-10-08T21:20:45.699Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d781ecf2fd1c8a8d4bb8dfd28983ce856278188fd746bbd18026212f1e1c25b5"
+    releasesEtag: W/"5681408fa2049f932fe89b2b70cfff93e58234aceffb1136859c365c2cf0d200"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 90
@@ -46,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

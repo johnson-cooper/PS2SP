@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T05:46:50.003Z'
+  lastSynchronized: '2026-10-08T21:21:42.583Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b1b8ee136aee58d65c4bf0e86e5baafb1a047368e312695e1060dc457ae854f3"
+    releasesEtag: '"9d58babb9c0ebce4843e7fb6d1a98d7c2a114a7ab5d177718e3a0fa6f173a756"'
 discovery:
   method: 'fork-network:bucanero/psv-save-converter'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: bucanero/psv-save-converter
   source: dots-tb/ps3-psvresigner
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

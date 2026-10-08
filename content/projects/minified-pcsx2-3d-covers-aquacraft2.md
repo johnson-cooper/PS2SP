@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-09-05T18:47:36Z'
   url: 'https://github.com/Aquacraft2/Minified-pcsx2-3D-covers/releases/tag/V3'
 activity:
-  lastSynchronized: '2026-10-01T22:00:19.221Z'
+  lastSynchronized: '2026-10-08T21:21:02.865Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2117961a0227c83d660e4329e669673fd9e8125041a831abd95950faefdd197e"
+    releasesEtag: W/"81aae0ad994c6ebf3c96e49739bc7d1242825df7e933b873f6fad9825579bd78"
 discovery:
   method: 'fork-network:xlenore/ps2-covers'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: xlenore/ps2-covers
   source: xlenore/ps2-covers
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

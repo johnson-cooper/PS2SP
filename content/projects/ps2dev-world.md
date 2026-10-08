@@ -1,7 +1,9 @@
 ---
 name: ps2dev-world
 slug: ps2dev-world
-summary: "Community hub and build repository for PlayStation 2 homebrew toolchains and libraries."
+summary: >-
+  Community hub and build repository for PlayStation 2 homebrew toolchains and
+  libraries.
 categories:
   - sdks
   - development
@@ -27,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T05:10:46.442Z'
+  lastSynchronized: '2026-10-08T21:21:33.465Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"78592756663954027b64be5e82f966eb58ecb840f6266368e7c154cea9443556"
+    releasesEtag: '"9d58babb9c0ebce4843e7fb6d1a98d7c2a114a7ab5d177718e3a0fa6f173a756"'
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -41,5 +46,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

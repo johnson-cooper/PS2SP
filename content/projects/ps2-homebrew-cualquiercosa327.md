@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T05:10:46.442Z'
+  lastSynchronized: '2026-10-08T21:21:28.575Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e05b4b1f49c06f528bf1612383056031b6db26e43ad41add86687919c7464235"
+    releasesEtag: '"9d58babb9c0ebce4843e7fb6d1a98d7c2a114a7ab5d177718e3a0fa6f173a756"'
 discovery:
   method: 'fork-network:glampert/ps2-homebrew'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: glampert/ps2-homebrew
   source: glampert/ps2-homebrew
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -20,7 +20,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 2
   forks: 0
   lastCommit: '2026-10-06T18:32:37Z'
 latestRelease:
@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/Rian6/caduceus-opl/releases/tag/v0.1.1-snapshot.20261006'
 activity:
   lastChecked: '2026-10-06T16:57:53.557Z'
-  lastSynchronized: '2026-10-07T16:29:20.023Z'
+  lastSynchronized: '2026-10-08T21:20:42.970Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9942163ad49d654b021950e8864dd7388d8fc481911e12d642a85b45c2bcb42d"
-    releasesEtag: W/"4ee441e11ccaee33c451e562ca8a04d05335520b63328b746bfb61d1fcf850aa"
+    repoEtag: W/"d15fc124f3501099b762804a43a6b0a61ab6643ec07b0fb2e5c70fc09f416d68"
+    releasesEtag: W/"ed5ef964defbfbef7943c049e426ca406b40d5619b39d409560f0ce989e15bbc"
 discovery:
   method: 'pending-promotion:incremental:ps2sdk in:name,description,readme'
   confidence: 90

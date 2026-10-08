@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-09-13T09:19:07Z'
   url: 'https://github.com/ilyalissoboi/pcsx2/releases/tag/v2.9.45-sc1'
 activity:
-  lastSynchronized: '2026-10-01T15:03:31.918Z'
+  lastSynchronized: '2026-10-08T21:21:17.447Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ea37518fe3c1c3d335eb72582cd9e7e78e8f226f391563ab660f081c825b95dd"
+    releasesEtag: W/"b3da5e3e95059115a4a72b85aba1c244a1e28d30b6c4e1cf1c1b78519deba116"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

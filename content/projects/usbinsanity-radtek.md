@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T18:50:06.212Z'
+  lastSynchronized: '2026-10-08T21:21:57.093Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"fa0b7e30c56bc31b14f41c927ba300de8df191a29c5e4e2a0712182f62793f91"
+    releasesEtag: '"9d58babb9c0ebce4843e7fb6d1a98d7c2a114a7ab5d177718e3a0fa6f173a756"'
 discovery:
   method: 'fork-network:N0N0/USBInsanity'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: N0N0/USBInsanity
   source: N0N0/USBInsanity
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

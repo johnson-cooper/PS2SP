@@ -22,16 +22,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-07T01:01:52Z'
+  lastCommit: '2026-10-07T02:05:25Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-07T01:48:56.704Z'
+  lastSynchronized: '2026-10-08T21:21:49.350Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"11a85dd24143421845c3688f2ac6ee452c6d4c9f476f3df402f98b21a70db848"
+    releasesEtag: '"9d58babb9c0ebce4843e7fb6d1a98d7c2a114a7ab5d177718e3a0fa6f173a756"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: RompEmu/RomP
   source: RompEmu/RomP
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

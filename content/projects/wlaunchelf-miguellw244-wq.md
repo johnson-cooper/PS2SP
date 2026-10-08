@@ -35,9 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T22:26:09.550Z'
+  lastSynchronized: '2026-10-08T21:21:58.714Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d4dbf2fd9c90de8e9dccbc401510f2652cb8f193dee63b17a8b37307ca52f996"
+    releasesEtag: '"9d58babb9c0ebce4843e7fb6d1a98d7c2a114a7ab5d177718e3a0fa6f173a756"'
 discovery:
   method: 'fork-network:ps2homebrew/wLaunchELF'
   confidence: 100
@@ -53,5 +56,4 @@ relationships:
   forkOf: ps2homebrew/wLaunchELF
   source: ps2homebrew/wLaunchELF
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

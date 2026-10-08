@@ -35,9 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:58:32.409Z'
+  lastSynchronized: '2026-10-08T21:21:34.983Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"43ce6ae88cfe34d6eea8b256a44d310c321a3db4f20653131f1388bc3164b6ba"
+    releasesEtag: '"9d58babb9c0ebce4843e7fb6d1a98d7c2a114a7ab5d177718e3a0fa6f173a756"'
 discovery:
   method: 'fork-network:ps2homebrew/PS2Ident'
   confidence: 100
@@ -53,5 +56,4 @@ relationships:
   forkOf: ps2homebrew/PS2Ident
   source: ps2homebrew/PS2Ident
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
