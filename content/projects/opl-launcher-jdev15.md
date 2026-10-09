@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2024-03-26T22:47:22Z'
   url: 'https://github.com/jdev15/OPL-Launcher/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-05T02:01:40.344Z'
+  lastSynchronized: '2026-10-09T02:10:46.953Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2fffdfd6b8641f727975d48ec560dcd097e56a8b82baa02fa8a26c2992d15234"
-    releasesEtag: W/"ad211d526b2e017b76f56ad07789ffc06b6d288adbbb691dc06958af5892a577"
+    repoEtag: W/"41e6dd4a17cd52d0a0040b96270e941bda2af846dfa4f82b7f7ef95a0c7c5e02"
+    releasesEtag: W/"8c03c5e49146a199324b7274d28f46cdd1fd169fbfa578e7eb05a22a66034ac2"
 discovery:
   method: 'fork-network:ps2homebrew/OPL-Launcher'
   confidence: 100

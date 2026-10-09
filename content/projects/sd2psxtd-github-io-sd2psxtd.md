@@ -19,7 +19,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 16
+  stars: 17
   forks: 6
   lastCommit: '2026-08-02T01:35:28Z'
 latestRelease:
@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2025-09-27T14:21:55Z'
   url: 'https://github.com/sd2psXtd/sd2psXtd.github.io/releases/tag/sc2'
 activity:
-  lastSynchronized: '2026-10-05T02:02:06.908Z'
+  lastSynchronized: '2026-10-09T02:11:15.193Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ae5af2833c65fe459edb621560bc4ca46114b34e3224a21488b60a68aed0f479"
-    releasesEtag: W/"efb0de356f47f46caf75a319d1378485c93d2533d6d464cfbfc0e40bc47b5515"
+    repoEtag: W/"f716dabcbfd642ceb3188d05f8778ea65e844a1cc6b5495958e5a9a8e6aeabc9"
+    releasesEtag: W/"869f40abcdcca237050176edfb8b2f33469dccb55d5c8230b95cadf656b7266b"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

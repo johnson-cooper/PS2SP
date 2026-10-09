@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2020-05-21T10:40:34Z'
   url: 'https://github.com/fjtrujy/ps2link/releases/tag/v0.0.3'
 activity:
-  lastSynchronized: '2026-10-05T02:01:56.376Z'
+  lastSynchronized: '2026-10-09T02:11:03.888Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5c48af83e9c915486efaca25725529c70f7c02d2767f59cebc9a4cc6a415cfa4"
-    releasesEtag: W/"4a855a6be1062876f4e4f80080e2b3e7797b5cebb70c2c45bd105b05a6153cb3"
+    repoEtag: W/"9d458095d36c7510aa541b256071870a7c34860a1b5362f90131718af3a9d6ec"
+    releasesEtag: W/"66d24c11a3c668b663ca9cdd7a0125692ac2dca85fc7d25d0090b87ba8e3bdf1"
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100
