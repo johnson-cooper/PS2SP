@@ -21,20 +21,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-05T01:23:02Z'
+  lastCommit: '2026-10-08T21:48:47Z'
 latestRelease:
-  tag: relesase
-  name: 2.2.4
-  publishedAt: '2026-10-05T00:18:29Z'
+  tag: 2.2.8
+  name: 2.2.8
+  publishedAt: '2026-10-08T14:29:10Z'
   url: >-
-    https://github.com/Notimagination/galaxy-ps2-integration-renew/releases/tag/relesase
+    https://github.com/Notimagination/galaxy-ps2-integration-renew/releases/tag/2.2.8
 activity:
-  lastSynchronized: '2026-10-05T09:05:15.932Z'
+  lastSynchronized: '2026-10-09T09:05:42.943Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4165b4aa558112e35e695fb418cb495137bcc436c931d30dc9a4bb560896820e"
-    releasesEtag: W/"401b5829b908daa019eceac2e5451adfff923dd13541acc32519477b32059320"
+    repoEtag: W/"c3a5c5ef1b170a4380122ae905c917cdcbec80e1151566c60e29877de0cb83bf"
+    releasesEtag: W/"0844d84b608ab3813ebf89338cb0338ce867031bac7a705274769536b57e61a4"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

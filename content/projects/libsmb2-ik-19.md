@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: '2019-05-21T01:02:26Z'
   url: 'https://github.com/ik-19/libsmb2/releases/tag/2019-05-20'
 activity:
-  lastSynchronized: '2026-10-08T09:28:07.188Z'
+  lastSynchronized: '2026-10-09T09:05:54.171Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"796bd7af0a9234fc2766f11f9aa48d34e3737f77c544a8912bab8528ff5d561d"
+    releasesEtag: W/"953ccc07ac1617a5d6a5a3cfd0e2971d07f7807dc9cd657fa842ec99a7ca10bc"
 discovery:
   method: 'fork-network:sahlberg/libsmb2'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: sahlberg/libsmb2
   source: sahlberg/libsmb2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

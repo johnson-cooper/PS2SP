@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-05T09:06:12.760Z'
+  lastSynchronized: '2026-10-09T09:06:41.508Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6e60640e3eef1dd86f9c1244b78e9f9e9c1515d3c6a04151584a09f3d83fe7fc"
-    releasesEtag: '"0f6334518bb38df42431c65e204b9abe3e2e87281dff502f2948a210e6314cd0"'
+    repoEtag: W/"a1a636d2251bbc2797430fa1925434ba95c662bbbc48947d58613d3a58460fe0"
+    releasesEtag: '"5ab0d2c8a370fbda27babc1f353b12c21b0f5320ceeb22e6ab0307bc507839dc"'
 discovery:
   method: 'fork-network:vetusmagnus/ratchet-uya-decomp'
   confidence: 95

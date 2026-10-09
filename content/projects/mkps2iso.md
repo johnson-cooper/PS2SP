@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-07-08T14:22:03Z'
   url: 'https://github.com/N4gtan/mkps2iso/releases/tag/v1.1.1'
 activity:
-  lastSynchronized: '2026-10-05T09:05:25.343Z'
+  lastSynchronized: '2026-10-09T09:05:58.093Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b02125c4dea72e8782c1929177be86ca24a5d8f448fdf1d3ccf5a1e5998f9542"
-    releasesEtag: W/"daf2c4a911656c772500273f35488e095fc8c3c0667a5a6ec01bf6f07f5eb140"
+    repoEtag: W/"c3dd755ece6e0bb7ff90fdcc078c6982a54cab18b45b6572158e07f4b5e9d4b4"
+    releasesEtag: W/"78c030c72d7f5ec86a630b60f9d6b9870eff308c3f8b80f87988dd167ca300c6"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

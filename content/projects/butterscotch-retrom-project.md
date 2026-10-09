@@ -23,20 +23,20 @@ repository:
   defaultBranch: retrom/ge8294c9070a4
   stars: 0
   forks: 0
-  lastCommit: '2026-09-28T13:17:55Z'
+  lastCommit: '2026-10-08T18:41:43Z'
 latestRelease:
-  tag: retrom-core-ge8294c9070a4-r1
-  name: Butterscotch Web retrom-core-ge8294c9070a4-r1
-  publishedAt: '2026-09-28T13:19:35Z'
+  tag: retrom-core-ge8294c9070a4-r2
+  name: Butterscotch Web retrom-core-ge8294c9070a4-r2
+  publishedAt: '2026-10-08T18:43:32Z'
   url: >-
-    https://github.com/retrom-project/Butterscotch/releases/tag/retrom-core-ge8294c9070a4-r1
+    https://github.com/retrom-project/Butterscotch/releases/tag/retrom-core-ge8294c9070a4-r2
 activity:
-  lastSynchronized: '2026-10-07T16:29:03.836Z'
+  lastSynchronized: '2026-10-09T09:05:31.553Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"82cda5ddedd1f94f473b7406e121a59e002f7fae31666c983e7e029d05465a60"
-    releasesEtag: W/"bd17e78279b6440c74038cd25d394aa07c97818dc4da6a8eebf896828ee5bdd7"
+    repoEtag: W/"b7af42a7189011bd2168f16cae6209baa808e2a21d23aa95ac41a1d444599fdf"
+    releasesEtag: W/"9883193f064ee307bcf89e92daec4f4bf72e4e5163a6df5085f8e0a5595401fa"
 discovery:
   method: 'fork-network:ButterscotchRunner/Butterscotch'
   confidence: 95
