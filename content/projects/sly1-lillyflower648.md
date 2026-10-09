@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-07T20:39:25.291Z'
+  lastSynchronized: '2026-10-09T20:56:54.370Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"09530713dd05b7de01cbd53021b67f3d28f5cd1c1c258dcf3dccd4957135ab72"
-    releasesEtag: '"f5f5985215f9206379f5bccd0bb36f29adc726aa0c43fcb260dfa7bf468afdf2"'
+    repoEtag: W/"fd90ff78f224cde5f0c948b19bcf75388fb0f5816fa35e18291126d879b1d709"
+    releasesEtag: '"3fe23ca6ba9f05b9fa2ac23dff0823370b39a15fdda6fb3ac96fe9e80ea05335"'
 discovery:
   method: 'fork-network:TheOnlyZac/sly1'
   confidence: 100

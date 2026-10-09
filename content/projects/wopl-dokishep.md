@@ -34,12 +34,12 @@ latestRelease:
   url: >-
     https://github.com/dokishep/wOPL/releases/tag/v1.1-387-invert-tt-20260919-135848-83-e3b9d16
 activity:
-  lastSynchronized: '2026-10-07T20:39:29.851Z'
+  lastSynchronized: '2026-10-09T20:56:58.996Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b32040e647182ae4a7eada7e413042de91ab344127a6a5d8a011183fc3226958"
-    releasesEtag: W/"afec64bc2b086b01421bf0d29af5933afa956518a28771602600c237aef87a45"
+    repoEtag: W/"fb59f2c185fae92d2da8dd6604fb34298050cf67c356cd0052418e4de4b19ad4"
+    releasesEtag: W/"09d0bc3d0f897023d3379a417dc8f51ff3bd4d0d9d5aa9403588caf281f71bf6"
 discovery:
   method: 'fork-network:ps2homebrew/wOPL'
   confidence: 100

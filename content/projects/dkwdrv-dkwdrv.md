@@ -19,21 +19,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 404
+  stars: 405
   forks: 12
-  lastCommit: '2026-09-23T17:27:48Z'
+  lastCommit: '2026-10-09T17:02:51Z'
 latestRelease:
-  tag: 1.7.6p
-  name: 1.7.6p
-  publishedAt: '2026-09-23T17:24:34Z'
-  url: 'https://github.com/DKWDRV/DKWDRV/releases/tag/1.7.6p'
+  tag: 1.7.6q
+  name: 1.7.6q
+  publishedAt: '2026-10-09T17:01:30Z'
+  url: 'https://github.com/DKWDRV/DKWDRV/releases/tag/1.7.6q'
 activity:
-  lastSynchronized: '2026-10-07T20:38:25.805Z'
+  lastSynchronized: '2026-10-09T20:55:45.334Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c37f859adef53c8fb75f564b9da9fa54d0c290abf18900609fe59b210a5a6b6d"
-    releasesEtag: W/"cec393b3ab09f4106e0c5e7dcadbe49361a302a19bba7d04c2d2bdafca907b83"
+    repoEtag: W/"d770ed42774ca39bc01a1de7eb28aad8f3752a726da58f98fcadc72faa3127a5"
+    releasesEtag: W/"d98c19a7033486cb1903b634f6d21eed5bad6b97c2cd13d94246a15721edbef1"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
