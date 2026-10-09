@@ -1,7 +1,9 @@
 ---
 name: masp
 slug: masp-ps2dev
-summary: "Macro Assembler (masp) for the PlayStation 2 Vector Unit (VU) and Emotion Engine coprocessors."
+summary: >-
+  Macro Assembler (masp) for the PlayStation 2 Vector Unit (VU) and Emotion
+  Engine coprocessors.
 categories:
   - development
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:32:27.435Z'
+  lastSynchronized: '2026-10-09T16:13:41.543Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2bb34c85d79d4c6f9438b0e0298797d3af12c3b8a952f408886bd2e94d71386f"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"08985197ca0b594bc627623df21e44d1390f58fd8ed1cddcc7b4464a69f4b114"
+    releasesEtag: '"03eaebc487f57cb70aac1ff9827db51e9cbd437e4da42c0952991bf1af2062f6"'
 discovery:
   method: 'trusted-owner:ps2dev'
   confidence: 100

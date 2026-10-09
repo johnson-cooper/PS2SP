@@ -25,21 +25,21 @@ repository:
   defaultBranch: main
   stars: 3
   forks: 0
-  lastCommit: '2026-09-30T10:03:18Z'
+  lastCommit: '2026-10-09T12:37:23Z'
 latestRelease:
-  tag: v25-state-phase-timers
-  name: v25 - the mid-combo freeze
-  publishedAt: '2026-09-30T07:35:47Z'
+  tag: v26-cinematic-camera
+  name: v26 - transformations and Drain Life
+  publishedAt: '2026-10-05T13:16:26Z'
   url: >-
-    https://github.com/Saupernova13/pcsx2-bt3-60fps/releases/tag/v25-state-phase-timers
+    https://github.com/Saupernova13/pcsx2-bt3-60fps/releases/tag/v26-cinematic-camera
 activity:
   lastChecked: '2026-09-29T16:39:19.086Z'
-  lastSynchronized: '2026-10-01T03:33:22.317Z'
+  lastSynchronized: '2026-10-09T16:13:54.688Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a1c531ddab58da10bd6c37259270ce1bdf71405f541a41dc0801f62b195d776b"
-    releasesEtag: W/"c5ac83ec4ad74b507150ac48fce33e44f29a6137e5386d3723ba9365073259a0"
+    repoEtag: W/"3c660142eb6312f708591998431ea637b36127ee2ce6a5316e950071a6e7cf1d"
+    releasesEtag: W/"ed14e8f0fa6465a5395153198804665e5c431611b283b3a7afb66eeca00c46da"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 80

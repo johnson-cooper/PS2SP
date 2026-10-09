@@ -18,7 +18,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 6
+  stars: 8
   forks: 1
   lastCommit: '2026-10-03T11:52:21Z'
 latestRelease:
@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-10-03T11:41:37Z'
   url: 'https://github.com/andymcca/TempGBA-PS2/releases/tag/20261003'
 activity:
-  lastSynchronized: '2026-10-04T01:59:28.883Z'
+  lastSynchronized: '2026-10-09T16:14:22.117Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"76aba3fbbaee5928fd5bd0877dcc3abc48fe18a5f3de112ec6ce005bf7f8e921"
+    releasesEtag: W/"7691318199c5a59dc2ccd5099f61d397f3f8ddb0ed69316f037c1789656a7f3e"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: belek666/TempGBA
   source: rickvdwetering/TempGBA
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

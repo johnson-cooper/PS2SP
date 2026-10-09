@@ -20,16 +20,19 @@ repository:
   defaultBranch: master
   stars: 1
   forks: 0
-  lastCommit: '2026-09-30T23:41:36Z'
+  lastCommit: '2026-10-08T11:06:36Z'
 latestRelease:
   tag: '1.0'
   name: 2-3-2026
   publishedAt: '2026-02-03T11:35:32Z'
   url: 'https://github.com/Blaze1burn2/Stationplay2EMU/releases/tag/1.0'
 activity:
-  lastSynchronized: '2026-10-01T03:27:44.437Z'
+  lastSynchronized: '2026-10-09T16:14:20.983Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ad605025557240ab4bf0198562112932477c6ea38573694a0e7a3e29ae9156c7"
+    releasesEtag: W/"68e790a454b935e9cd0d02080df0330013f9ce93a66b81f3d3633b24572a7c4e"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

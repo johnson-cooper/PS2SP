@@ -1,7 +1,9 @@
 ---
 name: PS2-HDD-Manager
 slug: ps2-hdd-manager
-summary: "PlayStation 2 hard drive partition manager with support for Extended APA and drives over 2 TiB."
+summary: >-
+  PlayStation 2 hard drive partition manager with support for Extended APA and
+  drives over 2 TiB.
 categories:
   - hardware
   - utilities
@@ -27,9 +29,12 @@ latestRelease:
   publishedAt: '2026-09-12T05:43:37Z'
   url: 'https://github.com/L10N37/PS2-HDD-Manager/releases/tag/v0.2.0'
 activity:
-  lastSynchronized: '2026-09-29T04:57:53.380Z'
+  lastSynchronized: '2026-10-09T16:14:04.911Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"3b930525e6c79a439a5ae84aa285b477fd4eaa9903a91bfd5a9e1f3cf9084fb7"
+    releasesEtag: W/"0b51640b78283845be7efb916c475e4c8f3fec9ad18ca5ac7c48b1fb48af7fd0"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100
@@ -43,5 +48,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

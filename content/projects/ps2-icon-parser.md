@@ -1,7 +1,9 @@
 ---
 name: PS2-ICON-PARSER
 slug: ps2-icon-parser
-summary: "Parser and visualizer for PlayStation 2 save game 3D icons (icon.sys and icon.icn files)."
+summary: >-
+  Parser and visualizer for PlayStation 2 save game 3D icons (icon.sys and
+  icon.icn files).
 categories:
   - host-tools
   - themes
@@ -27,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:14:53.554Z'
+  lastSynchronized: '2026-10-09T16:14:05.327Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5bc3b2fdd50fbedc4d165f73c75deb2806e3546787d98c19a933c7354af62378"
+    releasesEtag: '"03eaebc487f57cb70aac1ff9827db51e9cbd437e4da42c0952991bf1af2062f6"'
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -40,5 +45,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

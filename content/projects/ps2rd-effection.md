@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-09T02:34:11.941Z'
+  lastSynchronized: '2026-10-09T16:14:10.124Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"296b9e1e0b13ac428d4ed7e5c974e895be1964f298eb01476fbb589f25d20dd2"
+    releasesEtag: '"03eaebc487f57cb70aac1ff9827db51e9cbd437e4da42c0952991bf1af2062f6"'
 discovery:
   method: 'fork-network:mlafeldt/ps2rd'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: mlafeldt/ps2rd
   source: mlafeldt/ps2rd
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

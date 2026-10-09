@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-09-14T17:08:02Z'
   url: 'https://github.com/Saupernova13/pcsxroo/releases/tag/pcsxroo-v1.0.0'
 activity:
-  lastSynchronized: '2026-10-01T15:03:31.918Z'
+  lastSynchronized: '2026-10-09T16:13:57.801Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ec12b9e1925863d3e01567c6c21cfe04252bf318a7eb41ef81b90b8b40ba35f7"
+    releasesEtag: W/"75301379cc3036648f1a23a89543193bb74a0cfc0cf65fc7107782f4a911860a"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100
@@ -45,5 +48,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

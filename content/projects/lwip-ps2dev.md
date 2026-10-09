@@ -1,7 +1,9 @@
 ---
 name: lwip
 slug: lwip-ps2dev
-summary: "Lightweight IP (lwIP) TCP/IP protocol stack implementation optimized for the PlayStation 2 Ethernet adapter."
+summary: >-
+  Lightweight IP (lwIP) TCP/IP protocol stack implementation optimized for the
+  PlayStation 2 Ethernet adapter.
 categories:
   - libraries
   - networking
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:32:26.524Z'
+  lastSynchronized: '2026-10-09T16:13:40.014Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0b0a17c1b5ad39d4ff6f0f905d41206df537a328d94fe0f1ba1842f836afaadc"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"06eb3543388719bded9a83eaa2b2c9bc6269dd452d263a5889ad2cb626a0075e"
+    releasesEtag: '"03eaebc487f57cb70aac1ff9827db51e9cbd437e4da42c0952991bf1af2062f6"'
 discovery:
   method: 'trusted-owner:ps2dev'
   confidence: 100

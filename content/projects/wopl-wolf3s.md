@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-08-03T10:07:21Z'
   url: 'https://github.com/Wolf3s/wOPL/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-09-29T10:12:10.462Z'
+  lastSynchronized: '2026-10-09T16:14:24.922Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ad2571d76c049bb20f6432d468c1f3a2bf4f12c39b94359402f3bf987fb0b152"
+    releasesEtag: W/"95799af4821358a0d28e37fa9ac2457029a247c890fd5ce8bfe960e407a82a72"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
@@ -42,5 +45,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2022-09-21T18:41:00Z'
   url: 'https://github.com/israpps/BinMerger/releases/tag/Latest'
 activity:
-  lastSynchronized: '2026-10-07T16:28:26.535Z'
+  lastSynchronized: '2026-10-09T16:13:11.600Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"191371e8e13633170c30e64aff4e370d4b0be766d57ff9a4fc3ade6743f7e7fd"
-    releasesEtag: W/"8684f90a9bbe3aab6d5cd62ae82e5c67373e29ebeab9313b52c3d85aa56f451a"
+    repoEtag: W/"48a4b12c7bed7174b06abda7e502f7036cc5be21dd591b53d3f10435744aede3"
+    releasesEtag: W/"629ee051aa56ffc1458809acf8c379bc64545335255d52e627dd321ecdef4d66"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

@@ -1,7 +1,9 @@
 ---
 name: HDDChecker
 slug: hddchecker-akuhak
-summary: "PlayStation 2 hard disk diagnostic utility that checks surface health, verifies APA partitions, and repairs file systems."
+summary: >-
+  PlayStation 2 hard disk diagnostic utility that checks surface health,
+  verifies APA partitions, and repairs file systems.
 categories:
   - utilities
 tags:
@@ -30,9 +32,12 @@ latestRelease:
   publishedAt: '2022-09-04T12:32:30Z'
   url: 'https://github.com/AKuHAK/HDDChecker/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T10:27:58.408Z'
+  lastSynchronized: '2026-10-09T16:13:28.338Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"9934e0a768ef46d6ae00edd0bdff887157ab7ffd9328ba5958d19e5844cb8576"
+    releasesEtag: W/"ab8a665ecfeaac5e7b436e7e5775a9a2a4c9dd442eac66f57efaead7f1c3ac54"
 discovery:
   method: 'fork-network:ps2homebrew/HDDChecker'
   confidence: 100
@@ -49,5 +54,4 @@ relationships:
   forkOf: ps2homebrew/HDDChecker
   source: ps2homebrew/HDDChecker
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

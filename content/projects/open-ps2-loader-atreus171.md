@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: '2026-08-12T11:45:54Z'
   url: 'https://github.com/Atreus171/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T14:27:09.988Z'
+  lastSynchronized: '2026-10-09T16:13:45.282Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f2d0d5766b73e39e60757f913b4020f66ea0abbd8b9c5861e0282b109ffb5a14"
+    releasesEtag: W/"7a31ef96b4b78cb885aa8af33c7f82ced0f47764e737daf63bb1cef7c9521dd7"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100
@@ -54,5 +57,4 @@ relationships:
   forkOf: ps2homebrew/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

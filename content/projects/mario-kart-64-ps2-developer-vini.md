@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:17:04.836Z'
+  lastSynchronized: '2026-10-09T16:13:40.584Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"111fc5b6cc70afc3ca474e77e227cd697a373cbc9af9bf3722e736b2296057cf"
+    releasesEtag: '"03eaebc487f57cb70aac1ff9827db51e9cbd437e4da42c0952991bf1af2062f6"'
 discovery:
   method: 'fork-network:anthoo582/mario-kart-64-ps2'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: anthoo582/mario-kart-64-ps2
   source: anthoo582/mario-kart-64-ps2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
