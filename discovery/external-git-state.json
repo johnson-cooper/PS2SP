@@ -581,7 +581,8 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2build@ps2-vcl-source-type": "4f9d0d3d6f6276798d8aa4ddb88fd0701eaff89c",
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig@main": "412e1169162e0acdd691dcc7b10cdfcbd34535f7",
     "https://git.techwritescode.dev/api/v1|ps2/tools@ps2client-public": "1f24c0bd55ba0427f676aeb0a6315fe5e7c2d1c1",
-    "https://git.techwritescode.dev/api/v1|ps2/ps2build@docs/registry-index": "4f6abbb328f1ae7886e8b48e6679b5e5b63d745f"
+    "https://git.techwritescode.dev/api/v1|ps2/ps2build@docs/registry-index": "4f6abbb328f1ae7886e8b48e6679b5e5b63d745f",
+    "https://git.techwritescode.dev/api/v1|ps2/ps2build@feature/ps2-48-assets": "93c0edb9efd7bca35a413ae625fe67ba97438f46"
   },
   "branchPage": {
     "https://git.techwritescode.dev/api/v1|ps2/ps2build": 2,
@@ -590,7 +591,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/toolchain": 2,
     "https://git.techwritescode.dev/api/v1|ps2/masp": 2,
     "https://git.techwritescode.dev/api/v1|ps2/openvcl": 2,
-    "https://git.techwritescode.dev/api/v1|ps2/newlib": 3,
+    "https://git.techwritescode.dev/api/v1|ps2/newlib": 4,
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded": 2,
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core": 2,
     "https://git.techwritescode.dev/api/v1|ps2/tools": 2,
@@ -664,18 +665,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-10-09T02:42:36.462Z",
+    "at": "2026-10-09T09:56:02.057Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 25,
-    "branchesChanged": 3,
-    "treesScanned": 3,
+    "branchesSeen": 137,
+    "branchesChanged": 1,
+    "treesScanned": 1,
     "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 0,
-    "nestedAdded": 0,
-    "requests": 80,
+    "branchesAdded": 1,
+    "nestedAdded": 9,
+    "requests": 84,
     "stoppedForBudget": false
   },
-  "queueCursor": 21
+  "queueCursor": 3
 }
