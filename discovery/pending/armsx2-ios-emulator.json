@@ -1,8 +1,8 @@
 {
-  "repository": "HertzPerfumer/Pcsx2-Full-Version",
-  "repositoryId": "1367806356",
-  "url": "https://github.com/HertzPerfumer/Pcsx2-Full-Version",
-  "description": "PlayStation 2 emulator for Android with a PCSX2-based core adapted by EmuCoreX, a modern game library, live overlay controls",
+  "repository": "laurenlindsay813-cell/ARMSX2-iOS-Emulator",
+  "repositoryId": "1412208102",
+  "url": "https://github.com/laurenlindsay813-cell/ARMSX2-iOS-Emulator",
+  "description": "An iOS emulator project exploring PlayStation 2 emulation using an ARMSX2/PCSX2-based core.",
   "score": 75,
   "evidence": [
     "repository description explicitly identifies PS2",
