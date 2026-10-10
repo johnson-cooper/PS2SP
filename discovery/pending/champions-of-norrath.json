@@ -1,0 +1,16 @@
+{
+  "repository": "Open-Champions/champions-of-norrath",
+  "repositoryId": "1412890386",
+  "url": "https://github.com/Open-Champions/champions-of-norrath",
+  "description": "Champions of Norrath (PS2) source reconstruction target. Baseline intake and research setup; native client work lives in open-champions-godot.",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-10T07:44:46.917Z",
+  "checkedAt": "2026-10-10T07:44:46.917Z"
+}

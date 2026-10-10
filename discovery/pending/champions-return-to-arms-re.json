@@ -1,0 +1,15 @@
+{
+  "repository": "Open-Champions/champions-return-to-arms-re",
+  "repositoryId": "1412846863",
+  "url": "https://github.com/Open-Champions/champions-return-to-arms-re",
+  "description": "Return to Arms research, symbols, file formats and online-bug evidence. Source reconstruction and the shared Godot client have dedicated repositories.",
+  "score": 75,
+  "evidence": [
+    "PS2-specific topic"
+  ],
+  "origin": "incremental:topic:ps2",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-10T07:44:46.917Z",
+  "checkedAt": "2026-10-10T07:44:46.917Z"
+}

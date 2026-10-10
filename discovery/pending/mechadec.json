@@ -1,8 +1,8 @@
 {
-  "repository": "HertzPerfumer/Pcsx2-Full-Version",
-  "repositoryId": "1367806356",
-  "url": "https://github.com/HertzPerfumer/Pcsx2-Full-Version",
-  "description": "PlayStation 2 emulator for Android with a PCSX2-based core adapted by EmuCoreX, a modern game library, live overlay controls",
+  "repository": "zecoxao/mechadec",
+  "repositoryId": "1377552693",
+  "url": "https://github.com/zecoxao/mechadec",
+  "description": "Decompiler, IDA 9.x processor module and ROM loader for the Sony SPC970 (PlayStation 2 MechaCon); structured pseudo-C, IDA plugin + headless CLI",
   "score": 75,
   "evidence": [
     "repository description explicitly identifies PS2",
