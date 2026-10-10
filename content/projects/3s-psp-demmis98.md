@@ -19,7 +19,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 100
+  stars: 101
   forks: 3
   lastCommit: '2026-05-03T04:25:02Z'
 latestRelease:
@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-04-19T22:57:15Z'
   url: 'https://github.com/demmis98/3s-psp/releases/tag/1.1'
 activity:
-  lastSynchronized: '2026-10-07T16:27:30.691Z'
+  lastSynchronized: '2026-10-10T13:42:04.272Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"60df7b216b9c89a6463a9bde75d32bdec6aede99e823fdd29c887628c1f6751d"
-    releasesEtag: W/"425ad1811bddc3fd110cdb16a3117e1ae62c22476f8cfe4627f057da08aa68aa"
+    repoEtag: W/"a03136e54bcd97a53cf277132b0990ec3ab6f79562dc71a0c09c86fa21c12ff7"
+    releasesEtag: W/"5a7d79fef77b7924401968f1aafeb125c5c117f2e07a640297f0a97ed7e3ea61"
 discovery:
   method: 'fork-network:crowded-street/3s-decomp'
   confidence: 95

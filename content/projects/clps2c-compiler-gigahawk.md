@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-09T02:34:11.941Z'
+  lastSynchronized: '2026-10-10T13:42:09.074Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"371e8dda2ea80a67777d1516ec710ac2eddfc8934722b0a8349524d18b9dc4f6"
+    releasesEtag: '"721229746d636a2d562ed51e2f450279a04457d1c536d79c18ed0a685dcbdd53"'
 discovery:
   method: 'fork-network:NiV-L-A/CLPS2C-Compiler'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: NiV-L-A/CLPS2C-Compiler
   source: NiV-L-A/CLPS2C-Compiler
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

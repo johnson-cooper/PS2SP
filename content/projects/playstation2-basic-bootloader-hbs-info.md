@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T09:01:16.324Z'
+  lastSynchronized: '2026-10-10T13:42:40.981Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1084e1df239d2e0fdc12565a563665d71683d6b0377688e63a043bad8d6cb3a6"
+    releasesEtag: '"721229746d636a2d562ed51e2f450279a04457d1c536d79c18ed0a685dcbdd53"'
 discovery:
   method: 'fork-network:israpps/PlayStation2-Basic-BootLoader'
   confidence: 100
@@ -54,5 +57,4 @@ relationships:
   forkOf: israpps/PlayStation2-Basic-BootLoader
   source: israpps/PlayStation2-Basic-BootLoader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

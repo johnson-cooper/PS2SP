@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-09T21:17:32.469Z'
+  lastSynchronized: '2026-10-10T13:42:36.671Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"17af502e2099fcd5883875f47e75c5714a332c4a75aa5e66fd7ab3b47022236b"
+    releasesEtag: '"721229746d636a2d562ed51e2f450279a04457d1c536d79c18ed0a685dcbdd53"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: dnunezx/OrbitPS2-Manager-LUNA-edition
   source: Luden02/OrbitPS2-Manager
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

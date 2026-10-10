@@ -1,7 +1,9 @@
 ---
 name: ps2-magicgate-inspector
 slug: ps2-magicgate-inspector
-summary: "PlayStation 2 hardware inspection utility that checks MagicGate encryption support and memory card authenticity."
+summary: >-
+  PlayStation 2 hardware inspection utility that checks MagicGate encryption
+  support and memory card authenticity.
 categories:
   - hardware
   - utilities
@@ -29,12 +31,12 @@ latestRelease:
     https://github.com/PunishedSnake/ps2-magicgate-inspector/releases/tag/0.4.1-Drebin
 activity:
   lastChecked: '2026-09-29T00:27:46.347Z'
-  lastSynchronized: '2026-10-01T13:15:56.509Z'
+  lastSynchronized: '2026-10-10T13:42:43.708Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bfedf16a48dbbfb16e67e03213cf2afe69359dd11b4a080a9ebe710fb949a78d"
-    releasesEtag: W/"536e2f6d1644f34250faac85ace803922b83c20cfbada0aecab3dcdfb65a4a4f"
+    repoEtag: W/"623c434453141a69814f2503611e4b4ddb12354d181ccec5853b1b84d723db33"
+    releasesEtag: W/"8bd69bf9d8ae457b0dc491bcec0616e3f4adb43ddefa75d78b65d565b6357769"
 discovery:
   method: github-search
   confidence: 100

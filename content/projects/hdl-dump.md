@@ -22,7 +22,7 @@ repository:
   archived: false
   defaultBranch: master
   stars: 153
-  forks: 29
+  forks: 30
   lastCommit: '2026-05-19T20:32:25Z'
 latestRelease:
   tag: v47
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/ps2homebrew/hdl-dump/releases/tag/v47'
 activity:
   lastChecked: '2026-09-29T00:27:03.794Z'
-  lastSynchronized: '2026-10-01T13:15:45.311Z'
+  lastSynchronized: '2026-10-10T13:42:17.567Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1175b9b4caa28e94707e95ef401493629b97ccb393cf63fa004988043a23193e"
-    releasesEtag: W/"48ffbf1b106c18d4e82a8f5fa762b36f681a76d51ea5d3773ce56c8fd730df8a"
+    repoEtag: W/"5f0c777cf11b37ea2bae6fdd119b72c476cb22a11a5772c97232f4cde650e45e"
+    releasesEtag: W/"68758e29a6a51e438db5583c5a605860388b40778927e11dc087437f7a415a33"
 discovery:
   method: curated
   confidence: 100

@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T15:58:32.409Z'
+  lastSynchronized: '2026-10-10T13:42:46.500Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"85b6afb87b58a4eb4ef91ecbfd185bf6e389388ae0fa6f9e48b02459cba98ee4"
+    releasesEtag: '"721229746d636a2d562ed51e2f450279a04457d1c536d79c18ed0a685dcbdd53"'
 discovery:
   method: 'fork-network:Issung/PS2IODB'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: Issung/PS2IODB
   source: Issung/PS2IODB
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

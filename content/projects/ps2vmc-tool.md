@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 49
+  stars: 50
   forks: 2
-  lastCommit: '2026-09-27T11:35:13Z'
+  lastCommit: '2026-10-09T15:28:36Z'
 latestRelease:
   tag: v2.0.0
   name: VMC Tools v2.0.0
   publishedAt: '2026-09-06T01:09:16Z'
   url: 'https://github.com/bucanero/ps2vmc-tool/releases/tag/v2.0.0'
 activity:
-  lastSynchronized: '2026-10-01T13:15:59.594Z'
+  lastSynchronized: '2026-10-10T13:42:50.680Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c63071322af81826bd1613ddf4e0b6ad2c1d7074b92d8dc39421d691a15663d3"
-    releasesEtag: W/"44ecfab1e3ebda23db103bc0b258b5b3cccd198afb5ec180c6f2e67dc6a15fbf"
+    repoEtag: W/"41b56d510aeb0ae45d41fd26424209bf24df18829a60c0a739bd51413a950c9e"
+    releasesEtag: W/"80765f59203247ac6743f4e9e06c72c2d618d4306763aada5884f040405fec40"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

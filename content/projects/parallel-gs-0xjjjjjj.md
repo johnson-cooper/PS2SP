@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-08T22:28:32.502Z'
+  lastSynchronized: '2026-10-10T13:42:37.469Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d46b56647b87aea4e1610dc88fa5ea9e60b5bbf4c05d079f3db720765e824020"
+    releasesEtag: '"721229746d636a2d562ed51e2f450279a04457d1c536d79c18ed0a685dcbdd53"'
 discovery:
   method: 'fork-network:Arntzen-Software/parallel-gs'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: Arntzen-Software/parallel-gs
   source: Arntzen-Software/parallel-gs
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

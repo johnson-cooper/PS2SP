@@ -1,7 +1,9 @@
 ---
 name: PS2Docs
 slug: ps2docs
-summary: "Community documentation and hardware reference manual archives for the PlayStation 2 and Emotion Engine architecture."
+summary: >-
+  Community documentation and hardware reference manual archives for the
+  PlayStation 2 and Emotion Engine architecture.
 categories:
   - preservation
   - development
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T13:15:57.356Z'
+  lastSynchronized: '2026-10-10T13:42:44.838Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c0628f3dd4b8287f821d215fb7177e307be38e13de42b456224c94e561cec6ec"
-    releasesEtag: '"1d2f4be45a34c122856e02012cf31ce6a7bd6500f10dab956ddfe70ae9963533"'
+    repoEtag: W/"51a080fca1a1820f92f49c124d290722df914f70d18c9144a3aa851905138556"
+    releasesEtag: '"721229746d636a2d562ed51e2f450279a04457d1c536d79c18ed0a685dcbdd53"'
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

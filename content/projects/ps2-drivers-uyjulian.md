@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T01:49:16.953Z'
+  lastSynchronized: '2026-10-10T13:42:42.971Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"dd419f8011a102a6eef2382f69f2668a3be3b4f15badce500517386d79e99d97"
+    releasesEtag: '"721229746d636a2d562ed51e2f450279a04457d1c536d79c18ed0a685dcbdd53"'
 discovery:
   method: 'fork-network:fjtrujy/ps2_drivers'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: fjtrujy/ps2_drivers
   source: fjtrujy/ps2_drivers
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

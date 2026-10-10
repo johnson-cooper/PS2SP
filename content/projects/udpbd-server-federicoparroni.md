@@ -1,7 +1,9 @@
 ---
 name: udpbd-server
 slug: udpbd-server-federicoparroni
-summary: "UDP Block Device server for streaming ISO disc images to PlayStation 2 over a local network."
+summary: >-
+  UDP Block Device server for streaming ISO disc images to PlayStation 2 over a
+  local network.
 categories:
   - networking
   - host-tools
@@ -28,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T18:50:06.212Z'
+  lastSynchronized: '2026-10-10T13:42:58.876Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"775a3722b058e7dafcd4f1778e2e7bff23c142e8d797efb331bd583e170a09b5"
+    releasesEtag: '"721229746d636a2d562ed51e2f450279a04457d1c536d79c18ed0a685dcbdd53"'
 discovery:
   method: 'fork-network:israpps/udpbd-server'
   confidence: 95
@@ -44,5 +49,4 @@ relationships:
   forkOf: israpps/udpbd-server
   source: israpps/udpbd-server
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

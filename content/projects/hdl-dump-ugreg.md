@@ -1,7 +1,9 @@
 ---
 name: hdl-dump
 slug: hdl-dump-ugreg
-summary: "Host command-line tool for installing and extracting PS2 games on APA-formatted internal hard drives over network or direct connection."
+summary: >-
+  Host command-line tool for installing and extracting PS2 games on
+  APA-formatted internal hard drives over network or direct connection.
 categories:
   - host-tools
   - loaders
@@ -32,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T13:15:44.086Z'
+  lastSynchronized: '2026-10-10T13:42:16.519Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ab2c64a33a526897332b0629d85a95585dedd0e6bd948a21934a85a2af282bcd"
-    releasesEtag: '"1d2f4be45a34c122856e02012cf31ce6a7bd6500f10dab956ddfe70ae9963533"'
+    repoEtag: W/"006b7652e58a803a38316e1a9e2bf867287103a4aa24dc8f18f7943061567e81"
+    releasesEtag: '"721229746d636a2d562ed51e2f450279a04457d1c536d79c18ed0a685dcbdd53"'
 discovery:
   method: 'fork-network:ps2homebrew/hdl-dump'
   confidence: 95

@@ -1,7 +1,9 @@
 ---
 name: hdl-dump
 slug: hdl-dump-uyjulian
-summary: "Host command-line tool for installing and extracting PS2 games on APA-formatted internal hard drives over network or direct connection."
+summary: >-
+  Host command-line tool for installing and extracting PS2 games on
+  APA-formatted internal hard drives over network or direct connection.
 categories:
   - host-tools
   - loaders
@@ -32,12 +34,12 @@ latestRelease:
   publishedAt: '2024-11-24T00:56:54Z'
   url: 'https://github.com/uyjulian/hdl-dump/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T13:15:44.760Z'
+  lastSynchronized: '2026-10-10T13:42:17.061Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"eda005713858e7ff5a82df849a2fca89596e4ceee9646201502ea328adc4a6e5"
-    releasesEtag: W/"b66d15786bd0810cd7f4b9427e65b47358883593f1aa352c71920f927c39a832"
+    repoEtag: W/"6de267569783b2b7ca8b7eaef9acb348bfc8e985893134cc9f187095a18ea775"
+    releasesEtag: W/"e5a10d4098d89567696e980d75259a9e3d21f3cb531ee1dd1c6a5455c52634bf"
 discovery:
   method: 'fork-network:ps2homebrew/hdl-dump'
   confidence: 100
