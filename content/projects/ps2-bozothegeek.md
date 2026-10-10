@@ -1,7 +1,9 @@
 ---
 name: ps2
 slug: ps2-bozothegeek
-summary: "PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation frontend support on PS2."
+summary: >-
+  PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation
+  frontend support on PS2.
 categories:
   - emulators
   - ports
@@ -30,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T09:01:16.324Z'
+  lastSynchronized: '2026-10-10T22:32:43.517Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4153d35b5630e36c646a9935b68ecccb86bd5e79bd5c9b0305adf068898a2966"
+    releasesEtag: '"a2f3160f7c9da6e0d5ab80b0d88bdd77b45bf9b4179c133ba3dfe50cb33c1167"'
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 95
@@ -47,5 +52,4 @@ relationships:
   forkOf: libretro/ps2
   source: libretro/ps2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

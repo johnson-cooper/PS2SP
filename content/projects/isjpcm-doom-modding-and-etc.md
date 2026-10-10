@@ -1,7 +1,9 @@
 ---
 name: isjpcm
 slug: isjpcm-doom-modding-and-etc
-summary: "PCM sound output and audio streaming library for PlayStation 2 homebrew development, created by Sjeep."
+summary: >-
+  PCM sound output and audio streaming library for PlayStation 2 homebrew
+  development, created by Sjeep.
 categories:
   - libraries
   - media
@@ -28,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T10:27:58.408Z'
+  lastSynchronized: '2026-10-10T22:32:22.193Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2f9fd70356c9f47c8599fb3e152dc1f5ac181e0b77f8ffcfa2e64358f25339a3"
+    releasesEtag: '"a2f3160f7c9da6e0d5ab80b0d88bdd77b45bf9b4179c133ba3dfe50cb33c1167"'
 discovery:
   method: 'fork-network:ps2homebrew/isjpcm'
   confidence: 95
@@ -45,5 +50,4 @@ relationships:
   forkOf: ps2homebrew/isjpcm
   source: ps2homebrew/isjpcm
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

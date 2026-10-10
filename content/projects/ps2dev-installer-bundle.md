@@ -30,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/NathanNeurotic/ps2dev-installer-bundle/releases/tag/Alpha-1
 activity:
-  lastSynchronized: '2026-09-29T02:37:09.462Z'
+  lastSynchronized: '2026-10-10T22:32:48.880Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0b432d7c09e93958a61b8ce77fdf16a9ee9c72df98b78352de89187da3acdc0e"
-    releasesEtag: W/"f3ad585bfa98ec7c29adfde532c1dc0502c09a57e03f340e87451fc27dc24a9e"
+    repoEtag: W/"1397286dd902c98a90b0dbd58236fc4cf15c9c752a8c3d1d7384d329a9d564bf"
+    releasesEtag: W/"ed1e3725446de77a514ad16c01cb81a48bb39ab07c5e4cb0986e2c55c3420c7e"
 discovery:
   method: curated-owner
   confidence: 100

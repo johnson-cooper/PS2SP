@@ -35,9 +35,12 @@ latestRelease:
   publishedAt: '2025-07-10T16:14:23Z'
   url: 'https://github.com/SkylarPlayz348/PS2Ident/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-02T15:58:32.409Z'
+  lastSynchronized: '2026-10-10T22:32:51.505Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"95326e78f88029fc4ca69ed5c03a9567c71b9ef4cf9627ca75af71f856ec60f3"
+    releasesEtag: W/"05cb69b310fa680e84be0d39981fb232b297cf8dbd237ee30af0e919b2d8cff3"
 discovery:
   method: 'fork-network:ps2homebrew/PS2Ident'
   confidence: 100
@@ -54,5 +57,4 @@ relationships:
   forkOf: ps2homebrew/PS2Ident
   source: ps2homebrew/PS2Ident
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

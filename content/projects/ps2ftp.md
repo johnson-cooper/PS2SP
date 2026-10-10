@@ -1,7 +1,9 @@
 ---
 name: ps2ftp
 slug: ps2ftp
-summary: "Lightweight FTP server application for PlayStation 2, enabling wireless or wired file transfers to memory cards and hard drives."
+summary: >-
+  Lightweight FTP server application for PlayStation 2, enabling wireless or
+  wired file transfers to memory cards and hard drives.
 categories:
   - networking
 tags:
@@ -26,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-09-29T04:57:53.380Z'
+  lastSynchronized: '2026-10-10T22:32:49.707Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0767d6d541b968718f7d961612d2437a06657a1b0c436decc593bfad0d488433"
+    releasesEtag: '"a2f3160f7c9da6e0d5ab80b0d88bdd77b45bf9b4179c133ba3dfe50cb33c1167"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100
@@ -39,5 +44,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

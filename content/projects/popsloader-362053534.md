@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T17:09:08.395Z'
+  lastSynchronized: '2026-10-10T22:32:41.712Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"af5cc2d9fece1c9d175fab4de17bf11666610d50271d0842220cfe107e252b56"
+    releasesEtag: '"a2f3160f7c9da6e0d5ab80b0d88bdd77b45bf9b4179c133ba3dfe50cb33c1167"'
 discovery:
   method: 'fork-network:NathanNeurotic/POPSLoader'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: NathanNeurotic/POPSLoader
   source: DanielSant0s/Enceladus
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

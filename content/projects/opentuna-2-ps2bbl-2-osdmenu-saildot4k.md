@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: '2026-06-11T20:11:26Z'
   url: 'https://github.com/saildot4k/OpenTuna_2_PS2BBL_2_OSDMenu/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T05:10:46.442Z'
+  lastSynchronized: '2026-10-10T22:32:34.667Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6ab9ca705137381fd58d24ce7ee5b69a51aeaa9c93b71174a631837a5f947978"
+    releasesEtag: W/"52b7649334acfa81654e3a8a46b4d27de3a0a8c17886e2b19279cbc2d27eb449"
 discovery:
   method: 'fork-network:NathanNeurotic/FreeMcTuna'
   confidence: 95
@@ -51,5 +54,4 @@ relationships:
   forkOf: NathanNeurotic/FreeMcTuna
   source: ps2homebrew/opentuna-installer
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

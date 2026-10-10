@@ -22,10 +22,10 @@ source:
   url: 'https://github.com/poyguylolz/ClassiCube'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-10T18:12:16Z'
 latestRelease:
   tag: null
   name: null
@@ -33,8 +33,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-10T18:51:42.050Z'
+  lastSynchronized: '2026-10-10T22:32:09.865Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"922b483c6728465f9ea8be3b384c6cd5cace979c9c6064a673fbebfe021653f9"
+    releasesEtag: '"a2f3160f7c9da6e0d5ab80b0d88bdd77b45bf9b4179c133ba3dfe50cb33c1167"'
 discovery:
   method: 'pending-promotion:incremental:"ps2 port" in:name,description,readme'
   confidence: 75
@@ -50,5 +54,4 @@ relationships:
   forkOf: ClassiCube/ClassiCube
   source: ClassiCube/ClassiCube
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

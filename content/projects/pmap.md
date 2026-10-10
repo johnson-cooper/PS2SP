@@ -1,7 +1,10 @@
 ---
 name: PMAP
 slug: pmap
-summary: "PlayStation 2 Mechacon Adjustment Program for CD/DVD subsystem maintenance, including EEPROM service, electrical adjustment, and mechanism/skew calibration."
+summary: >-
+  PlayStation 2 Mechacon Adjustment Program for CD/DVD subsystem maintenance,
+  including EEPROM service, electrical adjustment, and mechanism/skew
+  calibration.
 categories:
   - hardware
   - utilities
@@ -28,12 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-09-29T02:36:57.230Z'
+  lastSynchronized: '2026-10-10T22:32:41.214Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"27089600cb9e9bf51e0b6c747764e9550d866bc60c224e49bb2204336261bd86"
-    releasesEtag: '"92d1da06bc39cbed888d1815dbc9a62e8267a318054504c33ab96eb3bf896792"'
+    repoEtag: W/"1410d11eb7bfa6abbdfdc6316edfa1840c2e53e5b8c510f0f1ad09dcfd74e941"
+    releasesEtag: '"a2f3160f7c9da6e0d5ab80b0d88bdd77b45bf9b4179c133ba3dfe50cb33c1167"'
 discovery:
   method: curated-owner
   confidence: 100

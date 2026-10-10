@@ -14,7 +14,7 @@ tags:
   - fork
 features: []
 authors: []
-license: null
+license: MIT
 homepage: null
 source:
   provider: github
@@ -23,10 +23,10 @@ source:
   url: 'https://github.com/ThorpenCodes/rac2-gc-decomp'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: RAC2
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-09T06:15:55Z'
 latestRelease:
   tag: null
   name: null
@@ -34,8 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-06T03:20:11.642Z'
+  lastSynchronized: '2026-10-10T22:33:04.187Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"99bf6691c55613e0c891b3fc42f97fbdb3802126b9d54969d34a9bd8e6734939"
+    releasesEtag: '"a2f3160f7c9da6e0d5ab80b0d88bdd77b45bf9b4179c133ba3dfe50cb33c1167"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75
@@ -51,5 +55,4 @@ relationships:
   forkOf: OpenRAC/rac2-gc-decomp
   source: OpenRAC/rac2-gc-decomp
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

@@ -1,7 +1,9 @@
 ---
 name: sd2psXtd.github.io
 slug: sd2psxtd-github-io
-summary: "Website and tools for sd2psXtd, extended SD2PSX firmware with PS2 Game ID switching, MMCE support, memory-card features, and PS1/PS2 utilities."
+summary: >-
+  Website and tools for sd2psXtd, extended SD2PSX firmware with PS2 Game ID
+  switching, MMCE support, memory-card features, and PS1/PS2 utilities.
 categories:
   - hardware
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-09-29T02:37:24.759Z'
+  lastSynchronized: '2026-10-10T22:33:06.843Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9618b4b42799e255366085e016ca5209c6d4a4028bda216ccb370111a3bfcb2a"
-    releasesEtag: '"92d1da06bc39cbed888d1815dbc9a62e8267a318054504c33ab96eb3bf896792"'
+    repoEtag: W/"12c1650de1f839780f67581e1be4beb19f16e1c8c56ac1b99400488f38d65042"
+    releasesEtag: '"a2f3160f7c9da6e0d5ab80b0d88bdd77b45bf9b4179c133ba3dfe50cb33c1167"'
 discovery:
   method: curated-owner
   confidence: 100

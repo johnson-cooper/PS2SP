@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2022-01-26T13:35:45Z'
   url: 'https://github.com/AKuHAK/PS1VModeNeg/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-01T17:09:08.395Z'
+  lastSynchronized: '2026-10-10T22:32:43.093Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"374c487b4eaa4a69a39b3e5de9782bdda15931b11af9b9498a41fbcf65b8d375"
+    releasesEtag: W/"9ff92e73cf925e1954845cffa0f73937635cbf5fe82316f91ee1be4c2b954a1b"
 discovery:
   method: 'fork-network:ps2homebrew/PS1VModeNeg'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: ps2homebrew/PS1VModeNeg
   source: ps2homebrew/PS1VModeNeg
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

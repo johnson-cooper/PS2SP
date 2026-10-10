@@ -19,16 +19,19 @@ repository:
   defaultBranch: claude/nifty-albattani-42b9hp
   stars: 0
   forks: 0
-  lastCommit: '2026-10-06T23:55:01Z'
+  lastCommit: '2026-10-08T22:09:16Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.0
+  name: V1.0 PS2
+  publishedAt: '2026-10-08T22:09:16Z'
+  url: 'https://github.com/johnson-cooper/ps2-daw/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-10-07T01:48:56.704Z'
+  lastSynchronized: '2026-10-10T22:32:46.372Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"11ae24ebc9e7bf2887beb84bed71360ee8c3e10556e08913559e951a49861e3f"
+    releasesEtag: W/"d393a4e06f9c3803e68beaed40085289466e13381a53f6ef35a816cd97cf0d5a"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -41,5 +44,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

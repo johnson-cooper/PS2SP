@@ -1,7 +1,9 @@
 ---
 name: sd2psXtd.github.io
 slug: sd2psxtd-github-io-borktecno
-summary: "Firmware, documentation, and tools for sd2psXtd, an extended SD2PSX/MemCard PRO compatible memory card device with PS2 Game ID switching."
+summary: >-
+  Firmware, documentation, and tools for sd2psXtd, an extended SD2PSX/MemCard
+  PRO compatible memory card device with PS2 Game ID switching.
 categories:
   - hardware
 tags:
@@ -27,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T14:55:33.658Z'
+  lastSynchronized: '2026-10-10T22:33:06.445Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"fcd30eb8a70116fd558e363fafd0b58f9accef439506bb9ecac90f321e47b01e"
+    releasesEtag: '"a2f3160f7c9da6e0d5ab80b0d88bdd77b45bf9b4179c133ba3dfe50cb33c1167"'
 discovery:
   method: 'fork-network:sd2psXtd/sd2psXtd.github.io'
   confidence: 95
@@ -43,5 +48,4 @@ relationships:
   forkOf: sd2psXtd/sd2psXtd.github.io
   source: sd2psXtd/sd2psXtd.github.io
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
