@@ -1,0 +1,16 @@
+{
+  "repository": "NicolasGraeb/emulator-online",
+  "repositoryId": "1413367346",
+  "url": "https://github.com/NicolasGraeb/emulator-online",
+  "description": "Users must provide their own legally obtained PS2 BIOS and game ROMs for the application to work",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-10T18:51:42.050Z",
+  "checkedAt": "2026-10-10T18:51:42.050Z"
+}
