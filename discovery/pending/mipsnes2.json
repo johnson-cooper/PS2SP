@@ -1,0 +1,16 @@
+{
+  "repository": "ReyFxck/MIPSNES2",
+  "repositoryId": "1412253250",
+  "url": "https://github.com/ReyFxck/MIPSNES2",
+  "description": "SNES emulator dedicated to MIPS for PS2/PSP hardware.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-10T13:58:59.079Z",
+  "checkedAt": "2026-10-10T13:58:59.079Z"
+}

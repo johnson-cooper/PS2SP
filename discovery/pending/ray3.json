@@ -1,0 +1,16 @@
+{
+  "repository": "LawlessCowboy/ray3",
+  "repositoryId": "1329040358",
+  "url": "https://github.com/LawlessCowboy/ray3",
+  "description": "AI Assisted Rayman 3 Matching Decompilation targeting Korean PS2 version",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-10T13:58:59.079Z",
+  "checkedAt": "2026-10-10T13:58:59.079Z"
+}
