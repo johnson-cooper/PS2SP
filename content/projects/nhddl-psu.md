@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2024-12-12T17:26:53Z'
   url: 'https://github.com/pcm720/nhddl-psu/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-10-08T07:26:07.544Z'
+  lastSynchronized: '2026-10-10T07:08:11.997Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1dace5cbb120ed9fd9e1225da0cd55a3939a1607d3e3f76a30a179251350f25e"
-    releasesEtag: W/"ac5799cb7f85608eab66c0c2dfd73ca144c4762ce9eecb60a835005e662556d8"
+    repoEtag: W/"5baecafdd0996883ad58fbbed2e6d565dacb4ade227cd49d378b98cabf9f87c9"
+    releasesEtag: W/"492cff940e2e2d3b8524ebdaa47260ab470f45f8570cc40a465a9cfed7386906"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

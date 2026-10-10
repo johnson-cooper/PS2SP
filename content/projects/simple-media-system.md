@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/NathanNeurotic/Simple-Media-System/releases/tag/v3.0.0-rev1
 activity:
-  lastSynchronized: '2026-10-08T07:26:51.293Z'
+  lastSynchronized: '2026-10-10T07:08:56.481Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"832da872320fad092a49d703048cb5189d84b1b703d875e3d4f92a7e03cf2bc8"
-    releasesEtag: W/"3e9bbb0b7ba19eb9e440b624a93c7404ea1ddfb15f1ec3db7dc5b3c6ec8b811b"
+    repoEtag: W/"192722c4006e7fb8f02628c08b24eb1b3a9b45d065c1caafc3a86819c1fdbabc"
+    releasesEtag: W/"b4675c5a0dd663e8a63706c574e07d9b8d5f46f40df858546314933b766deeb9"
 discovery:
   method: curated-owner
   confidence: 100
