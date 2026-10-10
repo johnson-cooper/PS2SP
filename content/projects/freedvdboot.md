@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/ps2homebrew/FreeDVDBoot/releases/tag/1.0'
 activity:
   lastChecked: '2026-09-29T00:27:01.903Z'
-  lastSynchronized: '2026-10-05T18:28:41.218Z'
+  lastSynchronized: '2026-10-10T18:36:21.101Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"61145e6a7941c4a5f03d0d326804fb6caa25d48165203623d5556d9d1e3fbac9"
-    releasesEtag: W/"1c79880f31b300c0486644055bba1391cedfbc4688145353fb7faefe7f388be9"
+    repoEtag: W/"c1aa52644f7859daf33d1e3f6cbf13fca1e4683c445126da150fde16989ddd1f"
+    releasesEtag: W/"19b24232387b60126cff6da63d671e93a0ea0275a86129fcd5de74d612e6d9f5"
 discovery:
   method: curated
   confidence: 100

@@ -30,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/ps2homebrew/OSD-Initialization-Libraries/releases/tag/latest
 activity:
-  lastSynchronized: '2026-10-05T18:28:57.725Z'
+  lastSynchronized: '2026-10-10T18:36:37.822Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d9ddce2e56c76e7292139c920ddf515a936b96c029019720d4f7a3361e2a9d21"
-    releasesEtag: W/"b1106f692aecfe9da198796a0e1062d03135795f0ee8628a44e9dbae18220f9b"
+    repoEtag: W/"6d96c8382bd2dce9e02476ba0fe87e4e45689bea069243898a2fba46dbefb997"
+    releasesEtag: W/"2dc946938ab6420b8ce180843ee18572077ef6fb8b260b72d15f980d196af299"
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100

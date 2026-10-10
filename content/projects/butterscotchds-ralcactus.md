@@ -23,21 +23,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 2
+  stars: 3
   forks: 1
-  lastCommit: '2026-10-07T14:28:06Z'
+  lastCommit: '2026-10-09T06:06:26Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-07T16:29:17.208Z'
+  lastSynchronized: '2026-10-10T18:36:16.082Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7731d6049304d6c5d010e7c01a93bd81a9eaaf5135d1d47c471e18a6949d22cf"
-    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
+    repoEtag: W/"f778174dfb82a87f2ccf9af91e4aa8f80bc3001ab35e459c7ff1f62eb0b44ac8"
+    releasesEtag: '"14fdd5ce5faa26573e6e5f7c883ef741d122f290f8f82644e7c00908158bce0f"'
 discovery:
   method: 'fork-network:ButterscotchRunner/Butterscotch'
   confidence: 95

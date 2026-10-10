@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/mszula/wacki/releases/tag/v1.2.4'
 activity:
   lastChecked: '2026-09-29T00:28:55.301Z'
-  lastSynchronized: '2026-10-05T18:29:41.396Z'
+  lastSynchronized: '2026-10-10T18:37:16.482Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2f9db6baa37d8be9951bf02611aa61c642559bc3e3923925e0e68ec8df999126"
-    releasesEtag: W/"55311161402607432208a2f088f50a2b8cb9fdc3f69b22bfcfe7f8653d04a65d"
+    repoEtag: W/"bb46e0c6076bc58908df78a0dc6b6215c710d099614b7324abb6266df6bf6aaf"
+    releasesEtag: W/"b32f9ed5dee06ade6a7b17fe25fa060ade39060e43db4799782172977ac7f535"
 discovery:
   method: github-search
   confidence: 100
