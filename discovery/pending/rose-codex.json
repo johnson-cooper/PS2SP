@@ -1,0 +1,16 @@
+{
+  "repository": "wihlarkop/rose-codex",
+  "repositoryId": "1409352831",
+  "url": "https://github.com/wihlarkop/rose-codex",
+  "description": "A companion for Yu-Gi-Oh! The Duelists of the Roses (PlayStation 2)",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-10-10T22:56:45.140Z",
+  "checkedAt": "2026-10-10T22:56:45.140Z"
+}
