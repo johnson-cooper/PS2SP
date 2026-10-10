@@ -25,24 +25,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 14
-  forks: 2
-  lastCommit: '2026-10-06T22:48:37Z'
+  stars: 209
+  forks: 10
+  lastCommit: '2026-10-10T00:08:48Z'
 latestRelease:
-  tag: v0.3.0
-  name: >-
-    v0.3.0: One Options menu, a better CRT filter, clean cutscenes and a Linux
-    build
-  publishedAt: '2026-10-06T22:48:40Z'
-  url: 'https://github.com/nathanialf/ico-pc/releases/tag/v0.3.0'
+  tag: v0.5.1
+  name: v0.5.1
+  publishedAt: '2026-10-10T00:12:21Z'
+  url: 'https://github.com/nathanialf/ico-pc/releases/tag/v0.5.1'
 activity:
   lastChecked: '2026-10-06T21:53:56.790Z'
-  lastSynchronized: '2026-10-07T00:43:17.861Z'
+  lastSynchronized: '2026-10-10T00:51:49.449Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c9f254c09fdbca16f4f7633abbe67339050ef873a3356f8b95ca6c627045d6d3"
-    releasesEtag: W/"40241e332fade3603b6f0426e02821e459f63cc26bbaed0e9feaff6d81b6caca"
+    repoEtag: W/"85180e453220a47fd38285bc48cb21ba3e5499840968d034274364b9ac62d84c"
+    releasesEtag: W/"c6a5e9a8f9f07f8d0b678c346f0d1b649e1fd658254ec5816c8c5ddd6543b221"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

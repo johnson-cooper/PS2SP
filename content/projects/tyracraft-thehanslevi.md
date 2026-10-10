@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-09T09:38:29.415Z'
+  lastSynchronized: '2026-10-10T00:52:42.798Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"851ce4e4f74eb3f5d928d316708c87e8a9e4ef4745e0349a24ccf58112b3a47a"
+    releasesEtag: '"e08f60fe66077149f3e70a26b4a2723ca1c47c44d18fd90f667823ba6aedd076"'
 discovery:
   method: 'fork-network:Wellinator/tyracraft'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: Wellinator/tyracraft
   source: Wellinator/tyracraft
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

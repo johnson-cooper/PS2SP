@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 447
+  stars: 448
   forks: 36
   lastCommit: '2025-03-28T18:46:16Z'
 latestRelease:
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/israpps/FreeMcBoot-Installer/releases/tag/latest'
 activity:
   lastChecked: '2026-09-29T00:27:02.184Z'
-  lastSynchronized: '2026-10-07T00:43:16.629Z'
+  lastSynchronized: '2026-10-10T00:51:48.382Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"056cd61fc91933ac2659e7ef53bf1e74c9fb529baac96f789c5ecc436468f676"
-    releasesEtag: W/"be348a07d128dab1aa2610f6fdcd888f769b41ec34ecbb830e7b850a348af015"
+    repoEtag: W/"1f7329e43a5c9363fbd403a71ff9d0709175cd8279994245b0b14739a2c5d6bb"
+    releasesEtag: W/"5610111b1158439ba13bd83801d177273d81727fe5e6dbb7b8777affa86728ba"
 discovery:
   method: curated
   confidence: 100

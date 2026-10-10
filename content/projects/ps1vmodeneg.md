@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2022-02-02T08:08:54Z'
   url: 'https://github.com/ps2homebrew/PS1VModeNeg/releases/tag/1.10'
 activity:
-  lastSynchronized: '2026-10-07T00:43:43.502Z'
+  lastSynchronized: '2026-10-10T00:52:18.103Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6e2a8762068c43a5e4938c28ca95e0129aca4f999330bc7e52a38337d1d9acce"
-    releasesEtag: W/"32dd40524029f7a3b5ed30bd3866371cd1bd65b96e581daa4f25e7219631349b"
+    repoEtag: W/"45ab6703fcc5e1dbdce60f06494536ed0ec9dd50b53591efc211fb78392e78b8"
+    releasesEtag: W/"58df65a961f298d827cc9454418de936d5ae565aab91ec604e137eebd60776fa"
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100
