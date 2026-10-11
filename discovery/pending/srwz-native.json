@@ -1,0 +1,16 @@
+{
+  "repository": "SloppyWyn/SRWZ-native",
+  "repositoryId": "1414286863",
+  "url": "https://github.com/SloppyWyn/SRWZ-native",
+  "description": "Native Windows port of Super Robot Taisen Z (PS2) by static recompilation with PS2Recomp. No game data included: bring your own disc.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-11T15:57:48.472Z",
+  "checkedAt": "2026-10-11T15:57:48.472Z"
+}
