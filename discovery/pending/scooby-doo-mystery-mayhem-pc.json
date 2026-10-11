@@ -1,0 +1,16 @@
+{
+  "repository": "Campfirecrucifix/scooby-doo-mystery-mayhem-pc",
+  "repositoryId": "1414048156",
+  "url": "https://github.com/Campfirecrucifix/scooby-doo-mystery-mayhem-pc",
+  "description": "Fan PC port of Scooby-Doo! Mystery Mayhem (PS2) in Rust/Bevy. No game assets: bring your own ISO.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-11T09:18:35.593Z",
+  "checkedAt": "2026-10-11T09:18:35.593Z"
+}

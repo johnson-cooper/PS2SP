@@ -1,0 +1,16 @@
+{
+  "repository": "manstie/open-rac-engine",
+  "repositoryId": "1414067387",
+  "url": "https://github.com/manstie/open-rac-engine",
+  "description": "Opensource Ratchet & Clank engine for early PS2 era Ratchet & Clank games",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-11T09:18:35.593Z",
+  "checkedAt": "2026-10-11T09:18:35.593Z"
+}
