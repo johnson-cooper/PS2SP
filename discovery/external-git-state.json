@@ -582,7 +582,9 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig@main": "412e1169162e0acdd691dcc7b10cdfcbd34535f7",
     "https://git.techwritescode.dev/api/v1|ps2/tools@ps2client-public": "1f24c0bd55ba0427f676aeb0a6315fe5e7c2d1c1",
     "https://git.techwritescode.dev/api/v1|ps2/ps2build@docs/registry-index": "4f6abbb328f1ae7886e8b48e6679b5e5b63d745f",
-    "https://git.techwritescode.dev/api/v1|ps2/ps2build@feature/ps2-48-assets": "ca11746243ee811347263d48f6108168d253dbd5"
+    "https://git.techwritescode.dev/api/v1|ps2/ps2build@feature/ps2-48-assets": "ca11746243ee811347263d48f6108168d253dbd5",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm@statvfs-header": "1f4498e9757ea01a42b9242cbe8d8d50de4d28de",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-filesystem": "565a4eef0a11e1f6e124ada6a8d897f3398ce987"
   },
   "branchPage": {
     "https://git.techwritescode.dev/api/v1|ps2/ps2build": 2,
@@ -591,7 +593,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/toolchain": 2,
     "https://git.techwritescode.dev/api/v1|ps2/masp": 2,
     "https://git.techwritescode.dev/api/v1|ps2/openvcl": 2,
-    "https://git.techwritescode.dev/api/v1|ps2/newlib": 3,
+    "https://git.techwritescode.dev/api/v1|ps2/newlib": 4,
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded": 2,
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core": 2,
     "https://git.techwritescode.dev/api/v1|ps2/tools": 2,
@@ -665,18 +667,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-10-11T10:31:37.073Z",
+    "at": "2026-10-11T16:29:47.460Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 31,
-    "branchesChanged": 0,
-    "treesScanned": 0,
+    "branchesSeen": 128,
+    "branchesChanged": 2,
+    "treesScanned": 2,
     "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 0,
-    "nestedAdded": 0,
-    "requests": 80,
+    "branchesAdded": 2,
+    "nestedAdded": 42,
+    "requests": 79,
     "stoppedForBudget": false
   },
-  "queueCursor": 31
+  "queueCursor": 13
 }
