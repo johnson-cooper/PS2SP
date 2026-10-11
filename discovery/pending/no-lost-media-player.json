@@ -1,0 +1,16 @@
+{
+  "repository": "SarmentoCaio/No-Lost-Media-Player",
+  "repositoryId": "1380163925",
+  "url": "https://github.com/SarmentoCaio/No-Lost-Media-Player",
+  "description": "Emulador web independente do No Lost Media para SNES, N64, PS1 e futuro suporte a PS2",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-11T02:11:44.268Z",
+  "checkedAt": "2026-10-11T02:11:44.268Z"
+}
