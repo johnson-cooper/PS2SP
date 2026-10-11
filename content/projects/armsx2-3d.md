@@ -19,7 +19,7 @@ source:
 repository:
   archived: false
   defaultBranch: quest-vr-stereo
-  stars: 2
+  stars: 4
   forks: 0
   lastCommit: '2026-09-27T11:33:33Z'
 latestRelease:
@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-09-23T11:45:33Z'
   url: 'https://github.com/SgtBilko76/ARMSX2-3D/releases/tag/v0.3-beta'
 activity:
-  lastSynchronized: '2026-10-08T15:37:26.201Z'
+  lastSynchronized: '2026-10-11T15:41:23.108Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9049ef2b2b7392adb46571b9ae6ca0f3cf8da9659b63f9b1518cb2a86585d336"
-    releasesEtag: W/"41818c2368fbe0cdb41cd892528bf58078d1765abf6f714ef30df6e836f3b2be"
+    repoEtag: W/"55819cf63fab55379ac2ed2937a498ff5d9e10e8df776476a6bc9962c8067afc"
+    releasesEtag: W/"4c8caaf2cc357dd041f0963c87014dbee2a1ff4cd4e6df7d7f793d9f875dfb1b"
 discovery:
   method: 'incremental:topic:ps2'
   confidence: 100

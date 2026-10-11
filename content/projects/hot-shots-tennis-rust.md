@@ -22,19 +22,23 @@ source:
   url: 'https://github.com/FIZL0/hot-shots-tennis-rust'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-09T15:30:23Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.1.0-alpha.4
+  name: Alpha 4
+  publishedAt: '2026-10-09T15:30:28Z'
+  url: 'https://github.com/FIZL0/hot-shots-tennis-rust/releases/tag/v0.1.0-alpha.4'
 activity:
   lastChecked: '2026-10-09T16:35:29.097Z'
+  lastSynchronized: '2026-10-11T15:41:43.768Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e3786225dcb9a05ac8d2ffa54453b12cb9e61afb45341e2e443f091953db69fc"
+    releasesEtag: W/"b61e7c8b6fa939245a78af6863d9a695c33af6d66ab0ad3dad9d9a6352e06046"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85
@@ -47,5 +51,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.
