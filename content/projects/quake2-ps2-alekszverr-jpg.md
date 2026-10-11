@@ -28,19 +28,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-07T10:35:32Z'
+  lastCommit: '2026-10-09T15:07:08Z'
 latestRelease:
   tag: v0.1.0-alpha.72
   name: Quake II PS2 0.1.0-alpha.72
   publishedAt: '2026-09-13T14:27:52Z'
   url: 'https://github.com/alekszverr-jpg/quake2-ps2/releases/tag/v0.1.0-alpha.72'
 activity:
-  lastSynchronized: '2026-10-08T01:01:50.921Z'
+  lastSynchronized: '2026-10-11T01:55:05.463Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b4c747a5324a8276322a5f04e728ec2aa070ae02d9435e56d10667fc641ae3e2"
-    releasesEtag: W/"5a8608c0f57ccbc0d6eeb1d438741f762e8bfb990544908d4ab2a4601a9cc8ba"
+    repoEtag: W/"9eea0a05d4cb0f7f4ad0db000b6c1591f4dc6e9e625d992e5e9d8efbb1b6f847"
+    releasesEtag: W/"94b3c342cf6ad87631c8f764aa677c7ac0a9810417fe45fcb2440e78f15f273d"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

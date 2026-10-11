@@ -27,19 +27,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-01T15:16:38Z'
+  lastCommit: '2026-10-08T16:18:13Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-08T01:01:26.617Z'
+  lastSynchronized: '2026-10-11T01:54:36.352Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fe5efea1cbbd04d0ebfb868374e460ccd63ec3223fa36d600d8c6b10c862ecd1"
-    releasesEtag: '"44c99e19d6cfb480c6298becb242ab4963907c99ac330a153049370e2c1d93bb"'
+    repoEtag: W/"adc0f42bdf365d0a1156b3e05e062dcf2306b36a8e96bc94fa568eca554587eb"
+    releasesEtag: '"ac5e4ae8e17df10693dc47caf88f169f6061baec32f3803eeb6c545ff33cac18"'
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

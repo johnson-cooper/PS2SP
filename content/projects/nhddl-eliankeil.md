@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-01-02T15:38:51Z'
   url: 'https://github.com/eliankeil/nhddl/releases/tag/Experimental'
 activity:
-  lastSynchronized: '2026-10-08T01:01:23.747Z'
+  lastSynchronized: '2026-10-11T01:54:32.970Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b81bf49242055dcbe2a5e1e99248d697d88957ddd7b99b21373818447136d3fc"
-    releasesEtag: W/"41e94cae6160e6ba0a5200c96fae8174de8267e3e40aef18d6a9a28fb6d9e366"
+    repoEtag: W/"716ac6cf80048ba6e3916b345911bd8c508296c3cd2b4bd6bf33a0629e00f78f"
+    releasesEtag: W/"cd79ac6b85ced4a6f04867f153add3cc15fe022d415452a0eb21b6cb7edc6968"
 discovery:
   method: 'fork-network:pcm720/nhddl'
   confidence: 100

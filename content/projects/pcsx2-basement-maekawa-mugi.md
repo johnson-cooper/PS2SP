@@ -17,22 +17,22 @@ source:
   repositoryId: '1345128189'
 repository:
   archived: false
-  defaultBranch: fulltlb-kseg-fastmem
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-03T23:18:00Z'
+  lastCommit: '2026-10-10T21:47:38Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-08T01:01:32.184Z'
+  lastSynchronized: '2026-10-11T01:54:43.173Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1b3180597f59c4ab78d66d0278dbb421a4b215ed1ac904a8dd113564fb78806e"
-    releasesEtag: '"44c99e19d6cfb480c6298becb242ab4963907c99ac330a153049370e2c1d93bb"'
+    repoEtag: W/"85d1c54df98d61c090ad99b21c00c4bb7acc2bb2f90e12e232cd4a2166f29fba"
+    releasesEtag: '"ac5e4ae8e17df10693dc47caf88f169f6061baec32f3803eeb6c545ff33cac18"'
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 95

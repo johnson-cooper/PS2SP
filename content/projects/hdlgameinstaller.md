@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/ps2homebrew/HDLGameInstaller/releases/tag/v0.821'
 activity:
   lastChecked: '2026-09-29T00:27:04.129Z'
-  lastSynchronized: '2026-10-08T01:01:14.679Z'
+  lastSynchronized: '2026-10-11T01:54:18.820Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"de227ecb42d61510c4b9c46799a8c69f1b575b9af3d34c04647d5be79b49b0df"
-    releasesEtag: W/"83411d54bd26bc9b4828b439a15d83beba28881aa280a9c56046060a44efdc44"
+    repoEtag: W/"b39d77976a079725049a25d9b0fefa83a2576f15621a794ec35d421eb305c127"
+    releasesEtag: W/"894d62eef47a5a0bd7ce8fc1f14fd3b357d05843999411c79b25219727fdb549"
 discovery:
   method: curated
   confidence: 100

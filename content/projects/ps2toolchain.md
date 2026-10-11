@@ -21,7 +21,7 @@ repository:
   archived: false
   defaultBranch: master
   stars: 276
-  forks: 86
+  forks: 87
   lastCommit: '2026-10-03T11:14:59Z'
 latestRelease:
   tag: '2018-10-19'
@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/ps2dev/ps2toolchain/releases/tag/2018-10-19'
 activity:
   lastChecked: '2026-09-29T00:27:13.927Z'
-  lastSynchronized: '2026-10-08T01:01:49.090Z'
+  lastSynchronized: '2026-10-11T01:55:03.575Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1f4c18a3f212ade1b3798fb2e71f0b48340648202fe4ceb986b1e09109679268"
-    releasesEtag: W/"7678aefffea845e7fdac56da1a1b2db47d25e4e62b38920c0ad4b9ac0d3c1943"
+    repoEtag: W/"fed8d8409ee4659dd4ea481e9cea2be6ae9a0c76a42a7c3e46b72dec5f752fe0"
+    releasesEtag: W/"4d1700d4452c76b5bec2a3522de4d2c0f330e0986f5378b9a438aed73ece3b77"
 discovery:
   method: curated
   confidence: 100

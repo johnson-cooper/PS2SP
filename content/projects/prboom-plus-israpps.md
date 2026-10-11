@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-09T09:38:29.415Z'
+  lastSynchronized: '2026-10-11T01:54:51.036Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"84a2029ec7032eb2ba108b680d3ff57cf7811c293e3470143cc870a02a990397"
+    releasesEtag: '"ac5e4ae8e17df10693dc47caf88f169f6061baec32f3803eeb6c545ff33cac18"'
 discovery:
   method: 'fork-network:Wolf3s/prboom-plus'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: Wolf3s/prboom-plus
   source: coelckers/prboom-plus
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
