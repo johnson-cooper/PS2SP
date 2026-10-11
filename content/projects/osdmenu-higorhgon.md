@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-08T03:35:46Z'
   url: 'https://github.com/higorhgon/OSDMenu/releases/tag/osdhub-2026.10.08'
 activity:
-  lastSynchronized: '2026-10-09T20:56:18.385Z'
+  lastSynchronized: '2026-10-11T20:17:55.102Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"280e037a0f7865988a6b5823f5e0aa3ed96e211ecb32ad07a7fcf630b817d954"
-    releasesEtag: W/"704cff8f1f936d1b14b7d76a576a3a89a9814c96f697cb73e59b326dd2f3f833"
+    repoEtag: W/"48157da530adc4154b59ba4406150d2f436deb7d2cadfe9446bde04577b003e2"
+    releasesEtag: W/"7f5ad04e2a8f81d9c46ad203bc5d067c42cbcc17877f55fe1847557b9a7cf685"
 discovery:
   method: 'fork-network:pcm720/OSDMenu'
   confidence: 95

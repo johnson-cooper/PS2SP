@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2026-05-13T15:20:22Z'
   url: 'https://github.com/uyjulian/ps2link/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-09T20:56:40.304Z'
+  lastSynchronized: '2026-10-11T20:18:13.361Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b0ccfdfaf6584fb636b00bda587137be6a2f705c59fa035ccb5e8459e50ddcd8"
-    releasesEtag: W/"c4be59c8eae3532db0167240a5862779851957a92a602ac730ada6a2dd62cc57"
+    repoEtag: W/"b06f2fc0af75980dc6c5b79ddfe2a1c43a2b8a8be9b507d75891b77307d90230"
+    releasesEtag: W/"894c4d00b26dff86957a049f838bf7c6a6bccd6d9e06925cfbac3faef74e5ff6"
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100
