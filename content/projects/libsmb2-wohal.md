@@ -1,7 +1,9 @@
 ---
 name: libsmb2
 slug: libsmb2-wohal
-summary: "Userspace SMB2/SMB3 client library ported to PlayStation 2 for connecting to modern network shares in homebrew loaders."
+summary: >-
+  Userspace SMB2/SMB3 client library ported to PlayStation 2 for connecting to
+  modern network shares in homebrew loaders.
 categories:
   - libraries
   - networking
@@ -30,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T08:38:19.454Z'
+  lastSynchronized: '2026-10-11T08:51:39.445Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b167f42bf1708ba2a7a0e19cfed7994771ae41534a2399e285d1c8079c49da6e"
-    releasesEtag: '"fdaba95a6d518555214f66c0db98f5da5da81197d4c76531684b38d08594be60"'
+    repoEtag: W/"a361b143c29f4eb55084a7b1130665b3bcaf2534f988207326a48974080b2d6b"
+    releasesEtag: '"8319ae7601177a31d3f2724a3bb97a3d4a4b2de9c008246b6300bab6f6ae39ce"'
 discovery:
   method: 'fork-network:sahlberg/libsmb2'
   confidence: 95

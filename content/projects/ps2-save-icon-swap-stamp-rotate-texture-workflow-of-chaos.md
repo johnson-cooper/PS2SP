@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/NathanNeurotic/PS2-Save-Icon-Swap-Stamp-Rotate-Texture-Workflow-of-Chaos/releases/tag/latest
 activity:
-  lastSynchronized: '2026-10-02T08:38:40.194Z'
+  lastSynchronized: '2026-10-11T08:52:01.324Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3d754be22fbc5a48d2aa3627f4c09da7c5fe020cd3db9fc042e740ff7b78edd9"
-    releasesEtag: W/"f7c896640953b4af9b4568a3086099a028cbbd69bd145c04983825a392648555"
+    repoEtag: W/"96f50b50ae73ad7d0e5ef15a3eeef42505fc34c0b479e6a09e1997e087825f27"
+    releasesEtag: W/"998b84b38044b45a86710e973c82006dfcd7cc43600cf964d7dac8889e74e1ae"
 discovery:
   method: curated-owner
   confidence: 100

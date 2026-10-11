@@ -18,8 +18,8 @@ source:
 repository:
   archived: true
   defaultBranch: master
-  stars: 317
-  forks: 18
+  stars: 316
+  forks: 19
   lastCommit: '2023-07-02T19:27:45Z'
 latestRelease:
   tag: v1.2.0.6-1996-Beta
@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/grimdoomer/Open-PS2-Loader/releases/tag/v1.2.0.6-1996-Beta
 activity:
-  lastSynchronized: '2026-10-02T08:38:28.179Z'
+  lastSynchronized: '2026-10-11T08:51:48.734Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a0028ba83e37a16b2164754f46f36ab67dd6b5cc22e9852af6d9ad5023526560"
-    releasesEtag: W/"116d2ee8e89bcda8e9effab20c81670e0bbee9ba7ab761dcae4147fced1e7cb5"
+    repoEtag: W/"0ea7be48249b798ba4dba1492c74ac20b9b223f734e55d8e0d0fb5856dc53c05"
+    releasesEtag: W/"0fe4d15d767bdaeaae5de84cab6140bbde96997d1b25a7f9230e1c8a70d4066b"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

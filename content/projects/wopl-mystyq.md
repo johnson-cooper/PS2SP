@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: '2026-07-24T01:25:43Z'
   url: 'https://github.com/mystyq/wOPL/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-03T22:26:09.550Z'
+  lastSynchronized: '2026-10-11T08:52:19.128Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"21732b0d8550b14afb054bdf26f753e069c9c013789a2c7328ee2f15c6f9d1a1"
+    releasesEtag: W/"3622c8a3f331940f58227335f172af76e10b58fae319aa7c0c401c30edfe2a4c"
 discovery:
   method: 'fork-network:ps2homebrew/wOPL'
   confidence: 100
@@ -53,5 +56,4 @@ relationships:
   forkOf: ps2homebrew/wOPL
   source: ps2homebrew/wOPL
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

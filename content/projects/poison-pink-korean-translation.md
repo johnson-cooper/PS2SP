@@ -31,12 +31,12 @@ latestRelease:
     https://github.com/Jungsik-won/Poison-Pink-Korean-Translation/releases/tag/v0.4.0-dev
 activity:
   lastChecked: '2026-10-01T14:52:44.353Z'
-  lastSynchronized: '2026-10-02T08:38:36.092Z'
+  lastSynchronized: '2026-10-11T08:51:57.400Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b705e511bcfb06579ea808ecddfe58b2c1d1e0cc7ae7f018ea98c73579cadadf"
-    releasesEtag: W/"7525c73155e2e14941679c27a918c4265c1b84143904a08122a9a14c0371c5a6"
+    repoEtag: W/"388977626f234e0ec221713968dbb9611003cdb1fe105155d476dd130e8205fe"
+    releasesEtag: W/"924946d87fa86793d2e07230d75ed20611dfc81d7d0825de056965e72ce7a8db"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

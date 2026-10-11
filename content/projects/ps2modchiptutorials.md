@@ -1,7 +1,9 @@
 ---
 name: ps2modchiptutorials
 slug: ps2modchiptutorials
-summary: "Reference guides, schematics, and installation tutorials for PlayStation 2 modchips."
+summary: >-
+  Reference guides, schematics, and installation tutorials for PlayStation 2
+  modchips.
 categories:
   - hardware
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T08:38:41.889Z'
+  lastSynchronized: '2026-10-11T08:52:03.920Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d60f9d8a38625c2196f2fd587b6cb59f00501235002a44f479feb4eef2ca290c"
-    releasesEtag: '"fdaba95a6d518555214f66c0db98f5da5da81197d4c76531684b38d08594be60"'
+    repoEtag: W/"37697e9a4b75c7144ebc904fe9389b2c2b6e81980415454d9c6213c343daebc4"
+    releasesEtag: '"8319ae7601177a31d3f2724a3bb97a3d4a4b2de9c008246b6300bab6f6ae39ce"'
 discovery:
   method: curated-owner
   confidence: 100

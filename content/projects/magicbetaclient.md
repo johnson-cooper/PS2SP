@@ -21,19 +21,23 @@ source:
   url: 'https://github.com/BrownNPC/MagicBetaClient'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: master
+  stars: 3
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-07T13:27:58Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: 0.0.1
+  name: Preview release
+  publishedAt: '2026-07-31T18:26:42Z'
+  url: 'https://github.com/BrownNPC/MagicBetaClient/releases/tag/0.0.1'
 activity:
   lastChecked: '2026-10-07T16:24:32.585Z'
+  lastSynchronized: '2026-10-11T08:51:40.824Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"44b85e815fdb79d3332f51eb22b1fc4df04fa997e1e560afe853fdc407d1ed18"
+    releasesEtag: W/"e305489544103cb5c44030dcd21ab21823629e03804447dc89761b40e3c3bd73"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -46,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

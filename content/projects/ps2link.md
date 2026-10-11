@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/ps2dev/ps2link/releases/tag/RenameMe'
 activity:
   lastChecked: '2026-09-29T00:27:12.819Z'
-  lastSynchronized: '2026-10-02T08:38:41.375Z'
+  lastSynchronized: '2026-10-11T08:52:03.549Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"73c44e414fbb6d03450c09fdf1bd991b7ec0c49dcdaca6667f61007a57a84eed"
-    releasesEtag: W/"0a31d1a82db5a79ff4cafaf58b1905d73a896efe6a74db8380fd7f38d10bc324"
+    repoEtag: W/"7ecb10fc99d583d6a2f12af8a78b6f27ebddc49541c3ab418328aab8d00737dc"
+    releasesEtag: W/"0d22998d58c4b12cde12831ecce7d56bcfe02669af996ebf8daffcb7063b6d76"
 discovery:
   method: curated
   confidence: 100

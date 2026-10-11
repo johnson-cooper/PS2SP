@@ -1,7 +1,9 @@
 ---
 name: usbhdfsd
 slug: usbhdfsd
-summary: "USB mass storage driver providing FAT16/FAT32/exFAT drive access for PlayStation 2 homebrew."
+summary: >-
+  USB mass storage driver providing FAT16/FAT32/exFAT drive access for
+  PlayStation 2 homebrew.
 categories:
   - drivers
 tags:
@@ -26,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T08:38:45.767Z'
+  lastSynchronized: '2026-10-11T08:52:17.667Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a2880fcbeae0de58115fb49d0e96e23545ddebd743a4a25ec23a1eaa5e83490c"
-    releasesEtag: '"fdaba95a6d518555214f66c0db98f5da5da81197d4c76531684b38d08594be60"'
+    repoEtag: W/"e2167a94d523228d5614a04bcf284617c77316f492a0f03c7d7e17f78abeafdc"
+    releasesEtag: '"8319ae7601177a31d3f2724a3bb97a3d4a4b2de9c008246b6300bab6f6ae39ce"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 95

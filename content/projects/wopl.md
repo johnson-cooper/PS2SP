@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: wOPL-base
-  stars: 65
+  stars: 66
   forks: 8
   lastCommit: '2026-09-24T17:12:09Z'
 latestRelease:
@@ -33,12 +33,12 @@ latestRelease:
     https://github.com/ps2homebrew/wOPL/releases/tag/v1.1-351-20260514-082037-786-8742426
 activity:
   lastChecked: '2026-09-29T00:27:16.252Z'
-  lastSynchronized: '2026-10-02T08:38:46.886Z'
+  lastSynchronized: '2026-10-11T08:52:19.583Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2249b5b99c46c7feff796cd8b8d77f4233ec59b22f793ed8b7b73b4461bfbc46"
-    releasesEtag: W/"0ae0d6512f5fb112629d37f804285f768f1c4f41447c74c25471d7d31c9de6d7"
+    repoEtag: W/"4de3cdf9fc96518583a5d48c305e1f01e89b2f69874c7fb940f9d56c634bb4f0"
+    releasesEtag: W/"c8e64fce129cc0f9b657ce66f3681ca0993d3a64272fe38c8d28dbd833995892"
 discovery:
   method: curated
   confidence: 100

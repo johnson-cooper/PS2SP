@@ -1,7 +1,7 @@
 ---
 name: libmp3
 slug: libmp3
-summary: "MP3 audio streaming and playback library for PlayStation 2 applications."
+summary: MP3 audio streaming and playback library for PlayStation 2 applications.
 categories:
   - libraries
   - media
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T08:38:17.328Z'
+  lastSynchronized: '2026-10-11T08:51:36.560Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b97c0911db0b7401bd5b323ac3892ac36e3eec47adaf7b54a8d262e12a437c04"
-    releasesEtag: '"fdaba95a6d518555214f66c0db98f5da5da81197d4c76531684b38d08594be60"'
+    repoEtag: W/"eb0b56320db55c6f4bcbf282e722aba233b8332055c1055241131279c065d2fc"
+    releasesEtag: '"8319ae7601177a31d3f2724a3bb97a3d4a4b2de9c008246b6300bab6f6ae39ce"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 95

@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2024-08-21T23:44:37Z'
   url: 'https://github.com/alex-free/psx80mp/releases/tag/v2.0.1'
 activity:
-  lastSynchronized: '2026-10-02T08:38:42.771Z'
+  lastSynchronized: '2026-10-11T08:52:10.380Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1b3c45148aff3a70e923573c715701df662598cbafc388a9187bb859d34739f2"
-    releasesEtag: W/"96a9f674586b799ac2bb1afbbe4e6e95478985413d68805abc2f8102c9bf3818"
+    repoEtag: W/"87019b96b9f793acb565bf3a1299d1544682acd41e7f578c0c010a34426a2e93"
+    releasesEtag: W/"c6850bf384abd96e967dc543110b7744a651f7f99fc997c29f24938426663937"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

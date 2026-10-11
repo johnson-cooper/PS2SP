@@ -1,7 +1,9 @@
 ---
 name: ps2-covers
 slug: ps2-covers-footballhd720p
-summary: "Community collection of PlayStation 2 3D and 2D box art covers formatted for Open PS2 Loader (OPL) and PCSX2."
+summary: >-
+  Community collection of PlayStation 2 3D and 2D box art covers formatted for
+  Open PS2 Loader (OPL) and PCSX2.
 categories:
   - themes
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T08:38:37.516Z'
+  lastSynchronized: '2026-10-11T08:51:58.699Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f9cae8d8cb658c5302cdd98543e9fd0fbab28530377c489150eb3d0d8ede8ad9"
-    releasesEtag: '"fdaba95a6d518555214f66c0db98f5da5da81197d4c76531684b38d08594be60"'
+    repoEtag: W/"d1521745633a05b089c96a51bef9dd8c01bc67315b453046b72880357a8bf983"
+    releasesEtag: '"8319ae7601177a31d3f2724a3bb97a3d4a4b2de9c008246b6300bab6f6ae39ce"'
 discovery:
   method: 'fork-network:xlenore/ps2-covers'
   confidence: 100

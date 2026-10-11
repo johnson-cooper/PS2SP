@@ -1,7 +1,9 @@
 ---
 name: libsmb2
 slug: libsmb2-quvideodeveloper
-summary: "Userspace SMB2/SMB3 client library ported to PlayStation 2 for connecting to modern network shares in homebrew loaders."
+summary: >-
+  Userspace SMB2/SMB3 client library ported to PlayStation 2 for connecting to
+  modern network shares in homebrew loaders.
 categories:
   - libraries
   - networking
@@ -30,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T08:38:18.980Z'
+  lastSynchronized: '2026-10-11T08:51:38.633Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"595e13c19372cefe1e4b7ae6add880c18bb0fe9336ab8b6d4ed39da223ba617a"
-    releasesEtag: '"fdaba95a6d518555214f66c0db98f5da5da81197d4c76531684b38d08594be60"'
+    repoEtag: W/"5b95705a969af46880828f79e2978db09554c50ff4031c1a52055f8dc9713442"
+    releasesEtag: '"8319ae7601177a31d3f2724a3bb97a3d4a4b2de9c008246b6300bab6f6ae39ce"'
 discovery:
   method: 'fork-network:sahlberg/libsmb2'
   confidence: 95
