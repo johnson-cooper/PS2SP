@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-10T00:52:09.924Z'
+  lastSynchronized: '2026-10-12T00:33:08.464Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f77df9eaa2c45c255a50634f47c8209dfcac7e1c7687dc9a0b8b39c8095f6239"
-    releasesEtag: '"e08f60fe66077149f3e70a26b4a2723ca1c47c44d18fd90f667823ba6aedd076"'
+    repoEtag: W/"fa852edf408f38cd70f75ab88e26788cc96042b30a58fb3b0e6445b4bb38ecd5"
+    releasesEtag: '"e8b81e8dfe2477c89d252962dd03ff52c147ee586d8cf72435ec0a64993fa146"'
 discovery:
   method: 'fork-network:PixeliGer/OPL-Theme-Pixel-Prime'
   confidence: 95

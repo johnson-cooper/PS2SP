@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-10T00:52:22.468Z'
+  lastSynchronized: '2026-10-12T00:33:19.232Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d72115ec12074e75806cb068622c1f0ca945bf8742c75b55f8eceed089d479af"
-    releasesEtag: '"e08f60fe66077149f3e70a26b4a2723ca1c47c44d18fd90f667823ba6aedd076"'
+    repoEtag: W/"c0ecd6e8616102778ae02d168e8da0b9c5b56238bcb5a3f886fedaf0e5aec0eb"
+    releasesEtag: '"e8b81e8dfe2477c89d252962dd03ff52c147ee586d8cf72435ec0a64993fa146"'
 discovery:
   method: 'fork-network:VTSTech/PS2-OPL-CFG'
   confidence: 100

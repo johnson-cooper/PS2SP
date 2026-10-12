@@ -15,7 +15,7 @@ tags:
 features: []
 authors: []
 license: null
-homepage: null
+homepage: 'https://themoonpeople.github.io/Chronicle/'
 source:
   provider: github
   repository: Wesker89/Chronicle
@@ -23,10 +23,10 @@ source:
   url: 'https://github.com/Wesker89/Chronicle'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-10T05:41:13Z'
 latestRelease:
   tag: null
   name: null
@@ -34,8 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-10T13:58:59.079Z'
+  lastSynchronized: '2026-10-12T00:32:43.585Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"dfe3cb9f8de380b8f76080cef6fd012de82020581b5b1aeb95b580e76eb67b38"
+    releasesEtag: '"e8b81e8dfe2477c89d252962dd03ff52c147ee586d8cf72435ec0a64993fa146"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85
@@ -51,5 +55,4 @@ relationships:
   forkOf: TheMoonPeople/Chronicle
   source: TheMoonPeople/Chronicle
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

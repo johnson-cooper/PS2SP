@@ -24,18 +24,22 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 0
+  stars: 1
   forks: 0
-  lastCommit: '2026-10-11T01:35:01Z'
+  lastCommit: '2026-10-11T08:37:04Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.4.0-beta.1
+  name: ProjectCane QOL v0.4.0-beta.1 - Installer
+  publishedAt: '2026-10-11T08:15:03Z'
+  url: >-
+    https://github.com/Komasia/ProjectCane-QOL-Features-/releases/tag/v0.4.0-beta.1
 activity:
-  lastSynchronized: '2026-10-11T02:11:44.268Z'
+  lastSynchronized: '2026-10-12T00:33:15.683Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0236e8230fbc056939875f798d6169ea7225ae951a3d9d61322265fe792a0cb5"
+    releasesEtag: W/"2841a115db665abd2867e210b63953df4e07749068acb72bf0b9f225573b640b"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -51,5 +55,4 @@ relationships:
   forkOf: theclub654/ProjectCane
   source: theclub654/ProjectCane
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
