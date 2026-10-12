@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2025-11-28T10:46:11Z'
   url: 'https://github.com/GorGylka/OSD-XMB-HD/releases/tag/3'
 activity:
-  lastSynchronized: '2026-10-10T07:08:19.207Z'
+  lastSynchronized: '2026-10-12T07:21:56.673Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"12df1005d350cfa172f452b5dcf69737bc4fbda9896338675cf0ebc7b928a989"
-    releasesEtag: W/"8364a76d5c6c10a1dbc183c47c01827964546e25937ada27f712201c75596c37"
+    repoEtag: W/"d0f0fe7adc31179bc45232bab425cb72c30633f10e6fb0528f350a3130d4672a"
+    releasesEtag: W/"1cc5236b67958a099b8eb174ed5ba8b86206029e1b4060790cbfd7c4bb54b448"
 discovery:
   method: 'fork-network:HiroTex/OSD-XMB'
   confidence: 100
