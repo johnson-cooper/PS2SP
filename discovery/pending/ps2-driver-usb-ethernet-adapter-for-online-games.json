@@ -1,0 +1,16 @@
+{
+  "repository": "valeraladutko1889-creator/Ps2-driver-usb-Ethernet-adapter-for-online-games-",
+  "repositoryId": "1415620360",
+  "url": "https://github.com/valeraladutko1889-creator/Ps2-driver-usb-Ethernet-adapter-for-online-games-",
+  "description": null,
+  "score": 85,
+  "evidence": [
+    "repository name explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-10-12T16:07:57.694Z",
+  "checkedAt": "2026-10-12T16:07:57.694Z"
+}
