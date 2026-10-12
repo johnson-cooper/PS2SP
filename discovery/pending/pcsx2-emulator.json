@@ -1,0 +1,16 @@
+{
+  "repository": "sophiablack04/Pcsx2-Emulator",
+  "repositoryId": "1414732176",
+  "url": "https://github.com/sophiablack04/Pcsx2-Emulator",
+  "description": "🎮 PCSX2 Emulator Download for Windows 10 and 11. PlayStation 2 emulator with resolution upscaling, save states, controller mapping, widescreen patches, Vulkan rendering, plus setup notes and a short install walkthrough.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-11T23:59:35.154Z",
+  "checkedAt": "2026-10-11T23:59:35.154Z"
+}
