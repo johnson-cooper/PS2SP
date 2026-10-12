@@ -231,7 +231,7 @@
     }
   ],
   "branchHeads": {
-    "https://git.techwritescode.dev/api/v1|ps2/ps2build@master": "6438632d62bf10a365fdee5e44e3d9f05710bc35",
+    "https://git.techwritescode.dev/api/v1|ps2/ps2build@master": "8fbb3ed6704baf3db499d0d13bfb2da5961bc7ac",
     "https://git.techwritescode.dev/api/v1|ps2/ps2build@llvm": "7af4e19a999bba54816e6b8b46ca5a80ce2e98d2",
     "https://git.techwritescode.dev/api/v1|ps2/ps2build@add-dvp-vsm-support": "99a53b52171e10f78d066bcf5fdf3ff2f1eddc43",
     "https://git.techwritescode.dev/api/v1|ps2/gcc@master": "507a37e0ac2da66cc2399f563463eeabd38c342f",
@@ -570,10 +570,10 @@
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-100-test-matrix": "73d1f6b54be3c93db2f3ae4065bbdb17cdf006fa",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-104-eh-frame": "a18b79cf822b0724add5e97edb71fdc8717c1667",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-98-llvm-compat": "a00c8255dfe9958553baa41a5f18a546d94208bf",
-    "https://git.techwritescode.dev/api/v1|ps2/llvm@r5900-ee": "5451075516a23a51ed924f4a70508f05ef9b3a39",
+    "https://git.techwritescode.dev/api/v1|ps2/llvm@r5900-ee": "619102f222fcd43cafdcd4b8641c76fa1ffb35a7",
     "https://git.techwritescode.dev/api/v1|ps2/llvm@main": "fa360c3b8dbfd8a449364b7a6e454878bcf00eb9",
-    "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain@main": "753cd2be6b1b19bf9bd256c3cfaeae82e3f53199",
-    "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm@ee-v4.6.0-llvm": "1f4498e9757ea01a42b9242cbe8d8d50de4d28de",
+    "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain@main": "c9605c6ac48ec6ecfdd6c1093d967d8cfd8e2442",
+    "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm@ee-v4.6.0-llvm": "1ed722d54c78087034eaa9f8490abd607ecc3fc9",
     "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm@ee-v4.6.0": "58fb6406408a541e0c826f47487315b485d4db56",
     "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain@ci-exec-bits": "c0a7170a685999b503b62239903ae883954e347d",
     "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain@llvm-linux-runner": "836a3897ae39b0b0087214a33d91317b715fc81f",
@@ -667,18 +667,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-10-12T00:09:12.039Z",
+    "at": "2026-10-12T06:53:21.552Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 125,
-    "branchesChanged": 1,
-    "treesScanned": 1,
+    "branchesSeen": 34,
+    "branchesChanged": 4,
+    "treesScanned": 4,
     "reposAdded": 0,
     "forksAdded": 0,
     "branchesAdded": 0,
     "nestedAdded": 0,
-    "requests": 78,
+    "requests": 87,
     "stoppedForBudget": false
   },
-  "queueCursor": 15
+  "queueCursor": 35
 }
