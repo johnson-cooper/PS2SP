@@ -382,7 +382,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.106.8": "afbd09c568a622746d250134ed170fd46153dce9",
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded@platform_agnostic": "b1746fd2b52d5aeafc1173761eb50e0958e8994b",
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded@master": "de43c65b16a71d00acca0deaa7332e3c1335a42d",
-    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@main": "a5f5d166482bf365acdff4986ef6803616b69259",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@main": "e52d5df61b119197baaff741c3efa111e69186a1",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@remove-claude-md": "1fe1a05395eac2d8c8f44c699ed6cf39bc8acfc8",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@lwip-upgrade": "f42906f249f380ff746d057c00fece69c86cd060",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@llvm": "b4b46628a84ccb7d3bf542286feccf59828f9eda",
@@ -593,7 +593,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/toolchain": 2,
     "https://git.techwritescode.dev/api/v1|ps2/masp": 2,
     "https://git.techwritescode.dev/api/v1|ps2/openvcl": 2,
-    "https://git.techwritescode.dev/api/v1|ps2/newlib": 4,
+    "https://git.techwritescode.dev/api/v1|ps2/newlib": 5,
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded": 2,
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core": 2,
     "https://git.techwritescode.dev/api/v1|ps2/tools": 2,
@@ -667,18 +667,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-10-11T20:44:48.516Z",
+    "at": "2026-10-12T00:09:12.039Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 33,
-    "branchesChanged": 4,
-    "treesScanned": 4,
+    "branchesSeen": 125,
+    "branchesChanged": 1,
+    "treesScanned": 1,
     "reposAdded": 0,
     "forksAdded": 0,
     "branchesAdded": 0,
     "nestedAdded": 0,
-    "requests": 87,
+    "requests": 78,
     "stoppedForBudget": false
   },
-  "queueCursor": 33
+  "queueCursor": 15
 }
