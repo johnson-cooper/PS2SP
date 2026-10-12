@@ -1,7 +1,9 @@
 ---
 name: udpbd-vexfat
 slug: udpbd-vexfat-megabitmap
-summary: "UDP Block Device driver fork featuring virtual exFAT partition support for network loading on PlayStation 2."
+summary: >-
+  UDP Block Device driver fork featuring virtual exFAT partition support for
+  network loading on PlayStation 2.
 categories:
   - networking
 tags:
@@ -27,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T18:50:06.212Z'
+  lastSynchronized: '2026-10-12T17:55:49.424Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7a8707b9037fa2b2c5564d4892058c9dc4b47211664998f977931ac2477d035d"
+    releasesEtag: '"232fecf0339ea9a64c6208da0ca3e34c93a59c9f822e956fc52c506444185fff"'
 discovery:
   method: 'fork-network:awaken1ng/udpbd-vexfat'
   confidence: 95
@@ -43,5 +48,4 @@ relationships:
   forkOf: awaken1ng/udpbd-vexfat
   source: awaken1ng/udpbd-vexfat
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

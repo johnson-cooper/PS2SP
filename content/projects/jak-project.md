@@ -19,21 +19,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 3542
-  forks: 240
-  lastCommit: '2026-10-01T02:23:17Z'
+  stars: 3561
+  forks: 247
+  lastCommit: '2026-10-05T22:19:32Z'
 latestRelease:
   tag: v0.3.8
   name: v0.3.8
   publishedAt: '2026-09-20T04:27:59Z'
   url: 'https://github.com/open-goal/jak-project/releases/tag/v0.3.8'
 activity:
-  lastSynchronized: '2026-10-03T17:17:31.219Z'
+  lastSynchronized: '2026-10-12T17:54:46.396Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bfaafb18db4bd763fa1f14a5140ba0c5c2e3a9e59d33af652398357243cc8786"
-    releasesEtag: W/"657d4a80de27444c37a3b2c8a3ff109c3471f5caf97cb3c60e20cdb84ba1d9b7"
+    repoEtag: W/"0056f358150483d78bf478298c6b195ef16c75d461d52abf47da9052d38ed3a6"
+    releasesEtag: W/"fe8f0a192546abee1c40fa0ec26e3d0418cae6627b718235c053de5acc8769f2"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

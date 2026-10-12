@@ -1,7 +1,9 @@
 ---
 name: hdl-dump
 slug: hdl-dump-fideoman
-summary: "Host command-line tool for installing and extracting PS2 games on APA-formatted internal hard drives over network or direct connection."
+summary: >-
+  Host command-line tool for installing and extracting PS2 games on
+  APA-formatted internal hard drives over network or direct connection.
 categories:
   - host-tools
   - loaders
@@ -32,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T17:17:27.697Z'
+  lastSynchronized: '2026-10-12T17:54:39.518Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e8752c0e684cf1987b65f67b16e10197f841e97d78e142d6aff309ce16620bda"
-    releasesEtag: '"37d53f297b02491206d017408b7e746fc430023590ffcd9ca760caf0a834e39d"'
+    repoEtag: W/"02e198a65954cc0ae72f444ef0c976ac630430e43b5aa5c46b0c0c3427a0e04a"
+    releasesEtag: '"232fecf0339ea9a64c6208da0ca3e34c93a59c9f822e956fc52c506444185fff"'
 discovery:
   method: 'fork-network:ps2homebrew/hdl-dump'
   confidence: 95

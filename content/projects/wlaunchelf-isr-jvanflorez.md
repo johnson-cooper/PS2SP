@@ -35,9 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T22:26:09.550Z'
+  lastSynchronized: '2026-10-12T17:55:51.032Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a771368e84746fd0897757547dbf71b5a7e221edb496a183b4d7ea056bd1ab17"
+    releasesEtag: '"232fecf0339ea9a64c6208da0ca3e34c93a59c9f822e956fc52c506444185fff"'
 discovery:
   method: 'fork-network:israpps/wLaunchELF_ISR'
   confidence: 95
@@ -52,5 +55,4 @@ relationships:
   forkOf: israpps/wLaunchELF_ISR
   source: ps2homebrew/wLaunchELF
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

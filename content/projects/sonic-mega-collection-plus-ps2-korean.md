@@ -19,7 +19,7 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-04T08:16:31Z'
+  lastCommit: '2026-10-05T16:34:39Z'
 latestRelease:
   tag: v1.0.0
   name: 한국어 패치 v1.0.0
@@ -27,9 +27,12 @@ latestRelease:
   url: >-
     https://github.com/nonunsaram/sonic-mega-collection-plus-ps2-korean/releases/tag/v1.0.0
 activity:
-  lastSynchronized: '2026-10-04T08:48:40.209Z'
+  lastSynchronized: '2026-10-12T17:55:46.764Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f046ee4190774965f2f904ed51c22896d29a770e620cfb68f8385229bc8b5111"
+    releasesEtag: W/"15966a1690e30d4b1040dc749209d8a81c6e3f698e84be0b16f367041c56fa51"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -43,5 +46,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

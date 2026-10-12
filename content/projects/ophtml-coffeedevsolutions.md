@@ -1,7 +1,9 @@
 ---
 name: OPHTML
 slug: ophtml-coffeedevsolutions
-summary: "Toolchain and C99 runtime for building PlayStation 2 homebrew user interfaces using HTML and CSS."
+summary: >-
+  Toolchain and C99 runtime for building PlayStation 2 homebrew user interfaces
+  using HTML and CSS.
 categories:
   - runtimes
   - development
@@ -20,19 +22,19 @@ repository:
   defaultBranch: main
   stars: 13
   forks: 1
-  lastCommit: '2026-10-03T16:41:45Z'
+  lastCommit: '2026-10-07T02:33:26Z'
 latestRelease:
   tag: v0.10.0
   name: v0.10.0
   publishedAt: '2026-09-26T15:35:15Z'
   url: 'https://github.com/coffeedevsolutions/OPHTML/releases/tag/v0.10.0'
 activity:
-  lastSynchronized: '2026-10-03T17:17:43.754Z'
+  lastSynchronized: '2026-10-12T17:55:09.273Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b1d8f8e9f717593900639a173aa8e2859f480e14f6d5f9b369e9b260ce292fe0"
-    releasesEtag: W/"df393bb118204e167041ea9b7914aafaaebead4c465de0b33ba99613d2078e5b"
+    repoEtag: W/"ff6cde1d344fb483e62b90620f3e7bb78caeb93861d9f8a9adeb32991a692779"
+    releasesEtag: W/"521573482b3c56c89272d398bcd1ddcfa61fa675013ad0bddf8661e97f12eb31"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

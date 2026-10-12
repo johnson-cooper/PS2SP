@@ -1,7 +1,9 @@
 ---
 name: TGE
 slug: tge
-summary: "3D rendering engine and graphics pipeline framework designed for PlayStation 2 homebrew games."
+summary: >-
+  3D rendering engine and graphics pipeline framework designed for PlayStation 2
+  homebrew games.
 categories:
   - engines
   - development
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T17:18:09.365Z'
+  lastSynchronized: '2026-10-12T17:55:47.252Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8a9553309d4ef93d8c0f53d5e4aff65c245c3af66eb7c78c55f84bf104bf8ecc"
-    releasesEtag: '"37d53f297b02491206d017408b7e746fc430023590ffcd9ca760caf0a834e39d"'
+    repoEtag: W/"7051f23b335a145258a28f212de8d5e5d6e48603e95c07a2d969ad9e2fcd5d02"
+    releasesEtag: '"232fecf0339ea9a64c6208da0ca3e34c93a59c9f822e956fc52c506444185fff"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100

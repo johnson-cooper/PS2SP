@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T18:50:06.212Z'
+  lastSynchronized: '2026-10-12T17:55:47.738Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1fc8665a4a24c365e8a15f588fd0cc133e3ca0e6c55995fa6ad110a6aee5da94"
+    releasesEtag: '"232fecf0339ea9a64c6208da0ca3e34c93a59c9f822e956fc52c506444185fff"'
 discovery:
   method: 'fork-network:h4570/tyra'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: h4570/tyra
   source: h4570/tyra
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

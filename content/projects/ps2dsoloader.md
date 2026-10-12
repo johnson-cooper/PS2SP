@@ -1,7 +1,9 @@
 ---
 name: ps2dsoloader
 slug: ps2dsoloader
-summary: "Homebrew loader that boots PlayStation 2 ELF files directly from digital storage devices."
+summary: >-
+  Homebrew loader that boots PlayStation 2 ELF files directly from digital
+  storage devices.
 categories:
   - loaders
   - development
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T17:17:58.866Z'
+  lastSynchronized: '2026-10-12T17:55:30.813Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"20b23851c5a0dd81783925e308ca5852fa96089467416c37365fe9c02b39425e"
-    releasesEtag: '"37d53f297b02491206d017408b7e746fc430023590ffcd9ca760caf0a834e39d"'
+    repoEtag: W/"bf5d89da571e03d2e210c48e000311da23981d0bef7e696cde9dc07080326afe"
+    releasesEtag: '"232fecf0339ea9a64c6208da0ca3e34c93a59c9f822e956fc52c506444185fff"'
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

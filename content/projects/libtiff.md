@@ -1,7 +1,7 @@
 ---
 name: libtiff
 slug: libtiff
-summary: "TIFF image format reading and writing library for PlayStation 2."
+summary: TIFF image format reading and writing library for PlayStation 2.
 categories:
   - libraries
   - media
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T17:17:33.836Z'
+  lastSynchronized: '2026-10-12T17:54:52.128Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"32a2c6a77da0c9fe1fa24722d3eccbd797e39de879c6d8d89f8a55bfb14c4068"
-    releasesEtag: '"37d53f297b02491206d017408b7e746fc430023590ffcd9ca760caf0a834e39d"'
+    repoEtag: W/"02a11dc79ae9c5816aa0650952a0c130dcb73bd52ef3b1e9d6c0ef0b4978dd4a"
+    releasesEtag: '"232fecf0339ea9a64c6208da0ca3e34c93a59c9f822e956fc52c506444185fff"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 95

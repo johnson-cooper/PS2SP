@@ -29,12 +29,12 @@ latestRelease:
   url: >-
     https://github.com/L10N37/Open-PS2-Loader-Extended-APA/releases/tag/v1.2.0-Beta-2273-Extended-APA-1
 activity:
-  lastSynchronized: '2026-10-03T17:17:41.514Z'
+  lastSynchronized: '2026-10-12T17:55:02.579Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f56949a8347208f49a13415c9c7a2e203570fac39f889cd3da30c4e10e065b0e"
-    releasesEtag: W/"13db39a6a2e7c461c0469b687c5798c03445df912b539c4250cbd6726fd0bd2c"
+    repoEtag: W/"089d470a004c4d8b3e585d7ccbdceab83791e5256556f062b4274451c1d883df"
+    releasesEtag: W/"3773cf584880b7d88903ed620495c3a7b8a32871aa3db113d04596c1e1c1fed4"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

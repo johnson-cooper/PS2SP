@@ -1,7 +1,9 @@
 ---
 name: ps2
 slug: ps2-bslenul
-summary: "PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation frontend support on PS2."
+summary: >-
+  PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation
+  frontend support on PS2.
 categories:
   - emulators
   - ports
@@ -30,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T17:17:51.699Z'
+  lastSynchronized: '2026-10-12T17:55:20.875Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bfd423a83ff7078248d432f8710ab3dc8126936c21c8ae19139da4bbc11987bb"
-    releasesEtag: '"37d53f297b02491206d017408b7e746fc430023590ffcd9ca760caf0a834e39d"'
+    repoEtag: W/"314b33afa08280b8b88dfa12439ae05136bbf23da862b875190aa6f48ad1aa68"
+    releasesEtag: '"232fecf0339ea9a64c6208da0ca3e34c93a59c9f822e956fc52c506444185fff"'
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 95

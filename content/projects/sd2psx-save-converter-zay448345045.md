@@ -1,7 +1,9 @@
 ---
 name: sd2psx-save-converter
 slug: sd2psx-save-converter-zay448345045
-summary: "Host tool for managing, converting, and syncing save files on sd2psx and SD-based PlayStation 2 memory card devices."
+summary: >-
+  Host tool for managing, converting, and syncing save files on sd2psx and
+  SD-based PlayStation 2 memory card devices.
 categories:
   - save-tools
   - hardware
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T17:18:08.191Z'
+  lastSynchronized: '2026-10-12T17:55:43.410Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9bd73ff7435008afa10337ad462c2eaa3df6c61e2b495856fa819b6433866eb9"
-    releasesEtag: '"37d53f297b02491206d017408b7e746fc430023590ffcd9ca760caf0a834e39d"'
+    repoEtag: W/"e2c4dfc38f88f8695670f040ff8dadb6f7bd0acef108c9bdb971726edc2b793a"
+    releasesEtag: '"232fecf0339ea9a64c6208da0ca3e34c93a59c9f822e956fc52c506444185fff"'
 discovery:
   method: 'fork-network:GDX-X/sd2psx-save-converter'
   confidence: 95

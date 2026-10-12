@@ -1,7 +1,9 @@
 ---
 name: ps2link
 slug: ps2link-israpps
-summary: "PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP from host development tools like ps2client."
+summary: >-
+  PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP
+  from host development tools like ps2client.
 categories:
   - networking
   - development
@@ -32,12 +34,12 @@ latestRelease:
   publishedAt: '2023-06-26T23:53:18Z'
   url: 'https://github.com/israpps/ps2link/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-03T17:17:59.736Z'
+  lastSynchronized: '2026-10-12T17:55:31.966Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d01ace38335d289056a9ef69bba7ccd38869a2f4abd9f84cd50590b860c47901"
-    releasesEtag: W/"5d55fc7935db19c982166356cb75916f560206be259842fd05acd8d98c81b8fc"
+    repoEtag: W/"b1f9db49ee0f579b50a8edf3a9a403063c35fd0ebb1bc239c73757f89acca169"
+    releasesEtag: W/"91564d8996f1a65d5dfc96c0cf6bb6eac4566cfd864ced4128122430e59f832c"
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100

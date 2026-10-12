@@ -1,7 +1,9 @@
 ---
 name: helengine-demo-disc
 slug: helengine-demo-disc-nakijun
-summary: "Interactive PlayStation 2 demo disc showcasing the 3D graphics rendering features of HelEngine."
+summary: >-
+  Interactive PlayStation 2 demo disc showcasing the 3D graphics rendering
+  features of HelEngine.
 categories:
   - demos
 tags:
@@ -29,12 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T17:17:29.984Z'
+  lastSynchronized: '2026-10-12T17:54:42.411Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2eecc8567681d9fe12f767c14d540809ab1316da2bda6716548c320dc7de040f"
-    releasesEtag: '"37d53f297b02491206d017408b7e746fc430023590ffcd9ca760caf0a834e39d"'
+    repoEtag: W/"2bee67f4ea9806bda3c0a4f92fdb9757849d52cfef394f6d18afdc6626851e33"
+    releasesEtag: '"232fecf0339ea9a64c6208da0ca3e34c93a59c9f822e956fc52c506444185fff"'
 discovery:
   method: 'fork-network:helworks/helengine-demo-disc'
   confidence: 95

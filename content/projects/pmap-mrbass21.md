@@ -1,7 +1,9 @@
 ---
 name: PMAP
 slug: pmap-mrbass21
-summary: "PlayStation 2 MechaCon Adjustment Program for servicing, calibrating, and diagnosing the CD/DVD drive subsystem and EEPROM."
+summary: >-
+  PlayStation 2 MechaCon Adjustment Program for servicing, calibrating, and
+  diagnosing the CD/DVD drive subsystem and EEPROM.
 categories:
   - hardware
   - utilities
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T17:17:50.123Z'
+  lastSynchronized: '2026-10-12T17:55:18.746Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d0883f5a39caab47188da2e7736d80a0c7ce7b2a5e1a3771ab602805a16adadf"
-    releasesEtag: '"37d53f297b02491206d017408b7e746fc430023590ffcd9ca760caf0a834e39d"'
+    repoEtag: W/"731401ec9e883812af533ad5820e3bbcd7d62c33e52314c2847929b36ae3e301"
+    releasesEtag: '"232fecf0339ea9a64c6208da0ca3e34c93a59c9f822e956fc52c506444185fff"'
 discovery:
   method: 'fork-network:ps2homebrew/PMAP'
   confidence: 95

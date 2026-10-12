@@ -1,7 +1,9 @@
 ---
 name: PMAP
 slug: pmap-deepvault
-summary: "PlayStation 2 MechaCon Adjustment Program for servicing, calibrating, and diagnosing the CD/DVD drive subsystem and EEPROM."
+summary: >-
+  PlayStation 2 MechaCon Adjustment Program for servicing, calibrating, and
+  diagnosing the CD/DVD drive subsystem and EEPROM.
 categories:
   - hardware
   - utilities
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T17:17:49.716Z'
+  lastSynchronized: '2026-10-12T17:55:18.215Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"270e2bbd4ca2b373dbb1bf1d2abfb2c3dc2ebe268dc18eeacd85c3cac98fc4f1"
-    releasesEtag: '"37d53f297b02491206d017408b7e746fc430023590ffcd9ca760caf0a834e39d"'
+    repoEtag: W/"fbc336aea7f58f2698a8105523abba031aeb0b64c9112f280941e86afa977f0f"
+    releasesEtag: '"232fecf0339ea9a64c6208da0ca3e34c93a59c9f822e956fc52c506444185fff"'
 discovery:
   method: 'fork-network:ps2homebrew/PMAP'
   confidence: 95
