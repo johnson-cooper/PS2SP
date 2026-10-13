@@ -382,12 +382,12 @@
     "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.106.8": "afbd09c568a622746d250134ed170fd46153dce9",
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded@platform_agnostic": "b1746fd2b52d5aeafc1173761eb50e0958e8994b",
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded@master": "de43c65b16a71d00acca0deaa7332e3c1335a42d",
-    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@main": "329df37016f125f09af2bf3906b7e696fececc41",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@main": "a7f5cf0c3876c05bb69cc846ce91e5f191228511",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@remove-claude-md": "1fe1a05395eac2d8c8f44c699ed6cf39bc8acfc8",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@lwip-upgrade": "f42906f249f380ff746d057c00fece69c86cd060",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@llvm": "b4b46628a84ccb7d3bf542286feccf59828f9eda",
     "https://git.techwritescode.dev/api/v1|ps2/tools@main": "cb6d2b078d380af9c4175f405af95b3fac6b81b6",
-    "https://git.techwritescode.dev/api/v1|ps2/audsrv@main": "3ce3508445a487573a9995908d2607b8f4d370c8",
+    "https://git.techwritescode.dev/api/v1|ps2/audsrv@main": "2affeb20fa8359cffce82062bcb961628b47a2b3",
     "https://git.techwritescode.dev/api/v1|ps2/ps2gl@master": "aaf8d3d532020e3a8bc7512095c84a388969574e",
     "https://git.techwritescode.dev/api/v1|ps2/ps2stuff@master": "8d682f6048bcb751a811d5f92e2f431564bb9889",
     "https://git.techwritescode.dev/api/v1|ps2/romfs@master": "13607e2ab224ad39051117b8a2ab7c6ba3c6f991",
@@ -586,7 +586,8 @@
     "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm@statvfs-header": "1f4498e9757ea01a42b9242cbe8d8d50de4d28de",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-filesystem": "565a4eef0a11e1f6e124ada6a8d897f3398ce987",
     "https://git.techwritescode.dev/api/v1|ps2/llvm@ps2-mc-fill-warning": "8f6af403d9701a7f0f4705ae3568d6807ad154c8",
-    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@rig-safe-tests": "753fdc4b790a90530fc8c3df0814bac18bc902fc"
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@rig-safe-tests": "753fdc4b790a90530fc8c3df0814bac18bc902fc",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@iop-mmio-test": "ff242b149122c9727254e2bc10ba161d407afc79"
   },
   "branchPage": {
     "https://git.techwritescode.dev/api/v1|ps2/ps2build": 2,
@@ -669,18 +670,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-10-13T13:25:39.930Z",
+    "at": "2026-10-13T20:02:04.756Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 134,
-    "branchesChanged": 1,
-    "treesScanned": 1,
+    "branchesSeen": 26,
+    "branchesChanged": 3,
+    "treesScanned": 3,
     "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 0,
-    "nestedAdded": 0,
-    "requests": 84,
+    "branchesAdded": 1,
+    "nestedAdded": 40,
+    "requests": 80,
     "stoppedForBudget": false
   },
-  "queueCursor": 1
+  "queueCursor": 21
 }
