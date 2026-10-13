@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2025-06-29T08:59:27Z'
   url: 'https://github.com/MREC7/NetherSX2-patch/releases/tag/1.9'
 activity:
-  lastSynchronized: '2026-10-08T21:21:06.544Z'
+  lastSynchronized: '2026-10-13T21:15:30.141Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1c6ce9b816b5d0297e1d39c1df4c12d111a593f33938ff32467df5711e6219da"
-    releasesEtag: W/"32805553e03bee3e5134379b57aba3254e203a20a277606c7a71afebacd953c7"
+    repoEtag: W/"9d561ce3e8b2bb75cb3019432ac187c1388dd69e5fe9cb71828cbfb1ddb00aa1"
+    releasesEtag: W/"b560ba8254a5f16dfc6337b1ecfc130456c2b6ccfa3a84f1a79ccf01c4b42d8b"
 discovery:
   method: 'fork-network:Trixarian/NetherSX2-patch'
   confidence: 95

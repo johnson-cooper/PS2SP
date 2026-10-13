@@ -20,7 +20,7 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-10-06T08:44:01Z'
+  lastCommit: '2026-10-11T13:26:32Z'
 latestRelease:
   tag: v1.1
   name: EVE New Generation 한국어 패치 v1.1
@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/Dollars-Archive/eve-new-generation-kr-patch/releases/tag/v1.1
 activity:
-  lastSynchronized: '2026-10-08T21:20:45.086Z'
+  lastSynchronized: '2026-10-13T21:15:00.797Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d5f6aacdcd3fb339c3c4fe8f69feea2a5b410c1ad23c3b6854b597563016ddfa"
-    releasesEtag: W/"514ce3cda057f0203ceb58d0521431741a38ce86dde5e07581b648823850b8e4"
+    repoEtag: W/"f562ccdb1caef93043ec0b4d23195ad1a1d2746ef0b6ac9da8bfd0707f9abb3d"
+    releasesEtag: W/"7cf6426fea35cbf0fb0a9d11906ecad6e7edb224f20c3b544a97e9f6da785fb9"
 discovery:
   method: pending-recheck
   confidence: 100

@@ -15,27 +15,27 @@ homepage: null
 source:
   provider: github
   repository: Renan2010p/fnwf
-  repositoryId: '1351675080'
+  repositoryId: '1413642309'
   url: 'https://github.com/Renan2010p/fnwf'
 repository:
   archived: false
-  defaultBranch: new
-  stars: 1
+  defaultBranch: main
+  stars: 0
   forks: 0
-  lastCommit: '2026-09-28T19:21:54Z'
+  lastCommit: '2026-10-10T21:29:35Z'
 latestRelease:
-  tag: v2.0.12--dev+f81af1c
-  name: Classic 2.0.12
-  publishedAt: '2026-09-26T22:07:46Z'
-  url: 'https://github.com/Renan2010p/fnwf/releases/tag/v2.0.12--dev%2Bf81af1c'
+  tag: v2.3.0
+  name: v2.3.0
+  publishedAt: '2026-10-10T21:34:36Z'
+  url: 'https://github.com/Renan2010p/fnwf/releases/tag/v2.3.0'
 activity:
   lastChecked: '2026-09-29T00:27:45.068Z'
-  lastSynchronized: '2026-10-08T21:20:46.813Z'
+  lastSynchronized: '2026-10-13T21:15:02.199Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"283240926dd3a9ae593fa2ffa931e99adcf64b408f8c578416c7a565282d8ed6"
-    releasesEtag: W/"10007090dbbc663caceef8d2876e40f6a4bf55e2a90d6565313451d02fc33dd9"
+    repoEtag: W/"7e39553258d54948b7c1b23db8b2c60165ff6817ff50642c7b26916807176374"
+    releasesEtag: W/"4d4cd982b7b88a9f5b39d5a4112caafe83e4f1a4af8db4995cb1070401040dd3"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 75

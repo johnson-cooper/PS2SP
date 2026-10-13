@@ -19,21 +19,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 11
-  forks: 0
-  lastCommit: '2026-10-07T01:47:33Z'
+  stars: 13
+  forks: 1
+  lastCommit: '2026-10-13T03:51:01Z'
 latestRelease:
   tag: v1.0.2
   name: ORBIT v1.0.2
   publishedAt: '2026-10-06T06:00:02Z'
   url: 'https://github.com/danielnuld/ps2-launcher/releases/tag/v1.0.2'
 activity:
-  lastSynchronized: '2026-10-08T21:21:29.232Z'
+  lastSynchronized: '2026-10-13T21:16:06.427Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ccc446e45c4de4c407f88b6d4d7acd3fee3846736dd27ba4dbb363f65782da51"
-    releasesEtag: W/"2fea033c85685ebbf5d1d8eafcf6fb7cd6c920cab6822b6068061cd3807294d2"
+    repoEtag: W/"e3fa374222df5b8e4f6cdfd14b2e5776ab8f59a0bd8c73701006d58a2326d196"
+    releasesEtag: W/"8518b697938bac309994f54b043cf605092a6899767ec4e8d200e95a819ac12e"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

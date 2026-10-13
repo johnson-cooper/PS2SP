@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2021-06-02T12:57:51Z'
   url: 'https://github.com/FunTuna-Team/wLaunchELF_ISR/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-08T21:21:58.239Z'
+  lastSynchronized: '2026-10-13T21:16:45.042Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7edf5ce9e02c47eaf819dc0130956da917d12d6998f8a9278ef76f868f67ec28"
-    releasesEtag: W/"3c13cba294f329a05eb4b1007d6c37ca0f5f1aae7b25095863fd110c5655faad"
+    repoEtag: W/"55754a76c2ef32190113ed7c06d59aa97be38f120968d7450eed89e4397ce9dd"
+    releasesEtag: W/"83cbfc15fba57c9e214884ae3c324b7b362a017a63af74f3717842cc0d647b7b"
 discovery:
   method: 'fork-network:israpps/wLaunchELF_ISR'
   confidence: 100

@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-08T21:20:43.993Z'
+  lastSynchronized: '2026-10-13T21:14:59.117Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"980777929e29501d2b965a60596b02dce726aa76f97f40513ea12132ccf90092"
-    releasesEtag: '"9d58babb9c0ebce4843e7fb6d1a98d7c2a114a7ab5d177718e3a0fa6f173a756"'
+    repoEtag: W/"4ee618c8d750027e52cf1b97cff33a2beaba459c69ec450000d938334194413c"
+    releasesEtag: '"5d9eaaf5c26d25db1810ca2624c085dac79011ff8ace0d3e5df8a8de26339ee1"'
 discovery:
   method: 'fork-network:DanielAbrante/codeeasy-ps2'
   confidence: 95
