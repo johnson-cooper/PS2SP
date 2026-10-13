@@ -1,0 +1,16 @@
+{
+  "repository": "acklavidian/decomp_wots2",
+  "repositoryId": "1417438394",
+  "url": "https://github.com/acklavidian/decomp_wots2",
+  "description": "Way of the Samurai 2 (PS2) — native Linux decompilation port",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-13T19:32:43.126Z",
+  "checkedAt": "2026-10-13T19:32:43.126Z"
+}
