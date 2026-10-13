@@ -4669,6 +4669,18 @@
         ]
       },
       {
+        "name": "ps2/sdk-core — branch: rig-safe-tests",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/sdk-core",
+          "rig-safe-tests"
+        ]
+      },
+      {
         "name": "ps2/sdk-world — branch: ioptrap-udptty",
         "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ioptrap-udptty",
         "keywords": [
@@ -18425,6 +18437,566 @@
           "nested project",
           "ps2/sdk-core",
           "remove-claude-md",
+          "core/iopmgr"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/ahx",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/ahx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/ahx"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/apa",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/apa",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/apa"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/atad",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/atad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/atad"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/bdm",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/bdm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/bdm"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/bdmfs_fatfs",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/bdmfs_fatfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/bdmfs_fatfs"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/cdfs",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/cdfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/cdfs"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/cdvd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/cdvd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/cdvd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/cdvdfsv",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/cdvdfsv"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/debug",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/debug",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/debug"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/dev9",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/dev9",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/dev9"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/dma",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/dma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/dma"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/dmacman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/dmacman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/dmacman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/draw",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/draw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/draw"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/dvr",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/dvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/dvr"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/dvrfile",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/dvrfile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/dvrfile"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/dvrmisc",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/dvrmisc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/dvrmisc"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/eedebug",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/eedebug",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/eedebug"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/eesync",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/eesync",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/eesync"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/eesync-nano",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/eesync-nano",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/eesync-nano"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/elf-loader-nocolour",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/elf-loader-nocolour",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/elf-loader-nocolour"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/elf-loader2",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/elf-loader2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/elf-loader2"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/erl",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/erl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/erl"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/excepman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/excepman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/excepman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/extflash",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/extflash",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/extflash"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/filexio",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/filexio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/filexio"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/font",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/font",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/font"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/fs",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/fs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/fs"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/fs-osd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/fs-osd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/fs-osd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/graph",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/graph",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/graph"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/hdd-osd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/hdd-osd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/hdd-osd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/hdpro_atad",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/hdpro_atad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/hdpro_atad"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/heaplib",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/heaplib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/heaplib"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/IEEE1394_bd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/IEEE1394_bd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/IEEE1394_bd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/IEEE1394_bd_mini",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/IEEE1394_bd_mini",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/IEEE1394_bd_mini"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/iLinkman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/iLinkman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/iLinkman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/intrman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/intrman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/intrman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/intrmanp",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/intrmanp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/intrmanp"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/ioman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/ioman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/ioman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/iomanx",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/iomanx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
+          "core/iomanx"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@rig-safe-tests — core/iopmgr",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/rig-safe-tests/core/iopmgr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "rig-safe-tests",
           "core/iopmgr"
         ]
       },
