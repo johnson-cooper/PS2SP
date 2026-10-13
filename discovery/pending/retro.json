@@ -1,0 +1,16 @@
+{
+  "repository": "tupaje/retro",
+  "repositoryId": "1346856474",
+  "url": "https://github.com/tupaje/retro",
+  "description": "Personal journal of completing analog-era console libraries (Atari through 6th generation / PlayStation 2)",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-13T03:53:29.435Z",
+  "checkedAt": "2026-10-13T03:53:29.435Z"
+}

@@ -1,0 +1,16 @@
+{
+  "repository": "danielnuld/orbit-store-registry",
+  "repositoryId": "1416390004",
+  "url": "https://github.com/danielnuld/orbit-store-registry",
+  "description": "Catalog of ORBIT Store, the PS2 homebrew app store: emulators, media, utilities and games",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-13T03:53:29.435Z",
+  "checkedAt": "2026-10-13T03:53:29.435Z"
+}

@@ -1,0 +1,16 @@
+{
+  "repository": "JeanxPereira/CrystalClockVK-Legacy",
+  "repositoryId": "1208054344",
+  "url": "https://github.com/JeanxPereira/CrystalClockVK-Legacy",
+  "description": "Archived: the PS2 OSDSYS Crystal Clock in C++ and Vulkan. Successor: JeanxPereira/CrystalOSD",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "archived",
+  "fork": null,
+  "discoveredAt": "2026-10-13T03:53:29.435Z",
+  "checkedAt": "2026-10-13T03:53:29.435Z"
+}
