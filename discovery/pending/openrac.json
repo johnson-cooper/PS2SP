@@ -1,0 +1,17 @@
+{
+  "repository": "OpenRAC/OpenRAC",
+  "repositoryId": "1403633426",
+  "url": "https://github.com/OpenRAC/OpenRAC",
+  "description": "A matching decompilation and PC port for the Ratchet & Clank series.",
+  "score": 75,
+  "evidence": [
+    "README explicitly mentions PlayStation 2",
+    "README contains PS2 development/toolchain evidence",
+    "published GitHub release present"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "released-active",
+  "fork": null,
+  "discoveredAt": "2026-10-13T23:26:15.353Z",
+  "checkedAt": "2026-10-13T23:26:15.353Z"
+}

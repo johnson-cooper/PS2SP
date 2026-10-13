@@ -1,0 +1,16 @@
+{
+  "repository": "jagger1407/Ps2ElfTool",
+  "repositoryId": "1375958241",
+  "url": "https://github.com/jagger1407/Ps2ElfTool",
+  "description": "A tool to export and disassemble sections within Playstation 2 ELF files.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-13T23:26:15.353Z",
+  "checkedAt": "2026-10-13T23:26:15.353Z"
+}
