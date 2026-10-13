@@ -22,16 +22,21 @@ repository:
   defaultBranch: rippcsx2
   stars: 0
   forks: 0
-  lastCommit: '2026-10-13T03:43:31Z'
+  lastCommit: '2026-10-13T08:07:48Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v2.9.96-rippcsx2.1
+  name: >-
+    RIPPCSX2 1: PCSX2 v2.9.96 with HDTV output, for testing OPL, RiptOPL and
+    RIPPS2 themes
+  publishedAt: '2026-10-13T07:52:55Z'
+  url: 'https://github.com/akilluminati47/RIPPCSX2/releases/tag/v2.9.96-rippcsx2.1'
 activity:
-  lastSynchronized: '2026-10-13T03:53:29.435Z'
+  lastSynchronized: '2026-10-13T16:00:42.852Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0f5d8a6227a1b2f528083f0c872c480279946487eb1e85afa6c48f15ca29319d"
+    releasesEtag: W/"69aaa191c8fb8eab919ee2603973cbd7c8fad71ff753585c38b7ccf2dec656ba"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -47,5 +52,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

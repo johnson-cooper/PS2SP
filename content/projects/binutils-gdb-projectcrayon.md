@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-11T15:41:26.798Z'
+  lastSynchronized: '2026-10-13T15:59:06.022Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1faa86055e939cb71ce82b1dd7c496a0103e2ae513ece3dccf6e377968faa02c"
-    releasesEtag: '"e33f1da332981b44846cc1f360ff0a2111ac9a73aecbbdd36de7fa8f4a740af7"'
+    repoEtag: W/"a1d4077c6829220773996f83979e39f9e1be8809b9f6b4f2fa01bc3c3336d04e"
+    releasesEtag: '"15713a2721f8178c7d83fba417a3c84da6af87d4100739285cae4aed41a51998"'
 discovery:
   method: 'fork-network:ps2dev/binutils-gdb'
   confidence: 95

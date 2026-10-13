@@ -22,7 +22,7 @@ repository:
   archived: false
   defaultBranch: master
   stars: 141
-  forks: 16
+  forks: 17
   lastCommit: '2026-10-07T15:22:29Z'
 latestRelease:
   tag: v0.6
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/chaoticgd/wrench/releases/tag/v0.6'
 activity:
   lastChecked: '2026-09-29T09:05:43.442Z'
-  lastSynchronized: '2026-10-11T15:42:41.741Z'
+  lastSynchronized: '2026-10-13T16:00:52.594Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c7f519c7028d0fc6faf1fd97ea378933a941e674148756053e01532853a135b6"
-    releasesEtag: W/"39bfe3ba400e97de0ff80ab90787f2382810cb004f9a0b773c28ac882090e8aa"
+    repoEtag: W/"e79799ba3ea183f2441d4ff4d5a390d2eb39c6e9febcf1494f0f8e0c9406a20e"
+    releasesEtag: W/"159bc7fb5b32bed235dcddb85570df1fb27522b24cfdf3c8ec8d74660ba4d408"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

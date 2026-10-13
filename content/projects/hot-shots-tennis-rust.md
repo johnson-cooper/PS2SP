@@ -25,20 +25,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-09T15:30:23Z'
+  lastCommit: '2026-10-13T15:50:50Z'
 latestRelease:
-  tag: v0.1.0-alpha.4
-  name: Alpha 4
-  publishedAt: '2026-10-09T15:30:28Z'
-  url: 'https://github.com/FIZL0/hot-shots-tennis-rust/releases/tag/v0.1.0-alpha.4'
+  tag: alpha
+  name: Latest alpha (ba527e1)
+  publishedAt: '2026-10-13T15:50:50Z'
+  url: 'https://github.com/FIZL0/hot-shots-tennis-rust/releases/tag/alpha'
 activity:
   lastChecked: '2026-10-09T16:35:29.097Z'
-  lastSynchronized: '2026-10-11T15:41:43.768Z'
+  lastSynchronized: '2026-10-13T15:59:28.101Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e3786225dcb9a05ac8d2ffa54453b12cb9e61afb45341e2e443f091953db69fc"
-    releasesEtag: W/"b61e7c8b6fa939245a78af6863d9a695c33af6d66ab0ad3dad9d9a6352e06046"
+    repoEtag: W/"1d55d45876e95de63e9fb1741f88832caa826634bfac6aa1676a6f255c7a348a"
+    releasesEtag: W/"219c9c6c3507360b11a6613b1c0df54da7b6cf3e7b45bd2f8d4d53930bfa78b6"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85

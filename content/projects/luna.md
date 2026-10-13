@@ -17,22 +17,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 15
+  stars: 16
   forks: 1
-  lastCommit: '2026-10-11T00:02:26Z'
+  lastCommit: '2026-10-13T04:06:03Z'
 latestRelease:
-  tag: v2.0.0
-  name: LUNA 2.0.0 Stable
-  publishedAt: '2026-10-02T18:55:00Z'
-  url: 'https://github.com/dnunezx/LUNA/releases/tag/v2.0.0'
+  tag: v2.7.0-beta
+  name: LUNA 2.7.0 Beta
+  publishedAt: '2026-10-13T04:06:04Z'
+  url: 'https://github.com/dnunezx/LUNA/releases/tag/v2.7.0-beta'
 activity:
   lastChecked: '2026-09-29T00:27:04.940Z'
-  lastSynchronized: '2026-10-11T15:41:51.597Z'
+  lastSynchronized: '2026-10-13T15:59:38.448Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"db519957bc13279ba1e092ede9636c4367e33a632d7484306b2ecc2e0ea1ef9d"
-    releasesEtag: W/"d87f5c33144546279670e54078c077f51ee14d3c7335c11aeb61ca2e0f64fc15"
+    repoEtag: W/"e126da6951d2bed92dea0b956ffb4ee0e984af166b76692eda5ec5d7c3446ef5"
+    releasesEtag: W/"2bef2f3dddc568c4602cea76087decbec7e93038a967a16eb1cbdf0e92e316df"
 discovery:
   method: github-search
   confidence: 100

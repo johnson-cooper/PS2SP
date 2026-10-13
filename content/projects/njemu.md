@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/fjtrujy/NJEMU/releases/tag/development'
 activity:
   lastChecked: '2026-10-04T08:48:40.209Z'
-  lastSynchronized: '2026-10-11T15:41:57.675Z'
+  lastSynchronized: '2026-10-13T15:59:46.328Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"122dc0be980b15205365b9eb232bb8477461016f63ea722a9a4a088a5016c08a"
-    releasesEtag: W/"8d62097ac5caa292c26f376cc4288544c27c809baf5af209f834249a8b9cc45e"
+    repoEtag: W/"ac673b79b1b90c20973335a7fe01df2371745f0e0069f65ce5f653f2120f404d"
+    releasesEtag: W/"504b992c896c0ee56cf263cba0477f2d9d0394a462d518cae924530f7169c6ec"
 discovery:
   method: 'pending-promotion:incremental:ps2sdk in:name,description,readme'
   confidence: 75
