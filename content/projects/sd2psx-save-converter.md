@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2025-03-15T13:54:48Z'
   url: 'https://github.com/GDX-X/sd2psx-save-converter/releases/tag/1.4'
 activity:
-  lastSynchronized: '2026-10-12T07:22:28.213Z'
+  lastSynchronized: '2026-10-13T07:43:43.744Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3c90a6fcbd30a35fc19e553f1dc5262d12b900c92b47c4f6d6579e3af8700736"
-    releasesEtag: W/"35592cea93d86c1452e2b7636942d687e3c0f79fe3ce10c63a14202bed592ed3"
+    repoEtag: W/"d723f2e893e2761ee14b89b83102926b7f4169ac9c863078600cf2db78737b4c"
+    releasesEtag: W/"9fbeb20197059b4a7097bdc33f243a53a57b571acf7123f3bcda5ba7c0a3f20e"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
