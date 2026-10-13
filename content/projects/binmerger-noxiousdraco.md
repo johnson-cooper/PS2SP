@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-12T00:32:39.523Z'
+  lastSynchronized: '2026-10-13T00:39:53.436Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"123888c2e4477dbcdc932ccd5e2ce8d32ff56f80d75400c73781357dc3d24251"
-    releasesEtag: '"e8b81e8dfe2477c89d252962dd03ff52c147ee586d8cf72435ec0a64993fa146"'
+    repoEtag: W/"5197d1517307d8aa364c9f93d8bda8dd30e57bc07c2e22fdeeab0cea43fb6d54"
+    releasesEtag: '"fec52950ce930fe9a3d66b1fb0477b55f0575b695b49fda84e7bffe73dbd07ab"'
 discovery:
   method: 'fork-network:israpps/BinMerger'
   confidence: 95

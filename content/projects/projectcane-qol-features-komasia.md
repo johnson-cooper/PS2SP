@@ -26,7 +26,7 @@ repository:
   defaultBranch: master
   stars: 1
   forks: 0
-  lastCommit: '2026-10-11T08:37:04Z'
+  lastCommit: '2026-10-12T16:06:41Z'
 latestRelease:
   tag: v0.4.0-beta.1
   name: ProjectCane QOL v0.4.0-beta.1 - Installer
@@ -34,12 +34,12 @@ latestRelease:
   url: >-
     https://github.com/Komasia/ProjectCane-QOL-Features-/releases/tag/v0.4.0-beta.1
 activity:
-  lastSynchronized: '2026-10-12T00:33:15.683Z'
+  lastSynchronized: '2026-10-13T00:40:35.724Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0236e8230fbc056939875f798d6169ea7225ae951a3d9d61322265fe792a0cb5"
-    releasesEtag: W/"2841a115db665abd2867e210b63953df4e07749068acb72bf0b9f225573b640b"
+    repoEtag: W/"6c68da73713a0933a4c7ce613086d98bbe5a01923524f6a159909d46d214b404"
+    releasesEtag: W/"e2539bbfe26863fb926b5397201df3e2b9050167b862aeff5b1a0f28d7fe17e0"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
