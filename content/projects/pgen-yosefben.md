@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-11T20:18:01.557Z'
+  lastSynchronized: '2026-10-14T20:43:22.358Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"757d7dfbf17857054c11b9d4024f76f8abd462ac43a90e4d4b9c424ea50e0295"
-    releasesEtag: '"0a3849be1621f00a1da30ee0c8d9c01d942d49f8adf5b017c81f1dc911d1518f"'
+    repoEtag: W/"a7b306855504e4973c1306c02e2efd4c1182647c57de2bf9e7ddbcaba488468d"
+    releasesEtag: '"d6400b74e2c16d570917aea177364224d745a12da52ea23ff278bcd072df9cc2"'
 discovery:
   method: 'fork-network:ps2homebrew/pgen'
   confidence: 100

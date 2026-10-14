@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-11T20:17:42.235Z'
+  lastSynchronized: '2026-10-14T20:42:55.548Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ae854a79a34c2936570b89b68aaa42821db0a811a53ffb51b2221ff9af23916a"
-    releasesEtag: '"0a3849be1621f00a1da30ee0c8d9c01d942d49f8adf5b017c81f1dc911d1518f"'
+    repoEtag: W/"72d4043863f35fc962ef8e7f58d32b0907cba79ecb99767df30b98979da60733"
+    releasesEtag: '"d6400b74e2c16d570917aea177364224d745a12da52ea23ff278bcd072df9cc2"'
 discovery:
   method: 'fork-network:ps2dev/mymc'
   confidence: 100

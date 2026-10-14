@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-08-24T02:27:53Z'
   url: 'https://github.com/TheRealNextria/PS2RD-CHT-Manager/releases/tag/Update'
 activity:
-  lastSynchronized: '2026-10-11T20:18:13.876Z'
+  lastSynchronized: '2026-10-14T20:43:36.729Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"29b13c5fb990d6011070dbda3e6a4ae31ea441e10005ea2a21555c90cf35eeae"
-    releasesEtag: W/"3ad1ceabcbcae34f2728af1e8615011a74e9d437a00e236c15d0280a332d6257"
+    repoEtag: W/"7fbea54f20af3f0019e33a980f5cb2bfd53731f4fa9853058d0684d6cb085723"
+    releasesEtag: W/"c502bec71405f99114935d8276db0bfa6ac27f4437eb4b582f5781bd077422d2"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
