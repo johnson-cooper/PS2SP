@@ -1,0 +1,16 @@
+{
+  "repository": "meetox80/ps2-tcoaal",
+  "repositoryId": "1417492224",
+  "url": "https://github.com/meetox80/ps2-tcoaal",
+  "description": "The Coffin of Andy and Leyley on 3DS. A from-scratch C++ engine plus a builder ",
+  "score": 80,
+  "evidence": [
+    "PS2-specific topic",
+    "repository name explicitly identifies PS2"
+  ],
+  "origin": "incremental:\"ps2 port\" in:name,description,readme",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-10-14T22:38:09.246Z",
+  "checkedAt": "2026-10-14T22:38:09.246Z"
+}
