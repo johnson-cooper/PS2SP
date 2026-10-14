@@ -1,0 +1,16 @@
+{
+  "repository": "LinuxJessi/YakuzaPythonExtractor",
+  "repositoryId": "1419668931",
+  "url": "https://github.com/LinuxJessi/YakuzaPythonExtractor",
+  "description": "Extract, convert, render and mod Yakuza (PS2, SLUS-21348): CVM/OGREDIR unpacker, AVLZ, TXBP textures, OME models, Blender, audio/video, repacker, web GUI",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-14T18:54:17.306Z",
+  "checkedAt": "2026-10-14T18:54:17.306Z"
+}
