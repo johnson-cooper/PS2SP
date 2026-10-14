@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2024-11-06T15:17:56Z'
   url: 'https://github.com/israpps/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-12T17:55:03.664Z'
+  lastSynchronized: '2026-10-14T17:11:19.404Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8bdf0f60b80a785ca705244e477bc23c8951268c01fc5ec5b4af798208b61931"
-    releasesEtag: W/"54c8b5b12eb9f54e5b978e4e4c26bc668913a2b4d41055c34955bac51efd68e4"
+    repoEtag: W/"c18b89374552bdde29c463e1a5c0888edf5a6346d6055b32b5fa7fa770bcfe59"
+    releasesEtag: W/"451e4e1f0497b6e334681110d31488a7f128628f59a2d790bf47a75c0a13b2fd"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

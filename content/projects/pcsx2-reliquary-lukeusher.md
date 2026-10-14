@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-12T17:55:14.849Z'
+  lastSynchronized: '2026-10-14T17:11:32.776Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c64811f2f0a558fb015dc292749960d32a23b3c6572054899a077e620d7acf12"
-    releasesEtag: '"232fecf0339ea9a64c6208da0ca3e34c93a59c9f822e956fc52c506444185fff"'
+    repoEtag: W/"c9c2e144e16dc34a9370909123b6d4ac0cb4e9bb38b23c9dffa720efa017b371"
+    releasesEtag: '"e89a20be5df85a44f41b5ea5f797700d2ed7d9265726bd322b339ade65efc540"'
 discovery:
   method: 'fork-network:DiscoStarslayer/pcsx2-reliquary'
   confidence: 100

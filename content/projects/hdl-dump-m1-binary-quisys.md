@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2023-12-31T19:41:07Z'
   url: 'https://github.com/quisys/hdl-dump-m1-binary/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-12T17:54:40.159Z'
+  lastSynchronized: '2026-10-14T17:10:56.478Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"423b6fe925a42e158ff626e6d312892125c40ee30f460dd02fbdaeaef8035876"
-    releasesEtag: W/"4255219df8ca267a013f730234d612e2b2ea2278324d5dc10aaaed34bd22a90b"
+    repoEtag: W/"88e6b04fce7e1fea60b067e4e23e342e24c198e0c38f88a58d47444d7dd88a45"
+    releasesEtag: W/"660a54d33f1ec956be26bcbe2be23b8e5ab535b16beadc28913af94326933a90"
 discovery:
   method: 'fork-network:ps2homebrew/hdl-dump'
   confidence: 100

@@ -13,8 +13,8 @@ tags:
   - prerelease-only
 features: []
 authors: []
-license: null
-homepage: null
+license: MIT
+homepage: 'https://romtranslate-studio.pages.dev'
 source:
   provider: github
   repository: crimsondawnacademy-design/romtranslate-studio
@@ -22,19 +22,24 @@ source:
   url: 'https://github.com/crimsondawnacademy-design/romtranslate-studio'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 2
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-14T00:37:12Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.1.6
+  name: RomTranslate Studio 0.1.6
+  publishedAt: '2026-10-13T19:28:02Z'
+  url: >-
+    https://github.com/crimsondawnacademy-design/romtranslate-studio/releases/tag/v0.1.6
 activity:
   lastChecked: '2026-10-13T19:32:43.126Z'
+  lastSynchronized: '2026-10-14T17:12:00.383Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0f7ac4bea00556cb7ba8b3ddb6e3828b8b48300a2323d2726b6d952683c2ab8e"
+    releasesEtag: W/"010afb88ee3c137513d9d554f9ee99e33c0adc52b9343760af651395fa2d1e7a"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -47,5 +52,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.
