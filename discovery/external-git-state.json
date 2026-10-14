@@ -324,7 +324,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2link@master": "8d1f50594f56506f82f2b446096f63b55977fb19",
     "https://git.techwritescode.dev/api/v1|ps2/ps2client@master": "0937296a0d0802e028713a87e1c7e1b9693349eb",
     "https://git.crustywindo.ws/api/v1|modeco80/ps2rom@master": "8ba1161404ad2b1ccab808483d4425271a4b0277",
-    "https://git.wisellama.rocks/api/v1|Mirrors/Open-PS2-Loader@master": "4cc74baabb73be9ca43f817474b321cd70fbcc2d",
+    "https://git.wisellama.rocks/api/v1|Mirrors/Open-PS2-Loader@master": "b3a2199795fe89ba7e2dd7b843354472dff2c3eb",
     "https://git.wisellama.rocks/api/v1|Mirrors/Open-PS2-Loader@copilot/apply-missing-labels-and-comments": "7c9dc9740922cc2e382f07eaf7755de7f994fb40",
     "https://git.wisellama.rocks/api/v1|Mirrors/Open-PS2-Loader@main": "c8cad1b4f6fa9c0201146b218a72259f82f31d59",
     "https://git.wisellama.rocks/api/v1|Mirrors/Open-PS2-Loader@master_old": "4b6cc215cdf60cead72663213d45afb9918f03a2",
@@ -599,7 +599,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/toolchain": 2,
     "https://git.techwritescode.dev/api/v1|ps2/masp": 2,
     "https://git.techwritescode.dev/api/v1|ps2/openvcl": 2,
-    "https://git.techwritescode.dev/api/v1|ps2/newlib": 4,
+    "https://git.techwritescode.dev/api/v1|ps2/newlib": 5,
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded": 2,
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core": 2,
     "https://git.techwritescode.dev/api/v1|ps2/tools": 2,
@@ -673,18 +673,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-10-14T05:43:54.442Z",
+    "at": "2026-10-14T11:03:31.956Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 21,
-    "branchesChanged": 2,
-    "treesScanned": 2,
+    "branchesSeen": 142,
+    "branchesChanged": 1,
+    "treesScanned": 1,
     "reposAdded": 0,
     "forksAdded": 0,
     "branchesAdded": 0,
     "nestedAdded": 0,
-    "requests": 79,
+    "requests": 84,
     "stoppedForBudget": false
   },
-  "queueCursor": 23
+  "queueCursor": 5
 }
