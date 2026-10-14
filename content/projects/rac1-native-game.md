@@ -11,7 +11,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: MIT
 homepage: null
 source:
   provider: github
@@ -20,19 +20,23 @@ source:
   url: 'https://github.com/daino-selvatico/rac1-native-game'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
-  forks: 0
-  lastCommit: null
+  defaultBranch: main
+  stars: 32
+  forks: 1
+  lastCommit: '2026-10-13T21:49:57Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.2.1
+  name: 'rac1-native 0.2.1: Windows fixes'
+  publishedAt: '2026-10-13T18:26:10Z'
+  url: 'https://github.com/daino-selvatico/rac1-native-game/releases/tag/v0.2.1'
 activity:
   lastChecked: '2026-10-12T16:07:57.694Z'
+  lastSynchronized: '2026-10-14T11:53:51.667Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6ff46cd28200943a00c4f01421718b3e903196af165755205c1f6f830f051d0c"
+    releasesEtag: W/"8de40851aaf6d2dbca5a5b5a96dbbad0652cb8a9203f90c7763f3ce67569c15e"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -45,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

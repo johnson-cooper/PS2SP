@@ -14,7 +14,7 @@ tags:
 features: []
 authors: []
 license: null
-homepage: null
+homepage: 'https://alexis-vscode.github.io/mario-kart-64-ps2/'
 source:
   provider: github
   repository: Alexis-VsCode/mario-kart-64-ps2
@@ -24,16 +24,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-09-29T04:07:55Z'
+  lastCommit: '2026-10-13T21:49:18Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.3.0
+  name: Mario Kart 64 PS2 en español v1.3.0
+  publishedAt: '2026-10-13T21:40:22Z'
+  url: 'https://github.com/Alexis-VsCode/mario-kart-64-ps2/releases/tag/v1.3.0'
 activity:
-  lastSynchronized: '2026-10-01T11:17:04.836Z'
+  lastSynchronized: '2026-10-14T11:52:58.134Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"9446b7a7cbdc130b9514deafb6cad6a7eb20c9c02d7c8fe1b6ab564c10c79d27"
+    releasesEtag: W/"bf05e9b768864bfed51bbd9e1e2fdd656269d3c43a006140dcc515505c0c88de"
 discovery:
   method: 'fork-network:anthoo582/mario-kart-64-ps2'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: anthoo582/mario-kart-64-ps2
   source: anthoo582/mario-kart-64-ps2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

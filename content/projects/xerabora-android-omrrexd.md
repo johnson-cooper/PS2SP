@@ -21,23 +21,23 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
-  lastCommit: '2026-09-28T17:40:00Z'
+  lastCommit: '2026-09-30T17:02:05Z'
 latestRelease:
-  tag: android-0.1.0-alpha.12-r80
-  name: xeRAbora 0.1.0-alpha.12 for Android (r80)
-  publishedAt: '2026-09-27T14:44:00Z'
+  tag: android-0.1.0-alpha.13-r92
+  name: xeRAbora 0.1.0-alpha.13 for Android (r92)
+  publishedAt: '2026-09-29T16:52:26Z'
   url: >-
-    https://github.com/oMrRexD/xerabora-android/releases/tag/android-0.1.0-alpha.12-r80
+    https://github.com/oMrRexD/xerabora-android/releases/tag/android-0.1.0-alpha.13-r92
 activity:
   lastChecked: '2026-09-29T00:33:24.960Z'
-  lastSynchronized: '2026-09-29T02:37:37.352Z'
+  lastSynchronized: '2026-10-14T11:54:04.821Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e2359b5656a59203c8072384fba310507680be389e814404233e19aa33426474"
-    releasesEtag: W/"a66ee9dbbf9911a22750f9a771a2c4b0af4c7aad39d591bccddfaee94a29bac0"
+    repoEtag: W/"2be4938a3fe2c767b29fd1bcbc36a86be7462243b5d225f7f94b5e00dc9f7b29"
+    releasesEtag: W/"f6ce817bcfd59206b9764358a4461efd089fa23b4f9d119a5d6fe04da1b971cb"
 discovery:
   method: github-maintained-fork
   confidence: 100

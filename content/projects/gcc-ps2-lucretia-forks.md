@@ -1,7 +1,9 @@
 ---
 name: gcc-ps2
 slug: gcc-ps2-lucretia-forks
-summary: "GNU Compiler Collection (GCC) cross-compiler toolchain ports targeting the PlayStation 2 Emotion Engine and IOP processors."
+summary: >-
+  GNU Compiler Collection (GCC) cross-compiler toolchain ports targeting the
+  PlayStation 2 Emotion Engine and IOP processors.
 categories:
   - sdks
   - development
@@ -28,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T05:10:46.442Z'
+  lastSynchronized: '2026-10-14T11:52:46.462Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"9356b642f41e964dbea224afa9551cde352f3e80b914322a0830ce62d79434cc"
+    releasesEtag: '"f5cbfb9c0ea79c690dbfcd976d9e6f937284afb4db33e0fbea82f00d1e4ce261"'
 discovery:
   method: 'fork-network:ps2dev/gcc'
   confidence: 95
@@ -45,5 +50,4 @@ relationships:
   forkOf: ps2dev/gcc
   source: gcc-mirror/gcc
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

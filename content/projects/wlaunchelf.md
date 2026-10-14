@@ -24,9 +24,9 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 668
-  forks: 76
-  lastCommit: '2026-06-10T06:15:38Z'
+  stars: 670
+  forks: 77
+  lastCommit: '2026-10-13T04:09:36Z'
 latestRelease:
   tag: '190107'
   name: LaunchELF build 2019/01/07
@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/ps2homebrew/wLaunchELF/releases/tag/190107'
 activity:
   lastChecked: '2026-09-29T00:27:15.938Z'
-  lastSynchronized: '2026-09-29T02:37:35.104Z'
+  lastSynchronized: '2026-10-14T11:54:04.189Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0a186a5242a05de44766d51778f3cd065402d90ce0003d9b19e9e509770a1872"
-    releasesEtag: W/"fc002bac27575c50647f23361a5fc9ed53280123a434685794d4ea195e566cba"
+    repoEtag: W/"d7afb075bc3e6483e04cc204c888852d596d45c5148a6aaaed66bbdb34a36ef8"
+    releasesEtag: W/"37d992eb1b17188897bcaa3c34068bff4c99c2de306d9d403eecff212e3fe9a6"
 discovery:
   method: curated
   confidence: 100

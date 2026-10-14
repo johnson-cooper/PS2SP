@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-08T02:16:36.120Z'
+  lastSynchronized: '2026-10-14T11:52:56.290Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0a1c5353ca9ceb371891a957fb872e14e30f39e22020a00e54ba530032485c89"
+    releasesEtag: '"f5cbfb9c0ea79c690dbfcd976d9e6f937284afb4db33e0fbea82f00d1e4ce261"'
 discovery:
   method: 'fork-network:InchStudio/libsmb2'
   confidence: 95
@@ -49,5 +52,4 @@ relationships:
   forkOf: InchStudio/libsmb2
   source: sahlberg/libsmb2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

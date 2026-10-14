@@ -1,7 +1,9 @@
 ---
 name: usb_mass
 slug: usb-mass
-summary: "USB mass storage driver providing FAT16/FAT32/exFAT drive access for PlayStation 2 homebrew."
+summary: >-
+  USB mass storage driver providing FAT16/FAT32/exFAT drive access for
+  PlayStation 2 homebrew.
 categories:
   - drivers
 tags:
@@ -26,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-09-29T04:57:53.380Z'
+  lastSynchronized: '2026-10-14T11:54:02.003Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"89104b1acede9cb8af4220f48a958ea99304cb1b4be91f35b763d6209337e283"
+    releasesEtag: '"f5cbfb9c0ea79c690dbfcd976d9e6f937284afb4db33e0fbea82f00d1e4ce261"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100
@@ -39,5 +44,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

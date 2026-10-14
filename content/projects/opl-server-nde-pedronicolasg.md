@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: '2023-10-08T13:19:48Z'
   url: 'https://github.com/pedronicolasg/OPL-Server-NDE/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-10-01T14:52:44.353Z'
+  lastSynchronized: '2026-10-14T11:53:15.420Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5b8bbb8733902062242b757e3a574fb9e66a4fcce149dd17c6a2b14fbbfa22f4"
+    releasesEtag: W/"8c3b64725c656c4994cfb8b9bde11b57f4411f7cb95ee235320ef64a2a92cacf"
 discovery:
   method: 'fork-network:elmariolo/OPL-Server'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: elmariolo/OPL-Server
   source: elmariolo/OPL-Server
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

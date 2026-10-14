@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T10:40:07.412Z'
+  lastSynchronized: '2026-10-14T11:53:50.732Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7147bb291fd8d4d2ce974c5a2eec6f89941f5aa07751467300234eb5283f1c46"
+    releasesEtag: '"f5cbfb9c0ea79c690dbfcd976d9e6f937284afb4db33e0fbea82f00d1e4ce261"'
 discovery:
   method: 'fork-network:gamebitfunx/PSxMemCardGen2'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: gamebitfunx/PSxMemCardGen2
   source: gamebitfunx/PSxMemCardGen2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

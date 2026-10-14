@@ -1,7 +1,9 @@
 ---
 name: helengine-demo-disc
 slug: helengine-demo-disc
-summary: "Interactive PlayStation 2 demo disc showcasing the 3D graphics rendering features of HelEngine."
+summary: >-
+  Interactive PlayStation 2 demo disc showcasing the 3D graphics rendering
+  features of HelEngine.
 categories:
   - demos
 tags:
@@ -22,7 +24,7 @@ repository:
   defaultBranch: main
   stars: 3
   forks: 1
-  lastCommit: '2026-09-27T18:37:01Z'
+  lastCommit: '2026-10-14T00:20:11Z'
 latestRelease:
   tag: v1.0.0
   name: v1.00
@@ -30,12 +32,12 @@ latestRelease:
   url: 'https://github.com/helworks/helengine-demo-disc/releases/tag/v1.0.0'
 activity:
   lastChecked: '2026-09-29T00:29:21.569Z'
-  lastSynchronized: '2026-10-01T03:32:09.317Z'
+  lastSynchronized: '2026-10-14T11:52:50.399Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"17dcb5dd0cdc86c1a37ec8da1f9cbd16fbb1727171b50a61a3f4f3fddde644c8"
-    releasesEtag: W/"472579f040f32065bc050a3e0b34bd09664c19ee0a89d008a286aad2a70ab09d"
+    repoEtag: W/"a4693b6ed8f2ea8421043e2e12cb8ebd37bfbbfd5c0a48534eaf812ee797798a"
+    releasesEtag: W/"a27718470b2f6fc1234aa1604b844213cf0284fe55214bf9ae9a17605bbc434c"
 discovery:
   method: 'pending-promotion:github-related-owner'
   confidence: 85

@@ -23,16 +23,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-09-22T10:02:36Z'
+  lastCommit: '2026-10-14T04:20:03Z'
 latestRelease:
-  tag: v2.3
-  name: NetherSX2 v2.3 - ARM Mali GPU Optimized
-  publishedAt: '2026-09-20T06:31:36Z'
-  url: 'https://github.com/mininxd/NetherSX2-patch/releases/tag/v2.3'
+  tag: e35cb2c87-2.9.127-14102026
+  name: e35cb2c87-2.9.127-14102026
+  publishedAt: '2026-10-14T04:20:03Z'
+  url: >-
+    https://github.com/mininxd/NetherSX2-patch/releases/tag/e35cb2c87-2.9.127-14102026
 activity:
-  lastSynchronized: '2026-10-01T11:22:08.773Z'
+  lastSynchronized: '2026-10-14T11:53:01.741Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"acd5d5847516234e288f1ac54aedc645b4a29ac0a02d55fea2aa3cb3e013edf2"
+    releasesEtag: W/"1131567afb62cb36b9385f8a139c793f3d62cd5aa3160246468cbb28fafb0ed7"
 discovery:
   method: 'fork-network:Trixarian/NetherSX2-patch'
   confidence: 95
@@ -47,5 +51,4 @@ relationships:
   forkOf: Trixarian/NetherSX2-patch
   source: Trixarian/NetherSX2-patch
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

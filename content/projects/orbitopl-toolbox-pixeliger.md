@@ -21,16 +21,19 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-09-30T07:19:41Z'
+  lastCommit: '2026-10-07T19:11:35Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: nightly-rc
+  name: Nightly
+  publishedAt: '2026-10-07T19:11:47Z'
+  url: 'https://github.com/PixeliGer/OrbitOPL-Toolbox/releases/tag/nightly-rc'
 activity:
-  lastSynchronized: '2026-10-01T15:00:56.456Z'
+  lastSynchronized: '2026-10-14T11:53:17.574Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"47541232a826ba2540692f467f653c707eb7349ab37c931f106e12abe6755a91"
+    releasesEtag: W/"56f7abab954c35ba4c1d9e5d5d7cfa60e1220445c1cd3c8b43aaf975f8dadeee"
 discovery:
   method: 'fork-network:Luden02/OrbitPS2-Manager'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: Luden02/OrbitPS2-Manager
   source: Luden02/OrbitPS2-Manager
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

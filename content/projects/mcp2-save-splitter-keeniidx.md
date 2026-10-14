@@ -1,7 +1,9 @@
 ---
 name: mcp2-save-splitter
 slug: mcp2-save-splitter-keeniidx
-summary: "PowerShell tool for splitting and converting MemCard PRO 2 multi-save VMC images into individual PlayStation 2 save files."
+summary: >-
+  PowerShell tool for splitting and converting MemCard PRO 2 multi-save VMC
+  images into individual PlayStation 2 save files.
 categories:
   - save-tools
   - host-tools
@@ -28,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:17:04.836Z'
+  lastSynchronized: '2026-10-14T11:52:59.146Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b355dc391068bb035a877c0341b344ada3788544bf9a9b02092290df2dfee3bb"
+    releasesEtag: '"f5cbfb9c0ea79c690dbfcd976d9e6f937284afb4db33e0fbea82f00d1e4ce261"'
 discovery:
   method: 'fork-network:K3zter/mcp2-save-splitter'
   confidence: 95
@@ -44,5 +49,4 @@ relationships:
   forkOf: K3zter/mcp2-save-splitter
   source: K3zter/mcp2-save-splitter
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

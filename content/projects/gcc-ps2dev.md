@@ -1,7 +1,9 @@
 ---
 name: gcc
 slug: gcc-ps2dev
-summary: "GNU Compiler Collection (GCC) cross-compiler toolchain ports targeting the PlayStation 2 Emotion Engine and IOP processors."
+summary: >-
+  GNU Compiler Collection (GCC) cross-compiler toolchain ports targeting the
+  PlayStation 2 Emotion Engine and IOP processors.
 categories:
   - sdks
   - development
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:32:00.098Z'
+  lastSynchronized: '2026-10-14T11:52:46.923Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c37a76cde28fe5fbb09cbd956b70747842d3de0939790fd92037d114b93823b4"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"5e0c2b3ee63f635ccf486681c7a3577c152e9e4fddeb21b991cce14f13d18c7b"
+    releasesEtag: '"f5cbfb9c0ea79c690dbfcd976d9e6f937284afb4db33e0fbea82f00d1e4ce261"'
 discovery:
   method: 'trusted-owner:ps2dev'
   confidence: 100

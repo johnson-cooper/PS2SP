@@ -19,7 +19,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 0
+  stars: 1
   forks: 0
   lastCommit: '2026-05-19T13:43:15Z'
 latestRelease:
@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:33:01.329Z'
+  lastSynchronized: '2026-10-14T11:53:14.271Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6d688127af475144288cbbba7d70c8613f6ba2ae0c4156f55492880b8d31d96a"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"f9e21278061b5fc584d6c0a80f35a9bfa132249a18cec1c73f5a0a292640de75"
+    releasesEtag: '"f5cbfb9c0ea79c690dbfcd976d9e6f937284afb4db33e0fbea82f00d1e4ce261"'
 discovery:
   method: 'trusted-owner:ps2dev'
   confidence: 100
