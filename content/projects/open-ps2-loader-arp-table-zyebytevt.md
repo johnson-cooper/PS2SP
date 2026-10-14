@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: '2024-12-26T15:37:38Z'
   url: 'https://github.com/zyebytevt/Open-PS2-Loader-ARP-Table/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-11T20:34:57.079Z'
+  lastSynchronized: '2026-10-14T06:09:51.600Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1dcde4cdc11994050dd63dd3dc88e6a3ba2b1b6584656b1ba743d10ab72ddcb1"
+    releasesEtag: W/"9e05ad17aa8dfbfcf5c5a790380e6562cc20fe7d7ab1015e7a34ba53918ccde8"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100
@@ -56,5 +59,4 @@ relationships:
   forkOf: ps2homebrew/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

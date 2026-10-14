@@ -12,8 +12,8 @@ tags:
   - fork
 features: []
 authors: []
-license: null
-homepage: null
+license: GPL-3.0
+homepage: 'https://openrac.dev/'
 source:
   provider: github
   repository: dev-gian/rac1-decomp
@@ -21,10 +21,10 @@ source:
   url: 'https://github.com/dev-gian/rac1-decomp'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-12T09:41:50Z'
 latestRelease:
   tag: null
   name: null
@@ -32,8 +32,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-07T16:24:32.585Z'
+  lastSynchronized: '2026-10-14T06:10:43.742Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ac8b984464998b99b124ec80e508a968a1bde0e0c8571b75e9e1367448ce5a5d"
+    releasesEtag: '"e5eba8482d6470e4b0a6ce3d4774fb30b9db64f88c388fda0feb7ffa436844ca"'
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -49,5 +53,4 @@ relationships:
   forkOf: OpenRAC/rac1-decomp
   source: OpenRAC/rac1-decomp
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

@@ -22,10 +22,10 @@ source:
   url: 'https://github.com/Danielpro9/Opticraftheritage-Dsi-port'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 7
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-13T23:53:53Z'
 latestRelease:
   tag: null
   name: null
@@ -33,8 +33,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-04T22:32:01.981Z'
+  lastSynchronized: '2026-10-14T06:10:02.038Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d0b20549001c969545e9882c6c5102fadf7005c2d7758e035f55b5e9642e3a34"
+    releasesEtag: '"e5eba8482d6470e4b0a6ce3d4774fb30b9db64f88c388fda0feb7ffa436844ca"'
 discovery:
   method: 'pending-promotion:incremental:ps2sdk in:name,description,readme'
   confidence: 75
@@ -50,5 +54,4 @@ relationships:
   forkOf: OptiJuegos/OptiCraftHeritageEdition
   source: OptiJuegos/OptiCraftHeritageEdition
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

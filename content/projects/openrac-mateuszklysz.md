@@ -22,10 +22,10 @@ source:
   url: 'https://github.com/mateuszklysz/OpenRAC'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-13T18:11:45Z'
 latestRelease:
   tag: null
   name: null
@@ -33,8 +33,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-13T19:32:43.126Z'
+  lastSynchronized: '2026-10-14T06:09:57.793Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2e61e09275383561a4d6fb915a1abdeb34245866a5ba66ae3e65b85d8989400f"
+    releasesEtag: '"e5eba8482d6470e4b0a6ce3d4774fb30b9db64f88c388fda0feb7ffa436844ca"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75
@@ -50,5 +54,4 @@ relationships:
   forkOf: OpenRAC/OpenRAC
   source: OpenRAC/OpenRAC
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

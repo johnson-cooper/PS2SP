@@ -1,7 +1,9 @@
 ---
 name: ps2sdk
 slug: ps2sdk-florin9doi
-summary: "Open-source software development kit providing C standard libraries, kernel interfaces, and hardware drivers for PlayStation 2 homebrew development."
+summary: >-
+  Open-source software development kit providing C standard libraries, kernel
+  interfaces, and hardware drivers for PlayStation 2 homebrew development.
 categories:
   - sdks
   - development
@@ -31,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T06:34:27.358Z'
+  lastSynchronized: '2026-10-14T06:10:32.558Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"73b7c5d82457bec8365104e88580a1af2b53616477e9f053f2f3c4887269706c"
-    releasesEtag: '"089683c071042ad1545a239b9432414c25cabe2d39fe188ff3eb2193f25c0681"'
+    repoEtag: W/"c04dc04885a36433aa05136126a5796207eb7d77eb8d4979f7375650bc62ffc2"
+    releasesEtag: '"e5eba8482d6470e4b0a6ce3d4774fb30b9db64f88c388fda0feb7ffa436844ca"'
 discovery:
   method: 'fork-network:ps2dev/ps2sdk'
   confidence: 100

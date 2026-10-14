@@ -1,7 +1,9 @@
 ---
 name: ps2wiki.github.io
 slug: ps2wiki-github-io
-summary: "Community knowledge base and technical documentation wiki for PlayStation 2 homebrew, softmods, and hardware."
+summary: >-
+  Community knowledge base and technical documentation wiki for PlayStation 2
+  homebrew, softmods, and hardware.
 categories:
   - preservation
   - development
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T06:34:32.353Z'
+  lastSynchronized: '2026-10-14T06:10:38.705Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"187e20d4c292ce5e5e573f784be743d55478491c10ac209a02ccd782522f1b05"
-    releasesEtag: '"089683c071042ad1545a239b9432414c25cabe2d39fe188ff3eb2193f25c0681"'
+    repoEtag: W/"30b4f1a21f5b24b8931c091b339a39f512b444b5715fa2a778c0ee7732c3d734"
+    releasesEtag: '"e5eba8482d6470e4b0a6ce3d4774fb30b9db64f88c388fda0feb7ffa436844ca"'
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

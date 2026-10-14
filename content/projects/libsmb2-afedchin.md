@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: '2018-05-29T06:28:03Z'
   url: 'https://github.com/afedchin/libsmb2/releases/tag/v1.1.0'
 activity:
-  lastSynchronized: '2026-10-08T09:28:07.188Z'
+  lastSynchronized: '2026-10-14T06:09:34.838Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1a5aaf49814b928fd9403c39f339128d970137fe6deda7b05f07ea1c7586e69a"
+    releasesEtag: W/"027a095fe1be93587b1a44ee229b16a9e78b45ccd7ad45bba3e808263810868b"
 discovery:
   method: 'fork-network:sahlberg/libsmb2'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: sahlberg/libsmb2
   source: sahlberg/libsmb2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

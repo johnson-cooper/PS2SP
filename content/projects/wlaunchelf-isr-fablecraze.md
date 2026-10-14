@@ -35,9 +35,12 @@ latestRelease:
   publishedAt: '2025-12-12T23:30:13Z'
   url: 'https://github.com/FableCraze/wLaunchELF_ISR/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-03T22:26:09.550Z'
+  lastSynchronized: '2026-10-14T06:11:00.599Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"25761571fddbdcee3b6f93ad2a61d0b9634ca1fe5952eb1a61963106f9779917"
+    releasesEtag: W/"669db2385981f075957b6cc5190477d470305903a5c2f3a409fb9a98e0ff2cd5"
 discovery:
   method: 'fork-network:israpps/wLaunchELF_ISR'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: israpps/wLaunchELF_ISR
   source: ps2homebrew/wLaunchELF
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

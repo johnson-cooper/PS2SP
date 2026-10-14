@@ -18,7 +18,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 88
+  stars: 86
   forks: 25
   lastCommit: '2023-03-01T19:29:43Z'
 latestRelease:
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2019-05-03T02:25:51Z'
   url: 'https://github.com/VTSTech/PS2-OPL-CFG/releases/tag/v0.0.1-r10'
 activity:
-  lastSynchronized: '2026-10-03T06:34:18.812Z'
+  lastSynchronized: '2026-10-14T06:10:19.697Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"409206f3a58410d18a010f26a157cc331bc58ddd53689c0d5e61c2b34520b828"
-    releasesEtag: W/"6da0a64a3d1c416a39bcd5061b46eb0de3a52996c7517f20de23231b76923558"
+    repoEtag: W/"c226380a96cc386b698f3dfa43519c801d6722b6f08a9653fa50c5195c72c503"
+    releasesEtag: W/"1e5f13e4eeb2dc2a813a2c829f55b87e04b240442d4a22b0e56b84be257c31ad"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

@@ -1,7 +1,9 @@
 ---
 name: ps2--
 slug: ps2-popy177-beep
-summary: "Community collection of PlayStation 2 3D and 2D box art covers formatted for Open PS2 Loader (OPL) and PCSX2."
+summary: >-
+  Community collection of PlayStation 2 3D and 2D box art covers formatted for
+  Open PS2 Loader (OPL) and PCSX2.
 categories:
   - themes
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T06:34:21.161Z'
+  lastSynchronized: '2026-10-14T06:10:22.679Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"af981693659e4d9202a34cdee35aaea7699039a5ee9bd78ad1e98008f018aa8e"
-    releasesEtag: '"089683c071042ad1545a239b9432414c25cabe2d39fe188ff3eb2193f25c0681"'
+    repoEtag: W/"38b4d15d920115865ba669c89e7ea08c56aad69bcc0792abe377de6c5eb48008"
+    releasesEtag: '"e5eba8482d6470e4b0a6ce3d4774fb30b9db64f88c388fda0feb7ffa436844ca"'
 discovery:
   method: 'fork-network:xlenore/ps2-covers'
   confidence: 100

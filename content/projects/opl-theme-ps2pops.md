@@ -27,12 +27,12 @@ latestRelease:
   url: 'https://github.com/Andiweli/OPL-Theme-PS2pops/releases/tag/v0.4'
 activity:
   lastChecked: '2026-09-29T00:27:34.118Z'
-  lastSynchronized: '2026-10-03T06:34:06.791Z'
+  lastSynchronized: '2026-10-14T06:10:00.792Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"652f2552863dd937eeb2e849ef19b65edf40bc2151eb1bcd0240a8e3751ecca1"
-    releasesEtag: W/"f2bcabc4875a28ad44b94b97df95f8ac717d107cc33a4fbf44ae46605c092a6d"
+    repoEtag: W/"437c593bcd67a14710b8158a10f50b777132a38bbefc2bc921ca0a29956ef095"
+    releasesEtag: W/"8d4346ea3b55c5d45444adb907a35abb6b28ba450ac0618f56538bf7607a6b22"
 discovery:
   method: github-search
   confidence: 100

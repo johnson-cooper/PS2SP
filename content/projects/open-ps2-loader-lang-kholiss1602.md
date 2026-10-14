@@ -1,7 +1,9 @@
 ---
 name: Open-PS2-Loader-lang
 slug: open-ps2-loader-lang-kholiss1602
-summary: "Official multi-language localization packs and translation strings for Open PS2 Loader (OPL)."
+summary: >-
+  Official multi-language localization packs and translation strings for Open
+  PS2 Loader (OPL).
 categories:
   - loaders
   - utilities
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T06:34:02.614Z'
+  lastSynchronized: '2026-10-14T06:09:54.269Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"98245b14e8a370b329f7959548773669c19d0721060ce3925ec6c286472184a7"
-    releasesEtag: '"089683c071042ad1545a239b9432414c25cabe2d39fe188ff3eb2193f25c0681"'
+    repoEtag: W/"49ae9685cdeb0f0049b44fed6d866bf9906f07819ec9bf0c7d14b8e092ffb064"
+    releasesEtag: '"e5eba8482d6470e4b0a6ce3d4774fb30b9db64f88c388fda0feb7ffa436844ca"'
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader-lang'
   confidence: 95

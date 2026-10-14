@@ -1,7 +1,9 @@
 ---
 name: mmceman
 slug: mmceman-rickgaiser
-summary: "IOP kernel modules and manager for MMCE hardware devices on PlayStation 2, enabling memory card switching and Game ID integration."
+summary: >-
+  IOP kernel modules and manager for MMCE hardware devices on PlayStation 2,
+  enabling memory card switching and Game ID integration.
 categories:
   - hardware
   - drivers
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T06:33:56.556Z'
+  lastSynchronized: '2026-10-14T06:09:44.971Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1543acf579cce012e24022637b963f9158bdb393b40cc04512a39463e059daef"
-    releasesEtag: '"089683c071042ad1545a239b9432414c25cabe2d39fe188ff3eb2193f25c0681"'
+    repoEtag: W/"bfcac6fa1e15ef64fcdc36c2f7e870015b5743d2e2baa42fcf3baf1043a75731"
+    releasesEtag: '"e5eba8482d6470e4b0a6ce3d4774fb30b9db64f88c388fda0feb7ffa436844ca"'
 discovery:
   method: 'fork-network:ps2-mmce/mmceman'
   confidence: 95

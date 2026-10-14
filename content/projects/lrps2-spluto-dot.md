@@ -1,7 +1,9 @@
 ---
 name: LRPS2
 slug: lrps2-spluto-dot
-summary: "PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation frontend support on PS2."
+summary: >-
+  PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation
+  frontend support on PS2.
 categories:
   - emulators
   - ports
@@ -30,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T06:33:56.124Z'
+  lastSynchronized: '2026-10-14T06:09:43.799Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e56dcc7720c11a76eddde145dbff8258ab883d13172fe8ad1d8894e2cb839504"
-    releasesEtag: '"089683c071042ad1545a239b9432414c25cabe2d39fe188ff3eb2193f25c0681"'
+    repoEtag: W/"590e3beba01e5388f9dd2231026d060d3af0185ba4332d2e74226cbbf126310f"
+    releasesEtag: '"e5eba8482d6470e4b0a6ce3d4774fb30b9db64f88c388fda0feb7ffa436844ca"'
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 95
