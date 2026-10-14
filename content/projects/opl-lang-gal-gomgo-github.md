@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2025-08-09T23:24:01Z'
   url: 'https://github.com/gomgo-github/OPL-lang-gal/releases/tag/Releases'
 activity:
-  lastSynchronized: '2026-10-13T00:40:26.454Z'
+  lastSynchronized: '2026-10-14T00:20:29.290Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9bf1bcbc4fb48fc0c52092ac11a8a44c33c139fa867c026c7f6f1c1dfeca2990"
-    releasesEtag: W/"db2e1e03b955d52bc690d7f8673021a62a78fb9457cdc857ccd88f049df833a8"
+    repoEtag: W/"96c89ffbda4bd2abbcebc75ba1152f536fba93838a5ee38d2b259a1f6daed6e9"
+    releasesEtag: W/"fa71c5031d936838fd9f0243717cc0322ff0a6d2bd77bf9421712d67e68d5b37"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader-lang'
   confidence: 95
