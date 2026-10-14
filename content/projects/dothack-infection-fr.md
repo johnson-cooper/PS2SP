@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-10-08T16:18:30Z'
   url: 'https://github.com/absassist/dothack-infection-fr/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-10-08T16:57:35.240Z'
+  lastSynchronized: '2026-10-14T23:55:07.888Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5f85af161923cc591da73212f2a1c5b0f4c9e00168908297d776183e76e3173f"
+    releasesEtag: W/"bbcf0a5013e40242ae8cc508b88a6fafe985a4ef247f5841914bb4cfb70ff2b2"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -42,5 +45,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

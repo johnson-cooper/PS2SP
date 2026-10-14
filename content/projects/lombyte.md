@@ -15,26 +15,26 @@ license: MIT
 homepage: 'https://decomp.dev/mateuszklysz/Lombyte'
 source:
   provider: github
-  repository: mateuszklysz/Lombyte
+  repository: lombyte-project/Lombyte
   repositoryId: '1364389576'
 repository:
   archived: false
   defaultBranch: main
-  stars: 22
-  forks: 4
-  lastCommit: '2026-10-04T21:12:15Z'
+  stars: 37
+  forks: 6
+  lastCommit: '2026-10-14T21:41:24Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T23:11:10.615Z'
+  lastSynchronized: '2026-10-14T23:55:32.665Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ed883217fd522dfcb0ae35d9c72315e9050e33f45e7592d2c777b02b3a1e4404"
-    releasesEtag: '"61757e3d64c94fb335698aebfa6b9571b39b33da64902db3a913fc96d3ebae9b"'
+    repoEtag: W/"7558f1f347f59ac6769b24d24389d513ecf29845a127c891f3ffa9c34e8a6655"
+    releasesEtag: '"7220e93c2119d8a1597e54c986bad09e8fcbedd8027e89938898b491d815c399"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

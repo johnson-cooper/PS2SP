@@ -20,19 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-03T22:35:37Z'
+  lastCommit: '2026-10-13T16:11:25Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v2026.10.13
+  name: PCSX2 GroovyNLC v2026.10.13
+  publishedAt: '2026-10-13T16:11:26Z'
+  url: 'https://github.com/retrorepair/pcsx2/releases/tag/v2026.10.13'
 activity:
-  lastSynchronized: '2026-10-04T23:11:24.625Z'
+  lastSynchronized: '2026-10-14T23:55:55.363Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f9c73710663bc11df65f8e681d855f05a653d6b8fee056bc2c90634bceaefcc3"
-    releasesEtag: '"61757e3d64c94fb335698aebfa6b9571b39b33da64902db3a913fc96d3ebae9b"'
+    repoEtag: W/"536d86776b12f100ea682ada579ab742237a3f9658cd753457500a5b63fe5784"
+    releasesEtag: W/"33a4ea8c984ca06030d26131d6043f44fb65d59642c500c7afd13b872e2d7408"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
