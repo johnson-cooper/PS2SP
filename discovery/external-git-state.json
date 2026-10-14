@@ -590,7 +590,8 @@
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@iop-mmio-test": "ff242b149122c9727254e2bc10ba161d407afc79",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@kbd-location": "a07ca670e209d1af85f97671e3b0fe5ed5c3cb2e",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ee-bench": "37f1b5a02c03eba75da539d2b63db518dc89a5eb",
-    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ee-mmi-test": "6a277e5f2f607a87f4fdd3a6b9bd42547611af02"
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ee-mmi-test": "6a277e5f2f607a87f4fdd3a6b9bd42547611af02",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-world@ps2-100-audio-adpcm-test": "d912f615ab3d5e4322a1957b7582f817be3794f9"
   },
   "branchPage": {
     "https://git.techwritescode.dev/api/v1|ps2/ps2build": 2,
@@ -673,18 +674,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-10-14T11:03:31.956Z",
+    "at": "2026-10-14T16:23:09.512Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 142,
+    "branchesSeen": 21,
     "branchesChanged": 1,
     "treesScanned": 1,
     "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 0,
-    "nestedAdded": 0,
-    "requests": 84,
+    "branchesAdded": 1,
+    "nestedAdded": 28,
+    "requests": 78,
     "stoppedForBudget": false
   },
-  "queueCursor": 5
+  "queueCursor": 25
 }

@@ -4753,6 +4753,18 @@
         ]
       },
       {
+        "name": "ps2/sdk-world — branch: ps2-100-audio-adpcm-test",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test"
+        ]
+      },
+      {
         "name": "ps2/setup-ps2build — branch: master",
         "url": "https://git.techwritescode.dev/ps2/setup-ps2build/src/branch/master",
         "keywords": [
@@ -21929,6 +21941,398 @@
           "nested project",
           "ps2/sdk-world",
           "master",
+          "libsnd2"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — aalib",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/aalib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "aalib"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — audio",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/audio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "audio"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — audio/examples",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/audio/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "audio/examples"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — audio/examples/sound",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/audio/examples/sound",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "audio/examples/sound"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — audio/examples/tone",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/audio/examples/tone",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "audio/examples/tone"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — audio/src/iop",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/audio/src/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "audio/src/iop"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — audio/tests/pcsx2",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/audio/tests/pcsx2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "audio/tests/pcsx2"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — audio/tests/pcsx2/adpcm",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/audio/tests/pcsx2/adpcm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "audio/tests/pcsx2/adpcm"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — audsrv-compat",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/audsrv-compat",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "audsrv-compat"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — dmakit",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/dmakit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "dmakit"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — freetype",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/freetype",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "freetype"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — freetype/src/bdf",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/freetype/src/bdf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "freetype/src/bdf"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — freetype/src/gxvalid",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/freetype/src/gxvalid",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "freetype/src/gxvalid"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — freetype/src/pcf",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/freetype/src/pcf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "freetype/src/pcf"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — freetype/src/tools",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/freetype/src/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "freetype/src/tools"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — freetype/src/tools/ftrandom",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/freetype/src/tools/ftrandom",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "freetype/src/tools/ftrandom"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — gskit",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/gskit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "gskit"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — gskit-toolkit",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/gskit-toolkit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "gskit-toolkit"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — hash",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/hash",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "hash"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — hdd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/hdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "hdd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — input",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/input",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "input"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — inputx",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/inputx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "inputx"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — ioptrap",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/ioptrap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "ioptrap"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — libid3tag",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/libid3tag",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "libid3tag"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — libjpeg_ps2_addons",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/libjpeg_ps2_addons",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "libjpeg_ps2_addons"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — libmad",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/libmad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "libmad"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — libpng",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/libpng",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
+          "libpng"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@ps2-100-audio-adpcm-test — libsnd2",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/ps2-100-audio-adpcm-test/libsnd2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "ps2-100-audio-adpcm-test",
           "libsnd2"
         ]
       },
