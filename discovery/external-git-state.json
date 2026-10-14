@@ -318,7 +318,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/libjpeg-turbo@master": "fec18329883e684773c38ef401dfd727123b32cc",
     "https://git.techwritescode.dev/api/v1|ps2/freetype@master": "ac76a91c43b45f92d0d802f211ce4351a9e1c1a8",
     "https://git.techwritescode.dev/api/v1|ps2/libpng@master": "f30e0daca14157d27dab0b8e3a2b634481338ea6",
-    "https://git.techwritescode.dev/api/v1|ps2/ogg@main": "c0655e20a1bf8d8c067d09c61a9a1de5fd87921d",
+    "https://git.techwritescode.dev/api/v1|ps2/ogg@main": "35cc16fd916c63d894aed7f5a6d7d471fac3510d",
     "https://git.techwritescode.dev/api/v1|ps2/vorbis@main": "83772b95effc67bb8430c70285bc3eda53b1b7c3",
     "https://git.techwritescode.dev/api/v1|ps2/ninja@master": "18cfee4639a4b1eccea59a7ca1251713c77d1554",
     "https://git.techwritescode.dev/api/v1|ps2/ps2link@master": "8d1f50594f56506f82f2b446096f63b55977fb19",
@@ -391,7 +391,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2gl@master": "aaf8d3d532020e3a8bc7512095c84a388969574e",
     "https://git.techwritescode.dev/api/v1|ps2/ps2stuff@master": "8d682f6048bcb751a811d5f92e2f431564bb9889",
     "https://git.techwritescode.dev/api/v1|ps2/romfs@master": "13607e2ab224ad39051117b8a2ab7c6ba3c6f991",
-    "https://git.techwritescode.dev/api/v1|ps2/sdk-world@master": "13fe3d83dbd8dab4cbdbf9f9e0582261c387edbb",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-world@master": "fe2628650322043889c72abff1655974d203b874",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-world@ioptrap-udptty": "e58b6bf3b5810c9de367546a69e240ba17cbdad6",
     "https://git.techwritescode.dev/api/v1|ps2/setup-sdk@master": "031f27442052489f2e387d10ac05a7f3d45ec183",
     "https://git.techwritescode.dev/api/v1|ps2/setup-ps2build@master": "2555df6b897ad0cb539d6887c274bfd4725071c4",
@@ -673,18 +673,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-10-14T00:05:32.349Z",
+    "at": "2026-10-14T05:43:54.442Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 141,
-    "branchesChanged": 6,
-    "treesScanned": 6,
+    "branchesSeen": 21,
+    "branchesChanged": 2,
+    "treesScanned": 2,
     "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 3,
-    "nestedAdded": 120,
-    "requests": 89,
+    "branchesAdded": 0,
+    "nestedAdded": 0,
+    "requests": 79,
     "stoppedForBudget": false
   },
-  "queueCursor": 3
+  "queueCursor": 23
 }
