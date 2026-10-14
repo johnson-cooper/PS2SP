@@ -231,7 +231,7 @@
     }
   ],
   "branchHeads": {
-    "https://git.techwritescode.dev/api/v1|ps2/ps2build@master": "a5c573a93cec87c77c3725a9f83fc11eba054a29",
+    "https://git.techwritescode.dev/api/v1|ps2/ps2build@master": "43bf72cca61672b4bd904ea640665d1d4e87f549",
     "https://git.techwritescode.dev/api/v1|ps2/ps2build@llvm": "7af4e19a999bba54816e6b8b46ca5a80ce2e98d2",
     "https://git.techwritescode.dev/api/v1|ps2/ps2build@add-dvp-vsm-support": "99a53b52171e10f78d066bcf5fdf3ff2f1eddc43",
     "https://git.techwritescode.dev/api/v1|ps2/gcc@master": "507a37e0ac2da66cc2399f563463eeabd38c342f",
@@ -319,7 +319,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/freetype@master": "ac76a91c43b45f92d0d802f211ce4351a9e1c1a8",
     "https://git.techwritescode.dev/api/v1|ps2/libpng@master": "f30e0daca14157d27dab0b8e3a2b634481338ea6",
     "https://git.techwritescode.dev/api/v1|ps2/ogg@main": "c0655e20a1bf8d8c067d09c61a9a1de5fd87921d",
-    "https://git.techwritescode.dev/api/v1|ps2/vorbis@main": "94a928f6981e79b71f5a808424afa3b6c05eede1",
+    "https://git.techwritescode.dev/api/v1|ps2/vorbis@main": "83772b95effc67bb8430c70285bc3eda53b1b7c3",
     "https://git.techwritescode.dev/api/v1|ps2/ninja@master": "18cfee4639a4b1eccea59a7ca1251713c77d1554",
     "https://git.techwritescode.dev/api/v1|ps2/ps2link@master": "8d1f50594f56506f82f2b446096f63b55977fb19",
     "https://git.techwritescode.dev/api/v1|ps2/ps2client@master": "0937296a0d0802e028713a87e1c7e1b9693349eb",
@@ -570,7 +570,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-100-test-matrix": "73d1f6b54be3c93db2f3ae4065bbdb17cdf006fa",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-104-eh-frame": "a18b79cf822b0724add5e97edb71fdc8717c1667",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-98-llvm-compat": "a00c8255dfe9958553baa41a5f18a546d94208bf",
-    "https://git.techwritescode.dev/api/v1|ps2/llvm@r5900-ee": "32b95f90b5365a2c8fc0636a9c5631c5889a3078",
+    "https://git.techwritescode.dev/api/v1|ps2/llvm@r5900-ee": "267389ace7bd587f3d2f538201a5fcc5982d3753",
     "https://git.techwritescode.dev/api/v1|ps2/llvm@main": "fa360c3b8dbfd8a449364b7a6e454878bcf00eb9",
     "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain@main": "49b155af3bedfd32fc1ab44d8cf491da0b1b8b6b",
     "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm@ee-v4.6.0-llvm": "05e73c20c58428a9388a4b36e800caeedf5860bf",
@@ -587,7 +587,10 @@
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-filesystem": "565a4eef0a11e1f6e124ada6a8d897f3398ce987",
     "https://git.techwritescode.dev/api/v1|ps2/llvm@ps2-mc-fill-warning": "8f6af403d9701a7f0f4705ae3568d6807ad154c8",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@rig-safe-tests": "753fdc4b790a90530fc8c3df0814bac18bc902fc",
-    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@iop-mmio-test": "ff242b149122c9727254e2bc10ba161d407afc79"
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@iop-mmio-test": "ff242b149122c9727254e2bc10ba161d407afc79",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@kbd-location": "a07ca670e209d1af85f97671e3b0fe5ed5c3cb2e",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ee-bench": "37f1b5a02c03eba75da539d2b63db518dc89a5eb",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ee-mmi-test": "6a277e5f2f607a87f4fdd3a6b9bd42547611af02"
   },
   "branchPage": {
     "https://git.techwritescode.dev/api/v1|ps2/ps2build": 2,
@@ -596,7 +599,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/toolchain": 2,
     "https://git.techwritescode.dev/api/v1|ps2/masp": 2,
     "https://git.techwritescode.dev/api/v1|ps2/openvcl": 2,
-    "https://git.techwritescode.dev/api/v1|ps2/newlib": 3,
+    "https://git.techwritescode.dev/api/v1|ps2/newlib": 4,
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded": 2,
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core": 2,
     "https://git.techwritescode.dev/api/v1|ps2/tools": 2,
@@ -670,18 +673,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-10-13T20:02:04.756Z",
+    "at": "2026-10-14T00:05:32.349Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 26,
-    "branchesChanged": 3,
-    "treesScanned": 3,
+    "branchesSeen": 141,
+    "branchesChanged": 6,
+    "treesScanned": 6,
     "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 1,
-    "nestedAdded": 40,
-    "requests": 80,
+    "branchesAdded": 3,
+    "nestedAdded": 120,
+    "requests": 89,
     "stoppedForBudget": false
   },
-  "queueCursor": 21
+  "queueCursor": 3
 }
