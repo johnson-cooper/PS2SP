@@ -781,6 +781,18 @@
         ]
       },
       {
+        "name": "ps2/llvm — branch: r5900-unroll",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-unroll",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/llvm",
+          "r5900-unroll"
+        ]
+      },
+      {
         "name": "ps2/llvm-toolchain — branch: ci-exec-bits",
         "url": "https://git.techwritescode.dev/ps2/llvm-toolchain/src/branch/ci-exec-bits",
         "keywords": [
@@ -9141,6 +9153,202 @@
           "nested project",
           "ps2/llvm",
           "r5900-ee",
+          "bolt/test/Unit"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-unroll — .ci/buildbot",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-unroll/.ci/buildbot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-unroll",
+          ".ci/buildbot"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-unroll — bolt",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-unroll/bolt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-unroll",
+          "bolt"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-unroll — bolt/cmake/modules",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-unroll/bolt/cmake/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-unroll",
+          "bolt/cmake/modules"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-unroll — bolt/docs",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-unroll/bolt/docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-unroll",
+          "bolt/docs"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-unroll — bolt/lib",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-unroll/bolt/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-unroll",
+          "bolt/lib"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-unroll — bolt/lib/Core",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-unroll/bolt/lib/Core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-unroll",
+          "bolt/lib/Core"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-unroll — bolt/lib/Passes",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-unroll/bolt/lib/Passes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-unroll",
+          "bolt/lib/Passes"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-unroll — bolt/lib/Profile",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-unroll/bolt/lib/Profile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-unroll",
+          "bolt/lib/Profile"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-unroll — bolt/lib/Rewrite",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-unroll/bolt/lib/Rewrite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-unroll",
+          "bolt/lib/Rewrite"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-unroll — bolt/lib/RuntimeLibs",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-unroll/bolt/lib/RuntimeLibs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-unroll",
+          "bolt/lib/RuntimeLibs"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-unroll — bolt/lib/Utils",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-unroll/bolt/lib/Utils",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-unroll",
+          "bolt/lib/Utils"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-unroll — bolt/runtime",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-unroll/bolt/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-unroll",
+          "bolt/runtime"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-unroll — bolt/test",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-unroll/bolt/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-unroll",
+          "bolt/test"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r5900-unroll — bolt/test/Unit",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-unroll/bolt/test/Unit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r5900-unroll",
           "bolt/test/Unit"
         ]
       },
@@ -22582,6 +22790,34 @@
           "ps2/sdk-world",
           "master",
           "audio/src/iop"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@master — audio/tests/pcsx2",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/master/audio/tests/pcsx2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "master",
+          "audio/tests/pcsx2"
+        ]
+      },
+      {
+        "name": "ps2/sdk-world@master — audio/tests/pcsx2/adpcm",
+        "url": "https://git.techwritescode.dev/ps2/sdk-world/src/branch/master/audio/tests/pcsx2/adpcm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-world",
+          "master",
+          "audio/tests/pcsx2/adpcm"
         ]
       },
       {
