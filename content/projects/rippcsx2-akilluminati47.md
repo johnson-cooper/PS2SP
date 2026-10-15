@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: '2026-10-13T07:52:55Z'
   url: 'https://github.com/akilluminati47/RIPPCSX2/releases/tag/v2.9.96-rippcsx2.1'
 activity:
-  lastSynchronized: '2026-10-13T16:00:42.852Z'
+  lastSynchronized: '2026-10-15T15:03:18.285Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0f5d8a6227a1b2f528083f0c872c480279946487eb1e85afa6c48f15ca29319d"
-    releasesEtag: W/"69aaa191c8fb8eab919ee2603973cbd7c8fad71ff753585c38b7ccf2dec656ba"
+    repoEtag: W/"81d41a40716e50e62295dcba6ba124cd0786f0546723a370705438e7b3d5f44b"
+    releasesEtag: W/"57c97bfc9d62574e4bdd15f8c6fb699f433caaf87a2634036cb7cb34d4796dff"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

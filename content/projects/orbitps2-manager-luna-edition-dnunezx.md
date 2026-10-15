@@ -23,19 +23,19 @@ repository:
   defaultBranch: main
   stars: 2
   forks: 1
-  lastCommit: '2026-10-13T03:52:58Z'
+  lastCommit: '2026-10-13T22:05:41Z'
 latestRelease:
-  tag: v0.1.0
-  name: OrbitPS2 Manager - LUNA Edition v0.1.0
-  publishedAt: '2026-09-22T13:27:46Z'
-  url: 'https://github.com/dnunezx/OrbitPS2-Manager-LUNA-edition/releases/tag/v0.1.0'
+  tag: v0.1.1
+  name: OrbitPS2 Manager - LUNA Edition v0.1.1
+  publishedAt: '2026-10-13T22:05:42Z'
+  url: 'https://github.com/dnunezx/OrbitPS2-Manager-LUNA-edition/releases/tag/v0.1.1'
 activity:
-  lastSynchronized: '2026-10-13T16:00:02.365Z'
+  lastSynchronized: '2026-10-15T15:02:38.263Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"725999c8288d0e0c5258bbc7fee95494744e5d28bed3ff5af49ecacb2453e3c8"
-    releasesEtag: W/"c29b844ef0c168285304ff909d87b22158565b5fb9bb48fc8a8145170a330b2e"
+    repoEtag: W/"76030d4d35e5c526ab2640254dc542a2814d9992cda3655250e267f9d899c6b0"
+    releasesEtag: W/"e98dce56bb70a1daa53686b83d9234a3a80b1bb1b1039294cc46fde3b7d33c03"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

@@ -14,10 +14,10 @@ tags:
 features: []
 authors: []
 license: null
-homepage: null
+homepage: 'http://opentennis.dev/'
 source:
   provider: github
-  repository: FIZL0/hot-shots-tennis-rust
+  repository: FIZL0/opentennis
   repositoryId: '1408779668'
   url: 'https://github.com/FIZL0/hot-shots-tennis-rust'
 repository:
@@ -25,20 +25,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-13T15:50:50Z'
+  lastCommit: '2026-10-15T15:01:58Z'
 latestRelease:
-  tag: alpha
-  name: Latest alpha (ba527e1)
-  publishedAt: '2026-10-13T15:50:50Z'
-  url: 'https://github.com/FIZL0/hot-shots-tennis-rust/releases/tag/alpha'
+  tag: beta
+  name: Beta (dd20b40)
+  publishedAt: '2026-10-15T13:55:16Z'
+  url: 'https://github.com/FIZL0/opentennis/releases/tag/beta'
 activity:
   lastChecked: '2026-10-09T16:35:29.097Z'
-  lastSynchronized: '2026-10-13T15:59:28.101Z'
+  lastSynchronized: '2026-10-15T15:02:05.820Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1d55d45876e95de63e9fb1741f88832caa826634bfac6aa1676a6f255c7a348a"
-    releasesEtag: W/"219c9c6c3507360b11a6613b1c0df54da7b6cf3e7b45bd2f8d4d53930bfa78b6"
+    repoEtag: W/"c7280782352f8f92044eb3bfc133a078a93406e1301bf1e8771f3b8dd34f8d13"
+    releasesEtag: W/"ca58aa13d8385c947517fc9220dc65e66aa420cbfa5babe2f21f9aa465bc406a"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85

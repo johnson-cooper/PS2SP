@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-14T18:54:17.306Z'
+  lastSynchronized: '2026-10-15T15:02:50.665Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"16dcfea2523a99fd8c76eb92eefe9707cce227e3eb787ee69c06f02f455a46a5"
+    releasesEtag: '"18bd9b81563aa7db63bba35858382769e5316c9fa3f022cec109596c7cd5f2b3"'
 discovery:
   method: 'fork-network:AKuHAK/PMAP'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: AKuHAK/PMAP
   source: ps2homebrew/PMAP
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

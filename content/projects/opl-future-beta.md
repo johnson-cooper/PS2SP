@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/brunlx/OPL-Future---BETA/releases/tag/v2.0.0'
 activity:
   lastChecked: '2026-09-29T00:27:07.113Z'
-  lastSynchronized: '2026-10-13T15:59:57.150Z'
+  lastSynchronized: '2026-10-15T15:02:33.837Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"69468f4428dddb68e83fb830e1f5bbc9f1ce38b961448ba3901605f574817198"
-    releasesEtag: W/"4c496e8417d29c3cf3b3b640da7166fb662fa99fb4692d8ec3b37fad9608c988"
+    repoEtag: W/"b9799f5f87c48489640f585a957d6fe51dd52fee8a4542dfe53b9665f601f04e"
+    releasesEtag: W/"3396a39a8055c87fea29cb4c6b12dcccbe1ee2e9a824304f43f3d46f05c4e152"
 discovery:
   method: github-search
   confidence: 100

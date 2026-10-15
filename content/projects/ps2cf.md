@@ -20,7 +20,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 2
   forks: 0
   lastCommit: '2026-10-14T20:58:04Z'
 latestRelease:
@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2026-10-14T20:59:09Z'
   url: 'https://github.com/mihhru/PS2CF/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-10-14T22:38:09.246Z'
+  lastSynchronized: '2026-10-15T15:02:59.870Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6a919253b947c49bf94a28333e80ab9c41056b8fec960c3a519eea47475449a4"
+    releasesEtag: W/"01a6c64cac914c60c4b3537c3f27e6527850f7d5fe29c34187c8d3301d5cf13f"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -46,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

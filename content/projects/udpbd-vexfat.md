@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2023-05-03T09:32:10Z'
   url: 'https://github.com/awaken1ng/udpbd-vexfat/releases/tag/v0.2.0'
 activity:
-  lastSynchronized: '2026-10-13T16:00:49.786Z'
+  lastSynchronized: '2026-10-15T15:03:24.885Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5709b755c8ab6403aa836bce327e167c6ae2f8d4d769fda78458fdb0c48e7851"
-    releasesEtag: W/"c70d46655cfb61c59151da900a5ae7e274421064d2326862b20f53c1532fc18f"
+    repoEtag: W/"eaa2efa18f2bc8102906cc47f9353f495740510e7a61bf52120d4446819c0742"
+    releasesEtag: W/"0ca6e2487e9e87cb32758ff93f7c508797612728c2631d64bde433c8ee016e63"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-07-26T15:23:11Z'
   url: 'https://github.com/al3raQe/PS2-Launcher/releases/tag/PS2-Launcher'
 activity:
-  lastSynchronized: '2026-10-13T16:00:19.368Z'
+  lastSynchronized: '2026-10-15T15:02:55.595Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fd0b8c2c0ebcfedd07e1bc2b53a7d07516fe0a92e26598aec414c495e61ae398"
-    releasesEtag: W/"c4cbbca07a772299008df26d6cdb68f6bac5f331310ce63c0c91937d4a306268"
+    repoEtag: W/"6691c904338d4f9c83c1b07d255ef4ab87622562f2316c8da4b29350c4b32088"
+    releasesEtag: W/"7304898477f48582d2e5dfa808f5541d0a255b6aa78579420d0edc1ada3eba70"
 discovery:
   method: 'fork-network:Irfanlesnar/PS2-Launcher'
   confidence: 100

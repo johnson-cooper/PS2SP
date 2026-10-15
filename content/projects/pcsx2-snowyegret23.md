@@ -28,9 +28,12 @@ latestRelease:
   url: >-
     https://github.com/snowyegret23/pcsx2/releases/tag/PCSX2_x64_B_056de99_C_7235a04
 activity:
-  lastSynchronized: '2026-10-14T08:01:47.347Z'
+  lastSynchronized: '2026-10-15T15:02:46.119Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c72964386c415c5bbeebf0789e2f5743ab2cde99cc880c3e7949dd97dffbf345"
+    releasesEtag: W/"fa9c89f661c375b8c195bb41c1ece3d8b4e136a00cad3307f9a0cba479f62b54"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
