@@ -18,26 +18,26 @@ license: AGPL-3.0
 homepage: null
 source:
   provider: github
-  repository: Grayforz2468/cinnamon-latest
+  repository: Project-Sunshine-Native/cinnamon-runner
   repositoryId: '1333604947'
 repository:
   archived: false
   defaultBranch: main
-  stars: 12
+  stars: 15
   forks: 0
-  lastCommit: '2026-10-07T07:02:06Z'
+  lastCommit: '2026-10-15T18:44:46Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-07T16:29:30.649Z'
+  lastSynchronized: '2026-10-15T19:07:49.265Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"06772eec7d520638823ed809c5237951bba9a9b1f2cb8d48e14fbabbc7b13260"
-    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
+    repoEtag: W/"89167c714015b79cddae4164c4cf2dd7dcfef34449d0b5bfc79bb7d6a068a3ed"
+    releasesEtag: '"0a496acb7d5fa6391d85a662c353387d010d2e5acec72677131fad6035c91fe2"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

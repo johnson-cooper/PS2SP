@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-08T02:16:36.120Z'
+  lastSynchronized: '2026-10-15T19:08:14.601Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"cab7b7634c64016c84df267ff3f45a413e0028dff0be885c92a6d4138c9a4f9b"
+    releasesEtag: '"0a496acb7d5fa6391d85a662c353387d010d2e5acec72677131fad6035c91fe2"'
 discovery:
   method: 'fork-network:amosavian/libsmb2'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: amosavian/libsmb2
   source: sahlberg/libsmb2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

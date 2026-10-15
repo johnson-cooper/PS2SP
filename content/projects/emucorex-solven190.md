@@ -17,25 +17,25 @@ homepage: 'https://emucorex.web.app/'
 source:
   provider: github
   repository: Solven190/EmuCoreX
-  repositoryId: '1389280801'
+  repositoryId: '1418077714'
 repository:
   archived: false
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-07T12:35:52Z'
+  lastCommit: '2026-10-15T12:09:42Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-07T16:30:04.820Z'
+  lastSynchronized: '2026-10-15T19:07:51.607Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"253a6597a940d00234bd7495f480d051e6f9b24741842bfd17633881283f77a4"
-    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
+    repoEtag: W/"0fbe33f4662a2fb359f3feb3271f4da2bc39aa04bf425cfe7ffea5ab03b73371"
+    releasesEtag: '"0a496acb7d5fa6391d85a662c353387d010d2e5acec72677131fad6035c91fe2"'
 discovery:
   method: 'fork-network:sashkinbro/EmuCoreX'
   confidence: 100

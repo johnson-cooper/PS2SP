@@ -20,22 +20,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 256
-  forks: 9
-  lastCommit: '2026-08-18T16:11:29Z'
+  stars: 273
+  forks: 11
+  lastCommit: '2026-10-07T11:11:58Z'
 latestRelease:
-  tag: v4.0.0
-  name: PS2 Launcher v4.0.0
-  publishedAt: '2026-08-11T14:03:42Z'
-  url: 'https://github.com/Irfanlesnar/PS2-Launcher/releases/tag/v4.0.0'
+  tag: v5.0.0
+  name: PS2 Launcher v5.0.0
+  publishedAt: '2026-10-06T14:33:15Z'
+  url: 'https://github.com/Irfanlesnar/PS2-Launcher/releases/tag/v5.0.0'
 activity:
   lastChecked: '2026-09-29T00:29:07.917Z'
-  lastSynchronized: '2026-10-04T19:38:32.952Z'
+  lastSynchronized: '2026-10-15T19:08:51.943Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6d2b8ef171b01fc0ed842ef442a285cec33e1fa4266cbbd7a921ae5725402002"
-    releasesEtag: W/"0a836b5bdb7b3ca1bf9799f905af9b2d86f40ecbe3a914f482255990c9a0e6de"
+    repoEtag: W/"8b25dd3f68208a3bfd9bb99bdfe57c3f064c988b4e54f9563824a3e8fbc78fd4"
+    releasesEtag: W/"245d626e476a917bd70f4c7ee2b00137c3557b9b511e72324be96e966d0d0b5d"
 discovery:
   method: github-search
   confidence: 100

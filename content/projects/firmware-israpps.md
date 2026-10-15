@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-07T16:30:32.052Z'
+  lastSynchronized: '2026-10-15T19:07:55.418Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ffbbfa0d304c119e5c52b02a8713c43f787db061f40b54c11700f5acb53bb464"
-    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
+    repoEtag: W/"15e2c164895a066a8f2068b55504eab5d726299fc42b0a5fc302ff4dac6c5e2a"
+    releasesEtag: '"0a496acb7d5fa6391d85a662c353387d010d2e5acec72677131fad6035c91fe2"'
 discovery:
   method: 'fork-network:sd2psXtd/firmware'
   confidence: 95

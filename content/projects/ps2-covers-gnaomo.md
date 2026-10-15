@@ -22,19 +22,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-09-27T15:39:41Z'
+  lastCommit: '2026-10-06T08:18:11Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T19:38:29.447Z'
+  lastSynchronized: '2026-10-15T19:08:44.815Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"655e537d72e294a310af9f518af6308ec72a4992a9eac2ee05badcf09a2ab15f"
-    releasesEtag: '"c3e1ce6b3a20a0f838b2575890f2460f8868a06dc7cb6fca6ad54170fd6df97a"'
+    repoEtag: W/"785eb4992b28cbc7f969912852b2fff4d3368071e9137f287ce51f5090114501"
+    releasesEtag: '"0a496acb7d5fa6391d85a662c353387d010d2e5acec72677131fad6035c91fe2"'
 discovery:
   method: 'fork-network:xlenore/ps2-covers'
   confidence: 100

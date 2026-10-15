@@ -36,12 +36,12 @@ latestRelease:
   url: 'https://github.com/GusseDev/HDL-Batch-installer/releases/tag/v3.8.0-rev14'
 activity:
   lastChecked: '2026-09-29T00:30:51.460Z'
-  lastSynchronized: '2026-10-04T19:38:09.320Z'
+  lastSynchronized: '2026-10-15T19:08:04.391Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"62ff8e700f2e21bfe1019a7fcad9c126f99ac94e6c71c32e18f062c3fe51e75c"
-    releasesEtag: W/"a877fc08112a02c396b5f4735339651029538e2667a879643ec57d7274800df3"
+    repoEtag: W/"435789a73304830a294dfc7f247d98b6c8aaf372e4343e9bd76d938bdcd4fceb"
+    releasesEtag: W/"d4d451548db2ff179ead1a5f6a3c0d5d6a6c8c2e85a61ddd87ff391feccc1348"
 discovery:
   method: github-maintained-fork
   confidence: 100

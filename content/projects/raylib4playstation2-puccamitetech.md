@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-09T09:38:29.415Z'
+  lastSynchronized: '2026-10-15T19:09:11.273Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5bba223085917ce307134d31ba5416bdef051ce91608bec1ba3888d481623e2c"
+    releasesEtag: '"0a496acb7d5fa6391d85a662c353387d010d2e5acec72677131fad6035c91fe2"'
 discovery:
   method: 'fork-network:raylib4Consoles/raylib4PlayStation2'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: raylib4Consoles/raylib4PlayStation2
   source: raylib4Consoles/raylib4PlayStation2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

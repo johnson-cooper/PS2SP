@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-09-04T22:05:23Z'
   url: 'https://github.com/Docmine17/Open-PS2-Loader-HTTP/releases/tag/123'
 activity:
-  lastSynchronized: '2026-10-04T19:38:20.454Z'
+  lastSynchronized: '2026-10-15T19:08:22.358Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0039e7fc55f6a257e99c10d1f5782c09b9c7bd43c8a6353f40fafbcf2562e89e"
-    releasesEtag: W/"ce67039b24851f41301c67f559c19c43ac0eaf6d48ac7e5b36423305805bc1ed"
+    repoEtag: W/"042ea8368bfb9b786583d98c8247378692a1748c7e829d9cb3b16e5dc059632e"
+    releasesEtag: W/"a9d28063e35733e8fed894d05b70a70cb3499a518634548a34263ddc7dd35494"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

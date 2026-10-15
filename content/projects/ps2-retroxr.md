@@ -25,19 +25,19 @@ repository:
   defaultBranch: retroxr
   stars: 0
   forks: 0
-  lastCommit: '2026-10-04T01:48:24Z'
+  lastCommit: '2026-10-15T14:26:20Z'
 latestRelease:
-  tag: retroxr-pcsx2-libretro-v2
-  name: retroXR LRPS2 (libretro) retroxr-pcsx2-libretro-v2
-  publishedAt: '2026-10-04T01:53:01Z'
-  url: 'https://github.com/RetroXR/ps2/releases/tag/retroxr-pcsx2-libretro-v2'
+  tag: retroxr-pcsx2-libretro-v4
+  name: retroXR LRPS2 (libretro) retroxr-pcsx2-libretro-v4
+  publishedAt: '2026-10-15T14:31:50Z'
+  url: 'https://github.com/RetroXR/ps2/releases/tag/retroxr-pcsx2-libretro-v4'
 activity:
-  lastSynchronized: '2026-10-04T19:38:35.373Z'
+  lastSynchronized: '2026-10-15T19:08:55.105Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7eb92d1d5226117d7d17a128939f047bd0719ae01e8696dedc01c2281f570946"
-    releasesEtag: W/"c35cb38ade65974b9d5f245aa9b9f3cb0584b6277ab81e628516a6b7c41d06b4"
+    repoEtag: W/"f521df222670f9302c88e1d76e3b40aba8d945cd475b91dc7d29567fc69d82ff"
+    releasesEtag: W/"a48174fe0148aac835950b80679d60b5b362c93fb48bbdd01e1533c455d459d9"
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 100

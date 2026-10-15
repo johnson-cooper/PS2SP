@@ -26,20 +26,20 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-07T15:46:39Z'
+  lastCommit: '2026-10-14T15:47:48Z'
 latestRelease:
-  tag: windows-2026-10-06-0728
-  name: Dark Cloud (PAL) Windows build windows-2026-10-06-0728
-  publishedAt: '2026-10-06T12:28:26Z'
-  url: 'https://github.com/Jeffiest/Chronicle/releases/tag/windows-2026-10-06-0728'
+  tag: null
+  name: null
+  publishedAt: null
+  url: null
 activity:
   lastChecked: '2026-10-04T08:48:40.209Z'
-  lastSynchronized: '2026-10-07T16:29:27.089Z'
+  lastSynchronized: '2026-10-15T19:07:48.381Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0e76bbb2c9493b16b49bbd372c6438956f047d2a00f65a3617e13bba0451bb32"
-    releasesEtag: W/"f8f03fee44301b36720dc041d6b8c983abc71e97ec407e82ef67ac956ed2f164"
+    repoEtag: W/"b1b6cb50327506ea7c6b8d2abee29ae3fb7eb1dfa564676f69ddeba1a18500ee"
+    releasesEtag: '"0a496acb7d5fa6391d85a662c353387d010d2e5acec72677131fad6035c91fe2"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85
