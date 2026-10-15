@@ -382,11 +382,11 @@
     "https://git.techwritescode.dev/api/v1|ps2/newlib@unlabeled-1.106.8": "afbd09c568a622746d250134ed170fd46153dce9",
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded@platform_agnostic": "b1746fd2b52d5aeafc1173761eb50e0958e8994b",
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded@master": "de43c65b16a71d00acca0deaa7332e3c1335a42d",
-    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@main": "5194246f74055a167160669bf16942ee8de9172e",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@main": "27e2aedc0523c7c9611895543625d6cc12ff3f29",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@remove-claude-md": "1fe1a05395eac2d8c8f44c699ed6cf39bc8acfc8",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@lwip-upgrade": "f42906f249f380ff746d057c00fece69c86cd060",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@llvm": "b4b46628a84ccb7d3bf542286feccf59828f9eda",
-    "https://git.techwritescode.dev/api/v1|ps2/tools@main": "cb6d2b078d380af9c4175f405af95b3fac6b81b6",
+    "https://git.techwritescode.dev/api/v1|ps2/tools@main": "ff202c2ef4436142955c29eb683dce1d5e0bc4ba",
     "https://git.techwritescode.dev/api/v1|ps2/audsrv@main": "2affeb20fa8359cffce82062bcb961628b47a2b3",
     "https://git.techwritescode.dev/api/v1|ps2/ps2gl@master": "aaf8d3d532020e3a8bc7512095c84a388969574e",
     "https://git.techwritescode.dev/api/v1|ps2/ps2stuff@master": "8d682f6048bcb751a811d5f92e2f431564bb9889",
@@ -579,7 +579,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain@llvm-linux-runner": "836a3897ae39b0b0087214a33d91317b715fc81f",
     "https://git.techwritescode.dev/api/v1|ps2/vcl@main": "3a2913f388119568c9dfdd287331ec029dd392c5",
     "https://git.techwritescode.dev/api/v1|ps2/ps2build@ps2-vcl-source-type": "4f9d0d3d6f6276798d8aa4ddb88fd0701eaff89c",
-    "https://git.techwritescode.dev/api/v1|ps2/ps2rig@main": "412e1169162e0acdd691dcc7b10cdfcbd34535f7",
+    "https://git.techwritescode.dev/api/v1|ps2/ps2rig@main": "a132fff37ea76e1e45c42b97acc41c09f1b86ec2",
     "https://git.techwritescode.dev/api/v1|ps2/tools@ps2client-public": "1f24c0bd55ba0427f676aeb0a6315fe5e7c2d1c1",
     "https://git.techwritescode.dev/api/v1|ps2/ps2build@docs/registry-index": "4f6abbb328f1ae7886e8b48e6679b5e5b63d745f",
     "https://git.techwritescode.dev/api/v1|ps2/ps2build@feature/ps2-48-assets": "ca11746243ee811347263d48f6108168d253dbd5",
@@ -594,7 +594,9 @@
     "https://git.techwritescode.dev/api/v1|ps2/sdk-world@ps2-100-audio-adpcm-test": "d912f615ab3d5e4322a1957b7582f817be3794f9",
     "https://git.techwritescode.dev/api/v1|ps2/openvcl@optimizations": "61e5214cfb3ad098d7b78caac04b97aeeb3e802e",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-100-package-boot": "8c62818816d90c68c2544559cc48177c282764c2",
-    "https://git.techwritescode.dev/api/v1|ps2/llvm@r5900-unroll": "455c9cd951aa911a3b7d045f7b629e93377ffde5"
+    "https://git.techwritescode.dev/api/v1|ps2/llvm@r5900-unroll": "455c9cd951aa911a3b7d045f7b629e93377ffde5",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@bench-inflate": "27e2aedc0523c7c9611895543625d6cc12ff3f29",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-109-crash-screen": "9584005924f0df4b69676512f36d54352b4e4f2d"
   },
   "branchPage": {
     "https://git.techwritescode.dev/api/v1|ps2/ps2build": 2,
@@ -603,7 +605,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/toolchain": 2,
     "https://git.techwritescode.dev/api/v1|ps2/masp": 2,
     "https://git.techwritescode.dev/api/v1|ps2/openvcl": 2,
-    "https://git.techwritescode.dev/api/v1|ps2/newlib": 3,
+    "https://git.techwritescode.dev/api/v1|ps2/newlib": 4,
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded": 2,
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core": 2,
     "https://git.techwritescode.dev/api/v1|ps2/tools": 2,
@@ -677,18 +679,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-10-15T18:00:19.011Z",
+    "at": "2026-10-15T21:54:31.599Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 33,
-    "branchesChanged": 1,
-    "treesScanned": 1,
+    "branchesSeen": 130,
+    "branchesChanged": 5,
+    "treesScanned": 5,
     "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 0,
-    "nestedAdded": 0,
-    "requests": 81,
+    "branchesAdded": 2,
+    "nestedAdded": 81,
+    "requests": 82,
     "stoppedForBudget": false
   },
-  "queueCursor": 31
+  "queueCursor": 13
 }

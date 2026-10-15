@@ -4597,6 +4597,18 @@
         ]
       },
       {
+        "name": "ps2/sdk-core — branch: bench-inflate",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/sdk-core",
+          "bench-inflate"
+        ]
+      },
+      {
         "name": "ps2/sdk-core — branch: ee-bench",
         "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ee-bench",
         "keywords": [
@@ -4714,6 +4726,18 @@
           "branch",
           "ps2/sdk-core",
           "ps2-104-eh-frame"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core — branch: ps2-109-crash-screen",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen"
         ]
       },
       {
@@ -14589,6 +14613,566 @@
         ]
       },
       {
+        "name": "ps2/sdk-core@bench-inflate — core/ahx",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/ahx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/ahx"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/apa",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/apa",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/apa"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/atad",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/atad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/atad"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/bdm",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/bdm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/bdm"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/bdmfs_fatfs",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/bdmfs_fatfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/bdmfs_fatfs"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/cdfs",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/cdfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/cdfs"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/cdvd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/cdvd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/cdvd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/cdvdfsv",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/cdvdfsv"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/crashscreen",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/crashscreen",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/crashscreen"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/debug",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/debug",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/debug"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/dev9",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/dev9",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/dev9"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/dma",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/dma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/dma"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/dmacman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/dmacman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/dmacman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/draw",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/draw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/draw"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/dvr",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/dvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/dvr"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/dvrfile",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/dvrfile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/dvrfile"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/dvrmisc",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/dvrmisc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/dvrmisc"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/eedebug",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/eedebug",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/eedebug"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/eesync",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/eesync",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/eesync"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/eesync-nano",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/eesync-nano",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/eesync-nano"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/elf-loader-nocolour",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/elf-loader-nocolour",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/elf-loader-nocolour"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/elf-loader2",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/elf-loader2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/elf-loader2"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/erl",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/erl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/erl"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/excepman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/excepman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/excepman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/extflash",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/extflash",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/extflash"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/filexio",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/filexio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/filexio"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/font",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/font",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/font"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/fs",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/fs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/fs"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/fs-osd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/fs-osd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/fs-osd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/graph",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/graph",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/graph"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/hdd-osd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/hdd-osd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/hdd-osd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/hdpro_atad",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/hdpro_atad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/hdpro_atad"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/heaplib",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/heaplib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/heaplib"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/IEEE1394_bd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/IEEE1394_bd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/IEEE1394_bd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/IEEE1394_bd_mini",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/IEEE1394_bd_mini",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/IEEE1394_bd_mini"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/iLinkman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/iLinkman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/iLinkman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/intrman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/intrman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/intrman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/intrmanp",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/intrmanp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/intrmanp"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/ioman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/ioman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/ioman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@bench-inflate — core/iomanx",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/bench-inflate/core/iomanx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "bench-inflate",
+          "core/iomanx"
+        ]
+      },
+      {
         "name": "ps2/sdk-core@ee-bench — core/ahx",
         "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ee-bench/core/ahx",
         "keywords": [
@@ -18061,6 +18645,20 @@
         ]
       },
       {
+        "name": "ps2/sdk-core@main — core/crashscreen",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/main/core/crashscreen",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "main",
+          "core/crashscreen"
+        ]
+      },
+      {
         "name": "ps2/sdk-core@main — core/debug",
         "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/main/core/debug",
         "keywords": [
@@ -20186,6 +20784,566 @@
           "ps2/sdk-core",
           "ps2-104-eh-frame",
           "core/iopmgr"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/ahx",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/ahx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/ahx"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/apa",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/apa",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/apa"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/atad",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/atad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/atad"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/bdm",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/bdm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/bdm"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/bdmfs_fatfs",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/bdmfs_fatfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/bdmfs_fatfs"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/cdfs",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/cdfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/cdfs"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/cdvd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/cdvd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/cdvd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/cdvdfsv",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/cdvdfsv"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/crashscreen",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/crashscreen",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/crashscreen"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/debug",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/debug",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/debug"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/dev9",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/dev9",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/dev9"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/dma",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/dma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/dma"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/dmacman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/dmacman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/dmacman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/draw",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/draw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/draw"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/dvr",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/dvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/dvr"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/dvrfile",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/dvrfile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/dvrfile"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/dvrmisc",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/dvrmisc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/dvrmisc"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/eedebug",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/eedebug",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/eedebug"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/eesync",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/eesync",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/eesync"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/eesync-nano",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/eesync-nano",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/eesync-nano"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/elf-loader-nocolour",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/elf-loader-nocolour",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/elf-loader-nocolour"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/elf-loader2",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/elf-loader2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/elf-loader2"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/erl",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/erl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/erl"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/excepman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/excepman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/excepman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/extflash",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/extflash",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/extflash"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/filexio",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/filexio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/filexio"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/font",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/font",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/font"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/fs",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/fs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/fs"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/fs-osd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/fs-osd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/fs-osd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/graph",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/graph",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/graph"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/hdd-osd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/hdd-osd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/hdd-osd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/hdpro_atad",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/hdpro_atad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/hdpro_atad"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/heaplib",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/heaplib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/heaplib"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/IEEE1394_bd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/IEEE1394_bd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/IEEE1394_bd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/IEEE1394_bd_mini",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/IEEE1394_bd_mini",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/IEEE1394_bd_mini"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/iLinkman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/iLinkman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/iLinkman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/intrman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/intrman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/intrman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/intrmanp",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/intrmanp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/intrmanp"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/ioman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/ioman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/ioman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-109-crash-screen — core/iomanx",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-109-crash-screen/core/iomanx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-109-crash-screen",
+          "core/iomanx"
         ]
       },
       {
