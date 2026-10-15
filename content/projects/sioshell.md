@@ -1,7 +1,9 @@
 ---
 name: sioshell
 slug: sioshell
-summary: "Serial I/O (SIO) interactive command shell for PlayStation 2 debugging and kernel inspection."
+summary: >-
+  Serial I/O (SIO) interactive command shell for PlayStation 2 debugging and
+  kernel inspection.
 categories:
   - host-tools
   - development
@@ -27,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-09-29T04:57:53.380Z'
+  lastSynchronized: '2026-10-15T04:40:28.756Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"aebc5eda254b5b3f6afefe7241791f12981e64ce858391db37aa309b4858b2a7"
+    releasesEtag: '"44b1ba4084d820248d593d17d44378a8ad991da8f7aa397fcf2632bbae28147f"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100
@@ -40,5 +45,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

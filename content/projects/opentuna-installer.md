@@ -22,7 +22,7 @@ repository:
   archived: false
   defaultBranch: main
   stars: 53
-  forks: 10
+  forks: 11
   lastCommit: '2021-11-29T18:49:30Z'
 latestRelease:
   tag: latest
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/ps2homebrew/opentuna-installer/releases/tag/latest'
 activity:
   lastChecked: '2026-09-29T00:27:06.774Z'
-  lastSynchronized: '2026-10-01T03:32:59.622Z'
+  lastSynchronized: '2026-10-15T04:39:52.964Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"041b153b64d09bcd07d967540d47398c85fe44034e9095ed7e07c2c9fa3ce01c"
-    releasesEtag: W/"72fc5699cdbcbb8935e10e5c733e39ba04ba807406be723f34b84653e90bf62c"
+    repoEtag: W/"88230ab587c4ba7e7db67c88744e6ebada77378c3e4af4b272d2083155b4fcb9"
+    releasesEtag: W/"00f88fbb6e4c9bb090fce69dac4ba4e42ffbb0b583cc420e796901440152a98e"
 discovery:
   method: curated
   confidence: 100

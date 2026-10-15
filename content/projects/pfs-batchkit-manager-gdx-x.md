@@ -18,8 +18,8 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 265
-  forks: 20
+  stars: 268
+  forks: 21
   lastCommit: '2026-08-07T15:54:30Z'
 latestRelease:
   tag: 1.2.0
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2025-01-25T15:46:07Z'
   url: 'https://github.com/GDX-X/PFS-BatchKit-Manager/releases/tag/1.2.0'
 activity:
-  lastSynchronized: '2026-10-01T03:33:27.423Z'
+  lastSynchronized: '2026-10-15T04:40:06.436Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"15255d949874fae6c0b5185b97d779b089a30b69b07963af8d04818170eea7de"
-    releasesEtag: W/"0126703c4db877bdbc646653ab5815d3e8184825a2e8523381fa92f8dadc1181"
+    repoEtag: W/"75c61406f63e541a4724d86ed6d5509f6ccf21d031228992bfe37ac0edce1bf2"
+    releasesEtag: W/"32d51f754fde59c489dede10ebd4b0c64c1488522ae62c8fec15621f0701bb1f"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

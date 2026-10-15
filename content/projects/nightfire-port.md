@@ -22,19 +22,23 @@ source:
   url: 'https://github.com/Jeffsteelflex/nightfire-port'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
-  forks: 0
-  lastCommit: null
+  defaultBranch: main
+  stars: 1
+  forks: 1
+  lastCommit: '2026-10-13T19:38:57Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.4
+  name: v0.4
+  publishedAt: '2026-10-13T19:39:09Z'
+  url: 'https://github.com/Jeffsteelflex/nightfire-port/releases/tag/v0.4'
 activity:
   lastChecked: '2026-10-12T23:13:49.874Z'
+  lastSynchronized: '2026-10-15T04:39:47.481Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a0afc784b5c50ab86f1c4fc2f5ffb63d9623552b77a19f0954e684f7bcaa83ea"
+    releasesEtag: W/"c8df2cf23b5bae0abc01b6e48c68f50dd0a0b9208a9abaca07a0cca248c004bd"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -47,5 +51,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

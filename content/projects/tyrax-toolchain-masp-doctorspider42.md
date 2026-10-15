@@ -1,7 +1,9 @@
 ---
 name: tyrax-toolchain-masp
 slug: tyrax-toolchain-masp-doctorspider42
-summary: "Macro Assembler (masp) for the PlayStation 2 Vector Unit (VU) and Emotion Engine coprocessors."
+summary: >-
+  Macro Assembler (masp) for the PlayStation 2 Vector Unit (VU) and Emotion
+  Engine coprocessors.
 categories:
   - development
 tags:
@@ -27,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:17:04.836Z'
+  lastSynchronized: '2026-10-15T04:40:35.250Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d0483c2cf53c9f722d35086b648df81b32faf1f877198171fbb8109ccb555631"
+    releasesEtag: '"44b1ba4084d820248d593d17d44378a8ad991da8f7aa397fcf2632bbae28147f"'
 discovery:
   method: 'fork-network:ps2dev/masp'
   confidence: 95
@@ -43,5 +48,4 @@ relationships:
   forkOf: ps2dev/masp
   source: BoGanon/masp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -12,7 +12,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -21,19 +21,23 @@ source:
   url: 'https://github.com/Faderz48/Memory-Prism'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 1
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-05T07:27:50Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.4.2
+  name: Memory Prism v0.4.2
+  publishedAt: '2026-10-05T07:27:50Z'
+  url: 'https://github.com/Faderz48/Memory-Prism/releases/tag/v0.4.2'
 activity:
   lastChecked: '2026-10-05T07:41:33.942Z'
+  lastSynchronized: '2026-10-15T04:39:42.896Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b8eefba1e7d3f39d2b985b504607ade867d5380100b7a7648d81e5bddd4f6051"
+    releasesEtag: W/"27739c67b65b8ba6d700e20cd752426fa9742a403d36658fc6925bb8151abfb5"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80
@@ -46,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

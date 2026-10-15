@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T01:49:16.953Z'
+  lastSynchronized: '2026-10-15T04:40:13.242Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"545f2701bdb9a75e0f8a0cbea96ec22b6735a776a95543fe04991553b3d4e136"
+    releasesEtag: '"44b1ba4084d820248d593d17d44378a8ad991da8f7aa397fcf2632bbae28147f"'
 discovery:
   method: 'fork-network:hkmodd/ps2-recomp-Agent-SKILL'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: hkmodd/ps2-recomp-Agent-SKILL
   source: hkmodd/ps2-recomp-Agent-SKILL
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

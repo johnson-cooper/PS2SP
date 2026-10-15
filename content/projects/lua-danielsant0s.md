@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:17:04.836Z'
+  lastSynchronized: '2026-10-15T04:39:41.425Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"9a3f7f884b8f74989602982ff19a9db3f49ef5eec4248818dd473ed0a511040d"
+    releasesEtag: '"44b1ba4084d820248d593d17d44378a8ad991da8f7aa397fcf2632bbae28147f"'
 discovery:
   method: 'fork-network:ps2dev/lua'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: ps2dev/lua
   source: lua/lua
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

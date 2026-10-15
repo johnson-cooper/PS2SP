@@ -22,10 +22,10 @@ source:
   url: 'https://github.com/orlandodavidnina/sf64-ps2-port'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-09-27T12:32:48Z'
 latestRelease:
   tag: null
   name: null
@@ -33,8 +33,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-09-29T00:28:47.821Z'
+  lastSynchronized: '2026-10-15T04:40:27.939Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"11704dfe840f8ed5ede18f1fdbc911d448b1e43798949cf9d59616339ba00d14"
+    releasesEtag: '"44b1ba4084d820248d593d17d44378a8ad991da8f7aa397fcf2632bbae28147f"'
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 100
@@ -48,5 +52,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

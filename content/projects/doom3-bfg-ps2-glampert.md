@@ -19,18 +19,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
-  forks: 0
-  lastCommit: '2026-10-08T14:13:45Z'
+  stars: 4
+  forks: 1
+  lastCommit: '2026-10-15T01:20:59Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-08T16:57:35.240Z'
+  lastSynchronized: '2026-10-15T04:39:26.234Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ebd947e6c2bec20aac2c5548c67d9a971073229fd6f7c58ebb47fabdb4ae7261"
+    releasesEtag: '"44b1ba4084d820248d593d17d44378a8ad991da8f7aa397fcf2632bbae28147f"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: id-Software/DOOM-3-BFG
   source: id-Software/DOOM-3-BFG
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

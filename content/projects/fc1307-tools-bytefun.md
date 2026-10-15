@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-07T16:30:15.430Z'
+  lastSynchronized: '2026-10-15T04:39:28.599Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2b69c6909fab5ae3728e01d8077ddc99f78df435bf7074384ce61cf7a10571c9"
-    releasesEtag: '"5dfdb27e317f51f6708674b354bef6c84a2f089d3da73adebb25b10dfa19fede"'
+    repoEtag: W/"bf2d2775c956670cb98d26a446f8c682ac6166ec9f9827dabd80aa0eb57e5473"
+    releasesEtag: '"44b1ba4084d820248d593d17d44378a8ad991da8f7aa397fcf2632bbae28147f"'
 discovery:
   method: 'fork-network:pcm720/fc1307-tools'
   confidence: 95

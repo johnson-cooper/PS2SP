@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-10T18:51:42.050Z'
+  lastSynchronized: '2026-10-15T04:40:11.394Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"fc4b10bfe6d8c6e553c8dd4b822ce78bfaa0c4794d371ff1e6afeea10cf8d53c"
+    releasesEtag: '"44b1ba4084d820248d593d17d44378a8ad991da8f7aa397fcf2632bbae28147f"'
 discovery:
   method: 'fork-network:Zero1UP/PS2-Memory-Card-Formatter'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: Zero1UP/PS2-Memory-Card-Formatter
   source: Zero1UP/PS2-Memory-Card-Formatter
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

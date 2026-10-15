@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-10-13T21:38:28Z'
   url: 'https://github.com/arthizniwueu-jpg/ARMSX2/releases/tag/v0.1'
 activity:
-  lastSynchronized: '2026-10-13T23:26:15.353Z'
+  lastSynchronized: '2026-10-15T04:39:18.590Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a528a707cbeb23c108206f8bbaa9cbe9408dd8a3d4a13891104f839e88583f0f"
+    releasesEtag: W/"55c2722777079a0066d2c62a43ff45816d53042a17a64da3e2eeead2ccfabd8b"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: ARMSX2/ARMSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

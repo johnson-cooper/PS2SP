@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 52
+  stars: 56
   forks: 6
-  lastCommit: '2026-09-27T00:22:40Z'
+  lastCommit: '2026-10-12T03:02:09Z'
 latestRelease:
-  tag: v0.1.58
-  name: myMCpp v0.1.58
-  publishedAt: '2026-09-25T20:52:45Z'
-  url: 'https://github.com/PCSX2/myMCpp/releases/tag/v0.1.58'
+  tag: v0.2.0
+  name: myMCpp v0.2.0
+  publishedAt: '2026-10-02T21:23:05Z'
+  url: 'https://github.com/PCSX2/myMCpp/releases/tag/v0.2.0'
 activity:
-  lastSynchronized: '2026-10-01T03:32:36.753Z'
+  lastSynchronized: '2026-10-15T04:39:44.295Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"44173774b79a87a2f6cbd6cb19e6c9b315a0a05ec44df929c61995e40b468956"
-    releasesEtag: W/"35531a957ac0c6fc77ac51043e5dbba644be60626ef101928ac2ba66c8e5133c"
+    repoEtag: W/"f02c9241a4534d59e6222647914f296a574f19a1279600da7e01556c9daaf1cb"
+    releasesEtag: W/"fa3f47cc835b19cd07405ed6649b4d89552958ee46e6a34302c60ca166a27729"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

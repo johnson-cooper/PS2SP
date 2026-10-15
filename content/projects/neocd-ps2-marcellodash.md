@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:22:08.773Z'
+  lastSynchronized: '2026-10-15T04:39:44.741Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0577f9bb801d6aefff381a96fb7aa361414558eaedc4707de6eb9cb3030a4180"
+    releasesEtag: '"44b1ba4084d820248d593d17d44378a8ad991da8f7aa397fcf2632bbae28147f"'
 discovery:
   method: 'fork-network:obiot/NeoCD-PS2'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: obiot/NeoCD-PS2
   source: obiot/NeoCD-PS2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

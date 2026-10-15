@@ -1,7 +1,7 @@
 ---
 name: MikosCraft
 slug: mikoscraft
-summary: "Voxel-based sandbox building game for PlayStation 2 inspired by Minecraft."
+summary: Voxel-based sandbox building game for PlayStation 2 inspired by Minecraft.
 categories:
   - games
 tags:
@@ -27,12 +27,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-09-29T00:27:05.275Z'
-  lastSynchronized: '2026-10-01T03:32:29.930Z'
+  lastSynchronized: '2026-10-15T04:39:43.298Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1ba2163c5d8df00d167f87e02d62de4a03445b3a645e6f1895eda9c1488ef3c8"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"eb89f67cb87a789403fd1cce02c6c28a04fbeb6db22b655b7baf9acf7c9ce5c5"
+    releasesEtag: '"44b1ba4084d820248d593d17d44378a8ad991da8f7aa397fcf2632bbae28147f"'
 discovery:
   method: github-search
   confidence: 100
