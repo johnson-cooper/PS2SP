@@ -1,0 +1,16 @@
+{
+  "repository": "Batenkaitos-dev/mh2-decomp",
+  "repositoryId": "1419987446",
+  "url": "https://github.com/Batenkaitos-dev/mh2-decomp",
+  "description": "A 100% byte-matching decompilation of Monster Hunter 2 (Dos) for the PS2.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-15T00:53:05.330Z",
+  "checkedAt": "2026-10-15T00:53:05.330Z"
+}
