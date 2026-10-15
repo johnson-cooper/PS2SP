@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-09T09:06:16.994Z'
+  lastSynchronized: '2026-10-15T09:56:14.434Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4e0e2de06e6ce33b433061f722d74c034909ede302fea93dc3a9c312759d5937"
-    releasesEtag: '"5ab0d2c8a370fbda27babc1f353b12c21b0f5320ceeb22e6ab0307bc507839dc"'
+    repoEtag: W/"e893276b56180bfdf7a08ddf9bbc72f20e65034852f790c17bc29f8533d6aafd"
+    releasesEtag: '"9c87f986c1511a5a32feef58521b0db3e62906b6539834ad56617d45aae599ae"'
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

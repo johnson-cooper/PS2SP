@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2024-02-20T22:21:49Z'
   url: 'https://github.com/Daniel-McCarthy/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-13T12:11:14.516Z'
+  lastSynchronized: '2026-10-15T09:56:10.029Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a4f9e60a9cf3f1ab218ca9b6738d3d6c14d30349354e71148f81d751b8d67444"
+    releasesEtag: W/"c52dac6ecb77007e1f9ef395638ff526a98c7eea6e09c710d78f5d60b1659103"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: PCSX2/pcsx2_patches
   source: PCSX2/pcsx2_patches
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2025-03-02T12:45:13Z'
   url: 'https://github.com/calos9999/FreeMcTuna/releases/tag/FreeMcTunaAIO'
 activity:
-  lastSynchronized: '2026-10-09T09:05:41.720Z'
+  lastSynchronized: '2026-10-15T09:55:31.957Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"471f1e2adf4402302c7b19a24de2b33971c3954b19256eeb223af6e674aa7990"
-    releasesEtag: W/"0f51502e46c74852022520df3a756112c6c8b375efa6b14eaa58ea74e3cbbcc8"
+    repoEtag: W/"957cd22738f3b379daf8894ef8bc4101b251170de6a232b65b286221e1b2650e"
+    releasesEtag: W/"dece49287a9ed081b6ad0ed86c44b541d0cc088580a501d79ec5bd0c697ca40e"
 discovery:
   method: 'fork-network:NathanNeurotic/FreeMcTuna'
   confidence: 95

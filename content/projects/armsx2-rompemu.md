@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-10-12T12:51:29Z'
   url: 'https://github.com/RompEmu/ARMSX2/releases/tag/core-20261012-9e77ffeda4'
 activity:
-  lastSynchronized: '2026-10-12T16:07:57.694Z'
+  lastSynchronized: '2026-10-15T09:55:09.559Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"11c6c1efe9782cc8a87fcddc6d6f6b6ac9e34d9891f5271c8e440ecb8510b4d7"
+    releasesEtag: W/"9217f50141b38235b9de5c637285eaca2c86c4b72c4c689e3d4caaee8576db64"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: ARMSX2/ARMSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

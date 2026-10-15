@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 11
+  stars: 12
   forks: 0
-  lastCommit: '2026-09-22T14:42:42Z'
+  lastCommit: '2026-10-13T08:46:23Z'
 latestRelease:
-  tag: v1.7.3
-  name: v1.7.3
-  publishedAt: '2026-09-22T14:42:42Z'
-  url: 'https://github.com/mininxd/SAVESX2/releases/tag/v1.7.3'
+  tag: v1.8.0
+  name: v1.8.0
+  publishedAt: '2026-10-13T07:31:42Z'
+  url: 'https://github.com/mininxd/SAVESX2/releases/tag/v1.8.0'
 activity:
-  lastSynchronized: '2026-10-09T09:06:44.579Z'
+  lastSynchronized: '2026-10-15T09:56:40.858Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6504c6a4bdcad6a868b2b4a12bfce307f4d443927368c597c337e2441a2d3982"
-    releasesEtag: W/"92e34440147f070b52725beaf165db10cecd75e1ebb0eb940265f1c764d19163"
+    repoEtag: W/"0e6debfec63c8cf8289281dc786fdefa24c7f097fb84e7394f8d603364f9d3e4"
+    releasesEtag: W/"0344f4cbd21d5e56241688417ba7e2d4ef52fb96e1952beaf2f5905af480be88"
 discovery:
   method: 'incremental:topic:ps2'
   confidence: 100

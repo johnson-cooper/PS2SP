@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2024-12-05T13:59:45Z'
   url: 'https://github.com/AKuHAK/nhddl/releases/tag/nightly'
 activity:
-  lastSynchronized: '2026-10-09T09:05:59.666Z'
+  lastSynchronized: '2026-10-15T09:55:51.058Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b2dd65afa86036f836a6329bb6f0670accd1282484ada2026952326024710688"
-    releasesEtag: W/"ad697580de5c923236cb3b3a12e3b909cd6c3b9ceeafae3955738aa71955a515"
+    repoEtag: W/"8d1ec367352d24d9b05e48d18d20cbea8cab56b58dd9d9c81d239ed8f118f7cf"
+    releasesEtag: W/"92b0c8e184fed04e9a9558c692687025851c691bc766236ce643722aae8be40a"
 discovery:
   method: 'fork-network:pcm720/nhddl'
   confidence: 95

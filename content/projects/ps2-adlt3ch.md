@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-09T09:06:19.363Z'
+  lastSynchronized: '2026-10-15T09:56:16.860Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4a9aab1c8cfc283afe627c96628ca962ed0a991de17bf170c68d975aa543ef43"
-    releasesEtag: '"5ab0d2c8a370fbda27babc1f353b12c21b0f5320ceeb22e6ab0307bc507839dc"'
+    repoEtag: W/"3ac0bf5d146faf88a496ffa603dcf57826a5e9bb129a4bc1817be69d28ea6eda"
+    releasesEtag: '"9c87f986c1511a5a32feef58521b0db3e62906b6539834ad56617d45aae599ae"'
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 95

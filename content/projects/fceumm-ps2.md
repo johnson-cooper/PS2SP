@@ -29,12 +29,12 @@ latestRelease:
   url: 'https://github.com/ps2homebrew/Fceumm-PS2/releases/tag/v0.3.3'
 activity:
   lastChecked: '2026-09-29T00:27:01.302Z'
-  lastSynchronized: '2026-10-09T09:05:36.077Z'
+  lastSynchronized: '2026-10-15T09:55:26.689Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"604872a876fb84b790fd433038be9e1501e69c6b5227db12d34496d151e9edef"
-    releasesEtag: W/"59e4eed12c5deb59d15b8e69c0110bd2e1a3b6d3a6f2596968f6934600e7f57f"
+    repoEtag: W/"3ffa273083b883d14a38d6d3be331084aada2e1434437292833f0702d892757c"
+    releasesEtag: W/"cbe4210128f3922b9ae671821dc407075b02d92486e4e53e6b219dc374715ef1"
 discovery:
   method: curated
   confidence: 100
