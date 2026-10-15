@@ -13,18 +13,18 @@ tags:
 features: []
 authors: []
 license: null
-homepage: null
+homepage: 'https://openrac.dev/'
 source:
   provider: github
-  repository: silverspy/rac-deadlocked-decomp
+  repository: GillesLabrouse/rac-deadlocked-decomp
   repositoryId: '1413250171'
   url: 'https://github.com/silverspy/rac-deadlocked-decomp'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-13T10:13:24Z'
 latestRelease:
   tag: null
   name: null
@@ -32,8 +32,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-12T23:13:49.874Z'
+  lastSynchronized: '2026-10-15T22:19:44.954Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ca98c9165d966a68474689c7c988de2865d664574689726faa97a5483cc0a64e"
+    releasesEtag: '"8370796c337197fbd0e40c63673ad601d78fb5b87742b9007c302384a6115473"'
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -49,5 +53,4 @@ relationships:
   forkOf: OpenRAC/rac-deadlocked-decomp
   source: OpenRAC/rac-deadlocked-decomp
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

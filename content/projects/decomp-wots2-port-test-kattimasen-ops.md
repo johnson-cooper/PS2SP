@@ -23,16 +23,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-15T20:32:45Z'
+  lastCommit: '2026-10-15T22:17:21Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-15T20:32:48.379Z'
+  lastSynchronized: '2026-10-15T22:18:30.329Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"24b181ae8ab721a478e20e78482480b36c1eb4feeecb5c0c91afba0345adfe0a"
+    releasesEtag: '"8370796c337197fbd0e40c63673ad601d78fb5b87742b9007c302384a6115473"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: acklavidian/decomp_wots2
   source: acklavidian/decomp_wots2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

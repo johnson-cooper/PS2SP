@@ -21,7 +21,7 @@ license: OFL-1.1
 homepage: null
 source:
   provider: github
-  repository: SkylarPlayz348/PS2Ident
+  repository: fuzzyghosty/PS2Ident
   repositoryId: '1017490230'
 repository:
   archived: false
@@ -33,14 +33,14 @@ latestRelease:
   tag: latest
   name: Development build
   publishedAt: '2025-07-10T16:14:23Z'
-  url: 'https://github.com/SkylarPlayz348/PS2Ident/releases/tag/latest'
+  url: 'https://github.com/fuzzyghosty/PS2Ident/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-10T22:32:51.505Z'
+  lastSynchronized: '2026-10-15T22:19:30.509Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"95326e78f88029fc4ca69ed5c03a9567c71b9ef4cf9627ca75af71f856ec60f3"
-    releasesEtag: W/"05cb69b310fa680e84be0d39981fb232b297cf8dbd237ee30af0e919b2d8cff3"
+    repoEtag: W/"1aeac9683317479c318414f28dfaa2f5a02316e0c6e436f76a02d4d129128bae"
+    releasesEtag: W/"88564e6b47fcbfcb3feacb5cbb85d092119c83d746650764c6743538be7c6f62"
 discovery:
   method: 'fork-network:ps2homebrew/PS2Ident'
   confidence: 100

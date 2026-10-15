@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-10-08T22:09:16Z'
   url: 'https://github.com/johnson-cooper/ps2-daw/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-10-10T22:32:46.372Z'
+  lastSynchronized: '2026-10-15T22:19:21.864Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"11ae24ebc9e7bf2887beb84bed71360ee8c3e10556e08913559e951a49861e3f"
-    releasesEtag: W/"d393a4e06f9c3803e68beaed40085289466e13381a53f6ef35a816cd97cf0d5a"
+    repoEtag: W/"7f65c057cef5e5d5ed216eb33ba12c06b1fe2ef7cd9b0ec9a0c12fd0f990550f"
+    releasesEtag: W/"b91980deda14127ab8495056b7d0cbc3c98c64f22a57ce3bbdab64de5a2ff346"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
