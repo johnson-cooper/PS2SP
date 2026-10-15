@@ -103144,6 +103144,370 @@
           "ps2devnoob/AthenaEnv",
           "v4-mpeg-video"
         ]
+      },
+      {
+        "name": "PS2Homebrew-arcade/acata-alternative — branch: main",
+        "url": "https://github.com/PS2Homebrew-arcade/acata-alternative/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PS2Homebrew-arcade/acata-alternative",
+          "main"
+        ]
+      },
+      {
+        "name": "PS2Homebrew-arcade/Dongle-Rebinder — branch: main",
+        "url": "https://github.com/PS2Homebrew-arcade/Dongle-Rebinder/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PS2Homebrew-arcade/Dongle-Rebinder",
+          "main"
+        ]
+      },
+      {
+        "name": "PS2Homebrew-arcade/Dongle-Rebinder — branch: unbind",
+        "url": "https://github.com/PS2Homebrew-arcade/Dongle-Rebinder/tree/unbind",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PS2Homebrew-arcade/Dongle-Rebinder",
+          "unbind"
+        ]
+      },
+      {
+        "name": "PS2Homebrew-arcade/proverb — branch: buildsys-new",
+        "url": "https://github.com/PS2Homebrew-arcade/proverb/tree/buildsys-new",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PS2Homebrew-arcade/proverb",
+          "buildsys-new"
+        ]
+      },
+      {
+        "name": "PS2Homebrew-arcade/proverb — branch: main",
+        "url": "https://github.com/PS2Homebrew-arcade/proverb/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PS2Homebrew-arcade/proverb",
+          "main"
+        ]
+      },
+      {
+        "name": "ps2homebrew/.github — branch: master",
+        "url": "https://github.com/ps2homebrew/.github/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/.github",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2homebrew/altimit — branch: master",
+        "url": "https://github.com/ps2homebrew/altimit/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/altimit",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness — branch: master",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/BPDemoHarness",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Double-Unofficial-Open-PS2-Loader-lang — branch: main",
+        "url": "https://github.com/ps2homebrew/Double-Unofficial-Open-PS2-Loader-lang/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/Double-Unofficial-Open-PS2-Loader-lang",
+          "main"
+        ]
+      },
+      {
+        "name": "ps2homebrew/dreamgl — branch: master",
+        "url": "https://github.com/ps2homebrew/dreamgl/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/dreamgl",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2 — branch: copilot/fix-failing-github-actions-job",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/fix-failing-github-actions-job",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/fix-failing-github-actions-job"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2 — branch: copilot/fix-saving-problem",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/fix-saving-problem",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/fix-saving-problem"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2 — branch: copilot/make-compilable-with-latest-docker",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/make-compilable-with-latest-docker",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/make-compilable-with-latest-docker"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2 — branch: master",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/Fceumm-PS2",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2 — branch: move-libc-to-newlib",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/move-libc-to-newlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/Fceumm-PS2",
+          "move-libc-to-newlib"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2 — branch: test_new_gcc_errors",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/test_new_gcc_errors",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/Fceumm-PS2",
+          "test_new_gcc_errors"
+        ]
+      },
+      {
+        "name": "ps2homebrew/FreeDVDBoot — branch: gh-pages",
+        "url": "https://github.com/ps2homebrew/FreeDVDBoot/tree/gh-pages",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/FreeDVDBoot",
+          "gh-pages"
+        ]
+      },
+      {
+        "name": "ps2homebrew/FreeDVDBoot — branch: master",
+        "url": "https://github.com/ps2homebrew/FreeDVDBoot/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/FreeDVDBoot",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2homebrew/gslib — branch: master",
+        "url": "https://github.com/ps2homebrew/gslib/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/gslib",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2homebrew/HDDChecker — branch: main",
+        "url": "https://github.com/ps2homebrew/HDDChecker/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/HDDChecker",
+          "main"
+        ]
+      },
+      {
+        "name": "ps2homebrew/hdl-dump — branch: 0.8.x",
+        "url": "https://github.com/ps2homebrew/hdl-dump/tree/0.8.x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/hdl-dump",
+          "0.8.x"
+        ]
+      },
+      {
+        "name": "ps2homebrew/hdl-dump — branch: copilot/fix-bad-code-and-possible-problems",
+        "url": "https://github.com/ps2homebrew/hdl-dump/tree/copilot/fix-bad-code-and-possible-problems",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/hdl-dump",
+          "copilot/fix-bad-code-and-possible-problems"
+        ]
+      },
+      {
+        "name": "ps2homebrew/hdl-dump — branch: master",
+        "url": "https://github.com/ps2homebrew/hdl-dump/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/hdl-dump",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2homebrew/HDLGameInstaller — branch: main",
+        "url": "https://github.com/ps2homebrew/HDLGameInstaller/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/HDLGameInstaller",
+          "main"
+        ]
+      },
+      {
+        "name": "ps2homebrew/isjpcm — branch: master",
+        "url": "https://github.com/ps2homebrew/isjpcm/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/isjpcm",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2homebrew/kelftool — branch: master",
+        "url": "https://github.com/ps2homebrew/kelftool/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/kelftool",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2homebrew/LbFn — branch: master",
+        "url": "https://github.com/ps2homebrew/LbFn/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/LbFn",
+          "master"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito — branch: master",
+        "url": "https://github.com/ps2homebrew/libito/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ps2homebrew/libito",
+          "master"
+        ]
       }
     ]
   },
@@ -983505,6 +983869,1866 @@
           "ps2devnoob/AthenaEnv",
           "v4-mpeg-video",
           "src/vu1"
+        ]
+      },
+      {
+        "name": "PS2Homebrew-arcade/acata-alternative@main — iop",
+        "url": "https://github.com/PS2Homebrew-arcade/acata-alternative/tree/main/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "PS2Homebrew-arcade/acata-alternative",
+          "main",
+          "iop"
+        ]
+      },
+      {
+        "name": "PS2Homebrew-arcade/acata-alternative@main — iop/acata",
+        "url": "https://github.com/PS2Homebrew-arcade/acata-alternative/tree/main/iop/acata",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "PS2Homebrew-arcade/acata-alternative",
+          "main",
+          "iop/acata"
+        ]
+      },
+      {
+        "name": "PS2Homebrew-arcade/proverb@buildsys-new — loader",
+        "url": "https://github.com/PS2Homebrew-arcade/proverb/tree/buildsys-new/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "PS2Homebrew-arcade/proverb",
+          "buildsys-new",
+          "loader"
+        ]
+      },
+      {
+        "name": "PS2Homebrew-arcade/proverb@main — loader",
+        "url": "https://github.com/PS2Homebrew-arcade/proverb/tree/main/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "PS2Homebrew-arcade/proverb",
+          "main",
+          "loader"
+        ]
+      },
+      {
+        "name": "ps2homebrew/.github@master — profile",
+        "url": "https://github.com/ps2homebrew/.github/tree/master/profile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/.github",
+          "master",
+          "profile"
+        ]
+      },
+      {
+        "name": "ps2homebrew/altimit@master — bin",
+        "url": "https://github.com/ps2homebrew/altimit/tree/master/bin",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/altimit",
+          "master",
+          "bin"
+        ]
+      },
+      {
+        "name": "ps2homebrew/altimit@master — ee",
+        "url": "https://github.com/ps2homebrew/altimit/tree/master/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/altimit",
+          "master",
+          "ee"
+        ]
+      },
+      {
+        "name": "ps2homebrew/altimit@master — ee/loader",
+        "url": "https://github.com/ps2homebrew/altimit/tree/master/ee/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/altimit",
+          "master",
+          "ee/loader"
+        ]
+      },
+      {
+        "name": "ps2homebrew/altimit@master — iop",
+        "url": "https://github.com/ps2homebrew/altimit/tree/master/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/altimit",
+          "master",
+          "iop"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — adresd_part1",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/adresd_part1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "adresd_part1"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — adresd_part2",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/adresd_part2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "adresd_part2"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — adresd_part4",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/adresd_part4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "adresd_part4"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — c_skel",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/c_skel",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "c_skel"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — emoon_part1",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/emoon_part1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "emoon_part1"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — emoon_part2",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/emoon_part2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "emoon_part2"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — fft_gen",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/fft_gen",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "fft_gen"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — jar_part1",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/jar_part1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "jar_part1"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — jar_part2",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/jar_part2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "jar_part2"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — PbDemoLib",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/PbDemoLib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "PbDemoLib"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — PbDemoLib/particle_test",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/PbDemoLib/particle_test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "PbDemoLib/particle_test"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — PbDemoLib/simple_bg",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/PbDemoLib/simple_bg",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "PbDemoLib/simple_bg"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — PbDemoLib/simple_texture",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/PbDemoLib/simple_texture",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "PbDemoLib/simple_texture"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — PbDemoLib/vu1_triangle",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/PbDemoLib/vu1_triangle",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "PbDemoLib/vu1_triangle"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — raizor_endpart",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/raizor_endpart",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "raizor_endpart"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — raizor_part1",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/raizor_part1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "raizor_part1"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — rnc_packer",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/rnc_packer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "rnc_packer"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — stream_iop",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/stream_iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "stream_iop"
+        ]
+      },
+      {
+        "name": "ps2homebrew/BPDemoHarness@master — TyRaNiD_Demo",
+        "url": "https://github.com/ps2homebrew/BPDemoHarness/tree/master/TyRaNiD_Demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/BPDemoHarness",
+          "master",
+          "TyRaNiD_Demo"
+        ]
+      },
+      {
+        "name": "ps2homebrew/dreamgl@master — samples",
+        "url": "https://github.com/ps2homebrew/dreamgl/tree/master/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/dreamgl",
+          "master",
+          "samples"
+        ]
+      },
+      {
+        "name": "ps2homebrew/dreamgl@master — tools",
+        "url": "https://github.com/ps2homebrew/dreamgl/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/dreamgl",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/fix-failing-github-actions-job — libcdvd",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/fix-failing-github-actions-job/libcdvd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/fix-failing-github-actions-job",
+          "libcdvd"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/fix-failing-github-actions-job — libcdvd/ee",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/fix-failing-github-actions-job/libcdvd/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/fix-failing-github-actions-job",
+          "libcdvd/ee"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/fix-failing-github-actions-job — libcdvd/example",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/fix-failing-github-actions-job/libcdvd/example",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/fix-failing-github-actions-job",
+          "libcdvd/example"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/fix-failing-github-actions-job — libcdvd/iop",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/fix-failing-github-actions-job/libcdvd/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/fix-failing-github-actions-job",
+          "libcdvd/iop"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/fix-failing-github-actions-job — SMSUTILS",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/fix-failing-github-actions-job/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/fix-failing-github-actions-job",
+          "SMSUTILS"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/fix-failing-github-actions-job — src/drivers",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/fix-failing-github-actions-job/src/drivers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/fix-failing-github-actions-job",
+          "src/drivers"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/fix-failing-github-actions-job — src/fir",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/fix-failing-github-actions-job/src/fir",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/fix-failing-github-actions-job",
+          "src/fir"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/fix-saving-problem — libcdvd",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/fix-saving-problem/libcdvd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/fix-saving-problem",
+          "libcdvd"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/fix-saving-problem — libcdvd/ee",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/fix-saving-problem/libcdvd/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/fix-saving-problem",
+          "libcdvd/ee"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/fix-saving-problem — libcdvd/example",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/fix-saving-problem/libcdvd/example",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/fix-saving-problem",
+          "libcdvd/example"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/fix-saving-problem — libcdvd/iop",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/fix-saving-problem/libcdvd/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/fix-saving-problem",
+          "libcdvd/iop"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/fix-saving-problem — SMSUTILS",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/fix-saving-problem/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/fix-saving-problem",
+          "SMSUTILS"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/fix-saving-problem — src/drivers",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/fix-saving-problem/src/drivers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/fix-saving-problem",
+          "src/drivers"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/fix-saving-problem — src/fir",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/fix-saving-problem/src/fir",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/fix-saving-problem",
+          "src/fir"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/make-compilable-with-latest-docker — libcdvd",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/make-compilable-with-latest-docker/libcdvd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/make-compilable-with-latest-docker",
+          "libcdvd"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/make-compilable-with-latest-docker — libcdvd/ee",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/make-compilable-with-latest-docker/libcdvd/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/make-compilable-with-latest-docker",
+          "libcdvd/ee"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/make-compilable-with-latest-docker — libcdvd/example",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/make-compilable-with-latest-docker/libcdvd/example",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/make-compilable-with-latest-docker",
+          "libcdvd/example"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/make-compilable-with-latest-docker — libcdvd/iop",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/make-compilable-with-latest-docker/libcdvd/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/make-compilable-with-latest-docker",
+          "libcdvd/iop"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/make-compilable-with-latest-docker — SMSUTILS",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/make-compilable-with-latest-docker/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/make-compilable-with-latest-docker",
+          "SMSUTILS"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/make-compilable-with-latest-docker — src/drivers",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/make-compilable-with-latest-docker/src/drivers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/make-compilable-with-latest-docker",
+          "src/drivers"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@copilot/make-compilable-with-latest-docker — src/fir",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/copilot/make-compilable-with-latest-docker/src/fir",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "copilot/make-compilable-with-latest-docker",
+          "src/fir"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@master — libcdvd",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/master/libcdvd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "master",
+          "libcdvd"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@master — libcdvd/ee",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/master/libcdvd/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "master",
+          "libcdvd/ee"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@master — libcdvd/example",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/master/libcdvd/example",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "master",
+          "libcdvd/example"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@master — libcdvd/iop",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/master/libcdvd/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "master",
+          "libcdvd/iop"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@master — SMSUTILS",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/master/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "master",
+          "SMSUTILS"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@master — src/drivers",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/master/src/drivers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "master",
+          "src/drivers"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@master — src/fir",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/master/src/fir",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "master",
+          "src/fir"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@move-libc-to-newlib — libcdvd",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/move-libc-to-newlib/libcdvd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "move-libc-to-newlib",
+          "libcdvd"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@move-libc-to-newlib — libcdvd/ee",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/move-libc-to-newlib/libcdvd/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "move-libc-to-newlib",
+          "libcdvd/ee"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@move-libc-to-newlib — libcdvd/example",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/move-libc-to-newlib/libcdvd/example",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "move-libc-to-newlib",
+          "libcdvd/example"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@move-libc-to-newlib — libcdvd/iop",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/move-libc-to-newlib/libcdvd/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "move-libc-to-newlib",
+          "libcdvd/iop"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@move-libc-to-newlib — src/drivers",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/move-libc-to-newlib/src/drivers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "move-libc-to-newlib",
+          "src/drivers"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@move-libc-to-newlib — src/fir",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/move-libc-to-newlib/src/fir",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "move-libc-to-newlib",
+          "src/fir"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@test_new_gcc_errors — libcdvd",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/test_new_gcc_errors/libcdvd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "test_new_gcc_errors",
+          "libcdvd"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@test_new_gcc_errors — libcdvd/ee",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/test_new_gcc_errors/libcdvd/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "test_new_gcc_errors",
+          "libcdvd/ee"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@test_new_gcc_errors — libcdvd/example",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/test_new_gcc_errors/libcdvd/example",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "test_new_gcc_errors",
+          "libcdvd/example"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@test_new_gcc_errors — libcdvd/iop",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/test_new_gcc_errors/libcdvd/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "test_new_gcc_errors",
+          "libcdvd/iop"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@test_new_gcc_errors — SMSUTILS",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/test_new_gcc_errors/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "test_new_gcc_errors",
+          "SMSUTILS"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@test_new_gcc_errors — src/drivers",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/test_new_gcc_errors/src/drivers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "test_new_gcc_errors",
+          "src/drivers"
+        ]
+      },
+      {
+        "name": "ps2homebrew/Fceumm-PS2@test_new_gcc_errors — src/fir",
+        "url": "https://github.com/ps2homebrew/Fceumm-PS2/tree/test_new_gcc_errors/src/fir",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/Fceumm-PS2",
+          "test_new_gcc_errors",
+          "src/fir"
+        ]
+      },
+      {
+        "name": "ps2homebrew/gslib@master — examples",
+        "url": "https://github.com/ps2homebrew/gslib/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/gslib",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "ps2homebrew/gslib@master — examples/font",
+        "url": "https://github.com/ps2homebrew/gslib/tree/master/examples/font",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/gslib",
+          "master",
+          "examples/font"
+        ]
+      },
+      {
+        "name": "ps2homebrew/gslib@master — examples/hi-res",
+        "url": "https://github.com/ps2homebrew/gslib/tree/master/examples/hi-res",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/gslib",
+          "master",
+          "examples/hi-res"
+        ]
+      },
+      {
+        "name": "ps2homebrew/gslib@master — examples/multi-buffer",
+        "url": "https://github.com/ps2homebrew/gslib/tree/master/examples/multi-buffer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/gslib",
+          "master",
+          "examples/multi-buffer"
+        ]
+      },
+      {
+        "name": "ps2homebrew/gslib@master — examples/multi-pipe",
+        "url": "https://github.com/ps2homebrew/gslib/tree/master/examples/multi-pipe",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/gslib",
+          "master",
+          "examples/multi-pipe"
+        ]
+      },
+      {
+        "name": "ps2homebrew/gslib@master — examples/simple",
+        "url": "https://github.com/ps2homebrew/gslib/tree/master/examples/simple",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/gslib",
+          "master",
+          "examples/simple"
+        ]
+      },
+      {
+        "name": "ps2homebrew/gslib@master — examples/texture",
+        "url": "https://github.com/ps2homebrew/gslib/tree/master/examples/texture",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/gslib",
+          "master",
+          "examples/texture"
+        ]
+      },
+      {
+        "name": "ps2homebrew/gslib@master — source",
+        "url": "https://github.com/ps2homebrew/gslib/tree/master/source",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/gslib",
+          "master",
+          "source"
+        ]
+      },
+      {
+        "name": "ps2homebrew/gslib@master — tools",
+        "url": "https://github.com/ps2homebrew/gslib/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/gslib",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "ps2homebrew/HDDChecker@main — fsck",
+        "url": "https://github.com/ps2homebrew/HDDChecker/tree/main/fsck",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/HDDChecker",
+          "main",
+          "fsck"
+        ]
+      },
+      {
+        "name": "ps2homebrew/HDDChecker@main — fssk",
+        "url": "https://github.com/ps2homebrew/HDDChecker/tree/main/fssk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/HDDChecker",
+          "main",
+          "fssk"
+        ]
+      },
+      {
+        "name": "ps2homebrew/HDDChecker@main — hdck",
+        "url": "https://github.com/ps2homebrew/HDDChecker/tree/main/hdck",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/HDDChecker",
+          "main",
+          "hdck"
+        ]
+      },
+      {
+        "name": "ps2homebrew/HDDChecker@main — hdlog",
+        "url": "https://github.com/ps2homebrew/HDDChecker/tree/main/hdlog",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/HDDChecker",
+          "main",
+          "hdlog"
+        ]
+      },
+      {
+        "name": "ps2homebrew/HDDChecker@main — hdsk",
+        "url": "https://github.com/ps2homebrew/HDDChecker/tree/main/hdsk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/HDDChecker",
+          "main",
+          "hdsk"
+        ]
+      },
+      {
+        "name": "ps2homebrew/HDDChecker@main — hdst",
+        "url": "https://github.com/ps2homebrew/HDDChecker/tree/main/hdst",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/HDDChecker",
+          "main",
+          "hdst"
+        ]
+      },
+      {
+        "name": "ps2homebrew/hdl-dump@0.8.x — execli",
+        "url": "https://github.com/ps2homebrew/hdl-dump/tree/0.8.x/execli",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/hdl-dump",
+          "0.8.x",
+          "execli"
+        ]
+      },
+      {
+        "name": "ps2homebrew/hdl-dump@0.8.x — gui",
+        "url": "https://github.com/ps2homebrew/hdl-dump/tree/0.8.x/gui",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/hdl-dump",
+          "0.8.x",
+          "gui"
+        ]
+      },
+      {
+        "name": "ps2homebrew/hdl-dump@0.8.x — svr",
+        "url": "https://github.com/ps2homebrew/hdl-dump/tree/0.8.x/svr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/hdl-dump",
+          "0.8.x",
+          "svr"
+        ]
+      },
+      {
+        "name": "ps2homebrew/hdl-dump@0.8.x — svr/ee",
+        "url": "https://github.com/ps2homebrew/hdl-dump/tree/0.8.x/svr/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/hdl-dump",
+          "0.8.x",
+          "svr/ee"
+        ]
+      },
+      {
+        "name": "ps2homebrew/hdl-dump@0.8.x — svr/iop3",
+        "url": "https://github.com/ps2homebrew/hdl-dump/tree/0.8.x/svr/iop3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/hdl-dump",
+          "0.8.x",
+          "svr/iop3"
+        ]
+      },
+      {
+        "name": "ps2homebrew/hdl-dump@copilot/fix-bad-code-and-possible-problems — execli",
+        "url": "https://github.com/ps2homebrew/hdl-dump/tree/copilot/fix-bad-code-and-possible-problems/execli",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/hdl-dump",
+          "copilot/fix-bad-code-and-possible-problems",
+          "execli"
+        ]
+      },
+      {
+        "name": "ps2homebrew/hdl-dump@copilot/fix-bad-code-and-possible-problems — gui",
+        "url": "https://github.com/ps2homebrew/hdl-dump/tree/copilot/fix-bad-code-and-possible-problems/gui",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/hdl-dump",
+          "copilot/fix-bad-code-and-possible-problems",
+          "gui"
+        ]
+      },
+      {
+        "name": "ps2homebrew/hdl-dump@copilot/fix-bad-code-and-possible-problems — svr",
+        "url": "https://github.com/ps2homebrew/hdl-dump/tree/copilot/fix-bad-code-and-possible-problems/svr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/hdl-dump",
+          "copilot/fix-bad-code-and-possible-problems",
+          "svr"
+        ]
+      },
+      {
+        "name": "ps2homebrew/hdl-dump@copilot/fix-bad-code-and-possible-problems — svr/pktdrv",
+        "url": "https://github.com/ps2homebrew/hdl-dump/tree/copilot/fix-bad-code-and-possible-problems/svr/pktdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/hdl-dump",
+          "copilot/fix-bad-code-and-possible-problems",
+          "svr/pktdrv"
+        ]
+      },
+      {
+        "name": "ps2homebrew/hdl-dump@master — execli",
+        "url": "https://github.com/ps2homebrew/hdl-dump/tree/master/execli",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/hdl-dump",
+          "master",
+          "execli"
+        ]
+      },
+      {
+        "name": "ps2homebrew/hdl-dump@master — gui",
+        "url": "https://github.com/ps2homebrew/hdl-dump/tree/master/gui",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/hdl-dump",
+          "master",
+          "gui"
+        ]
+      },
+      {
+        "name": "ps2homebrew/hdl-dump@master — svr",
+        "url": "https://github.com/ps2homebrew/hdl-dump/tree/master/svr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/hdl-dump",
+          "master",
+          "svr"
+        ]
+      },
+      {
+        "name": "ps2homebrew/hdl-dump@master — svr/pktdrv",
+        "url": "https://github.com/ps2homebrew/hdl-dump/tree/master/svr/pktdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/hdl-dump",
+          "master",
+          "svr/pktdrv"
+        ]
+      },
+      {
+        "name": "ps2homebrew/HDLGameInstaller@main — apa-hdl",
+        "url": "https://github.com/ps2homebrew/HDLGameInstaller/tree/main/apa-hdl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/HDLGameInstaller",
+          "main",
+          "apa-hdl"
+        ]
+      },
+      {
+        "name": "ps2homebrew/HDLGameInstaller@main — hdlfs",
+        "url": "https://github.com/ps2homebrew/HDLGameInstaller/tree/main/hdlfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/HDLGameInstaller",
+          "main",
+          "hdlfs"
+        ]
+      },
+      {
+        "name": "ps2homebrew/isjpcm@master — ee",
+        "url": "https://github.com/ps2homebrew/isjpcm/tree/master/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/isjpcm",
+          "master",
+          "ee"
+        ]
+      },
+      {
+        "name": "ps2homebrew/isjpcm@master — iop",
+        "url": "https://github.com/ps2homebrew/isjpcm/tree/master/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/isjpcm",
+          "master",
+          "iop"
+        ]
+      },
+      {
+        "name": "ps2homebrew/LbFn@master — loader",
+        "url": "https://github.com/ps2homebrew/LbFn/tree/master/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/LbFn",
+          "master",
+          "loader"
+        ]
+      },
+      {
+        "name": "ps2homebrew/LbFn@master — modules",
+        "url": "https://github.com/ps2homebrew/LbFn/tree/master/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/LbFn",
+          "master",
+          "modules"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — release",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/release",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "release"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — samples",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "samples"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — samples/fpu",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/samples/fpu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "samples/fpu"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — samples/fpu/basic",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/samples/fpu/basic",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "samples/fpu/basic"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — samples/gif",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/samples/gif",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "samples/gif"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — samples/gif/alphablending",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/samples/gif/alphablending",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "samples/gif/alphablending"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — samples/gif/indirectfb",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/samples/gif/indirectfb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "samples/gif/indirectfb"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — samples/gif/point",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/samples/gif/point",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "samples/gif/point"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — samples/gif/sprite",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/samples/gif/sprite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "samples/gif/sprite"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — samples/gif/textureformats",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/samples/gif/textureformats",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "samples/gif/textureformats"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — samples/misc",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/samples/misc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "samples/misc"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — samples/misc/c-wrapper",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/samples/misc/c-wrapper",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "samples/misc/c-wrapper"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — samples/misc/linkedlist",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/samples/misc/linkedlist",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "samples/misc/linkedlist"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — samples/misc/pad",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/samples/misc/pad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "samples/misc/pad"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — samples/vu0macro",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/samples/vu0macro",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "samples/vu0macro"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — samples/vu0macro/basic",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/samples/vu0macro/basic",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "samples/vu0macro/basic"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — source",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/source",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "source"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — tools",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "ps2homebrew/libito@master — tools/iit",
+        "url": "https://github.com/ps2homebrew/libito/tree/master/tools/iit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ps2homebrew/libito",
+          "master",
+          "tools/iit"
         ]
       }
     ]
