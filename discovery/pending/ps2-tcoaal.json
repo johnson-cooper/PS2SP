@@ -8,9 +8,9 @@
     "PS2-specific topic",
     "repository name explicitly identifies PS2"
   ],
-  "origin": "incremental:\"ps2 port\" in:name,description,readme",
+  "origin": "pending-recheck",
   "maturity": "active-wip",
   "fork": null,
   "discoveredAt": "2026-10-14T22:38:09.246Z",
-  "checkedAt": "2026-10-14T22:38:09.246Z"
+  "checkedAt": "2026-10-15T23:18:28.396Z"
 }
