@@ -1,0 +1,16 @@
+{
+  "repository": "LipeLacross/God-of-War-2-Web-REA",
+  "repositoryId": "1420118059",
+  "url": "https://github.com/LipeLacross/God-of-War-2-Web-REA",
+  "description": "PlayStation 2 God of War II running in the browser via WebAssembly (WASM), WebGL 2.0, and React 19. Features cloud streaming via Internet Archive, HTML5 Gamepad API with rumble, and offline CacheStorage/IndexedDB saves.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-15T06:27:26.444Z",
+  "checkedAt": "2026-10-15T06:27:26.444Z"
+}
