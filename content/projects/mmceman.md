@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2025-03-10T03:31:13Z'
   url: 'https://github.com/NathanNeurotic/mmceman/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-03T12:34:47.164Z'
+  lastSynchronized: '2026-10-16T12:25:39.481Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"75323e5d8386d6f668e2f546cfc325f18c41001e268e569bdf16090b685936a2"
-    releasesEtag: W/"a36a2da346926f59751f69f3e5667af2e3c19db2b82075e46d6a6b94e7e40879"
+    repoEtag: W/"dd63354ed5bc1fd77fb7a2bc02fccee8169bdaa58f7b9df7f648cb9a9cee56d4"
+    releasesEtag: W/"b22b1d6ccbe26a8b1a29fae0a4bd9a99aac172cc9da0c1289e7f40b3349d86ce"
 discovery:
   method: curated-owner
   confidence: 100

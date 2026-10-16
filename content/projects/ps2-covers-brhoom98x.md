@@ -1,7 +1,9 @@
 ---
 name: ps2-covers
 slug: ps2-covers-brhoom98x
-summary: "Community collection of PlayStation 2 3D and 2D box art covers formatted for Open PS2 Loader (OPL) and PCSX2."
+summary: >-
+  Community collection of PlayStation 2 3D and 2D box art covers formatted for
+  Open PS2 Loader (OPL) and PCSX2.
 categories:
   - themes
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T12:35:02.811Z'
+  lastSynchronized: '2026-10-16T12:26:07.077Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cbb16e5bd80a47cc0c469c9628c22a208af1daf1d2bc3e148bb3efaa7ad56464"
-    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
+    repoEtag: W/"56d805b70967444379602a057b72cdaf54777fefc9a39a3be097727daae4f6c1"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'fork-network:xlenore/ps2-covers'
   confidence: 100

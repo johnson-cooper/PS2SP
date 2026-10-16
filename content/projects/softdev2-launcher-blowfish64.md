@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-09T09:38:29.415Z'
+  lastSynchronized: '2026-10-16T12:26:43.521Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b20a8da0d6878a963ae1126144dbcd0a8f351daca9369e475467f2405c3ab1e2"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'fork-network:parrado/SoftDev2'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: parrado/SoftDev2
   source: parrado/SoftDev2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

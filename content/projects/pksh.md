@@ -1,7 +1,9 @@
 ---
 name: pksh
 slug: pksh
-summary: "Interactive debug shell and remote command environment for PlayStation 2 kernel development."
+summary: >-
+  Interactive debug shell and remote command environment for PlayStation 2
+  kernel development.
 categories:
   - utilities
 tags:
@@ -26,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T12:35:01.019Z'
+  lastSynchronized: '2026-10-16T12:26:04.094Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"afd4ceba249431313f53fc0bc87c0f0fdc96ef06c8fe69f7282f1f1bc0d8b9ef"
-    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
+    repoEtag: W/"dc4bea56a193967eed19566ffb75e4d184d51b727358cefa07eb42274e205c3f"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 95

@@ -1,7 +1,9 @@
 ---
 name: ps2Perf
 slug: ps2perf
-summary: "Performance profiler and hardware counter benchmarking tool for PlayStation 2 Emotion Engine code."
+summary: >-
+  Performance profiler and hardware counter benchmarking tool for PlayStation 2
+  Emotion Engine code.
 categories:
   - development
   - utilities
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T12:35:11.745Z'
+  lastSynchronized: '2026-10-16T12:26:24.346Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"022610dd1bcae801d6a8d3f751dbe7fd9681a240adacffbf352693e3afa51fc6"
-    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
+    repoEtag: W/"cb0f33d8e036cff25900841f76704f63a9e3e305000f2b399d66655f2b739ac5"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 95

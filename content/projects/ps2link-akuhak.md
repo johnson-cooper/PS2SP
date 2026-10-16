@@ -1,7 +1,9 @@
 ---
 name: ps2link
 slug: ps2link-akuhak
-summary: "PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP from host development tools like ps2client."
+summary: >-
+  PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP
+  from host development tools like ps2client.
 categories:
   - networking
   - development
@@ -32,12 +34,12 @@ latestRelease:
   publishedAt: '2022-06-10T19:34:38Z'
   url: 'https://github.com/AKuHAK/ps2link/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-03T12:35:10.331Z'
+  lastSynchronized: '2026-10-16T12:26:22.734Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f056bdde8b3329575ca8f442259153c85b7380d37585e880209d972e2498414d"
-    releasesEtag: W/"2aa16aa1a976a3f2090ebe5be808ce2df541517be699ba899ad343c547876b40"
+    repoEtag: W/"0e7429fd0e9ed6879902ca1b1fcc3cadba5310fdadd0449c981281e08fe5e3ec"
+    releasesEtag: W/"ac002ef2323b65b01f2a0ca39639c087dc01f53edd8d9ebe8442b54761e35d63"
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100

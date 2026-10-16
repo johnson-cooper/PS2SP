@@ -1,7 +1,9 @@
 ---
 name: ps2stuff
 slug: ps2stuff-wellinator
-summary: "Support library containing math, matrix, and low-level utility routines for the ps2gl 3D graphics library."
+summary: >-
+  Support library containing math, matrix, and low-level utility routines for
+  the ps2gl 3D graphics library.
 categories:
   - development
   - libraries
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T12:35:15.828Z'
+  lastSynchronized: '2026-10-16T12:26:28.995Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0205d9c0ba5cecca0b5b08cbd2b490ccbf72d55d484279957bae175c65ccdba3"
-    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
+    repoEtag: W/"8984631e7a507aef4b0d3489f2ffe04c36544375a8ba91a329a13abd5fb277ca"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'fork-network:ps2dev/ps2stuff'
   confidence: 95

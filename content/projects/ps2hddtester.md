@@ -1,7 +1,9 @@
 ---
 name: PS2HDDTester
 slug: ps2hddtester
-summary: "Benchmark tool for PlayStation 2 that measures read, write, and access latency across internal ATA hard drives."
+summary: >-
+  Benchmark tool for PlayStation 2 that measures read, write, and access latency
+  across internal ATA hard drives.
 categories:
   - utilities
 tags:
@@ -30,12 +32,12 @@ latestRelease:
   url: 'https://github.com/ps2homebrew/PS2HDDTester/releases/tag/v1.1'
 activity:
   lastChecked: '2026-09-29T00:27:11.662Z'
-  lastSynchronized: '2026-10-03T12:35:09.267Z'
+  lastSynchronized: '2026-10-16T12:26:21.623Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"48230829311ce8b4cf55f08d2847c31dff2e7f28286e40c42d3f05d8033a9955"
-    releasesEtag: W/"2bf55f989697b3a40898ed9d88ac91ef4ba92d63df75484d6e3da05cc939588e"
+    repoEtag: W/"614bb93a8a1d31fa6b6076c01ae13673497bb5b9bed656fd2e04d8aa0ec01b56"
+    releasesEtag: W/"093be7fa9ce77866569fd68d129dd929bec7e27350b86f6abb622271f43ee28e"
 discovery:
   method: curated
   confidence: 100

@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2026-10-15T22:36:24Z'
   url: 'https://github.com/dphades1572/god-of-war-coop/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-10-15T23:18:28.396Z'
+  lastSynchronized: '2026-10-16T12:25:26.105Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4acc49f54d27faaa2f1badff39f634fb776a63d400eac5901132fef0f0768f65"
+    releasesEtag: W/"316533cd563401f6aa5bab1ab215f059d91a52c3d9f6248d70da8e883b732741"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -45,5 +48,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -1,7 +1,9 @@
 ---
 name: ps2gdb
 slug: ps2gdb-akuhak
-summary: "Remote GDB debugging stub for PlayStation 2, enabling source-level debugging over serial or network connections."
+summary: >-
+  Remote GDB debugging stub for PlayStation 2, enabling source-level debugging
+  over serial or network connections.
 categories:
   - development
 tags:
@@ -29,12 +31,12 @@ latestRelease:
   publishedAt: '2024-03-17T13:30:00Z'
   url: 'https://github.com/AKuHAK/ps2gdb/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-03T12:35:08.732Z'
+  lastSynchronized: '2026-10-16T12:26:21.002Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"de7cb1eabbfb0dc5849b91e2713180d80ccfda3ef4a1cf65a4041bd71fe8f691"
-    releasesEtag: W/"a49d53fe6f40d9db97d64409e35e71e0e1de0af3cdda90d8dd19f981627df39a"
+    repoEtag: W/"7cf318e1817da4fb019c678ff260d19deeb792e28b56cf8f37c3cde7108ecb3b"
+    releasesEtag: W/"b61b781e32e519ca10fc750e95048b5dc5152023746d29e937ac5445eb58c61c"
 discovery:
   method: 'fork-network:ps2dev/ps2gdb'
   confidence: 100

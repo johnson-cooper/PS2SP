@@ -1,7 +1,9 @@
 ---
 name: ps2sdk
 slug: ps2sdk-alexandre-lavoie
-summary: "Open-source software development kit providing C standard libraries, kernel interfaces, and hardware drivers for PlayStation 2 homebrew development."
+summary: >-
+  Open-source software development kit providing C standard libraries, kernel
+  interfaces, and hardware drivers for PlayStation 2 homebrew development.
 categories:
   - sdks
   - development
@@ -31,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T12:35:12.633Z'
+  lastSynchronized: '2026-10-16T12:26:26.096Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"452df2a75d541aaad11f5c98d8649d98ef853d13fd3cac88b2cce243c2c3b86a"
-    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
+    repoEtag: W/"38e414cc46121e631a20d4446a86b37cec7aa31b478139681b9f6e6c744e7794"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'fork-network:ps2dev/ps2sdk'
   confidence: 100

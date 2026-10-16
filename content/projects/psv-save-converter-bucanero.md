@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2025-10-04T13:09:15Z'
   url: 'https://github.com/bucanero/psv-save-converter/releases/tag/v1.2.2'
 activity:
-  lastSynchronized: '2026-10-03T12:35:20.982Z'
+  lastSynchronized: '2026-10-16T12:26:35.376Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b1f572a41cef136ef77e046da92a36408b144f599f22cc6fce64311a120b3a3c"
-    releasesEtag: W/"173a38f000d134edd8fd0c5771a5d1b0357b336472816174999fbafa515a6c73"
+    repoEtag: W/"105eea6a818e40e7af4f92d2628eecf8149e592dcc1b520af4d08d3e74de4e94"
+    releasesEtag: W/"f093a82560dac4f977c2c37df282c290f637b4df9a6c40ee35fdd01db86ab85f"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

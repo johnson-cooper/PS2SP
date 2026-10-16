@@ -23,10 +23,10 @@ source:
   url: 'https://github.com/dev4546b/ps2-lan-tunnel'
 repository:
   archived: false
-  defaultBranch: main
+  defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-09-23T18:02:18Z'
+  lastCommit: '2026-10-07T14:20:21Z'
 latestRelease:
   tag: null
   name: null
@@ -34,12 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-09-29T00:28:56.278Z'
-  lastSynchronized: '2026-10-03T12:35:04.655Z'
+  lastSynchronized: '2026-10-16T12:26:13.003Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"053a661f1a51bba120a4eeb9395e7246676fe03e6f65b9190d267e8bb621a8ab"
-    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
+    repoEtag: W/"61ef5aaa915368c731124ae40149dbb07f9256fd966551dcd8540d17c6ea19a4"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 100

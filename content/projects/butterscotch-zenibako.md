@@ -23,16 +23,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-10T13:54:25Z'
+  lastCommit: '2026-10-16T12:19:19Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-10T13:58:59.079Z'
+  lastSynchronized: '2026-10-16T12:25:13.197Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2f9a0ddddf8f50e0075056e1c2c77d1e6ba839ecfdf1d3f5b0ef5f715f17bf29"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: ButterscotchRunner/Butterscotch
   source: ButterscotchRunner/Butterscotch
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -23,20 +23,20 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-03T10:14:54Z'
+  lastCommit: '2026-10-15T13:04:52Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.0.0
+  name: v1.0.0
+  publishedAt: '2026-10-06T22:09:04Z'
+  url: 'https://github.com/Tatsh/resonance/releases/tag/v1.0.0'
 activity:
   lastChecked: '2026-09-29T00:28:43.161Z'
-  lastSynchronized: '2026-10-03T12:35:21.875Z'
+  lastSynchronized: '2026-10-16T12:26:37.159Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5aa1f561097767b1a30a9e3a78e758524d8aae837658bcfcdfec3bf953b82747"
-    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
+    repoEtag: W/"f19320199067bb08192921b2a636b485a0b392cd74e52f277993dfc5233f19a3"
+    releasesEtag: W/"9993a75a1262c7adf7c4e7812e0a150b10e5c6f47998868deac07ac976b8609a"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 100

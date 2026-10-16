@@ -1,7 +1,9 @@
 ---
 name: opentuna-RLE
 slug: opentuna-rle-danielt3
-summary: "RLE-compressed payload variant of the OpenTuna exploit for PlayStation 2 Slim consoles."
+summary: >-
+  RLE-compressed payload variant of the OpenTuna exploit for PlayStation 2 Slim
+  consoles.
 categories:
   - boot-tools
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T12:34:52.472Z'
+  lastSynchronized: '2026-10-16T12:25:48.278Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d2ecbf46d6fd4f764024dd948c60bf3df064e11c1c40724622f98f904f54fbb5"
-    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
+    repoEtag: W/"76b749eb7a8ce95896c61218fd07d8f8ab47112c117a114f72597cf78fe05097"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'fork-network:ps2homebrew/opentuna-RLE'
   confidence: 95

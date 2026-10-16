@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-08T22:28:32.502Z'
+  lastSynchronized: '2026-10-16T12:25:13.861Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"12e452571ae8fbf6bcdace9242c7c3dfbcb46a4e1943ee4907f64bd4aca44f1b"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'fork-network:C0mposer/C-Game-Modding-Utility'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: C0mposer/C-Game-Modding-Utility
   source: C0mposer/C-Game-Modding-Utility
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

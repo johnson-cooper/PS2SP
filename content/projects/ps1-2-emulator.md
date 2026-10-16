@@ -19,19 +19,23 @@ source:
   url: 'https://github.com/rafaelferreiram/ps1-2-emulator'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-06T07:30:37Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v5.2.0
+  name: PS1/2 5.2.0 — Portable SSD covers
+  publishedAt: '2026-10-06T07:31:12Z'
+  url: 'https://github.com/rafaelferreiram/ps1-2-emulator/releases/tag/v5.2.0'
 activity:
   lastChecked: '2026-10-05T22:55:14.648Z'
+  lastSynchronized: '2026-10-16T12:26:05.384Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6646fa6e3370a5b31d02887eaf8d7bc6ef1f5582926f6e85da85a049e7e9daf8"
+    releasesEtag: W/"7ab87ac4ec4bfc9cc3d8e8b9b83f0a59919d9ab1a08237acd25e571ce867a685"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -44,5 +48,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

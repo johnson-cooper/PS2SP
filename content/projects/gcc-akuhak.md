@@ -1,7 +1,9 @@
 ---
 name: gcc
 slug: gcc-akuhak
-summary: "GNU Compiler Collection (GCC) cross-compiler toolchain ports targeting the PlayStation 2 Emotion Engine and IOP processors."
+summary: >-
+  GNU Compiler Collection (GCC) cross-compiler toolchain ports targeting the
+  PlayStation 2 Emotion Engine and IOP processors.
 categories:
   - sdks
   - development
@@ -28,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T12:34:40.740Z'
+  lastSynchronized: '2026-10-16T12:25:25.588Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f824a9d641b7add83a54d4416b8c0549d3f0c604bf55079190ca091ce45e33dc"
-    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
+    repoEtag: W/"d84bd015a928c42be9c1db1e1a594dcf9f8b6b77301cc29e5aceb77913473ab0"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'fork-network:ps2dev/gcc'
   confidence: 95

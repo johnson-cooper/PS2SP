@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T14:55:33.658Z'
+  lastSynchronized: '2026-10-16T12:26:40.624Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c5771d76b51f123ad6a8e8116a8c2a80f7fbaa16f3c7436014b10f2b912a1527"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'fork-network:GorGylka/Server2PS2'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: GorGylka/Server2PS2
   source: GorGylka/Server2PS2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

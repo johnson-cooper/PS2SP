@@ -1,7 +1,9 @@
 ---
 name: ps2sdk
 slug: ps2sdk-ninjadynamics
-summary: "Open-source software development kit providing C standard libraries, kernel interfaces, and hardware drivers for PlayStation 2 homebrew development."
+summary: >-
+  Open-source software development kit providing C standard libraries, kernel
+  interfaces, and hardware drivers for PlayStation 2 homebrew development.
 categories:
   - sdks
   - development
@@ -31,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T12:35:14.012Z'
+  lastSynchronized: '2026-10-16T12:26:27.879Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f5dc416973e127eee240c1368269e1a9be878420ad4536f5f25655e0c28f08ad"
-    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
+    repoEtag: W/"34940dd3f05ca5b75e5266c47b61b322a491e4ae4c144483f3b25465644c3b4f"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'fork-network:ps2dev/ps2sdk'
   confidence: 100

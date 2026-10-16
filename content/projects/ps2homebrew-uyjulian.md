@@ -1,7 +1,9 @@
 ---
 name: ps2homebrew
 slug: ps2homebrew-uyjulian
-summary: "Central GitHub organization repository and issue tracker for the ps2homebrew community."
+summary: >-
+  Central GitHub organization repository and issue tracker for the ps2homebrew
+  community.
 categories:
   - development
 tags:
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T12:35:09.725Z'
+  lastSynchronized: '2026-10-16T12:26:22.124Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cf60d09fbc0554957be376d314018d31e555ef6c2174b7bfdb2cbd99d0a62c74"
-    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
+    repoEtag: W/"0e514c5c4549038ebcb1712f7ff1947fb39ec2aab144b4a0b31b9ca1437dfbf1"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'fork-network:ps2homebrew/ps2homebrew'
   confidence: 95

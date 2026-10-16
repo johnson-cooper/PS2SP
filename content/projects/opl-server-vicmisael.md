@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T12:34:52.974Z'
+  lastSynchronized: '2026-10-16T12:25:48.925Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fe78ae14e2d3ff20ebba90b72d7e665de73f862b4c78b2bea424fcf1ceb17634"
-    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
+    repoEtag: W/"4a71c37d3c98c62d71bacdf7b8f7539cf61a1c674d2477787182f5f889b7a01e"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'fork-network:elmariolo/OPL-Server'
   confidence: 95

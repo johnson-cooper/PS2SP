@@ -1,7 +1,9 @@
 ---
 name: PS2-Audio-Extractor
 slug: ps2-audio-extractor
-summary: "Audio extractor and converter for PlayStation 2 game sound formats, converting to WAV and MP3."
+summary: >-
+  Audio extractor and converter for PlayStation 2 game sound formats, converting
+  to WAV and MP3.
 categories:
   - media
   - host-tools
@@ -28,12 +30,12 @@ latestRelease:
   url: 'https://github.com/4574130823/PS2-Audio-Extractor/releases/tag/v0.1.0'
 activity:
   lastChecked: '2026-09-29T00:28:28.294Z'
-  lastSynchronized: '2026-10-03T12:35:01.902Z'
+  lastSynchronized: '2026-10-16T12:26:05.985Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"304c83a5d52e20bda931ba455d4a0ea5c1457ba06c4296413472771df8b08c3d"
-    releasesEtag: W/"5f71d7ad21b9121378b506a1058d3b53ade6f4f7b845fb70fb5d66ffb440ebe3"
+    repoEtag: W/"d9abb8464c897aa468b5ca28d59ab17bdfdaeccc86a868fdbe78e2db78985725"
+    releasesEtag: W/"a8c6bb1d01dd7e13a6f9de0e82f6a2be1b7a2c09e975f502d180abac65d23379"
 discovery:
   method: github-search
   confidence: 100

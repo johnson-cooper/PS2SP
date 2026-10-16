@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T22:26:09.550Z'
+  lastSynchronized: '2026-10-16T12:26:48.627Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4cc6c264e2c37146c09d93388ccd1162dc334e6bcc5de8d0a64227a57de4912e"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'fork-network:sahlberg/wLaunchELF'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: sahlberg/wLaunchELF
   source: ps2homebrew/wLaunchELF
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

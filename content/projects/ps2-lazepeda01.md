@@ -1,7 +1,9 @@
 ---
 name: ps2
 slug: ps2-lazepeda01
-summary: "PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation frontend support on PS2."
+summary: >-
+  PlayStation 2 architecture core for Libretro and RetroArch, enabling emulation
+  frontend support on PS2.
 categories:
   - emulators
   - ports
@@ -30,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T12:35:05.079Z'
+  lastSynchronized: '2026-10-16T12:26:13.518Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1dd201890c46a5c62b1e4fb8a84a275ce2fd3316e82b1a996584c08fd79b5e3b"
-    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
+    repoEtag: W/"e85dc3124eaf009955be51590572ae504212815193e0f469565e2633524c530e"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 95

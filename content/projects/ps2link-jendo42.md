@@ -1,7 +1,9 @@
 ---
 name: ps2link
 slug: ps2link-jendo42
-summary: "PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP from host development tools like ps2client."
+summary: >-
+  PlayStation 2 network bootloader that executes ELF binaries sent over TCP/IP
+  from host development tools like ps2client.
 categories:
   - networking
   - development
@@ -32,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T12:35:10.805Z'
+  lastSynchronized: '2026-10-16T12:26:23.359Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c700d8e54bb019c580e84b3504a53310b024f6d15c1612af5b56e9c87ce61c8d"
-    releasesEtag: '"8d1d976aff1bb620269f0933c9cf003b4bd5a290796ea6758cfb5e5b986766ba"'
+    repoEtag: W/"0c6b8bf3c613049cd6519f1f72018b9bb654d305b30de1f8e732dcb44d980c58"
+    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100
