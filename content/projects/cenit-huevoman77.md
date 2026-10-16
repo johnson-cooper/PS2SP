@@ -23,19 +23,21 @@ repository:
   defaultBranch: master
   stars: 4
   forks: 0
-  lastCommit: '2026-10-14T20:24:07Z'
+  lastCommit: '2026-10-16T21:55:19Z'
 latestRelease:
-  tag: base-0.6.35
-  name: Cenit 0.6.35
-  publishedAt: '2026-10-14T20:37:09Z'
-  url: 'https://github.com/HUEVOMAN77/Cenit/releases/tag/base-0.6.35'
+  tag: base-0.6.38
+  name: >-
+    Cenit 0.6.38 — el superbloque tiene denominador y el reporte lleva el equipo
+    medido
+  publishedAt: '2026-10-16T21:55:20Z'
+  url: 'https://github.com/HUEVOMAN77/Cenit/releases/tag/base-0.6.38'
 activity:
-  lastSynchronized: '2026-10-14T23:55:05.640Z'
+  lastSynchronized: '2026-10-16T23:35:51.678Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"003ebd01af6b67379df779123d95a09882cbbdf68327839deef46d85c7c26fc5"
-    releasesEtag: W/"b81d87d973d53b1d28522fb440b6fb2f0cc4393f8a648221290dfaa2fc857feb"
+    repoEtag: W/"9199970b45ec7c16a21a65c50194b395a4d1987899ef31f255093172fa06feef"
+    releasesEtag: W/"1cac99585be4e9d8fe5fe78bb43cb913cc652d455c2a905c76cf80c9f3fa73c5"
 discovery:
   method: 'incremental:topic:playstation2'
   confidence: 100

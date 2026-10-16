@@ -19,7 +19,7 @@ license: MIT
 homepage: null
 source:
   provider: github
-  repository: SkylarPlayz348/ps2dev
+  repository: fuzzyghosty/ps2dev
   repositoryId: '1018256780'
 repository:
   archived: false
@@ -31,14 +31,14 @@ latestRelease:
   tag: latest
   name: Development build
   publishedAt: '2025-07-11T23:15:06Z'
-  url: 'https://github.com/SkylarPlayz348/ps2dev/releases/tag/latest'
+  url: 'https://github.com/fuzzyghosty/ps2dev/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-14T23:56:07.284Z'
+  lastSynchronized: '2026-10-16T23:36:53.479Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5edaed428c754cae9f9ddf2c233c2bc22d1cc5b1395b11bc770c8e1f7c1e8868"
-    releasesEtag: W/"5352f40de1ebb2d433de0d499a5623c0f8d582c1eeb9cb732e8ed272d0281cda"
+    repoEtag: W/"252fc1480058f0d5e9916dd3d8307d5565fa90f60bb96cacd49c557cb27f8dba"
+    releasesEtag: W/"f4eb3f0405b1db73334f10c06d9d3c02d69c48abb530659d52cd20a22762ce13"
 discovery:
   method: 'fork-network:ps2dev/ps2dev'
   confidence: 100

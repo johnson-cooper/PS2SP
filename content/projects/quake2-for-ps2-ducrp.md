@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-14T23:56:21.401Z'
+  lastSynchronized: '2026-10-16T23:37:06.371Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5894e964225925986e70e2d715aebcfa200b48d727e7585c3ca38540a2a2a8fd"
-    releasesEtag: '"7220e93c2119d8a1597e54c986bad09e8fcbedd8027e89938898b491d815c399"'
+    repoEtag: W/"2d20e6c3b81f279e06470afd45156b5ec0f366066e4dd652c798ec4253e86595"
+    releasesEtag: '"1e767df84f780fe3d0f33c7953683117d2f4062dcc21d1a189693d6c62b4a740"'
 discovery:
   method: 'fork-network:glampert/quake2-ps2'
   confidence: 100

@@ -20,7 +20,7 @@ repository:
   defaultBranch: master
   stars: 121
   forks: 9
-  lastCommit: '2026-10-12T01:05:30Z'
+  lastCommit: '2026-10-16T20:47:01Z'
 latestRelease:
   tag: v1.9.4-reliquary
   name: v1.9.4-reliquary
@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/DiscoStarslayer/pcsx2-reliquary/releases/tag/v1.9.4-reliquary
 activity:
-  lastSynchronized: '2026-10-14T23:55:54.251Z'
+  lastSynchronized: '2026-10-16T23:36:37.076Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0b25615ac1f000a92b67cad5e16002e10a2f5b0cf2e0e37e5cc64c0fc7cffeb0"
-    releasesEtag: W/"b1af63b7b02593eb69da2bb968ff1ed13b6cdf97fcb90aae87413be62e80d31c"
+    repoEtag: W/"ecb22fd0806f9b8a34672440704cc5ba2055fdf77f60815bbc657898441d0b77"
+    releasesEtag: W/"141f5fa8e96b02c7b24c8909baf7d368592b2f62464ca571cb4f6aad8be51e25"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
