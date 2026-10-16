@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 42
+  stars: 43
   forks: 9
   lastCommit: '2024-09-04T23:26:49Z'
 latestRelease:
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/ps2homebrew/HDLGameInstaller/releases/tag/v0.821'
 activity:
   lastChecked: '2026-09-29T00:27:04.129Z'
-  lastSynchronized: '2026-10-11T01:54:18.820Z'
+  lastSynchronized: '2026-10-16T01:21:04.522Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b39d77976a079725049a25d9b0fefa83a2576f15621a794ec35d421eb305c127"
-    releasesEtag: W/"894d62eef47a5a0bd7ce8fc1f14fd3b357d05843999411c79b25219727fdb549"
+    repoEtag: W/"d8a20695ad22472da29392911f4b7297171934ebedd0f1f4a344e6fcc1892cf1"
+    releasesEtag: W/"2bef990b867030dcb27b9fbce7211540d12f10a5a778d46fa8ca94200cb1be91"
 discovery:
   method: curated
   confidence: 100

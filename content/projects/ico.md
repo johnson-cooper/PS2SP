@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 34
-  forks: 1
-  lastCommit: '2026-10-09T20:32:07Z'
+  stars: 36
+  forks: 2
+  lastCommit: '2026-10-16T00:07:52Z'
 latestRelease:
-  tag: v1.0.1
-  name: 'v1.0.1: reconstruction fixes found through the PC port'
-  publishedAt: '2026-10-08T23:46:58Z'
-  url: 'https://github.com/nathanialf/ico/releases/tag/v1.0.1'
+  tag: jpn-v1.0.0
+  name: 'jpn-v1.0.0: ICO Japanese retail boot ELF rebuilt from source'
+  publishedAt: '2026-10-15T05:38:06Z'
+  url: 'https://github.com/nathanialf/ico/releases/tag/jpn-v1.0.0'
 activity:
-  lastSynchronized: '2026-10-11T01:54:19.301Z'
+  lastSynchronized: '2026-10-16T01:21:05.021Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a8c49a1b0829dba9ac68c4773899a00f6af273cae4af89e9d8d1804349473b09"
-    releasesEtag: W/"79651fc192c51169a8b7a64cc69193b57476cd28bde88e5b01b1cb92cb0e71ad"
+    repoEtag: W/"d4cb1257ba3e8b051a64f2e93aa456abcd42556f3411eb6436bf98e2e514625b"
+    releasesEtag: W/"cce91d3384bc02276bea8a6bf3cecfcb55f1ff0d031088c2d1897a4ca7fa43ab"
 discovery:
   method: pending-recheck
   confidence: 100

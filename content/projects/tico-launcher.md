@@ -17,7 +17,7 @@ license: null
 homepage: null
 source:
   provider: github
-  repository: JulioJCLF/tico-launcher
+  repository: JulioJCLF/TicoLauncher
   repositoryId: '1412252494'
   url: 'https://github.com/JulioJCLF/tico-launcher'
 repository:
@@ -30,15 +30,15 @@ latestRelease:
   tag: v0.1.0
   name: Tico v0.1.0
   publishedAt: '2026-10-09T19:44:41Z'
-  url: 'https://github.com/JulioJCLF/tico-launcher/releases/tag/v0.1.0'
+  url: 'https://github.com/JulioJCLF/TicoLauncher/releases/tag/v0.1.0'
 activity:
   lastChecked: '2026-10-09T21:17:32.469Z'
-  lastSynchronized: '2026-10-11T01:55:13.141Z'
+  lastSynchronized: '2026-10-16T01:22:18.867Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"243fbfd277ec5c2e5e767590a86fb66643c2c805eca494935e69ef3899fc6004"
-    releasesEtag: W/"984b6c052b11115fdf8aa9f20599f662b647f78ed3311a573883b791a08120e9"
+    repoEtag: W/"4127de1e212ba56a9c1f8f8b93bb95c104f0f16b307e757c47ea2c5add44e70a"
+    releasesEtag: W/"301b1f0c1b9c5394f4213d8abef628150c09631f481e57c65ef85efee109f217"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2026-02-04T15:04:55Z'
   url: 'https://github.com/zeyadamr198-sudo/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-11T01:54:38.380Z'
+  lastSynchronized: '2026-10-16T01:21:28.544Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"633a48f7ec478744fbf3a8fa18ce19ea6d253371b7925504bcd116b4d2383f53"
-    releasesEtag: W/"2a131672dca2ac202c073bad7061ed08b5a2057129f3512308787ed182f42119"
+    repoEtag: W/"df36bdf0e9cfd4931f2da28bbb32e2db6f7d35c64c3f556c4d3dc5694d3e44cc"
+    releasesEtag: W/"810c874a961aeb90bc14342b99b292c1cee5249eeea444222ecf584d37fbcd51"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

@@ -16,7 +16,7 @@ license: null
 homepage: null
 source:
   provider: github
-  repository: SkylarPlayz348/Open-PS2-Loader-lang
+  repository: fuzzyghosty/Open-PS2-Loader-lang
   repositoryId: '1017681752'
 repository:
   archived: false
@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-11T01:54:37.750Z'
+  lastSynchronized: '2026-10-16T01:21:26.935Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2854e6dbb1de38b8fdd17971d08e769e1f36359e289ac7572711f5bc02393cc6"
-    releasesEtag: '"ac5e4ae8e17df10693dc47caf88f169f6061baec32f3803eeb6c545ff33cac18"'
+    repoEtag: W/"cbfb341703f171e2acf0f95a8847ea40eb5015a4665663480d3937420cf5e2b8"
+    releasesEtag: '"b8b26189478e5c30a5fff0cc95b812faf64318eabab80070fa6484c1d6c80732"'
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader-lang'
   confidence: 95

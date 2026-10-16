@@ -15,26 +15,26 @@ license: MIT
 homepage: null
 source:
   provider: github
-  repository: NamasteJasutin/PS2BootInspectionTool
+  repository: NamasteJasutin/PSXBootInspectionTool
   repositoryId: '1410314022'
 repository:
   archived: false
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-10T21:12:44Z'
+  lastCommit: '2026-10-11T16:12:22Z'
 latestRelease:
-  tag: v1.1.0
-  name: PS2 Boot Inspection Tool v1.1.0
-  publishedAt: '2026-10-09T21:51:16Z'
-  url: 'https://github.com/NamasteJasutin/PS2BootInspectionTool/releases/tag/v1.1.0'
+  tag: v1.2.0
+  name: PSX Boot Inspection Tool v1.2.0
+  publishedAt: '2026-10-11T15:19:15Z'
+  url: 'https://github.com/NamasteJasutin/PSXBootInspectionTool/releases/tag/v1.2.0'
 activity:
-  lastSynchronized: '2026-10-11T01:54:56.147Z'
+  lastSynchronized: '2026-10-16T01:21:58.747Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a559b76004df59fdd87c59a06fd0976abfdb34a82b311c69202aa74d5cd81966"
-    releasesEtag: W/"135cca9365a9b9932c3360a3ead4db5bdbe2d2df0a442904a0eae7e3368a0da5"
+    repoEtag: W/"95dfaad803d4c77399e31f0656fc8862f785bf63a505fe8da9d2c50b6d4fbb07"
+    releasesEtag: W/"bb7f008dec00269cf172dbcd8ad0b607586303de7ccd2001c75f24e220460a84"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
