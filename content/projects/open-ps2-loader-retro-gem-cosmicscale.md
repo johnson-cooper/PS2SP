@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2024-06-21T19:01:27Z'
   url: 'https://github.com/CosmicScale/Open-PS2-Loader-Retro-GEM/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-10-13T21:15:36.327Z'
+  lastSynchronized: '2026-10-16T21:09:12.416Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"86412b0e92bbcb961343487a101e073a0c7c2c07c8df5a1b7aef98d18862799b"
-    releasesEtag: W/"1f5e6bf952858300331ebaadc9ed08cc9dcaeaadf62abe4d813755d0379c8e7a"
+    repoEtag: W/"0c84c5bd8f2c864550afb63934e66e7ee517e1031f2089479bf285cf3300b09c"
+    releasesEtag: W/"799e6b0b5782986e5d32cc7abdd985192cbfc78421c094f2d19e869cf1ceda4a"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

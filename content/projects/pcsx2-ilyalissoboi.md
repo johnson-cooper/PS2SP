@@ -20,19 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-09-13T09:18:24Z'
+  lastCommit: '2026-10-16T01:24:50Z'
 latestRelease:
-  tag: v2.9.45-sc1
-  name: PCSX2 v2.9.45-sc1 (librashader shader chain)
-  publishedAt: '2026-09-13T09:19:07Z'
-  url: 'https://github.com/ilyalissoboi/pcsx2/releases/tag/v2.9.45-sc1'
+  tag: v2.9.127-sc1
+  name: PCSX2 v2.9.127-sc1 (librashader shader chain)
+  publishedAt: '2026-10-16T01:33:41Z'
+  url: 'https://github.com/ilyalissoboi/pcsx2/releases/tag/v2.9.127-sc1'
 activity:
-  lastSynchronized: '2026-10-13T21:15:47.862Z'
+  lastSynchronized: '2026-10-16T21:09:20.766Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4bf0d97649485c85753a0de8d4b2fa56125b66a92652c12edb800398060bf805"
-    releasesEtag: W/"3bed6367aca500df6cfcf06e1fcc5f3b36789cff42bced04d76fb4d48ce010ff"
+    repoEtag: W/"b11407e8b4bef2d5258cd5943108beda1551879ef4da75fdb656cb751fcce7ac"
+    releasesEtag: W/"bbdc534c70eab9eed8db9ddc2ca1110d23f837d0e6479c9160b7c9463c41ce44"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

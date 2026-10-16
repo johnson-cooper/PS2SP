@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2026-10-02T06:12:29Z'
   url: 'https://github.com/PS2HomeDeveloper/ps2dev/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-10-13T21:16:11.204Z'
+  lastSynchronized: '2026-10-16T21:09:40.239Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"aac63b21630ce890e9ba2fb3a0f9da3171d023b7c55cd0eeae24753afe1ed5de"
-    releasesEtag: W/"63e449c3a3ebb55a81113d569ea478120359475e9ba8fe79c7ba6b26f18ce11c"
+    repoEtag: W/"19bea579a174aa2f7f52f00fa35cd704205057dec6f45a2edc1c1e65332a203f"
+    releasesEtag: W/"1430b1b4428e039bdc128c64f3de2706770def447557616b385b27e90d7b5cc9"
 discovery:
   method: 'fork-network:ps2dev/ps2dev'
   confidence: 100

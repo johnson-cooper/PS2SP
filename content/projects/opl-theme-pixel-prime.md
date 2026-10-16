@@ -27,12 +27,12 @@ latestRelease:
   url: 'https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/releases/tag/v1.3'
 activity:
   lastChecked: '2026-09-29T00:27:27.083Z'
-  lastSynchronized: '2026-10-13T21:15:42.750Z'
+  lastSynchronized: '2026-10-16T21:09:16.879Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d75e1d28d0dfb924a6d7175f7e5fc63923650143dd2bbeee896e5086c58a47a8"
-    releasesEtag: W/"31e1b168aa1be431a969cf44bd1e27f8740710a8a368b6a0a0d07217228882a4"
+    repoEtag: W/"844adfe75000a81eb1843ea3160298a7b20ab2e6873e0e49f8189bdceddb0a64"
+    releasesEtag: W/"4ae936d33e7bc459c545fc1e6a14ad9a1a2aa2d11f0c9ca9c6e668bba6ebc5e7"
 discovery:
   method: github-search
   confidence: 100

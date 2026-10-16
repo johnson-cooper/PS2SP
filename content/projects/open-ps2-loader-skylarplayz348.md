@@ -20,7 +20,7 @@ license: AFL-3.0
 homepage: null
 source:
   provider: github
-  repository: SkylarPlayz348/Open-PS2-Loader
+  repository: fuzzyghosty/Open-PS2-Loader
   repositoryId: '1015903920'
 repository:
   archived: false
@@ -32,14 +32,14 @@ latestRelease:
   tag: latest
   name: latest
   publishedAt: '2026-10-13T17:39:15Z'
-  url: 'https://github.com/SkylarPlayz348/Open-PS2-Loader/releases/tag/latest'
+  url: 'https://github.com/fuzzyghosty/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-13T21:15:37.098Z'
+  lastSynchronized: '2026-10-16T21:09:13.253Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5aa2b5a75c2829414566abd0b66907414af8dcf75571b99ddee7a93ee6f5ceeb"
-    releasesEtag: W/"0c32e779ad64edb6bf51feacb9b2ed3ab2c7865b6e651d374cd817c4423a3d80"
+    repoEtag: W/"0ee2e8536cccb9a5bb1e9dffe25364fea01922fcaa85cd0a88468d5a95991918"
+    releasesEtag: W/"b3c48f927693c57e88ec02f77c6756a1715fa2c18dcf7552baf92c60c23bbc93"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

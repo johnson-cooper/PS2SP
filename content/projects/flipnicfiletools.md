@@ -24,7 +24,7 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-10-13T16:31:23Z'
+  lastCommit: '2026-10-15T12:26:44Z'
 latestRelease:
   tag: 2.3.1
   name: Flipnic File Tools 2.31
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/MarkusMaal/FlipnicFileTools/releases/tag/2.3.1'
 activity:
   lastChecked: '2026-10-07T22:16:51.969Z'
-  lastSynchronized: '2026-10-13T21:15:01.609Z'
+  lastSynchronized: '2026-10-16T21:08:47.967Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c531ef5ad2ef3616fd6ac551efb6061a515d9a9168b66fe31353332b955a41e0"
-    releasesEtag: W/"71b176b6e3156228bf93e7cbed15b7e5fdf48b73c4712da12ba634bab43376d8"
+    repoEtag: W/"b2ca840713edf00a4cbb8df8c56ae770ae55714a4b90732c3547641c6d0ff521"
+    releasesEtag: W/"ed29b38b010a2d02411477817943f5ea02f0d94e406de218158449657e152ff7"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 90

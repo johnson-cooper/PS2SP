@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-07T16:52:47Z'
   url: 'https://github.com/rflpazini/OrbitPS2-Manager/releases/tag/nightly-rc'
 activity:
-  lastSynchronized: '2026-10-13T21:15:44.552Z'
+  lastSynchronized: '2026-10-16T21:09:18.059Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"007cf247e807d8c1c01d3fed9bfd03c2c8db42ae3c1cfb5f9a536dc45edfb19c"
-    releasesEtag: W/"713db8178defab84ef5b2f2c5c46d5f6312dbf4df775c8b24cc33b6c8f522481"
+    repoEtag: W/"963d99e1c78773d1423095d50a74d0d35ab154befb266d8a40feedb418ffb13f"
+    releasesEtag: W/"71dd4f4d1b9cdb41a5371e28c3c5073d4b6a1b6e5bc41f2813d1ac12a6e0cbd9"
 discovery:
   method: 'fork-network:Luden02/OrbitPS2-Manager'
   confidence: 95
