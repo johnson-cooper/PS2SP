@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2025-07-02T11:25:02Z'
   url: 'https://github.com/sharkwouter/ps2dev/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-14T17:11:47.842Z'
+  lastSynchronized: '2026-10-16T17:25:29.915Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"53b0a567708d53eeaa707deb97e3171255bece2b8bea02309893fa67871cabcd"
-    releasesEtag: W/"efdd603547c1e5729c8760f76ba0a2608daab8cd90e4d59be06b21285b806501"
+    repoEtag: W/"77f1e9ca0eecd14909221d9a99668183496890dcef4a9657bf61009c5253cdfc"
+    releasesEtag: W/"4ab4776ed177d4267f31ade8bedf4448a85219f3e854af9df741f654bbb2684e"
 discovery:
   method: 'fork-network:ps2dev/ps2dev'
   confidence: 100

@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2024-12-29T16:25:53Z'
   url: 'https://github.com/kacper-serewis/jak-project/releases/tag/v0.2.20'
 activity:
-  lastSynchronized: '2026-10-14T17:11:01.429Z'
+  lastSynchronized: '2026-10-16T17:24:42.028Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ca7f1bf785090fd8634b401f802d6e86c6d6735706c9957f7984f67efdd92fb5"
-    releasesEtag: W/"52b2387a7b985a529f5d1af61154321b22ad2d67e24965854769926f36905f22"
+    repoEtag: W/"cfcd6c49072144e68134dea97234565a276c253da6847b79047fe720a12d7c6c"
+    releasesEtag: W/"d446edfcbb1e6a50fb1a6f01c2378b930e19c561a2946708eeaae1e80ad338ca"
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95

@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2025-01-15T12:48:25Z'
   url: 'https://github.com/ps2-mmce/Open-PS2-Loader/releases/tag/OPL-MMCE-beta-2'
 activity:
-  lastSynchronized: '2026-10-14T17:11:22.872Z'
+  lastSynchronized: '2026-10-16T17:25:02.149Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"641f0085ad7da738abd40a48eab78248f1cafa128aad72664f391a61982184fd"
-    releasesEtag: W/"556e220329a181836609ba0d6c732824736090a8a34263618a3f4178d8515327"
+    repoEtag: W/"9121540f6d334af5ccd0b7a2fb1837d1f3a1afec561859ed22214ee0bb5a7ae0"
+    releasesEtag: W/"2d949274e4d5a199243dc5e0f221bf9e18366173f903319a2ef86350bd462705"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

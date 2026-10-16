@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-15T20:32:48.379Z'
+  lastSynchronized: '2026-10-16T17:25:25.604Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1281f1c2182d065cc2244e1c002a74c9d8ebf7ba8e66e8414d3107853c9af60d"
+    releasesEtag: '"aa824d245b8e153ed7212275965d1ff2eb25500a1c59fc8657ffaa74128ffda3"'
 discovery:
   method: 'fork-network:Tom-Bruise/PS2-OPL-CFG-Database'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: Tom-Bruise/PS2-OPL-CFG-Database
   source: VTSTech/PS2-OPL-CFG
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2023-10-24T00:36:12Z'
   url: 'https://github.com/mrjaredbeta/HDLGameInstaller/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-14T17:10:58.027Z'
+  lastSynchronized: '2026-10-16T17:24:38.356Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"09021847c7be9e8e559061de7c4176007358bdd2862d33b7cb8676f6e3a6bec2"
-    releasesEtag: W/"54b4f20de1489917ccddfcb62a9ef04fb2d9abcb12c968b0915624bfb294a01b"
+    repoEtag: W/"26bab96227c1cdb8a677d4a6e141b707c029e2ae2732caea81571bbe6cdef9e2"
+    releasesEtag: W/"11d323e6360db116300b7b0d14e465755846fd11134f209e314948476b591f4a"
 discovery:
   method: 'fork-network:ps2homebrew/HDLGameInstaller'
   confidence: 100
