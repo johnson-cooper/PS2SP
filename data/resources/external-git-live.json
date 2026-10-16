@@ -697,6 +697,18 @@
         ]
       },
       {
+        "name": "ps2/docs — branch: ps2-191-iop-driver-guide",
+        "url": "https://git.techwritescode.dev/ps2/docs/src/branch/ps2-191-iop-driver-guide",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/docs",
+          "ps2-191-iop-driver-guide"
+        ]
+      },
+      {
         "name": "ps2/freetype — branch: master",
         "url": "https://git.techwritescode.dev/ps2/freetype/src/branch/master",
         "keywords": [
@@ -4750,6 +4762,18 @@
           "branch",
           "ps2/sdk-core",
           "ps2-109-crash-screen"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core — branch: ps2-191-iop-driver-examples",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples"
         ]
       },
       {
@@ -21355,6 +21379,566 @@
           "nested project",
           "ps2/sdk-core",
           "ps2-109-crash-screen",
+          "core/iomanx"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/ahx",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/ahx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/ahx"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/apa",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/apa",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/apa"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/atad",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/atad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/atad"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/bdm",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/bdm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/bdm"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/bdmfs_fatfs",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/bdmfs_fatfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/bdmfs_fatfs"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/cdfs",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/cdfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/cdfs"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/cdvd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/cdvd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/cdvd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/cdvdfsv",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/cdvdfsv"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/crashscreen",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/crashscreen",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/crashscreen"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/debug",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/debug",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/debug"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/dev9",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/dev9",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/dev9"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/dma",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/dma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/dma"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/dmacman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/dmacman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/dmacman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/draw",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/draw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/draw"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/dvr",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/dvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/dvr"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/dvrfile",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/dvrfile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/dvrfile"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/dvrmisc",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/dvrmisc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/dvrmisc"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/eedebug",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/eedebug",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/eedebug"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/eesync",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/eesync",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/eesync"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/eesync-nano",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/eesync-nano",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/eesync-nano"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/elf-loader-nocolour",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/elf-loader-nocolour",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/elf-loader-nocolour"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/elf-loader2",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/elf-loader2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/elf-loader2"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/erl",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/erl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/erl"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/excepman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/excepman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/excepman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/extflash",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/extflash",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/extflash"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/filexio",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/filexio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/filexio"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/font",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/font",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/font"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/fs",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/fs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/fs"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/fs-osd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/fs-osd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/fs-osd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/graph",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/graph",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/graph"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/hdd-osd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/hdd-osd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/hdd-osd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/hdpro_atad",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/hdpro_atad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/hdpro_atad"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/heaplib",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/heaplib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/heaplib"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/IEEE1394_bd",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/IEEE1394_bd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/IEEE1394_bd"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/IEEE1394_bd_mini",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/IEEE1394_bd_mini",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/IEEE1394_bd_mini"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/iLinkman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/iLinkman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/iLinkman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/intrman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/intrman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/intrman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/intrmanp",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/intrmanp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/intrmanp"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/ioman",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/ioman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
+          "core/ioman"
+        ]
+      },
+      {
+        "name": "ps2/sdk-core@ps2-191-iop-driver-examples — core/iomanx",
+        "url": "https://git.techwritescode.dev/ps2/sdk-core/src/branch/ps2-191-iop-driver-examples/core/iomanx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/sdk-core",
+          "ps2-191-iop-driver-examples",
           "core/iomanx"
         ]
       },

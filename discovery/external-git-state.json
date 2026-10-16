@@ -597,7 +597,9 @@
     "https://git.techwritescode.dev/api/v1|ps2/llvm@r5900-unroll": "455c9cd951aa911a3b7d045f7b629e93377ffde5",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@bench-inflate": "27e2aedc0523c7c9611895543625d6cc12ff3f29",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-109-crash-screen": "9584005924f0df4b69676512f36d54352b4e4f2d",
-    "https://git.techwritescode.dev/api/v1|ps2/docs@optimization-guide": "bef7f5124f7c38028e58302eceee2bd896acb797"
+    "https://git.techwritescode.dev/api/v1|ps2/docs@optimization-guide": "bef7f5124f7c38028e58302eceee2bd896acb797",
+    "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-191-iop-driver-examples": "b2aeeb7918de5d90ae37628539881b4bccc2630a",
+    "https://git.techwritescode.dev/api/v1|ps2/docs@ps2-191-iop-driver-guide": "260b7809db334722c5393379080c846fb3e5c6e2"
   },
   "branchPage": {
     "https://git.techwritescode.dev/api/v1|ps2/ps2build": 2,
@@ -606,7 +608,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/toolchain": 2,
     "https://git.techwritescode.dev/api/v1|ps2/masp": 2,
     "https://git.techwritescode.dev/api/v1|ps2/openvcl": 2,
-    "https://git.techwritescode.dev/api/v1|ps2/newlib": 5,
+    "https://git.techwritescode.dev/api/v1|ps2/newlib": 6,
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded": 2,
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core": 2,
     "https://git.techwritescode.dev/api/v1|ps2/tools": 2,
@@ -680,18 +682,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-10-16T10:34:10.778Z",
+    "at": "2026-10-16T15:08:23.542Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 36,
-    "branchesChanged": 1,
-    "treesScanned": 1,
+    "branchesSeen": 132,
+    "branchesChanged": 2,
+    "treesScanned": 2,
     "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 0,
-    "nestedAdded": 0,
-    "requests": 84,
+    "branchesAdded": 2,
+    "nestedAdded": 40,
+    "requests": 79,
     "stoppedForBudget": false
   },
-  "queueCursor": 35
+  "queueCursor": 17
 }
