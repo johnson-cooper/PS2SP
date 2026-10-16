@@ -1,0 +1,16 @@
+{
+  "repository": "rafijordan4/AuloPS2",
+  "repositoryId": "1422072779",
+  "url": "https://github.com/rafijordan4/AuloPS2",
+  "description": "AuloPS2: PlayStation 2 emulator for Android (ARM64), landscape-first. A rebranded fork of ARMSX2/PCSX2. GPL-3.0.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-16T11:54:59.000Z",
+  "checkedAt": "2026-10-16T11:54:59.000Z"
+}
