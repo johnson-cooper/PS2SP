@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 225
-  forks: 17
-  lastCommit: '2026-10-11T19:09:10Z'
+  stars: 226
+  forks: 18
+  lastCommit: '2026-10-15T22:02:32Z'
 latestRelease:
   tag: latest
   name: latest build
-  publishedAt: '2026-10-11T19:09:19Z'
+  publishedAt: '2026-10-15T16:35:35Z'
   url: 'https://github.com/PeterDelta/PCSX2/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-13T07:43:16.222Z'
+  lastSynchronized: '2026-10-16T07:10:40.025Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f7b0704ba4e2302adb228be7e2a4fd761f991e2e5e33474fd5c8477dca2d6a03"
-    releasesEtag: W/"4fb0602d7b2d35863a73a552a73e5eca148f117e293306d20b52c26701953ea1"
+    repoEtag: W/"94cfda41f7931d982c733df281fe664ffd50df08b80e00986aa6c6b8100ebe39"
+    releasesEtag: W/"6bf8eb691d57dea6364f486fcc930461f4b60c69651af209ba8155b33ac04352"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2025-02-07T17:21:45Z'
   url: 'https://github.com/israpps/mmceman/releases/tag/popstarter'
 activity:
-  lastSynchronized: '2026-10-13T07:42:55.646Z'
+  lastSynchronized: '2026-10-16T07:10:17.147Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3e4e60a6fecaae603c0c643524cd683bbd77c158a44ab95b74ca0f692bb09d36"
-    releasesEtag: W/"89528146e66e49001a947e0b704f27e688a274dca8a1547c8bccb15b143505a8"
+    repoEtag: W/"37112ac2f80c318ff2f593c26daaec0a97e02cf20a471a951fd518621bf507e5"
+    releasesEtag: W/"286d4d058ffa5309ddb3555b235e50545d575c9380d3cc230aaa16eb46e5a161"
 discovery:
   method: 'fork-network:ps2-mmce/mmceman'
   confidence: 100

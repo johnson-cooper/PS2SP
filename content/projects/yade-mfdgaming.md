@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-03-06T07:36:20Z'
   url: 'https://github.com/MFDGaming/YADE/releases/tag/v1.0.7'
 activity:
-  lastSynchronized: '2026-10-13T07:43:49.798Z'
+  lastSynchronized: '2026-10-16T07:11:14.683Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c64bdf713291cf64d62039710c559768c67951335dfc2586eda60d59a7e95504"
-    releasesEtag: W/"52cbdfd99b05e06877c3b2536ee6bdaff404b76d1a5bd04a55249daba3104977"
+    repoEtag: W/"5a78739c6db09899711f5f7022252bfcc6c0ca7ecbafa14cbdc6e94cd347e96a"
+    releasesEtag: W/"0baf5b4c173d61acff499fac802aeba2d2de5ab98a0ea9a5dc57313e6ddf530b"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

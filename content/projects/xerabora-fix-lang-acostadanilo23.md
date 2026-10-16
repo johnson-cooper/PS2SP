@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-13T07:43:49.268Z'
+  lastSynchronized: '2026-10-16T07:11:14.125Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5ec077982118752f3e32fe5e6368bd532cf220cc41b4b9206e365454e6843695"
-    releasesEtag: '"8c07bad8e1c2ecd2ef35a081fceb234ce16794c9adbfbb34dc551b9fd5b3afea"'
+    repoEtag: W/"58fdefabd1461ad10a024348690969eede28dd00faa82155ea17c7c7b33300d7"
+    releasesEtag: '"905b2196f49e72ecedcad3f15b350e0049d325488467f2d0d7ec5244e92f9408"'
 discovery:
   method: 'fork-network:hacan359/xerabora'
   confidence: 100

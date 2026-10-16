@@ -14,8 +14,8 @@ tags:
   - fork
 features: []
 authors: []
-license: null
-homepage: null
+license: MIT
+homepage: 'https://decomp.wtf'
 source:
   provider: github
   repository: SynapticDreams/decomp.wtf
@@ -23,19 +23,23 @@ source:
   url: 'https://github.com/SynapticDreams/decomp.wtf'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-16T06:50:37Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.10.7
+  name: decomp.wtf v0.10.7
+  publishedAt: '2026-10-16T06:36:28Z'
+  url: 'https://github.com/SynapticDreams/decomp.wtf/releases/tag/v0.10.7'
 activity:
   lastChecked: '2026-10-16T06:23:09.688Z'
+  lastSynchronized: '2026-10-16T07:09:58.280Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"42ec1da131dbe3f4674ea05930d2aa971dab9a60bfe994ccf37636e220a2605a"
+    releasesEtag: W/"e27b9d94a3ecdaf4a9bd9405bdcdfb9b3fdd45a4819d5bfccd5a5292ccdb61a9"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75
@@ -51,5 +55,4 @@ relationships:
   forkOf: i12bp8/decomp.wtf
   source: i12bp8/decomp.wtf
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

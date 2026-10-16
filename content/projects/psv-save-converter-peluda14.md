@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-13T07:43:38.442Z'
+  lastSynchronized: '2026-10-16T07:11:03.318Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2997bd3b918afacc2a5cbf67dd42e914f63b77a6aaa3c5eaa8f964e9ed9118df"
-    releasesEtag: '"8c07bad8e1c2ecd2ef35a081fceb234ce16794c9adbfbb34dc551b9fd5b3afea"'
+    repoEtag: W/"9ebe6faca4cc166fda7b9def4e39fdac9ca6fdae41521f80cb7fbbdd584a2507"
+    releasesEtag: '"905b2196f49e72ecedcad3f15b350e0049d325488467f2d0d7ec5244e92f9408"'
 discovery:
   method: 'fork-network:bucanero/psv-save-converter'
   confidence: 95

@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-13T07:43:24.367Z'
+  lastSynchronized: '2026-10-16T07:10:48.758Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1a7a6d933798edcd4a6d15241996fce8055cfadacfead63d7a0c6b62b8dbf38e"
-    releasesEtag: '"8c07bad8e1c2ecd2ef35a081fceb234ce16794c9adbfbb34dc551b9fd5b3afea"'
+    repoEtag: W/"729fce38796a2928c8bd7a0af746fe7bddf958855770331f20a2944486109fa5"
+    releasesEtag: '"905b2196f49e72ecedcad3f15b350e0049d325488467f2d0d7ec5244e92f9408"'
 discovery:
   method: 'fork-network:ps2homebrew/OPL-Launcher'
   confidence: 95
