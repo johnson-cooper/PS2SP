@@ -793,6 +793,18 @@
         ]
       },
       {
+        "name": "ps2/llvm — branch: r3000a-load-delay",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r3000a-load-delay",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/llvm",
+          "r3000a-load-delay"
+        ]
+      },
+      {
         "name": "ps2/llvm — branch: r5900-ee",
         "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r5900-ee",
         "keywords": [
@@ -9017,6 +9029,202 @@
           "nested project",
           "ps2/llvm",
           "ps2-mc-fill-warning",
+          "bolt/test/Unit"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r3000a-load-delay — .ci/buildbot",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r3000a-load-delay/.ci/buildbot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r3000a-load-delay",
+          ".ci/buildbot"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r3000a-load-delay — bolt",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r3000a-load-delay/bolt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r3000a-load-delay",
+          "bolt"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r3000a-load-delay — bolt/cmake/modules",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r3000a-load-delay/bolt/cmake/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r3000a-load-delay",
+          "bolt/cmake/modules"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r3000a-load-delay — bolt/docs",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r3000a-load-delay/bolt/docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r3000a-load-delay",
+          "bolt/docs"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r3000a-load-delay — bolt/lib",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r3000a-load-delay/bolt/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r3000a-load-delay",
+          "bolt/lib"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r3000a-load-delay — bolt/lib/Core",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r3000a-load-delay/bolt/lib/Core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r3000a-load-delay",
+          "bolt/lib/Core"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r3000a-load-delay — bolt/lib/Passes",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r3000a-load-delay/bolt/lib/Passes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r3000a-load-delay",
+          "bolt/lib/Passes"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r3000a-load-delay — bolt/lib/Profile",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r3000a-load-delay/bolt/lib/Profile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r3000a-load-delay",
+          "bolt/lib/Profile"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r3000a-load-delay — bolt/lib/Rewrite",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r3000a-load-delay/bolt/lib/Rewrite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r3000a-load-delay",
+          "bolt/lib/Rewrite"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r3000a-load-delay — bolt/lib/RuntimeLibs",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r3000a-load-delay/bolt/lib/RuntimeLibs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r3000a-load-delay",
+          "bolt/lib/RuntimeLibs"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r3000a-load-delay — bolt/lib/Utils",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r3000a-load-delay/bolt/lib/Utils",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r3000a-load-delay",
+          "bolt/lib/Utils"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r3000a-load-delay — bolt/runtime",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r3000a-load-delay/bolt/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r3000a-load-delay",
+          "bolt/runtime"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r3000a-load-delay — bolt/test",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r3000a-load-delay/bolt/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r3000a-load-delay",
+          "bolt/test"
+        ]
+      },
+      {
+        "name": "ps2/llvm@r3000a-load-delay — bolt/test/Unit",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/r3000a-load-delay/bolt/test/Unit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "r3000a-load-delay",
           "bolt/test/Unit"
         ]
       },
