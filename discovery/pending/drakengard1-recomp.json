@@ -1,0 +1,16 @@
+{
+  "repository": "k1gs/drakengard1-recomp",
+  "repositoryId": "1422398000",
+  "url": "https://github.com/k1gs/drakengard1-recomp",
+  "description": "Preparation and research for Drakengard (PS2, Europe) static recompilation. No game data or playable build.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-16T16:57:57.764Z",
+  "checkedAt": "2026-10-16T16:57:57.764Z"
+}
