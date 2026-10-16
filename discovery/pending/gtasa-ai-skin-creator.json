@@ -1,0 +1,16 @@
+{
+  "repository": "cambalacherp/gtasa-ai-skin-creator",
+  "repositoryId": "1421442046",
+  "url": "https://github.com/cambalacherp/gtasa-ai-skin-creator",
+  "description": "Tools and resources for creating and validating PlayStation 2–style GTA: San Andreas skins compatible with SA-MP and open.mp.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-16T01:39:51.910Z",
+  "checkedAt": "2026-10-16T01:39:51.910Z"
+}
