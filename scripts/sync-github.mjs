@@ -74,13 +74,18 @@ async function github(endpoint, etag = null) {
     return { status: 304, etag: nextEtag, data: null };
   }
 
-  if (response.status === 404) return { status: 404, etag: nextEtag, data: null };
+  if (response.status === 404 || response.status === 409 || response.status === 410 || response.status === 451) {
+    return { status: response.status, etag: nextEtag, data: null };
+  }
 
   if (response.status === 403 || response.status === 429) {
     const body = await response.clone().text();
     if (response.status === 429 || remaining === 0 || /rate limit|secondary rate/i.test(body)) {
       const reset = resetRaw ? new Date(Number(resetRaw) * 1000).toISOString() : "a later GitHub window";
       throw new SyncBudgetStop(`GitHub API throttled sync after ${requestCount} requests; reset: ${reset}.`);
+    }
+    if (/blocked|unavailable|disabled|forbidden/i.test(body)) {
+      return { status: response.status, etag: nextEtag, data: null };
     }
   }
 
@@ -152,9 +157,9 @@ for (const name of names) {
       forceRefresh ? null : (data.automation.github.releasesEtag ?? null)
     );
 
-    if (repoResult.status === 404) {
+    if ([404, 409, 410, 451].includes(repoResult.status) || repoResult.data == null) {
       unavailable++;
-      console.warn(`${data.name}: upstream repository unavailable`);
+      console.warn(`${data.name}: upstream repository unavailable (${repoResult.status})`);
       continue;
     }
 

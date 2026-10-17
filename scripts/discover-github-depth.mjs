@@ -51,11 +51,20 @@ async function github(endpoint) {
 
   requestCount++;
   const response = await fetch(`https://api.github.com${endpoint}`, { headers });
-  if (response.status === 404) return null;
+  if (response.status === 404 || response.status === 409 || response.status === 410 || response.status === 451) {
+    return null;
+  }
 
   const remaining = Number.parseInt(response.headers.get("x-ratelimit-remaining") ?? "", 10);
-  if ((response.status === 403 || response.status === 429) && Number.isFinite(remaining) && remaining <= CORE_RESERVE) {
-    throw new BudgetStop(`GitHub depth discovery stopped at rate-limit reserve (${remaining}).`);
+  if (response.status === 403 || response.status === 429) {
+    const body = await response.clone().text();
+    if (response.status === 429 || (Number.isFinite(remaining) && remaining <= CORE_RESERVE) || /rate limit|secondary rate/i.test(body)) {
+      throw new BudgetStop(`GitHub depth discovery stopped at rate-limit reserve (${remaining}).`);
+    }
+    if (/blocked|unavailable|disabled|forbidden/i.test(body)) {
+      console.warn(`::warning::GitHub API blocked query: ${endpoint}`);
+      return null;
+    }
   }
   if (!response.ok) {
     throw new Error(`GitHub API ${response.status}: ${await response.text()}`);
@@ -298,86 +307,91 @@ try {
     queue.push(repository);
     repositoriesScanned++;
 
-    const deepPage = Math.max(2, Number(state.nextBranchPage[repository]) || 2);
-    const pageTargets = [...new Set([1, deepPage].slice(0, BRANCH_PAGES_PER_REPO))];
-    const branches = new Map();
-    let deepestPageHadFullResults = false;
+    try {
+      const deepPage = Math.max(2, Number(state.nextBranchPage[repository]) || 2);
+      const pageTargets = [...new Set([1, deepPage].slice(0, BRANCH_PAGES_PER_REPO))];
+      const branches = new Map();
+      let deepestPageHadFullResults = false;
 
-    for (const page of pageTargets) {
-      const response = await github(`/repos/${repository}/branches?per_page=100&page=${page}`);
-      if (!Array.isArray(response)) continue;
-      if (page === deepPage) deepestPageHadFullResults = response.length === 100;
-      for (const branch of response) {
-        if (branch?.name && branch?.commit?.sha) branches.set(branch.name, branch);
-      }
-    }
-
-    state.nextBranchPage[repository] = deepestPageHadFullResults ? deepPage + 1 : 2;
-
-    for (const branch of branches.values()) {
-      branchesSeen++;
-      const name = branch.name;
-      const sha = branch.commit.sha;
-      const bUrl = branchUrl(repository, name);
-      upsertLink(branchGroup, {
-        name: `${repository} — branch: ${name}`,
-        url: bUrl,
-        keywords: ["PS2", "PlayStation 2", "GitHub", "branch", "repository", repository, name]
-      });
-
-      const headKey = `${repository}@${name}`;
-      if (state.branchHeads[headKey] === sha) continue;
-      if (treesScanned >= CHANGED_BRANCH_TREES_PER_RUN) continue;
-
-      const tree = await github(`/repos/${repository}/git/trees/${sha}?recursive=1`);
-      if (!tree?.tree) continue;
-
-      treesScanned++;
-      branchesChanged++;
-
-      const nested = discoverNestedPaths(tree.tree);
-      for (const dir of [...nested.directories, ...nested.gitlinks]) {
-        const added = upsertLink(nestedGroup, {
-          name: `${repository}@${name} — ${dir}`,
-          url: treePathUrl(repository, name, dir),
-          keywords: [
-            "PS2", "PlayStation 2", "GitHub", "branch", "nested project", "repository internals",
-            repository, name, dir, ...(nested.gitlinks.includes(dir) ? ["gitlink", "submodule"] : [])
-          ]
-        });
-        if (added) nestedAdded++;
-      }
-
-      const gitmoduleFiles = tree.tree.filter((item) =>
-        item?.type === "blob" &&
-        String(item.path ?? "").split("/").at(-1) === ".gitmodules"
-      ).slice(0, 3);
-
-      for (const item of gitmoduleFiles) {
-        const blob = await github(`/repos/${repository}/git/blobs/${item.sha}`);
-        if (!blob?.content) continue;
-
-        const decoded = Buffer.from(String(blob.content).replace(/\n/g, ""), "base64").toString("utf8");
-        for (const submodule of parseGitmodules(decoded)) {
-          const target = normalizeGitUrl(submodule.url, repository);
-          const pathLabel = submodule.path ?? submodule.name ?? "submodule";
-          const targetUrl = target ?? treePathUrl(repository, name, pathLabel);
-          const added = upsertLink(submoduleGroup, {
-            name: `${repository}@${name} — submodule: ${pathLabel}`,
-            url: targetUrl,
-            keywords: [
-              "PS2", "PlayStation 2", "GitHub", "submodule", "nested repository",
-              repository, name, pathLabel, submodule.url ?? ""
-            ].filter(Boolean)
-          });
-          if (added) submodulesAdded++;
+      for (const page of pageTargets) {
+        const response = await github(`/repos/${repository}/branches?per_page=100&page=${page}`);
+        if (!Array.isArray(response)) continue;
+        if (page === deepPage) deepestPageHadFullResults = response.length === 100;
+        for (const branch of response) {
+          if (branch?.name && branch?.commit?.sha) branches.set(branch.name, branch);
         }
       }
 
-      state.branchHeads[headKey] = sha;
-    }
+      state.nextBranchPage[repository] = deepestPageHadFullResults ? deepPage + 1 : 2;
 
-    console.log(`depth ${repository}: ${branches.size} branch(es) seen`);
+      for (const branch of branches.values()) {
+        branchesSeen++;
+        const name = branch.name;
+        const sha = branch.commit.sha;
+        const bUrl = branchUrl(repository, name);
+        upsertLink(branchGroup, {
+          name: `${repository} — branch: ${name}`,
+          url: bUrl,
+          keywords: ["PS2", "PlayStation 2", "GitHub", "branch", "repository", repository, name]
+        });
+
+        const headKey = `${repository}@${name}`;
+        if (state.branchHeads[headKey] === sha) continue;
+        if (treesScanned >= CHANGED_BRANCH_TREES_PER_RUN) continue;
+
+        const tree = await github(`/repos/${repository}/git/trees/${sha}?recursive=1`);
+        if (!tree?.tree) continue;
+
+        treesScanned++;
+        branchesChanged++;
+
+        const nested = discoverNestedPaths(tree.tree);
+        for (const dir of [...nested.directories, ...nested.gitlinks]) {
+          const added = upsertLink(nestedGroup, {
+            name: `${repository}@${name} — ${dir}`,
+            url: treePathUrl(repository, name, dir),
+            keywords: [
+              "PS2", "PlayStation 2", "GitHub", "branch", "nested project", "repository internals",
+              repository, name, dir, ...(nested.gitlinks.includes(dir) ? ["gitlink", "submodule"] : [])
+            ]
+          });
+          if (added) nestedAdded++;
+        }
+
+        const gitmoduleFiles = tree.tree.filter((item) =>
+          item?.type === "blob" &&
+          String(item.path ?? "").split("/").at(-1) === ".gitmodules"
+        ).slice(0, 3);
+
+        for (const item of gitmoduleFiles) {
+          const blob = await github(`/repos/${repository}/git/blobs/${item.sha}`);
+          if (!blob?.content) continue;
+
+          const decoded = Buffer.from(String(blob.content).replace(/\n/g, ""), "base64").toString("utf8");
+          for (const submodule of parseGitmodules(decoded)) {
+            const target = normalizeGitUrl(submodule.url, repository);
+            const pathLabel = submodule.path ?? submodule.name ?? "submodule";
+            const targetUrl = target ?? treePathUrl(repository, name, pathLabel);
+            const added = upsertLink(submoduleGroup, {
+              name: `${repository}@${name} — submodule: ${pathLabel}`,
+              url: targetUrl,
+              keywords: [
+                "PS2", "PlayStation 2", "GitHub", "submodule", "nested repository",
+                repository, name, pathLabel, submodule.url ?? ""
+              ].filter(Boolean)
+            });
+            if (added) submodulesAdded++;
+          }
+        }
+
+        state.branchHeads[headKey] = sha;
+      }
+
+      console.log(`depth ${repository}: ${branches.size} branch(es) seen`);
+    } catch (error) {
+      if (error instanceof BudgetStop) throw error;
+      console.warn(`::warning::depth ${repository} failed: ${error.message}`);
+    }
   }
 } catch (error) {
   if (error instanceof BudgetStop) {

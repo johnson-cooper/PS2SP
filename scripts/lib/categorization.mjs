@@ -468,6 +468,8 @@ export const KNOWN_UPSTREAM_CATEGORIES = {
   "ShyavanS/NTPS2": ["networking", "utilities"],
   "NathanNeurotic/PS2-Servers": ["networking", "host-tools"],
   "jeddyhhh/TW04OnlineServer": ["networking", "preservation"],
+  "curi0us/mgops": ["networking", "preservation"],
+  "HarpyWar/nfsuserver": ["networking", "preservation"],
   "dev4546b/ps2-lan-tunnel": ["networking", "host-tools"],
   "PSRewired/Memdusa": ["networking", "boot-tools"],
   "NathanNeurotic/Memdusa": ["networking", "boot-tools"],

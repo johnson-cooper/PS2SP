@@ -104652,6 +104652,3724 @@
           "pstef/binutils-gdb",
           "master"
         ]
+      },
+      {
+        "name": "pstef/nhddl — branch: main",
+        "url": "https://github.com/pstef/nhddl/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pstef/nhddl",
+          "main"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: add-fakeroots-dir",
+        "url": "https://github.com/psxdev/newlib/tree/add-fakeroots-dir",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "add-fakeroots-dir"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: arc-20081103-branch",
+        "url": "https://github.com/psxdev/newlib/tree/arc-20081103-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "arc-20081103-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: arc-insight_6_8-branch",
+        "url": "https://github.com/psxdev/newlib/tree/arc-insight_6_8-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "arc-insight_6_8-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-2_10-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_10-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-2_10-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-2_11-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_11-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-2_11-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-2_12-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_12-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-2_12-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-2_13-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_13-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-2_13-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-2_14-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_14-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-2_14-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-2_15-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_15-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-2_15-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-2_16-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_16-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-2_16-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-2_17-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_17-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-2_17-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-2_18-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_18-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-2_18-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-2_19-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_19-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-2_19-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-2_20-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_20-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-2_20-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-2_21-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_21-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-2_21-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-2_22_branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_22_branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-2_22_branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-2_22-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_22-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-2_22-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-2_23-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_23-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-2_23-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-2_24-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_24-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-2_24-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-arc-20080908-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-arc-20080908-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-arc-20080908-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-arc-20081103-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-arc-20081103-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-arc-20081103-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-csl-2_17-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-csl-2_17-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-csl-2_17-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-csl-arm-2005q1-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-csl-arm-2005q1-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-csl-arm-2005q1-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: binutils-csl-gxxpro-3_4-branch",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-csl-gxxpro-3_4-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "binutils-csl-gxxpro-3_4-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cagney_bfdfile-20040213-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_bfdfile-20040213-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cagney_bfdfile-20040213-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cagney_bigcore-20040122-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_bigcore-20040122-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cagney_bigcore-20040122-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cagney_convert-20030606-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_convert-20030606-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cagney_convert-20030606-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cagney_fileio-20030521-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_fileio-20030521-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cagney_fileio-20030521-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cagney_frameaddr-20030403-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_frameaddr-20030403-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cagney_frameaddr-20030403-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cagney_framebase-20030326-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_framebase-20030326-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cagney_framebase-20030326-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cagney_lazyid-20030317-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_lazyid-20030317-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cagney_lazyid-20030317-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cagney_offbyone-20030303-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_offbyone-20030303-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cagney_offbyone-20030303-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cagney_regbuf-20020515-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_regbuf-20020515-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cagney_regbuf-20020515-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cagney_sysregs-20020825-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_sysregs-20020825-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cagney_sysregs-20020825-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cagney_tramp-20040309-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_tramp-20040309-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cagney_tramp-20040309-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cagney_writestrings-20030508-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_writestrings-20030508-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cagney_writestrings-20030508-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cagney_x86i386-20030821-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_x86i386-20030821-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cagney_x86i386-20030821-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cagney-unwind-20030108-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cagney-unwind-20030108-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cagney-unwind-20030108-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: callout",
+        "url": "https://github.com/psxdev/newlib/tree/callout",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "callout"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: carlton_dictionary-branch",
+        "url": "https://github.com/psxdev/newlib/tree/carlton_dictionary-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "carlton_dictionary-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cgen-1_1-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cgen-1_1-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cgen-1_1-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cgf-deleteme",
+        "url": "https://github.com/psxdev/newlib/tree/cgf-deleteme",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cgf-deleteme"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cgf-dev-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cgf-dev-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cgf-dev-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cr-0x3b58",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x3b58",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cr-0x3b58"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cr-0x5e6",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x5e6",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cr-0x5e6"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cr-0x5ef",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x5ef",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cr-0x5ef"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cr-0x5f1",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x5f1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cr-0x5f1"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cr-0x9b",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9b",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cr-0x9b"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cr-0x9c",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9c",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cr-0x9c"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cr-0x9d",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9d",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cr-0x9d"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cr-0x9e",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9e",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cr-0x9e"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: csl-arm-20050325-branch",
+        "url": "https://github.com/psxdev/newlib/tree/csl-arm-20050325-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "csl-arm-20050325-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cv-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cv-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cv-branch-2",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cv-branch-2"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cv-post-1_7_9",
+        "url": "https://github.com/psxdev/newlib/tree/cv-post-1_7_9",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cv-post-1_7_9"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygnus",
+        "url": "https://github.com/psxdev/newlib/tree/cygnus",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygnus"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin_daemon",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin_daemon",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin_daemon"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1_7_29-release-branchpoint",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1_7_29-release-branchpoint",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1_7_29-release-branchpoint"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-1-4",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-1-4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-1-4"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-1",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-1"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-10-1",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-10-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-10-1"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-11-3",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-11-3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-11-3"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-12-1",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-12-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-12-1"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-13-1",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-13-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-13-1"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-13-2",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-13-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-13-2"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-14-1",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-14-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-14-1"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-15-1",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-15-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-15-1"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-16-1",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-16-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-16-1"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-17-1",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-17-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-17-1"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-18-1",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-18-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-18-1"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-19-1",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-19-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-19-1"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-2",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-2"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-3",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-3"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-4",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-4"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-5",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-5",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-5"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-5-2",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-5-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-5-2"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-5-3",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-5-3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-5-3"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-6-1",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-6-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-6-1"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-6-2",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-6-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-6-2"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-6-3",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-6-3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-6-3"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-6-4",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-6-4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-6-4"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-6-5",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-6-5",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-6-5"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-6-6",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-6-6",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-6-6"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-7-1",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-7-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-7-1"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-8-1",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-8-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-8-1"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-1-3-9",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-9",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-1-3-9"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-2.0",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-2.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-2.0"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-3_0-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-3_0-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-3_0-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-64bit-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-64bit-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-64bit-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-64bit-premerge-branch",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-64bit-premerge-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-64bit-premerge-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: cygwin-acl",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-acl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "cygwin-acl"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: dje-cgen-play1-branch",
+        "url": "https://github.com/psxdev/newlib/tree/dje-cgen-play1-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "dje-cgen-play1-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: drow_intercu-20040221-branch",
+        "url": "https://github.com/psxdev/newlib/tree/drow_intercu-20040221-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "drow_intercu-20040221-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: drow-cplus-branch",
+        "url": "https://github.com/psxdev/newlib/tree/drow-cplus-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "drow-cplus-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: drow-reverse-20070409-branch",
+        "url": "https://github.com/psxdev/newlib/tree/drow-reverse-20070409-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "drow-reverse-20070409-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: ee-v4.0.0",
+        "url": "https://github.com/psxdev/newlib/tree/ee-v4.0.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "ee-v4.0.0"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: ee-v4.1.0",
+        "url": "https://github.com/psxdev/newlib/tree/ee-v4.1.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "ee-v4.1.0"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: ezannoni_pie-20030916-branch",
+        "url": "https://github.com/psxdev/newlib/tree/ezannoni_pie-20030916-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "ezannoni_pie-20030916-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: ezannoni_pie-20040323-branch",
+        "url": "https://github.com/psxdev/newlib/tree/ezannoni_pie-20040323-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "ezannoni_pie-20040323-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: fifo_doover3",
+        "url": "https://github.com/psxdev/newlib/tree/fifo_doover3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "fifo_doover3"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: fp-zeuch",
+        "url": "https://github.com/psxdev/newlib/tree/fp-zeuch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "fp-zeuch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_5_0-2000-04-10-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_5_0-2000-04-10-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_5_0-2000-04-10-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_5_1_0_1-2002-01-03-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_5_1_0_1-2002-01-03-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_5_1_0_1-2002-01-03-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_5_1-2001-07-29-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_5_1-2001-07-29-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_5_1-2001-07-29-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_5_2-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_5_2-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_5_2-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_5_3-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_5_3-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_5_3-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_6_0-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_6_0-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_6_0-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_6_1-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_6_1-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_6_1-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_6_2-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_6_2-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_6_2-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_6_3-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_6_3-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_6_3-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_6_4-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_6_4-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_6_4-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_6_5-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_6_5-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_6_5-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_6_6-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_6_6-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_6_6-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_6_7-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_6_7-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_6_7-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_6_8-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_6_8-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_6_8-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_7_0-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_7_0-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_7_0-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_7_1-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_7_1-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_7_1-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_7_2-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_7_2-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_7_2-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_7_3-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_7_3-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_7_3-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_7_4-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_7_4-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_7_4-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_7_5-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_7_5-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_7_5-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_7_6-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_7_6-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_7_6-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb_s390-2001-09-26-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb_s390-2001-09-26-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb_s390-2001-09-26-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb-csl-20060226-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb-csl-20060226-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb-csl-20060226-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb-csl-arm-20051020-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb-csl-arm-20051020-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb-csl-arm-20051020-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb-csl-available-20060303-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb-csl-available-20060303-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb-csl-available-20060303-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb-csl-gxxpro-6_3-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb-csl-gxxpro-6_3-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb-csl-gxxpro-6_3-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb-csl-symbian-20060226-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb-csl-symbian-20060226-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb-csl-symbian-20060226-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gdb-premipsmulti-2000-06-06-branch",
+        "url": "https://github.com/psxdev/newlib/tree/gdb-premipsmulti-2000-06-06-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gdb-premipsmulti-2000-06-06-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: gh",
+        "url": "https://github.com/psxdev/newlib/tree/gh",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "gh"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: insight_6_8-branch",
+        "url": "https://github.com/psxdev/newlib/tree/insight_6_8-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "insight_6_8-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: interps-20030202-branch",
+        "url": "https://github.com/psxdev/newlib/tree/interps-20030202-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "interps-20030202-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: jimb-gdb_6_2-e500-branch",
+        "url": "https://github.com/psxdev/newlib/tree/jimb-gdb_6_2-e500-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "jimb-gdb_6_2-e500-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: jimb-macro-020506-branch",
+        "url": "https://github.com/psxdev/newlib/tree/jimb-macro-020506-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "jimb-macro-020506-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: jimb-ppc64-linux-20030509-branch",
+        "url": "https://github.com/psxdev/newlib/tree/jimb-ppc64-linux-20030509-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "jimb-ppc64-linux-20030509-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: jimb-ppc64-linux-20030528-branch",
+        "url": "https://github.com/psxdev/newlib/tree/jimb-ppc64-linux-20030528-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "jimb-ppc64-linux-20030528-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: jimb-ppc64-linux-20030613-branch",
+        "url": "https://github.com/psxdev/newlib/tree/jimb-ppc64-linux-20030613-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "jimb-ppc64-linux-20030613-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: jimb-rda-nptl-branch",
+        "url": "https://github.com/psxdev/newlib/tree/jimb-rda-nptl-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "jimb-rda-nptl-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: kettenis_i386newframe-20030406-branch",
+        "url": "https://github.com/psxdev/newlib/tree/kettenis_i386newframe-20030406-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "kettenis_i386newframe-20030406-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: kettenis_i386newframe-20030419-branch",
+        "url": "https://github.com/psxdev/newlib/tree/kettenis_i386newframe-20030419-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "kettenis_i386newframe-20030419-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: kettenis_sparc-20030918-branch",
+        "url": "https://github.com/psxdev/newlib/tree/kettenis_sparc-20030918-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "kettenis_sparc-20030918-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: kettenis-i386newframe-20030308-branch",
+        "url": "https://github.com/psxdev/newlib/tree/kettenis-i386newframe-20030308-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "kettenis-i386newframe-20030308-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: kseitz_interps-20020528-branch",
+        "url": "https://github.com/psxdev/newlib/tree/kseitz_interps-20020528-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "kseitz_interps-20020528-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: master",
+        "url": "https://github.com/psxdev/newlib/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "master"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: mingw-std-ns-branch",
+        "url": "https://github.com/psxdev/newlib/tree/mingw-std-ns-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "mingw-std-ns-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: mingwex",
+        "url": "https://github.com/psxdev/newlib/tree/mingwex",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "mingwex"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: msnyder-checkpoint-072509-branch",
+        "url": "https://github.com/psxdev/newlib/tree/msnyder-checkpoint-072509-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "msnyder-checkpoint-072509-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: msnyder-fork-checkpoint-branch",
+        "url": "https://github.com/psxdev/newlib/tree/msnyder-fork-checkpoint-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "msnyder-fork-checkpoint-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: msnyder-reverse-20060331-branch",
+        "url": "https://github.com/psxdev/newlib/tree/msnyder-reverse-20060331-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "msnyder-reverse-20060331-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: msnyder-reverse-20060502-branch",
+        "url": "https://github.com/psxdev/newlib/tree/msnyder-reverse-20060502-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "msnyder-reverse-20060502-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: msnyder-reverse-20080609-branch",
+        "url": "https://github.com/psxdev/newlib/tree/msnyder-reverse-20080609-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "msnyder-reverse-20080609-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: msnyder-tracepoint-checkpoint-branch",
+        "url": "https://github.com/psxdev/newlib/tree/msnyder-tracepoint-checkpoint-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "msnyder-tracepoint-checkpoint-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: multiprocess-20081120-branch",
+        "url": "https://github.com/psxdev/newlib/tree/multiprocess-20081120-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "multiprocess-20081120-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: newlib-1_17_0-arc",
+        "url": "https://github.com/psxdev/newlib/tree/newlib-1_17_0-arc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "newlib-1_17_0-arc"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: newlib-autotools-branch",
+        "url": "https://github.com/psxdev/newlib/tree/newlib-autotools-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "newlib-autotools-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: newlib-csl-20060320-branch",
+        "url": "https://github.com/psxdev/newlib/tree/newlib-csl-20060320-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "newlib-csl-20060320-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: nickrob-async-20060513-branch",
+        "url": "https://github.com/psxdev/newlib/tree/nickrob-async-20060513-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "nickrob-async-20060513-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: noreparent",
+        "url": "https://github.com/psxdev/newlib/tree/noreparent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "noreparent"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: offbyone-20030313-branch",
+        "url": "https://github.com/psxdev/newlib/tree/offbyone-20030313-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "offbyone-20030313-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: pre-regex",
+        "url": "https://github.com/psxdev/newlib/tree/pre-regex",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "pre-regex"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: pregp02r1",
+        "url": "https://github.com/psxdev/newlib/tree/pregp02r1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "pregp02r1"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: readline_4_3-import-branch",
+        "url": "https://github.com/psxdev/newlib/tree/readline_4_3-import-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "readline_4_3-import-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: readline_5_1-import-branch",
+        "url": "https://github.com/psxdev/newlib/tree/readline_5_1-import-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "readline_5_1-import-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: reverse-20080717-branch",
+        "url": "https://github.com/psxdev/newlib/tree/reverse-20080717-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "reverse-20080717-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: reverse-20080930-branch",
+        "url": "https://github.com/psxdev/newlib/tree/reverse-20080930-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "reverse-20080930-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: reverse-20081226-branch",
+        "url": "https://github.com/psxdev/newlib/tree/reverse-20081226-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "reverse-20081226-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: sid-20020905-branch",
+        "url": "https://github.com/psxdev/newlib/tree/sid-20020905-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "sid-20020905-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: signal-rewrite",
+        "url": "https://github.com/psxdev/newlib/tree/signal-rewrite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "signal-rewrite"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: tcltk840-20020924-branch",
+        "url": "https://github.com/psxdev/newlib/tree/tcltk840-20020924-branch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "tcltk840-20020924-branch"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: topic/af_unix",
+        "url": "https://github.com/psxdev/newlib/tree/topic/af_unix",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "topic/af_unix"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: topic/ansification",
+        "url": "https://github.com/psxdev/newlib/tree/topic/ansification",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "topic/ansification"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: topic/fifo",
+        "url": "https://github.com/psxdev/newlib/tree/topic/fifo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "topic/fifo"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: topic/forkables",
+        "url": "https://github.com/psxdev/newlib/tree/topic/forkables",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "topic/forkables"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: topic/locales",
+        "url": "https://github.com/psxdev/newlib/tree/topic/locales",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "topic/locales"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: topic/posix_acl_funcs",
+        "url": "https://github.com/psxdev/newlib/tree/topic/posix_acl_funcs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "topic/posix_acl_funcs"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: topic/serial_io",
+        "url": "https://github.com/psxdev/newlib/tree/topic/serial_io",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "topic/serial_io"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: topic/ssp",
+        "url": "https://github.com/psxdev/newlib/tree/topic/ssp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "topic/ssp"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.1.1.1.2",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.1.1.1.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.1.1.1.2"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.11.2",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.11.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.11.2"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.12.20",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.12.20",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.12.20"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.12.30",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.12.30",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.12.30"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.12.4",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.12.4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.12.4"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.13.10",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.13.10",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.13.10"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.13.2",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.13.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.13.2"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.13.30",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.13.30",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.13.30"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.13.4",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.13.4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.13.4"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.15.10",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.15.10",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.15.10"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.15.2",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.15.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.15.2"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.17.2",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.17.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.17.2"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.17.4",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.17.4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.17.4"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.18.10",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.18.10",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.18.10"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.18.2",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.18.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.18.2"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.19.12",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.19.12",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.19.12"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.2.2",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.2.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.2.2"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.20.4",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.20.4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.20.4"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.21.2",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.21.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.21.2"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.5.16",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.5.16",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.5.16"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.5.2",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.5.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.5.2"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: unlabeled-1.8.2",
+        "url": "https://github.com/psxdev/newlib/tree/unlabeled-1.8.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "unlabeled-1.8.2"
+        ]
+      },
+      {
+        "name": "psxdev/newlib — branch: Z-emcb-cygwin_daemon",
+        "url": "https://github.com/psxdev/newlib/tree/Z-emcb-cygwin_daemon",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/newlib",
+          "Z-emcb-cygwin_daemon"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: dev/0.4.0-michishirube",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/dev/0.4.0-michishirube",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "dev/0.4.0-michishirube"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: docs/pcsx2-video-validation",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/docs/pcsx2-video-validation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "docs/pcsx2-video-validation"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: feature/extended-video-modes",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/feature/extended-video-modes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "feature/extended-video-modes"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: feature/hdl-game-installer",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/feature/hdl-game-installer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "feature/hdl-game-installer"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: feature/scalable-gs-fonts",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/feature/scalable-gs-fonts",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "feature/scalable-gs-fonts"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: fix/native-rebootstrap-dev5",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/fix/native-rebootstrap-dev5",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "fix/native-rebootstrap-dev5"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: fix/video-mode-rollback-dev4",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/fix/video-mode-rollback-dev4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "fix/video-mode-rollback-dev4"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: fix/video-mode-transactions",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/fix/video-mode-transactions",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "fix/video-mode-transactions"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: fix/video-packet-overflow-dev6",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/fix/video-packet-overflow-dev6",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "fix/video-packet-overflow-dev6"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: hotfix/0.4.2-video-modes",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/hotfix/0.4.2-video-modes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "hotfix/0.4.2-video-modes"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: main",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "main"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: perf/0.4.x-ee-gs",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/perf/0.4.x-ee-gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "perf/0.4.x-ee-gs"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: perf/corpus-v2-integration",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/perf/corpus-v2-integration",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "perf/corpus-v2-integration"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: perf/phase1-format-audit",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/perf/phase1-format-audit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "perf/phase1-format-audit"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: perf/phase1-format-audit-finaltmp",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/perf/phase1-format-audit-finaltmp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "perf/phase1-format-audit-finaltmp"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: perf/phase1-format-audit-finaltmp2",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/perf/phase1-format-audit-finaltmp2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "perf/phase1-format-audit-finaltmp2"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: perf/phase1-format-audit-work",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/perf/phase1-format-audit-work",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "perf/phase1-format-audit-work"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: perf/phase1-format-audit-work2",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/perf/phase1-format-audit-work2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "perf/phase1-format-audit-work2"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: perf/phase2-icache-locality",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/perf/phase2-icache-locality",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "perf/phase2-icache-locality"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: perf/phase3-storage-dataflow",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/perf/phase3-storage-dataflow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "perf/phase3-storage-dataflow"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: release/0.4.0-bundle",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/release/0.4.0-bundle",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "release/0.4.0-bundle"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: release/0.4.1",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/release/0.4.1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "release/0.4.1"
+        ]
+      },
+      {
+        "name": "PunishedSnake/fhdb-bootstrap-manager — branch: release/0.5.0-kakehashi",
+        "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/release/0.5.0-kakehashi",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/fhdb-bootstrap-manager",
+          "release/0.5.0-kakehashi"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: chore/p0-warning-cleanup",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/chore/p0-warning-cleanup",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "chore/p0-warning-cleanup"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: debug/pad-handoff-forensics",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/debug/pad-handoff-forensics",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "debug/pad-handoff-forensics"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/0.2.0-briscoe",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/0.2.0-briscoe",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/0.2.0-briscoe"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/0.3.0",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/0.3.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/0.3.0"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/0.4.0",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/0.4.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/0.4.0"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/0.4.0-dev",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/0.4.0-dev",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/0.4.0-dev"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/0.4.0-dev3-drebin",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/0.4.0-dev3-drebin",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/0.4.0-dev3-drebin"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/0.4.0-dev4-drebin-browser",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/0.4.0-dev4-drebin-browser",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/0.4.0-dev4-drebin-browser"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/0.4.0-dev4-save-transfer-picker",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/0.4.0-dev4-save-transfer-picker",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/0.4.0-dev4-save-transfer-picker"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/0.4.0-dev4-save-transfer-picker-final",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/0.4.0-dev4-save-transfer-picker-final",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/0.4.0-dev4-save-transfer-picker-final"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/0.4.0-dev4-save-transfer-picker-impl",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/0.4.0-dev4-save-transfer-picker-impl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/0.4.0-dev4-save-transfer-picker-impl"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/0.4.0-dev4-save-transfer-picker-impl2",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/0.4.0-dev4-save-transfer-picker-impl2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/0.4.0-dev4-save-transfer-picker-impl2"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/0.4.0-dev4-save-transfer-picker-impl3",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/0.4.0-dev4-save-transfer-picker-impl3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/0.4.0-dev4-save-transfer-picker-impl3"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/0.4.0-dev4-save-transfer-picker-impl4",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/0.4.0-dev4-save-transfer-picker-impl4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/0.4.0-dev4-save-transfer-picker-impl4"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/0.4.0-dev4-save-transfer-picker-work",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/0.4.0-dev4-save-transfer-picker-work",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/0.4.0-dev4-save-transfer-picker-work"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/0.4.0-dev4-save-transfer-picker2",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/0.4.0-dev4-save-transfer-picker2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/0.4.0-dev4-save-transfer-picker2"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/0.4.0-dev4-save-transfer-picker3",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/0.4.0-dev4-save-transfer-picker3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/0.4.0-dev4-save-transfer-picker3"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/0.4.0-ui",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/0.4.0-ui",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/0.4.0-ui"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/fmcb-cross-region-binding",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/fmcb-cross-region-binding",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/fmcb-cross-region-binding"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: feat/p0-fmcb-cross-region",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/feat/p0-fmcb-cross-region",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "feat/p0-fmcb-cross-region"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: fix/iop-init-stall",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/fix/iop-init-stall",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "fix/iop-init-stall"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: hotfix/0.4.1-usb-fat-corruption",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/hotfix/0.4.1-usb-fat-corruption",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "hotfix/0.4.1-usb-fat-corruption"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: main",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "main"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: perf/p0-closeout",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/perf/p0-closeout",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "perf/p0-closeout"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: perf/p0-export-copy-elision",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/perf/p0-export-copy-elision",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "perf/p0-export-copy-elision"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: perf/p0-export-direct-write-slot",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/perf/p0-export-direct-write-slot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "perf/p0-export-direct-write-slot"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: perf/p0-final-async",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/perf/p0-final-async",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "perf/p0-final-async"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: perf/p0-final-async-v3",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/perf/p0-final-async-v3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "perf/p0-final-async-v3"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: perf/p0-final-safe",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/perf/p0-final-safe",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "perf/p0-final-safe"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: perf/p0-final-safe-v3",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/perf/p0-final-safe-v3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "perf/p0-final-safe-v3"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: perf/p0-hardware-campaign",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/perf/p0-hardware-campaign",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "perf/p0-hardware-campaign"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: perf/p0-image-discovery-batch",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/perf/p0-image-discovery-batch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "perf/p0-image-discovery-batch"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: perf/p0-image-fs-cluster-batch",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/perf/p0-image-fs-cluster-batch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "perf/p0-image-fs-cluster-batch"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: perf/p0-image-fs-conflict-batch",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/perf/p0-image-fs-conflict-batch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "perf/p0-image-fs-conflict-batch"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: perf/p0-image-fs-fat-cache",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/perf/p0-image-fs-fat-cache",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "perf/p0-image-fs-fat-cache"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: perf/p0-raw-bulk-v3",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/perf/p0-raw-bulk-v3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "perf/p0-raw-bulk-v3"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: perf/p0-trusted-quick-open-fusion",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/perf/p0-trusted-quick-open-fusion",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "perf/p0-trusted-quick-open-fusion"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: perf/p0-trusted-quick-verify-no-readahead",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/perf/p0-trusted-quick-verify-no-readahead",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "perf/p0-trusted-quick-verify-no-readahead"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: perf/p0-usb-read-overlap",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/perf/p0-usb-read-overlap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "perf/p0-usb-read-overlap"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: release/0.3.0-dev5",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/release/0.3.0-dev5",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "release/0.3.0-dev5"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: release/0.4.0-drebin",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/release/0.4.0-drebin",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "release/0.4.0-drebin"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: tmp-noop",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/tmp-noop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "tmp-noop"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: tmp/fmcb-ui-bounds-trigger",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/tmp/fmcb-ui-bounds-trigger",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "tmp/fmcb-ui-bounds-trigger"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: tmp/marquee-endpoint-trigger",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/tmp/marquee-endpoint-trigger",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "tmp/marquee-endpoint-trigger"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: tmp/ui-cardchanged-trigger",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/tmp/ui-cardchanged-trigger",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "tmp/ui-cardchanged-trigger"
+        ]
+      },
+      {
+        "name": "PunishedSnake/ps2-magicgate-inspector — branch: tmp/user-copy-recursive",
+        "url": "https://github.com/PunishedSnake/ps2-magicgate-inspector/tree/tmp/user-copy-recursive",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PunishedSnake/ps2-magicgate-inspector",
+          "tmp/user-copy-recursive"
+        ]
+      },
+      {
+        "name": "puppydawg43/Open-PS2-Loader — branch: bdm_fat_get_lba_fix",
+        "url": "https://github.com/puppydawg43/Open-PS2-Loader/tree/bdm_fat_get_lba_fix",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "puppydawg43/Open-PS2-Loader",
+          "bdm_fat_get_lba_fix"
+        ]
+      },
+      {
+        "name": "puppydawg43/Open-PS2-Loader — branch: hdd_large_capacity_support",
+        "url": "https://github.com/puppydawg43/Open-PS2-Loader/tree/hdd_large_capacity_support",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "puppydawg43/Open-PS2-Loader",
+          "hdd_large_capacity_support"
+        ]
+      },
+      {
+        "name": "puppydawg43/Open-PS2-Loader — branch: master",
+        "url": "https://github.com/puppydawg43/Open-PS2-Loader/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "puppydawg43/Open-PS2-Loader",
+          "master"
+        ]
+      },
+      {
+        "name": "QAston/DKWDRV — branch: main",
+        "url": "https://github.com/QAston/DKWDRV/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "QAston/DKWDRV",
+          "main"
+        ]
+      },
+      {
+        "name": "QAston/DKWDRV — branch: patch-1",
+        "url": "https://github.com/QAston/DKWDRV/tree/patch-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "QAston/DKWDRV",
+          "patch-1"
+        ]
+      },
+      {
+        "name": "quinndiggity/FreeDVDBoot — branch: gh-pages",
+        "url": "https://github.com/quinndiggity/FreeDVDBoot/tree/gh-pages",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "quinndiggity/FreeDVDBoot",
+          "gh-pages"
+        ]
+      },
+      {
+        "name": "quinndiggity/FreeDVDBoot — branch: master",
+        "url": "https://github.com/quinndiggity/FreeDVDBoot/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "quinndiggity/FreeDVDBoot",
+          "master"
+        ]
+      },
+      {
+        "name": "quisys/hdl-dump-m1-binary — branch: 0.8.x",
+        "url": "https://github.com/quisys/hdl-dump-m1-binary/tree/0.8.x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "quisys/hdl-dump-m1-binary",
+          "0.8.x"
+        ]
+      },
+      {
+        "name": "quisys/hdl-dump-m1-binary — branch: master",
+        "url": "https://github.com/quisys/hdl-dump-m1-binary/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "quisys/hdl-dump-m1-binary",
+          "master"
+        ]
+      },
+      {
+        "name": "QuVideoDeveloper/libsmb2 — branch: master",
+        "url": "https://github.com/QuVideoDeveloper/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "QuVideoDeveloper/libsmb2",
+          "master"
+        ]
+      },
+      {
+        "name": "ra1phn/FreeMcBoot-Installer — branch: master",
+        "url": "https://github.com/ra1phn/FreeMcBoot-Installer/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ra1phn/FreeMcBoot-Installer",
+          "master"
+        ]
+      },
+      {
+        "name": "rafafrassetto/Open-PS2-Loader — branch: master",
+        "url": "https://github.com/rafafrassetto/Open-PS2-Loader/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "rafafrassetto/Open-PS2-Loader",
+          "master"
+        ]
+      },
+      {
+        "name": "Raikaru/Persona4-Decompilation — branch: fixdispatchindex",
+        "url": "https://github.com/Raikaru/Persona4-Decompilation/tree/fixdispatchindex",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Raikaru/Persona4-Decompilation",
+          "fixdispatchindex"
+        ]
+      },
+      {
+        "name": "Raikaru/Persona4-Decompilation — branch: main",
+        "url": "https://github.com/Raikaru/Persona4-Decompilation/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Raikaru/Persona4-Decompilation",
+          "main"
+        ]
+      },
+      {
+        "name": "Ralcactus/ButterscotchDS — branch: main",
+        "url": "https://github.com/Ralcactus/ButterscotchDS/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Ralcactus/ButterscotchDS",
+          "main"
+        ]
+      },
+      {
+        "name": "RaldS7/FreeMcBoot-Installer — branch: master",
+        "url": "https://github.com/RaldS7/FreeMcBoot-Installer/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "RaldS7/FreeMcBoot-Installer",
+          "master"
+        ]
       }
     ]
   },
@@ -1001853,6 +1005571,2601 @@
           "pstef/binutils-gdb",
           "master",
           "zlib/nintendods"
+        ]
+      },
+      {
+        "name": "pstef/nhddl@main — examples",
+        "url": "https://github.com/pstef/nhddl/tree/main/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pstef/nhddl",
+          "main",
+          "examples"
+        ]
+      },
+      {
+        "name": "pstef/nhddl@main — iop",
+        "url": "https://github.com/pstef/nhddl/tree/main/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pstef/nhddl",
+          "main",
+          "iop"
+        ]
+      },
+      {
+        "name": "pstef/nhddl@main — iop/smap_udpbd",
+        "url": "https://github.com/pstef/nhddl/tree/main/iop/smap_udpbd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pstef/nhddl",
+          "main",
+          "iop/smap_udpbd"
+        ]
+      },
+      {
+        "name": "pstef/nhddl@main — iop/smap_udptty",
+        "url": "https://github.com/pstef/nhddl/tree/main/iop/smap_udptty",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pstef/nhddl",
+          "main",
+          "iop/smap_udptty"
+        ]
+      },
+      {
+        "name": "pstef/nhddl@main — loader",
+        "url": "https://github.com/pstef/nhddl/tree/main/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pstef/nhddl",
+          "main",
+          "loader"
+        ]
+      },
+      {
+        "name": "pstef/nhddl@main — res/sas/app",
+        "url": "https://github.com/pstef/nhddl/tree/main/res/sas/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pstef/nhddl",
+          "main",
+          "res/sas/app"
+        ]
+      },
+      {
+        "name": "pstef/nhddl@main — res/sas/models/app",
+        "url": "https://github.com/pstef/nhddl/tree/main/res/sas/models/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pstef/nhddl",
+          "main",
+          "res/sas/models/app"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@binutils-2_10-branch — config/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_10-branch/config/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "binutils-2_10-branch",
+          "config/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@binutils-2_10-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_10-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "binutils-2_10-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@binutils-2_11-branch — config/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_11-branch/config/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "binutils-2_11-branch",
+          "config/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@binutils-2_11-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_11-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "binutils-2_11-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@binutils-2_12-branch — config/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_12-branch/config/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "binutils-2_12-branch",
+          "config/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@binutils-2_12-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_12-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "binutils-2_12-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@binutils-2_13-branch — config/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_13-branch/config/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "binutils-2_13-branch",
+          "config/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@binutils-2_13-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_13-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "binutils-2_13-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@binutils-2_14-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_14-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "binutils-2_14-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@binutils-2_15-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-2_15-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "binutils-2_15-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@binutils-arc-20080908-branch — libgloss",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-arc-20080908-branch/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "binutils-arc-20080908-branch",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@binutils-arc-20080908-branch — libgloss/hp74x",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-arc-20080908-branch/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "binutils-arc-20080908-branch",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@binutils-arc-20080908-branch — libgloss/m68k",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-arc-20080908-branch/libgloss/m68k",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "binutils-arc-20080908-branch",
+          "libgloss/m68k"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@binutils-arc-20080908-branch — libgloss/pa",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-arc-20080908-branch/libgloss/pa",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "binutils-arc-20080908-branch",
+          "libgloss/pa"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@binutils-arc-20080908-branch — newlib",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-arc-20080908-branch/newlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "binutils-arc-20080908-branch",
+          "newlib"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@binutils-arc-20080908-branch — newlib/libc/sys/linux/include/rpc",
+        "url": "https://github.com/psxdev/newlib/tree/binutils-arc-20080908-branch/newlib/libc/sys/linux/include/rpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "binutils-arc-20080908-branch",
+          "newlib/libc/sys/linux/include/rpc"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cagney_bfdfile-20040213-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_bfdfile-20040213-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cagney_bfdfile-20040213-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cagney_bigcore-20040122-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_bigcore-20040122-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cagney_bigcore-20040122-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cagney_convert-20030606-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_convert-20030606-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cagney_convert-20030606-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cagney_fileio-20030521-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_fileio-20030521-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cagney_fileio-20030521-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cagney_frameaddr-20030403-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_frameaddr-20030403-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cagney_frameaddr-20030403-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cagney_framebase-20030326-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_framebase-20030326-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cagney_framebase-20030326-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cagney_lazyid-20030317-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_lazyid-20030317-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cagney_lazyid-20030317-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cagney_offbyone-20030303-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_offbyone-20030303-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cagney_offbyone-20030303-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cagney_regbuf-20020515-branch — config/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_regbuf-20020515-branch/config/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cagney_regbuf-20020515-branch",
+          "config/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cagney_regbuf-20020515-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_regbuf-20020515-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cagney_regbuf-20020515-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cagney_sysregs-20020825-branch — config/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_sysregs-20020825-branch/config/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cagney_sysregs-20020825-branch",
+          "config/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cagney_sysregs-20020825-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_sysregs-20020825-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cagney_sysregs-20020825-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cagney_tramp-20040309-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_tramp-20040309-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cagney_tramp-20040309-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cagney_writestrings-20030508-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_writestrings-20030508-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cagney_writestrings-20030508-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cagney_x86i386-20030821-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cagney_x86i386-20030821-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cagney_x86i386-20030821-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cagney-unwind-20030108-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cagney-unwind-20030108-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cagney-unwind-20030108-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@carlton_dictionary-branch — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/carlton_dictionary-branch/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "carlton_dictionary-branch",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cgf-deleteme — winsup/cygwin/regexp",
+        "url": "https://github.com/psxdev/newlib/tree/cgf-deleteme/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cgf-deleteme",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cgf-dev-branch — winsup/cygwin/regexp",
+        "url": "https://github.com/psxdev/newlib/tree/cgf-dev-branch/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cgf-dev-branch",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x3b58 — winsup/cygserver",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x3b58/winsup/cygserver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x3b58",
+          "winsup/cygserver"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x3b58 — winsup/cygwin/regexp",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x3b58/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x3b58",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x3b58 — winsup/doc",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x3b58/winsup/doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x3b58",
+          "winsup/doc"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x3b58 — winsup/mingw",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x3b58/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x3b58",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x3b58 — winsup/mingw/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x3b58/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x3b58",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x3b58 — winsup/testsuite",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x3b58/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x3b58",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x3b58 — winsup/testsuite/winsup.api/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x3b58/winsup/testsuite/winsup.api/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x3b58",
+          "winsup/testsuite/winsup.api/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x5e6 — winsup/cygwin/regexp",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x5e6/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x5e6",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x5ef — winsup/cygwin/regexp",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x5ef/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x5ef",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x5f1 — newlib",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x5f1/newlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x5f1",
+          "newlib"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x5f1 — newlib/libc/sys/linux/include/rpc",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x5f1/newlib/libc/sys/linux/include/rpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x5f1",
+          "newlib/libc/sys/linux/include/rpc"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x5f1 — winsup",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x5f1/winsup",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x5f1",
+          "winsup"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x5f1 — winsup/cygserver",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x5f1/winsup/cygserver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x5f1",
+          "winsup/cygserver"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x5f1 — winsup/cygwin/regexp",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x5f1/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x5f1",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x5f1 — winsup/doc",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x5f1/winsup/doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x5f1",
+          "winsup/doc"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x5f1 — winsup/mingw",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x5f1/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x5f1",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x5f1 — winsup/mingw/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x5f1/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x5f1",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x5f1 — winsup/testsuite",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x5f1/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x5f1",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x5f1 — winsup/testsuite/winsup.api/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x5f1/winsup/testsuite/winsup.api/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x5f1",
+          "winsup/testsuite/winsup.api/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9b — winsup/bz2lib",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9b/winsup/bz2lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9b",
+          "winsup/bz2lib"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9b — winsup/cygwin/regexp",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9b/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9b",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9b — winsup/mingw",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9b/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9b",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9b — winsup/mingw/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9b/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9b",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9b — winsup/testsuite",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9b/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9b",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9b — winsup/testsuite/winsup.api/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9b/winsup/testsuite/winsup.api/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9b",
+          "winsup/testsuite/winsup.api/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9c — winsup/bz2lib",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9c/winsup/bz2lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9c",
+          "winsup/bz2lib"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9c — winsup/cygwin/regexp",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9c/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9c",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9c — winsup/mingw",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9c/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9c",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9c — winsup/mingw/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9c/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9c",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9c — winsup/testsuite",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9c/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9c",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9c — winsup/testsuite/winsup.api/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9c/winsup/testsuite/winsup.api/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9c",
+          "winsup/testsuite/winsup.api/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9d — winsup/bz2lib",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9d/winsup/bz2lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9d",
+          "winsup/bz2lib"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9d — winsup/cygserver",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9d/winsup/cygserver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9d",
+          "winsup/cygserver"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9d — winsup/cygwin/regexp",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9d/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9d",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9d — winsup/mingw",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9d/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9d",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9d — winsup/mingw/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9d/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9d",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9d — winsup/testsuite",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9d/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9d",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9d — winsup/testsuite/winsup.api/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9d/winsup/testsuite/winsup.api/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9d",
+          "winsup/testsuite/winsup.api/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9e — winsup/bz2lib",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9e/winsup/bz2lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9e",
+          "winsup/bz2lib"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9e — winsup/cygserver",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9e/winsup/cygserver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9e",
+          "winsup/cygserver"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9e — winsup/cygwin/regexp",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9e/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9e",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9e — winsup/mingw",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9e/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9e",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9e — winsup/mingw/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9e/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9e",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9e — winsup/testsuite",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9e/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9e",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cr-0x9e — winsup/testsuite/winsup.api/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cr-0x9e/winsup/testsuite/winsup.api/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cr-0x9e",
+          "winsup/testsuite/winsup.api/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cv-branch — winsup",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch/winsup",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cv-branch",
+          "winsup"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cv-branch — winsup/cygserver",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch/winsup/cygserver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cv-branch",
+          "winsup/cygserver"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cv-branch — winsup/cygwin/regexp",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cv-branch",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cv-branch — winsup/doc",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch/winsup/doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cv-branch",
+          "winsup/doc"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cv-branch — winsup/mingw",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cv-branch",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cv-branch — winsup/mingw/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cv-branch",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cv-branch — winsup/testsuite",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cv-branch",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cv-branch — winsup/testsuite/winsup.api/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch/winsup/testsuite/winsup.api/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cv-branch",
+          "winsup/testsuite/winsup.api/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cv-branch-2 — winsup",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch-2/winsup",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cv-branch-2",
+          "winsup"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cv-branch-2 — winsup/cygserver",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch-2/winsup/cygserver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cv-branch-2",
+          "winsup/cygserver"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cv-branch-2 — winsup/doc",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch-2/winsup/doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cv-branch-2",
+          "winsup/doc"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cv-branch-2 — winsup/mingw",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch-2/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cv-branch-2",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cv-branch-2 — winsup/mingw/mingwex/gdtoa",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch-2/winsup/mingw/mingwex/gdtoa",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cv-branch-2",
+          "winsup/mingw/mingwex/gdtoa"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cv-branch-2 — winsup/mingw/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch-2/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cv-branch-2",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cv-branch-2 — winsup/testsuite",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch-2/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cv-branch-2",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cv-branch-2 — winsup/testsuite/winsup.api/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cv-branch-2/winsup/testsuite/winsup.api/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cv-branch-2",
+          "winsup/testsuite/winsup.api/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygnus — config/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cygnus/config/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygnus",
+          "config/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygnus — include/mpw",
+        "url": "https://github.com/psxdev/newlib/tree/cygnus/include/mpw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygnus",
+          "include/mpw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin_daemon — winsup/bz2lib",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin_daemon/winsup/bz2lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin_daemon",
+          "winsup/bz2lib"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin_daemon — winsup/cygwin/regexp",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin_daemon/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin_daemon",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin_daemon — winsup/mingw",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin_daemon/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin_daemon",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin_daemon — winsup/mingw/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin_daemon/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin_daemon",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin_daemon — winsup/testsuite",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin_daemon/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin_daemon",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin_daemon — winsup/testsuite/winsup.api/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin_daemon/winsup/testsuite/winsup.api/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin_daemon",
+          "winsup/testsuite/winsup.api/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin_daemon — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin_daemon/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin_daemon",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1_7_29-release-branchpoint — winsup",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1_7_29-release-branchpoint/winsup",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1_7_29-release-branchpoint",
+          "winsup"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1_7_29-release-branchpoint — winsup/cygserver",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1_7_29-release-branchpoint/winsup/cygserver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1_7_29-release-branchpoint",
+          "winsup/cygserver"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1_7_29-release-branchpoint — winsup/doc",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1_7_29-release-branchpoint/winsup/doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1_7_29-release-branchpoint",
+          "winsup/doc"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1_7_29-release-branchpoint — winsup/testsuite",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1_7_29-release-branchpoint/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1_7_29-release-branchpoint",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1_7_29-release-branchpoint — winsup/testsuite/winsup.api/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1_7_29-release-branchpoint/winsup/testsuite/winsup.api/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1_7_29-release-branchpoint",
+          "winsup/testsuite/winsup.api/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-1-4 — winsup/cygwin/testsuite",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-1-4/winsup/cygwin/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-1-4",
+          "winsup/cygwin/testsuite"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-1-4 — winsup/cygwin/testsuite/winsup.api/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-1-4/winsup/cygwin/testsuite/winsup.api/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-1-4",
+          "winsup/cygwin/testsuite/winsup.api/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-1-4 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-1-4/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-1-4",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-1 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-1/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-1",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-10-1 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-10-1/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-10-1",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-2 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-2/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-2",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-3 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-3/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-3",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-4 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-4/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-4",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-5 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-5/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-5",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-5-2 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-5-2/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-5-2",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-5-3 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-5-3/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-5-3",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-6-1 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-6-1/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-6-1",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-6-2 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-6-2/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-6-2",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-6-3 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-6-3/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-6-3",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-6-4 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-6-4/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-6-4",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-6-5 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-6-5/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-6-5",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-6-6 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-6-6/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-6-6",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-7-1 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-7-1/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-7-1",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-8-1 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-8-1/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-8-1",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-1-3-9 — winsup/w32api",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-1-3-9/winsup/w32api",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-1-3-9",
+          "winsup/w32api"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-2.0 — libgloss",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-2.0/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-2.0",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-2.0 — libgloss/hp74x",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-2.0/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-2.0",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-2.0 — libgloss/m68k",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-2.0/libgloss/m68k",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-2.0",
+          "libgloss/m68k"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-2.0 — libgloss/or1k",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-2.0/libgloss/or1k",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-2.0",
+          "libgloss/or1k"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-2.0 — libgloss/or1k/boards",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-2.0/libgloss/or1k/boards",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-2.0",
+          "libgloss/or1k/boards"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-2.0 — libgloss/pa",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-2.0/libgloss/pa",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-2.0",
+          "libgloss/pa"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-2.0 — newlib",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-2.0/newlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-2.0",
+          "newlib"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-2.0 — newlib/libc/sys/linux/include/rpc",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-2.0/newlib/libc/sys/linux/include/rpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-2.0",
+          "newlib/libc/sys/linux/include/rpc"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-2.0 — newlib/libc/xdr",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-2.0/newlib/libc/xdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-2.0",
+          "newlib/libc/xdr"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-2.0 — newlib/libm/mathfp",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-2.0/newlib/libm/mathfp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-2.0",
+          "newlib/libm/mathfp"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-2.0 — winsup",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-2.0/winsup",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-2.0",
+          "winsup"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-2.0 — winsup/cygserver",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-2.0/winsup/cygserver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-2.0",
+          "winsup/cygserver"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-2.0 — winsup/doc",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-2.0/winsup/doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-2.0",
+          "winsup/doc"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-2.0 — winsup/testsuite",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-2.0/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-2.0",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-2.0 — winsup/testsuite/winsup.api/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-2.0/winsup/testsuite/winsup.api/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-2.0",
+          "winsup/testsuite/winsup.api/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-3_0-branch — libgloss",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-3_0-branch/libgloss",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-3_0-branch",
+          "libgloss"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-3_0-branch — libgloss/hp74x",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-3_0-branch/libgloss/hp74x",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-3_0-branch",
+          "libgloss/hp74x"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-3_0-branch — libgloss/m68k",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-3_0-branch/libgloss/m68k",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-3_0-branch",
+          "libgloss/m68k"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-3_0-branch — libgloss/or1k",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-3_0-branch/libgloss/or1k",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-3_0-branch",
+          "libgloss/or1k"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-3_0-branch — libgloss/or1k/boards",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-3_0-branch/libgloss/or1k/boards",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-3_0-branch",
+          "libgloss/or1k/boards"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-3_0-branch — libgloss/pa",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-3_0-branch/libgloss/pa",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-3_0-branch",
+          "libgloss/pa"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-3_0-branch — newlib",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-3_0-branch/newlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-3_0-branch",
+          "newlib"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-3_0-branch — newlib/libc/sys/linux/include/rpc",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-3_0-branch/newlib/libc/sys/linux/include/rpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-3_0-branch",
+          "newlib/libc/sys/linux/include/rpc"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-3_0-branch — newlib/libc/xdr",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-3_0-branch/newlib/libc/xdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-3_0-branch",
+          "newlib/libc/xdr"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-3_0-branch — newlib/libm/mathfp",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-3_0-branch/newlib/libm/mathfp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-3_0-branch",
+          "newlib/libm/mathfp"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-3_0-branch — winsup",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-3_0-branch/winsup",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-3_0-branch",
+          "winsup"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-3_0-branch — winsup/cygserver",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-3_0-branch/winsup/cygserver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-3_0-branch",
+          "winsup/cygserver"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-3_0-branch — winsup/doc",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-3_0-branch/winsup/doc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-3_0-branch",
+          "winsup/doc"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-3_0-branch — winsup/testsuite",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-3_0-branch/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-3_0-branch",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@cygwin-3_0-branch — winsup/testsuite/winsup.api/samples",
+        "url": "https://github.com/psxdev/newlib/tree/cygwin-3_0-branch/winsup/testsuite/winsup.api/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "cygwin-3_0-branch",
+          "winsup/testsuite/winsup.api/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@Z-emcb-cygwin_daemon — winsup/bz2lib",
+        "url": "https://github.com/psxdev/newlib/tree/Z-emcb-cygwin_daemon/winsup/bz2lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "Z-emcb-cygwin_daemon",
+          "winsup/bz2lib"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@Z-emcb-cygwin_daemon — winsup/cygwin/regexp",
+        "url": "https://github.com/psxdev/newlib/tree/Z-emcb-cygwin_daemon/winsup/cygwin/regexp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "Z-emcb-cygwin_daemon",
+          "winsup/cygwin/regexp"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@Z-emcb-cygwin_daemon — winsup/mingw",
+        "url": "https://github.com/psxdev/newlib/tree/Z-emcb-cygwin_daemon/winsup/mingw",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "Z-emcb-cygwin_daemon",
+          "winsup/mingw"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@Z-emcb-cygwin_daemon — winsup/mingw/samples",
+        "url": "https://github.com/psxdev/newlib/tree/Z-emcb-cygwin_daemon/winsup/mingw/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "Z-emcb-cygwin_daemon",
+          "winsup/mingw/samples"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@Z-emcb-cygwin_daemon — winsup/testsuite",
+        "url": "https://github.com/psxdev/newlib/tree/Z-emcb-cygwin_daemon/winsup/testsuite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "Z-emcb-cygwin_daemon",
+          "winsup/testsuite"
+        ]
+      },
+      {
+        "name": "psxdev/newlib@Z-emcb-cygwin_daemon — winsup/testsuite/winsup.api/samples",
+        "url": "https://github.com/psxdev/newlib/tree/Z-emcb-cygwin_daemon/winsup/testsuite/winsup.api/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "psxdev/newlib",
+          "Z-emcb-cygwin_daemon",
+          "winsup/testsuite/winsup.api/samples"
         ]
       }
     ]

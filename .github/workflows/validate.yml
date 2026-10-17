@@ -29,7 +29,15 @@ jobs:
         run: |
           node --check scripts/sync-github.mjs
           node --check scripts/discover-github.mjs
+          node --check scripts/discover-github-depth.mjs
+          node --check scripts/discover-external-git.mjs
           node --check scripts/discover-web.mjs
+          node --check scripts/promote-pending.mjs
+          node --check scripts/organize-catalog.mjs
+          node --check scripts/audit-ui-contracts.mjs
+
+      - name: Audit UI contracts
+        run: npm run audit:ui
 
       - name: Build static site
         run: npm run build

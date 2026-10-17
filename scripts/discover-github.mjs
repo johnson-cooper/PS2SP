@@ -112,7 +112,9 @@ async function github(endpoint) {
   const remaining = remainingRaw == null ? null : Number.parseInt(remainingRaw, 10);
   const resetRaw = response.headers.get("x-ratelimit-reset");
 
-  if (response.status === 404) return null;
+  if (response.status === 404 || response.status === 409 || response.status === 410 || response.status === 451) {
+    return null;
+  }
 
   if (response.status === 422) {
     console.warn(`::warning::GitHub rejected discovery query: ${endpoint}`);
@@ -124,6 +126,10 @@ async function github(endpoint) {
     if (response.status === 429 || remaining === 0 || /rate limit|secondary rate/i.test(body)) {
       const reset = resetRaw ? new Date(Number(resetRaw) * 1000).toISOString() : "a later GitHub window";
       throw new DiscoveryBudgetStop(`GitHub ${resource} API throttled discovery after ${requestCount} requests; reset: ${reset}.`);
+    }
+    if (/blocked|unavailable|disabled|forbidden/i.test(body)) {
+      console.warn(`::warning::GitHub API blocked query: ${endpoint}`);
+      return null;
     }
   }
 

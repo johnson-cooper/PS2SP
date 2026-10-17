@@ -49,7 +49,9 @@ async function fetchJson(url) {
       signal: controller.signal
     });
 
-    if (response.status === 404) return null;
+    if (response.status === 404 || response.status === 409 || response.status === 410 || response.status === 451) {
+      return null;
+    }
     if (!response.ok) throw new Error(`${response.status} ${response.statusText}: ${url}`);
     return response.json();
   } finally {

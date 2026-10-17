@@ -50,6 +50,7 @@ discovery:
   maturity: active-unreleased
 verified: false
 featured: false
+hidden: true
 relationships:
   forkOf: TheBrokenWaLL/Minecraft-PlayStation-2-Edition
   source: OptiJuegos/OptiCraftHeritageEdition

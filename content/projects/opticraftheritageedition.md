@@ -50,7 +50,7 @@ discovery:
   maturity: active-unreleased
 verified: false
 featured: false
-hidden: false
+hidden: true
 relationships:
   forkOf: OptiJuegos/OptiCraftHeritageEdition
   source: OptiJuegos/OptiCraftHeritageEdition
