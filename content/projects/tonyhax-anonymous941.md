@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-15T22:19:52.367Z'
+  lastSynchronized: '2026-10-17T22:20:53.335Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"906e65fb21332fa7c386e1226291f696a826358d5179beee64f2a7c176486dfb"
-    releasesEtag: '"8370796c337197fbd0e40c63673ad601d78fb5b87742b9007c302384a6115473"'
+    repoEtag: W/"faa0786d48cab41dcde3111f0d38286b1707b50ec59e31fe33d3e59db59cad1b"
+    releasesEtag: '"a7231beae4598fb5c2c29c358ab6fb4b4ef955193f8244e6fb012ded1eb5e3b6"'
 discovery:
   method: 'fork-network:alex-free/tonyhax'
   confidence: 100

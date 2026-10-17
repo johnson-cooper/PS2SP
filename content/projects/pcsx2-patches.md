@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-10-13T20:57:08Z'
   url: 'https://github.com/PCSX2/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-15T22:19:11.665Z'
+  lastSynchronized: '2026-10-17T22:20:06.403Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b16d2af51eb569b7ca5a9b31b63bdf3827a132f722e9b7e7615b1ad1e7a26850"
-    releasesEtag: W/"144a57e7a2c406f1753bdecc988589b1425d67f461c8d19484353eb6647b2e55"
+    repoEtag: W/"c55b82809d99870df4eaaa8faed6798fc2a6fda9a54c29e65fb6d5eac03cca2d"
+    releasesEtag: W/"a4b637bad0bb8ffd681ceedee5f0e7a1c080c669083c5457863835df90d9a553"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

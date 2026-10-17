@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2025-11-24T19:34:28Z'
   url: 'https://github.com/sly547/Open-PS2-Loader/releases/tag/2218_nbd_fix'
 activity:
-  lastSynchronized: '2026-10-15T22:18:58.075Z'
+  lastSynchronized: '2026-10-17T22:19:53.462Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1ce6f2b2dc9cf77f1308d52dcbe852fdfff26595b9bbacd4f28c8040d4c5fc8d"
-    releasesEtag: W/"4e598b61f23e993ddf5f4c07c59a27061bd33835ff260c1310b3b6ac5cf4e963"
+    repoEtag: W/"aee7553ded2465a1e617846be7fea605d9d5ce4f51b8fda21fe018ad69f55f8a"
+    releasesEtag: W/"aa39f09efc956a27e0b05e8a550b3f4c7d596038fc1a40a57f11667ee3b810b0"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

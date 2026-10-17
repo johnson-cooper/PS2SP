@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2025-07-10T16:14:23Z'
   url: 'https://github.com/fuzzyghosty/PS2Ident/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-15T22:19:30.509Z'
+  lastSynchronized: '2026-10-17T22:20:26.296Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1aeac9683317479c318414f28dfaa2f5a02316e0c6e436f76a02d4d129128bae"
-    releasesEtag: W/"88564e6b47fcbfcb3feacb5cbb85d092119c83d746650764c6743538be7c6f62"
+    repoEtag: W/"9d6efe29dbe530f0f4567656529d6bc3881f17e626db7c8f4a4693f196ada423"
+    releasesEtag: W/"e4ff2704b064e5932aa937519902ffa164b4bfa8c2247f97638ea63eb8e64ef3"
 discovery:
   method: 'fork-network:ps2homebrew/PS2Ident'
   confidence: 100

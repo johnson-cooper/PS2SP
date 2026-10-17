@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-06-27T13:39:48Z'
   url: 'https://github.com/GorGylka/Server2PS2/releases/tag/3'
 activity:
-  lastSynchronized: '2026-10-15T22:19:48.824Z'
+  lastSynchronized: '2026-10-17T22:20:49.510Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"09c0dfc4a37cdaddfa5b9d229ecaceff028f1ece303992004a98ed279e688b23"
-    releasesEtag: W/"bfce21ef82455719b9fab7273af71a385bde026d06f1c0f824ba0495346a9e0f"
+    repoEtag: W/"fc60ef0077b0bdbb7f4108144ebddfe90a7d60534e82974f38024e8a964b4740"
+    releasesEtag: W/"0b655b9e5beb4ce21006a3ec29e586b4ae435136afac4fc915f7bb2068c5748a"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100
