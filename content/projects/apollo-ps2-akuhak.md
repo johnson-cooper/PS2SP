@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-16T01:20:46.385Z'
+  lastSynchronized: '2026-10-17T05:49:41.810Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"461f912b2a791cab47ad7f2b9b8542c2b8e745c928b322924deaaddf65979deb"
-    releasesEtag: '"b8b26189478e5c30a5fff0cc95b812faf64318eabab80070fa6484c1d6c80732"'
+    repoEtag: W/"7364433ad2612dd1f151f42311ab332f84439fac343cd1fe8e33a61c4f7adb33"
+    releasesEtag: '"840d8b22d7db312c6ea7f64c0729d54bdc2329ace0982cd7dfae9d1d30d0d261"'
 discovery:
   method: 'fork-network:bucanero/apollo-ps2'
   confidence: 100

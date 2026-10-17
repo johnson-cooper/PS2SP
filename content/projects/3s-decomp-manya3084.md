@@ -21,16 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-15T00:42:40Z'
+  lastCommit: '2026-10-17T03:39:19Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-15T00:53:05.330Z'
+  lastSynchronized: '2026-10-17T05:49:33.126Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f843dcfb0a01b717a6144d4b77a408c06ff1cc285fdc99a5cf629440f093bd33"
+    releasesEtag: '"840d8b22d7db312c6ea7f64c0729d54bdc2329ace0982cd7dfae9d1d30d0d261"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: crowded-street/3s-decomp
   source: crowded-street/3s-decomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

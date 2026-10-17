@@ -26,7 +26,7 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-16T06:50:37Z'
+  lastCommit: '2026-10-17T05:44:45Z'
 latestRelease:
   tag: v0.10.7
   name: decomp.wtf v0.10.7
@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/SynapticDreams/decomp.wtf/releases/tag/v0.10.7'
 activity:
   lastChecked: '2026-10-16T06:23:09.688Z'
-  lastSynchronized: '2026-10-16T07:09:58.280Z'
+  lastSynchronized: '2026-10-17T05:52:14.409Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"42ec1da131dbe3f4674ea05930d2aa971dab9a60bfe994ccf37636e220a2605a"
-    releasesEtag: W/"e27b9d94a3ecdaf4a9bd9405bdcdfb9b3fdd45a4819d5bfccd5a5292ccdb61a9"
+    repoEtag: W/"04981e2516270f3c36c0b9b1f95a70d47929cdcd3ab6c30527d3c4a651ea5e40"
+    releasesEtag: W/"7c5862f79d2f05750d185b13fd6e8e218e09380831bc9486102fc0f2da5e87eb"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

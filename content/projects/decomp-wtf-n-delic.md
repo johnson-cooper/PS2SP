@@ -15,7 +15,7 @@ tags:
 features: []
 authors: []
 license: MIT
-homepage: null
+homepage: 'https://decomp.ndelic.com'
 source:
   provider: github
   repository: n-delic/decompdecomp
@@ -24,22 +24,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 7
-  forks: 0
-  lastCommit: '2026-10-16T02:36:52Z'
+  stars: 35
+  forks: 2
+  lastCommit: '2026-10-17T00:10:03Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.0.2-alpha
+  name: v1.0.2-alpha
+  publishedAt: '2026-10-16T21:09:03Z'
+  url: 'https://github.com/n-delic/decompdecomp/releases/tag/v1.0.2-alpha'
 activity:
   lastChecked: '2026-10-15T23:18:28.396Z'
-  lastSynchronized: '2026-10-16T07:09:57.850Z'
+  lastSynchronized: '2026-10-17T05:52:12.286Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"74c71e674b2574bf18c6480e6d5a99b4a2e9089f7a6cbacbbc9fc12970d094ea"
-    releasesEtag: '"905b2196f49e72ecedcad3f15b350e0049d325488467f2d0d7ec5244e92f9408"'
+    repoEtag: W/"955d5cee6d1bbedcf899559990ba5cede39ffbdf71ad0b9228da84f04aa4f3de"
+    releasesEtag: W/"90f0a54233dca09f446484da76ec8dbaf6b61e8949dca39f2a8b79442c155836"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

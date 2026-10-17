@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-08-26T13:33:47Z'
   url: 'https://github.com/MiguelQueiroz010/dev-pcsx2pro/releases/tag/v1.7.2084'
 activity:
-  lastSynchronized: '2026-10-07T16:29:42.558Z'
+  lastSynchronized: '2026-10-17T05:52:19.650Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1bc4638fa071c235fc7bad0855b2d380a9edffd5761d84475de71cb1f576527c"
-    releasesEtag: W/"e48426c939c2f7f4f135170b0bdd53155e7ae9414569b42c372217e48da1e8ea"
+    repoEtag: W/"e3d28ebf213a1d47b9d37f55d36d4b54f7de535ee34fdb4b541d4fdd2e8b42a5"
+    releasesEtag: W/"c690b126d4f6e4910a4071c6970f7aeb3d6276375b9525b88050269c3d342571"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 95

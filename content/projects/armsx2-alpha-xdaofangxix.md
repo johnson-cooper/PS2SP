@@ -20,19 +20,19 @@ repository:
   defaultBranch: testing-dev-plus
   stars: 3
   forks: 0
-  lastCommit: '2026-10-13T00:21:04Z'
+  lastCommit: '2026-10-16T19:59:37Z'
 latestRelease:
-  tag: 2.9.4-build.45
-  name: Alpha 2.9.4-build.45
-  publishedAt: '2026-10-09T00:39:13Z'
-  url: 'https://github.com/XDaoFangxiX/ARMSX2-Alpha/releases/tag/2.9.4-build.45'
+  tag: 2.9.5-build.46
+  name: Alpha 2.9.5-build.46
+  publishedAt: '2026-10-16T19:59:46Z'
+  url: 'https://github.com/XDaoFangxiX/ARMSX2-Alpha/releases/tag/2.9.5-build.46'
 activity:
-  lastSynchronized: '2026-10-15T15:01:37.291Z'
+  lastSynchronized: '2026-10-17T05:49:46.686Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d8b0cd962f57ecc6ddca820592f8dd04a974ba4a44352d862fa75129687c98b0"
-    releasesEtag: W/"21916603c30d64f308c336dc67b178b5b4a80d7fcda35b6abaa9e00c317a90bf"
+    repoEtag: W/"33d2427c5f019e73916e8100680762210438809b14249ddff092d661ac141bb9"
+    releasesEtag: W/"64763a2cff614f210a618166287b92ddf89f306be4b0ed9babc3340ee05b0ca7"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

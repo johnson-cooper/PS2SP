@@ -27,12 +27,12 @@ latestRelease:
   url: >-
     https://github.com/TheWalkAlone/Army-Men-RTS_PS2_Advanced-Cheat_Pack_Final/releases/tag/army-men
 activity:
-  lastSynchronized: '2026-10-07T16:27:46.998Z'
+  lastSynchronized: '2026-10-17T05:49:58.867Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4cb0bd4741cc592d994bdaa9734e7037fd592bdfa0f85e3d0c0757f3d297a8e1"
-    releasesEtag: W/"82d6b1bb3e2e73aafc9040678c1c299449a92c84a2d2868a34bf8393883ca7ef"
+    repoEtag: W/"d81be235dc06e061bbab2d3262f75d7bbee69273fa99bc93f5cfea0c22466f09"
+    releasesEtag: W/"a5931022aa59af3ea546e74576227b8ac6df83c888c3e3d2686e4254fcef9bb1"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

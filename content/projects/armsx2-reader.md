@@ -12,7 +12,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -21,19 +21,23 @@ source:
   url: 'https://github.com/sommepo/armsx2-reader'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-16T12:57:51Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.2.0
+  name: ARMSX2 Reader 0.2.0
+  publishedAt: '2026-10-16T12:57:52Z'
+  url: 'https://github.com/sommepo/armsx2-reader/releases/tag/v0.2.0'
 activity:
   lastChecked: '2026-10-14T18:54:17.306Z'
+  lastSynchronized: '2026-10-17T05:49:53.222Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"779017de3bec95cb64fb17424505afb5a6a8d1c10e64ab072e6fb4f868e280fd"
+    releasesEtag: W/"ec0f6196b874446bd09c18d9840b5e4737db7b4bec6fb9c498b2901b6501df17"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -46,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

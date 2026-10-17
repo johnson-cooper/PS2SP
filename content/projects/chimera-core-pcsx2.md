@@ -31,12 +31,12 @@ latestRelease:
     https://github.com/ToolAssisted-run/chimera-core-pcsx2/releases/tag/nightly-2026-10-16
 activity:
   lastChecked: '2026-09-29T00:28:45.721Z'
-  lastSynchronized: '2026-10-16T23:35:52.230Z'
+  lastSynchronized: '2026-10-17T05:51:36.833Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a4b24907e58449cf9fde60951110c5ba64380956e912004979462d28901dfb5a"
-    releasesEtag: W/"a8d4436eae537540dd02b26e2f40dfa4bffa596a4fee30873ea98d55a0023bc7"
+    repoEtag: W/"63fd14ba2c70b6872d764e69ff4f9abfd7118ec4535c1e1c3233dc1b9d662f56"
+    releasesEtag: W/"10478f60c8e0c416b7a14e58405242991682a6a27c0f506129b6072bfe605bb5"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 90

@@ -30,20 +30,20 @@ repository:
   defaultBranch: main
   stars: 20
   forks: 2
-  lastCommit: '2026-09-25T18:16:28Z'
+  lastCommit: '2026-10-11T02:37:44Z'
 latestRelease:
-  tag: v1.7
-  name: v1.7 PS2
-  publishedAt: '2026-09-25T18:16:29Z'
-  url: 'https://github.com/johnson-cooper/2004sp-ps2port/releases/tag/v1.7'
+  tag: v1.8
+  name: V1.8 PS2
+  publishedAt: '2026-10-11T02:37:44Z'
+  url: 'https://github.com/johnson-cooper/2004sp-ps2port/releases/tag/v1.8'
 activity:
   lastChecked: '2026-09-29T10:00:00Z'
-  lastSynchronized: '2026-10-07T16:27:24.667Z'
+  lastSynchronized: '2026-10-17T05:49:30.320Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9378dca951ba23297363d47d18dbd46efa8c3341b9144890314a3c1b5c89309b"
-    releasesEtag: W/"07fdb61f11339eb7f791f50674f190f9d70deb0504eff18a1d5b3ed839feaa57"
+    repoEtag: W/"8aeac0e473c2f0434804ed3e190d94c19e86abf02131b810cb4e5079eabe500b"
+    releasesEtag: W/"a51dfb7db477e4358b6364735a5dd335c2d803c75e2215e1424d2b9267191f86"
 discovery:
   method: curated
   confidence: 100

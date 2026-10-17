@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-10T13:42:09.957Z'
+  lastSynchronized: '2026-10-17T05:51:59.727Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7555c86b317efe15e6f5f05974f8f422cd8a34a97fc3bf18fb1e3a2716e1daa1"
-    releasesEtag: '"721229746d636a2d562ed51e2f450279a04457d1c536d79c18ed0a685dcbdd53"'
+    repoEtag: W/"cbb3ba9cffa3729940b1b08f228e17bc1ac95eb36d390018166ca0747b55ad88"
+    releasesEtag: '"840d8b22d7db312c6ea7f64c0729d54bdc2329ace0982cd7dfae9d1d30d0d261"'
 discovery:
   method: 'fork-network:Raikaru/dds-decomp'
   confidence: 100

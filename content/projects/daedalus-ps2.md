@@ -13,26 +13,26 @@ license: GPL-2.0
 homepage: null
 source:
   provider: github
-  repository: DevNoib/daedalusnoib-PS2
+  repository: eclipsebladestudioficial/NaedalusX64
   repositoryId: '1392616531'
 repository:
   archived: false
   defaultBranch: master
-  stars: 3
+  stars: 6
   forks: 0
-  lastCommit: '2026-10-09T23:23:59Z'
+  lastCommit: '2026-10-16T12:45:46Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1
+  name: NaedalusX64 v 1.5
+  publishedAt: '2026-10-16T12:45:46Z'
+  url: 'https://github.com/eclipsebladestudioficial/NaedalusX64/releases/tag/v1'
 activity:
-  lastSynchronized: '2026-10-15T22:18:29.907Z'
+  lastSynchronized: '2026-10-17T05:51:56.963Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b311ebfc621726055fc1f9ae237bfca15222a1dc73b52bb288d84c98b2fdc315"
-    releasesEtag: '"8370796c337197fbd0e40c63673ad601d78fb5b87742b9007c302384a6115473"'
+    repoEtag: W/"a62314789edb87133e6c5ff752b4f6935a5ca654bfbbada7da4fcbdc7791ad38"
+    releasesEtag: W/"e3023b5136620765630d1d1d40f99185b7ab2e687a795b830da35f00b1768e48"
 discovery:
   method: pending-recheck
   confidence: 95

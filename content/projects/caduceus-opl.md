@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/Rian6/caduceus-opl/releases/tag/v0.1.1-snapshot.20261006'
 activity:
   lastChecked: '2026-10-06T16:57:53.557Z'
-  lastSynchronized: '2026-10-16T21:08:44.784Z'
+  lastSynchronized: '2026-10-17T05:51:30.791Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"558df1e84b5b9d69dd1c74d710e4cc25ab7d1648cf94580217e6faada2801935"
-    releasesEtag: W/"5899acf52a21de2428096a7c875527be86f275ce22df6e39d3f65547b37a3473"
+    repoEtag: W/"adb3ceb0b23e4de621cd39e9fed05044090910f25a24661712844943957ad754"
+    releasesEtag: W/"3980ffbcf090dda76d54f0d285dba86d7f320da9b95ebf425eebe58dec5eba3b"
 discovery:
   method: 'pending-promotion:incremental:ps2sdk in:name,description,readme'
   confidence: 90

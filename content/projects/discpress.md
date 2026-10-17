@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/PowerBeef/discpress/releases/tag/v1.8.0'
 activity:
   lastChecked: '2026-09-29T00:27:59.402Z'
-  lastSynchronized: '2026-10-07T16:29:43.507Z'
+  lastSynchronized: '2026-10-17T05:52:21.082Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b832743d5d32877ef93f8a356568d705ae350cf4904875370c55ba12b6a87c75"
-    releasesEtag: W/"62a06124ddda7a78d6a65afafeaa0e8a1c39080d3781fe1ddfc2af3ac6ece73c"
+    repoEtag: W/"2cf4600acb92fe6742bda00b84ee276de7a1e54e446bb83569440ad439ff34b0"
+    releasesEtag: W/"9e8c9946f9c42c8d22b5762b862279c39904b79ae3f2f745816ca0ccd9a98e57"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 85

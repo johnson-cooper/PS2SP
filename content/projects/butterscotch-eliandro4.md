@@ -23,19 +23,19 @@ repository:
   defaultBranch: prince
   stars: 0
   forks: 0
-  lastCommit: '2026-10-04T10:32:29Z'
+  lastCommit: '2026-10-12T14:57:09Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-10T13:42:07.821Z'
+  lastSynchronized: '2026-10-17T05:50:57.794Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b8460dd7271fcbdd41a3dda05702984680183651da0e6209489315571397b8a1"
-    releasesEtag: '"721229746d636a2d562ed51e2f450279a04457d1c536d79c18ed0a685dcbdd53"'
+    repoEtag: W/"a81a7a828da0b7da74c440515169cac880c16a356463338e5a5cd5c5bf69c0d1"
+    releasesEtag: '"840d8b22d7db312c6ea7f64c0729d54bdc2329ace0982cd7dfae9d1d30d0d261"'
 discovery:
   method: 'fork-network:ButterscotchRunner/Butterscotch'
   confidence: 95

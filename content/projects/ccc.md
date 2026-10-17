@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/chaoticgd/ccc/releases/tag/v2.1'
 activity:
   lastChecked: '2026-10-16T11:54:59.000Z'
-  lastSynchronized: '2026-10-17T04:26:30.130Z'
+  lastSynchronized: '2026-10-17T05:51:32.425Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2873121eca06ba5a3269639c01f350500aabca698ebf4e5810e8e219e2f1e472"
-    releasesEtag: W/"e050b49a3199e0d892782b94ca50dcd36e05ac298fce981ae0c1dc003ad666ce"
+    repoEtag: W/"f6795792663c2234c8487e8ae73707b1108bb586c30a460233ec63fd4a7b751c"
+    releasesEtag: W/"2ce1475a619f74887625062264e4396737b81da303613d39157602e6326e6461"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

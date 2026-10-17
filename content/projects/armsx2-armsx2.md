@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 2190
-  forks: 174
-  lastCommit: '2026-10-15T16:43:53Z'
+  stars: 2198
+  forks: 175
+  lastCommit: '2026-10-16T19:36:37Z'
 latestRelease:
   tag: 2.8.3
   name: 'ARMSX2 2.8.3 '
   publishedAt: '2026-10-11T17:16:38Z'
   url: 'https://github.com/ARMSX2/ARMSX2/releases/tag/2.8.3'
 activity:
-  lastSynchronized: '2026-10-15T19:07:43.903Z'
+  lastSynchronized: '2026-10-17T05:49:47.154Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"67adc646b4f4857fe519bf8c3946c6102278034a859e235f9ddfb938e2f27d58"
-    releasesEtag: W/"c74a74e40dfe495223824c10ff5c40959fda1f7045b8a1f827d274a470ebb070"
+    repoEtag: W/"fb406954490fc39b47009d74d0a89adaf03d1199943564650009070726e25bc8"
+    releasesEtag: W/"53cee7e7dcbdc533a54d9bc60249cafade7665b9b377fe6e9cebb4082eb0401b"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

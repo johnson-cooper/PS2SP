@@ -14,8 +14,8 @@ tags:
   - fork
 features: []
 authors: []
-license: null
-homepage: null
+license: MIT
+homepage: 'https://decomp.wtf'
 source:
   provider: github
   repository: Bluesfire/decomp.wtf-Avenged
@@ -23,10 +23,10 @@ source:
   url: 'https://github.com/Bluesfire/decomp.wtf-Avenged'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 1
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-17T04:17:19Z'
 latestRelease:
   tag: null
   name: null
@@ -34,8 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-16T01:39:51.910Z'
+  lastSynchronized: '2026-10-17T05:52:04.556Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"59bbbce2faa15b8cb96655a4e622d8f2e6e20a36d1b7c072c5fe90d95f78afaf"
+    releasesEtag: '"840d8b22d7db312c6ea7f64c0729d54bdc2329ace0982cd7dfae9d1d30d0d261"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75
@@ -51,5 +55,4 @@ relationships:
   forkOf: i12bp8/decomp.wtf
   source: i12bp8/decomp.wtf
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.
