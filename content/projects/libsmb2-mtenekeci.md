@@ -23,19 +23,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-02T09:08:43Z'
+  lastCommit: '2026-10-11T08:06:12Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-10T13:42:24.107Z'
+  lastSynchronized: '2026-10-17T13:44:08.609Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"51f115805d8930a6fc12db7c64d1e79f9840312dd636f262e7190a6767ebe7ef"
-    releasesEtag: '"721229746d636a2d562ed51e2f450279a04457d1c536d79c18ed0a685dcbdd53"'
+    repoEtag: W/"652b4cd7565d427057a4ac316017699afbc88cb3e4faff0a8ae0ba8f74fd2955"
+    releasesEtag: '"85299085e8f224cdbd4aad1a7ac13eac3c53b1a6b0b8812b3954eb145b98a0b8"'
 discovery:
   method: 'fork-network:sahlberg/libsmb2'
   confidence: 100

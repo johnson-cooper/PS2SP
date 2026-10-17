@@ -23,9 +23,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 7
+  stars: 8
   forks: 3
-  lastCommit: '2026-09-29T11:02:13Z'
+  lastCommit: '2026-10-11T09:44:21Z'
 latestRelease:
   tag: mymc++v0.1
   name: MYMC++ Alpha v0.1
@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/Issung/PS2IODB/releases/tag/mymc%2B%2Bv0.1'
 activity:
   lastChecked: '2026-09-29T00:28:45.199Z'
-  lastSynchronized: '2026-10-10T13:42:46.878Z'
+  lastSynchronized: '2026-10-17T13:44:51.311Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8c68598d75616fe552e59b65331df76f03b130f6ffb4013fbccfbf14eaa39fda"
-    releasesEtag: W/"453a2eacea2e17096a56dd941906bb6e6b45097ba11a2bd481d15264e89e7c81"
+    repoEtag: W/"aed9d511584b4b52afd2b0dbc2835395625b43e61b6cec2031cb3df2a4879a8d"
+    releasesEtag: W/"f0afb12c90e68d9d367940c127ac92aad361920f9fbd698a730d056ff73907f8"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 90

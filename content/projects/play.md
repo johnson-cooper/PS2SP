@@ -17,8 +17,8 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 2704
-  forks: 386
+  stars: 2710
+  forks: 391
   lastCommit: '2026-10-14T00:52:01Z'
 latestRelease:
   tag: null
@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-14T02:09:50.174Z'
+  lastSynchronized: '2026-10-17T13:44:38.238Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4781fbb8c7b337fcd705729fa53d6f3f8b2cc4fec18ee806b84bbac088aadb80"
+    releasesEtag: '"85299085e8f224cdbd4aad1a7ac13eac3c53b1a6b0b8812b3954eb145b98a0b8"'
 discovery:
   method: 'incremental:topic:playstation-2'
   confidence: 100
@@ -41,5 +44,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2022-01-11T13:42:43Z'
   url: 'https://github.com/AKuHAK/OPL-Launcher/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-10T13:42:35.410Z'
+  lastSynchronized: '2026-10-17T13:44:25.124Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"eb07db8075db0b92ec52f7f300dd237b612754ffa8edf9385306ba49bbf84e02"
-    releasesEtag: W/"0875096d02f13c974ebb312bb8d6a12543115a923846b76db19fd14c74ad9fc5"
+    repoEtag: W/"0e59e1112d9db5d2706e5dc5dca58485a0985d2c4996bec80e34d71c77857d25"
+    releasesEtag: W/"77b62b6a4c40c4d7fbf9ccb93093ba06741cf4a97a70afec9b314e00454416a4"
 discovery:
   method: 'fork-network:ps2homebrew/OPL-Launcher'
   confidence: 95

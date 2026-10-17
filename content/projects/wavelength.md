@@ -19,19 +19,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-08T08:47:26Z'
+  lastCommit: '2026-10-17T07:59:16Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.0.0
+  name: v1.0.0
+  publishedAt: '2026-10-17T08:04:11Z'
+  url: 'https://github.com/Tatsh/wavelength/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-10-10T13:42:59.611Z'
+  lastSynchronized: '2026-10-17T13:45:09.047Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a3582439fff6410b30947959f6e230cca7e4d4c2b969d6ab941fcde2548c6539"
-    releasesEtag: '"721229746d636a2d562ed51e2f450279a04457d1c536d79c18ed0a685dcbdd53"'
+    repoEtag: W/"9c9d348bd6431ac18eb72f90500d3486cfa2b2a8df7d314c554915dbcd492c95"
+    releasesEtag: W/"d262163ad76402851591efe2d1904a549f4ecaa9058e593f8bcc52b4e112762e"
 discovery:
   method: 'incremental:ps2sdk in:name,description,readme'
   confidence: 100

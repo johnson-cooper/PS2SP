@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2024-11-24T00:56:54Z'
   url: 'https://github.com/uyjulian/hdl-dump/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-10T13:42:17.061Z'
+  lastSynchronized: '2026-10-17T13:44:00.173Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6de267569783b2b7ca8b7eaef9acb348bfc8e985893134cc9f187095a18ea775"
-    releasesEtag: W/"e5a10d4098d89567696e980d75259a9e3d21f3cb531ee1dd1c6a5455c52634bf"
+    repoEtag: W/"a1b72403214dae22dc9a79caf421fcdb7add0ea14dbe0f6c3cb09b8849c8673f"
+    releasesEtag: W/"65addaa13b339dc266ab5aa1c36b990ace5f9dc96a39ec155437d0e104431e64"
 discovery:
   method: 'fork-network:ps2homebrew/hdl-dump'
   confidence: 100
