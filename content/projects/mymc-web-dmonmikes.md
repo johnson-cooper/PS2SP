@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-15T19:08:16.158Z'
+  lastSynchronized: '2026-10-17T19:24:57.125Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1598c08baed906457a5503f2dda473e5a2806bcc5bf727f7426fac691ef25a18"
-    releasesEtag: '"0a496acb7d5fa6391d85a662c353387d010d2e5acec72677131fad6035c91fe2"'
+    repoEtag: W/"b4f349254ff98e99248975cb19cb88ba9f9e1d868a8158cccb133eac24d0a0bc"
+    releasesEtag: '"bcbb9456270ba23e1365e1daa35a0f37d35ce04dc4ed3bd2b448dfedec33e05e"'
 discovery:
   method: 'fork-network:BAD-AL/mymc_web'
   confidence: 100

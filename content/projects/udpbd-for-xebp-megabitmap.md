@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-07-05T16:49:00Z'
   url: 'https://github.com/MegaBitmap/UDPBD-for-XEBP/releases/tag/2.11.1.1'
 activity:
-  lastSynchronized: '2026-10-15T19:09:19.366Z'
+  lastSynchronized: '2026-10-17T19:26:16.924Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e9b14fbf51328afb0330f20373d00ee46587c79f4e9ce526d3abc40e7393455d"
-    releasesEtag: W/"42828aff2db0605fc293ed7bc0122c9153864c86e4f47cbebafcb6367ac19f95"
+    repoEtag: W/"9c843e561b23517dfce94bc398c207e8ba2fb9224df55eab8c935097d91dd184"
+    releasesEtag: W/"2ac395c7f0b366f5962bd4967d5f42ea78e4e888ff162eb3a276ca6f49dc30b6"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

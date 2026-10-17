@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2024-03-08T19:49:59Z'
   url: 'https://github.com/MegaBitmap/ps2vmc-tool/releases/tag/v1.1.2EasyParsing'
 activity:
-  lastSynchronized: '2026-10-15T19:09:08.664Z'
+  lastSynchronized: '2026-10-17T19:25:53.757Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"28f4f0d73bf52ab52fb8edce1934a51b51e764d082d95413db215403cddfc09e"
-    releasesEtag: W/"897a41d2585380698f74abc0e1b73a957e874292b674714c653e544778c7115c"
+    repoEtag: W/"d7c97cd86b81b6c7bf925de22fdc057e0fbbc98313d2aebddb5291a8122d765e"
+    releasesEtag: W/"6f1af657512facf094686be09a58ed33e32f025a764872ef0d54c6010ff5250d"
 discovery:
   method: 'fork-network:bucanero/ps2vmc-tool'
   confidence: 95

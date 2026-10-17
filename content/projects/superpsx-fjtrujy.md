@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-15T19:09:15.396Z'
+  lastSynchronized: '2026-10-17T19:26:11.641Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"23130be51c8a60b8e9bd51791aaf2e22d6841e8bf0431cf955ad348b913ee99f"
-    releasesEtag: '"0a496acb7d5fa6391d85a662c353387d010d2e5acec72677131fad6035c91fe2"'
+    repoEtag: W/"82e45af09cabf751ba283c8f49d995fee3ebf92844668447b97d892c6bd9d34d"
+    releasesEtag: '"bcbb9456270ba23e1365e1daa35a0f37d35ce04dc4ed3bd2b448dfedec33e05e"'
 discovery:
   method: 'fork-network:frangarcj/superpsx'
   confidence: 100

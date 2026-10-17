@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2026-10-15T14:31:50Z'
   url: 'https://github.com/RetroXR/ps2/releases/tag/retroxr-pcsx2-libretro-v4'
 activity:
-  lastSynchronized: '2026-10-15T19:08:55.105Z'
+  lastSynchronized: '2026-10-17T19:25:37.725Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f521df222670f9302c88e1d76e3b40aba8d945cd475b91dc7d29567fc69d82ff"
-    releasesEtag: W/"a48174fe0148aac835950b80679d60b5b362c93fb48bbdd01e1533c455d459d9"
+    repoEtag: W/"13b1c4d0954008f765e86c4a24a075a996748da2c253a7cb9834bf63b4fe5a95"
+    releasesEtag: W/"7f7429ad60c415a0a162dacd54146035bbd0f8f59c48f3a0abadc4c7af7e73c3"
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 100

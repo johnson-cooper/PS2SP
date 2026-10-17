@@ -22,21 +22,21 @@ repository:
   archived: false
   defaultBranch: main
   stars: 0
-  forks: 0
-  lastCommit: '2026-10-10T16:58:15Z'
+  forks: 1
+  lastCommit: '2026-10-17T05:25:59Z'
 latestRelease:
-  tag: build-4
-  name: build-4
-  publishedAt: '2026-10-10T16:50:44Z'
-  url: 'https://github.com/pareidolico/eod-recomp/releases/tag/build-4'
+  tag: v1.0.2
+  name: Version 1.0.2
+  publishedAt: '2026-10-17T05:25:59Z'
+  url: 'https://github.com/pareidolico/eod-recomp/releases/tag/v1.0.2'
 activity:
   lastChecked: '2026-10-11T02:11:44.268Z'
-  lastSynchronized: '2026-10-15T19:07:54.269Z'
+  lastSynchronized: '2026-10-17T19:24:34.723Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a366c7404cc24af8201bc3493ccc262728e642ea4afaf4d567132ef5f720f5d1"
-    releasesEtag: W/"62b9d3733d7117d60f0ac88bc892c187174a041ca0fa0a72613746e623523d1b"
+    repoEtag: W/"b72776e4fcda5e3093af4ad8b0ad4fb998ecc8a290c77c8e28a0089329949f59"
+    releasesEtag: W/"6671ccc7d42f3905aac0eafc3db0dec04f199387d69b1e4947bc19c1c951df65"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 90

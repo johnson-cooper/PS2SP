@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/pwnkyderedere/mmm-english-patch/releases/tag/v1.0'
 activity:
   lastChecked: '2026-10-04T01:00:16.356Z'
-  lastSynchronized: '2026-10-15T19:08:15.598Z'
+  lastSynchronized: '2026-10-17T19:24:56.553Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d2a542261fa9ae84b13e946ad844c5b201a75149200beff0be69c1341c83960f"
-    releasesEtag: W/"d3d4e72816a24de30684cff649158323d81b471bd93ad53eeabb0377160d7046"
+    repoEtag: W/"4ae87d0f25cb349779ad63433ffed1a3601a16d4ac76e40e3e9ed399c08f8350"
+    releasesEtag: W/"6a40c73e707d528f1ca0ee1e4b047324b337d073baa7fb71b7e21c72eac93912"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
