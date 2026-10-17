@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-08-09T00:16:15Z'
   url: 'https://github.com/L10N37/Simple-Media-System/releases/tag/test-media'
 activity:
-  lastSynchronized: '2026-10-15T09:56:43.349Z'
+  lastSynchronized: '2026-10-17T09:23:04.661Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c0320451d5b9f230caa307b3177f16b70218e2b4b177332f01dc5c22ef88626d"
-    releasesEtag: W/"582239ce43df50763f92c754fc8720fdf76b632fd3dac5137cf27383c19360de"
+    repoEtag: W/"46e70e3f6a8cc062e3fd8ddbebe3d63809f8f1ab82bf97e706d2ae6892648e08"
+    releasesEtag: W/"d8b44cc0520737bc6fa59acc100392fc29e6ac30e9c25007ce6454a920e53d67"
 discovery:
   method: 'fork-network:NathanNeurotic/Simple-Media-System'
   confidence: 100

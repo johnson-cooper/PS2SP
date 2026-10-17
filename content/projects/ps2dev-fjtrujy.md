@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: '2020-05-20T20:25:20Z'
   url: 'https://github.com/fjtrujy/ps2dev/releases/tag/v0.0.1'
 activity:
-  lastSynchronized: '2026-10-16T16:57:57.764Z'
+  lastSynchronized: '2026-10-17T09:22:46.412Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"43f1d829fb37580288204952c646b0781c1b7360da10230bf5e2b54e037a793d"
+    releasesEtag: W/"0543fa2c07fff819ac4d2d0e30b93afe7edc16d76de7dccaa3d608ead1a94c1d"
 discovery:
   method: 'fork-network:ps2dev/ps2dev'
   confidence: 100
@@ -53,5 +56,4 @@ relationships:
   forkOf: ps2dev/ps2dev
   source: ps2dev/ps2dev
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

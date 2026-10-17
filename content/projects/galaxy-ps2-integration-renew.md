@@ -29,12 +29,12 @@ latestRelease:
   url: >-
     https://github.com/Notimagination/galaxy-ps2-integration-renew/releases/tag/2.2.9
 activity:
-  lastSynchronized: '2026-10-15T09:55:32.969Z'
+  lastSynchronized: '2026-10-17T09:21:54.619Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e730988076228a9ca7b74fe4f77eced2482f17c5f543435a3464cc58d413035e"
-    releasesEtag: W/"71942b2a9c4d5750ee2463d926a45efe8016b8c75e7457ee96df6c30523052be"
+    repoEtag: W/"808dbd8b4cf6593da6407f7506fa3841235011c8a8e78d32793b5c16b4a12a39"
+    releasesEtag: W/"59226ee6fe1091c8a814a782e81aac5b4206bd1799ad55c10f0e0889c72437a0"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

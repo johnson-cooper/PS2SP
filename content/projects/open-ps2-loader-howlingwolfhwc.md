@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2024-12-14T05:54:46Z'
   url: 'https://github.com/HowlingWolfHWC/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-15T09:55:56.503Z'
+  lastSynchronized: '2026-10-17T09:22:15.479Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f9e5f78c5a43b3f1886fa9e406ac0018c277ccbbeb318c0f0d0a00187fb3a7e8"
-    releasesEtag: W/"514c64e90cb4c673b9ca5448e87a898987e9d3b86779b25166f4d26e4cfcb4af"
+    repoEtag: W/"e8b1619cb271b5dd400508123982ce25a7a1a94c6c12f38cddf1095bc0da133c"
+    releasesEtag: W/"ec73cb1adef2ea11d7cc88bd07890e80a4a757a24456eb4f06a1bac9f54b22a8"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100
