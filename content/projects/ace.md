@@ -25,20 +25,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-14T17:18:23Z'
+  lastCommit: '2026-10-16T15:43:03Z'
 latestRelease:
-  tag: v0.1.17
-  name: ACE English 0.1.17
-  publishedAt: '2026-10-14T17:17:16Z'
-  url: 'https://github.com/retro-trans/ACE/releases/tag/v0.1.17'
+  tag: v0.1.20
+  name: ACE English 0.1.20
+  publishedAt: '2026-10-16T15:41:47Z'
+  url: 'https://github.com/retro-trans/ACE/releases/tag/v0.1.20'
 activity:
   lastChecked: '2026-10-14T18:54:17.306Z'
-  lastSynchronized: '2026-10-15T04:39:17.623Z'
+  lastSynchronized: '2026-10-17T04:26:21.705Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"042579ea46f2d9f578ffbe28914684ae7ddc8d3b84c57722fda131200f7a839e"
-    releasesEtag: W/"eeda3437949de27febb056ed144169b675ad9c2b31b19279bfeb46918cb7fe89"
+    repoEtag: W/"e4dcfde54b4b165f77bf237c98cc562cf1a8e42746de0bf669380826167e8bb3"
+    releasesEtag: W/"ff8ebdf35dc3c4443fc537c129a65a33a8a14a3098f0c184d544e587e74416bd"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

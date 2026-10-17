@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
-  lastCommit: '2026-10-13T14:05:17Z'
+  lastCommit: '2026-10-16T11:53:18Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.0.0
+  name: Quake PS2 - v1.0.0 - Initial release
+  publishedAt: '2026-10-15T14:23:56Z'
+  url: 'https://github.com/glampert/quake-ps2/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-10-15T04:40:23.855Z'
+  lastSynchronized: '2026-10-17T04:27:46.623Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f4d5ea09ca4e58508ea6dda836c4a32cbc1bc576e93a3ee597e39a8bc06fe3fc"
-    releasesEtag: '"44b1ba4084d820248d593d17d44378a8ad991da8f7aa397fcf2632bbae28147f"'
+    repoEtag: W/"70a95273559e56f40ae602fb8d28eac06e2e3886bacfbe2fdf22abdc4b500611"
+    releasesEtag: W/"4c9aef6f8e099b442693202d4893991995fc744537768678b719d88fcc9fc5ab"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

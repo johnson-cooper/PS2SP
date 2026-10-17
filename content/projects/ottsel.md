@@ -24,7 +24,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 7
+  stars: 8
   forks: 0
   lastCommit: '2026-10-12T14:37:50Z'
 latestRelease:
@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2026-10-12T14:03:00Z'
   url: 'https://github.com/chrissotraidis/ottsel/releases/tag/v0.1.0'
 activity:
-  lastSynchronized: '2026-10-15T04:39:55.242Z'
+  lastSynchronized: '2026-10-17T04:27:06.812Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c42fa278cf7aa6afc6f1ae7b94b52ff573100d2b4f655b272ae60bd104af76c6"
-    releasesEtag: W/"cb032d8914d5901b574e90ad852b73306b0dac1511c354103851c8d908f6d036"
+    repoEtag: W/"41a01194abe2b634edce37513b9f31f04de46bdef6dc1642825ac7dd565a57be"
+    releasesEtag: W/"b89fcde2f7ccd4627bd9f43f2b03e1b6cf275c755b152738188d7e5d6891c34c"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

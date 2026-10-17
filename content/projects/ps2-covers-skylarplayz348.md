@@ -15,7 +15,7 @@ license: null
 homepage: null
 source:
   provider: github
-  repository: SkylarPlayz348/ps2-covers
+  repository: fuzzyghosty/ps2-covers
   repositoryId: '1027046605'
 repository:
   archived: false
@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-15T04:40:10.542Z'
+  lastSynchronized: '2026-10-17T04:27:27.437Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3e8c336cae77d1925618c1b13c2c6cfd4af63fcda32c3203b0b15082510160f9"
-    releasesEtag: '"44b1ba4084d820248d593d17d44378a8ad991da8f7aa397fcf2632bbae28147f"'
+    repoEtag: W/"4c9831893442f2d050130bf918b30c7e28372f763d941bc0992625b46d027396"
+    releasesEtag: '"98596048ad4ed6d428cda1aefe56c090b0a676e6882b7939916543a0d18dc59d"'
 discovery:
   method: 'fork-network:xlenore/ps2-covers'
   confidence: 100

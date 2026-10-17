@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-03-08T03:32:01Z'
   url: 'https://github.com/dmasterso/firmware/releases/tag/FW_1.3'
 activity:
-  lastSynchronized: '2026-10-15T04:39:29.788Z'
+  lastSynchronized: '2026-10-17T04:26:37.355Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f7c1dca2c1d4047a8095c35d649876e91208eff4510299d434241fe0eb1718cb"
-    releasesEtag: W/"a96c254473e5d3050383b950f10019580add4b840900cf191c0bbd73e51ef67f"
+    repoEtag: W/"d74764ae8ef648221c391e6979ddfc468b6cce2e49e0eed9a0fb87c8d19692d7"
+    releasesEtag: W/"badc8acd0f6b3cc04ee5f8736b368d6349ee1b9b16f3174cb1c81f5aa63c2058"
 discovery:
   method: 'fork-network:sd2psXtd/firmware'
   confidence: 95

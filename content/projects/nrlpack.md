@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-09-25T01:15:58Z'
   url: 'https://github.com/hitchhikr/nrlpack/releases/tag/v1.4'
 activity:
-  lastSynchronized: '2026-10-15T04:39:47.995Z'
+  lastSynchronized: '2026-10-17T04:26:58.152Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"420097ca8bb131ffd00cc7e829b67512e88d9f76caf3756c1ccc1699a73cfa6e"
-    releasesEtag: W/"4309f7e7cca6cf50c8e10963123af715b1f724ff8adb69fd43329dddae1ceb59"
+    repoEtag: W/"21ac0f9444c694b1b7fcbac6223ec721e56e93ab45641a1a422c236a66a00cdd"
+    releasesEtag: W/"4d4880b02a4dd7d5fc44459ef0fb54222453e5b23461843538c085f083c4e011"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/BRAGme/TomClancyModStudio/releases/tag/v1.0'
 activity:
   lastChecked: '2026-09-29T00:28:31.965Z'
-  lastSynchronized: '2026-10-15T04:40:33.306Z'
+  lastSynchronized: '2026-10-17T04:27:56.703Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b1309551fa2ea575fd3ba0703d7ebcc06a9c82efe0d961e9c3c7a58c7a79ece9"
-    releasesEtag: W/"96c09f3b00a313df101f8a53ba790535a97890b64d7983b7213b53e421c935cd"
+    repoEtag: W/"080398cf55d64e38691d03a8c70cd85c80c025c99c06c10894b79761cf8ccbd3"
+    releasesEtag: W/"d9ec0e8d7582b78e04b1dc7568aea6ff60a14983465a1f7e95c57796edb550e4"
 discovery:
   method: github-search
   confidence: 100
