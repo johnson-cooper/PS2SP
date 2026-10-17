@@ -28,12 +28,12 @@ latestRelease:
   url: 'https://github.com/AndreicoderHacks/minictaft-ps2/releases/tag/Minicraft-ps2'
 activity:
   lastChecked: '2026-09-29T00:29:20.249Z'
-  lastSynchronized: '2026-10-16T17:24:49.175Z'
+  lastSynchronized: '2026-10-17T17:10:48.812Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"24e52b018283c7064eaefdea39b1476909be04ecf7b5a51691038df37d2fbba5"
-    releasesEtag: W/"a11448ec5c248fd1bb672a5f87035bea5d8caa667544b09ab73f15d5935ca252"
+    repoEtag: W/"96d6d008891453cf757fc908dcb13a0e302a7073145bbde966fd983b4450d1cd"
+    releasesEtag: W/"82161a5fbdabf3d166ad0fefdd7bfb33a431013e1d0f17098fe78a7812a60d71"
 discovery:
   method: github-search
   confidence: 100
