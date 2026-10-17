@@ -1,0 +1,16 @@
+{
+  "repository": "HenryKun55/celosia",
+  "repositoryId": "1402120014",
+  "url": "https://github.com/HenryKun55/celosia",
+  "description": "Native port of Shadow of the Colossus (PS2) to macOS and PS Vita: static recompilation with PS2Recomp, a native Metal/OpenGL renderer, and a decompilation in progress",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-17T19:42:53.994Z",
+  "checkedAt": "2026-10-17T19:42:53.994Z"
+}
