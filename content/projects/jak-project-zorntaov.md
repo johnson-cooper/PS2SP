@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-09T02:34:11.941Z'
+  lastSynchronized: '2026-10-18T14:35:07.007Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ce6e09ffc7eadaef2687e5679433cb7c10e87a7d4906c6c31f4f94f795e9b9c6"
+    releasesEtag: '"c640920e4e9bca10914115fba992c8215e6aa10a4c5308ecfe128fe0d3464883"'
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: open-goal/jak-project
   source: open-goal/jak-project
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

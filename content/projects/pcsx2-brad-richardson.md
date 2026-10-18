@@ -13,26 +13,26 @@ license: GPL-3.0
 homepage: 'https://pcsx2.net'
 source:
   provider: github
-  repository: brad-richardson/pcsx2
+  repository: brad-richardson/armsx2
   repositoryId: '1390775304'
 repository:
   archived: false
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-06T19:01:43Z'
+  lastCommit: '2026-10-17T22:57:09Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-07T14:34:29.970Z'
+  lastSynchronized: '2026-10-18T14:35:36.153Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"04e17091629862980c4b34863efe8900e254863bf3b24f0feee88d30bb202df8"
-    releasesEtag: '"a8b72fc23874e1701b2920e2e37cd2ca4913fb4b114fa3cba3efba72e700fa11"'
+    repoEtag: W/"b90800c3587238e973f3136cf4fe5cf6d0ea88ae1c64c095c0f3c6e50f226f59"
+    releasesEtag: '"c640920e4e9bca10914115fba992c8215e6aa10a4c5308ecfe128fe0d3464883"'
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

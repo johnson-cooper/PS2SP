@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: '2025-02-21T20:50:50Z'
   url: 'https://github.com/pcm720/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-11T20:34:57.079Z'
+  lastSynchronized: '2026-10-18T14:35:28.252Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"86a071a0dbbffba079d084cbae4c898e86120bfb1779398d6f9421684329dcd2"
+    releasesEtag: W/"aecf6665abea0e7c1945d42075343119ec3ec2025be95b7fa4319b28b2cad340"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100
@@ -57,5 +60,4 @@ relationships:
   forkOf: ps2homebrew/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

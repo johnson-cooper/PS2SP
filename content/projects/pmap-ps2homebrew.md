@@ -22,19 +22,19 @@ repository:
   defaultBranch: master
   stars: 133
   forks: 15
-  lastCommit: '2026-03-27T13:18:59Z'
+  lastCommit: '2026-10-09T10:03:50Z'
 latestRelease:
   tag: v1.2
   name: PMAP v1.2
   publishedAt: '2023-07-23T14:12:53Z'
   url: 'https://github.com/ps2homebrew/PMAP/releases/tag/v1.2'
 activity:
-  lastSynchronized: '2026-10-07T14:34:35.657Z'
+  lastSynchronized: '2026-10-18T14:35:46.233Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"dcb401841cc18682354228e790ccd32ec4d88d2a134c4ec241b3b66ec34456d1"
-    releasesEtag: W/"522cf7f131bed9bd58fbc79c509ab96cf97b1977e958ab1e7be47c5ed94f0824"
+    repoEtag: W/"8864179b12ecba8d5ce3fbc814d1e40b2d7094136b16ba571469d3b85c29532b"
+    releasesEtag: W/"9f9d78e8ce893bbda9292b4a74a6da2968988cf2449c2b238ae43de14dbc798d"
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100

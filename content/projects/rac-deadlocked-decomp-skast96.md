@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-18T11:43:27.443Z'
+  lastSynchronized: '2026-10-18T14:36:19.339Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"acb51cb79a93df0eddbb27036778c502c59b1bc816e6bfbad24e6ba9975aebde"
+    releasesEtag: '"c640920e4e9bca10914115fba992c8215e6aa10a4c5308ecfe128fe0d3464883"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: OpenRAC/rac-deadlocked-decomp
   source: OpenRAC/rac-deadlocked-decomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

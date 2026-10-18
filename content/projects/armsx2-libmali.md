@@ -23,7 +23,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 12
+  stars: 14
   forks: 1
   lastCommit: '2026-10-14T19:28:15Z'
 latestRelease:
@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/bmdhacks/malisx2/releases/tag/v0.1.5'
 activity:
   lastChecked: '2026-09-30T16:31:42.278Z'
-  lastSynchronized: '2026-10-17T05:49:51.650Z'
+  lastSynchronized: '2026-10-18T14:34:42.827Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"67d2b04cc5022263388d126b36b7d4382ed09009c270983d6254f043153eb0d9"
-    releasesEtag: W/"25e6f08c6cd71d890af7416ba0dda413f9cb3e8d62c7d132b5d3a7d666247308"
+    repoEtag: W/"1a88e6efd67c2d2f3d9b2d147ad824f43a338b9e9ca8d77c1dfc5760fc90e90e"
+    releasesEtag: W/"fa281b3257540845e75dadc26295564c2f4beada8a0d3793bef510f0e32e7c6d"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

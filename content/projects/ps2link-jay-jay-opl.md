@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2021-07-22T12:09:14Z'
   url: 'https://github.com/Jay-Jay-OPL/ps2link/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-07T14:34:46.871Z'
+  lastSynchronized: '2026-10-18T14:36:02.069Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b9aaaf75c2a7680698d801019c2d64bc167b00ffa5402f055840390d597d7283"
-    releasesEtag: W/"e1615da6467f2cd85684253b102a2fc50532486d3d8f43e8b04e98d11ece6477"
+    repoEtag: W/"6c82473dea51222146916a476e435aca68564474ee823dcd0e328e94d097b013"
+    releasesEtag: W/"5e08e0cb65d4aeee77a0eb5192e24f1388c1050e51b1377e1bd74d3fe29df84a"
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100

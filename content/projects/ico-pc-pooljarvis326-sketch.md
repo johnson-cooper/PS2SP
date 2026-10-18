@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-08T02:16:36.120Z'
+  lastSynchronized: '2026-10-18T14:35:05.465Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0b0c2e17646faa47bce6f1b3c31a952b6746e27019f692ec816d1c205b819701"
+    releasesEtag: '"c640920e4e9bca10914115fba992c8215e6aa10a4c5308ecfe128fe0d3464883"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -53,5 +56,4 @@ relationships:
   forkOf: nathanialf/ico-pc
   source: nathanialf/ico-pc
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -23,23 +23,23 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 5
+  stars: 7
   forks: 0
-  lastCommit: '2026-10-04T14:03:23Z'
+  lastCommit: '2026-10-09T00:52:27Z'
 latestRelease:
-  tag: xbox-v1.2
-  name: OptiCraft Heritage Edition — Xbox original v1.2
-  publishedAt: '2026-10-04T14:03:23Z'
+  tag: xbox-v1.3
+  name: OptiCraft Heritage Edition — Xbox original v1.3
+  publishedAt: '2026-10-09T00:52:27Z'
   url: >-
-    https://github.com/xeodeo/OptiCraft-Heritage-XBOX-CLASSIC-Edition/releases/tag/xbox-v1.2
+    https://github.com/xeodeo/OptiCraft-Heritage-XBOX-CLASSIC-Edition/releases/tag/xbox-v1.3
 activity:
   lastChecked: '2026-09-29T11:01:59.784Z'
-  lastSynchronized: '2026-10-07T14:34:26.948Z'
+  lastSynchronized: '2026-10-18T14:35:33.031Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b00709bdba4b2e52de868971b63a38028e25bd6332cccb4727505b9f5c13a19d"
-    releasesEtag: W/"ea60e2a3c881aa1ad122bcd0b29c32683496d8f3fee2d06352a11a2561d8afcb"
+    repoEtag: W/"a1db75f3c8580ac3879440ab0690af16b4f499d166159dc4683255a5f3dd68fc"
+    releasesEtag: W/"110c20735b082c054d89d741814c7d29755ea70c8d4329d93b5049188399b585"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 75

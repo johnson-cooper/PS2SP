@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2024-11-12T04:38:21Z'
   url: 'https://github.com/d3vsaurio/DDLC-PS2-Source/releases/tag/v0.1.5-beta'
 activity:
-  lastSynchronized: '2026-10-17T05:51:58.771Z'
+  lastSynchronized: '2026-10-18T14:34:49.559Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5f424a886ac71ce966681a236786f193bbe64c0a5ce5f0eee1f22493ebd7a3ae"
-    releasesEtag: W/"3e0c0d0df4b27a58311b7400169126602a35480880abe1ede7932eb912d6dba7"
+    repoEtag: W/"f0fa15a735745566191fa605da5c5831fe8a59a5a5785357ccd579cb0ef6032a"
+    releasesEtag: W/"1cf5df9b44eb3058b79be86e14e5f42e31171b586025c74d46f7f00038138d6d"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100
