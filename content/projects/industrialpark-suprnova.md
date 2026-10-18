@@ -23,19 +23,22 @@ source:
   repositoryId: '553831209'
 repository:
   archived: false
-  defaultBranch: feature/improved-importing
+  defaultBranch: hotfix/default-game-on-import
   stars: 0
   forks: 0
-  lastCommit: '2026-10-01T02:13:09Z'
+  lastCommit: '2026-10-04T19:16:25Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T10:27:58.408Z'
+  lastSynchronized: '2026-10-18T05:54:25.177Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"90b5433a67927ea5be0b28e2de3b4054a3bc43503fc3018b321ea79d768d3df6"
+    releasesEtag: '"53e1ce7a7588de96165064ab591fb75cafed13b2912a398801a5356c31241576"'
 discovery:
   method: 'fork-network:igorseabra4/IndustrialPark'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: igorseabra4/IndustrialPark
   source: igorseabra4/IndustrialPark
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

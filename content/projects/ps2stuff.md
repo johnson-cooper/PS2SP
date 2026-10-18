@@ -1,7 +1,9 @@
 ---
 name: ps2stuff
 slug: ps2stuff
-summary: "Support library containing math, matrix, and low-level utility routines for the ps2gl 3D graphics library."
+summary: >-
+  Support library containing math, matrix, and low-level utility routines for
+  the ps2gl 3D graphics library.
 categories:
   - development
   - libraries
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T05:54:43.988Z'
+  lastSynchronized: '2026-10-18T05:55:32.629Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3db362f0d4739eb0ab972aa8094fdfe211be1ab02e9cdf8a131ea4e2a7fee41b"
-    releasesEtag: '"a8e2da9a1ff3d4d61c68fe431338dfeadc6bf7522dcecc0d824a62e17c993c27"'
+    repoEtag: W/"39902b25890fb3b8160079b1fb2c5089deebf1fef3d6a92b0b26ded05c21dccf"
+    releasesEtag: '"53e1ce7a7588de96165064ab591fb75cafed13b2912a398801a5356c31241576"'
 discovery:
   method: 'trusted-owner:ps2dev'
   confidence: 100

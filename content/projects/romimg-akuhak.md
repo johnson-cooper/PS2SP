@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: '2024-09-16T18:45:59Z'
   url: 'https://github.com/AKuHAK/ROMIMG/releases/tag/Latest'
 activity:
-  lastSynchronized: '2026-10-09T02:34:11.941Z'
+  lastSynchronized: '2026-10-18T05:55:43.563Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"222fe61c0ab923dcd61ed4303470c227d12ba2d4f4655bc0efda400659911bea"
+    releasesEtag: W/"a452ed3d064d2395c092f6f9217901647f2d5f6a0c7964cf85c0ce00573f6c33"
 discovery:
   method: 'fork-network:israpps/ROMIMG'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: israpps/ROMIMG
   source: israpps/ROMIMG
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

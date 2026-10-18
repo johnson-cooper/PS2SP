@@ -35,12 +35,12 @@ latestRelease:
   url: 'https://github.com/danielnuld/Open-PS2-Loader/releases/tag/ps5-ui-v2'
 activity:
   lastChecked: '2026-09-29T00:31:29.234Z'
-  lastSynchronized: '2026-10-01T05:54:40.860Z'
+  lastSynchronized: '2026-10-18T05:54:42.015Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a8b19a9af516b436b29e4308427a8518f946068eca369795c1b066ce5c8adeef"
-    releasesEtag: W/"5fce48bea8ad179306c81855210730e8bd588a6fce71dc570b5aa2419cf08c08"
+    repoEtag: W/"11981cb13247e981a8cdaaff3cc3fa89601e6db25e7d10a26c4becd60919cd94"
+    releasesEtag: W/"ee12d266168d84978d4656449b0eef79976e8462fba2653d808eccc363ff11d9"
 discovery:
   method: github-maintained-fork
   confidence: 100

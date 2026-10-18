@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-16T01:39:51.910Z'
+  lastSynchronized: '2026-10-18T05:55:03.454Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f5496d6b292dfc6c0c593f5baa2d4fc44a7316a944d81b4d904ba8266cab4269"
+    releasesEtag: '"53e1ce7a7588de96165064ab591fb75cafed13b2912a398801a5356c31241576"'
 discovery:
   method: 'fork-network:warmenhoven/ps2'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: warmenhoven/ps2
   source: libretro/ps2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

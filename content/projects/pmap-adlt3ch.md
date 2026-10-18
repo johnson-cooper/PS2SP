@@ -1,7 +1,9 @@
 ---
 name: PMAP
 slug: pmap-adlt3ch
-summary: "PlayStation 2 MechaCon Adjustment Program for servicing, calibrating, and diagnosing the CD/DVD drive subsystem and EEPROM."
+summary: >-
+  PlayStation 2 MechaCon Adjustment Program for servicing, calibrating, and
+  diagnosing the CD/DVD drive subsystem and EEPROM.
 categories:
   - hardware
   - utilities
@@ -28,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T17:09:08.395Z'
+  lastSynchronized: '2026-10-18T05:55:02.285Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b880cd99af6950c12ef4e89379399beb3a376dab203ab1f61fecdaecee6fa6f1"
+    releasesEtag: '"53e1ce7a7588de96165064ab591fb75cafed13b2912a398801a5356c31241576"'
 discovery:
   method: 'fork-network:ps2homebrew/PMAP'
   confidence: 95
@@ -45,5 +50,4 @@ relationships:
   forkOf: ps2homebrew/PMAP
   source: ps2homebrew/PMAP
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

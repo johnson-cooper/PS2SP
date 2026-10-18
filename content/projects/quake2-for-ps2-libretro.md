@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T10:40:07.412Z'
+  lastSynchronized: '2026-10-18T05:55:40.117Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2c7c590bc40caf1d83044cfbd872983171d77ebbf3b6909d1e929a22487a81eb"
+    releasesEtag: '"53e1ce7a7588de96165064ab591fb75cafed13b2912a398801a5356c31241576"'
 discovery:
   method: 'fork-network:glampert/quake2-ps2'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: glampert/quake2-ps2
   source: glampert/quake2-ps2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

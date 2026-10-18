@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T09:01:16.324Z'
+  lastSynchronized: '2026-10-18T05:55:17.735Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c912b140f64a81cb7935206da097c842607da5fbd91b7a3d1f3f1b3459fb7f0b"
+    releasesEtag: '"53e1ce7a7588de96165064ab591fb75cafed13b2912a398801a5356c31241576"'
 discovery:
   method: 'fork-network:ps2dev/ps2dev-docker'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: ps2dev/ps2dev-docker
   source: ps2dev/ps2dev-docker
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

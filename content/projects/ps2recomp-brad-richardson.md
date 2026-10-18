@@ -23,16 +23,22 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-02T15:04:13Z'
+  lastCommit: '2026-10-18T05:26:24Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: >-
+    android-prebuilt-82fcd61da77efd7d2ae449cd53a2a9c55122f53430a245ba8dfa33fc4c29302c
+  name: >-
+    android-prebuilt-82fcd61da77efd7d2ae449cd53a2a9c55122f53430a245ba8dfa33fc4c29302c
+  publishedAt: '2026-10-16T05:46:45Z'
+  url: >-
+    https://github.com/brad-richardson/PS2Recomp/releases/tag/android-prebuilt-82fcd61da77efd7d2ae449cd53a2a9c55122f53430a245ba8dfa33fc4c29302c
 activity:
-  lastSynchronized: '2026-10-02T15:58:32.409Z'
+  lastSynchronized: '2026-10-18T05:55:23.142Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0cbd01ae6b314841c98039d8b2cbe49fdb7e5becfcd2073c1e6ed14e74a64d77"
+    releasesEtag: W/"0441a762e5a42f646d165009e5ad5982849f5a3a7479a6b876443b90fd7d979b"
 discovery:
   method: 'fork-network:ran-j/PS2Recomp'
   confidence: 100
@@ -48,5 +54,4 @@ relationships:
   forkOf: ran-j/PS2Recomp
   source: ran-j/PS2Recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

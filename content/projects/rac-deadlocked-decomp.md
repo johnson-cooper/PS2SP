@@ -9,27 +9,30 @@ tags:
   - auto-discovered
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: 'https://openrac.dev/'
 source:
   provider: github
-  repository: Lynder063/rac-deadlocked-decomp
+  repository: OpenRAC/rac-deadlocked-decomp
   repositoryId: '1404277274'
 repository:
   archived: false
   defaultBranch: main
-  stars: 3
-  forks: 0
-  lastCommit: '2026-10-04T18:47:27Z'
+  stars: 16
+  forks: 3
+  lastCommit: '2026-10-15T19:25:37Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-04T18:47:49.763Z'
+  lastSynchronized: '2026-10-18T05:55:41.122Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"10de11d5e0c7d451bdc22c9231d2405f5f0c71f685135435e2ab4c25e8d396ab"
+    releasesEtag: '"53e1ce7a7588de96165064ab591fb75cafed13b2912a398801a5356c31241576"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -42,5 +45,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

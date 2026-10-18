@@ -1,7 +1,9 @@
 ---
 name: libtap
 slug: libtap-jay-jay-opl
-summary: "C testing library implementing the Test Anything Protocol (TAP), ported to the PS2SDK."
+summary: >-
+  C testing library implementing the Test Anything Protocol (TAP), ported to the
+  PS2SDK.
 categories:
   - libraries
   - development
@@ -28,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:17:04.836Z'
+  lastSynchronized: '2026-10-18T05:54:34.030Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"23e1665437f3890264c4162ff705b83b4833a1191c909dfe810d486b11d2ff92"
+    releasesEtag: '"53e1ce7a7588de96165064ab591fb75cafed13b2912a398801a5356c31241576"'
 discovery:
   method: 'fork-network:ps2dev/libtap'
   confidence: 95
@@ -44,5 +49,4 @@ relationships:
   forkOf: ps2dev/libtap
   source: zorgnax/libtap
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

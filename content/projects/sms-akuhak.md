@@ -1,7 +1,9 @@
 ---
 name: SMS
 slug: sms-akuhak
-summary: "Simple Media System (SMS) multimedia player for PlayStation 2 supporting DivX, AVI, and MP3 audio."
+summary: >-
+  Simple Media System (SMS) multimedia player for PlayStation 2 supporting DivX,
+  AVI, and MP3 audio.
 categories:
   - media
 tags:
@@ -33,9 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T14:55:33.658Z'
+  lastSynchronized: '2026-10-18T05:55:46.040Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"31f5fdd4b59c655037660476ed1cd4e362558ebdec9d44d16f72abc369efd61f"
+    releasesEtag: '"53e1ce7a7588de96165064ab591fb75cafed13b2912a398801a5356c31241576"'
 discovery:
   method: 'fork-network:ps2homebrew/SMS'
   confidence: 95
@@ -51,5 +56,4 @@ relationships:
   forkOf: ps2homebrew/SMS
   source: ps2homebrew/SMS
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

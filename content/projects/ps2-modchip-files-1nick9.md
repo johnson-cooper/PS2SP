@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-08T09:28:07.188Z'
+  lastSynchronized: '2026-10-18T05:55:11.827Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e662ebd29d51eb557da891ae2f4fd5cceba76f337a1b9dbf4174ec8ee5d3b39c"
+    releasesEtag: '"53e1ce7a7588de96165064ab591fb75cafed13b2912a398801a5356c31241576"'
 discovery:
   method: 'fork-network:m4x10187/ps2-modchip-files'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: m4x10187/ps2-modchip-files
   source: m4x10187/ps2-modchip-files
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

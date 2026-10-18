@@ -21,7 +21,7 @@ license: null
 homepage: null
 source:
   provider: github
-  repository: SkylarPlayz348/wLaunchELF
+  repository: fuzzyghosty/wLaunchELF
   repositoryId: '1008701575'
 repository:
   archived: false
@@ -33,11 +33,14 @@ latestRelease:
   tag: Nightly
   name: Nightly
   publishedAt: '2025-07-08T21:18:09Z'
-  url: 'https://github.com/SkylarPlayz348/wLaunchELF/releases/tag/Nightly'
+  url: 'https://github.com/fuzzyghosty/wLaunchELF/releases/tag/Nightly'
 activity:
-  lastSynchronized: '2026-10-03T22:26:09.550Z'
+  lastSynchronized: '2026-10-18T05:55:57.927Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8a49b922d59cf78d5eab6a35029509b92fc8f04aac99e52598e796396ac836f1"
+    releasesEtag: W/"075acaacb45847c47e89bafd29c573ca5d74e6eba6f349a5aa2c823a7903df60"
 discovery:
   method: 'fork-network:ps2homebrew/wLaunchELF'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: ps2homebrew/wLaunchELF
   source: ps2homebrew/wLaunchELF
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2025-12-19T22:56:00Z'
   url: 'https://github.com/gferrerds/FORK-Open-PS2-Loader/releases/tag/v1.1.0'
 activity:
-  lastSynchronized: '2026-10-07T16:30:35.436Z'
+  lastSynchronized: '2026-10-18T05:54:16.752Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6daaf415711cea850c4348f13d111110534cf6777d681b81420f892b6d091093"
-    releasesEtag: W/"f9a47000d447f63f14df1f2bc8831f27afc897de43311dfd88241f016eba1e87"
+    repoEtag: W/"8cd54ce07411c710d867473f53e861359a8c2d5af872da5bcabc918c08ebd3af"
+    releasesEtag: W/"98f994cac044fc01f63682764b1b953dd1bc73cdbe63c25c05e338ecd43ade4e"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

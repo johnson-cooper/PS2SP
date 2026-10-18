@@ -21,16 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-06T09:36:06Z'
+  lastCommit: '2026-10-17T16:45:19Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-06T10:47:00.780Z'
+  lastSynchronized: '2026-10-18T05:55:51.485Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"acd6f81f18e6dec00e36c9e859c28319d797e07594edfff8874bbb9e6af64474"
+    releasesEtag: '"53e1ce7a7588de96165064ab591fb75cafed13b2912a398801a5356c31241576"'
 discovery:
   method: 'incremental:"PS2 homebrew" in:name,description,readme'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: doctorspider42/tyraX
   source: doctorspider42/tyraX
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

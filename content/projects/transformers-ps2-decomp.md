@@ -15,23 +15,26 @@ license: null
 homepage: null
 source:
   provider: github
-  repository: kayliox/transformers-ps2-decomp
+  repository: kayliox/transformers-armada-ps2-mods
   repositoryId: '1421331108'
 repository:
   archived: false
   defaultBranch: main
-  stars: 2
+  stars: 5
   forks: 0
-  lastCommit: '2026-10-15T21:32:53Z'
+  lastCommit: '2026-10-17T22:55:08Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-15T23:18:28.396Z'
+  lastSynchronized: '2026-10-18T05:55:49.014Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c0eee68b7318a4194276d00c629a994a5e0a7e35b3dc3fb73692254c1014201b"
+    releasesEtag: '"53e1ce7a7588de96165064ab591fb75cafed13b2912a398801a5356c31241576"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

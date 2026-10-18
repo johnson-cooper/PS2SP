@@ -1,7 +1,9 @@
 ---
 name: ps2-unpacker
 slug: ps2-unpacker-goatman13
-summary: "Decompressor and unpacker for PlayStation 2 ELF files compressed with ps2-packer or UPX."
+summary: >-
+  Decompressor and unpacker for PlayStation 2 ELF files compressed with
+  ps2-packer or UPX.
 categories:
   - development
   - utilities
@@ -28,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-02T09:01:16.324Z'
+  lastSynchronized: '2026-10-18T05:55:13.913Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c64762a62ca2a6aef57584a16cafbb26fbd29600aa423f4ed68b486bfaaa76e0"
+    releasesEtag: '"53e1ce7a7588de96165064ab591fb75cafed13b2912a398801a5356c31241576"'
 discovery:
   method: 'fork-network:ps2homebrew/ps2-unpacker'
   confidence: 95
@@ -45,5 +50,4 @@ relationships:
   forkOf: ps2homebrew/ps2-unpacker
   source: ps2homebrew/ps2-unpacker
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
