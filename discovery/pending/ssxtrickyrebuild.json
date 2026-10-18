@@ -1,0 +1,16 @@
+{
+  "repository": "Joelrau/SSXTrickyRebuild",
+  "repositoryId": "1424734444",
+  "url": "https://github.com/Joelrau/SSXTrickyRebuild",
+  "description": "Unofficial PC rebuild of SSX Tricky (PS2) in Unreal Engine 5.8",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-18T21:02:34.258Z",
+  "checkedAt": "2026-10-18T21:02:34.258Z"
+}

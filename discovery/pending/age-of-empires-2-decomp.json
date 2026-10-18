@@ -1,0 +1,16 @@
+{
+  "repository": "samuelcaldas/age-of-empires-2-decomp",
+  "repositoryId": "1414391979",
+  "url": "https://github.com/samuelcaldas/age-of-empires-2-decomp",
+  "description": "Matching decompilation of Age of Empires II (PC and PS2)",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-18T21:02:34.258Z",
+  "checkedAt": "2026-10-18T21:02:34.258Z"
+}

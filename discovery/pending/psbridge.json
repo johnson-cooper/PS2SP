@@ -8,9 +8,9 @@
     "repository description explicitly identifies PS2",
     "README explicitly mentions PlayStation 2"
   ],
-  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "origin": "pending-recheck",
   "maturity": "active-wip",
   "fork": null,
   "discoveredAt": "2026-10-17T21:45:31.930Z",
-  "checkedAt": "2026-10-17T21:45:31.930Z"
+  "checkedAt": "2026-10-18T21:02:34.258Z"
 }
