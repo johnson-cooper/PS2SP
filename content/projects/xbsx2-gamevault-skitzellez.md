@@ -22,16 +22,19 @@ repository:
   defaultBranch: gamevault
   stars: 0
   forks: 0
-  lastCommit: '2026-10-14T22:38:35Z'
+  lastCommit: '2026-10-17T22:35:17Z'
 latestRelease:
-  tag: gv-2.0.9.6
-  name: XBSX2 for Game Vault 2.0.9.6
-  publishedAt: '2026-10-14T22:38:41Z'
-  url: 'https://github.com/skitzellez/XBSX2-GameVault/releases/tag/gv-2.0.9.6'
+  tag: gv-2.0.9.8
+  name: XBSX2 for Game Vault 2.0.9.8
+  publishedAt: '2026-10-17T22:35:23Z'
+  url: 'https://github.com/skitzellez/XBSX2-GameVault/releases/tag/gv-2.0.9.8'
 activity:
-  lastSynchronized: '2026-10-14T22:38:09.246Z'
+  lastSynchronized: '2026-10-18T18:07:06.084Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c3582e3140a7321cbc32f0541f9ea1b5043db7f9fb09b7df79b70ebe9327d6b9"
+    releasesEtag: W/"94a39b806f2f6773cb35db2962d9ecd722852b3e70c0d5c61f0b1f44576c0bc1"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: XboxEmulationHub/XBSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

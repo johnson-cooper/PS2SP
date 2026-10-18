@@ -22,18 +22,21 @@ source:
 repository:
   archived: false
   defaultBranch: psp
-  stars: 0
+  stars: 1
   forks: 0
-  lastCommit: '2026-10-17T05:32:45Z'
+  lastCommit: '2026-10-18T01:18:11Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-17T05:53:23.162Z'
+  lastSynchronized: '2026-10-18T18:06:29.372Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e63e673b545347b5348e72cb7abf5b7cb9227fe76b46ac036b66dcb9f459013d"
+    releasesEtag: '"3a10a357139e06e0bd03a0e7f735d42a71102deec1ac528f32a4b17f5c442c49"'
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: dnllnoe/pokeemerald-ps2
   source: dnllnoe/pokeemerald-ps2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

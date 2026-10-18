@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-16T09:38:36Z'
   url: 'https://github.com/rote66/ARMSX2_IOS14/releases/tag/2.6.0'
 activity:
-  lastSynchronized: '2026-10-17T05:49:55.577Z'
+  lastSynchronized: '2026-10-18T18:05:47.321Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2c4e4f973a48a8fa096c106cb7df05ca772371c8c334f6fe0d258708e5789a40"
-    releasesEtag: W/"eb6e9c3d0d65a6d73bb707c56ca3ac863bc6a18a991619c1edc26bb14b2d6a90"
+    repoEtag: W/"071c2ee8f95790d82801c837339e7c7bc3d43dae1236fb369f83b1eba2990db8"
+    releasesEtag: W/"d2d27af0cf3f424d5d878748b1ecc6b4f2d219258adf82bca7bf7b40eb3a9157"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

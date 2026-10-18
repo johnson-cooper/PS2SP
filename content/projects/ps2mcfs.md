@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2023-05-02T19:38:07Z'
   url: 'https://github.com/FranciscoDA/ps2mcfs/releases/tag/0.0.1'
 activity:
-  lastSynchronized: '2026-10-10T18:37:00.894Z'
+  lastSynchronized: '2026-10-18T18:06:43.774Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a3161179233230d66a53082a0411574ffc6e909a6170764b3315f09cda179655"
-    releasesEtag: W/"0e6d20e0f8e669fa8081ee9b9e23817b30f9a619b32d5ec35142f5562c10a66a"
+    repoEtag: W/"a6ef19fe973f7eda3a5cc21a6f7f8bec0325f0ce4202dbaa24d1db62fad0d8c0"
+    releasesEtag: W/"90d1c792b4326ab906ae68fa8b03bc95857812c007eaf4788b478241da16437f"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

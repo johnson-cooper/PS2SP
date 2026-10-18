@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 52
+  stars: 53
   forks: 5
   lastCommit: '2026-09-23T21:03:36Z'
 latestRelease:
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/mszula/wacki/releases/tag/v1.2.4'
 activity:
   lastChecked: '2026-09-29T00:28:55.301Z'
-  lastSynchronized: '2026-10-10T18:37:16.482Z'
+  lastSynchronized: '2026-10-18T18:07:04.076Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bb46e0c6076bc58908df78a0dc6b6215c710d099614b7324abb6266df6bf6aaf"
-    releasesEtag: W/"b32f9ed5dee06ade6a7b17fe25fa060ade39060e43db4799782172977ac7f535"
+    repoEtag: W/"4f5726e9d243334022e69b252d3ea29c2dd43d2ec38a40ac1225a028759e067a"
+    releasesEtag: W/"5b158cf2046d929ff5a02139777d3fbad5af998a4aa5a558385a1897afed78fb"
 discovery:
   method: github-search
   confidence: 100

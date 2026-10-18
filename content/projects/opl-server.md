@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2022-08-24T06:19:55Z'
   url: 'https://github.com/elmariolo/OPL-Server/releases/tag/v2.0'
 activity:
-  lastSynchronized: '2026-10-10T18:36:35.848Z'
+  lastSynchronized: '2026-10-18T18:06:13.257Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"282e6d93bf7cbb22eb1efe82ece540a996e99eb26eda98c28f344b5526000b85"
-    releasesEtag: W/"2e81a0c8f277d7dd7ff4d1d1582e4e9468f40f1313df552682981f71aa86295e"
+    repoEtag: W/"da7ffcaf241ca02f7ad20aeedcb3500c05af1316b56093c4a03cd1635c561fd7"
+    releasesEtag: W/"eccf01786c6ce902ea3453c1476ace1c26b1d3c85714f442f058209a273251d0"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

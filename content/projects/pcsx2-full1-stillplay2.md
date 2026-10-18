@@ -20,19 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-09-01T15:16:33Z'
+  lastCommit: '2026-10-11T18:56:12Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-10T18:36:40.750Z'
+  lastSynchronized: '2026-10-18T18:06:19.306Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"db24fbf854adaa3ea382388093e9f6a0aee21ca9f924ca6202d5bd66b13a1236"
-    releasesEtag: '"14fdd5ce5faa26573e6e5f7c883ef741d122f290f8f82644e7c00908158bce0f"'
+    repoEtag: W/"b0d812074d93fc9e025a2039ffeda45c6d7dd8a33765fe0d2db926cd492bb71d"
+    releasesEtag: '"3a10a357139e06e0bd03a0e7f735d42a71102deec1ac528f32a4b17f5c442c49"'
 discovery:
   method: 'fork-network:DiscoStarslayer/pcsx2-reliquary'
   confidence: 100

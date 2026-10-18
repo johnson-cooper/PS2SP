@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-10-13T22:42:51Z'
   url: 'https://github.com/itsbalanse/BokuraNoKazoku-English/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-10-17T05:50:41.800Z'
+  lastSynchronized: '2026-10-18T18:05:49.185Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"31285ab086b559dbc9c6e91fd0126cf081095bc108751d8fe96d4c67c35f0c49"
-    releasesEtag: W/"5ab4a53c86b1cffab66e87a7a67e0cce672202a704909e32425dd638da7e6cde"
+    repoEtag: W/"04aebc73056a6dd949225371fcb69f626adbec1b8132fbd47a47c8b12fb27081"
+    releasesEtag: W/"7c72d8f16cfa72e17e20861a87273b53700f45b63e55bda16eaf744b9c44f559"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-10T18:37:15.495Z'
+  lastSynchronized: '2026-10-18T18:07:03.238Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c4387456899ad1f0429f236ea71fed7e0e9f463d7795104219a03ab7e8485b9e"
-    releasesEtag: '"14fdd5ce5faa26573e6e5f7c883ef741d122f290f8f82644e7c00908158bce0f"'
+    repoEtag: W/"cd6849f3fe95b68b407469f549baecaa10a6333595e8c1b5ab6fa131057c51af"
+    releasesEtag: '"3a10a357139e06e0bd03a0e7f735d42a71102deec1ac528f32a4b17f5c442c49"'
 discovery:
   method: 'fork-network:ps2dev/pthread-embedded'
   confidence: 95

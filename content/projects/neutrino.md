@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/ps2max32/neutrino/releases/tag/v1.8.0'
 activity:
   lastChecked: '2026-09-29T00:27:06.249Z'
-  lastSynchronized: '2026-10-10T18:36:30.807Z'
+  lastSynchronized: '2026-10-18T18:06:05.660Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b69ee7d841dfaf1059f1f5fa26a4d8a33e359781f9edee91613447cd47d464af"
-    releasesEtag: W/"0ba95214454d75d4b3b3ff34c98202eced1cdaeb94d7905f21f267b79cc9bd88"
+    repoEtag: W/"89f138841b0c4e17a9efd3c8f8c9ab4a1cbb55a657dc69e081b1a39ce9862b9d"
+    releasesEtag: W/"15d3d5f41c0f5145dc43cd0bbb868af96f3fa766855f97bccc4d6857840d08d7"
 discovery:
   method: curated
   confidence: 100
