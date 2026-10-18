@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-01-04T12:19:54Z'
   url: 'https://github.com/gecm0/POUM/releases/tag/v0.2.3'
 activity:
-  lastSynchronized: '2026-10-14T20:43:24.122Z'
+  lastSynchronized: '2026-10-18T20:44:32.235Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e7aad6efd843ee9e84131eec9e68e7a21fafa39defd0d8910be34a7a756a2ec2"
-    releasesEtag: W/"86cad1d6d38049e46b888a68313caf81214908df94eed361d849ba89768c2e71"
+    repoEtag: W/"c61d806d80caeee1e0e6daf29499b7b1606ceaa9216f60efdef25c432ae714fe"
+    releasesEtag: W/"3a5b3abf79a99b416ee8c6c0e3e8be52cd4f03f3f1f8b08e3885accd04e46f1f"
 discovery:
   method: pending-recheck
   confidence: 100

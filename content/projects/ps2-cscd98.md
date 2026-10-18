@@ -25,19 +25,19 @@ repository:
   defaultBranch: libretroization
   stars: 0
   forks: 0
-  lastCommit: '2026-09-04T12:23:05Z'
+  lastCommit: '2026-10-18T19:29:38Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-14T20:43:28.243Z'
+  lastSynchronized: '2026-10-18T20:44:38.037Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"02eb75b57bced7ba8b3100e996d2df24bef25cd1b32ab4cee3f64865537560fa"
-    releasesEtag: '"d6400b74e2c16d570917aea177364224d745a12da52ea23ff278bcd072df9cc2"'
+    repoEtag: W/"a57185093b282738523e012a50a8ab7c68bc124da6119d02514c43f797e0db54"
+    releasesEtag: '"70c073f48b30b064504e1977c14df58187ccfc7b599bc4ec3575250642ef9041"'
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 100

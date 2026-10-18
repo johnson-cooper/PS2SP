@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-18T06:36:07.983Z'
+  lastSynchronized: '2026-10-18T20:44:06.210Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6efdd8a609797943af7b1d41f434526c65d42ddee5359a1559ead89d64bc5a37"
+    releasesEtag: '"70c073f48b30b064504e1977c14df58187ccfc7b599bc4ec3575250642ef9041"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: lombyte-project/Lombyte
   source: lombyte-project/Lombyte
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -38,12 +38,12 @@ latestRelease:
   publishedAt: '2026-10-06T03:43:11Z'
   url: 'https://github.com/higorhgon/Open-PS2-Loader/releases/tag/rolling'
 activity:
-  lastSynchronized: '2026-10-14T20:43:04.479Z'
+  lastSynchronized: '2026-10-18T20:44:15.287Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ebe8c116a74a644c58fcaf697ec023adfe06a1d97686953bb23847543ba6a3d6"
-    releasesEtag: W/"c6166071d67d885394530557a0ee73d850661e3fb270096454c4cbd843aaa186"
+    repoEtag: W/"d920c440e53ec31baa2873139e065200b7fd9838babb7896c585b1880bd0ef6a"
+    releasesEtag: W/"9d3beed235651a2cf026f6ea665947c80c009e603388c4bbc5286f78fb8649a5"
 discovery:
   method: 'fork-network:NathanNeurotic/Open-PS2-Loader'
   confidence: 100

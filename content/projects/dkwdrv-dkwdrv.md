@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-11T22:53:11Z'
   url: 'https://github.com/DKWDRV/DKWDRV/releases/tag/1.7.6s'
 activity:
-  lastSynchronized: '2026-10-17T05:52:23.428Z'
+  lastSynchronized: '2026-10-18T20:43:51.250Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"28b9525a8b7a0160598007f136693c06d320d063a13d4841cb0abf350d9d3405"
-    releasesEtag: W/"ff3ee1732c9f12ea9003247d292192acaa84e0a264dff4ed583a456ffcf593fe"
+    repoEtag: W/"3563cf89f3f50ac0f87c20b01c93792a0e2bda1640e0d35784cc8d59893643e1"
+    releasesEtag: W/"fb09c2cc6f3c7e58a56f68164a01944932843e8cae15f414198e635174ddb838"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

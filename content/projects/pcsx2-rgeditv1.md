@@ -20,19 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-08-17T04:55:34Z'
+  lastCommit: '2026-10-18T20:14:12Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-14T20:43:19.243Z'
+  lastSynchronized: '2026-10-18T20:44:27.638Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c6a06dd8f753c8efc0d314ec361e2fe3279a99106ca5acd935b8c3c3542b1a62"
-    releasesEtag: '"d6400b74e2c16d570917aea177364224d745a12da52ea23ff278bcd072df9cc2"'
+    repoEtag: W/"9d0b278d448c05cee36d4418057ac968a98ec32d032e25e78037fe80ef3ba271"
+    releasesEtag: '"70c073f48b30b064504e1977c14df58187ccfc7b599bc4ec3575250642ef9041"'
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100
