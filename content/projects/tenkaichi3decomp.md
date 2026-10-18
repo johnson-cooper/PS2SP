@@ -27,20 +27,20 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-10-14T17:19:07Z'
+  lastCommit: '2026-10-18T20:28:50Z'
 latestRelease:
-  tag: web-0.1.33.3
-  name: Web version 0.1.33.3
-  publishedAt: '2026-10-13T14:10:36Z'
-  url: 'https://github.com/BeeLTL/Tenkaichi3Decomp/releases/tag/web-0.1.33.3'
+  tag: web-0.1.37
+  name: Web version 0.1.37
+  publishedAt: '2026-10-18T20:29:09Z'
+  url: 'https://github.com/BeeLTL/Tenkaichi3Decomp/releases/tag/web-0.1.37'
 activity:
   lastChecked: '2026-10-13T19:32:43.126Z'
-  lastSynchronized: '2026-10-16T23:37:11.330Z'
+  lastSynchronized: '2026-10-18T23:14:12.567Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4fe99836b96f429e562cce276f03fd685d148dcd15d10a42ae3b3f1f1392639c"
-    releasesEtag: W/"bd8edc9c572ed08b0306b29d6460df75cbb970161d755f39fade9482a3b2f1a3"
+    repoEtag: W/"630c48a0fde082545f8678bca2b44fa24e1e5211819a97fce2a0703c46277f0e"
+    releasesEtag: W/"8e8cdf1d6f920f0c13fd5e143ad2de393d7fd93e30d69aaf7b932a231715cc58"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 80

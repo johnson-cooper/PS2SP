@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-10-03T00:07:10Z'
   url: 'https://github.com/christianmateus/RE4_PS2_MOD_WORKSPACE/releases/tag/v0.9.0'
 activity:
-  lastSynchronized: '2026-10-16T23:37:07.701Z'
+  lastSynchronized: '2026-10-18T23:14:09.584Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"eb93715e7f91a2237ebe7fa18758c7263c240f33d6037a17d819b0043baff476"
-    releasesEtag: W/"d57441b6ec5b0646a4a23807a7183c3a7049b608f9c8445f6f1c4004aa780bc1"
+    repoEtag: W/"7750c1ea61663d0d3d0a8b46ef2d835cd4f0c74161a5d1aaad189b312919d749"
+    releasesEtag: W/"0524d4bcec9b1def25cc0c4887f69dcbdb37561bf39b82183a7c7b3f4a98f7b7"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

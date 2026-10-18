@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-18T06:36:07.983Z'
+  lastSynchronized: '2026-10-18T23:14:06.412Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0feaf9013fc7a41b171c5848def8b850f01d972458ecb6beb5d89cfd6c4485cb"
+    releasesEtag: '"8db23adf2c228ab5945adc0bb08850c7b524d102426e0ebd0927fd8601a462c5"'
 discovery:
   method: 'fork-network:emtee40/PSBBN-Definitive-English-Patch'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: emtee40/PSBBN-Definitive-English-Patch
   source: CosmicScale/PSBBN-Definitive-Project
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

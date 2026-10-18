@@ -23,19 +23,19 @@ repository:
   defaultBranch: main
   stars: 12
   forks: 2
-  lastCommit: '2026-10-14T18:55:54Z'
+  lastCommit: '2026-10-18T14:23:09Z'
 latestRelease:
   tag: onion-v2
   name: Undertale/GameMaker Port for Miyoo Mini (v2)
   publishedAt: '2026-08-24T09:16:38Z'
   url: 'https://github.com/cobaltgit/Butterscotch/releases/tag/onion-v2'
 activity:
-  lastSynchronized: '2026-10-17T05:50:53.994Z'
+  lastSynchronized: '2026-10-18T23:12:36.937Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"95acaa54ef6da3f06f35bdae3e90ee56ee0b666f7e6fe2b5c825797d94ebd88e"
-    releasesEtag: W/"cabcb522a5cfda40b346783cde567ca6df7c688ac295e79325047691f8e79a0d"
+    repoEtag: W/"19c65d3b97c7d5e7c296289ad01d012344f34d969e1bd0c833e9333c50da1afb"
+    releasesEtag: W/"dacf038100c85726e7f14971b2015ab5bd0fb3b53c7e5b7b7c6cf6b6b9de5e41"
 discovery:
   method: 'fork-network:ButterscotchRunner/Butterscotch'
   confidence: 95

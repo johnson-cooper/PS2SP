@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-05-19T01:34:11Z'
   url: 'https://github.com/saildot4k/udpfsd/releases/tag/nightly'
 activity:
-  lastSynchronized: '2026-10-16T23:37:17.596Z'
+  lastSynchronized: '2026-10-18T23:14:19.679Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"99a64478412e7c1ecba310e312e40f4aef4b9db92f869464cf764305f15e567e"
-    releasesEtag: W/"73bf1b977fb07ec8249afdcf8f0d599410bb1a42e29c546edd80597bdf45f33a"
+    repoEtag: W/"d90ec119fdd5d4fa3dbcd10277a2a35fdc43f22a99dedaa31eb51ceed6c7a02d"
+    releasesEtag: W/"0769355acf193a5a09907147cad67620b8aaa8da3becc9eadb07e987fa16823f"
 discovery:
   method: 'fork-network:pcm720/udpfsd'
   confidence: 95

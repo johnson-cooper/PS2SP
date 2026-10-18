@@ -18,7 +18,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 2
   forks: 0
   lastCommit: '2026-09-29T08:44:36Z'
 latestRelease:
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-17T05:51:43.936Z'
+  lastSynchronized: '2026-10-18T23:12:39.348Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d2cb4473fdd3fd2e95283dc4c465c236aadc724b6a505196100607af8ac1c1ba"
-    releasesEtag: '"840d8b22d7db312c6ea7f64c0729d54bdc2329ace0982cd7dfae9d1d30d0d261"'
+    repoEtag: W/"1e591cc50a8565f258818b65effab96406e3552817921d9963eff89e917fc978"
+    releasesEtag: '"8db23adf2c228ab5945adc0bb08850c7b524d102426e0ebd0927fd8601a462c5"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
