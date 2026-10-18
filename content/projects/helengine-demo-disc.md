@@ -24,7 +24,7 @@ repository:
   defaultBranch: main
   stars: 3
   forks: 1
-  lastCommit: '2026-10-14T00:20:11Z'
+  lastCommit: '2026-10-17T20:24:44Z'
 latestRelease:
   tag: v1.0.0
   name: v1.00
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/helworks/helengine-demo-disc/releases/tag/v1.0.0'
 activity:
   lastChecked: '2026-09-29T00:29:21.569Z'
-  lastSynchronized: '2026-10-14T11:52:50.399Z'
+  lastSynchronized: '2026-10-18T11:05:37.185Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a4693b6ed8f2ea8421043e2e12cb8ebd37bfbbfd5c0a48534eaf812ee797798a"
-    releasesEtag: W/"a27718470b2f6fc1234aa1604b844213cf0284fe55214bf9ae9a17605bbc434c"
+    repoEtag: W/"9c333bd80c4052f9169e595080fe3ca35b38384e33863537507852ce8c24d15d"
+    releasesEtag: W/"0bf692bdeca0ab0e6f1a43ef23f07cabeb31d8d37b182d8600b533989bc6d3ed"
 discovery:
   method: 'pending-promotion:github-related-owner'
   confidence: 85

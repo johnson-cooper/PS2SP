@@ -32,12 +32,12 @@ latestRelease:
     https://github.com/oMrRexD/xerabora-android/releases/tag/android-0.1.0-alpha.13-r92
 activity:
   lastChecked: '2026-09-29T00:33:24.960Z'
-  lastSynchronized: '2026-10-14T11:54:04.821Z'
+  lastSynchronized: '2026-10-18T11:06:49.524Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2be4938a3fe2c767b29fd1bcbc36a86be7462243b5d225f7f94b5e00dc9f7b29"
-    releasesEtag: W/"f6ce817bcfd59206b9764358a4461efd089fa23b4f9d119a5d6fe04da1b971cb"
+    repoEtag: W/"8587bdeee408c1713118e9969abd1432e7945f786d13164023cbbcfb774caae3"
+    releasesEtag: W/"d69921b72a82deb3927b9deccd1ba16c862c75b10fb2935db77a6d2c10559bf7"
 discovery:
   method: github-maintained-fork
   confidence: 100

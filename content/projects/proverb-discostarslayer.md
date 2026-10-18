@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-14T11:53:27.785Z'
+  lastSynchronized: '2026-10-18T11:06:11.863Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"196abf8c092436dc0ae043ab012ff258d4749fcbca5b2df910f9be6142f73c4b"
-    releasesEtag: '"f5cbfb9c0ea79c690dbfcd976d9e6f937284afb4db33e0fbea82f00d1e4ce261"'
+    repoEtag: W/"059b58c2030a66ab85ea516f2cab486076ffb55372c6cb9f22a1f049632fb16b"
+    releasesEtag: '"c0320c991874d7e0e33efce3ab630f2174552b43a4d478a4026e9bde565ba038"'
 discovery:
   method: 'fork-network:PS2Homebrew-arcade/proverb'
   confidence: 95

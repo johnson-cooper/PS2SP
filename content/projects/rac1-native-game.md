@@ -21,22 +21,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 32
-  forks: 1
-  lastCommit: '2026-10-13T21:49:57Z'
+  stars: 49
+  forks: 3
+  lastCommit: '2026-10-17T10:56:13Z'
 latestRelease:
-  tag: v0.2.1
-  name: 'rac1-native 0.2.1: Windows fixes'
-  publishedAt: '2026-10-13T18:26:10Z'
-  url: 'https://github.com/daino-selvatico/rac1-native-game/releases/tag/v0.2.1'
+  tag: v0.3.0
+  name: 'rac1-native 0.3.0: the whole game ported'
+  publishedAt: '2026-10-15T12:21:21Z'
+  url: 'https://github.com/daino-selvatico/rac1-native-game/releases/tag/v0.3.0'
 activity:
   lastChecked: '2026-10-12T16:07:57.694Z'
-  lastSynchronized: '2026-10-14T11:53:51.667Z'
+  lastSynchronized: '2026-10-18T11:06:38.322Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6ff46cd28200943a00c4f01421718b3e903196af165755205c1f6f830f051d0c"
-    releasesEtag: W/"8de40851aaf6d2dbca5a5b5a96dbbad0652cb8a9203f90c7763f3ce67569c15e"
+    repoEtag: W/"530548978b5bbde97258748743e6eb6c0dc47f4e2096bc8685b85e7eca25b45a"
+    releasesEtag: W/"ca8297d295ff4ed4e466bb3dd83c36aa97c9d5dbff321ed162baecb46af38fab"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

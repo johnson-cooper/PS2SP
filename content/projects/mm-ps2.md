@@ -19,16 +19,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-14T22:15:27Z'
+  lastCommit: '2026-10-16T22:47:34Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: handoff-2026-10-16
+  name: 'Handoff 2026-10-16 (code-only ELF, black screen)'
+  publishedAt: '2026-10-16T20:34:43Z'
+  url: 'https://github.com/tutsdev2507/mm-ps2/releases/tag/handoff-2026-10-16'
 activity:
-  lastSynchronized: '2026-10-14T22:38:09.246Z'
+  lastSynchronized: '2026-10-18T11:05:45.870Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8aabd31ea6edaaac039f10400a718b07a342db9ec7bec515db9ef8e49d76ea2e"
+    releasesEtag: W/"ce856fdc505314c61d1cb69f7d3ceb93c8f344f6e399d39967bbd3379e256dde"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
@@ -41,5 +44,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
