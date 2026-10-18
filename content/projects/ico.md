@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 36
+  stars: 40
   forks: 2
-  lastCommit: '2026-10-16T00:07:52Z'
+  lastCommit: '2026-10-17T21:19:00Z'
 latestRelease:
-  tag: jpn-v1.0.0
-  name: 'jpn-v1.0.0: ICO Japanese retail boot ELF rebuilt from source'
-  publishedAt: '2026-10-15T05:38:06Z'
-  url: 'https://github.com/nathanialf/ico/releases/tag/jpn-v1.0.0'
+  tag: pal-v1.0.3
+  name: 'pal-v1.0.3: compiler warnings fixed, the branch on main''s tools'
+  publishedAt: '2026-10-16T02:06:24Z'
+  url: 'https://github.com/nathanialf/ico/releases/tag/pal-v1.0.3'
 activity:
-  lastSynchronized: '2026-10-16T01:21:05.021Z'
+  lastSynchronized: '2026-10-18T01:03:06.722Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d4cb1257ba3e8b051a64f2e93aa456abcd42556f3411eb6436bf98e2e514625b"
-    releasesEtag: W/"cce91d3384bc02276bea8a6bf3cecfcb55f1ff0d031088c2d1897a4ca7fa43ab"
+    repoEtag: W/"e4426feeb2484f3ba19f980bdcea7220c45ab503e24cdbd6ca2c6ff4c061cf69"
+    releasesEtag: W/"eac7ad5602fea5bb223ae690eec14cd67b9fe1010add05811818c506fbf01652"
 discovery:
   method: pending-recheck
   confidence: 100

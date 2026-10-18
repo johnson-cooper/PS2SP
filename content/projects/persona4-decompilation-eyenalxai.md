@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-16T01:21:46.749Z'
+  lastSynchronized: '2026-10-18T01:03:41.149Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f9902043f3899b6fc00ef315a5ade79515e5036c570e0cce191ad89f2c7c048e"
-    releasesEtag: '"b8b26189478e5c30a5fff0cc95b812faf64318eabab80070fa6484c1d6c80732"'
+    repoEtag: W/"25439e7e4878329d28d6405834290b26ca04a73eff3e966c723650ef07ea2170"
+    releasesEtag: '"1e61ac68f7e87e1153b359862aa5a4c612ba88e0daa38e5951ae2b20fdfebc56"'
 discovery:
   method: 'fork-network:Raikaru/Persona4-Decompilation'
   confidence: 100

@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-16T00:02:44Z'
+  lastCommit: '2026-10-17T23:48:55Z'
 latestRelease:
   tag: v2.3
   name: v2.3 PCSX2 Emulator
   publishedAt: '2026-09-20T09:13:02Z'
   url: 'https://github.com/HertzPerfumer/PCSX2-Emulator-PS2/releases/tag/v2.3'
 activity:
-  lastSynchronized: '2026-10-16T01:21:36.362Z'
+  lastSynchronized: '2026-10-18T01:03:33.374Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e56f9d80bb9a911d4a0c753256dee8606190e6e40d93d368deeddeeb49aac109"
-    releasesEtag: W/"fdb2dd164efba3a0f454adb802e9c4fa9268cd1c9d9619f0b641577e38abc7ca"
+    repoEtag: W/"7bea30a27f8c2a14d3438b6ea0cb40b5a053bf3e5c2a00b1b76439f362af20ec"
+    releasesEtag: W/"c0c0c5d9bc2b68fe8eb9defdd1f8bdfbf9b9bca640dcdd39371ce4c54519e8d6"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
