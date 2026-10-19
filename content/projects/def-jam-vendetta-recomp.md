@@ -23,7 +23,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 21
+  stars: 23
   forks: 1
   lastCommit: '2026-10-17T16:05:42Z'
 latestRelease:
@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/jcsix694/def-jam-vendetta-recomp/releases/tag/v0.4.1'
 activity:
   lastChecked: '2026-10-12T16:07:57.694Z'
-  lastSynchronized: '2026-10-18T01:02:53.712Z'
+  lastSynchronized: '2026-10-19T01:17:14.224Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"01c6691389f2f87669cf70d1a4fb80d5e571a88ae5467e7645069f2b5f294727"
-    releasesEtag: W/"39dabc8a0ed1c5401c698781e165f1d89c2a40268c7a5aa940400a935d301e63"
+    repoEtag: W/"c4405d4a4a2c4621542986d0d1df2e5394bbb4440d88f9c1c38704ae677228d1"
+    releasesEtag: W/"efe33350ffd9b04438ea7039f983f99bb8d52c226bab437576f8b233d31570c9"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

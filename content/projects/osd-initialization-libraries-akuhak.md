@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2022-06-09T15:36:28Z'
   url: 'https://github.com/AKuHAK/OSD-Initialization-Libraries/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-18T01:03:28.941Z'
+  lastSynchronized: '2026-10-19T01:17:48.819Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cc55e33d91265f14cd3a61da61ccfc88982da91c3c723d1a1d0f420b83e621cf"
-    releasesEtag: W/"e887f89538e788e772d7ca7d6f9cc9d925579185dd3b51157ad6c6c72c8f213f"
+    repoEtag: W/"4ce1dc5c7226cfc7be90013e0f4702c3701ee78e06677bef66328309a5b77be7"
+    releasesEtag: W/"db20aebf969380064f29e726a7c79617cc527b8f9e6ae6fd0fb973487a199f63"
 discovery:
   method: 'fork-network:ps2homebrew/OSD-Initialization-Libraries'
   confidence: 95

@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-18T01:04:15.204Z'
+  lastSynchronized: '2026-10-19T01:18:36.186Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"60474ec907c82f2426739c291e89e5b0ad79cd17bda121189d798810b17fe876"
-    releasesEtag: '"1e61ac68f7e87e1153b359862aa5a4c612ba88e0daa38e5951ae2b20fdfebc56"'
+    repoEtag: W/"6a4ec44891ed68a5512045601f3ac8ff1fb48feb226285e325b9972f8e423985"
+    releasesEtag: '"83ceaaf77ab6a4b31c63823b2b8294eccaccfad3f4e757f6cdcc16a912e60f32"'
 discovery:
   method: 'fork-network:OpokXeno/xsg-i-decomp'
   confidence: 100
