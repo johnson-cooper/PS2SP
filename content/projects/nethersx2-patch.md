@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 2705
+  stars: 2710
   forks: 100
   lastCommit: '2026-09-22T04:21:34Z'
 latestRelease:
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/Trixarian/NetherSX2-patch/releases/tag/2.2n'
 activity:
   lastChecked: '2026-09-29T09:05:43.442Z'
-  lastSynchronized: '2026-10-18T14:35:20.433Z'
+  lastSynchronized: '2026-10-19T14:41:41.880Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3b33dd28969fbb5c0fb5bc4a31ee718532bae1ded23b5933fa5c2776d59d47ab"
-    releasesEtag: W/"be432b4378bac50c2a36968d3cbabcbea1c0cb76352cbe087532201c0c70f093"
+    repoEtag: W/"dd7ab08c47287ebbc726527c627ed7fa9c030be83a733d35cf141d06377444d3"
+    releasesEtag: W/"1eaf82c394e7e82ff1dd336548dd7f813e823298ade34b5696953197f227ae46"
 discovery:
   method: 'pending-promotion:incremental:topic:ps2'
   confidence: 85

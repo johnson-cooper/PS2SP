@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2019-01-21T01:23:47Z'
   url: 'https://github.com/Zero1UP/PS2-Memory-Card-Formatter/releases/tag/v1.2'
 activity:
-  lastSynchronized: '2026-10-18T14:35:52.529Z'
+  lastSynchronized: '2026-10-19T14:42:16.134Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e11903aa994fc8d061dc801ec33da0bbcd2d920a128362fc6c4d4a5dd0df28af"
-    releasesEtag: W/"a6a47b10f5af3b303fec028c103a8ccf148847351de96fd1faf42f7aa8fe9ce3"
+    repoEtag: W/"57c7a596eca73f824ca0a036185001fa468fe55ef389c1d967884faf341946ef"
+    releasesEtag: W/"d59b9b3673ab84d6bab0504081b9af35cda92d53d9c4a4724ac8e4046044bf00"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

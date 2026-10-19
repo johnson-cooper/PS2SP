@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2025-06-14T14:51:05Z'
   url: 'https://github.com/AKuHAK/OSDMenu/releases/tag/nightly'
 activity:
-  lastSynchronized: '2026-10-18T14:35:34.845Z'
+  lastSynchronized: '2026-10-19T14:41:57.464Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8e4b8c5a3921773e202e99f7feca11c58f9ff96d216441b89a75ddaefe8a8f10"
-    releasesEtag: W/"1a1e6c7a6e25ece3f0e1d1c0cacc0c49eb549111a03fd7d4c401b5d49ed830e1"
+    repoEtag: W/"813ceb0a869f34e6b1f59c769b720b1f5a04cdb36e7088388d057cff44fc3bbd"
+    releasesEtag: W/"87b1b63c4c5e6844178b6deeb30b9e619568b59b61aae4cd8c64492d8de7d3c3"
 discovery:
   method: 'fork-network:pcm720/OSDMenu'
   confidence: 100

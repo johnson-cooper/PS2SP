@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/Schickacka/OpenWirelessMC/releases/tag/v1.0'
 activity:
   lastChecked: '2026-10-15T06:27:26.444Z'
-  lastSynchronized: '2026-10-18T14:35:30.529Z'
+  lastSynchronized: '2026-10-19T14:41:52.517Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8de692aed96344539acdfaa583ffd4bbc0b60ecb2ce1c8769c0e842343fb02b7"
-    releasesEtag: W/"e83718bf17de949d06c193593cd44a484018399c67ac55184287acb56711722e"
+    repoEtag: W/"ad9473780599d54b72dc6b5fafc87b3f176fbae1d1a27c947424349f77a1be8b"
+    releasesEtag: W/"5c53a5082c8873bc7ea61c9ef2451f322d52e65027d91fe9b4c96525762e3a47"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 70

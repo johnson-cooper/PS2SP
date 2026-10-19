@@ -30,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/israpps/opl-Title.cfg-maker/releases/tag/2.2.5-%7C-1.0.12.0
 activity:
-  lastSynchronized: '2026-10-18T14:35:31.967Z'
+  lastSynchronized: '2026-10-19T14:41:54.271Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ac72d84c4f7b1b33f3deedab669458c498dcbad5177a3a299d9415395b920b99"
-    releasesEtag: W/"182d923b2e430489abbd8557c1703f625e59180329cb8d71e3538d9908178b72"
+    repoEtag: W/"7599c756dc175f583e079a6871e3557bf02a72f35662d00e9c015cec8c007554"
+    releasesEtag: W/"988a0b6d2eca6c62841f93c72781c5746abd5dd49d2d9ac174d5258910c95f40"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

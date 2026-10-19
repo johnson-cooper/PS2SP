@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/ReyFxck/SNESticleRevive/releases/tag/1.1.1'
 activity:
   lastChecked: '2026-09-29T00:27:15.092Z'
-  lastSynchronized: '2026-10-18T14:36:22.517Z'
+  lastSynchronized: '2026-10-19T14:42:49.617Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d3c39b9e3e2fd6b6850a23fd7daf38de83a64b6ad370d32177bf290f548aafa4"
-    releasesEtag: W/"1b3e06994a7d0145e6e3dcc6e5089b9699ffbe61301e7d4caed6ada3c8227bfa"
+    repoEtag: W/"0d9021d872ba116daab9f4f58d5ec638a32b9e0798549ad223b7ec7626092bf1"
+    releasesEtag: W/"870e8dd2d324e529e7cea56f09b8c11c6a76349b730aeb0b27c04585a13ac166"
 discovery:
   method: curated
   confidence: 100

@@ -34,12 +34,12 @@ latestRelease:
     https://github.com/xeodeo/OptiCraft-Heritage-XBOX-CLASSIC-Edition/releases/tag/xbox-v1.3
 activity:
   lastChecked: '2026-09-29T11:01:59.784Z'
-  lastSynchronized: '2026-10-18T14:35:33.031Z'
+  lastSynchronized: '2026-10-19T14:41:55.236Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a1db75f3c8580ac3879440ab0690af16b4f499d166159dc4683255a5f3dd68fc"
-    releasesEtag: W/"110c20735b082c054d89d741814c7d29755ea70c8d4329d93b5049188399b585"
+    repoEtag: W/"0386bbf06d29b6cc95e172a184a84c0aecff530bb06fdfd8a40a748178456c13"
+    releasesEtag: W/"4eb7cc0fdc647d76737d0ac7705c400a5e0be2be3be167e6834d5c83dd494bd2"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 75
