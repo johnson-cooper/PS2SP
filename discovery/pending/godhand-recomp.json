@@ -1,0 +1,16 @@
+{
+  "repository": "LasVola/godhand-recomp",
+  "repositoryId": "1423782409",
+  "url": "https://github.com/LasVola/godhand-recomp",
+  "description": "God Hand Recompiled: native PC port of God Hand (PS2) via static recompilation. No game data included.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-10-19T23:56:10.760Z",
+  "checkedAt": "2026-10-19T23:56:10.760Z"
+}

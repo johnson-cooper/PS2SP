@@ -1,0 +1,16 @@
+{
+  "repository": "NoulZ-One/Ring---Of---Judgment---Covenant",
+  "repositoryId": "1422885502",
+  "url": "https://github.com/NoulZ-One/Ring---Of---Judgment---Covenant",
+  "description": "Independent C# recompilation project for Shadow Hearts: Covenant (PS2).",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-10-19T23:56:10.760Z",
+  "checkedAt": "2026-10-19T23:56:10.760Z"
+}
