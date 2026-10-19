@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-10-15T21:46:37Z'
   url: 'https://github.com/Taoshix/Archipelago-RaC3/releases/tag/v0.6.3'
 activity:
-  lastSynchronized: '2026-10-18T20:43:42.504Z'
+  lastSynchronized: '2026-10-19T20:35:48.037Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"faae892baf2a3e71be4241c1ec3a9d43261efb53588f3fc25fc9f0e8ac39c37d"
-    releasesEtag: W/"7e30bb90d9eaa7b114d2a3880541adda32feb8a87281dd00128f66a5150fc157"
+    repoEtag: W/"ed3f545054cba04d492c030ef0e4abade3608d7b25e7cea287c810910b55e6ee"
+    releasesEtag: W/"3247fad2e3f0b400a12bdb85b4e5f3e6f844615bb354e5b05e002a497a647528"
 discovery:
   method: 'incremental:topic:ps2'
   confidence: 95
