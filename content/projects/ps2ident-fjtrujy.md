@@ -35,9 +35,12 @@ latestRelease:
   publishedAt: '2024-04-23T21:43:24Z'
   url: 'https://github.com/fjtrujy/PS2Ident/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-16T23:01:24.373Z'
+  lastSynchronized: '2026-10-19T06:19:38.276Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"147a2d382ce51e271d5a6567eba6f265a24fede75e8d6f2bfda00c18be1d229c"
+    releasesEtag: W/"da310503ecfdb1dcf00f8a21744839f11805a5904b27e86b367a9b0895a37d3d"
 discovery:
   method: 'fork-network:AKuHAK/PS2Ident'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: AKuHAK/PS2Ident
   source: ps2homebrew/PS2Ident
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

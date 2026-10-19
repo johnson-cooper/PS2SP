@@ -25,20 +25,21 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-13T18:11:45Z'
+  lastCommit: '2026-10-18T21:52:56Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: launcher-dev-feature-android-support
+  name: OpenRAC Launcher 0.7.5-dev.27 (feature/android-support)
+  publishedAt: '2026-10-18T17:46:15Z'
+  url: >-
+    https://github.com/mateuszklysz/OpenRAC/releases/tag/launcher-dev-feature-android-support
 activity:
   lastChecked: '2026-10-13T19:32:43.126Z'
-  lastSynchronized: '2026-10-14T06:09:57.793Z'
+  lastSynchronized: '2026-10-19T06:19:06.806Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2e61e09275383561a4d6fb915a1abdeb34245866a5ba66ae3e65b85d8989400f"
-    releasesEtag: '"e5eba8482d6470e4b0a6ce3d4774fb30b9db64f88c388fda0feb7ffa436844ca"'
+    repoEtag: W/"38c80548b8fb27c02717ed53c30c1c0597a9b3ded0c3647919db5575731781df"
+    releasesEtag: W/"b32a8a0986873f8d3cb924d96c0bd13bd3dbad8dd6e8d175088db0b07d11d854"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

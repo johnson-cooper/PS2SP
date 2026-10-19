@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/binkynz/ps2-usbhdl/releases/tag/v0.2.1-alpha'
 activity:
   lastChecked: '2026-09-29T00:27:09.872Z'
-  lastSynchronized: '2026-10-14T06:10:23.292Z'
+  lastSynchronized: '2026-10-19T06:19:31.297Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7a31b3fcfc6e821cde55336dba03b25f16f826375a41dbf54b67a533ca1b7d9a"
-    releasesEtag: W/"aa2ba202215064f394df8cbbc9ee5857a450101974aa4c0bf3db41788633abe6"
+    repoEtag: W/"387644ae5919ff358ffb371ab43df0cdb30a04d667581395f907c7a188b2724c"
+    releasesEtag: W/"f36b72e5c5782ba2102d930fd6ee0c8ab511ca3085442c92e530609c2c7c7e4d"
 discovery:
   method: github-search
   confidence: 100

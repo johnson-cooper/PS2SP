@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 7
   forks: 1
-  lastCommit: '2026-10-13T15:05:01Z'
+  lastCommit: '2026-10-16T18:45:58Z'
 latestRelease:
-  tag: 1.2.7
-  name: 'Patch: QS v1.2.7'
-  publishedAt: '2026-10-13T14:42:05Z'
-  url: 'https://github.com/Gandorfin/Tales-of-Destiny-2/releases/tag/1.2.7'
+  tag: PSP_0.3.2
+  name: PSP_Patch_v0.3.2
+  publishedAt: '2026-10-16T18:45:59Z'
+  url: 'https://github.com/Gandorfin/Tales-of-Destiny-2/releases/tag/PSP_0.3.2'
 activity:
-  lastSynchronized: '2026-10-14T06:10:53.791Z'
+  lastSynchronized: '2026-10-19T06:20:06.226Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"dc0cf1d81fe52e67e420dfe6462b3c0f8d63c40f7011c15ce00ee045f6b4ca87"
-    releasesEtag: W/"d462856c251d2c2f56320c69e2fcc19680ea7cd1dae6a263d1da5e23c0cd66af"
+    repoEtag: W/"bb83c5397b1a408efbef50f25a1f25d6f126bc1eadd0aa38af8891a8bb16d0a9"
+    releasesEtag: W/"2e374021b57ddc227133c1ce691c6ae491bb512ec340271ae4df8e4674b03b06"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95
