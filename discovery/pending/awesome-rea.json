@@ -1,0 +1,17 @@
+{
+  "repository": "reacher-z/Awesome-REA",
+  "repositoryId": "1421473933",
+  "url": "https://github.com/reacher-z/Awesome-REA",
+  "description": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
+  "score": 75,
+  "evidence": [
+    "README explicitly mentions PlayStation 2",
+    "README contains PS2 development/toolchain evidence",
+    "published GitHub release present"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "released-active",
+  "fork": null,
+  "discoveredAt": "2026-10-19T14:59:02.710Z",
+  "checkedAt": "2026-10-19T14:59:02.710Z"
+}
