@@ -23,23 +23,23 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 2
+  stars: 6
   forks: 0
-  lastCommit: '2026-10-17T01:41:21Z'
+  lastCommit: '2026-10-20T15:48:08Z'
 latestRelease:
-  tag: v0.1.8
-  name: RomTranslate Studio 0.1.8
-  publishedAt: '2026-10-14T21:23:43Z'
+  tag: v0.1.10
+  name: RomTranslate Studio 0.1.10
+  publishedAt: '2026-10-20T01:28:24Z'
   url: >-
-    https://github.com/crimsondawnacademy-design/romtranslate-studio/releases/tag/v0.1.8
+    https://github.com/crimsondawnacademy-design/romtranslate-studio/releases/tag/v0.1.10
 activity:
   lastChecked: '2026-10-13T19:32:43.126Z'
-  lastSynchronized: '2026-10-17T17:11:40.518Z'
+  lastSynchronized: '2026-10-20T17:06:05.307Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"39c65dde85afe51af4aba32852b0a15aa0bde6f4088d039bbd24b4c307223cb2"
-    releasesEtag: W/"9670ed1988a178c8c0b86f43dceae1b80be48fcf3874f68df5034eda18e82a8f"
+    repoEtag: W/"3384958d173fbbf1d315faca3ad2f493dce999bc88af21113683e230841e24a3"
+    releasesEtag: W/"7f17f27670e56d9c6af728b7cbd2fc68ef723e45ef2de4b81fe27d1f1246726b"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

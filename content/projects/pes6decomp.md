@@ -11,7 +11,7 @@ tags:
   - active-unreleased
 features: []
 authors: []
-license: null
+license: MIT
 homepage: null
 source:
   provider: github
@@ -20,10 +20,10 @@ source:
   url: 'https://github.com/Subarasheese/pes6decomp'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-20T16:48:16Z'
 latestRelease:
   tag: null
   name: null
@@ -31,8 +31,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-20T10:25:31.189Z'
+  lastSynchronized: '2026-10-20T17:05:24.199Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d4cbc063259287a9f3b4f445d19bb912f990091fce65bf5298474b12430ad7e6"
+    releasesEtag: '"d3d0da21844f8c629c27423ea02df36dddc7e23bf807a0d3c2a92ba20b02b2b2"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 90
@@ -45,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

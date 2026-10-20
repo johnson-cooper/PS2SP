@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-17T17:11:13.470Z'
+  lastSynchronized: '2026-10-20T17:05:27.465Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e74dc6cb908aa91a00b6d404aecb78bacc6f58a1f0159edbf565b9c85ea97659"
-    releasesEtag: '"e75667a274f8d5739d7cb4ff9e4fdc9c1dc0f6e90e823e448b69157a6bbd3c3c"'
+    repoEtag: W/"34415eec91dffc70d959c7a6489e694d9adae789a12637950b2b64ea7744ef96"
+    releasesEtag: '"d3d0da21844f8c629c27423ea02df36dddc7e23bf807a0d3c2a92ba20b02b2b2"'
 discovery:
   method: 'fork-network:AKuHAK/PMAP'
   confidence: 95

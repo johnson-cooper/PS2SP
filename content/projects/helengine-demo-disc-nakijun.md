@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-17T17:10:39.504Z'
+  lastSynchronized: '2026-10-20T17:04:44.578Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8200b822542c0c72f417617861dcae6b99fae2eb3ee9596a9d8201aa7a84cb9f"
-    releasesEtag: '"e75667a274f8d5739d7cb4ff9e4fdc9c1dc0f6e90e823e448b69157a6bbd3c3c"'
+    repoEtag: W/"e7a911381f3d2b68a412aeef270f6267f57c42e32e1903bd429e7abf30515ce7"
+    releasesEtag: '"d3d0da21844f8c629c27423ea02df36dddc7e23bf807a0d3c2a92ba20b02b2b2"'
 discovery:
   method: 'fork-network:helworks/helengine-demo-disc'
   confidence: 95
