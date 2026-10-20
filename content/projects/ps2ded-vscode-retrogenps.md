@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-19T20:36:58.016Z'
+  lastSynchronized: '2026-10-20T20:36:20.057Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9b9e7e2baa0569cf469cd78fbd3fb1bacab3b0f2c44c5351f2a76be56664c824"
-    releasesEtag: '"64f156aabf0ae02803a91cefa059b7f1830a54e71b68920d5f40af226e5341e2"'
+    repoEtag: W/"cbcea28919c379d8095cb09d59d2e544ddc9d0d59a9594ccb87eabacb9f9d557"
+    releasesEtag: '"94e354af2c4e28e3962b296e8975d0c6ec1a30b51f9be8608fe23fd98f6c999a"'
 discovery:
   method: 'fork-network:islandcontroller/ps2ded-vscode'
   confidence: 95

@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-12T11:46:28Z'
+  lastCommit: '2026-10-19T19:21:08Z'
 latestRelease:
-  tag: v1.0.0
-  name: الفأر المشاغب — Ratatouille Arabic v1.0.0
-  publishedAt: '2026-10-12T08:56:54Z'
-  url: 'https://github.com/abod77/ratatouille-arabic/releases/tag/v1.0.0'
+  tag: v1.0.1
+  name: الفأر المشاغب — تحديث المثبّت 1.0.1
+  publishedAt: '2026-10-16T15:10:26Z'
+  url: 'https://github.com/abod77/ratatouille-arabic/releases/tag/v1.0.1'
 activity:
-  lastSynchronized: '2026-10-14T20:43:46.854Z'
+  lastSynchronized: '2026-10-20T20:36:40.622Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ff63320cc29f89a5ff10531ea4cca6c4fa6c48a61380c629aa1aee5a0fd2f907"
-    releasesEtag: W/"c210bb37e1a19e63b68837d27f3c328e66a4e568429018ef5a220cbe8c376e12"
+    repoEtag: W/"b73db682912a99d8de0f1d4674f239fd807815ffe8dc97f61e5330687b39fe59"
+    releasesEtag: W/"eeabf25effe595d9b24c27070353e9ad0e571c52f2d4fb41c63bd1adfc190244"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
