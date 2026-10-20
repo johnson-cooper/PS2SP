@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-10-18T05:05:07Z'
   url: 'https://github.com/Ral-sei/Butterscotch360-Next/releases/tag/Next-v0.3'
 activity:
-  lastSynchronized: '2026-10-18T11:05:26.859Z'
+  lastSynchronized: '2026-10-20T11:36:56.546Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3203e0f8d08d459069f9b46ec6179117241c340b584b4746be8268915d9bad0a"
-    releasesEtag: W/"9db9ea171356e91d7e700f4313867efce3e44849f35169463f3bd5b6680d900d"
+    repoEtag: W/"14162465bc52d564e7647d049c3138e3c1ab882efd49cfb3378f2506a1577515"
+    releasesEtag: W/"91882d3b0108ab514f04eb3fd88066afa50fc653a460a9c02a769efea30d11bb"
 discovery:
   method: 'fork-network:ButterscotchRunner/Butterscotch'
   confidence: 95

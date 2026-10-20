@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2022-11-11T03:31:39Z'
   url: 'https://github.com/uyjulian/ps2dev/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-18T11:06:22.581Z'
+  lastSynchronized: '2026-10-20T11:38:01.618Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5fda4e5eb74ce029ee22920d98bfe07818ffb1e53b641768742567f707e3f588"
-    releasesEtag: W/"491d57c5d8e8d07377a663c5ef3de4942a23e2a220870e979d1ae74298f5d7eb"
+    repoEtag: W/"bb8ea42c172a7895f9634f2ae5e21f61347067f1939e5490964c94acedd2afb3"
+    releasesEtag: W/"de6a06a5710495a80035cc5ca440f152e7d64588c2142bdcf2f669271d89acb7"
 discovery:
   method: 'fork-network:ps2dev/ps2dev'
   confidence: 100

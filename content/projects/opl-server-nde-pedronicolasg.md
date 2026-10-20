@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2023-10-08T13:19:48Z'
   url: 'https://github.com/pedronicolasg/OPL-Server-NDE/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-10-18T11:06:00.610Z'
+  lastSynchronized: '2026-10-20T11:37:35.851Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9ed4a631c92c083719e05c336930d24ffa40c19facf7275475cad338faaff373"
-    releasesEtag: W/"48c47d7e0d024c557c7781f5044f33fbda41c0feb2aa55d78c8b4cc7498ef61e"
+    repoEtag: W/"fa6b677c019aab4334c09ce2bddab740801c4f7a01a74fb69e318aa16e00c526"
+    releasesEtag: W/"f9d0d2b5b59d7961a9d19440f23be16636329d53dbbdf9a55af5ab7a875cef4f"
 discovery:
   method: 'fork-network:elmariolo/OPL-Server'
   confidence: 95

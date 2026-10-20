@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-18T11:06:43.651Z'
+  lastSynchronized: '2026-10-20T11:38:25.005Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b07da7ff261d127956cdb4b1569e6852be1d32f33aedefdef7ec62ed323caef9"
-    releasesEtag: '"c0320c991874d7e0e33efce3ab630f2174552b43a4d478a4026e9bde565ba038"'
+    repoEtag: W/"c4d8e700e54b2a60ee5097f535938d70111c9b38b9418a67f8dd06a8f107ecaf"
+    releasesEtag: '"6180fa5cc2c35a56588669781e437f64bbec64a4c73c5ddaa89a799648645551"'
 discovery:
   method: 'fork-network:ps2homebrew/SMS'
   confidence: 100

@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 37
+  stars: 39
   forks: 1
   lastCommit: '2026-07-23T13:49:53Z'
 latestRelease:
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/hkmodd/ps2-recomp-Agent-SKILL/releases/tag/v0.4.3'
 activity:
   lastChecked: '2026-09-29T00:29:14.395Z'
-  lastSynchronized: '2026-10-18T11:06:17.869Z'
+  lastSynchronized: '2026-10-20T11:37:56.316Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4250ce26c6515f1b85af4c5955ea118caf0a4d6bfc1ca6a8e87b80d745078bcc"
-    releasesEtag: W/"c7f2eadbebcb37cd42096395cadee41c307defcaaf3f0d9019704d5f1fa6c7e6"
+    repoEtag: W/"f27fbde2958e207b155433781d9431219644485fb66e488b12255aa63af71dce"
+    releasesEtag: W/"6510df81349f3254525786ce958d19a32f8247036f4c6c532a0a5ea360b6456d"
 discovery:
   method: github-search
   confidence: 100

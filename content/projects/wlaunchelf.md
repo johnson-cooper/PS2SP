@@ -24,7 +24,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 675
+  stars: 676
   forks: 77
   lastCommit: '2026-10-13T04:09:36Z'
 latestRelease:
@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/ps2homebrew/wLaunchELF/releases/tag/190107'
 activity:
   lastChecked: '2026-09-29T00:27:15.938Z'
-  lastSynchronized: '2026-10-18T11:06:48.919Z'
+  lastSynchronized: '2026-10-20T11:38:30.981Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cd299a19eeaba4f99cd01a2cc5cf69fc2afa7e89fc46318c8e7f4477c5e66fe4"
-    releasesEtag: W/"5ad1f8457afb30b6d2496748c7b0efb6ce1ddfc5c088de15bf9c3674fc938d3d"
+    repoEtag: W/"b91f31425d62c2fd4f6ed50c91cb90ed3eb1e7084e1dcc9d0017ef213b4e521d"
+    releasesEtag: W/"4267fb2bcc3c3ab541b86a08968943c0479930c8bf96a979593398b0c5cf9bb7"
 discovery:
   method: curated
   confidence: 100

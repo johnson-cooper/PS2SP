@@ -22,20 +22,20 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 1
-  lastCommit: '2026-10-17T18:16:28Z'
+  lastCommit: '2026-10-19T00:04:24Z'
 latestRelease:
-  tag: v0.1.14
-  name: blazium-toolchain 0.1.14
-  publishedAt: '2026-10-17T18:16:28Z'
-  url: 'https://github.com/blazium-games/blazium-toolchain/releases/tag/v0.1.14'
+  tag: v0.1.15
+  name: blazium-toolchain 0.1.15
+  publishedAt: '2026-10-19T00:04:24Z'
+  url: 'https://github.com/blazium-games/blazium-toolchain/releases/tag/v0.1.15'
 activity:
   lastChecked: '2026-09-29T00:27:46.918Z'
-  lastSynchronized: '2026-10-18T11:05:24.821Z'
+  lastSynchronized: '2026-10-20T11:36:54.434Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d34b51309b5d7f0da73ca8a704a3133cb3da5ca46ca27faa8ba7b13fd61f7cc3"
-    releasesEtag: W/"5ea3db871d1b7bdfc5fa7a3538bd524b205bf4180ad2dbd2cb4303226f2a35f5"
+    repoEtag: W/"8eb0b8f24a21d1deb59f9d66619e0bc232a054749278e57be1d7c03d694982a4"
+    releasesEtag: W/"5f0972092a18fedae96938a8308a40da6a4fde0ea037779bf7a7ad280b2119fd"
 discovery:
   method: github-search
   confidence: 100
