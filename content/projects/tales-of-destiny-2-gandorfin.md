@@ -19,7 +19,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 7
+  stars: 8
   forks: 1
   lastCommit: '2026-10-16T18:45:58Z'
 latestRelease:
@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-16T18:45:59Z'
   url: 'https://github.com/Gandorfin/Tales-of-Destiny-2/releases/tag/PSP_0.3.2'
 activity:
-  lastSynchronized: '2026-10-19T06:20:06.226Z'
+  lastSynchronized: '2026-10-20T06:02:39.896Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bb83c5397b1a408efbef50f25a1f25d6f126bc1eadd0aa38af8891a8bb16d0a9"
-    releasesEtag: W/"2e374021b57ddc227133c1ce691c6ae491bb512ec340271ae4df8e4674b03b06"
+    repoEtag: W/"399a1002c70be873911d1249254b07769e406c2c6193cad58c34b33ac6ae76ae"
+    releasesEtag: W/"885907d0d315341c9f7cda4234ee7c80b3c4b70c6fc0a3906a5dd5691685e272"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

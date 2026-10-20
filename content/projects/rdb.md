@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2023-05-22T01:20:33Z'
   url: 'https://github.com/ps2dbg/RDB/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-10-19T06:19:59.310Z'
+  lastSynchronized: '2026-10-20T06:02:31.486Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"50526e2da96b3d6a749093c1e9245a93945bc56451568097373773c6f7d580c3"
-    releasesEtag: W/"90e907a464b6a38960957e88058b417e2c3599cfa614714d443547748c544c82"
+    repoEtag: W/"1df5fc57dc815df4e6f3c0d3c95ed2911e0adb7df2c67119bdfb2effb89027ed"
+    releasesEtag: W/"3ab263cf06f4c5f9e52ce39303579c3f813a8e270c9fd797dee14a334492b3f6"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

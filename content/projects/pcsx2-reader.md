@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/sommepo/pcsx2-reader/releases/tag/v0.2.0'
 activity:
   lastChecked: '2026-10-14T18:54:17.306Z'
-  lastSynchronized: '2026-10-19T06:19:18.016Z'
+  lastSynchronized: '2026-10-20T06:01:39.882Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b8a41896a46fd11fdbb0902cf3dd87fc2d88a4d18a0bafa5e7171a8784c1a7d6"
-    releasesEtag: W/"ac7cab6c7fe4f3a292b880fecab93a3e69ef6ab063a8b9cd922b00040fc29241"
+    repoEtag: W/"3b7b6bcf6c4d5511b150f5de2aa3a7c8a8689a0e6ba7deaf065e18c37e858c31"
+    releasesEtag: W/"bb98cef7be223b3375e4a0df3b2861e84eb48326b1f1ba68d512c84511428f84"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
