@@ -23,19 +23,23 @@ source:
   url: 'https://github.com/geklactus/play-browser'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-20T21:05:10Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v2026.09.03-4
+  name: play-browser-2026.09.03-4
+  publishedAt: '2026-10-20T19:45:45Z'
+  url: 'https://github.com/geklactus/play-browser/releases/tag/v2026.09.03-4'
 activity:
   lastChecked: '2026-10-20T05:18:56.651Z'
+  lastSynchronized: '2026-10-20T23:54:24.876Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"24848cdc38da14442ed0021a1981008fe5ed8fcc9cb0bc5cf963850f431eaa13"
+    releasesEtag: W/"33adb5b6fb54036433f2678fe6e6075c7ac9efb5db84491475855d67e42171e8"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -48,5 +52,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

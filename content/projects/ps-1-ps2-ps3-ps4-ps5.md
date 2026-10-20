@@ -19,19 +19,19 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-10-18T11:43:07Z'
+  lastCommit: '2026-10-20T08:12:27Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.0
+  name: 'PlayStation Recomp Hub: image.png. v1.0.0'
+  publishedAt: '2026-10-19T06:08:40Z'
+  url: 'https://github.com/Nxn90/PS-1---PS2---PS3---PS4---PS5/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-10-18T23:13:35.797Z'
+  lastSynchronized: '2026-10-20T23:54:26.118Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8bc65e66a264cc3359b54a5182108fe0437936a820d249a198dc31651a1e023c"
-    releasesEtag: '"8db23adf2c228ab5945adc0bb08850c7b524d102426e0ebd0927fd8601a462c5"'
+    repoEtag: W/"b6b7409683e3c6dae1d104adb34160476abd85803aa0f01cdd53b9d6bf07b86d"
+    releasesEtag: W/"51626655d98e249ca3790c571ad8e8379d3d49325b52fdb9372ad9740a0a71a0"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

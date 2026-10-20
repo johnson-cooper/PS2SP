@@ -15,7 +15,7 @@ tags:
 features: []
 authors: []
 license: null
-homepage: null
+homepage: 'https://themoonpeople.github.io/Chronicle/'
 source:
   provider: github
   repository: columna1/Chronicle-nintendo-switch
@@ -23,10 +23,10 @@ source:
   url: 'https://github.com/columna1/Chronicle-nintendo-switch'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: switch-port
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-20T03:15:26Z'
 latestRelease:
   tag: null
   name: null
@@ -34,8 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-20T05:18:56.651Z'
+  lastSynchronized: '2026-10-20T23:53:23.334Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b71dfa762f5d48eb7cde2b5306678ef2ea6c4f6aa374002fc753ef339cd20451"
+    releasesEtag: '"0dc3e0b38f920a8927e607dd0008a947558b5620b175ac17f3573a6f12ef5909"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85
@@ -51,5 +55,4 @@ relationships:
   forkOf: TheMoonPeople/Chronicle
   source: TheMoonPeople/Chronicle
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

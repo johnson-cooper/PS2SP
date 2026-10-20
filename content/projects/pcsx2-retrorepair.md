@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-13T16:11:26Z'
   url: 'https://github.com/retrorepair/pcsx2/releases/tag/v2026.10.13'
 activity:
-  lastSynchronized: '2026-10-18T23:13:30.576Z'
+  lastSynchronized: '2026-10-20T23:54:19.696Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"463b7893d1d73240d2749fb9dca9804ec2ad9af39a6f66ae1e98977925507ac6"
-    releasesEtag: W/"9fad3c8d59c0ac92b49c8067acc5e1dd8f11e0ea91cb8c8ae23ba700c24f8474"
+    repoEtag: W/"b8d33b10b7cab8e8f1c7c63c831dfdbac0aea50d17e344242a5b9e8110a496cc"
+    releasesEtag: W/"0064de21ec5e968e6375afb173929e9cb1c86a3f8d7bdb47bdb1bd4d6ae06949"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

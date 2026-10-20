@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2022-05-26T01:12:48Z'
   url: 'https://github.com/israpps/PAKerUtility/releases/tag/v1.01'
 activity:
-  lastSynchronized: '2026-10-18T23:13:23.067Z'
+  lastSynchronized: '2026-10-20T23:54:11.399Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"98f0fa702f56f93170aac2c6190814b51d91a3288e6917394e9ca910f6767d65"
-    releasesEtag: W/"732f1c4ef3f52a94d89eea8bea0836bc64116b74bd6fbe281e69c1d2586bc24b"
+    repoEtag: W/"8a8fcc1f602391efe545fc261224e263f9595ef4fd7a48208905cc458aaa80d9"
+    releasesEtag: W/"f4b1cdf4249e276bd8be6cb5a3a45ba5da63a1333789e27c379c7c825ce768e8"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
