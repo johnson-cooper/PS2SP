@@ -3540,6 +3540,19 @@
         ]
       },
       {
+        "name": "abedalkaderr2001-glitch/pcsx2 — branch: master",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master"
+        ]
+      },
+      {
         "name": "AccidentalKing/NetherSX2-patch — branch: main",
         "url": "https://github.com/AccidentalKing/NetherSX2-patch/tree/main",
         "keywords": [
@@ -3563,6 +3576,19 @@
           "repository",
           "achristensen4/FreeDVDBoot",
           "master"
+        ]
+      },
+      {
+        "name": "ackmangogo/OPL-Widescreen-Cheats — branch: main",
+        "url": "https://github.com/ackmangogo/OPL-Widescreen-Cheats/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ackmangogo/OPL-Widescreen-Cheats",
+          "main"
         ]
       },
       {
@@ -3605,6 +3631,19 @@
         ]
       },
       {
+        "name": "adeyholar/pcsx2 — branch: master",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "adeyholar/pcsx2",
+          "master"
+        ]
+      },
+      {
         "name": "AdityaKumar7209/Modulo-R1-Beta-Preview---PS2 — branch: main",
         "url": "https://github.com/AdityaKumar7209/Modulo-R1-Beta-Preview---PS2/tree/main",
         "keywords": [
@@ -3640,6 +3679,19 @@
           "branch",
           "repository",
           "adlt3ch/FreeMcBoot-Installer",
+          "master"
+        ]
+      },
+      {
+        "name": "adlt3ch/PMAP — branch: master",
+        "url": "https://github.com/adlt3ch/PMAP/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "adlt3ch/PMAP",
           "master"
         ]
       },
@@ -3744,6 +3796,19 @@
           "branch",
           "repository",
           "ahmedmoselhi/HDL-Batch-installer",
+          "main"
+        ]
+      },
+      {
+        "name": "ahmedmoselhi/PFS-BatchKit-Manager — branch: main",
+        "url": "https://github.com/ahmedmoselhi/PFS-BatchKit-Manager/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ahmedmoselhi/PFS-BatchKit-Manager",
           "main"
         ]
       },
@@ -10157,6 +10222,71 @@
         ]
       },
       {
+        "name": "AKuHAK/OSD-Initialization-Libraries — branch: main",
+        "url": "https://github.com/AKuHAK/OSD-Initialization-Libraries/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/OSD-Initialization-Libraries",
+          "main"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSD-Initialization-Libraries — branch: xparam",
+        "url": "https://github.com/AKuHAK/OSD-Initialization-Libraries/tree/xparam",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/OSD-Initialization-Libraries",
+          "xparam"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSD-XMB — branch: main",
+        "url": "https://github.com/AKuHAK/OSD-XMB/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/OSD-XMB",
+          "main"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSD-XMB — branch: test3",
+        "url": "https://github.com/AKuHAK/OSD-XMB/tree/test3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/OSD-XMB",
+          "test3"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSDMenu — branch: main",
+        "url": "https://github.com/AKuHAK/OSDMenu/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/OSDMenu",
+          "main"
+        ]
+      },
+      {
         "name": "AKuHAK/pfsshell — branch: 8Mb",
         "url": "https://github.com/AKuHAK/pfsshell/tree/8Mb",
         "keywords": [
@@ -10258,6 +10388,84 @@
           "repository",
           "AKuHAK/pfsshell",
           "pfs2tar-improvements"
+        ]
+      },
+      {
+        "name": "AKuHAK/PMAP — branch: c8d",
+        "url": "https://github.com/AKuHAK/PMAP/tree/c8d",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/PMAP",
+          "c8d"
+        ]
+      },
+      {
+        "name": "AKuHAK/PMAP — branch: dragon",
+        "url": "https://github.com/AKuHAK/PMAP/tree/dragon",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/PMAP",
+          "dragon"
+        ]
+      },
+      {
+        "name": "AKuHAK/PMAP — branch: eeprom",
+        "url": "https://github.com/AKuHAK/PMAP/tree/eeprom",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/PMAP",
+          "eeprom"
+        ]
+      },
+      {
+        "name": "AKuHAK/PMAP — branch: macos",
+        "url": "https://github.com/AKuHAK/PMAP/tree/macos",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/PMAP",
+          "macos"
+        ]
+      },
+      {
+        "name": "AKuHAK/PMAP — branch: master",
+        "url": "https://github.com/AKuHAK/PMAP/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/PMAP",
+          "master"
+        ]
+      },
+      {
+        "name": "AKuHAK/PS1VModeNeg — branch: main",
+        "url": "https://github.com/AKuHAK/PS1VModeNeg/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/PS1VModeNeg",
+          "main"
         ]
       },
       {
@@ -10404,6 +10612,19 @@
         ]
       },
       {
+        "name": "alberttheturkey/pfsshell — branch: master",
+        "url": "https://github.com/alberttheturkey/pfsshell/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "alberttheturkey/pfsshell",
+          "master"
+        ]
+      },
+      {
         "name": "aldobff/FreeDVDBoot — branch: gh-pages",
         "url": "https://github.com/aldobff/FreeDVDBoot/tree/gh-pages",
         "keywords": [
@@ -10440,6 +10661,19 @@
           "repository",
           "aleelyoshi/FreeDVDBoot-YoshiMod",
           "master"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu — branch: main",
+        "url": "https://github.com/aleelyoshi/OSDMenu/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "aleelyoshi/OSDMenu",
+          "main"
         ]
       },
       {
@@ -10531,6 +10765,32 @@
           "repository",
           "alex-dot/nhddl",
           "rewrite"
+        ]
+      },
+      {
+        "name": "alex-dot/OSD-XMB — branch: main",
+        "url": "https://github.com/alex-dot/OSD-XMB/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "alex-dot/OSD-XMB",
+          "main"
+        ]
+      },
+      {
+        "name": "alex-free/protopwn — branch: main",
+        "url": "https://github.com/alex-free/protopwn/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "alex-free/protopwn",
+          "main"
         ]
       },
       {
@@ -10803,6 +11063,19 @@
           "branch",
           "repository",
           "alexkimbrell31/NCAA-PS2-Dynasty-Save-Editor",
+          "main"
+        ]
+      },
+      {
+        "name": "alextrevisan/OSD-XMB — branch: main",
+        "url": "https://github.com/alextrevisan/OSD-XMB/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "alextrevisan/OSD-XMB",
           "main"
         ]
       },
@@ -11089,6 +11362,45 @@
           "branch",
           "repository",
           "alvesbeto/Open-PS2-Loader",
+          "master"
+        ]
+      },
+      {
+        "name": "alvesbeto/PFS-BatchKit-Manager — branch: main",
+        "url": "https://github.com/alvesbeto/PFS-BatchKit-Manager/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "alvesbeto/PFS-BatchKit-Manager",
+          "main"
+        ]
+      },
+      {
+        "name": "Alvetore/OPL-Widescreen-Cheats — branch: main",
+        "url": "https://github.com/Alvetore/OPL-Widescreen-Cheats/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Alvetore/OPL-Widescreen-Cheats",
+          "main"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2 — branch: master",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "amamic1803/pcsx2",
           "master"
         ]
       },
@@ -201387,6 +201699,606 @@
         ]
       },
       {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/ccc",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/ccc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/ccc"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/cpuinfo",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/cpuinfo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/cpuinfo"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/cubeb",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/cubeb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/cubeb"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/d3d12memalloc",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/d3d12memalloc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/d3d12memalloc"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/demangler",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/demangler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/demangler"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/discord-rpc",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/discord-rpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/discord-rpc"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/fast_float",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/fast_float",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/fast_float"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/fmt",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/fmt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/fmt"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/freesurround",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/freesurround",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/freesurround"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/glad",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/glad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/glad"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/googletest",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/googletest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/googletest"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/googletest/googlemock",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/googletest/googlemock",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/googletest/googlemock"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/imgui",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/imgui",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/imgui"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/libchdr",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/libchdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/libchdr"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/libzip",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/libzip"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/libzip/lib",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/libzip/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/libzip/lib"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/lzma",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/lzma"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/rainterface",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/rainterface",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/rainterface"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/rapidjson",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/rapidjson",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/rapidjson"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/rcheevos",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/rcheevos",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/rcheevos"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/simpleini",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/simpleini",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/simpleini"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/soundtouch",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/soundtouch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/soundtouch"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/vixl",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/vixl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/vixl"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/vulkan",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/vulkan",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/vulkan"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/winpixeventruntime",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/winpixeventruntime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/winpixeventruntime"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/winwil",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/winwil",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/winwil"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — 3rdparty/zydis",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/3rdparty/zydis",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "3rdparty/zydis"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — common",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "common"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — pcsx2",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/pcsx2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "pcsx2"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — pcsx2-gsrunner",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/pcsx2-gsrunner",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "pcsx2-gsrunner"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — pcsx2-qt",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/pcsx2-qt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "pcsx2-qt"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — pcsx2-qt/Tools",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/pcsx2-qt/Tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "pcsx2-qt/Tools"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — pcsx2/GS",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/pcsx2/GS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "pcsx2/GS"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — pcsx2/ps2/Iop",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/pcsx2/ps2/Iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "pcsx2/ps2/Iop"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — tests/ctest",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/tests/ctest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "tests/ctest"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — tests/ctest/common",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/tests/ctest/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "tests/ctest/common"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — tests/ctest/core",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/tests/ctest/core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "tests/ctest/core"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — tests/ctest/core/GS",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/tests/ctest/core/GS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "tests/ctest/core/GS"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — tools",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "abedalkaderr2001-glitch/pcsx2@master — updater",
+        "url": "https://github.com/abedalkaderr2001-glitch/pcsx2/tree/master/updater",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "abedalkaderr2001-glitch/pcsx2",
+          "master",
+          "updater"
+        ]
+      },
+      {
         "name": "adaltonfernando/AthenaEnv@main — modules",
         "url": "https://github.com/adaltonfernando/AthenaEnv/tree/main/modules",
         "keywords": [
@@ -201549,6 +202461,606 @@
           "adaltonfernando/AthenaEnv",
           "main",
           "src/quickjs/examples"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/ccc",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/ccc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/ccc"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/cpuinfo",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/cpuinfo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/cpuinfo"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/cubeb",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/cubeb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/cubeb"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/d3d12memalloc",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/d3d12memalloc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/d3d12memalloc"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/demangler",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/demangler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/demangler"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/discord-rpc",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/discord-rpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/discord-rpc"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/fast_float",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/fast_float",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/fast_float"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/fmt",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/fmt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/fmt"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/freesurround",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/freesurround",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/freesurround"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/glad",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/glad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/glad"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/googletest",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/googletest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/googletest"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/googletest/googlemock",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/googletest/googlemock",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/googletest/googlemock"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/imgui",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/imgui",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/imgui"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/libchdr",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/libchdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/libchdr"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/libzip",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/libzip"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/libzip/lib",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/libzip/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/libzip/lib"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/lzma",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/lzma"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/rainterface",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/rainterface",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/rainterface"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/rapidjson",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/rapidjson",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/rapidjson"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/rcheevos",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/rcheevos",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/rcheevos"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/simpleini",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/simpleini",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/simpleini"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/soundtouch",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/soundtouch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/soundtouch"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/vixl",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/vixl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/vixl"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/vulkan",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/vulkan",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/vulkan"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/winpixeventruntime",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/winpixeventruntime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/winpixeventruntime"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/winwil",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/winwil",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/winwil"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — 3rdparty/zydis",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/3rdparty/zydis",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "3rdparty/zydis"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — common",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "common"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — pcsx2",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/pcsx2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "pcsx2"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — pcsx2-gsrunner",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/pcsx2-gsrunner",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "pcsx2-gsrunner"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — pcsx2-qt",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/pcsx2-qt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "pcsx2-qt"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — pcsx2-qt/Tools",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/pcsx2-qt/Tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "pcsx2-qt/Tools"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — pcsx2/GS",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/pcsx2/GS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "pcsx2/GS"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — pcsx2/ps2/Iop",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/pcsx2/ps2/Iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "pcsx2/ps2/Iop"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — tests/ctest",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/tests/ctest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "tests/ctest"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — tests/ctest/common",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/tests/ctest/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "tests/ctest/common"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — tests/ctest/core",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/tests/ctest/core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "tests/ctest/core"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — tests/ctest/core/GS",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/tests/ctest/core/GS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "tests/ctest/core/GS"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — tools",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "adeyholar/pcsx2@master — updater",
+        "url": "https://github.com/adeyholar/pcsx2/tree/master/updater",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adeyholar/pcsx2",
+          "master",
+          "updater"
         ]
       },
       {
@@ -201759,6 +203271,21 @@
           "adlt3ch/FreeMcBoot-Installer",
           "master",
           "mbr/EELOAD"
+        ]
+      },
+      {
+        "name": "adlt3ch/PMAP@master — PMAP-unix",
+        "url": "https://github.com/adlt3ch/PMAP/tree/master/PMAP-unix",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/PMAP",
+          "master",
+          "PMAP-unix"
         ]
       },
       {
@@ -229242,6 +230769,878 @@
         ]
       },
       {
+        "name": "AKuHAK/OSD-Initialization-Libraries@main — kpatch/patch0100",
+        "url": "https://github.com/AKuHAK/OSD-Initialization-Libraries/tree/main/kpatch/patch0100",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSD-Initialization-Libraries",
+          "main",
+          "kpatch/patch0100"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSD-Initialization-Libraries@main — kpatch/patch0100/EELOAD",
+        "url": "https://github.com/AKuHAK/OSD-Initialization-Libraries/tree/main/kpatch/patch0100/EELOAD",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSD-Initialization-Libraries",
+          "main",
+          "kpatch/patch0100/EELOAD"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSD-Initialization-Libraries@main — kpatch/patch0101",
+        "url": "https://github.com/AKuHAK/OSD-Initialization-Libraries/tree/main/kpatch/patch0101",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSD-Initialization-Libraries",
+          "main",
+          "kpatch/patch0101"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSD-Initialization-Libraries@main — kpatch/patch0101/EELOAD",
+        "url": "https://github.com/AKuHAK/OSD-Initialization-Libraries/tree/main/kpatch/patch0101/EELOAD",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSD-Initialization-Libraries",
+          "main",
+          "kpatch/patch0101/EELOAD"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSD-Initialization-Libraries@main — osd",
+        "url": "https://github.com/AKuHAK/OSD-Initialization-Libraries/tree/main/osd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSD-Initialization-Libraries",
+          "main",
+          "osd"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSD-Initialization-Libraries@xparam — kpatch/patch0100",
+        "url": "https://github.com/AKuHAK/OSD-Initialization-Libraries/tree/xparam/kpatch/patch0100",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSD-Initialization-Libraries",
+          "xparam",
+          "kpatch/patch0100"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSD-Initialization-Libraries@xparam — kpatch/patch0100/EELOAD",
+        "url": "https://github.com/AKuHAK/OSD-Initialization-Libraries/tree/xparam/kpatch/patch0100/EELOAD",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSD-Initialization-Libraries",
+          "xparam",
+          "kpatch/patch0100/EELOAD"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSD-Initialization-Libraries@xparam — kpatch/patch0101",
+        "url": "https://github.com/AKuHAK/OSD-Initialization-Libraries/tree/xparam/kpatch/patch0101",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSD-Initialization-Libraries",
+          "xparam",
+          "kpatch/patch0101"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSD-Initialization-Libraries@xparam — kpatch/patch0101/EELOAD",
+        "url": "https://github.com/AKuHAK/OSD-Initialization-Libraries/tree/xparam/kpatch/patch0101/EELOAD",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSD-Initialization-Libraries",
+          "xparam",
+          "kpatch/patch0101/EELOAD"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSD-Initialization-Libraries@xparam — osd",
+        "url": "https://github.com/AKuHAK/OSD-Initialization-Libraries/tree/xparam/osd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSD-Initialization-Libraries",
+          "xparam",
+          "osd"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSD-XMB@main — bin/APPS",
+        "url": "https://github.com/AKuHAK/OSD-XMB/tree/main/bin/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSD-XMB",
+          "main",
+          "bin/APPS"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSD-XMB@test3 — bin/APPS",
+        "url": "https://github.com/AKuHAK/OSD-XMB/tree/test3/bin/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSD-XMB",
+          "test3",
+          "bin/APPS"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSDMenu@main — examples",
+        "url": "https://github.com/AKuHAK/OSDMenu/tree/main/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSDMenu",
+          "main",
+          "examples"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSDMenu@main — launcher",
+        "url": "https://github.com/AKuHAK/OSDMenu/tree/main/launcher",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSDMenu",
+          "main",
+          "launcher"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSDMenu@main — launcher/iop",
+        "url": "https://github.com/AKuHAK/OSDMenu/tree/main/launcher/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSDMenu",
+          "main",
+          "launcher/iop"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSDMenu@main — launcher/iop/smap_udpbd",
+        "url": "https://github.com/AKuHAK/OSDMenu/tree/main/launcher/iop/smap_udpbd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSDMenu",
+          "main",
+          "launcher/iop/smap_udpbd"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSDMenu@main — launcher/iop/smap_udptty",
+        "url": "https://github.com/AKuHAK/OSDMenu/tree/main/launcher/iop/smap_udptty",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSDMenu",
+          "main",
+          "launcher/iop/smap_udptty"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSDMenu@main — launcher/iop/xparam",
+        "url": "https://github.com/AKuHAK/OSDMenu/tree/main/launcher/iop/xparam",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSDMenu",
+          "main",
+          "launcher/iop/xparam"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSDMenu@main — launcher/loader",
+        "url": "https://github.com/AKuHAK/OSDMenu/tree/main/launcher/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSDMenu",
+          "main",
+          "launcher/loader"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSDMenu@main — launcher/ps1vn",
+        "url": "https://github.com/AKuHAK/OSDMenu/tree/main/launcher/ps1vn",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSDMenu",
+          "main",
+          "launcher/ps1vn"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSDMenu@main — patcher",
+        "url": "https://github.com/AKuHAK/OSDMenu/tree/main/patcher",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSDMenu",
+          "main",
+          "patcher"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSDMenu@main — patcher/iop",
+        "url": "https://github.com/AKuHAK/OSDMenu/tree/main/patcher/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSDMenu",
+          "main",
+          "patcher/iop"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSDMenu@main — patcher/iop/atad",
+        "url": "https://github.com/AKuHAK/OSDMenu/tree/main/patcher/iop/atad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSDMenu",
+          "main",
+          "patcher/iop/atad"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSDMenu@main — utils/installer",
+        "url": "https://github.com/AKuHAK/OSDMenu/tree/main/utils/installer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSDMenu",
+          "main",
+          "utils/installer"
+        ]
+      },
+      {
+        "name": "AKuHAK/OSDMenu@main — utils/mbr",
+        "url": "https://github.com/AKuHAK/OSDMenu/tree/main/utils/mbr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/OSDMenu",
+          "main",
+          "utils/mbr"
+        ]
+      },
+      {
+        "name": "AKuHAK/PMAP@c8d — PMAP-linux",
+        "url": "https://github.com/AKuHAK/PMAP/tree/c8d/PMAP-linux",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/PMAP",
+          "c8d",
+          "PMAP-linux"
+        ]
+      },
+      {
+        "name": "AKuHAK/PMAP@dragon — PMAP-linux",
+        "url": "https://github.com/AKuHAK/PMAP/tree/dragon/PMAP-linux",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/PMAP",
+          "dragon",
+          "PMAP-linux"
+        ]
+      },
+      {
+        "name": "AKuHAK/PMAP@eeprom — PMAP-linux",
+        "url": "https://github.com/AKuHAK/PMAP/tree/eeprom/PMAP-linux",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/PMAP",
+          "eeprom",
+          "PMAP-linux"
+        ]
+      },
+      {
+        "name": "AKuHAK/PMAP@macos — PMAP-unix",
+        "url": "https://github.com/AKuHAK/PMAP/tree/macos/PMAP-unix",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/PMAP",
+          "macos",
+          "PMAP-unix"
+        ]
+      },
+      {
+        "name": "AKuHAK/PMAP@master — PMAP-unix",
+        "url": "https://github.com/AKuHAK/PMAP/tree/master/PMAP-unix",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/PMAP",
+          "master",
+          "PMAP-unix"
+        ]
+      },
+      {
+        "name": "alberttheturkey/pfsshell@master — subprojects/apa",
+        "url": "https://github.com/alberttheturkey/pfsshell/tree/master/subprojects/apa",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alberttheturkey/pfsshell",
+          "master",
+          "subprojects/apa"
+        ]
+      },
+      {
+        "name": "alberttheturkey/pfsshell@master — subprojects/fakeps2sdk",
+        "url": "https://github.com/alberttheturkey/pfsshell/tree/master/subprojects/fakeps2sdk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alberttheturkey/pfsshell",
+          "master",
+          "subprojects/fakeps2sdk"
+        ]
+      },
+      {
+        "name": "alberttheturkey/pfsshell@master — subprojects/hdlfs",
+        "url": "https://github.com/alberttheturkey/pfsshell/tree/master/subprojects/hdlfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alberttheturkey/pfsshell",
+          "master",
+          "subprojects/hdlfs"
+        ]
+      },
+      {
+        "name": "alberttheturkey/pfsshell@master — subprojects/iomanX",
+        "url": "https://github.com/alberttheturkey/pfsshell/tree/master/subprojects/iomanX",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alberttheturkey/pfsshell",
+          "master",
+          "subprojects/iomanX"
+        ]
+      },
+      {
+        "name": "alberttheturkey/pfsshell@master — subprojects/pfs",
+        "url": "https://github.com/alberttheturkey/pfsshell/tree/master/subprojects/pfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alberttheturkey/pfsshell",
+          "master",
+          "subprojects/pfs"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu@main — examples",
+        "url": "https://github.com/aleelyoshi/OSDMenu/tree/main/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aleelyoshi/OSDMenu",
+          "main",
+          "examples"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu@main — launcher",
+        "url": "https://github.com/aleelyoshi/OSDMenu/tree/main/launcher",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aleelyoshi/OSDMenu",
+          "main",
+          "launcher"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu@main — launcher/iop",
+        "url": "https://github.com/aleelyoshi/OSDMenu/tree/main/launcher/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aleelyoshi/OSDMenu",
+          "main",
+          "launcher/iop"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu@main — launcher/iop/mmceman",
+        "url": "https://github.com/aleelyoshi/OSDMenu/tree/main/launcher/iop/mmceman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aleelyoshi/OSDMenu",
+          "main",
+          "launcher/iop/mmceman",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu@main — launcher/iop/udpfs/ministack",
+        "url": "https://github.com/aleelyoshi/OSDMenu/tree/main/launcher/iop/udpfs/ministack",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aleelyoshi/OSDMenu",
+          "main",
+          "launcher/iop/udpfs/ministack"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu@main — launcher/iop/udpfs/smap",
+        "url": "https://github.com/aleelyoshi/OSDMenu/tree/main/launcher/iop/udpfs/smap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aleelyoshi/OSDMenu",
+          "main",
+          "launcher/iop/udpfs/smap"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu@main — launcher/iop/udpfs/udpbd",
+        "url": "https://github.com/aleelyoshi/OSDMenu/tree/main/launcher/iop/udpfs/udpbd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aleelyoshi/OSDMenu",
+          "main",
+          "launcher/iop/udpfs/udpbd"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu@main — launcher/iop/udpfs/udpfs",
+        "url": "https://github.com/aleelyoshi/OSDMenu/tree/main/launcher/iop/udpfs/udpfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aleelyoshi/OSDMenu",
+          "main",
+          "launcher/iop/udpfs/udpfs"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu@main — mbr",
+        "url": "https://github.com/aleelyoshi/OSDMenu/tree/main/mbr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aleelyoshi/OSDMenu",
+          "main",
+          "mbr"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu@main — patcher",
+        "url": "https://github.com/aleelyoshi/OSDMenu/tree/main/patcher",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aleelyoshi/OSDMenu",
+          "main",
+          "patcher"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu@main — patcher/iop",
+        "url": "https://github.com/aleelyoshi/OSDMenu/tree/main/patcher/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aleelyoshi/OSDMenu",
+          "main",
+          "patcher/iop"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu@main — patcher/iop/atad",
+        "url": "https://github.com/aleelyoshi/OSDMenu/tree/main/patcher/iop/atad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aleelyoshi/OSDMenu",
+          "main",
+          "patcher/iop/atad"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu@main — utils/installer",
+        "url": "https://github.com/aleelyoshi/OSDMenu/tree/main/utils/installer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aleelyoshi/OSDMenu",
+          "main",
+          "utils/installer"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu@main — utils/loader",
+        "url": "https://github.com/aleelyoshi/OSDMenu/tree/main/utils/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aleelyoshi/OSDMenu",
+          "main",
+          "utils/loader"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu@main — utils/ps1vn",
+        "url": "https://github.com/aleelyoshi/OSDMenu/tree/main/utils/ps1vn",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aleelyoshi/OSDMenu",
+          "main",
+          "utils/ps1vn"
+        ]
+      },
+      {
+        "name": "alex-dot/OSD-XMB@main — bin/APPS",
+        "url": "https://github.com/alex-dot/OSD-XMB/tree/main/bin/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/OSD-XMB",
+          "main",
+          "bin/APPS"
+        ]
+      },
+      {
+        "name": "alex-dot/OSD-XMB@main — bin/APPS/neutrino",
+        "url": "https://github.com/alex-dot/OSD-XMB/tree/main/bin/APPS/neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/OSD-XMB",
+          "main",
+          "bin/APPS/neutrino"
+        ]
+      },
+      {
+        "name": "alex-dot/OSD-XMB@main — bin/APPS/neutrino/modules",
+        "url": "https://github.com/alex-dot/OSD-XMB/tree/main/bin/APPS/neutrino/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/OSD-XMB",
+          "main",
+          "bin/APPS/neutrino/modules"
+        ]
+      },
+      {
+        "name": "alex-dot/OSD-XMB@main — plugins",
+        "url": "https://github.com/alex-dot/OSD-XMB/tree/main/plugins",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/OSD-XMB",
+          "main",
+          "plugins"
+        ]
+      },
+      {
+        "name": "alex-dot/OSD-XMB@main — plugins/RetroArch/APPS",
+        "url": "https://github.com/alex-dot/OSD-XMB/tree/main/plugins/RetroArch/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/OSD-XMB",
+          "main",
+          "plugins/RetroArch/APPS"
+        ]
+      },
+      {
+        "name": "alex-free/protopwn@main — kpatch",
+        "url": "https://github.com/alex-free/protopwn/tree/main/kpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/protopwn",
+          "main",
+          "kpatch"
+        ]
+      },
+      {
+        "name": "alex-free/protopwn@main — loader",
+        "url": "https://github.com/alex-free/protopwn/tree/main/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/protopwn",
+          "main",
+          "loader"
+        ]
+      },
+      {
+        "name": "alex-free/protopwn@main — utils/osdpack",
+        "url": "https://github.com/alex-free/protopwn/tree/main/utils/osdpack",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/protopwn",
+          "main",
+          "utils/osdpack"
+        ]
+      },
+      {
         "name": "Alexis-VsCode/mario-kart-64-ps2@docs/readme-y-especificacion — docs/traduccion",
         "url": "https://github.com/Alexis-VsCode/mario-kart-64-ps2/tree/docs/readme-y-especificacion/docs/traduccion",
         "keywords": [
@@ -229284,6 +231683,81 @@
           "Alexis-VsCode/mario-kart-64-ps2",
           "main",
           "docs/traduccion"
+        ]
+      },
+      {
+        "name": "alextrevisan/OSD-XMB@main — bin/APPS",
+        "url": "https://github.com/alextrevisan/OSD-XMB/tree/main/bin/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alextrevisan/OSD-XMB",
+          "main",
+          "bin/APPS"
+        ]
+      },
+      {
+        "name": "alextrevisan/OSD-XMB@main — bin/APPS/neutrino",
+        "url": "https://github.com/alextrevisan/OSD-XMB/tree/main/bin/APPS/neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alextrevisan/OSD-XMB",
+          "main",
+          "bin/APPS/neutrino"
+        ]
+      },
+      {
+        "name": "alextrevisan/OSD-XMB@main — bin/APPS/neutrino/modules",
+        "url": "https://github.com/alextrevisan/OSD-XMB/tree/main/bin/APPS/neutrino/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alextrevisan/OSD-XMB",
+          "main",
+          "bin/APPS/neutrino/modules"
+        ]
+      },
+      {
+        "name": "alextrevisan/OSD-XMB@main — plugins",
+        "url": "https://github.com/alextrevisan/OSD-XMB/tree/main/plugins",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alextrevisan/OSD-XMB",
+          "main",
+          "plugins"
+        ]
+      },
+      {
+        "name": "alextrevisan/OSD-XMB@main — plugins/RetroArch/APPS",
+        "url": "https://github.com/alextrevisan/OSD-XMB/tree/main/plugins/RetroArch/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alextrevisan/OSD-XMB",
+          "main",
+          "plugins/RetroArch/APPS"
         ]
       },
       {
@@ -235434,6 +237908,606 @@
           "alvesbeto/Open-PS2-Loader",
           "master",
           "pc/opl2iso"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/ccc",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/ccc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/ccc"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/cpuinfo",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/cpuinfo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/cpuinfo"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/cubeb",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/cubeb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/cubeb"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/d3d12memalloc",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/d3d12memalloc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/d3d12memalloc"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/demangler",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/demangler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/demangler"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/discord-rpc",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/discord-rpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/discord-rpc"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/fast_float",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/fast_float",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/fast_float"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/fmt",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/fmt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/fmt"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/freesurround",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/freesurround",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/freesurround"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/glad",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/glad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/glad"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/googletest",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/googletest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/googletest"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/googletest/googlemock",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/googletest/googlemock",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/googletest/googlemock"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/imgui",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/imgui",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/imgui"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/libchdr",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/libchdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/libchdr"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/libzip",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/libzip"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/libzip/lib",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/libzip/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/libzip/lib"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/lzma",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/lzma"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/rainterface",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/rainterface",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/rainterface"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/rapidjson",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/rapidjson",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/rapidjson"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/rcheevos",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/rcheevos",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/rcheevos"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/simpleini",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/simpleini",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/simpleini"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/soundtouch",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/soundtouch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/soundtouch"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/vixl",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/vixl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/vixl"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/vulkan",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/vulkan",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/vulkan"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/winpixeventruntime",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/winpixeventruntime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/winpixeventruntime"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/winwil",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/winwil",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/winwil"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — 3rdparty/zydis",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/3rdparty/zydis",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "3rdparty/zydis"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — common",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "common"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — pcsx2",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/pcsx2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "pcsx2"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — pcsx2-gsrunner",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/pcsx2-gsrunner",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "pcsx2-gsrunner"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — pcsx2-qt",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/pcsx2-qt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "pcsx2-qt"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — pcsx2-qt/Tools",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/pcsx2-qt/Tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "pcsx2-qt/Tools"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — pcsx2/GS",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/pcsx2/GS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "pcsx2/GS"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — pcsx2/ps2/Iop",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/pcsx2/ps2/Iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "pcsx2/ps2/Iop"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — tests/ctest",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/tests/ctest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "tests/ctest"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — tests/ctest/common",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/tests/ctest/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "tests/ctest/common"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — tests/ctest/core",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/tests/ctest/core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "tests/ctest/core"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — tests/ctest/core/GS",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/tests/ctest/core/GS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "tests/ctest/core/GS"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — tools",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "amamic1803/pcsx2@master — updater",
+        "url": "https://github.com/amamic1803/pcsx2/tree/master/updater",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "amamic1803/pcsx2",
+          "master",
+          "updater"
         ]
       },
       {
@@ -1320759,71 +1323833,6 @@
         ]
       },
       {
-        "name": "362053534/pfsshell@master — submodule: external/dokany",
-        "url": "https://github.com/dokan-dev/dokany",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "israpps/pfsshell",
-          "CBShell",
-          "external/dokany",
-          "https://github.com/dokan-dev/dokany",
-          "CI4Cmake",
-          "CMake",
-          "codeblocks",
-          "master",
-          "patch-1",
-          "patch-2",
-          "NathanNeurotic/pfsshell",
-          "8Mb",
-          "cache_pol",
-          "cache_pol2",
-          "ext2",
-          "pfs2tar-improvements",
-          "work/pfsshell-8mb-windows",
-          "ps2homebrew/pfsshell",
-          "copilot/fix-pfsshell-build-issue",
-          "copilot/replace-fuse-with-fuse3",
-          "362053534/pfsshell"
-        ]
-      },
-      {
-        "name": "362053534/pfsshell@master — submodule: external/meson_toolchains",
-        "url": "https://github.com/uyjulian/meson_toolchains",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "israpps/pfsshell",
-          "CBShell",
-          "external/meson_toolchains",
-          "https://github.com/uyjulian/meson_toolchains.git",
-          "CI4Cmake",
-          "CMake",
-          "codeblocks",
-          "master",
-          "patch-1",
-          "patch-2",
-          "NathanNeurotic/pfsshell",
-          "8Mb",
-          "cache_pol",
-          "cache_pol2",
-          "ext2",
-          "fuse",
-          "pfs2tar-improvements",
-          "work/pfsshell-8mb-windows",
-          "ps2homebrew/pfsshell",
-          "copilot/fix-pfsshell-build-issue",
-          "copilot/replace-fuse-with-fuse3",
-          "362053534/pfsshell"
-        ]
-      },
-      {
         "name": "362053534/pfsshell@master — submodule: external/ps2sdk",
         "url": "https://github.com/ps2dev/ps2sdk",
         "keywords": [
@@ -1320860,6 +1323869,118 @@
           "master",
           "samples",
           "git@github.com:aap/xtc-assets.git"
+        ]
+      },
+      {
+        "name": "alberttheturkey/pfsshell@master — submodule: external/dokany",
+        "url": "https://github.com/dokan-dev/dokany",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "israpps/pfsshell",
+          "CBShell",
+          "external/dokany",
+          "https://github.com/dokan-dev/dokany",
+          "CI4Cmake",
+          "CMake",
+          "codeblocks",
+          "master",
+          "patch-1",
+          "patch-2",
+          "NathanNeurotic/pfsshell",
+          "8Mb",
+          "cache_pol",
+          "cache_pol2",
+          "ext2",
+          "pfs2tar-improvements",
+          "work/pfsshell-8mb-windows",
+          "ps2homebrew/pfsshell",
+          "copilot/fix-pfsshell-build-issue",
+          "copilot/replace-fuse-with-fuse3",
+          "362053534/pfsshell",
+          "alberttheturkey/pfsshell"
+        ]
+      },
+      {
+        "name": "alberttheturkey/pfsshell@master — submodule: external/meson_toolchains",
+        "url": "https://github.com/uyjulian/meson_toolchains",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "israpps/pfsshell",
+          "CBShell",
+          "external/meson_toolchains",
+          "https://github.com/uyjulian/meson_toolchains.git",
+          "CI4Cmake",
+          "CMake",
+          "codeblocks",
+          "master",
+          "patch-1",
+          "patch-2",
+          "NathanNeurotic/pfsshell",
+          "8Mb",
+          "cache_pol",
+          "cache_pol2",
+          "ext2",
+          "fuse",
+          "pfs2tar-improvements",
+          "work/pfsshell-8mb-windows",
+          "ps2homebrew/pfsshell",
+          "copilot/fix-pfsshell-build-issue",
+          "copilot/replace-fuse-with-fuse3",
+          "362053534/pfsshell",
+          "alberttheturkey/pfsshell"
+        ]
+      },
+      {
+        "name": "aleelyoshi/OSDMenu@main — submodule: launcher/iop/mmceman",
+        "url": "https://github.com/ps2-mmce/mmceman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "dirtrider735/nhddl",
+          "async-cover-art",
+          "iop/mmceman",
+          "https://github.com/ps2-mmce/mmceman.git",
+          "feature/editable-network-settings",
+          "legacy",
+          "release-candidate/integrated-ftp-20260814",
+          "rewrite",
+          "video-modes",
+          "dnunezx/nhddl-luna",
+          "luna",
+          "dnunezx/ROCKET",
+          "main",
+          "launcher/iop/mmceman",
+          "unstable",
+          "eliankeil/nhddl",
+          "NathanNeurotic/launcHER",
+          "EMBER",
+          "codex/opl-self-argv",
+          "codex/pages-favicon",
+          "codex/popstarter-replacement",
+          "docs/github-pages",
+          "docs/mobile-cursor-orbs-toggle-20261011",
+          "fix/build-version-sidecar-20261012",
+          "fix/ghpages-mobile-orbs-live-20261011",
+          "fix/nichdd-pfs-writethrough",
+          "fix/opl-apps-mass-argv0",
+          "fix/opl-db-quickboot-pfs0",
+          "fix/udpfs-nack-once",
+          "NathanNeurotic/nhddl",
+          "pcm720/nhddl",
+          "pcm720/OSDMenu",
+          "SumavisionQ5/launcHER",
+          "aleelyoshi/OSDMenu"
         ]
       },
       {
@@ -1322607,50 +1325728,6 @@
           "SgtBilko76/ARMSX2-3D",
           "dependabot/github_actions/ci-deps-854f0839bc",
           "quest-vr-stereo"
-        ]
-      },
-      {
-        "name": "SumavisionQ5/launcHER@EMBER — submodule: launcher/iop/mmceman",
-        "url": "https://github.com/ps2-mmce/mmceman",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "dirtrider735/nhddl",
-          "async-cover-art",
-          "iop/mmceman",
-          "https://github.com/ps2-mmce/mmceman.git",
-          "feature/editable-network-settings",
-          "legacy",
-          "release-candidate/integrated-ftp-20260814",
-          "rewrite",
-          "video-modes",
-          "dnunezx/nhddl-luna",
-          "luna",
-          "dnunezx/ROCKET",
-          "main",
-          "launcher/iop/mmceman",
-          "unstable",
-          "eliankeil/nhddl",
-          "NathanNeurotic/launcHER",
-          "EMBER",
-          "codex/opl-self-argv",
-          "codex/pages-favicon",
-          "codex/popstarter-replacement",
-          "docs/github-pages",
-          "docs/mobile-cursor-orbs-toggle-20261011",
-          "fix/build-version-sidecar-20261012",
-          "fix/ghpages-mobile-orbs-live-20261011",
-          "fix/nichdd-pfs-writethrough",
-          "fix/opl-apps-mass-argv0",
-          "fix/opl-db-quickboot-pfs0",
-          "fix/udpfs-nack-once",
-          "NathanNeurotic/nhddl",
-          "pcm720/nhddl",
-          "pcm720/OSDMenu",
-          "SumavisionQ5/launcHER"
         ]
       },
       {
