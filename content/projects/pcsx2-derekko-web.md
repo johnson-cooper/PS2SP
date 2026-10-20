@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-14T08:01:47.347Z'
+  lastSynchronized: '2026-10-20T00:21:08.318Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a086f5fc989491041f78fab573708c2f5c86bbd2e1860406fc8feffbbeded63b"
+    releasesEtag: '"d1edf7833282760505ae30e6b818cd81821b0aa28f870a1b9d0b0f9fc5427ea0"'
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
