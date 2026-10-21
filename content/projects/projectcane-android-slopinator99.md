@@ -34,12 +34,12 @@ latestRelease:
   url: >-
     https://github.com/Slopinator99/ProjectCane-Android/releases/tag/v0.4.1-android.2
 activity:
-  lastSynchronized: '2026-10-17T04:27:20.755Z'
+  lastSynchronized: '2026-10-21T04:48:13.240Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"38a942640e8f1820f1640ab886b99d5f6512abdfb805cac61214328db6dc4b81"
-    releasesEtag: W/"501c2ea50d8752a66a03fbe3c8dbba6324509c3ae57a8d592ded186c22cf5c83"
+    repoEtag: W/"54f5b927933e3dc2f7e3bb31435faeaea943fd5eefaf96e01167fc1566914eac"
+    releasesEtag: W/"53bc0d7399ebcd37caad7e454d32390a6732970c3df04945f50caac4a3afdae2"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

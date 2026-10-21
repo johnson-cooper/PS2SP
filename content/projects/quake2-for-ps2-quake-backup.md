@@ -26,19 +26,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-12T20:53:27Z'
+  lastCommit: '2026-10-19T18:19:15Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-17T04:27:47.109Z'
+  lastSynchronized: '2026-10-21T04:48:39.906Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0a72d9662088b67856e1f4b1da2a91b8b08c1acb6796e76a2d87f3bcc6b2b9af"
-    releasesEtag: '"98596048ad4ed6d428cda1aefe56c090b0a676e6882b7939916543a0d18dc59d"'
+    repoEtag: W/"742b360b617e60b1be8a5f71edee3c34f1c6c3455af5fb43488ab3fe202c3ba2"
+    releasesEtag: '"3b737ba010fffe568e4e81f706ed60f357033fb244069bfbd5a50e9b3caab9ec"'
 discovery:
   method: 'fork-network:glampert/quake2-ps2'
   confidence: 100

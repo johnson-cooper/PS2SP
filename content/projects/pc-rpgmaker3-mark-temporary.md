@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-21T00:58:06.538Z'
+  lastSynchronized: '2026-10-21T04:48:00.808Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5a1b8bf1efeb796276be54fdda0ef7828d15b7e7df5cf5c70308bf7ff72326b2"
+    releasesEtag: '"3b737ba010fffe568e4e81f706ed60f357033fb244069bfbd5a50e9b3caab9ec"'
 discovery:
   method: 'fork-network:vs-sr-dev/pc-rpgmaker3'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: vs-sr-dev/pc-rpgmaker3
   source: vs-sr-dev/pc-rpgmaker3
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

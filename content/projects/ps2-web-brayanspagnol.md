@@ -9,7 +9,7 @@ tags:
   - auto-discovered
 features: []
 authors: []
-license: null
+license: BSD-2-Clause
 homepage: null
 source:
   provider: github
@@ -20,19 +20,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-16T20:28:25Z'
+  lastCommit: '2026-10-20T20:25:01Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-17T04:27:32.311Z'
+  lastSynchronized: '2026-10-21T04:48:23.873Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"babd2cfb609cfcbc78805c133258629ef45e03175149ce1f90e094698d8cd36f"
-    releasesEtag: '"98596048ad4ed6d428cda1aefe56c090b0a676e6882b7939916543a0d18dc59d"'
+    repoEtag: W/"7b25963ab29d97e105bee349c274a94b9f1192a42b7beb39cd023d8c9bfdbd19"
+    releasesEtag: '"3b737ba010fffe568e4e81f706ed60f357033fb244069bfbd5a50e9b3caab9ec"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

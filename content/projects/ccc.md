@@ -25,7 +25,7 @@ repository:
   defaultBranch: main
   stars: 109
   forks: 14
-  lastCommit: '2026-10-16T10:35:41Z'
+  lastCommit: '2026-10-20T09:40:03Z'
 latestRelease:
   tag: v2.1
   name: v2.1
@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/chaoticgd/ccc/releases/tag/v2.1'
 activity:
   lastChecked: '2026-10-16T11:54:59.000Z'
-  lastSynchronized: '2026-10-17T05:51:32.425Z'
+  lastSynchronized: '2026-10-21T04:47:23.616Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f6795792663c2234c8487e8ae73707b1108bb586c30a460233ec63fd4a7b751c"
-    releasesEtag: W/"2ce1475a619f74887625062264e4396737b81da303613d39157602e6326e6461"
+    repoEtag: W/"7ff624c8944b938020c22fe90c6929731b1d0556e7940ca0dbbbf4a742bc21f8"
+    releasesEtag: W/"793ea5446c2b76260e934bb29db9a73c3c4154b9ca7071626621d7b9da8fed78"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

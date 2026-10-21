@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-17T23:28:07.364Z'
+  lastSynchronized: '2026-10-21T04:48:36.854Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4ae2caa20cf8b8257f21b40f9cef0e2821264c934f7dc2edb47b5a23e4741434"
+    releasesEtag: '"3b737ba010fffe568e4e81f706ed60f357033fb244069bfbd5a50e9b3caab9ec"'
 discovery:
   method: 'fork-network:ps2dev/ps2toolchain'
   confidence: 100
@@ -53,5 +56,4 @@ relationships:
   forkOf: ps2dev/ps2toolchain
   source: ps2dev/ps2toolchain
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

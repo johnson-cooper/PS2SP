@@ -22,10 +22,10 @@ source:
   url: 'https://github.com/pezzadev/OpenRAC'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-19T23:57:41Z'
 latestRelease:
   tag: null
   name: null
@@ -33,8 +33,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-19T23:56:10.760Z'
+  lastSynchronized: '2026-10-21T04:47:56.301Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d84537dc70ad0447d5c2620b3b18fd53021eb4e25a98dfbdefa19c760f7650e4"
+    releasesEtag: '"3b737ba010fffe568e4e81f706ed60f357033fb244069bfbd5a50e9b3caab9ec"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75
@@ -50,5 +54,4 @@ relationships:
   forkOf: OpenRAC/OpenRAC
   source: OpenRAC/OpenRAC
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

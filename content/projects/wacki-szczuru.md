@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2026-07-29T20:36:49Z'
   url: 'https://github.com/szczuru/wacki/releases/tag/1.0'
 activity:
-  lastSynchronized: '2026-10-17T04:28:00.999Z'
+  lastSynchronized: '2026-10-21T04:48:53.565Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8d435339323dc35ab54693ad3d0a5911a356b7f2712004e1f0a1109acbc2e817"
-    releasesEtag: W/"3539302769fa63caf5bf4c69438d7ed7763f0fb8de694e8528182d47f555a301"
+    repoEtag: W/"3d8ef43aa701f1935a399170231042d9130ae6326a59a83f6005e390519b25db"
+    releasesEtag: W/"011da9433eaf9274345ebea7e30f542950f8ba63b48dc85022ce13a785e8d77f"
 discovery:
   method: 'fork-network:mszula/wacki'
   confidence: 100

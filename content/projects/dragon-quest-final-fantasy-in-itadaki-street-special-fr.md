@@ -35,12 +35,12 @@ latestRelease:
     https://github.com/Androsyn31/Dragon-Quest-Final-Fantasy-in-Itadaki-Street-Special-FR/releases/tag/V1.0
 activity:
   lastChecked: '2026-10-07T22:16:51.969Z'
-  lastSynchronized: '2026-10-17T04:26:33.303Z'
+  lastSynchronized: '2026-10-21T04:47:26.751Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0422dc38b681132509feca9663db1c70869dd2de76128d56660783af950ec7b4"
-    releasesEtag: W/"0e34a7a16e2b44b0e3a20062e1da19b843704602f2db5ed922ec4c4571332d97"
+    repoEtag: W/"d19891b1a4a4dbd4620c3c8dfe2443bf25017ea47541a7e4022ab8b28221bc66"
+    releasesEtag: W/"5594051f965b5550581e20a5c9c8713efb115f0873746131d31b22f5a6f25da1"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

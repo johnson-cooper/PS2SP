@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-17T04:26:52.013Z'
+  lastSynchronized: '2026-10-21T04:47:44.927Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"220ad99ba42cc5d80d021ca4d95e0f718e1cdca9a8c78c2b3de3487234e76873"
-    releasesEtag: '"98596048ad4ed6d428cda1aefe56c090b0a676e6882b7939916543a0d18dc59d"'
+    repoEtag: W/"a40fe764266db39075e68b8d17351061bb4cde208fe6623e2e016b17b3efa264"
+    releasesEtag: '"3b737ba010fffe568e4e81f706ed60f357033fb244069bfbd5a50e9b3caab9ec"'
 discovery:
   method: 'fork-network:anthoo582/mario-kart-64-ps2'
   confidence: 100

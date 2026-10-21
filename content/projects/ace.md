@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/retro-trans/ACE/releases/tag/v0.1.20'
 activity:
   lastChecked: '2026-10-14T18:54:17.306Z'
-  lastSynchronized: '2026-10-17T05:49:38.697Z'
+  lastSynchronized: '2026-10-21T04:47:13.017Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f8ccd9052a5d56ef434def6d07af8aea9ca30c0615be371770b9c54e614794f0"
-    releasesEtag: W/"48098810f91b8080a08bcec26e796c79d1315541a01bbf27051d9c796627c766"
+    repoEtag: W/"6c357a7204078b6db15f886daa3a4af78628a3ce2db423294139bc68265a06d3"
+    releasesEtag: W/"081482f8a5482720477a61a37a015b74bfdb3949d873ba7669abadad83e70d12"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: '2026-06-20T05:59:05Z'
   url: 'https://github.com/Squishy-cyber/Hopscotch/releases/tag/Beta'
 activity:
-  lastSynchronized: '2026-10-21T00:58:06.538Z'
+  lastSynchronized: '2026-10-21T04:47:35.119Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a3292df2f1b19bb4abf682e3a35cf276d89c18a28947d30b772f662e2bf67d4a"
+    releasesEtag: W/"1298a82041181299f6658ed9ac9a297bad64709e29a94e2ca7b0dd704d58871b"
 discovery:
   method: 'fork-network:Un1q32/Butterscotch'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: Un1q32/Butterscotch
   source: ButterscotchRunner/Butterscotch
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2025-06-16T17:14:57Z'
   url: 'https://github.com/Wellinator/vampire-survivors-like-ps2/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-10-17T04:27:59.962Z'
+  lastSynchronized: '2026-10-21T04:48:52.573Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"aba5b286a529bda82f43646cdd209c4d0c54ffc3dea92f7398845f94a63e3c23"
-    releasesEtag: W/"019a7d8ea95823844c402e49fc33adceefa7ecef60aafe66948ed51c03036809"
+    repoEtag: W/"34033522f03686f528ed24c3ec0ca4d21052e2b3a110bfbfd9f319d93722dc35"
+    releasesEtag: W/"6abacdbabb62bf875ad6627c443497d6480410450aaa5a24ceeb55a2f431c302"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
