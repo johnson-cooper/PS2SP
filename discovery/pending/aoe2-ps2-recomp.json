@@ -1,0 +1,16 @@
+{
+  "repository": "samuelcaldas/aoe2-ps2-recomp",
+  "repositoryId": "1428610499",
+  "url": "https://github.com/samuelcaldas/aoe2-ps2-recomp",
+  "description": null,
+  "score": 85,
+  "evidence": [
+    "repository name explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-21T17:39:56.992Z",
+  "checkedAt": "2026-10-21T17:39:56.992Z"
+}
