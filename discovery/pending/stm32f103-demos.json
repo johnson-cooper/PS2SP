@@ -1,0 +1,16 @@
+{
+  "repository": "Pavel-Embeded/stm32f103-demos",
+  "repositoryId": "1428070632",
+  "url": "https://github.com/Pavel-Embeded/stm32f103-demos",
+  "description": "STM32F103C8T6 标准库学习 Demo 合集：GPIO/EXTI、PWM 舵机、定时器中断、串口与 DMA、OLED、PS2 手柄、CAN 总线（江协科技课程练习整理）",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-21T12:26:22.872Z",
+  "checkedAt": "2026-10-21T12:26:22.872Z"
+}
