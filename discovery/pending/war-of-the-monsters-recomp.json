@@ -2,15 +2,15 @@
   "repository": "yanm1103/War_of_the_Monsters_recomp",
   "repositoryId": "1406495271",
   "url": "https://github.com/yanm1103/War_of_the_Monsters_recomp",
-  "description": "Decompilation and PC port of War of the Monsters. Currently prioritizing PC port.",
+  "description": "PC port of War of the Monsters focused on QoL and new features",
   "score": 80,
   "evidence": [
     "PS2-specific topic",
     "README contains PS2 development/toolchain evidence"
   ],
-  "origin": "incremental:topic:playstation-2",
+  "origin": "pending-recheck",
   "maturity": "active-unreleased",
   "fork": null,
   "discoveredAt": "2026-10-19T06:51:38.680Z",
-  "checkedAt": "2026-10-19T06:51:38.680Z"
+  "checkedAt": "2026-10-21T00:58:06.538Z"
 }
