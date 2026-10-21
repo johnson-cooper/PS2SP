@@ -1,0 +1,16 @@
+{
+  "repository": "sub-surface/menu-screen",
+  "repositoryId": "1371458522",
+  "url": "https://github.com/sub-surface/menu-screen",
+  "description": "PS2-era game menu and interactive music showcase. Live at menu.subsurfaces.net",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-21T20:54:13.012Z",
+  "checkedAt": "2026-10-21T20:54:13.012Z"
+}
