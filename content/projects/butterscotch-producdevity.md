@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-21T12:26:22.872Z'
+  lastSynchronized: '2026-10-21T19:19:36.867Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"3bd4042e7630c8304244b5b9bfc96280bc2e1feb6c63c6331f558148d58fe255"
+    releasesEtag: '"4c931b40b872dc6bf0b1ac9708452c01e314f3374c26fa0dbd2bd31ee8a7dcb7"'
 discovery:
   method: 'fork-network:cobaltgit/Butterscotch'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: cobaltgit/Butterscotch
   source: ButterscotchRunner/Butterscotch
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

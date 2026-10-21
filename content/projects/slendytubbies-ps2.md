@@ -19,7 +19,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 2
   forks: 0
   lastCommit: '2026-10-15T19:07:31Z'
 latestRelease:
@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: '2026-10-15T18:50:25Z'
   url: 'https://github.com/LucianoDoS/slendytubbies-ps2/releases/tag/v0.1.0'
 activity:
-  lastSynchronized: '2026-10-15T20:32:48.379Z'
+  lastSynchronized: '2026-10-21T19:21:14.197Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6a4515fb10c4a67cbe954ae13ce964371dd1166e6ec528d7cb83174efdac07c9"
+    releasesEtag: W/"770750f7b962ad0587557564827b35d96885fc5ee3ebea0778ca2a11af0c9953"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

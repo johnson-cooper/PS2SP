@@ -17,7 +17,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 483
+  stars: 484
   forks: 24
   lastCommit: '2026-10-15T22:03:10Z'
 latestRelease:
@@ -27,12 +27,12 @@ latestRelease:
   url: 'https://github.com/allkern/iris/releases/tag/0.20-alpha'
 activity:
   lastChecked: '2026-09-29T00:28:54.794Z'
-  lastSynchronized: '2026-10-17T19:24:46.851Z'
+  lastSynchronized: '2026-10-21T19:19:58.788Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c20248f1598521f0a22dde6a689e5137eb24cfd7dec428740ac5281d45222d2a"
-    releasesEtag: W/"0e51570348af9aeaf1c45eb8e42e98f2526d8efc2ce30a9230c6140d58419cfe"
+    repoEtag: W/"59168927d08641ecf2d9b4a2a4f364ac86e63b9ca34ff59bbc1da9a51a0e4b98"
+    releasesEtag: W/"f04d0342c91df0a74f6559209ea9e833f179a4f16ef96e45488c38d96383e909"
 discovery:
   method: github-search
   confidence: 100

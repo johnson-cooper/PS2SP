@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2026-10-03T15:47:57Z'
   url: 'https://github.com/AthenaENV-PS2-GAMES/AthenaEnv/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-17T19:24:24.328Z'
+  lastSynchronized: '2026-10-21T19:19:33.095Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"15c615182b19bfb8e79e82633d82606303fb532d60f1979c815591eed47e9ecd"
-    releasesEtag: W/"c16847f8f76eb51c902f760abce0793c07a6823bbc68c9655f210cf7ecd762f8"
+    repoEtag: W/"0584cfd7d99ec23f8c2a68235e8bf461ceb1c1177c66e588c9402bd87281eb96"
+    releasesEtag: W/"2d8b16a52514fd72357e03b0df1ca0c72df5ae6f52dbea0fd4bca9385be92c44"
 discovery:
   method: 'fork-network:DanielSant0s/AthenaEnv'
   confidence: 100

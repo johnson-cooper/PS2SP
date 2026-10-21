@@ -21,18 +21,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 2
+  stars: 3
   forks: 0
-  lastCommit: '2026-10-18T20:52:25Z'
+  lastCommit: '2026-10-19T21:15:59Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-18T21:02:34.258Z'
+  lastSynchronized: '2026-10-21T19:20:57.788Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f414e7a29530c7b982a02a60ca9a3a4497c189703abf75efcde3fc0b88272538"
+    releasesEtag: '"4c931b40b872dc6bf0b1ac9708452c01e314f3374c26fa0dbd2bd31ee8a7dcb7"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: jlsandri/PS2Recomp
   source: ran-j/PS2Recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

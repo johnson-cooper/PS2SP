@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-17T19:25:58.700Z'
+  lastSynchronized: '2026-10-21T19:21:13.727Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"36f53a443ebbe81e93b63e0c156b4d6bb1ed0b9878d0f9eb2b35a8c762ed3e6f"
-    releasesEtag: '"bcbb9456270ba23e1365e1daa35a0f37d35ce04dc4ed3bd2b448dfedec33e05e"'
+    repoEtag: W/"6d1dbca05c056d4875966d536bdaf51c6c8ebc09f213bbf962481106467d6c1f"
+    releasesEtag: '"4c931b40b872dc6bf0b1ac9708452c01e314f3374c26fa0dbd2bd31ee8a7dcb7"'
 discovery:
   method: 'fork-network:retronas/retronas'
   confidence: 95

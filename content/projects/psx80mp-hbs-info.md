@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-18T14:50:35.713Z'
+  lastSynchronized: '2026-10-21T19:21:10.499Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"45cc64bf3d4344b49078cb5e37e330e8a11736388b74bc6bbf8a8894994ebbbe"
+    releasesEtag: '"4c931b40b872dc6bf0b1ac9708452c01e314f3374c26fa0dbd2bd31ee8a7dcb7"'
 discovery:
   method: 'fork-network:alex-free/psx80mp'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: alex-free/psx80mp
   source: alex-free/psx80mp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

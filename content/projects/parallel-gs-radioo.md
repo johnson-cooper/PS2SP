@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-21T00:58:06.538Z'
+  lastSynchronized: '2026-10-21T19:20:22.884Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ce9d591086ec658a763c9db838dd9ea28036e294f98f10918ab950f14485920a"
+    releasesEtag: '"4c931b40b872dc6bf0b1ac9708452c01e314f3374c26fa0dbd2bd31ee8a7dcb7"'
 discovery:
   method: 'fork-network:DiscoStarslayer/parallel-gs'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: DiscoStarslayer/parallel-gs
   source: Arntzen-Software/parallel-gs
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

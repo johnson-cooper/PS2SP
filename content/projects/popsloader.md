@@ -28,20 +28,20 @@ repository:
   defaultBranch: master
   stars: 70
   forks: 7
-  lastCommit: '2026-10-16T23:33:08Z'
+  lastCommit: '2026-10-19T07:25:26Z'
 latestRelease:
-  tag: 1.3.0
-  name: POPSLoader 1.3.0 — Ember Beta-2
-  publishedAt: '2026-10-13T15:40:19Z'
-  url: 'https://github.com/NathanNeurotic/POPSLoader/releases/tag/1.3.0'
+  tag: 1.3.1
+  name: POPSLoader 1.3.1
+  publishedAt: '2026-10-19T07:25:27Z'
+  url: 'https://github.com/NathanNeurotic/POPSLoader/releases/tag/1.3.1'
 activity:
   lastChecked: '2026-09-29T00:27:08.198Z'
-  lastSynchronized: '2026-10-17T19:25:24.635Z'
+  lastSynchronized: '2026-10-21T19:20:37.397Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9ff6843c8fa1267f1b98fa7571d78c45c33a69f0fe42ec0cd852ca4276c17bce"
-    releasesEtag: W/"7b7c8712068f8f7d28c3c4a175219e358acaeaf17f034c56e8db5f0073320e10"
+    repoEtag: W/"72ae9763f9a431ccbfd4c3c518af692bc14ea109c6085f6ec3a469f4b50acb6d"
+    releasesEtag: W/"0f0d0ab15979309c36167d27e55a732a026f9466d88ed9ae5c45d363437ce356"
 discovery:
   method: curated
   confidence: 100

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-08-13T22:35:26Z'
   url: 'https://github.com/PlainBoo/udpfsd/releases/tag/test2'
 activity:
-  lastSynchronized: '2026-10-17T19:26:18.100Z'
+  lastSynchronized: '2026-10-21T19:21:21.657Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6a523b735f21976be5e0c2605f9b9efc280b4b80f494b6669c92ac8cc56364db"
-    releasesEtag: W/"53e4d601dda5091262f42ba55266374228bb93d351cea3e131bdbffda40bbe4a"
+    repoEtag: W/"ec99a520006a46dd8fa06158d5899ff156bbe03f5f2722c2cb69f751bc88d0ea"
+    releasesEtag: W/"09fef2302dd06339200068174569fdce59af6ac2cb735405b8a3ad4d9448b4db"
 discovery:
   method: 'fork-network:pcm720/udpfsd'
   confidence: 95
