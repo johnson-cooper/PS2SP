@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/Uncle-Uee/PSXMC/releases/tag/v0.1.0'
 activity:
   lastChecked: '2026-10-04T08:48:40.209Z'
-  lastSynchronized: '2026-10-15T15:03:11.420Z'
+  lastSynchronized: '2026-10-21T15:16:23.158Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4cd230320c6e20479c88903ab0115b1a50a7c4807c71ed756bd2c1ce0c25637f"
-    releasesEtag: W/"13645844087a185667c30a2210aba27d087e9fa896176524281eb2942ee62d0e"
+    repoEtag: W/"b5a60d1f6b5708a51255c792a0c63732860c5a8bbec3db72eca1c483df0e7fb3"
+    releasesEtag: W/"ef49b1d4ee5777c694b17454278fe6fe905532b9ae01adbe72ad486235555694"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85

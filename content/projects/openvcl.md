@@ -15,7 +15,7 @@ tags:
 features: []
 authors: []
 license: null
-homepage: null
+homepage: 'https://github.com/ps2dev/openvcl'
 source:
   provider: github
   repository: glampert/openvcl
@@ -23,10 +23,10 @@ source:
   url: 'https://github.com/glampert/openvcl'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-21T14:01:08Z'
 latestRelease:
   tag: null
   name: null
@@ -34,8 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-16T06:23:09.688Z'
+  lastSynchronized: '2026-10-21T15:15:34.217Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8c7c41c33eac0f37c171b87274756e650cd37e85e998f314940e12428a90bb80"
+    releasesEtag: '"611e30d199f302d8f78bca285a41fb0f9611f5e583be1fd234f471bc48e862ef"'
 discovery:
   method: 'pending-promotion:incremental:ps2sdk in:name,description,readme'
   confidence: 75
@@ -51,5 +55,4 @@ relationships:
   forkOf: jsvennevid/openvcl
   source: jsvennevid/openvcl
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

@@ -13,7 +13,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: Apache-2.0
 homepage: 'http://opentennis.dev/'
 source:
   provider: github
@@ -23,22 +23,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 4
   forks: 0
-  lastCommit: '2026-10-15T15:01:58Z'
+  lastCommit: '2026-10-21T15:14:40Z'
 latestRelease:
-  tag: beta
-  name: Beta (dd20b40)
-  publishedAt: '2026-10-15T13:55:16Z'
-  url: 'https://github.com/FIZL0/opentennis/releases/tag/beta'
+  tag: v1.2.6
+  name: OpenTennis 1.2.6
+  publishedAt: '2026-10-20T22:30:16Z'
+  url: 'https://github.com/FIZL0/opentennis/releases/tag/v1.2.6'
 activity:
   lastChecked: '2026-10-09T16:35:29.097Z'
-  lastSynchronized: '2026-10-15T15:02:05.820Z'
+  lastSynchronized: '2026-10-21T15:15:07.219Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c7280782352f8f92044eb3bfc133a078a93406e1301bf1e8771f3b8dd34f8d13"
-    releasesEtag: W/"ca58aa13d8385c947517fc9220dc65e66aa420cbfa5babe2f21f9aa465bc406a"
+    repoEtag: W/"07806e086a24f62bd483a849f553520cc27fb97085705cc3e38c0931bcdaec27"
+    releasesEtag: W/"4406dcdcff84f0ed275df15aeee5c2f1a2931d63e368ee39133fdfbdd58dd15d"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85

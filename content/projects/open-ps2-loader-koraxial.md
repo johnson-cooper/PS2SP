@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2024-06-05T09:22:13Z'
   url: 'https://github.com/koraxial/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-15T15:02:30.721Z'
+  lastSynchronized: '2026-10-21T15:15:31.971Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a977a35b4bb58ce1d3b3db287c4733595b7d910a974fac1f88b270ecb1911c27"
-    releasesEtag: W/"bc723524f877194ed641dc92c3b5e6e49c5af5d3b46e735a937ee27ff71829fe"
+    repoEtag: W/"e539c5c369fd1f59e40c4a9068e3be1e3feb98fb2daa2ad2ac6fd0b0dfe78786"
+    releasesEtag: W/"9ccb4e4ca1df4d3a63c4d352c738bd96c19d2fe89f3f0e97eb2ad6621b78d678"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

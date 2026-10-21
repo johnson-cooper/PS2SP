@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-15T15:02:51.716Z'
+  lastSynchronized: '2026-10-21T15:15:54.014Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d8e1371f3e1e8f73b93ff9ca7a4ba5051d8b89b5b034d2e8f4d5a3383d426174"
-    releasesEtag: '"18bd9b81563aa7db63bba35858382769e5316c9fa3f022cec109596c7cd5f2b3"'
+    repoEtag: W/"406d59568b2a4a5ecadb57e28ee36984d05f826c0ee786491698e7a5982b2571"
+    releasesEtag: '"611e30d199f302d8f78bca285a41fb0f9611f5e583be1fd234f471bc48e862ef"'
 discovery:
   method: 'fork-network:ps2homebrew/PS1VModeNeg'
   confidence: 95

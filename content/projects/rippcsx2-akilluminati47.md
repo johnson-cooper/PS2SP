@@ -22,21 +22,19 @@ repository:
   defaultBranch: rippcsx2
   stars: 0
   forks: 0
-  lastCommit: '2026-10-13T08:07:48Z'
+  lastCommit: '2026-10-21T07:10:09Z'
 latestRelease:
-  tag: v2.9.96-rippcsx2.1
-  name: >-
-    RIPPCSX2 1: PCSX2 v2.9.96 with HDTV output, for testing OPL, RiptOPL and
-    RIPPS2 themes
-  publishedAt: '2026-10-13T07:52:55Z'
-  url: 'https://github.com/akilluminati47/RIPPCSX2/releases/tag/v2.9.96-rippcsx2.1'
+  tag: v2.9.96-rippcsx2.2
+  name: 'RIPPCSX2 2: the PS2 homebrew test emulator, ready for AI-assisted testing'
+  publishedAt: '2026-10-20T18:39:07Z'
+  url: 'https://github.com/akilluminati47/RIPPCSX2/releases/tag/v2.9.96-rippcsx2.2'
 activity:
-  lastSynchronized: '2026-10-15T15:03:18.285Z'
+  lastSynchronized: '2026-10-21T15:16:28.978Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"81d41a40716e50e62295dcba6ba124cd0786f0546723a370705438e7b3d5f44b"
-    releasesEtag: W/"57c97bfc9d62574e4bdd15f8c6fb699f433caaf87a2634036cb7cb34d4796dff"
+    repoEtag: W/"0001ee9dfe406e78ed2fd77a2eaeef88a26424c6d36952cc1b7abfe863ba07e6"
+    releasesEtag: W/"75534caef05df8e8c7b7d94d1490fbff86f276cdfe5d9f4d1e02fde17d501ccc"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
