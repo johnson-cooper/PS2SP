@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: Free-McTuna-OpenTuna-Installer-AIO
-  stars: 28
+  stars: 29
   forks: 4
   lastCommit: '2025-06-16T13:03:27Z'
 latestRelease:
@@ -32,12 +32,12 @@ latestRelease:
   url: >-
     https://github.com/NathanNeurotic/FreeMcTuna/releases/tag/UMCS-OPENTUNA-4eddc244
 activity:
-  lastSynchronized: '2026-10-01T03:31:57.507Z'
+  lastSynchronized: '2026-10-21T10:09:19.662Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"30b92088fec3bb72eee5133f0288b3870a2a5c92406ea8fddaf506cc6085105c"
-    releasesEtag: W/"d1853f50fe3050790ba667534e18110a6ce51042233d193d00baf3bd2c267f42"
+    repoEtag: W/"08f9086d0e37079a0db13b089e106b30be1fdc0175c62737a18e1f6d90d7ee8d"
+    releasesEtag: W/"322665c1b1e586430290a036ae2c4714d894e5212a0a54f026938522db9dbc0a"
 discovery:
   method: curated-owner
   confidence: 100

@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T05:10:46.442Z'
+  lastSynchronized: '2026-10-21T10:09:18.924Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e5f209613daf6278996e375df80228cac8665fa7856867d7aa4c883fc4ac19af"
+    releasesEtag: '"b55065ab4085e8f1e8b79031a62d1bdda93dcc0a493b526b40fcf89d27888f60"'
 discovery:
   method: 'fork-network:NathanNeurotic/FreeMcTuna'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: NathanNeurotic/FreeMcTuna
   source: ps2homebrew/opentuna-installer
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

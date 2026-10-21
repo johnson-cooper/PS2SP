@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-10-20T01:04:36Z'
   url: 'https://github.com/ticohq/tico-NetherSX2/releases/tag/3.0.0'
 activity:
-  lastSynchronized: '2026-10-20T05:18:56.651Z'
+  lastSynchronized: '2026-10-21T10:10:42.148Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c5ff64e52cf8e8aff00db94a61a9b0de10aeba6560bed230856b5403b1c63d38"
+    releasesEtag: W/"9c9d8f2c3a2efd06496efdd6b455e94c28175dd47cf5b73d9c7b40a1074d15d0"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: NaGaa95/NetherSX2_nx
   source: NaGaa95/NetherSX2_nx
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

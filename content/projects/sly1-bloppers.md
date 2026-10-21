@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T14:55:33.658Z'
+  lastSynchronized: '2026-10-21T10:10:37.964Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"bdd54a5a1f63dd75cc148197dc0b0cc44269157bfaa40920b43f490f4ccb1baf"
+    releasesEtag: '"b55065ab4085e8f1e8b79031a62d1bdda93dcc0a493b526b40fcf89d27888f60"'
 discovery:
   method: 'fork-network:TheOnlyZac/sly1'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: TheOnlyZac/sly1
   source: TheOnlyZac/sly1
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T14:52:44.353Z'
+  lastSynchronized: '2026-10-21T10:09:48.449Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"eccd5704f762cfeea646c321b48d79b9243e9e25a5928aa8b00aa422238ccc43"
+    releasesEtag: '"b55065ab4085e8f1e8b79031a62d1bdda93dcc0a493b526b40fcf89d27888f60"'
 discovery:
   method: 'fork-network:elmariolo/OPL-Server'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: elmariolo/OPL-Server
   source: elmariolo/OPL-Server
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

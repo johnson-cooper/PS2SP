@@ -1,7 +1,9 @@
 ---
 name: libito
 slug: libito
-summary: "Low-level multi-threading, memory management, and utility library for PlayStation 2."
+summary: >-
+  Low-level multi-threading, memory management, and utility library for
+  PlayStation 2.
 categories:
   - libraries
   - development
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T03:32:20.362Z'
+  lastSynchronized: '2026-10-21T10:09:27.510Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f5afcb4bf16d3cad066ae59524309b6b651e6dac7c0c6dd9491336afd9a44d2c"
-    releasesEtag: '"4ef65f487a80e40e8b39f2a7f95110ab2bddb44bd2c1313d1e3fda41ae818c83"'
+    repoEtag: W/"805373da8396cd0b299773292809e5cdf0f17b1c51dc4ff12b3db774f3ea56f3"
+    releasesEtag: '"b55065ab4085e8f1e8b79031a62d1bdda93dcc0a493b526b40fcf89d27888f60"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 95

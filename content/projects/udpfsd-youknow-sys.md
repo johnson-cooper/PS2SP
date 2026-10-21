@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T18:50:06.212Z'
+  lastSynchronized: '2026-10-21T10:10:43.960Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"3ffd08b74943d11d8406185d1ef46e692c401263976b493b640e4f3667db40c9"
+    releasesEtag: '"b55065ab4085e8f1e8b79031a62d1bdda93dcc0a493b526b40fcf89d27888f60"'
 discovery:
   method: 'fork-network:pcm720/udpfsd'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: pcm720/udpfsd
   source: pcm720/udpfsd
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

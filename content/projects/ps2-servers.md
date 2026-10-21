@@ -19,21 +19,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 23
+  stars: 27
   forks: 0
-  lastCommit: '2026-09-26T19:34:39Z'
+  lastCommit: '2026-10-20T18:58:18Z'
 latestRelease:
-  tag: v0.7.9
-  name: PS2 Servers v0.7.9
-  publishedAt: '2026-09-26T00:35:18Z'
-  url: 'https://github.com/NathanNeurotic/PS2-Servers/releases/tag/v0.7.9'
+  tag: v0.8.1
+  name: PS2 Servers v0.8.1
+  publishedAt: '2026-09-29T06:30:28Z'
+  url: 'https://github.com/NathanNeurotic/PS2-Servers/releases/tag/v0.8.1'
 activity:
-  lastSynchronized: '2026-09-29T02:37:06.006Z'
+  lastSynchronized: '2026-10-21T10:10:11.186Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"efc6ebb3591949a3e79d7d7639737f0ca1f03693ead01be44e32162d216205fc"
-    releasesEtag: W/"ee3e76d745abb69dd1e8a613af26f0217142fb3f6527423f98f2694de0e7bda6"
+    repoEtag: W/"d3e5692260bb44a048db7ebd1fa614a8b14e7bb28f7e8623621d843fdf57cfad"
+    releasesEtag: W/"fb0fb62996c26782959e2fe97c138bbb37890db7622b4fa546d8bc7471424748"
 discovery:
   method: curated-owner
   confidence: 100

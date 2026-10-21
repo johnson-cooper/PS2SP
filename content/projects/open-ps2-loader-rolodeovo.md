@@ -1,7 +1,9 @@
 ---
 name: Open-PS2-Loader
 slug: open-ps2-loader-rolodeovo
-summary: "Community fork of Open PS2 Loader (OPL) with custom patches, interface updates, and experimental loader backends."
+summary: >-
+  Community fork of Open PS2 Loader (OPL) with custom patches, interface
+  updates, and experimental loader backends.
 categories:
   - loaders
 tags:
@@ -19,7 +21,7 @@ repository:
   archived: false
   defaultBranch: master
   stars: 7
-  forks: 6
+  forks: 7
   lastCommit: '2020-11-19T17:36:15Z'
 latestRelease:
   tag: modular-pademu
@@ -27,12 +29,12 @@ latestRelease:
   publishedAt: '2020-09-19T17:53:03Z'
   url: 'https://github.com/RoloDeOvo/Open-PS2-Loader/releases/tag/modular-pademu'
 activity:
-  lastSynchronized: '2026-10-01T03:32:54.949Z'
+  lastSynchronized: '2026-10-21T10:09:45.905Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b01ba0e789becf6290f8548caecc7ebe3c799f0fe8b3d96e687b19234a508d7a"
-    releasesEtag: W/"6deda550b6c4cd262aebe49101e80ae142dfa7f30c1aeb49469b1c3937e3c23b"
+    repoEtag: W/"5bf258bf83b516dc2a69d6a43c997a5db87b82cd81e5219cd8bda29d8a5082cc"
+    releasesEtag: W/"d28f32554b075ec7f0c79ec21717256624ba70f811fb549e3aa1accb9f2f48ac"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

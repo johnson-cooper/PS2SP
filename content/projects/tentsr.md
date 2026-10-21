@@ -1,7 +1,9 @@
 ---
 name: tentsr
 slug: tentsr
-summary: "Terminate and Stay Resident (TSR) kernel module for background operations on PlayStation 2."
+summary: >-
+  Terminate and Stay Resident (TSR) kernel module for background operations on
+  PlayStation 2.
 categories:
   - drivers
   - development
@@ -27,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-09-29T04:57:53.380Z'
+  lastSynchronized: '2026-10-21T10:10:41.457Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"030361a5a0569dd7bb9673a8499fa19ee354c57fec775b028d2b2769453c0763"
+    releasesEtag: '"b55065ab4085e8f1e8b79031a62d1bdda93dcc0a493b526b40fcf89d27888f60"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 95
@@ -39,5 +44,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

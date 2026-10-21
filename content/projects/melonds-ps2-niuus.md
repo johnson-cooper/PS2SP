@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-09T02:34:11.941Z'
+  lastSynchronized: '2026-10-21T10:09:32.930Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7dc819fd4862fb1611024061c98199350754a7ec12c621b9dbec6256e0e6e6cf"
+    releasesEtag: '"b55065ab4085e8f1e8b79031a62d1bdda93dcc0a493b526b40fcf89d27888f60"'
 discovery:
   method: 'fork-network:DanielSant0s/melonDS-PS2'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: DanielSant0s/melonDS-PS2
   source: Rinnegatamante/melonDS-Vita
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: '2026-06-19T11:05:55Z'
   url: 'https://github.com/calos9999/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-11T20:34:57.079Z'
+  lastSynchronized: '2026-10-21T10:09:40.627Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"32e054f18fba67774a26904e385292cc7d30acb0b556edb5c62dfb4fc286a317"
+    releasesEtag: W/"2a35e13a330dd405bd6b8c0289a1ec443f457003a51d63f48bc7bdc87ddd085d"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: ps2homebrew/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

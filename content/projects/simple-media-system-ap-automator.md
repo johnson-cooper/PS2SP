@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T14:55:33.658Z'
+  lastSynchronized: '2026-10-21T10:10:36.765Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7ffeccb6082f9657061d8a6e1563066f1373f508c6969b8b5f3f26a4fc2b1b68"
+    releasesEtag: '"b55065ab4085e8f1e8b79031a62d1bdda93dcc0a493b526b40fcf89d27888f60"'
 discovery:
   method: 'fork-network:TheMrIron2/Simple-Media-System'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: TheMrIron2/Simple-Media-System
   source: TheMrIron2/Simple-Media-System
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
