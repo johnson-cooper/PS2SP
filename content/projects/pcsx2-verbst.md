@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-09-11T06:50:21Z'
   url: 'https://github.com/verbst/pcsx2/releases/tag/v1.2'
 activity:
-  lastSynchronized: '2026-10-20T23:54:21.842Z'
+  lastSynchronized: '2026-10-21T23:20:36.571Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"53806ac5c361617bd618b56e0b6539d37502fc3713dfdc9f040633edf9774ac5"
-    releasesEtag: W/"bd228560d4373fc66b0b08290fe6cc3adcd0fc2026d8636edf8287d52f92a265"
+    repoEtag: W/"4d2faf1816f8cc6887ace1afa07ae5fe7daa6c66212efbecf53d0d62b54684f1"
+    releasesEtag: W/"1f2ddcc48883b95347f6b029ec68bf620142f2bbc27f55210404e45c34d823a8"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

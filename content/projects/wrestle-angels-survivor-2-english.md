@@ -23,21 +23,21 @@ repository:
   defaultBranch: main
   stars: 2
   forks: 0
-  lastCommit: '2026-10-19T11:25:17Z'
+  lastCommit: '2026-10-21T21:12:47Z'
 latestRelease:
-  tag: v0.1
-  name: 'Wrestle Angels: Survivor 2 English Patch v0.1'
-  publishedAt: '2026-10-19T11:10:57Z'
+  tag: v0.2
+  name: 'Wrestle Angels: Survivor 2 English Patch v0.2 - Missed Translations'
+  publishedAt: '2026-10-21T21:17:23Z'
   url: >-
-    https://github.com/kactusken/Wrestle-Angels-Survivor-2-English/releases/tag/v0.1
+    https://github.com/kactusken/Wrestle-Angels-Survivor-2-English/releases/tag/v0.2
 activity:
   lastChecked: '2026-10-19T14:59:02.710Z'
-  lastSynchronized: '2026-10-20T23:55:18.691Z'
+  lastSynchronized: '2026-10-21T23:21:36.872Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2e47257b331f4309facf094f8055d8d431b7c5c30d790ae800564e80c7055c65"
-    releasesEtag: W/"ef2356db736052ad3fb2fdeb660796ba44ccd1126ba44eb4edfc2d575bdb5b70"
+    repoEtag: W/"06b8e00739fbddd47c275dff241250174b21a183696796db6c83c5d74340f40b"
+    releasesEtag: W/"b76b1b60c72b410414c4890e459e667fbc682f1d29ff7f0effc931a2a527223b"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

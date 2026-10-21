@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-20T23:55:13.382Z'
+  lastSynchronized: '2026-10-21T23:21:31.411Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fc1be6da2d6d4d57a9917578b40d79b714062c7d043c659d54af90a312efab61"
-    releasesEtag: '"0dc3e0b38f920a8927e607dd0008a947558b5620b175ac17f3573a6f12ef5909"'
+    repoEtag: W/"027f3f08ccf29109806c630ea977eba21d80cd61bdbed13a03a4564ff59401d6"
+    releasesEtag: '"669f535743067c0ac9111e98f8b3d7f826f4edc7838967d02f64b6f505af2660"'
 discovery:
   method: 'fork-network:israpps/udpbd-server'
   confidence: 95

@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2025-03-03T21:03:56Z'
   url: 'https://github.com/AKuHAK/firmware/releases/tag/nightly'
 activity:
-  lastSynchronized: '2026-10-20T23:53:30.994Z'
+  lastSynchronized: '2026-10-21T23:19:50.302Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e3b1db5d7964f021b5baa3e8b0e957e37c57763048c3b72520c0f5e9df9373c2"
-    releasesEtag: W/"d4fab4bd5e360bb3e34fe49fe2b903bd20366f59480daee32799e04ded62c32a"
+    repoEtag: W/"5cb6c7917d8742c9a9204fae5d3416bc223cd6f8a67299a41a9a2aad5745936f"
+    releasesEtag: W/"6e51ce29e31696eaa80560ba4c4d96af7bee567aafd5afb96510a929cab98d4b"
 discovery:
   method: 'fork-network:sd2psXtd/firmware'
   confidence: 95

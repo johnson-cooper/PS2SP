@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2022-10-05T18:21:47Z'
   url: 'https://github.com/ahmedmoselhi/PFS-BatchKit-Manager/releases/tag/Latest'
 activity:
-  lastSynchronized: '2026-10-20T23:54:23.660Z'
+  lastSynchronized: '2026-10-21T23:20:37.962Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b0b4e39f3c2036312898f11a3e847be90f79b09875c8c1d532865069bb19bedb"
-    releasesEtag: W/"6fce8cbb6ae54815d9c23492185c1b3d8274485eabbe22b321bc60e10e2b1773"
+    repoEtag: W/"a838f9a9f4a8e6d26e6406631aa68953a04ccbdcc908d1468fe1870b9f5ba03c"
+    releasesEtag: W/"916b5981d1b9ad6b519830207b97cfac12c171551c00029dbafd4eb51f2e98d6"
 discovery:
   method: 'fork-network:GDX-X/PFS-BatchKit-Manager'
   confidence: 95

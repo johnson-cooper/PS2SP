@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-20T23:54:32.295Z'
+  lastSynchronized: '2026-10-21T23:20:46.600Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f595f34007782d0cb6b7d3674fad46a358250892032398ef1a69e9c53950c57f"
-    releasesEtag: '"0dc3e0b38f920a8927e607dd0008a947558b5620b175ac17f3573a6f12ef5909"'
+    repoEtag: W/"f85023c7e2c54119bf7914d6caf980c4954cd76d3de0fed0d611c5542bdea4e4"
+    releasesEtag: '"669f535743067c0ac9111e98f8b3d7f826f4edc7838967d02f64b6f505af2660"'
 discovery:
   method: 'fork-network:glampert/ps2-homebrew'
   confidence: 100
