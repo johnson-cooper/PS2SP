@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-10-13T22:05:42Z'
   url: 'https://github.com/dnunezx/OrbitPS2-Manager-LUNA-edition/releases/tag/v0.1.1'
 activity:
-  lastSynchronized: '2026-10-21T15:15:39.428Z'
+  lastSynchronized: '2026-10-22T15:18:32.796Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b0c626200f3e272d67f51dce68a73bbfb8a294955b5877929d078c4c3c8cce93"
-    releasesEtag: W/"45b0120375ba550910e8b4faa49fe4cd930112aad0da32af7bbefaa64718cf72"
+    repoEtag: W/"eae8c641c6233561804bdf5da221c39a529ec40cfa1754d3746bfbf078b282c1"
+    releasesEtag: W/"4c852574f96e3def274229616edb7c7682b9a058c8200c09bcf93ab146225dbf"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

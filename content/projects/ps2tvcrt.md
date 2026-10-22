@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/Kyllemn/PS2TVCRT/releases/tag/FullAnFinalRelease'
 activity:
   lastChecked: '2026-10-18T18:16:42.637Z'
-  lastSynchronized: '2026-10-21T15:16:19.571Z'
+  lastSynchronized: '2026-10-22T15:19:36.666Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"02c23136ac5c0e73b1db9cfba89c8052406095f33a37dea29aa3152501d52f9c"
-    releasesEtag: W/"e30140b3b8a0756c37776cb97f01f1ed8c4541d468383cceb201c2d74c35058e"
+    repoEtag: W/"21ca1866d31d0f5bbde190ae9bbb8077164bb35cbcf69a175e86fe129628c9a5"
+    releasesEtag: W/"d2bad4eaece666432c361a868bd96f6ea02d333a0b565abcb5f52b964fb68feb"
 discovery:
   method: 'pending-promotion:starred:NathanNeurotic'
   confidence: 70

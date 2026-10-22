@@ -25,17 +25,17 @@ repository:
   forks: 0
   lastCommit: '2026-10-04T14:54:28Z'
 latestRelease:
-  tag: SUFFERING_v0.10
-  name: SUFFERING v0.10
-  publishedAt: '2026-01-19T19:26:05Z'
-  url: 'https://github.com/jegesmedve09/Free-BBN/releases/tag/SUFFERING_v0.10'
+  tag: null
+  name: null
+  publishedAt: null
+  url: null
 activity:
-  lastSynchronized: '2026-10-21T15:14:56.838Z'
+  lastSynchronized: '2026-10-22T15:17:26.000Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9dc86f6512a02309ab89eb00dba1b632a696ccebc80e4e6d79e1ba62a877b4e0"
-    releasesEtag: W/"9270bbbf8cec0a8db09aca8016913bb68258c9482ac0908c0e1fb4119c9ad9c6"
+    repoEtag: W/"8a8b85a3f68cb53012bd0ee531b8eec7bdc84b7641341a3a539ef97a8daac15b"
+    releasesEtag: '"99dfab16a539fcae500c3d0e749ddca734427a46367bf6b00845c1e5b0a36b69"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

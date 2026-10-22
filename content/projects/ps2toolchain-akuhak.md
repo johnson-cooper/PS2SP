@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2017-08-25T12:11:06Z'
   url: 'https://github.com/AKuHAK/ps2toolchain/releases/tag/test'
 activity:
-  lastSynchronized: '2026-10-21T15:16:16.455Z'
+  lastSynchronized: '2026-10-22T15:19:31.578Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a082c75ad5f648efbbf8602537e1768f3eb26fc3a751a0b4d4589256fc8139e6"
-    releasesEtag: W/"928c6fdbd498a10adf0ded9e825839a8818e31b7f2822cae686ac900864f76e0"
+    repoEtag: W/"d19533ff1a065b67f5c8027ca38a4ca89306da53e59b2bdac019bc166b9a6acd"
+    releasesEtag: W/"147c09eebc49508ac0d6a0db9283e5666b8c6882311a1770d699f765ae2bd702"
 discovery:
   method: 'fork-network:ps2dev/ps2toolchain'
   confidence: 100
