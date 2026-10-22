@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2025-10-05T09:40:01Z'
   url: 'https://github.com/miraficus/Open-PS2-Loader-lang/releases/tag/Czech'
 activity:
-  lastSynchronized: '2026-10-17T22:19:52.379Z'
+  lastSynchronized: '2026-10-22T22:24:13.479Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d1624359acea7ebd23d6481b7debb3451ad27e2d06405e8293589256f8f32d69"
-    releasesEtag: W/"8d786b46ab0aafbe260ddede8b7e3c8f30d780cb6abaa6c5ce63a70c2f31f4de"
+    repoEtag: W/"ac79b965812a0b36a5b4e9d58592dcbacb7cf74e1208fce1264fd62d3685d6b3"
+    releasesEtag: W/"4946ce8f7151f8804998c3798f31e1469ee3a3375d6df676f6c8b8949f8ec823"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader-lang'
   confidence: 95

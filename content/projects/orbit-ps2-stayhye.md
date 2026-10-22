@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T00:14:45.066Z'
+  lastSynchronized: '2026-10-22T22:24:18.262Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d788125ae5880d15534cf6ec228eb7b473899662a0c1d0987d0a21bb0b54c8a6"
+    releasesEtag: '"109d157289edd596a8eb791311c6707ab7ac8ce4177d2dacd108c53ca5731a12"'
 discovery:
   method: 'fork-network:danielnuld/ps2-launcher'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: danielnuld/ps2-launcher
   source: danielnuld/ps2-launcher
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

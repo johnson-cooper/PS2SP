@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-21T17:39:56.992Z'
+  lastSynchronized: '2026-10-22T22:23:35.728Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e9f82dc38660ad8a9b0025c8136ac9634a26233e48e313ea8096c1a4f13b1250"
+    releasesEtag: '"109d157289edd596a8eb791311c6707ab7ac8ce4177d2dacd108c53ca5731a12"'
 discovery:
   method: 'fork-network:efimandreev0/Butterscotch'
   confidence: 95
@@ -49,5 +52,4 @@ relationships:
   forkOf: efimandreev0/Butterscotch
   source: ButterscotchRunner/Butterscotch
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

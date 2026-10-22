@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-18T18:16:42.637Z'
+  lastSynchronized: '2026-10-22T22:23:58.133Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e81ff090e35d7ade8d3403e270937997e5be8b94d11ab4d83e59f1425839aa07"
+    releasesEtag: '"109d157289edd596a8eb791311c6707ab7ac8ce4177d2dacd108c53ca5731a12"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: blurtic2/iidx-ps2-480p
   source: blurtic2/iidx-ps2-480p
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

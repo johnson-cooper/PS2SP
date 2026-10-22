@@ -20,7 +20,7 @@ repository:
   defaultBranch: master
   stars: 5
   forks: 0
-  lastCommit: '2026-10-16T21:20:45Z'
+  lastCommit: '2026-10-19T18:59:13Z'
 latestRelease:
   tag: v0.1.3
   name: v0.1.3
@@ -28,12 +28,12 @@ latestRelease:
   url: 'https://github.com/Tatsh/pppps2pc/releases/tag/v0.1.3'
 activity:
   lastChecked: '2026-09-29T00:28:23.273Z'
-  lastSynchronized: '2026-10-17T22:20:10.417Z'
+  lastSynchronized: '2026-10-22T22:24:34.138Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"55d54c7a944b286e1938480cd8abfd6601e9ccfffa8fdbce68dba82fd7595563"
-    releasesEtag: W/"5f3f4e3eeb00152c00561023226838e1f5aff364e0a1f10110a6c81b0a9ac34b"
+    repoEtag: W/"0cc999b86e0f1fce90ca2fbbf8ecc784ff7af71eff4d4ae50c88690b2c8b15ea"
+    releasesEtag: W/"b7b7c5d4e9e4410a558760d15a6342fc474a98c12457733ae7bac534f02ccd94"
 discovery:
   method: github-search
   confidence: 100

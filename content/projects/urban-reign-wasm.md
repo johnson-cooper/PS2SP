@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: '2026-10-21T12:25:50Z'
   url: 'https://github.com/anmolverma5/urban-reign-wasm/releases/tag/v0.1.0-alpha.1'
 activity:
-  lastSynchronized: '2026-10-21T12:26:22.872Z'
+  lastSynchronized: '2026-10-22T22:25:27.760Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a4e3a841a891f45cfa9578684873ece134033fd342194a24b62c71753b813080"
+    releasesEtag: W/"dd8205cad9de369f97a51b76cd94b149c8d3c1862ac7e369e023a7686ebbc9a5"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -47,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

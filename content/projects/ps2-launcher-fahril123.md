@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T05:22:42.360Z'
+  lastSynchronized: '2026-10-22T22:24:43.800Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e0d10b56e4701d43591245d3ef3e3fa69cf039c400343eb818b77035d9323f14"
+    releasesEtag: '"109d157289edd596a8eb791311c6707ab7ac8ce4177d2dacd108c53ca5731a12"'
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: Irfanlesnar/PS2-Launcher
   source: Irfanlesnar/PS2-Launcher
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

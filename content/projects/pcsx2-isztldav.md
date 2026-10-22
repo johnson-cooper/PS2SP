@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-07-05T17:45:19Z'
   url: 'https://github.com/isztldav/pcsx2/releases/tag/v0.2.5'
 activity:
-  lastSynchronized: '2026-10-17T22:20:02.147Z'
+  lastSynchronized: '2026-10-22T22:24:24.721Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3646a482ce06ce3657e06859018cbb331a4e4973f97e6ebd4bea42a6f35ce48c"
-    releasesEtag: W/"70cd20a55a8dc65935f07c1a7680d34b015403f297bc08236f3541da1b85eb08"
+    repoEtag: W/"edeb4dd60f2b72efe199134207fdb0eac8343c50955b90a59138117b129eb72c"
+    releasesEtag: W/"6830f9bcaf59b2084b03ee151a5ce2282372084ac25ae71005fdc6f172261082"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100
