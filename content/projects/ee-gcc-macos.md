@@ -30,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/decomp-meadow/ee-gcc-macos/releases/tag/2.9-ee-991111-01-r2
 activity:
-  lastSynchronized: '2026-10-21T10:09:08.998Z'
+  lastSynchronized: '2026-10-22T10:11:37.156Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4511da75ab2d378d6f153b95da045e1ed5891070dc82188efeb4f9a82c791c6c"
-    releasesEtag: W/"35105a48abadd106d47fd3d9c3babd113c664a1c51049f706a6b6486e5521eb3"
+    repoEtag: W/"3d4e66085623ff7b0e2e0d1c34d404d0fb93885a6d6abaa05b6c0fc5c2db8959"
+    releasesEtag: W/"723fb341255f7b5bbcd3a5883c687bc411aa1f6f81174efe7cae86d64c0bf4ce"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

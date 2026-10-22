@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-10-11T14:14:42Z'
   url: 'https://github.com/Okeanos86/BDMAssault/releases/tag/Alpha'
 activity:
-  lastSynchronized: '2026-10-21T10:08:58.807Z'
+  lastSynchronized: '2026-10-22T10:11:28.806Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c6113ec3913b5d4d448ed857b418a0a48089c04424146eaaa178471d721c192a"
-    releasesEtag: W/"7818d3221e3141f00c1bae737b60baa0911c54e35b60339805a1a84c1a3db0b3"
+    repoEtag: W/"afe34bd9902ca693cf778895f172aab0e82635f38bd73f9314bc26114ba37483"
+    releasesEtag: W/"98147c8b98ee39f1e35cd97838bd49e63baa1f516883ba94d6d9af86d2133bb5"
 discovery:
   method: 'fork-network:israpps/BDMAssault'
   confidence: 100

@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-19T00:35:17Z'
+  lastCommit: '2026-10-22T07:28:36Z'
 latestRelease:
   tag: v1.0
   name: v1.0 — pendrive.zip e instalador público
   publishedAt: '2026-10-18T22:52:56Z'
   url: 'https://github.com/RodrigoRosa95/ps2GamesCLoudinOPl/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-10-21T10:10:16.709Z'
+  lastSynchronized: '2026-10-22T10:12:33.581Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"237521f5bf33485d87bc4ce0a649aa6865b1c4ef6698f80bbb72055aa5739f6d"
-    releasesEtag: W/"c9208e8f00729e0d476fd0bc14a4da49fe9644c9d4a77b7978efc7db293d8e2a"
+    repoEtag: W/"4bb91ee5350a9cdd937620c164e5c9bbee6dc8f2b4a404b6333de6e9cfb6cbdf"
+    releasesEtag: W/"1026873758038ad1731c45f28bdfbded06e4fe79c9870dc70d303c1f4767bc52"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-09-29T06:30:28Z'
   url: 'https://github.com/NathanNeurotic/PS2-Servers/releases/tag/v0.8.1'
 activity:
-  lastSynchronized: '2026-10-21T10:10:11.186Z'
+  lastSynchronized: '2026-10-22T10:12:29.205Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d3e5692260bb44a048db7ebd1fa614a8b14e7bb28f7e8623621d843fdf57cfad"
-    releasesEtag: W/"fb0fb62996c26782959e2fe97c138bbb37890db7622b4fa546d8bc7471424748"
+    repoEtag: W/"cce7f1f612ea1c9f6548ea4fe100075fcee3139ca7ce6aeb9521be958627e45a"
+    releasesEtag: W/"f58c7878b373e5b550ca4a1a75bedf31cadfbf32c6555ca09333d4a1265a0a3a"
 discovery:
   method: curated-owner
   confidence: 100

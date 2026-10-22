@@ -39,12 +39,12 @@ latestRelease:
   url: 'https://github.com/oMrRexD/wLaunchELF_R3Z_FTP/releases/tag/r14'
 activity:
   lastChecked: '2026-09-29T00:33:03.832Z'
-  lastSynchronized: '2026-10-21T10:10:45.131Z'
+  lastSynchronized: '2026-10-22T10:12:58.071Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"25eb6a6f9250f85fca5523524d62b848574c07737261f3495563265517d5d278"
-    releasesEtag: W/"59272139a1970895e9e257e474c72f084e968f939ee407ae1401a1056561bf0d"
+    repoEtag: W/"91165f2396818aa33c5814d494874d56b6266dcb20cdd66e99e5be95e8b42a44"
+    releasesEtag: W/"d850ea8422393f48b707a4ae3809d640ce825f43b75ddca8b9e4238f3266d5be"
 discovery:
   method: github-maintained-fork
   confidence: 100

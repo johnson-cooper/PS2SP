@@ -18,7 +18,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 2
   forks: 0
   lastCommit: '2026-10-20T01:04:36Z'
 latestRelease:
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-20T01:04:36Z'
   url: 'https://github.com/ticohq/tico-NetherSX2/releases/tag/3.0.0'
 activity:
-  lastSynchronized: '2026-10-21T10:10:42.148Z'
+  lastSynchronized: '2026-10-22T10:12:55.334Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c5ff64e52cf8e8aff00db94a61a9b0de10aeba6560bed230856b5403b1c63d38"
-    releasesEtag: W/"9c9d8f2c3a2efd06496efdd6b455e94c28175dd47cf5b73d9c7b40a1074d15d0"
+    repoEtag: W/"9d930948d9ee8556e17f7cefd1f058810d3a52f1efe64d5c84ba97602d143e0d"
+    releasesEtag: W/"dd36543974016eddb491a854fc23f1ef4bfce453e4a383824c22319c920b5886"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

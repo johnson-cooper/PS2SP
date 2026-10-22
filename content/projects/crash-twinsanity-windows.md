@@ -24,20 +24,20 @@ repository:
   archived: false
   defaultBranch: main
   stars: 15
-  forks: 3
-  lastCommit: '2026-10-20T20:43:08Z'
+  forks: 2
+  lastCommit: '2026-10-21T17:59:38Z'
 latestRelease:
-  tag: v1.0.11
-  name: Crash Twinsanity for Windows 1.0.11
-  publishedAt: '2026-10-20T20:43:08Z'
-  url: 'https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/tag/v1.0.11'
+  tag: v1.0.12
+  name: Crash Twinsanity for Windows 1.0.12
+  publishedAt: '2026-10-21T17:59:38Z'
+  url: 'https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/tag/v1.0.12'
 activity:
-  lastSynchronized: '2026-10-21T10:09:04.157Z'
+  lastSynchronized: '2026-10-22T10:11:33.408Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"70e80df41ae83776d0ebd0386a3a4791276fa9277cbcc0de25d4bf17d226a215"
-    releasesEtag: W/"b8dcc13d97ec35829dc3a0f55c2c08b449886547d8cace763a16c6e145cb1a95"
+    repoEtag: W/"532dc83037e77fd5b7768fb089f3ceb0106eaeb6a8d630c9a5a861e4a46cb699"
+    releasesEtag: W/"05e4bc892fe17fb5af4a95fff204729e58626dd94c27581e0cd32b32855e7340"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

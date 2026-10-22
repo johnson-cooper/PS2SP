@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-10-18T01:48:57Z'
   url: 'https://github.com/Dougwan/ESR-Disc-Patcher/releases/tag/v0.1.0'
 activity:
-  lastSynchronized: '2026-10-21T10:09:10.260Z'
+  lastSynchronized: '2026-10-22T10:11:38.158Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c7ccf5aab809e58279d0eb8e26cbe1d070c815a34d35cfe5900f1cb833cb0dbd"
-    releasesEtag: W/"e8f3c8fa1b9088933b8a82e9b51cce87f07972fd5180c68fc948cb7a9fbaaf0c"
+    repoEtag: W/"c9f0ccbb9100d6f0bb55e99be0a749e102229e3454db81c9035a6cfc9031ac17"
+    releasesEtag: W/"10643b3df5ca65e12d92515e8ab93d95a550a86e34e802d6156c641cd72d633f"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-18T00:45:01Z'
   url: 'https://github.com/snozcorp/ps2-kinhank-bridge/releases/tag/v11'
 activity:
-  lastSynchronized: '2026-10-21T10:10:07.264Z'
+  lastSynchronized: '2026-10-22T10:12:26.003Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c5dc346efa4d0a16b23f39955127b46ac7590158dc3d39c5c678c60511cc9bb0"
-    releasesEtag: W/"9bb04733d2f6d0bcf894f4a0b059930b0bcfdc852e1705fbe914d949c55f6a1b"
+    repoEtag: W/"26b5a4f8acdf1eed0ad1641d9fd4d263a7a5e063c656937bf2ad64cf8e032394"
+    releasesEtag: W/"6c9a41659b8fc2afef09d3dfd1dcdf353f1871b205f809bef869786be8729240"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

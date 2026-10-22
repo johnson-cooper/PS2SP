@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2025-09-12T23:45:23Z'
   url: 'https://github.com/MegaBitmap/udpbd-server/releases/tag/win64-v1.1'
 activity:
-  lastSynchronized: '2026-10-21T10:10:42.821Z'
+  lastSynchronized: '2026-10-22T10:12:55.869Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"03695dd83729ee6126bc698ae2b3b2e0eef1daa64da8dbe7da4470923cd33a89"
-    releasesEtag: W/"eae939967aadd593b08db63b64d14d71bed90d1c47e75430706385b3c5b9d8ec"
+    repoEtag: W/"6ae57c02b053420075827b0f5027770801843a9a638e39aad79cfb27c039d94a"
+    releasesEtag: W/"93fc9e74e6a69e9b699fc6be706f580836fe2d7c6c14852f6e650fd08b5abc95"
 discovery:
   method: 'fork-network:israpps/udpbd-server'
   confidence: 95

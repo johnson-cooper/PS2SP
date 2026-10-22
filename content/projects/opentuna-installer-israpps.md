@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2022-04-07T16:08:50Z'
   url: 'https://github.com/israpps/opentuna-installer/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-21T10:09:47.331Z'
+  lastSynchronized: '2026-10-22T10:12:09.749Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9ea42dcb45eb317a005b1dacb35e83ad213a43948661b78b78e6189b68c5e9cc"
-    releasesEtag: W/"adb47041833854cea1dd0087c642ab2ed4b8929df2b6f30b4dd1883f5e9c833b"
+    repoEtag: W/"e2230bd9815adaa5169e8e51fbbb85a78a82f50fc22772eecde429afa6de0d03"
+    releasesEtag: W/"fd667c65f79eef77525c2eaf17c027e510b3d8d54325ad3a641557e8274f3445"
 discovery:
   method: 'fork-network:ps2homebrew/opentuna-installer'
   confidence: 95

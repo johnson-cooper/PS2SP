@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2022-07-27T20:13:40Z'
   url: 'https://github.com/ps2homebrew/pcsx2/releases/tag/v1.7.0-magicgate'
 activity:
-  lastSynchronized: '2026-10-21T10:09:56.912Z'
+  lastSynchronized: '2026-10-22T10:12:17.912Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fd924e432e96716cb922741572bd97cac724bacba7b42fdbd8396f4ea49df6e8"
-    releasesEtag: W/"f9279a66d17d38a84b1c48aed455eeea5804ef362b1f600e2d4389fcf40104b5"
+    repoEtag: W/"50a988e00d64acfcab9a89ea4593c2a15b8785c42c80bf2c90e126d2f3959af0"
+    releasesEtag: W/"a5e5c8ee7681f9f042e351cf1197c29992647a4cad0b14864a16cb25ae581393"
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100
