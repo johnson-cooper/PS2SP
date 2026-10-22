@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-21T04:48:00.808Z'
+  lastSynchronized: '2026-10-22T04:46:58.062Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5a1b8bf1efeb796276be54fdda0ef7828d15b7e7df5cf5c70308bf7ff72326b2"
-    releasesEtag: '"3b737ba010fffe568e4e81f706ed60f357033fb244069bfbd5a50e9b3caab9ec"'
+    repoEtag: W/"66223f990d2a296c0333a151ee7e6e03c07f846390ca7f5d824476a82d9618ae"
+    releasesEtag: '"deefb0b6baa7aad8d6bdfa3b27a3918a956a353607ae307757d8194d5608b9cd"'
 discovery:
   method: 'fork-network:vs-sr-dev/pc-rpgmaker3'
   confidence: 100

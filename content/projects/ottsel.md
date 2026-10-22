@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2026-10-12T14:03:00Z'
   url: 'https://github.com/chrissotraidis/ottsel/releases/tag/v0.1.0'
 activity:
-  lastSynchronized: '2026-10-21T04:47:59.261Z'
+  lastSynchronized: '2026-10-22T04:46:56.190Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"abca784b95b4d094bd20a0c9b1c04b15d51d802e78680062ea8b30aa32326bf6"
-    releasesEtag: W/"ca9bca808966651b7428c6f7c114e85a822e0062f1297c31a5c47c3c042b4001"
+    repoEtag: W/"7c09bc29e53448db451e9e762a4afdc86b5f332de80b9b67b9c4a89a5a3d48f9"
+    releasesEtag: W/"a21106168669f4b34c00377e28bbdd44d16703e924d048308c47a1378d9cb5a4"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

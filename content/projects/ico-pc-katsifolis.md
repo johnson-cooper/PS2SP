@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2026-10-10T09:35:04Z'
   url: 'https://github.com/katsifolis/ico-ios/releases/tag/v0.5.2'
 activity:
-  lastSynchronized: '2026-10-21T04:47:35.662Z'
+  lastSynchronized: '2026-10-22T04:46:25.919Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"88db54da9b23a964715ddc90b809cdb794ffb475ddd5052193134610e074d8a4"
-    releasesEtag: W/"be062832a7e892f2ff9aa4fc9d92ca567e6ad40b4cd6aa01042e939dec36d5d1"
+    repoEtag: W/"862baf1a5b7a7d5f78c68537ecf1c5f6e3d5c58424ddd1569c145760ab04248e"
+    releasesEtag: W/"01ebb988807bdd7c7c56d4fcfb7210fca7b6d317f9d550c7d7ab49f2fb1a0b8c"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

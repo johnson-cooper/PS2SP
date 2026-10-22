@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2026-01-12T17:05:20Z'
   url: 'https://github.com/eliankeil/wLaunchELF_ISR/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-21T04:48:54.170Z'
+  lastSynchronized: '2026-10-22T04:48:05.605Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1d247e83cc3a3a55209cc76b48590daf13f990a8b21ec42ce2ed3719c090cb4e"
-    releasesEtag: W/"bde2821575422e655978fdd4e5c228e3775c862a87b353aa9e02ff349bc5815d"
+    repoEtag: W/"9d009c7c00d10894ba7d51752713c627547bc3766e7f7337720ecf0e131d5d2a"
+    releasesEtag: W/"ba87557cad21c20268e0833a3de1101f5ca43e73074450544f7cc235282f7b77"
 discovery:
   method: 'fork-network:israpps/wLaunchELF_ISR'
   confidence: 100

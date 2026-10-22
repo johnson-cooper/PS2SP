@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/Jeffsteelflex/nightfire-port/releases/tag/v0.5'
 activity:
   lastChecked: '2026-10-12T23:13:49.874Z'
-  lastSynchronized: '2026-10-21T04:47:50.461Z'
+  lastSynchronized: '2026-10-22T04:46:44.616Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"51b9b560f5af3b62775d3cf573750f209cd22edb66e27c115e18673fcdba4820"
-    releasesEtag: W/"855a61581caebec0f24710785933527f33b59b19e908aa0fa9f3c070b1b0c15a"
+    repoEtag: W/"bcb103c277374b1b74de99ff7507478f3f1d594dba2235ff90507907e8fc4afd"
+    releasesEtag: W/"08d6b91b36f10d497bc655439a17acf4fb6db9abf34d82874cbff28d7c507c86"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: '2024-03-31T00:00:05Z'
   url: 'https://github.com/uyjulian/ps2gdb/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-21T04:48:26.046Z'
+  lastSynchronized: '2026-10-22T04:47:29.744Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9812ff5a68fe36ce25f2af017167470e1b5f13267ae3a78c18fe76c1a1afb1da"
-    releasesEtag: W/"ace00cdbefc726d86ab01739a9a6b1be7f79e0baaf40d21b88cacf2ce29ee5de"
+    repoEtag: W/"e11ddef3f6b29b70a710ca9530b04f510d210ef2f3741fa251d2100b8ec9d177"
+    releasesEtag: W/"3740ebdb182c2711372f8c27c4569f25b106580f8eb5e6402a8a917da7faeb8f"
 discovery:
   method: 'fork-network:ps2dev/ps2gdb'
   confidence: 100

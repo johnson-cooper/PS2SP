@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2025-01-25T15:46:07Z'
   url: 'https://github.com/GDX-X/PFS-BatchKit-Manager/releases/tag/1.2.0'
 activity:
-  lastSynchronized: '2026-10-21T04:48:12.620Z'
+  lastSynchronized: '2026-10-22T04:47:13.210Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5369a55377db1377f73d02c4055ae291d860dad79bf230bf12a29aa54b4014e1"
-    releasesEtag: W/"cf6b936ffa88329c928e8cc4f6ae1ac008db85882f0099e57a563dd9e4dae005"
+    repoEtag: W/"e0341c9e5903adff5429d2179e509cd7c2a360bf2a2be17e26ae9800005e8d51"
+    releasesEtag: W/"103d38404facc6e8b839f934f07b13681c26c6d016092fef768b75304dc9b2c8"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

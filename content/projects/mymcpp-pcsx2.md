@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-02T21:23:05Z'
   url: 'https://github.com/PCSX2/myMCpp/releases/tag/v0.2.0'
 activity:
-  lastSynchronized: '2026-10-21T04:47:47.000Z'
+  lastSynchronized: '2026-10-22T04:46:40.503Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9926c170e0fb4ee305291dc91607ecebc8989a13e4dd6fac9efb4a89d86bdf77"
-    releasesEtag: W/"07a569236813de562ffe8b79bd6315e6067d035f1b372889cc7ef110eaba9148"
+    repoEtag: W/"33b6ca6b8d1378b91b78cf16a1aa1dcf7c6f974012052efed64ece9c4e6ecab4"
+    releasesEtag: W/"05d613fb238c01009001a52d6c7cd9a2a5b19788f8fbc41c96b5db74f3393caa"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

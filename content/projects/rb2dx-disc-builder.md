@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/PhayMo/rb2dx-disc-builder/releases/tag/v1.2'
 activity:
   lastChecked: '2026-09-29T00:28:57.326Z'
-  lastSynchronized: '2026-10-21T04:48:40.921Z'
+  lastSynchronized: '2026-10-22T04:47:48.988Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b8a6d77f8d3039b22738f96bb0c2caec37566334d53857762085955ddab44e2b"
-    releasesEtag: W/"545007938597204dde422d6a2f336e96b9565aadaff6d5bfd0c03c9814875e21"
+    repoEtag: W/"f7dff87f842a55e10d67466a98b875f5d927fe95608aaa63ecde1109f8c5dc3b"
+    releasesEtag: W/"4b60bc2a9b2dea9bad136ae4d1a094ae7adf1efc207376840d4570bd1aa0c644"
 discovery:
   method: github-search
   confidence: 100
