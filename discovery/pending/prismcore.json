@@ -1,0 +1,16 @@
+{
+  "repository": "RonnyCMD/prismcore",
+  "repositoryId": "1430277864",
+  "url": "https://github.com/RonnyCMD/prismcore",
+  "description": "Console fictício original inspirado no Playstation 2. O objetivo desse software é criar novos jogos, não emular.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-22T22:45:56.958Z",
+  "checkedAt": "2026-10-22T22:45:56.958Z"
+}
