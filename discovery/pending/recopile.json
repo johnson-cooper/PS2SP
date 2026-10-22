@@ -1,0 +1,17 @@
+{
+  "repository": "MASELKO-95/REcopile",
+  "repositoryId": "1417311068",
+  "url": "https://github.com/MASELKO-95/REcopile",
+  "description": "RE:COPILE — A game launcher for console games recompiled natively for PC, with game lists, easy setup and GitHub updates. EN / PL / HU.",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "README explicitly mentions PlayStation 2",
+    "published GitHub release present"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "prerelease-only",
+  "fork": null,
+  "discoveredAt": "2026-10-22T19:31:00.901Z",
+  "checkedAt": "2026-10-22T19:31:00.901Z"
+}
