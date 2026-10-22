@@ -30,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/khant735/PCSX2-Userspace-LAN/releases/tag/v2.9.31-userspace-lan-dev1
 activity:
-  lastSynchronized: '2026-10-21T19:20:33.751Z'
+  lastSynchronized: '2026-10-22T19:16:49.012Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7943a4534f573881205d23691f3e50c39d8bd4d0e55b137c5f6fb8c87c9bea4b"
-    releasesEtag: W/"1ebaaf24896f2de0c38d8283348d5f7205658807fab0bc6409a741a4f81d2d34"
+    repoEtag: W/"799f9984017652bd7ae1580837b339aedbacc035d647ec04717d7907b656ee0a"
+    releasesEtag: W/"7e31da67b006e7b5644185881c57e79d4c6f2d7ddd707de7001e0176c54b28ab"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

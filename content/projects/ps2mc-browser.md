@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2024-11-18T01:52:33Z'
   url: 'https://github.com/caol64/ps2mc-browser/releases/tag/1.0'
 activity:
-  lastSynchronized: '2026-10-21T19:20:55.212Z'
+  lastSynchronized: '2026-10-22T19:17:15.310Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"623aa43a010cb8eb1c1ea20c04f9f42efee65b71fcc3b06c13a81ee0f3594db6"
-    releasesEtag: W/"b772ae7ac6dbd1d304703f33725d3e37afc22390ad3fbcacb62ae5eaeadf0bb7"
+    repoEtag: W/"712ee323a1abdfdbc93c129272409513b9301232127bfa60c4b52a967cd0f950"
+    releasesEtag: W/"13683be06b6d85a0b4c27ef4273f79a940fa1fba316ef8f36504688d602585dc"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

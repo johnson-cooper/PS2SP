@@ -36,12 +36,12 @@ latestRelease:
   url: 'https://github.com/NathanNeurotic/POPSLoader/releases/tag/1.3.1'
 activity:
   lastChecked: '2026-09-29T00:27:08.198Z'
-  lastSynchronized: '2026-10-21T19:20:37.397Z'
+  lastSynchronized: '2026-10-22T19:16:53.771Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"72ae9763f9a431ccbfd4c3c518af692bc14ea109c6085f6ec3a469f4b50acb6d"
-    releasesEtag: W/"0f0d0ab15979309c36167d27e55a732a026f9466d88ed9ae5c45d363437ce356"
+    repoEtag: W/"c906e19d75285cd20d5bcb65d2faec784f8c6bdc0f51bdc76cfac4507856385c"
+    releasesEtag: W/"eb4a508c479648d1f86a70e7303fd4b134587fb640147adf0757e173da80e7b7"
 discovery:
   method: curated
   confidence: 100

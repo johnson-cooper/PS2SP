@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-08-14T03:15:42Z'
   url: 'https://github.com/XDaoFangxiX/EmuCoreX/releases/tag/v20260814-5'
 activity:
-  lastSynchronized: '2026-10-21T19:19:43.182Z'
+  lastSynchronized: '2026-10-22T19:15:48.233Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0a3e71b23c2603c5a82809941fad1c6da10717c78dffbf5c8be9cd05c7693bd4"
-    releasesEtag: W/"7e986454f9f2f8be1f523dd74b340faf66cf0ec089f124a08d7a9ee270c6b245"
+    repoEtag: W/"9f1ba7b8d57fdad3987272b0a8e7aa197e0fff87418a9e6d1e34f07e437fb2f7"
+    releasesEtag: W/"4b45542009e2f9639a77f58e4ae68225b417922e9200bb09693f8836ecbcbd20"
 discovery:
   method: 'fork-network:sashkinbro/EmuCoreX'
   confidence: 100

@@ -14,7 +14,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -23,19 +23,23 @@ source:
   url: 'https://github.com/akyelufukhan/PS3SX2'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-22T11:38:13Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.0.0
+  name: PS3SX2 v1.0.0
+  publishedAt: '2026-10-22T11:32:23Z'
+  url: 'https://github.com/akyelufukhan/PS3SX2/releases/tag/v1.0.0'
 activity:
   lastChecked: '2026-10-22T15:40:02.066Z'
+  lastSynchronized: '2026-10-22T19:17:32.153Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4df8b89f3c793974ef61cb1f8de658675e9519cb1a5751acaf7cd8a8410d55df"
+    releasesEtag: W/"a3efe133c599a2be671a4638bf197471b8eacb11f5b81757de16dba1d74f806d"
 discovery:
   method: 'pending-promotion:incremental:topic:ps2'
   confidence: 80
@@ -48,5 +52,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

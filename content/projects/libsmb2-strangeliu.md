@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-21T19:20:06.858Z'
+  lastSynchronized: '2026-10-22T19:16:17.815Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ca3b377b06500279eaf13fc21b15baeb850420fa4eb74a5fc3f3a4dc61894888"
-    releasesEtag: '"4c931b40b872dc6bf0b1ac9708452c01e314f3374c26fa0dbd2bd31ee8a7dcb7"'
+    repoEtag: W/"5979f12cbf0280a4dbea7aaed44b9caae7c794e636945d9663ea61673027e13e"
+    releasesEtag: '"b33679cef99543938486d165e96451f4443539d11787e6ae7f8cfd42561bd983"'
 discovery:
   method: 'fork-network:amosavian/libsmb2'
   confidence: 100

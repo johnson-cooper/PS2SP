@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2025-08-06T00:05:14Z'
   url: 'https://github.com/AlSiSan/udpbd-server/releases/tag/Linux32bitsARM7_2'
 activity:
-  lastSynchronized: '2026-10-21T19:21:21.140Z'
+  lastSynchronized: '2026-10-22T19:17:48.276Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4306df1002ecc80970ba787dc941e6ec1806ecdc293c203eac6a68c8e5248ab7"
-    releasesEtag: W/"f348b4592699ee113e516b58c3164b239d356754ce8a9c506bcc7a8b4ee36f8d"
+    repoEtag: W/"8e3dbba6dec7107f69a19c970d24e03b15a421c521e9a09ac42c68d450c05b5a"
+    releasesEtag: W/"05aac6b9468a8ac344d0e286865b083e4c26f684ae3913ed8933ba36160e9456"
 discovery:
   method: 'fork-network:israpps/udpbd-server'
   confidence: 95
