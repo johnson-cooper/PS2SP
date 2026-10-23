@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2024-03-22T16:50:03Z'
   url: 'https://github.com/dheison0/ps2-game-manager/releases/tag/nightly'
 activity:
-  lastSynchronized: '2026-10-22T22:24:42.827Z'
+  lastSynchronized: '2026-10-23T22:12:30.521Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bed6dc8f777f96351e665448808d5aeb6d0e0d2f43f3577b627c9a7940beea8b"
-    releasesEtag: W/"d322629f2dc31af271cd517d3976c4d51c1e6f40f1069cb3dfb37380a301daf8"
+    repoEtag: W/"879218519c31cb8235a963b82fac6addc87ee2d1dff18c92ad25044c5da0c20f"
+    releasesEtag: W/"31d2a98b5787953fb6ce4338382358e8f2bf6dfec626c8320b680edda99fd0b5"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

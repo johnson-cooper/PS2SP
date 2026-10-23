@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/ps2homebrew/ps2ftpd/releases/tag/latest'
 activity:
   lastChecked: '2026-09-29T00:27:10.917Z'
-  lastSynchronized: '2026-10-22T22:24:51.269Z'
+  lastSynchronized: '2026-10-23T22:12:38.081Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cb72c484bc1aedf2bbec4bf26ebc461551b8f3a1b146f7832568afd64584aa11"
-    releasesEtag: W/"c2e4228dca4238df4bb8b618d1162d7e9fc94b861b7153173466b6892109b168"
+    repoEtag: W/"5d035731e52f47e0631241c56dde0996fdedefef1225a17f2643a137171a1d17"
+    releasesEtag: W/"75b3f558a566b712e541cf22c799afbbea6acde7d1edbe82bd3f5eb908e898af"
 discovery:
   method: curated
   confidence: 100

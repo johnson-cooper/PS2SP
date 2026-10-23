@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2024-12-24T11:36:11Z'
   url: 'https://github.com/bucanero/apollo-ps2/releases/tag/v1.0.2'
 activity:
-  lastSynchronized: '2026-10-22T22:23:26.646Z'
+  lastSynchronized: '2026-10-23T22:11:23.061Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f5aac56ab7a22f4fd351a765a5e1751c8c51a9a2d2afeeaf921931d5ca7c8d64"
-    releasesEtag: W/"466ce5fa0109d560dfe6b1df361871ba3a4195ee851730da41b9ae7676eeafd7"
+    repoEtag: W/"4fd17b32125a51516013df026e2fb2222c477b76513f9610d2935c5b1d52c48d"
+    releasesEtag: W/"2116ffc2b26006d7c62766ff258f61fed162ed4feec864e53ec903717e59b5ee"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-21T01:30:35Z'
   url: 'https://github.com/eclipsebladestudioficial/NaedalusX64/releases/tag/v1.6'
 activity:
-  lastSynchronized: '2026-10-22T22:23:40.636Z'
+  lastSynchronized: '2026-10-23T22:11:36.315Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6da2808b1670eab4b8b5ad84fcfc4a692fe692cb2df02b7f29879aab027fba59"
-    releasesEtag: W/"ee184ae6e7a78d54e3f3e1665c78bd08398d8424b8af6e7b193b537b42866ec2"
+    repoEtag: W/"5e029dc250257225eb313e4718ea7882ccc01cf77a373a24487b6bc140c162bb"
+    releasesEtag: W/"c7ce9eac678367ad22ae46c765b666b8c4cf53286753c6638083f85b0c0c7f83"
 discovery:
   method: pending-recheck
   confidence: 95

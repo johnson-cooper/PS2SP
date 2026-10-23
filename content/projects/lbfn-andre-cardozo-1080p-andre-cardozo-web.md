@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T22:24:00.918Z'
+  lastSynchronized: '2026-10-23T22:11:53.999Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"30c079c8b0e7943f1852569a1bb4177f2941cf1f7192fe82e7744b1a84ae1a25"
-    releasesEtag: '"109d157289edd596a8eb791311c6707ab7ac8ce4177d2dacd108c53ca5731a12"'
+    repoEtag: W/"4bb1f97aa6e60ea8ce61d55513ae6c2e9245d8bfdd47baae3bd5f7b2a775cafc"
+    releasesEtag: '"83e88907bcdf1a6e2bb4f4c45d64e426e2fcbb7e5cb331f2e184283ffd59869e"'
 discovery:
   method: 'fork-network:ps2homebrew/LbFn'
   confidence: 95
