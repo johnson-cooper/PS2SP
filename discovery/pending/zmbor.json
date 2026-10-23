@@ -1,0 +1,16 @@
+{
+  "repository": "m7kor/Zmbor",
+  "repositoryId": "1431566435",
+  "url": "https://github.com/m7kor/Zmbor",
+  "description": "Zmbor — Advanced PlayStation 2 Static Recompilation, Hardware Runtime, and Native Game Reconstruction Framework.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-10-23T23:30:39.239Z",
+  "checkedAt": "2026-10-23T23:30:39.239Z"
+}
