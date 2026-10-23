@@ -1,0 +1,16 @@
+{
+  "repository": "Saya-ya/StrawTraduccion",
+  "repositoryId": "1282659086",
+  "url": "https://github.com/Saya-ya/StrawTraduccion",
+  "description": "This is a personal project to try to translate Strawberry panic from ps2 / Este es un projecto personal para la traduccion de Strawberry panic de ps2 (recuerden siempre usar su propia copia orignal del juego)",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-23T20:39:21.474Z",
+  "checkedAt": "2026-10-23T20:39:21.474Z"
+}
