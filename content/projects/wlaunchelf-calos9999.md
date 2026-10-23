@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2025-09-23T11:57:24Z'
   url: 'https://github.com/calos9999/wLaunchELF/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-17T13:45:10.112Z'
+  lastSynchronized: '2026-10-23T13:28:55.689Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d23e41822812d0105a43835ebc8d71b70055c9cd2efb01cc475da00cc961f1c9"
-    releasesEtag: W/"e3380e29a00bc19f1595f04c7243e6522796979dff71cd8fcd86f31352a04300"
+    repoEtag: W/"801d2072925ac46eb31664ffe7c2682e132b73993caf212ef47294ecf41fcb9b"
+    releasesEtag: W/"de5e7a21d6456202f5c5d10aec235b00327fd28367aac3ecff535fd4abf8060e"
 discovery:
   method: 'fork-network:ps2homebrew/wLaunchELF'
   confidence: 100

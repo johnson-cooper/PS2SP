@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-21T20:54:13.012Z'
+  lastSynchronized: '2026-10-23T13:28:09.785Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d1416511f8dd268ae6e51a998643bde9ec11d60bd6c80398a3409de059f94790"
+    releasesEtag: '"1f955df3cc0d5f50148d51c27f9f25e070d80480a00c6dcdbc2b3f8472658634"'
 discovery:
   method: 'fork-network:Radioo/pcsx2-reliquary'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: Radioo/pcsx2-reliquary
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -23,19 +23,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-09-19T20:08:42Z'
+  lastCommit: '2026-10-23T08:48:35Z'
 latestRelease:
   tag: lrps2-bisect
   name: LRPS2 bisect cores (Linux x86_64)
   publishedAt: '2026-09-19T19:11:30Z'
   url: 'https://github.com/WizzardSK/lrps2-libretro/releases/tag/lrps2-bisect'
 activity:
-  lastSynchronized: '2026-10-17T13:44:10.755Z'
+  lastSynchronized: '2026-10-23T13:27:41.304Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8f4e900ef606be738b3653d5896fa65c6883966ebbfb393d0d00ec16467ea628"
-    releasesEtag: W/"d07920af1c10cae868f01dce50e85598ee9f90bed168ecf2ef6f3870d21e8744"
+    repoEtag: W/"a645b12a4a084016ef7fa715f276c13a8cd9faeadc793e3d27abe72cc1d83e18"
+    releasesEtag: W/"50e70ac862d938062b2a1e1e707d4ac34dd745fe56d85bb834ab80ea5d06c96b"
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 95

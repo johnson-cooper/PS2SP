@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2025-09-22T10:09:53Z'
   url: 'https://github.com/balleoff/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-17T13:44:17.401Z'
+  lastSynchronized: '2026-10-23T13:27:48.498Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e45b02c167b581414a4337cee7ea2e131c1d9b8976b3a890ab5462726d7803c1"
-    releasesEtag: W/"40c81b77b7bb89825aff43102c90a5ee701cfd000d3845c93e2c90fc8432a5f6"
+    repoEtag: W/"39229df4aec8109f5ba4434c297f3c61ad0a195a046419d317560d2e93e00a63"
+    releasesEtag: W/"0093d37e2f0010c0cb0f21183c244f28f46a63737c598d39d6b76df2548a1171"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

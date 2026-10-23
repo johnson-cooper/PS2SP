@@ -24,22 +24,22 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 266
+  stars: 305
   forks: 9
-  lastCommit: '2026-10-15T02:39:28Z'
+  lastCommit: '2026-10-22T08:06:07Z'
 latestRelease:
-  tag: v0.4.1-beta.1
-  name: Beta-0.4.1
-  publishedAt: '2026-10-15T01:25:34Z'
-  url: 'https://github.com/theclub654/ProjectCane/releases/tag/v0.4.1-beta.1'
+  tag: decompilation
+  name: Beta 0.5.0
+  publishedAt: '2026-10-21T07:59:36Z'
+  url: 'https://github.com/theclub654/ProjectCane/releases/tag/decompilation'
 activity:
   lastChecked: '2026-10-10T22:56:45.140Z'
-  lastSynchronized: '2026-10-17T13:44:40.444Z'
+  lastSynchronized: '2026-10-23T13:28:15.359Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4c71bc30c6c6a3bd2c02fd1b2df79fd1ed49dc93b995fbad342f65bbf6ee0662"
-    releasesEtag: W/"3179140a44184f1b53ff096f45f51c5571e96d151c032626d3e9823e1823a9b1"
+    repoEtag: W/"c1ae3dbd31a36d8ce8b1a23034c02b69290307bd714bc772c02df2d158620318"
+    releasesEtag: W/"15ac211fd465628bbd3fc1434ed4e34b67105b5676534995bf4a9b65e9ae90ed"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 70

@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2025-05-07T16:02:46Z'
   url: 'https://github.com/bulatorr/wLaunchELF_ISR/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-17T13:45:11.884Z'
+  lastSynchronized: '2026-10-23T13:28:57.599Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d2c57d7a7c89b0eeed3102aa15bfcc4d890c75eb6f07f1293cc3e9eca6885c27"
-    releasesEtag: W/"337e2a48539089ff6e1dededc58bd54afd4fd6ddcd68e0f04b5dcf034266966f"
+    repoEtag: W/"95ac35c98e933e4ba1b4f7e4b9b980b59e3cbe9f56149dd729eeac1031faf346"
+    releasesEtag: W/"200f9380e486f56b214fa90f2dd77befea7a79f2af7df787d13de56951a15ead"
 discovery:
   method: 'fork-network:israpps/wLaunchELF_ISR'
   confidence: 100

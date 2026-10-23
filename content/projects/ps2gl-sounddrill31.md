@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-17T13:44:49.778Z'
+  lastSynchronized: '2026-10-23T13:28:26.486Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c20e735d48ff3538be8097938870a832335f71248273429668656eb3bba43c2e"
-    releasesEtag: '"85299085e8f224cdbd4aad1a7ac13eac3c53b1a6b0b8812b3954eb145b98a0b8"'
+    repoEtag: W/"fb761dc131bcc9b91168cc7d00ed0e29d486b4e2aaa26a794514618111e4cdfc"
+    releasesEtag: '"1f955df3cc0d5f50148d51c27f9f25e070d80480a00c6dcdbc2b3f8472658634"'
 discovery:
   method: 'fork-network:raylib4Consoles/ps2gl'
   confidence: 95

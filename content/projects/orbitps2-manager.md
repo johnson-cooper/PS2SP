@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 123
+  stars: 128
   forks: 11
-  lastCommit: '2026-10-09T08:20:19Z'
+  lastCommit: '2026-10-22T10:58:22Z'
 latestRelease:
   tag: v1.3.1
   name: Release v1.3.1 - Rebranding!
   publishedAt: '2026-08-28T19:08:15Z'
   url: 'https://github.com/Luden02/OrbitPS2-Manager/releases/tag/v1.3.1'
 activity:
-  lastSynchronized: '2026-10-17T13:44:27.252Z'
+  lastSynchronized: '2026-10-23T13:27:59.553Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9170334ee1b34ec33e899ddd093d77dc337ad59dc9a5a880a6d68808de6fd871"
-    releasesEtag: W/"e3bdb193657ae8fd5db6cb582ddd183596d83c431a705e4e0596c91c2256f581"
+    repoEtag: W/"cf9ce037f334067f0d3f612cc58d321d1954508087945679dd93c6e1fccc7238"
+    releasesEtag: W/"d059682b049c0147359f5fe39fda73c7ba5f48eb0209d5f5d0f0d43f32fd344b"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

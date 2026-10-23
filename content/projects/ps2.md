@@ -17,7 +17,7 @@ license: GPL-3.0
 homepage: null
 source:
   provider: github
-  repository: libretro/ps2
+  repository: libretro/parallel-ps2
   repositoryId: '775226708'
   url: 'https://github.com/libretro/ps2'
 repository:
@@ -25,7 +25,7 @@ repository:
   defaultBranch: master
   stars: 89
   forks: 31
-  lastCommit: '2026-10-12T13:43:52Z'
+  lastCommit: '2026-10-23T08:47:12Z'
 latestRelease:
   tag: null
   name: null
@@ -33,12 +33,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-09-29T00:28:37.006Z'
-  lastSynchronized: '2026-10-17T13:44:46.588Z'
+  lastSynchronized: '2026-10-23T13:28:22.734Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6930abc7636e18d776895bf1d71654d27893a0d702e46eb20c5fc556ee90569e"
-    releasesEtag: '"85299085e8f224cdbd4aad1a7ac13eac3c53b1a6b0b8812b3954eb145b98a0b8"'
+    repoEtag: W/"b981a48330935df6cae6428a10c72273c5761f92f95db633f098fa7dbb5d369e"
+    releasesEtag: '"1f955df3cc0d5f50148d51c27f9f25e070d80480a00c6dcdbc2b3f8472658634"'
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 95
