@@ -25,16 +25,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-19T12:31:52Z'
+  lastCommit: '2026-10-19T15:46:07Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-19T14:59:02.710Z'
+  lastSynchronized: '2026-10-23T01:32:54.639Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"079525786f42901e2d31f112accbe2bea7c766e387a1208e5b46d0d5d6dd88db"
+    releasesEtag: '"ff6090af9c91b61292326178ca0823b97aed61799df8cc0ca8f7a6c7d1215cb9"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: ran-j/PS2Recomp
   source: ran-j/PS2Recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

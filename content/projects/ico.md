@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 41
+  stars: 47
   forks: 2
-  lastCommit: '2026-10-17T21:19:00Z'
+  lastCommit: '2026-10-21T18:10:46Z'
 latestRelease:
-  tag: pal-v1.0.3
-  name: 'pal-v1.0.3: compiler warnings fixed, the branch on main''s tools'
-  publishedAt: '2026-10-16T02:06:24Z'
-  url: 'https://github.com/nathanialf/ico/releases/tag/pal-v1.0.3'
+  tag: kor-v1.0.0
+  name: 'kor-v1.0.0: ICO Korean retail boot ELF rebuilt from source'
+  publishedAt: '2026-10-19T17:34:08Z'
+  url: 'https://github.com/nathanialf/ico/releases/tag/kor-v1.0.0'
 activity:
-  lastSynchronized: '2026-10-19T01:17:26.777Z'
+  lastSynchronized: '2026-10-23T01:32:01.323Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d444468e5c47d61f71b3711ac660bf862bad1b00ec7316b5762d8f3b45061060"
-    releasesEtag: W/"4b6a513e2dfca81051702c6593b1be18c4cc480c6d7f79ff0bbe1de15108f726"
+    repoEtag: W/"2f6d2a9cda9d47351131beb2dd863fdbd2e8a56cf118c7916d254adf976a09f9"
+    releasesEtag: W/"cd97a74fbdc5f6e2fb5dd30b3d791ce2956dcd511074ebbf7f7dd5b494380b60"
 discovery:
   method: pending-recheck
   confidence: 100

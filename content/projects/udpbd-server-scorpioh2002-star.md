@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-20T05:18:56.651Z'
+  lastSynchronized: '2026-10-23T01:33:14.984Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"56e3b58a587fba4007f1022d367dd371174df43d7ba83c41a2166441635a8883"
+    releasesEtag: '"ff6090af9c91b61292326178ca0823b97aed61799df8cc0ca8f7a6c7d1215cb9"'
 discovery:
   method: 'fork-network:MegaBitmap/udpbd-server'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: MegaBitmap/udpbd-server
   source: israpps/udpbd-server
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -38,12 +38,12 @@ latestRelease:
   url: 'https://github.com/mutter2009/wLaunchELF_R3Z/releases/tag/latest'
 activity:
   lastChecked: '2026-09-29T00:33:05.122Z'
-  lastSynchronized: '2026-10-19T01:18:34.506Z'
+  lastSynchronized: '2026-10-23T01:33:17.329Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b485635edc7bb60a075ed6ff752a155c6f7b06654051b329bac8968c2169cea9"
-    releasesEtag: W/"6511cb73fe874f91a845ec6eb6dbd96e0a7057917769f68070f3b450fef93f8e"
+    repoEtag: W/"02f4ea4bc73917fe36d73ddf19ccfd70426dd28af4bcfb4124a7808d087428b5"
+    releasesEtag: W/"f1a7b4502d4746dea3a3eaca82e12292c3244a9c36eeb715659eb913fe13ff74"
 discovery:
   method: github-maintained-fork
   confidence: 100

@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2026-09-13T14:27:52Z'
   url: 'https://github.com/alekszverr-jpg/quake2-ps2/releases/tag/v0.1.0-alpha.72'
 activity:
-  lastSynchronized: '2026-10-19T01:18:24.000Z'
+  lastSynchronized: '2026-10-23T01:33:03.717Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5e7c9307f3aa235549bb4457348cf7a0aa202d369b9b629caff3099188567962"
-    releasesEtag: W/"4698fcd589419ebaf47ce18ef70b8a2d87aca63f53193d8b86f6ab4e282c6e00"
+    repoEtag: W/"6d67bb8e34decc6abc3749e96c2f92e3ede9721b45b38e63b7525aad2ef4e629"
+    releasesEtag: W/"3929c05bff93d7690e2f58590a6a75d23c800b6c38f4f69f9d088f1fdae3f5c6"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

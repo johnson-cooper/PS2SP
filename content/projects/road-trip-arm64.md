@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: '2026-10-19T07:25:52Z'
   url: 'https://github.com/Ken5998/road-trip-arm64/releases/tag/v0.1.0'
 activity:
-  lastSynchronized: '2026-10-20T19:35:24.428Z'
+  lastSynchronized: '2026-10-23T01:33:08.922Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"41625019ab2d5ee28d8a50bea2539f839835e5a8fed3c635bb56cb64fc61e1a9"
+    releasesEtag: W/"3be2697973964d24c4d0d0d0636bf55be321b12ec19cf09c1e24f5528cb6bca7"
 discovery:
   method: 'incremental:topic:ps2'
   confidence: 100
@@ -46,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
