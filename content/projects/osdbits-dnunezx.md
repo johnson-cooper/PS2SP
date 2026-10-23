@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-16T07:10:34.123Z'
+  lastSynchronized: '2026-10-23T07:33:38.193Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c1391c70f27b2f2507ea80b1d01287b058f404665d634b580f6464557b99148e"
-    releasesEtag: '"905b2196f49e72ecedcad3f15b350e0049d325488467f2d0d7ec5244e92f9408"'
+    repoEtag: W/"9eaac484445507e89a27171dfde2bc5a4272141cde27418bbba07bb9076006c8"
+    releasesEtag: '"e3ab66dcafeed307bc15775fd7db3e1fb24738ae62c0b221a2d866c321882844"'
 discovery:
   method: 'fork-network:aap/osdbits'
   confidence: 100

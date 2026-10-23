@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2019-05-07T17:03:56Z'
   url: 'https://github.com/NewsInside/OPL-Theme-Editor/releases/tag/v1.0.0.0'
 activity:
-  lastSynchronized: '2026-10-16T07:10:30.224Z'
+  lastSynchronized: '2026-10-23T07:33:33.466Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a5e2b254dfe59b560d9ff226bba478e1a750d56ce42f6ff7da71c883d004c67d"
-    releasesEtag: W/"eec77b6ff52af1cac80abd7ba04102deb8d9f0cd05f33a80bcbee5d2255efd56"
+    repoEtag: W/"82d65745420a249cccfd8978dc7925c23301720aae96aa7f93ecf2356d9ae330"
+    releasesEtag: W/"c0e67b48e7c88c54df33258bf7136a69266555763ec0aab986e9ca908e67673b"
 discovery:
   method: 'fork-network:IcySon55/OPL-Theme-Editor'
   confidence: 95

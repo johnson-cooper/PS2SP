@@ -33,12 +33,12 @@ latestRelease:
     https://github.com/gymzatan/Digital-Devil-Saga-First-Person/releases/tag/usa-camera
 activity:
   lastChecked: '2026-10-09T09:38:29.415Z'
-  lastSynchronized: '2026-10-17T05:52:20.109Z'
+  lastSynchronized: '2026-10-23T07:32:54.507Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b043eb9e0a2df4da4953f7f3f9f04260e6c2dce789ad93ad7a09ed644fb77732"
-    releasesEtag: W/"aa5378463daab39f550de56991238cd468a64e250f01718f8eb53ad006758e7c"
+    repoEtag: W/"4b72f741a0be4fb5cbec27dd28d4f4a371877f9e35dba720bbc155978871a74d"
+    releasesEtag: W/"1118d84e4828d5aeeddf1d7e64fa3be9c3addaaccda9fe055eb986b393cc88d5"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

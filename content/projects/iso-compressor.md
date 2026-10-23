@@ -26,7 +26,7 @@ repository:
   defaultBranch: master
   stars: 7
   forks: 0
-  lastCommit: '2026-09-28T18:23:55Z'
+  lastCommit: '2026-10-20T11:04:21Z'
 latestRelease:
   tag: v1.4.3
   name: 'v1.4.3: Stats, Decompressor & UI Enhancements'
@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/wako69420/iso-compressor/releases/tag/v1.4.3'
 activity:
   lastChecked: '2026-09-29T09:05:43.442Z'
-  lastSynchronized: '2026-10-16T07:10:09.679Z'
+  lastSynchronized: '2026-10-23T07:33:08.214Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d2ea644f556030984ba9e3393778af9e7ef8c084787e6efc5038c7eda4459529"
-    releasesEtag: W/"e568f626c2251d351860949cdf928c1feba7393e75da2ede187a7e52850f7e4a"
+    repoEtag: W/"a5503896198a5c369c52da521d375cd9a9cca3dec2b35da3f1ce5028f6bee660"
+    releasesEtag: W/"f3f3c04684709853b0ab49de90f36f3086588e2375a085a2e1a755c339e7c01d"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

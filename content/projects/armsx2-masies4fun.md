@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-06-24T21:00:34Z'
   url: 'https://github.com/MaSieS4Fun/ARMSX2/releases/tag/Linux-arm'
 activity:
-  lastSynchronized: '2026-10-20T22:40:16.620Z'
+  lastSynchronized: '2026-10-23T07:32:44.235Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"560aea018adb2ee1435aff65c4484de0799720dfa90620e149cc4196828664c6"
+    releasesEtag: W/"d2b7fc022f2abb0a548395a18ab637903bcdaafcfa344d7f73758488dbabbb18"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: ARMSX2/ARMSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

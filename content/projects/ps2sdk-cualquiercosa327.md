@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-17T14:25:46.015Z'
+  lastSynchronized: '2026-10-23T07:34:10.368Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a5428dc1cc0eaa75fc598a0242e53fd28ee6ebe54fa80a3ed169ee12e256c97d"
+    releasesEtag: '"e3ab66dcafeed307bc15775fd7db3e1fb24738ae62c0b221a2d866c321882844"'
 discovery:
   method: 'fork-network:grimdoomer/ps2sdk'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: grimdoomer/ps2sdk
   source: ps2dev/ps2sdk
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

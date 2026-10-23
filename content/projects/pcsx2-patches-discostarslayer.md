@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-06-29T14:53:06Z'
   url: 'https://github.com/DiscoStarslayer/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-16T07:10:38.191Z'
+  lastSynchronized: '2026-10-23T07:33:43.253Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bfa108c6f4a89fd529a20d422e268bf9578550a047176772649b17db81b49a36"
-    releasesEtag: W/"c8ea563175cc22439b2c2205e9569b49a40c151d83b1aa87e43be666711fb865"
+    repoEtag: W/"8e90335d933ea6ea0dca67ebe7e2354d5e4657a8f2565f9f23d8a0a877de5d4e"
+    releasesEtag: W/"5b1197b1b25b90e7e1507b0ca90649fce1556420a4a4c44d75bc30b45ba371af"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95

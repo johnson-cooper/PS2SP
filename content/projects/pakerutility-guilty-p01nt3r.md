@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-16T07:10:35.081Z'
+  lastSynchronized: '2026-10-23T07:33:39.339Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"205ec5422bb7363057b09a86adaae05a532eafe53ebce2392e57bdd9bba0fcef"
-    releasesEtag: '"905b2196f49e72ecedcad3f15b350e0049d325488467f2d0d7ec5244e92f9408"'
+    repoEtag: W/"cb8eb0feb061cd0e0d48117a0b701274cc8b5491e5fc39def98454f85ba9b52d"
+    releasesEtag: '"e3ab66dcafeed307bc15775fd7db3e1fb24738ae62c0b221a2d866c321882844"'
 discovery:
   method: 'fork-network:israpps/PAKerUtility'
   confidence: 95
