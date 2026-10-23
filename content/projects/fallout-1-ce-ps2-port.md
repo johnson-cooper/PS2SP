@@ -17,21 +17,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 6
+  stars: 7
   forks: 0
-  lastCommit: '2026-10-18T15:23:44Z'
+  lastCommit: '2026-10-22T02:09:44Z'
 latestRelease:
-  tag: '0.6'
-  name: V0.6 – Loading and saves
-  publishedAt: '2026-10-18T15:23:44Z'
-  url: 'https://github.com/Naru97-Hue/Fallout-1-CE-PS2-Port/releases/tag/0.6'
+  tag: '1.0'
+  name: Fallout 1 CE for PS2 v1.0
+  publishedAt: '2026-10-22T02:09:44Z'
+  url: 'https://github.com/Naru97-Hue/Fallout-1-CE-PS2-Port/releases/tag/1.0'
 activity:
-  lastSynchronized: '2026-10-18T18:05:53.059Z'
+  lastSynchronized: '2026-10-23T18:22:15.583Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d38b327a417b6d38b65fbf59c24515937007fb34d494f0528d185cfe63ff7b37"
-    releasesEtag: W/"70ab143ee10538bdd854d11daf8cead028feee1a8fb9e10e2d881568805406e3"
+    repoEtag: W/"0e89180b5adeeada05c04f016306d5d39f7cc77e267232767e8575ba8ae9429b"
+    releasesEtag: W/"00d168333045b2962de73121a5d96e421032032626c05ebacd44932676274579"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

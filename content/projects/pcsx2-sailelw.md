@@ -13,7 +13,7 @@ license: GPL-3.0
 homepage: 'https://pcsx2.net'
 source:
   provider: github
-  repository: Sailelw/pcsx2
+  repository: Entii-DEV/pcsx2
   repositoryId: '1329128021'
 repository:
   archived: false
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-18T18:06:24.642Z'
+  lastSynchronized: '2026-10-23T18:23:08.470Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"83784cafbb134ab0ee5014ae6479082a4ebededb8a0a7158195a19899031647d"
-    releasesEtag: '"3a10a357139e06e0bd03a0e7f735d42a71102deec1ac528f32a4b17f5c442c49"'
+    repoEtag: W/"c581927ddbdf29b223cfa658790749fd8deb13fba369bcb48a6d357b65c5e64f"
+    releasesEtag: '"742bdc0887c8d4e1f1848e409dcac66fa581455c63b1b43534a405396c842dbf"'
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

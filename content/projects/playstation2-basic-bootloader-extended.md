@@ -29,12 +29,12 @@ latestRelease:
   url: >-
     https://github.com/NathanNeurotic/PlayStation2-Basic-BootLoader-Extended/releases/tag/cl-b3d831f7f7644094b761ed00b689b4ec682cda38
 activity:
-  lastSynchronized: '2026-10-18T18:06:28.936Z'
+  lastSynchronized: '2026-10-23T18:23:15.244Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a5d305f7aeb860ee62ef07b6d48427c8fe24d882afbd4750dcc92d4b41967131"
-    releasesEtag: W/"5ca7e2ebb1df23502aa5af4a8ae423ae67453cb372b2bde808eaee168c778519"
+    repoEtag: W/"22deb02199c972b20b8582ba50bd00b9761a4cff2de97ea5470924b1114b43d0"
+    releasesEtag: W/"7865fee32dddd2993fb76528359af484d69f004f669fdf5b6a821599651cf3e9"
 discovery:
   method: curated-owner
   confidence: 100

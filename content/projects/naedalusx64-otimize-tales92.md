@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-18T21:02:34.258Z'
+  lastSynchronized: '2026-10-23T18:22:33.413Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"9176521a1b014716963d0dee705b9cf0794795b6569dc606bf3163485995f8d0"
+    releasesEtag: '"742bdc0887c8d4e1f1848e409dcac66fa581455c63b1b43534a405396c842dbf"'
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: eclipsebladestudioficial/NaedalusX64
   source: eclipsebladestudioficial/NaedalusX64
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
