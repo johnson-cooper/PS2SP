@@ -1,0 +1,16 @@
+{
+  "repository": "robvagin/shar-psp-engine",
+  "repositoryId": "1428844817",
+  "url": "https://github.com/robvagin/shar-psp-engine",
+  "description": "Native PSP engine for The Simpsons: Hit & Run (PS2), written in C with PSPSDK. Not an emulator: data is converted from your own disc, runs on a PSP-2000 with custom firmware. No game files included.",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-23T17:27:12.070Z",
+  "checkedAt": "2026-10-23T17:27:12.070Z"
+}

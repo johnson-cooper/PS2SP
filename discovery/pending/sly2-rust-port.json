@@ -1,0 +1,16 @@
+{
+  "repository": "Campfirecrucifix/sly2-rust-port",
+  "repositoryId": "1431100458",
+  "url": "https://github.com/Campfirecrucifix/sly2-rust-port",
+  "description": "ABANDONED: Sly 2: Band of Thieves PS2 -> Rust/Bevy port attempt. No game data included.",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "archived",
+  "fork": null,
+  "discoveredAt": "2026-10-23T17:27:12.070Z",
+  "checkedAt": "2026-10-23T17:27:12.070Z"
+}
