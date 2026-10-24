@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2023-08-01T16:01:43Z'
   url: 'https://github.com/israpps/FreeMastercodeFinder/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-20T20:35:24.368Z'
+  lastSynchronized: '2026-10-24T20:50:11.044Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f7a929b0d0944a126521db709ae3fb3e47a45568b451c776314755a1753399cc"
-    releasesEtag: W/"4b1b0eaa505c478c20ffb4e2b620f0c7ee080ffa6a5309933d0d47e744fa627c"
+    repoEtag: W/"d8cc8be950d104cef588b7f715aaf84440f3fe3bfd8f266cf596810e25ff976c"
+    releasesEtag: W/"7c5aded6e107d455083e3417bcf040488fc059a196edfb322e2a717c0ea910d4"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

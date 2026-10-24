@@ -25,16 +25,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-21T19:53:51Z'
+  lastCommit: '2026-10-21T21:54:35Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-21T20:54:13.012Z'
+  lastSynchronized: '2026-10-24T20:50:26.323Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4faadfd1fe86782f4ea753a18bbca527e4e7303a05500058af620b4115072ffa"
+    releasesEtag: '"6fcd387081f9435b98bcf0721412c9c91e5080317856a568362bf5cafd0c899f"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: bmdhacks/malisx2
   source: bmdhacks/malisx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

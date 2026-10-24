@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: '2026-10-09T12:25:04Z'
   url: 'https://github.com/E75/ghidra-emotionengine-reloaded/releases/tag/v2.1.38'
 activity:
-  lastSynchronized: '2026-10-22T00:14:45.066Z'
+  lastSynchronized: '2026-10-24T20:50:12.533Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"de778122cb4d9a9361ef7cfaae7d620b5f0e2a8945223c6d78a3f1201afa67a0"
+    releasesEtag: W/"ee2e21a95a01bf41a98549864aa609453a10bffd9185ea78095da8c831fd09fd"
 discovery:
   method: 'fork-network:chaoticgd/ghidra-emotionengine-reloaded'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: chaoticgd/ghidra-emotionengine-reloaded
   source: chaoticgd/ghidra-emotionengine-reloaded
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

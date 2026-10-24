@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/PS2HomeDeveloper/ps2-tim2-tool/releases/tag/v1.0.0'
 activity:
   lastChecked: '2026-09-29T00:27:09.556Z'
-  lastSynchronized: '2026-10-20T20:36:19.459Z'
+  lastSynchronized: '2026-10-24T20:51:06.334Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3a7cafb92be0fa70e8e3e5ef9c86f8e5cf48c56602fa7a47d7787afb2276c28b"
-    releasesEtag: W/"9f2cd0c191707fab9d0aacf489b4c15a74fd58561c9e961eb3c1aec3810d5bcc"
+    repoEtag: W/"19ed0d1ed778f8447ba8b4a37de67e564373b543fd555f133030eb7a8431636a"
+    releasesEtag: W/"119124900c765ad8a4b6b0b8444a57b54038cb4231ed7882ad050e69fe2dc9e7"
 discovery:
   method: github-search
   confidence: 100

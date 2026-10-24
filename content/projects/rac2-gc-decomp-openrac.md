@@ -15,26 +15,26 @@ license: GPL-3.0
 homepage: null
 source:
   provider: github
-  repository: OpenRAC/rac2-gc-decomp
+  repository: OpenRAC/rac2-decomp
   repositoryId: '1400228215'
 repository:
   archived: false
   defaultBranch: master
-  stars: 23
-  forks: 8
-  lastCommit: '2026-10-20T20:36:09Z'
+  stars: 27
+  forks: 7
+  lastCommit: '2026-10-24T08:40:23Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-20T20:36:39.665Z'
+  lastSynchronized: '2026-10-24T20:51:26.826Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3519ea5bede7446c825e0e9ba25fdfb4bb571d43fa7d454c3ca9731f858186fe"
-    releasesEtag: '"94e354af2c4e28e3962b296e8975d0c6ec1a30b51f9be8608fe23fd98f6c999a"'
+    repoEtag: W/"c03581524b1c4a8d222002a1a244c343a3b97d068aeddba908f92fa1bb671c9f"
+    releasesEtag: '"6fcd387081f9435b98bcf0721412c9c91e5080317856a568362bf5cafd0c899f"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
