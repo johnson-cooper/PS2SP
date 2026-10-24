@@ -23,20 +23,20 @@ repository:
   defaultBranch: main
   stars: 2
   forks: 0
-  lastCommit: '2026-10-20T00:11:46Z'
+  lastCommit: '2026-10-21T12:33:57Z'
 latestRelease:
-  tag: v1.0.0-beta3_PSP
-  name: 'RE:Chan HD Edition Beta 3 (PSP)'
-  publishedAt: '2026-10-17T17:20:23Z'
-  url: 'https://github.com/luckvice/ReChan-Enhanced/releases/tag/v1.0.0-beta3_PSP'
+  tag: v1.0.0-beta5_PSP
+  name: 'RE:Chan HD Edition Beta 5 (PSP)'
+  publishedAt: '2026-10-21T12:34:27Z'
+  url: 'https://github.com/luckvice/ReChan-Enhanced/releases/tag/v1.0.0-beta5_PSP'
 activity:
   lastChecked: '2026-10-19T23:56:10.760Z'
-  lastSynchronized: '2026-10-20T00:21:49.774Z'
+  lastSynchronized: '2026-10-24T00:43:44.291Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ec07e594c534becbd83d7a2a13d251afac4abb16cf4862bb383c1a3908ff332c"
-    releasesEtag: W/"4c3044d77f9827c56a33ff15681504a64cf74fafb5cbb01b87d798f490c22514"
+    repoEtag: W/"991ae9493c2c93f3ea1c70a316de910362179d5afb6a6255e8d9830349a75204"
+    releasesEtag: W/"8d4d076e54638a3900d8c50d0d61ec9e61a9e4d092460c052acef4185faefd45"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85

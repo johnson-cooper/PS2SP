@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-20T00:20:33.312Z'
+  lastSynchronized: '2026-10-24T00:42:30.172Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8d69761a8460799246fd939e9d881fd153d6bcdc94cae78a67b1a19ce44e3918"
-    releasesEtag: '"d1edf7833282760505ae30e6b818cd81821b0aa28f870a1b9d0b0f9fc5427ea0"'
+    repoEtag: W/"61664c96c864256e39af61424e64a5eeeb3c1e5fd6aa89c349b640c8e7bf294d"
+    releasesEtag: '"48753e9f26e6ff1c83a1da242b54bc63adc9fabd9c0810f6d38846bcaeb17bf4"'
 discovery:
   method: 'fork-network:wisi-w/DKWDRV'
   confidence: 100

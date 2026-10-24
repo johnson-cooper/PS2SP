@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-20T00:22:02.760Z'
+  lastSynchronized: '2026-10-24T00:43:56.718Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"56d20cd9a509ab8af6e81b3e313fb2a511ee54e059d07ab1a7f4962624d9c27d"
-    releasesEtag: '"d1edf7833282760505ae30e6b818cd81821b0aa28f870a1b9d0b0f9fc5427ea0"'
+    repoEtag: W/"43f80b99f304e66a2182a240b74ed1a76452a8485ac7eda284f5aa48a7ab19dd"
+    releasesEtag: '"48753e9f26e6ff1c83a1da242b54bc63adc9fabd9c0810f6d38846bcaeb17bf4"'
 discovery:
   method: 'fork-network:ps2homebrew/wLaunchELF'
   confidence: 100
