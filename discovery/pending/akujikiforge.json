@@ -1,0 +1,16 @@
+{
+  "repository": "YEperik/AkujikiForge",
+  "repositoryId": "1428535257",
+  "url": "https://github.com/YEperik/AkujikiForge",
+  "description": "An open-source modding toolkit and asset editor for SEGA's Shinobi (PS2). Designed for reverse engineering, asset extraction, and custom ROM modifications.",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-24T16:14:57.790Z",
+  "checkedAt": "2026-10-24T16:14:57.790Z"
+}
