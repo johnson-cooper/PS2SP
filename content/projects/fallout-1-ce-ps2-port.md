@@ -17,7 +17,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 7
+  stars: 8
   forks: 0
   lastCommit: '2026-10-22T02:09:44Z'
 latestRelease:
@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-10-22T02:09:44Z'
   url: 'https://github.com/Naru97-Hue/Fallout-1-CE-PS2-Port/releases/tag/1.0'
 activity:
-  lastSynchronized: '2026-10-23T18:22:15.583Z'
+  lastSynchronized: '2026-10-24T18:09:54.146Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0e89180b5adeeada05c04f016306d5d39f7cc77e267232767e8575ba8ae9429b"
-    releasesEtag: W/"00d168333045b2962de73121a5d96e421032032626c05ebacd44932676274579"
+    repoEtag: W/"30805a82c6aa412347740989b23f89bdbc0b32aa355bf4f99f5424fd756f3b21"
+    releasesEtag: W/"3979586251c47ae043546431e95cb8511d35eb2259418998fbb1668f603bb849"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-02-18T13:04:47Z'
   url: 'https://github.com/Wolf3s/ps2glx/releases/tag/0.14'
 activity:
-  lastSynchronized: '2026-10-23T18:23:38.526Z'
+  lastSynchronized: '2026-10-24T18:10:58.098Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"444ba5f3af0b0b74d054805b57356d509ac3d6862bb6beae65574fe21a38250b"
-    releasesEtag: W/"843d22bb3dd8cab143f3fb2bc7f549348327cb12a76086a2be8ea08c6585f4f0"
+    repoEtag: W/"a4a7d7a652c2b98806cd1c939b296f64a7e10aa07610d58cad5fc59f54043ead"
+    releasesEtag: W/"4dcf3635497fc531f8f0198501b1be713b9f8901d233a4d9a2bd38eab36dc8f0"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

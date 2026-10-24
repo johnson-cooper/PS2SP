@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/GDX-X/PS2-OPL-CFG-Compatibility-Database/releases/tag/Latest
 activity:
-  lastSynchronized: '2026-10-23T18:23:30.633Z'
+  lastSynchronized: '2026-10-24T18:10:52.164Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"809ee346c27c590f7624c91218131f69be8f206b86462fe0e671f0f3fd6b13ce"
-    releasesEtag: W/"14a5772cab37c7f8880e94dfb4c5e5327b7d3b8ad049357db7e7cece39e57952"
+    repoEtag: W/"714711d1057071461dce0aabcd41ebd1d8b51ee57a52b5a3341433b866255018"
+    releasesEtag: W/"3a454bcfd4a9b18fd25ab3dff93edd10b2d2c6f1eac5a1e53ec1a3d3dd5ecb1d"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

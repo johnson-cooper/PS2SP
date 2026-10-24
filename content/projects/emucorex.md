@@ -21,20 +21,20 @@ repository:
   archived: false
   defaultBranch: main
   stars: 239
-  forks: 18
-  lastCommit: '2026-10-23T10:31:07Z'
+  forks: 17
+  lastCommit: '2026-10-24T17:18:10Z'
 latestRelease:
   tag: v0.5.1
   name: v0.5.1
   publishedAt: '2026-10-23T10:31:07Z'
   url: 'https://github.com/sashkinbro/EmuCoreX/releases/tag/v0.5.1'
 activity:
-  lastSynchronized: '2026-10-23T18:22:14.859Z'
+  lastSynchronized: '2026-10-24T18:09:53.525Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e97d0c123d7476409640de39da4d79fc83063751df06c34a0d0f208fce023092"
-    releasesEtag: W/"eebc81c80006dd931c34a33fb135472bf7682ff980cc0b469bb7d3abf573a297"
+    repoEtag: W/"f41fd2a85eca4da0b7b5eb34b7b658831b9dc01a0f090e9dc817b3f409e1e58d"
+    releasesEtag: W/"327604a349cf254f5002e9c533367938f231caebdc9cf9de379fdfbd82a93f5e"
 discovery:
   method: pending-recheck
   confidence: 100

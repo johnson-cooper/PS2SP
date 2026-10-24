@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-10-15T22:31:32Z'
   url: 'https://github.com/pablonolascoo/nfs-mw-2005-ps2-port/releases/tag/v0.7.1'
 activity:
-  lastSynchronized: '2026-10-23T18:22:37.564Z'
+  lastSynchronized: '2026-10-24T18:10:12.445Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"59f35c20721b469e6f79a75ce55c68041b680d7321bf1dac2ce08c479774302e"
-    releasesEtag: W/"403ba87e3242a804e97f6d602b1664a8ab22195ea8fa787f46bcf4858070c12b"
+    repoEtag: W/"8e8164793834b976fb1a2c459aa234832fe2dd3fe22f9d645a651fdeb3bac8a0"
+    releasesEtag: W/"f7bf6e4a74cab04cd809ca9486ebc9e2cecc4e4f1bd47e132eb8a4613bf4bc64"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

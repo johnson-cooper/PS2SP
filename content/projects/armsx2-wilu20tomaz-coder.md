@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-19T23:32:55Z'
   url: 'https://github.com/wilu20tomaz-coder/ARMSX2/releases/tag/zodiaco-1'
 activity:
-  lastSynchronized: '2026-10-23T18:22:05.757Z'
+  lastSynchronized: '2026-10-24T18:09:46.432Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5c9ce0e842b5d0cce40275e90365c07cbafac3cbf91a1537e8275485615bdfb9"
-    releasesEtag: W/"e309d5880d5c660b84cff16b903913eb04b17751ccc0c56e77edb6fc746f690b"
+    repoEtag: W/"f70c59d6c7b3db713dfceeadb71df3329d159c51a0fd653819c33c142dab8251"
+    releasesEtag: W/"b56d44fc70ec9b24dc204acb406b36bbbe55bc9c5a155c4ac128af916706d68c"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
