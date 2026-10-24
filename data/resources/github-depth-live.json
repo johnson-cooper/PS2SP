@@ -161685,6 +161685,19 @@
         ]
       },
       {
+        "name": "Yudhass/ps2-covers — branch: main",
+        "url": "https://github.com/Yudhass/ps2-covers/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Yudhass/ps2-covers",
+          "main"
+        ]
+      },
+      {
         "name": "Yullax/Open-PS2-Loader-Compatibility-list — branch: create-pull-request/patch-wdb5han",
         "url": "https://github.com/Yullax/Open-PS2-Loader-Compatibility-list/tree/create-pull-request/patch-wdb5han",
         "keywords": [
@@ -161799,6 +161812,19 @@
           "repository",
           "yunkya2/libsmb2",
           "master"
+        ]
+      },
+      {
+        "name": "YuriHOC/ps2-covers — branch: main",
+        "url": "https://github.com/YuriHOC/ps2-covers/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "YuriHOC/ps2-covers",
+          "main"
         ]
       },
       {
@@ -162461,6 +162487,19 @@
           "branch",
           "repository",
           "zay448345045/NetherSX2-patch",
+          "main"
+        ]
+      },
+      {
+        "name": "zay448345045/ps2-covers — branch: main",
+        "url": "https://github.com/zay448345045/ps2-covers/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/ps2-covers",
           "main"
         ]
       },
@@ -1763428,6 +1763467,21 @@
         ]
       },
       {
+        "name": "Yudhass/ps2-covers@main — tools",
+        "url": "https://github.com/Yudhass/ps2-covers/tree/main/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Yudhass/ps2-covers",
+          "main",
+          "tools"
+        ]
+      },
+      {
         "name": "Yullax/Open-PS2-Loader-Compatibility-list@create-pull-request/patch-wdb5han — List",
         "url": "https://github.com/Yullax/Open-PS2-Loader-Compatibility-list/tree/create-pull-request/patch-wdb5han/List",
         "keywords": [
@@ -1779820,6 +1779874,21 @@
           "zay448345045/iris-emu",
           "vu-cached",
           "src/iop"
+        ]
+      },
+      {
+        "name": "zay448345045/ps2-covers@main — tools",
+        "url": "https://github.com/zay448345045/ps2-covers/tree/main/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/ps2-covers",
+          "main",
+          "tools"
         ]
       },
       {
