@@ -147,6 +147,19 @@
         ]
       },
       {
+        "name": "1247847495/PS2-Launcher — branch: main",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "1247847495/PS2-Launcher",
+          "main"
+        ]
+      },
+      {
         "name": "1247847495/SNESticleRevive — branch: main",
         "url": "https://github.com/1247847495/SNESticleRevive/tree/main",
         "keywords": [
@@ -2227,6 +2240,19 @@
         ]
       },
       {
+        "name": "362053534/ps2-packer — branch: master",
+        "url": "https://github.com/362053534/ps2-packer/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "362053534/ps2-packer",
+          "master"
+        ]
+      },
+      {
         "name": "374606829/EmuCoreX — branch: feature/lan-netplay-only",
         "url": "https://github.com/374606829/EmuCoreX/tree/feature/lan-netplay-only",
         "keywords": [
@@ -3874,6 +3900,19 @@
           "branch",
           "repository",
           "ahmedmoselhi/PFS-BatchKit-Manager",
+          "main"
+        ]
+      },
+      {
+        "name": "AJenbo/ps2_drivers — branch: main",
+        "url": "https://github.com/AJenbo/ps2_drivers/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AJenbo/ps2_drivers",
           "main"
         ]
       },
@@ -10534,6 +10573,136 @@
         ]
       },
       {
+        "name": "AKuHAK/ps2_drivers — branch: addingCPPSupport",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/addingCPPSupport",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2_drivers",
+          "addingCPPSupport"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers — branch: addingMouseDriver",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/addingMouseDriver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2_drivers",
+          "addingMouseDriver"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers — branch: dev9_usbd",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/dev9_usbd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2_drivers",
+          "dev9_usbd"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers — branch: fix_fileXio",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/fix_fileXio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2_drivers",
+          "fix_fileXio"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers — branch: hdd1",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/hdd1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2_drivers",
+          "hdd1"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers — branch: launcher",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/launcher",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2_drivers",
+          "launcher"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers — branch: listdir_sample",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/listdir_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2_drivers",
+          "listdir_sample"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers — branch: main",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2_drivers",
+          "main"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers — branch: mx4sio",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/mx4sio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2_drivers",
+          "mx4sio"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers — branch: openfile_sample",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/openfile_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2_drivers",
+          "openfile_sample"
+        ]
+      },
+      {
         "name": "AKuHAK/YADE — branch: 3.00j",
         "url": "https://github.com/AKuHAK/YADE/tree/3.00j",
         "keywords": [
@@ -10674,6 +10843,19 @@
           "repository",
           "AKuHAK/YADE",
           "test3"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher — branch: main",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "al3raQe/PS2-Launcher",
+          "main"
         ]
       },
       {
@@ -13550,6 +13732,32 @@
         ]
       },
       {
+        "name": "asmblur/ps2-packer — branch: fixed-crt0",
+        "url": "https://github.com/asmblur/ps2-packer/tree/fixed-crt0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "asmblur/ps2-packer",
+          "fixed-crt0"
+        ]
+      },
+      {
+        "name": "asmblur/ps2-packer — branch: master",
+        "url": "https://github.com/asmblur/ps2-packer/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "asmblur/ps2-packer",
+          "master"
+        ]
+      },
+      {
         "name": "asmblur/ps2cdvd — branch: main",
         "url": "https://github.com/asmblur/ps2cdvd/tree/main",
         "keywords": [
@@ -15084,6 +15292,45 @@
         ]
       },
       {
+        "name": "bignaux/ps2-packer — branch: ee-toolchain-gcc10",
+        "url": "https://github.com/bignaux/ps2-packer/tree/ee-toolchain-gcc10",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "bignaux/ps2-packer",
+          "ee-toolchain-gcc10"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer — branch: master",
+        "url": "https://github.com/bignaux/ps2-packer/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "bignaux/ps2-packer",
+          "master"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer — branch: remove-ucl",
+        "url": "https://github.com/bignaux/ps2-packer/tree/remove-ucl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "bignaux/ps2-packer",
+          "remove-ucl"
+        ]
+      },
+      {
         "name": "BillionClaw/Open-PS2-Loader — branch: clawoss/fix/1686",
         "url": "https://github.com/BillionClaw/Open-PS2-Loader/tree/clawoss/fix/1686",
         "keywords": [
@@ -16121,6 +16368,45 @@
           "repository",
           "blowfish64/pfsshell",
           "master"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer — branch: ee-toolchain-gcc10",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/ee-toolchain-gcc10",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "blowfish64/ps2-packer",
+          "ee-toolchain-gcc10"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer — branch: master",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "blowfish64/ps2-packer",
+          "master"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer — branch: remove-ucl",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/remove-ucl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "blowfish64/ps2-packer",
+          "remove-ucl"
         ]
       },
       {
@@ -17970,6 +18256,19 @@
         ]
       },
       {
+        "name": "captincook/ps2-packer — branch: master",
+        "url": "https://github.com/captincook/ps2-packer/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "captincook/ps2-packer",
+          "master"
+        ]
+      },
+      {
         "name": "caribbeansc/pcsx2_patches — branch: ci-cleanup",
         "url": "https://github.com/caribbeansc/pcsx2_patches/tree/ci-cleanup",
         "keywords": [
@@ -18620,6 +18919,19 @@
         ]
       },
       {
+        "name": "chubbymaggie/ps2-packer — branch: master",
+        "url": "https://github.com/chubbymaggie/ps2-packer/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "chubbymaggie/ps2-packer",
+          "master"
+        ]
+      },
+      {
         "name": "Cidazl/OPL-Widescreen-Cheats — branch: 25-10-22",
         "url": "https://github.com/Cidazl/OPL-Widescreen-Cheats/tree/25-10-22",
         "keywords": [
@@ -18812,6 +19124,19 @@
           "repository",
           "cleitondbz3/ps2-covers",
           "main"
+        ]
+      },
+      {
+        "name": "clflush/ps2-packer — branch: master",
+        "url": "https://github.com/clflush/ps2-packer/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "clflush/ps2-packer",
+          "master"
         ]
       },
       {
@@ -20540,6 +20865,19 @@
           "branch",
           "repository",
           "cynthiaswill/FreeDVDBoot",
+          "master"
+        ]
+      },
+      {
+        "name": "CypherCG/ps2-packer — branch: master",
+        "url": "https://github.com/CypherCG/ps2-packer/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "CypherCG/ps2-packer",
           "master"
         ]
       },
@@ -24012,6 +24350,19 @@
           "repository",
           "Dark98/Open-PS2-Loader-PSXMod",
           "v1.1.z"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes — branch: main",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main"
         ]
       },
       {
@@ -28484,6 +28835,19 @@
           "repository",
           "Diegoprofeta/Open-PS2-Loader",
           "master"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher — branch: main",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Diegoprofeta/PS2-Launcher",
+          "main"
         ]
       },
       {
@@ -36674,6 +37038,19 @@
           "repository",
           "doctorspider42/tyrax-toolchain-newlib",
           "Z-emcb-cygwin_daemon"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-ps2-packer — branch: master",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-ps2-packer/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "doctorspider42/tyrax-toolchain-ps2-packer",
+          "master"
         ]
       },
       {
@@ -165524,6 +165901,606 @@
         ]
       },
       {
+        "name": "1247847495/PS2-Launcher@main — ee_core",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/ee_core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "ee_core"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — labs/genvmclab",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/labs/genvmclab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "labs/genvmclab"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — labs/lwnbdsvr",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/labs/lwnbdsvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "labs/lwnbdsvr"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — labs/opltestiso",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/labs/opltestiso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "labs/opltestiso"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — labs/opltestiso/ee",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/labs/opltestiso/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "labs/opltestiso/ee"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — labs/opltestiso/iop/freeram",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/labs/opltestiso/iop/freeram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "labs/opltestiso/iop/freeram"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — labs/smblab",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/labs/smblab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "labs/smblab"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/bdmevent",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/bdmevent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/bdmevent"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/debug/ps2link",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/debug/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/debug/ps2link"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/debug/udptty-ingame",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/debug/udptty-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/debug/udptty-ingame"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/ds34bt",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/ds34bt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/ds34bt"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/ds34bt/ee",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/ds34bt/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/ds34bt/ee"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/ds34bt/iop",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/ds34bt/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/ds34bt/iop"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/ds34usb",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/ds34usb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/ds34usb"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/ds34usb/ee",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/ds34usb/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/ds34usb/ee"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/ds34usb/iop",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/ds34usb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/ds34usb/iop"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/hdd/xhdd",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/hdd/xhdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/hdd/xhdd"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/iopcore/cdvdfsv",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/iopcore/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/iopcore/cdvdfsv"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/iopcore/cdvdman",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/iopcore/cdvdman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/iopcore/cdvdman"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/iopcore/imgdrv",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/iopcore/imgdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/iopcore/imgdrv"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/iopcore/patches/apemodpatch",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/iopcore/patches/apemodpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/iopcore/patches/apemodpatch"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/iopcore/patches/cleareffects",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/iopcore/patches/cleareffects",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/iopcore/patches/cleareffects"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/iopcore/patches/f2techioppatch",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/iopcore/patches/f2techioppatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/iopcore/patches/f2techioppatch"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/iopcore/patches/iremsndpatch",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/iopcore/patches/iremsndpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/iopcore/patches/iremsndpatch"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/iopcore/resetspu",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/iopcore/resetspu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/iopcore/resetspu"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/isofs",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/isofs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/isofs"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/mcemu",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/mcemu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/mcemu"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/network/httpclient",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/network/httpclient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/network/httpclient"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/network/nbns",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/network/nbns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/network/nbns"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/network/smap-ingame",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/network/smap-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/network/smap-ingame"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/network/smbinit",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/network/smbinit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/network/smbinit"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/network/SMSTCPIP",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/network/SMSTCPIP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/network/SMSTCPIP"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/network/SMSUTILS",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/network/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/network/SMSUTILS"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/pademu",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/pademu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/pademu"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/vmc/genvmc",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/vmc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/vmc/genvmc"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/xboxusb",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/xboxusb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/xboxusb"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — modules/xboxusb/iop",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/modules/xboxusb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "modules/xboxusb/iop"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — pc",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "pc"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — pc/genvmc",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/pc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "pc/genvmc"
+        ]
+      },
+      {
+        "name": "1247847495/PS2-Launcher@main — pc/iso2opl",
+        "url": "https://github.com/1247847495/PS2-Launcher/tree/main/pc/iso2opl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "1247847495/PS2-Launcher",
+          "main",
+          "pc/iso2opl"
+        ]
+      },
+      {
         "name": "1247847495/SNESticleRevive@main — irx",
         "url": "https://github.com/1247847495/SNESticleRevive/tree/main/irx",
         "keywords": [
@@ -189641,6 +190618,96 @@
           "362053534/POPSLoader",
           "ps2gl",
           "src/fast_obj"
+        ]
+      },
+      {
+        "name": "362053534/ps2-packer@master — lzma",
+        "url": "https://github.com/362053534/ps2-packer/tree/master/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2-packer",
+          "master",
+          "lzma"
+        ]
+      },
+      {
+        "name": "362053534/ps2-packer@master — stub",
+        "url": "https://github.com/362053534/ps2-packer/tree/master/stub",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2-packer",
+          "master",
+          "stub"
+        ]
+      },
+      {
+        "name": "362053534/ps2-packer@master — stub/lz4",
+        "url": "https://github.com/362053534/ps2-packer/tree/master/stub/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2-packer",
+          "master",
+          "stub/lz4"
+        ]
+      },
+      {
+        "name": "362053534/ps2-packer@master — stub/lzma",
+        "url": "https://github.com/362053534/ps2-packer/tree/master/stub/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2-packer",
+          "master",
+          "stub/lzma"
+        ]
+      },
+      {
+        "name": "362053534/ps2-packer@master — stub/lzo",
+        "url": "https://github.com/362053534/ps2-packer/tree/master/stub/lzo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2-packer",
+          "master",
+          "stub/lzo"
+        ]
+      },
+      {
+        "name": "362053534/ps2-packer@master — stub/zlib",
+        "url": "https://github.com/362053534/ps2-packer/tree/master/stub/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2-packer",
+          "master",
+          "stub/zlib"
         ]
       },
       {
@@ -225534,6 +226601,21 @@
         ]
       },
       {
+        "name": "AJenbo/ps2_drivers@main — samples",
+        "url": "https://github.com/AJenbo/ps2_drivers/tree/main/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AJenbo/ps2_drivers",
+          "main",
+          "samples"
+        ]
+      },
+      {
         "name": "AkikoKumagara/FreeMcBoot@master — Changed source for external projects/gsKit/ee",
         "url": "https://github.com/AkikoKumagara/FreeMcBoot/tree/master/Changed%20source%20for%20external%20projects/gsKit/ee",
         "keywords": [
@@ -253311,6 +254393,756 @@
           "AKuHAK/PMAP",
           "master",
           "PMAP-unix"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers@addingCPPSupport — samples",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/addingCPPSupport/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/ps2_drivers",
+          "addingCPPSupport",
+          "samples"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers@addingMouseDriver — samples",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/addingMouseDriver/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/ps2_drivers",
+          "addingMouseDriver",
+          "samples"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers@dev9_usbd — samples",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/dev9_usbd/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/ps2_drivers",
+          "dev9_usbd",
+          "samples"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers@fix_fileXio — samples",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/fix_fileXio/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/ps2_drivers",
+          "fix_fileXio",
+          "samples"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers@hdd1 — samples",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/hdd1/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/ps2_drivers",
+          "hdd1",
+          "samples"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers@launcher — samples",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/launcher/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/ps2_drivers",
+          "launcher",
+          "samples"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers@listdir_sample — samples",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/listdir_sample/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/ps2_drivers",
+          "listdir_sample",
+          "samples"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers@main — samples",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/main/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/ps2_drivers",
+          "main",
+          "samples"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers@mx4sio — samples",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/mx4sio/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/ps2_drivers",
+          "mx4sio",
+          "samples"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2_drivers@openfile_sample — samples",
+        "url": "https://github.com/AKuHAK/ps2_drivers/tree/openfile_sample/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "AKuHAK/ps2_drivers",
+          "openfile_sample",
+          "samples"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — ee_core",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/ee_core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "ee_core"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — labs/genvmclab",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/labs/genvmclab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "labs/genvmclab"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — labs/lwnbdsvr",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/labs/lwnbdsvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "labs/lwnbdsvr"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — labs/opltestiso",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/labs/opltestiso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "labs/opltestiso"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — labs/opltestiso/ee",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/labs/opltestiso/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "labs/opltestiso/ee"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — labs/opltestiso/iop/freeram",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/labs/opltestiso/iop/freeram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "labs/opltestiso/iop/freeram"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — labs/smblab",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/labs/smblab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "labs/smblab"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/bdmevent",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/bdmevent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/bdmevent"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/debug/ps2link",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/debug/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/debug/ps2link"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/debug/udptty-ingame",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/debug/udptty-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/debug/udptty-ingame"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/ds34bt",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/ds34bt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/ds34bt"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/ds34bt/ee",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/ds34bt/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/ds34bt/ee"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/ds34bt/iop",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/ds34bt/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/ds34bt/iop"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/ds34usb",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/ds34usb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/ds34usb"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/ds34usb/ee",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/ds34usb/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/ds34usb/ee"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/ds34usb/iop",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/ds34usb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/ds34usb/iop"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/hdd/xhdd",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/hdd/xhdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/hdd/xhdd"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/iopcore/cdvdfsv",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/iopcore/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/iopcore/cdvdfsv"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/iopcore/cdvdman",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/iopcore/cdvdman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/iopcore/cdvdman"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/iopcore/imgdrv",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/iopcore/imgdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/iopcore/imgdrv"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/iopcore/patches/apemodpatch",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/iopcore/patches/apemodpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/iopcore/patches/apemodpatch"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/iopcore/patches/cleareffects",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/iopcore/patches/cleareffects",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/iopcore/patches/cleareffects"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/iopcore/patches/f2techioppatch",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/iopcore/patches/f2techioppatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/iopcore/patches/f2techioppatch"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/iopcore/patches/iremsndpatch",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/iopcore/patches/iremsndpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/iopcore/patches/iremsndpatch"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/iopcore/resetspu",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/iopcore/resetspu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/iopcore/resetspu"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/isofs",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/isofs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/isofs"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/mcemu",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/mcemu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/mcemu"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/network/httpclient",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/network/httpclient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/network/httpclient"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/network/nbns",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/network/nbns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/network/nbns"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/network/smap-ingame",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/network/smap-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/network/smap-ingame"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/network/smbinit",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/network/smbinit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/network/smbinit"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/network/SMSTCPIP",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/network/SMSTCPIP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/network/SMSTCPIP"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/network/SMSUTILS",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/network/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/network/SMSUTILS"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/pademu",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/pademu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/pademu"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/vmc/genvmc",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/vmc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/vmc/genvmc"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/xboxusb",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/xboxusb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/xboxusb"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — modules/xboxusb/iop",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/modules/xboxusb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "modules/xboxusb/iop"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — pc",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "pc"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — pc/genvmc",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/pc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "pc/genvmc"
+        ]
+      },
+      {
+        "name": "al3raQe/PS2-Launcher@main — pc/iso2opl",
+        "url": "https://github.com/al3raQe/PS2-Launcher/tree/main/pc/iso2opl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "al3raQe/PS2-Launcher",
+          "main",
+          "pc/iso2opl"
         ]
       },
       {
@@ -317382,6 +319214,186 @@
         ]
       },
       {
+        "name": "asmblur/ps2-packer@fixed-crt0 — lzma",
+        "url": "https://github.com/asmblur/ps2-packer/tree/fixed-crt0/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "asmblur/ps2-packer",
+          "fixed-crt0",
+          "lzma"
+        ]
+      },
+      {
+        "name": "asmblur/ps2-packer@fixed-crt0 — stub",
+        "url": "https://github.com/asmblur/ps2-packer/tree/fixed-crt0/stub",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "asmblur/ps2-packer",
+          "fixed-crt0",
+          "stub"
+        ]
+      },
+      {
+        "name": "asmblur/ps2-packer@fixed-crt0 — stub/lz4",
+        "url": "https://github.com/asmblur/ps2-packer/tree/fixed-crt0/stub/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "asmblur/ps2-packer",
+          "fixed-crt0",
+          "stub/lz4"
+        ]
+      },
+      {
+        "name": "asmblur/ps2-packer@fixed-crt0 — stub/lzma",
+        "url": "https://github.com/asmblur/ps2-packer/tree/fixed-crt0/stub/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "asmblur/ps2-packer",
+          "fixed-crt0",
+          "stub/lzma"
+        ]
+      },
+      {
+        "name": "asmblur/ps2-packer@fixed-crt0 — stub/lzo",
+        "url": "https://github.com/asmblur/ps2-packer/tree/fixed-crt0/stub/lzo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "asmblur/ps2-packer",
+          "fixed-crt0",
+          "stub/lzo"
+        ]
+      },
+      {
+        "name": "asmblur/ps2-packer@fixed-crt0 — stub/zlib",
+        "url": "https://github.com/asmblur/ps2-packer/tree/fixed-crt0/stub/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "asmblur/ps2-packer",
+          "fixed-crt0",
+          "stub/zlib"
+        ]
+      },
+      {
+        "name": "asmblur/ps2-packer@master — lzma",
+        "url": "https://github.com/asmblur/ps2-packer/tree/master/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "asmblur/ps2-packer",
+          "master",
+          "lzma"
+        ]
+      },
+      {
+        "name": "asmblur/ps2-packer@master — stub",
+        "url": "https://github.com/asmblur/ps2-packer/tree/master/stub",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "asmblur/ps2-packer",
+          "master",
+          "stub"
+        ]
+      },
+      {
+        "name": "asmblur/ps2-packer@master — stub/lz4",
+        "url": "https://github.com/asmblur/ps2-packer/tree/master/stub/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "asmblur/ps2-packer",
+          "master",
+          "stub/lz4"
+        ]
+      },
+      {
+        "name": "asmblur/ps2-packer@master — stub/lzma",
+        "url": "https://github.com/asmblur/ps2-packer/tree/master/stub/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "asmblur/ps2-packer",
+          "master",
+          "stub/lzma"
+        ]
+      },
+      {
+        "name": "asmblur/ps2-packer@master — stub/lzo",
+        "url": "https://github.com/asmblur/ps2-packer/tree/master/stub/lzo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "asmblur/ps2-packer",
+          "master",
+          "stub/lzo"
+        ]
+      },
+      {
+        "name": "asmblur/ps2-packer@master — stub/zlib",
+        "url": "https://github.com/asmblur/ps2-packer/tree/master/stub/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "asmblur/ps2-packer",
+          "master",
+          "stub/zlib"
+        ]
+      },
+      {
         "name": "asmblur/ps2cdvd@main — cdvddrvr",
         "url": "https://github.com/asmblur/ps2cdvd/tree/main/cdvddrvr",
         "keywords": [
@@ -346042,6 +348054,276 @@
         ]
       },
       {
+        "name": "bignaux/ps2-packer@ee-toolchain-gcc10 — lzma",
+        "url": "https://github.com/bignaux/ps2-packer/tree/ee-toolchain-gcc10/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "ee-toolchain-gcc10",
+          "lzma"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@ee-toolchain-gcc10 — stub",
+        "url": "https://github.com/bignaux/ps2-packer/tree/ee-toolchain-gcc10/stub",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "ee-toolchain-gcc10",
+          "stub"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@ee-toolchain-gcc10 — stub/lz4",
+        "url": "https://github.com/bignaux/ps2-packer/tree/ee-toolchain-gcc10/stub/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "ee-toolchain-gcc10",
+          "stub/lz4"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@ee-toolchain-gcc10 — stub/lzma",
+        "url": "https://github.com/bignaux/ps2-packer/tree/ee-toolchain-gcc10/stub/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "ee-toolchain-gcc10",
+          "stub/lzma"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@ee-toolchain-gcc10 — stub/lzo",
+        "url": "https://github.com/bignaux/ps2-packer/tree/ee-toolchain-gcc10/stub/lzo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "ee-toolchain-gcc10",
+          "stub/lzo"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@ee-toolchain-gcc10 — stub/zlib",
+        "url": "https://github.com/bignaux/ps2-packer/tree/ee-toolchain-gcc10/stub/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "ee-toolchain-gcc10",
+          "stub/zlib"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@master — lzma",
+        "url": "https://github.com/bignaux/ps2-packer/tree/master/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "master",
+          "lzma"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@master — stub",
+        "url": "https://github.com/bignaux/ps2-packer/tree/master/stub",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "master",
+          "stub"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@master — stub/lz4",
+        "url": "https://github.com/bignaux/ps2-packer/tree/master/stub/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "master",
+          "stub/lz4"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@master — stub/lzma",
+        "url": "https://github.com/bignaux/ps2-packer/tree/master/stub/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "master",
+          "stub/lzma"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@master — stub/lzo",
+        "url": "https://github.com/bignaux/ps2-packer/tree/master/stub/lzo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "master",
+          "stub/lzo"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@master — stub/zlib",
+        "url": "https://github.com/bignaux/ps2-packer/tree/master/stub/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "master",
+          "stub/zlib"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@remove-ucl — lzma",
+        "url": "https://github.com/bignaux/ps2-packer/tree/remove-ucl/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "remove-ucl",
+          "lzma"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@remove-ucl — stub",
+        "url": "https://github.com/bignaux/ps2-packer/tree/remove-ucl/stub",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "remove-ucl",
+          "stub"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@remove-ucl — stub/lz4",
+        "url": "https://github.com/bignaux/ps2-packer/tree/remove-ucl/stub/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "remove-ucl",
+          "stub/lz4"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@remove-ucl — stub/lzma",
+        "url": "https://github.com/bignaux/ps2-packer/tree/remove-ucl/stub/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "remove-ucl",
+          "stub/lzma"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@remove-ucl — stub/lzo",
+        "url": "https://github.com/bignaux/ps2-packer/tree/remove-ucl/stub/lzo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "remove-ucl",
+          "stub/lzo"
+        ]
+      },
+      {
+        "name": "bignaux/ps2-packer@remove-ucl — stub/zlib",
+        "url": "https://github.com/bignaux/ps2-packer/tree/remove-ucl/stub/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bignaux/ps2-packer",
+          "remove-ucl",
+          "stub/zlib"
+        ]
+      },
+      {
         "name": "BillionClaw/Open-PS2-Loader@clawoss/fix/1686 — ee_core",
         "url": "https://github.com/BillionClaw/Open-PS2-Loader/tree/clawoss/fix/1686/ee_core",
         "keywords": [
@@ -372937,6 +375219,276 @@
         ]
       },
       {
+        "name": "blowfish64/ps2-packer@ee-toolchain-gcc10 — lzma",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/ee-toolchain-gcc10/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "ee-toolchain-gcc10",
+          "lzma"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@ee-toolchain-gcc10 — stub",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/ee-toolchain-gcc10/stub",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "ee-toolchain-gcc10",
+          "stub"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@ee-toolchain-gcc10 — stub/lz4",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/ee-toolchain-gcc10/stub/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "ee-toolchain-gcc10",
+          "stub/lz4"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@ee-toolchain-gcc10 — stub/lzma",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/ee-toolchain-gcc10/stub/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "ee-toolchain-gcc10",
+          "stub/lzma"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@ee-toolchain-gcc10 — stub/lzo",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/ee-toolchain-gcc10/stub/lzo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "ee-toolchain-gcc10",
+          "stub/lzo"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@ee-toolchain-gcc10 — stub/zlib",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/ee-toolchain-gcc10/stub/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "ee-toolchain-gcc10",
+          "stub/zlib"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@master — lzma",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/master/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "master",
+          "lzma"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@master — stub",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/master/stub",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "master",
+          "stub"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@master — stub/lz4",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/master/stub/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "master",
+          "stub/lz4"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@master — stub/lzma",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/master/stub/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "master",
+          "stub/lzma"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@master — stub/lzo",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/master/stub/lzo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "master",
+          "stub/lzo"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@master — stub/zlib",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/master/stub/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "master",
+          "stub/zlib"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@remove-ucl — lzma",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/remove-ucl/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "remove-ucl",
+          "lzma"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@remove-ucl — stub",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/remove-ucl/stub",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "remove-ucl",
+          "stub"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@remove-ucl — stub/lz4",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/remove-ucl/stub/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "remove-ucl",
+          "stub/lz4"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@remove-ucl — stub/lzma",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/remove-ucl/stub/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "remove-ucl",
+          "stub/lzma"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@remove-ucl — stub/lzo",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/remove-ucl/stub/lzo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "remove-ucl",
+          "stub/lzo"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2-packer@remove-ucl — stub/zlib",
+        "url": "https://github.com/blowfish64/ps2-packer/tree/remove-ucl/stub/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blowfish64/ps2-packer",
+          "remove-ucl",
+          "stub/zlib"
+        ]
+      },
+      {
         "name": "bmdhacks/armsx2-libmali@main — mesa-glue",
         "url": "https://github.com/bmdhacks/armsx2-libmali/tree/main/mesa-glue",
         "keywords": [
@@ -383928,6 +386480,66 @@
         ]
       },
       {
+        "name": "captincook/ps2-packer@master — stub",
+        "url": "https://github.com/captincook/ps2-packer/tree/master/stub",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "captincook/ps2-packer",
+          "master",
+          "stub"
+        ]
+      },
+      {
+        "name": "captincook/ps2-packer@master — stub/lzo",
+        "url": "https://github.com/captincook/ps2-packer/tree/master/stub/lzo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "captincook/ps2-packer",
+          "master",
+          "stub/lzo"
+        ]
+      },
+      {
+        "name": "captincook/ps2-packer@master — stub/ucl",
+        "url": "https://github.com/captincook/ps2-packer/tree/master/stub/ucl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "captincook/ps2-packer",
+          "master",
+          "stub/ucl"
+        ]
+      },
+      {
+        "name": "captincook/ps2-packer@master — stub/zlib",
+        "url": "https://github.com/captincook/ps2-packer/tree/master/stub/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "captincook/ps2-packer",
+          "master",
+          "stub/zlib"
+        ]
+      },
+      {
         "name": "carl0sjt/pcsx2@master — 3rdparty/ccc",
         "url": "https://github.com/carl0sjt/pcsx2/tree/master/3rdparty/ccc",
         "keywords": [
@@ -394176,6 +396788,66 @@
         ]
       },
       {
+        "name": "chubbymaggie/ps2-packer@master — stub",
+        "url": "https://github.com/chubbymaggie/ps2-packer/tree/master/stub",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "chubbymaggie/ps2-packer",
+          "master",
+          "stub"
+        ]
+      },
+      {
+        "name": "chubbymaggie/ps2-packer@master — stub/lzo",
+        "url": "https://github.com/chubbymaggie/ps2-packer/tree/master/stub/lzo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "chubbymaggie/ps2-packer",
+          "master",
+          "stub/lzo"
+        ]
+      },
+      {
+        "name": "chubbymaggie/ps2-packer@master — stub/ucl",
+        "url": "https://github.com/chubbymaggie/ps2-packer/tree/master/stub/ucl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "chubbymaggie/ps2-packer",
+          "master",
+          "stub/ucl"
+        ]
+      },
+      {
+        "name": "chubbymaggie/ps2-packer@master — stub/zlib",
+        "url": "https://github.com/chubbymaggie/ps2-packer/tree/master/stub/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "chubbymaggie/ps2-packer",
+          "master",
+          "stub/zlib"
+        ]
+      },
+      {
         "name": "citronalco/OPL-Daily-Builds@master — ee_core",
         "url": "https://github.com/citronalco/OPL-Daily-Builds/tree/master/ee_core",
         "keywords": [
@@ -394788,6 +397460,66 @@
           "cleitondbz3/ps2-covers",
           "main",
           "tools"
+        ]
+      },
+      {
+        "name": "clflush/ps2-packer@master — stub",
+        "url": "https://github.com/clflush/ps2-packer/tree/master/stub",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "clflush/ps2-packer",
+          "master",
+          "stub"
+        ]
+      },
+      {
+        "name": "clflush/ps2-packer@master — stub/lzo",
+        "url": "https://github.com/clflush/ps2-packer/tree/master/stub/lzo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "clflush/ps2-packer",
+          "master",
+          "stub/lzo"
+        ]
+      },
+      {
+        "name": "clflush/ps2-packer@master — stub/ucl",
+        "url": "https://github.com/clflush/ps2-packer/tree/master/stub/ucl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "clflush/ps2-packer",
+          "master",
+          "stub/ucl"
+        ]
+      },
+      {
+        "name": "clflush/ps2-packer@master — stub/zlib",
+        "url": "https://github.com/clflush/ps2-packer/tree/master/stub/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "clflush/ps2-packer",
+          "master",
+          "stub/zlib"
         ]
       },
       {
@@ -432036,6 +434768,111 @@
         ]
       },
       {
+        "name": "CypherCG/ps2-packer@master — lzma",
+        "url": "https://github.com/CypherCG/ps2-packer/tree/master/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "CypherCG/ps2-packer",
+          "master",
+          "lzma"
+        ]
+      },
+      {
+        "name": "CypherCG/ps2-packer@master — stub",
+        "url": "https://github.com/CypherCG/ps2-packer/tree/master/stub",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "CypherCG/ps2-packer",
+          "master",
+          "stub"
+        ]
+      },
+      {
+        "name": "CypherCG/ps2-packer@master — stub/lz4",
+        "url": "https://github.com/CypherCG/ps2-packer/tree/master/stub/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "CypherCG/ps2-packer",
+          "master",
+          "stub/lz4"
+        ]
+      },
+      {
+        "name": "CypherCG/ps2-packer@master — stub/lzma",
+        "url": "https://github.com/CypherCG/ps2-packer/tree/master/stub/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "CypherCG/ps2-packer",
+          "master",
+          "stub/lzma"
+        ]
+      },
+      {
+        "name": "CypherCG/ps2-packer@master — stub/lzo",
+        "url": "https://github.com/CypherCG/ps2-packer/tree/master/stub/lzo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "CypherCG/ps2-packer",
+          "master",
+          "stub/lzo"
+        ]
+      },
+      {
+        "name": "CypherCG/ps2-packer@master — stub/ucl",
+        "url": "https://github.com/CypherCG/ps2-packer/tree/master/stub/ucl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "CypherCG/ps2-packer",
+          "master",
+          "stub/ucl"
+        ]
+      },
+      {
+        "name": "CypherCG/ps2-packer@master — stub/zlib",
+        "url": "https://github.com/CypherCG/ps2-packer/tree/master/stub/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "CypherCG/ps2-packer",
+          "master",
+          "stub/zlib"
+        ]
+      },
+      {
         "name": "D00MK1D/ps2-covers@main — tools",
         "url": "https://github.com/D00MK1D/ps2-covers/tree/main/tools",
         "keywords": [
@@ -463236,6 +466073,606 @@
         ]
       },
       {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — ee_core",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/ee_core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "ee_core"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — labs/genvmclab",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/labs/genvmclab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "labs/genvmclab"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — labs/lwnbdsvr",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/labs/lwnbdsvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "labs/lwnbdsvr"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — labs/opltestiso",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/labs/opltestiso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "labs/opltestiso"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — labs/opltestiso/ee",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/labs/opltestiso/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "labs/opltestiso/ee"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — labs/opltestiso/iop/freeram",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/labs/opltestiso/iop/freeram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "labs/opltestiso/iop/freeram"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — labs/smblab",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/labs/smblab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "labs/smblab"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/bdmevent",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/bdmevent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/bdmevent"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/debug/ps2link",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/debug/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/debug/ps2link"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/debug/udptty-ingame",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/debug/udptty-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/debug/udptty-ingame"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/ds34bt",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/ds34bt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/ds34bt"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/ds34bt/ee",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/ds34bt/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/ds34bt/ee"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/ds34bt/iop",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/ds34bt/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/ds34bt/iop"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/ds34usb",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/ds34usb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/ds34usb"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/ds34usb/ee",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/ds34usb/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/ds34usb/ee"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/ds34usb/iop",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/ds34usb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/ds34usb/iop"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/hdd/xhdd",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/hdd/xhdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/hdd/xhdd"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/iopcore/cdvdfsv",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/iopcore/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/iopcore/cdvdfsv"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/iopcore/cdvdman",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/iopcore/cdvdman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/iopcore/cdvdman"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/iopcore/imgdrv",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/iopcore/imgdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/iopcore/imgdrv"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/iopcore/patches/apemodpatch",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/iopcore/patches/apemodpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/iopcore/patches/apemodpatch"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/iopcore/patches/cleareffects",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/iopcore/patches/cleareffects",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/iopcore/patches/cleareffects"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/iopcore/patches/f2techioppatch",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/iopcore/patches/f2techioppatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/iopcore/patches/f2techioppatch"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/iopcore/patches/iremsndpatch",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/iopcore/patches/iremsndpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/iopcore/patches/iremsndpatch"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/iopcore/resetspu",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/iopcore/resetspu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/iopcore/resetspu"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/isofs",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/isofs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/isofs"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/mcemu",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/mcemu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/mcemu"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/network/httpclient",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/network/httpclient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/network/httpclient"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/network/nbns",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/network/nbns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/network/nbns"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/network/smap-ingame",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/network/smap-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/network/smap-ingame"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/network/smbinit",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/network/smbinit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/network/smbinit"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/network/SMSTCPIP",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/network/SMSTCPIP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/network/SMSTCPIP"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/network/SMSUTILS",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/network/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/network/SMSUTILS"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/pademu",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/pademu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/pademu"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/vmc/genvmc",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/vmc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/vmc/genvmc"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/xboxusb",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/xboxusb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/xboxusb"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — modules/xboxusb/iop",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/modules/xboxusb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "modules/xboxusb/iop"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — pc",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "pc"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — pc/genvmc",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/pc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "pc/genvmc"
+        ]
+      },
+      {
+        "name": "DarkHexSage/PS2-Launcher-Fixes@main — pc/iso2opl",
+        "url": "https://github.com/DarkHexSage/PS2-Launcher-Fixes/tree/main/pc/iso2opl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DarkHexSage/PS2-Launcher-Fixes",
+          "main",
+          "pc/iso2opl"
+        ]
+      },
+      {
         "name": "darkozma/opl-Title.cfg-maker@master — title-cfg_maker",
         "url": "https://github.com/darkozma/opl-Title.cfg-maker/tree/master/title-cfg_maker",
         "keywords": [
@@ -486329,6 +489766,606 @@
           "Diegoprofeta/Open-PS2-Loader",
           "master",
           "pc/opl2iso"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — ee_core",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/ee_core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "ee_core"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — labs/genvmclab",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/labs/genvmclab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "labs/genvmclab"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — labs/lwnbdsvr",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/labs/lwnbdsvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "labs/lwnbdsvr"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — labs/opltestiso",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/labs/opltestiso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "labs/opltestiso"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — labs/opltestiso/ee",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/labs/opltestiso/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "labs/opltestiso/ee"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — labs/opltestiso/iop/freeram",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/labs/opltestiso/iop/freeram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "labs/opltestiso/iop/freeram"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — labs/smblab",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/labs/smblab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "labs/smblab"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/bdmevent",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/bdmevent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/bdmevent"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/debug/ps2link",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/debug/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/debug/ps2link"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/debug/udptty-ingame",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/debug/udptty-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/debug/udptty-ingame"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/ds34bt",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/ds34bt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/ds34bt"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/ds34bt/ee",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/ds34bt/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/ds34bt/ee"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/ds34bt/iop",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/ds34bt/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/ds34bt/iop"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/ds34usb",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/ds34usb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/ds34usb"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/ds34usb/ee",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/ds34usb/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/ds34usb/ee"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/ds34usb/iop",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/ds34usb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/ds34usb/iop"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/hdd/xhdd",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/hdd/xhdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/hdd/xhdd"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/iopcore/cdvdfsv",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/iopcore/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/iopcore/cdvdfsv"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/iopcore/cdvdman",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/iopcore/cdvdman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/iopcore/cdvdman"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/iopcore/imgdrv",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/iopcore/imgdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/iopcore/imgdrv"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/iopcore/patches/apemodpatch",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/iopcore/patches/apemodpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/iopcore/patches/apemodpatch"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/iopcore/patches/cleareffects",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/iopcore/patches/cleareffects",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/iopcore/patches/cleareffects"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/iopcore/patches/f2techioppatch",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/iopcore/patches/f2techioppatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/iopcore/patches/f2techioppatch"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/iopcore/patches/iremsndpatch",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/iopcore/patches/iremsndpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/iopcore/patches/iremsndpatch"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/iopcore/resetspu",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/iopcore/resetspu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/iopcore/resetspu"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/isofs",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/isofs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/isofs"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/mcemu",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/mcemu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/mcemu"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/network/httpclient",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/network/httpclient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/network/httpclient"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/network/nbns",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/network/nbns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/network/nbns"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/network/smap-ingame",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/network/smap-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/network/smap-ingame"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/network/smbinit",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/network/smbinit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/network/smbinit"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/network/SMSTCPIP",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/network/SMSTCPIP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/network/SMSTCPIP"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/network/SMSUTILS",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/network/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/network/SMSUTILS"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/pademu",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/pademu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/pademu"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/vmc/genvmc",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/vmc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/vmc/genvmc"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/xboxusb",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/xboxusb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/xboxusb"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — modules/xboxusb/iop",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/modules/xboxusb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "modules/xboxusb/iop"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — pc",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "pc"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — pc/genvmc",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/pc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "pc/genvmc"
+        ]
+      },
+      {
+        "name": "Diegoprofeta/PS2-Launcher@main — pc/iso2opl",
+        "url": "https://github.com/Diegoprofeta/PS2-Launcher/tree/main/pc/iso2opl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Diegoprofeta/PS2-Launcher",
+          "main",
+          "pc/iso2opl"
         ]
       },
       {
@@ -534502,6 +538539,96 @@
           "Docmine17/Open-PS2-Loader-HTTP",
           "master",
           "pc/opl2iso"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-ps2-packer@master — lzma",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-ps2-packer/tree/master/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "doctorspider42/tyrax-toolchain-ps2-packer",
+          "master",
+          "lzma"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-ps2-packer@master — stub",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-ps2-packer/tree/master/stub",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "doctorspider42/tyrax-toolchain-ps2-packer",
+          "master",
+          "stub"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-ps2-packer@master — stub/lz4",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-ps2-packer/tree/master/stub/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "doctorspider42/tyrax-toolchain-ps2-packer",
+          "master",
+          "stub/lz4"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-ps2-packer@master — stub/lzma",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-ps2-packer/tree/master/stub/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "doctorspider42/tyrax-toolchain-ps2-packer",
+          "master",
+          "stub/lzma"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-ps2-packer@master — stub/lzo",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-ps2-packer/tree/master/stub/lzo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "doctorspider42/tyrax-toolchain-ps2-packer",
+          "master",
+          "stub/lzo"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-ps2-packer@master — stub/zlib",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-ps2-packer/tree/master/stub/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "doctorspider42/tyrax-toolchain-ps2-packer",
+          "master",
+          "stub/zlib"
         ]
       },
       {
