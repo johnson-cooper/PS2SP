@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T01:59:06.038Z'
+  lastSynchronized: '2026-10-24T23:15:17.348Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6e9bd0e4c9a1a0a18e6ee0bbda75fa8f9494671bea66021bde303d6cc6f991b8"
+    releasesEtag: '"d958fbfec27a80deaeffdf70593bfd5e43f02f963f152d4a8d9f4917da92f5c0"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: KIexster/god-of-war-recomp
   source: KIexster/god-of-war-recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

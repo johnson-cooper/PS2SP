@@ -14,7 +14,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: ISC
 homepage: null
 source:
   provider: github
@@ -23,19 +23,23 @@ source:
   url: 'https://github.com/thebardockgames/Precursor'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: master
+  stars: 17
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-22T19:02:02Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.2.0-beta
+  name: Precursor 0.2.0 beta
+  publishedAt: '2026-10-22T19:02:02Z'
+  url: 'https://github.com/thebardockgames/Precursor/releases/tag/v0.2.0-beta'
 activity:
   lastChecked: '2026-10-22T15:40:02.066Z'
+  lastSynchronized: '2026-10-24T23:15:56.666Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4e073ae1efb64d83a48ab77304b78d30b7e60992731b1c75632b4541c8a379b8"
+    releasesEtag: W/"2e2b001e312a98083bc27881d496fe522961a4fab366a467107088a5a7f7a285"
 discovery:
   method: 'pending-promotion:incremental:topic:ps2'
   confidence: 80
@@ -48,5 +52,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

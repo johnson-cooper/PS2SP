@@ -23,21 +23,19 @@ repository:
   defaultBranch: master
   stars: 4
   forks: 0
-  lastCommit: '2026-10-16T21:55:19Z'
+  lastCommit: '2026-10-24T03:18:34Z'
 latestRelease:
-  tag: base-0.6.38
-  name: >-
-    Cenit 0.6.38 — el superbloque tiene denominador y el reporte lleva el equipo
-    medido
-  publishedAt: '2026-10-16T21:55:20Z'
-  url: 'https://github.com/HUEVOMAN77/Cenit/releases/tag/base-0.6.38'
+  tag: base-0.6.44
+  name: Cenit 0.6.44 - la cola de cuadros deja de serializar EE y GS
+  publishedAt: '2026-10-24T03:18:34Z'
+  url: 'https://github.com/HUEVOMAN77/Cenit/releases/tag/base-0.6.44'
 activity:
-  lastSynchronized: '2026-10-21T23:19:42.742Z'
+  lastSynchronized: '2026-10-24T23:14:59.347Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9c8c9ef1fb6850d6b197cae9d2239f3965443f77cdfc8fdc41837ae973692574"
-    releasesEtag: W/"395a41ee4730a8c8dc0de3782d0b87dbe757f57b66ec353261a136a4540d4226"
+    repoEtag: W/"f6e6028e7252e0961e7b26e84e9b4200d0a010359fc844fc35f56ff646c9aa96"
+    releasesEtag: W/"4913eaca579e57d59ed972bbdf684712b18933b4ef0e5f5c6de3257b9d68d1c6"
 discovery:
   method: 'incremental:topic:playstation2'
   confidence: 100

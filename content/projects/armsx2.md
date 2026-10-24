@@ -24,20 +24,20 @@ repository:
   defaultBranch: master
   stars: 1
   forks: 0
-  lastCommit: '2026-10-20T13:24:35Z'
+  lastCommit: '2026-10-23T10:08:05Z'
 latestRelease:
-  tag: 2.6.9-fork.1
-  name: ARMSX2 2.6.9-fork.1
-  publishedAt: '2026-09-13T11:24:38Z'
-  url: 'https://github.com/ilyalissoboi/ARMSX2/releases/tag/2.6.9-fork.1'
+  tag: 2.8.4-fork.1
+  name: ARMSX2 2.8.4-fork.1
+  publishedAt: '2026-10-23T11:23:52Z'
+  url: 'https://github.com/ilyalissoboi/ARMSX2/releases/tag/2.8.4-fork.1'
 activity:
   lastChecked: '2026-10-20T05:18:56.651Z'
-  lastSynchronized: '2026-10-21T23:19:39.437Z'
+  lastSynchronized: '2026-10-24T23:14:56.095Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a397d4aff21bac434f079e781d4d265a8f86b839eb5060fa3ba2e2f2450d9e45"
-    releasesEtag: W/"6703c4d37c452e646b2db0174f9d2eacae82ecfec544febafdfef80e3f86e5a2"
+    repoEtag: W/"804551764c25dcaf7453c23c0d9edea628c9f89875498f11cb63d1502af52732"
+    releasesEtag: W/"cadb067b2b5ae536f1cd0ac12c57495646579cbe0396feec9703d59a7dca0c36"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85

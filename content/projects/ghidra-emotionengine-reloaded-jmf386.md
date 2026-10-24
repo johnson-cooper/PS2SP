@@ -29,9 +29,12 @@ latestRelease:
   url: >-
     https://github.com/JMF386/ghidra-emotionengine-reloaded/releases/tag/unstable
 activity:
-  lastSynchronized: '2026-10-22T00:14:45.066Z'
+  lastSynchronized: '2026-10-24T23:15:15.993Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6013927e54581f7c4f446414c0199a1e6e2eb145de2a06fcda5c4a6b614df375"
+    releasesEtag: W/"700c005a3344e9d9701daf4fbe81009183d80473ce93536df1cb7055742d289f"
 discovery:
   method: 'fork-network:chaoticgd/ghidra-emotionengine-reloaded'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: chaoticgd/ghidra-emotionengine-reloaded
   source: chaoticgd/ghidra-emotionengine-reloaded
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

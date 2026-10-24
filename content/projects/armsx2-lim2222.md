@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-15T07:51:04Z'
   url: 'https://github.com/lim2222/ARMSX2/releases/tag/TaikoV1.0'
 activity:
-  lastSynchronized: '2026-10-21T23:19:38.422Z'
+  lastSynchronized: '2026-10-24T23:14:55.080Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b89dd315c475b8e67ee7286741db16d153abbd514711a512ff3884ca72bd91cc"
-    releasesEtag: W/"00e60f84eea5aee2afa9c6c7a2ed3b5778f82c146400f868960df4053786f672"
+    repoEtag: W/"36227103177618d13459201b9996091dd03d0330f43e2eabdd239c31c1a10881"
+    releasesEtag: W/"5267743b45db2b065427ad474db200654168d48bd9799305de05640ee476129d"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

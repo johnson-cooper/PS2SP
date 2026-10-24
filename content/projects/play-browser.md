@@ -26,20 +26,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-21T08:52:43Z'
+  lastCommit: '2026-10-24T12:26:58Z'
 latestRelease:
-  tag: v2026.09.03-5
-  name: play-browser-2026.09.03-5
-  publishedAt: '2026-10-21T08:52:44Z'
-  url: 'https://github.com/geklactus/play-browser/releases/tag/v2026.09.03-5'
+  tag: v2026.09.03-7
+  name: play-browser-2026.09.03-7
+  publishedAt: '2026-10-24T12:26:58Z'
+  url: 'https://github.com/geklactus/play-browser/releases/tag/v2026.09.03-7'
 activity:
   lastChecked: '2026-10-20T05:18:56.651Z'
-  lastSynchronized: '2026-10-21T23:20:38.912Z'
+  lastSynchronized: '2026-10-24T23:15:55.779Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4f0820b7bd3cc358c38d81b490edd83e083a4d979b37690551a035985175f2a0"
-    releasesEtag: W/"ea970393908803265cb2fe6a74579cf263323b8f016d5323d5e96a0a5c9df40d"
+    repoEtag: W/"7b2cbda907973c90828cc6aad399bf9bfffdb6446ff1f54622f898e981176366"
+    releasesEtag: W/"5bf309df8831e19c38f63f0f592644e9cf34efe059b038f0ab2c9cc6b024061d"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

@@ -22,21 +22,21 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 1
-  lastCommit: '2026-10-21T16:41:05Z'
+  lastCommit: '2026-10-24T09:06:32Z'
 latestRelease:
-  tag: nightly-2026-10-21
-  name: 'Nightly 2026-10-21 (1ad1a184, made 2026-10-20 11:53 CEST)'
-  publishedAt: '2026-10-21T09:24:27Z'
+  tag: nightly-2026-10-24
+  name: 'Nightly 2026-10-24 (6c576f00, made 2026-10-24 08:50 CEST)'
+  publishedAt: '2026-10-24T09:06:33Z'
   url: >-
-    https://github.com/ToolAssisted-run/chimera-core-pcsx2/releases/tag/nightly-2026-10-21
+    https://github.com/ToolAssisted-run/chimera-core-pcsx2/releases/tag/nightly-2026-10-24
 activity:
   lastChecked: '2026-09-29T00:28:45.721Z'
-  lastSynchronized: '2026-10-21T23:19:43.204Z'
+  lastSynchronized: '2026-10-24T23:15:00.006Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"aa267ff5b59dce2d9bdd8f5c7a80bec2a44472a28644ea59560a24e82cf154cf"
-    releasesEtag: W/"ff03af84744b5cbc72c1e559cc82bd9c954b23e98638d2dc42a37e7e88ad62f2"
+    repoEtag: W/"1623eec442223f79fc03beff1d0c897d80ce7a807a838d5d57b3f0ded3c20ac0"
+    releasesEtag: W/"2224e32f97fa64c1f32e55cb806f5b69bced5a757429ad6ec0b33c4f0715ce79"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 90
