@@ -22,19 +22,19 @@ repository:
   defaultBranch: master
   stars: 5
   forks: 0
-  lastCommit: '2026-10-19T13:51:55Z'
+  lastCommit: '2026-10-21T10:38:03Z'
 latestRelease:
   tag: v0.1.0-alpha
   name: v0.1.0-alpha — NOT PLAYABLE
   publishedAt: '2026-10-15T19:29:40Z'
   url: 'https://github.com/Gui-Tora/dmc-recomp/releases/tag/v0.1.0-alpha'
 activity:
-  lastSynchronized: '2026-10-19T14:41:11.806Z'
+  lastSynchronized: '2026-10-24T14:33:36.067Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1e6dac65bca1f3f33cd811390884677dcf3d79fec26d686254879c39a2e0c2f8"
-    releasesEtag: W/"2161f482aac2846c15d6d961bd0f0a26b77c7fadddcb7fbe25aae523c738d3e0"
+    repoEtag: W/"be228da69580b604f5c146d42c98630946f9e6b7ef673d03dcd2668c56a4f5fd"
+    releasesEtag: W/"68f31329a144cfe6f99fc7d0ef75235f43bf041d68ee8bdb138f5d2d32749def"
 discovery:
   method: 'incremental:topic:ps2'
   confidence: 100

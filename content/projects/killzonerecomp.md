@@ -20,8 +20,8 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 96
-  forks: 3
+  stars: 115
+  forks: 4
   lastCommit: '2026-10-22T14:24:12Z'
 latestRelease:
   tag: v0.1.3-alpha
@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2026-10-22T14:24:18Z'
   url: 'https://github.com/drakolordx7/KillzoneRecomp/releases/tag/v0.1.3-alpha'
 activity:
-  lastSynchronized: '2026-10-22T19:31:00.901Z'
+  lastSynchronized: '2026-10-24T14:33:54.297Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ee057abbce98666eabcda210c325af8ad4efa69ba34df70353e78372b97656ba"
+    releasesEtag: W/"3c425883c028cfa972b90fc2d0486fb26a197c937837603de35e03820eaf087f"
 discovery:
   method: pending-recheck
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

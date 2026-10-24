@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2024-07-08T09:40:08Z'
   url: 'https://github.com/AKuHAK/PMAP/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-19T14:42:08.782Z'
+  lastSynchronized: '2026-10-24T14:34:35.194Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b9389da5b817d8e9d67dacda57366a74961ed320b7532a224f3aa225fc166b6d"
-    releasesEtag: W/"f2e6589c77018ec9d3679ae6a44cf7e782a5f935f20fb06d5a1c49e6797061ef"
+    repoEtag: W/"d8980dd81767be17af4b33080e1ae762f8ee8b00b103d8d06bcb4fc59a9ba1d0"
+    releasesEtag: W/"d563eb0c1dc4d10b19dc054b76ba3e5959b8a232da16a323b377038fe5a870af"
 discovery:
   method: 'fork-network:ps2homebrew/PMAP'
   confidence: 95

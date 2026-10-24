@@ -18,8 +18,8 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 256
-  forks: 21
+  stars: 260
+  forks: 22
   lastCommit: '2026-10-04T23:45:34Z'
 latestRelease:
   tag: v2.1.38
@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/chaoticgd/ghidra-emotionengine-reloaded/releases/tag/v2.1.38
 activity:
-  lastSynchronized: '2026-10-19T14:41:21.809Z'
+  lastSynchronized: '2026-10-24T14:33:46.209Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"280d640bf88d711087e661f0bf7750e46d44956c111664ed833717948b7460ae"
-    releasesEtag: W/"fe1894e642f0f37d7e60c48774fadd506a53871a1e27566d5711016475e2c5a8"
+    repoEtag: W/"143b1b8a643b058b07fe566e3758cace8138736b6f9679b36c04eb43c097b6be"
+    releasesEtag: W/"0d6910b65197f377d8e3413262def5a1f6fb72e37c129ec2cb9486cdcae1961e"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

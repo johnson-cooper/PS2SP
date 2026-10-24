@@ -22,19 +22,24 @@ source:
   url: 'https://github.com/NickPlexus/ratchet-deadlocked-gladiator-ps4'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-20T01:18:08Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.0.0
+  name: v1.0.0 — Playable Deadlocked / Gladiator
+  publishedAt: '2026-10-19T23:59:16Z'
+  url: >-
+    https://github.com/NickPlexus/ratchet-deadlocked-gladiator-ps4/releases/tag/v1.0.0
 activity:
   lastChecked: '2026-10-20T05:18:56.651Z'
+  lastSynchronized: '2026-10-24T14:35:13.783Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"3df54c583fd4580b599a06907863c570c49713ec42fa340de302831fc465569c"
+    releasesEtag: W/"e19c54d62a405235ad7c155ecfe0e02e34334c64093832e6c5e7aca35811fd17"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80
@@ -47,5 +52,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

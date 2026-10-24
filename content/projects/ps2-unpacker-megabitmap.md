@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-19T14:42:18.310Z'
+  lastSynchronized: '2026-10-24T14:34:44.683Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"594a8b7c905dda8a4f64e8772b2a5eb406ba6b48f013d9393a099b9c93c3eb42"
-    releasesEtag: '"1474211309c9dbcbb93bb9a0d25d66c80bd12d58effff574e673d3f6cebe58ae"'
+    repoEtag: W/"804d923d8976f51b009cff7b38c7f39a6fb6093774264d0677a79d94d81a9771"
+    releasesEtag: '"94fbc3dfdcacf1e254cfcd39aeb7e8fce35a0ed1d132095cc974e5c6a70b4c5e"'
 discovery:
   method: 'fork-network:ps2homebrew/ps2-unpacker'
   confidence: 95

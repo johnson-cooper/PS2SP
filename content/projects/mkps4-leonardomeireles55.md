@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T01:59:06.038Z'
+  lastSynchronized: '2026-10-24T14:34:03.834Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1b9d976ef8f05d5c70c8815d63e62bc0c18b0fd56813be184f8f83212432085c"
+    releasesEtag: '"94fbc3dfdcacf1e254cfcd39aeb7e8fce35a0ed1d132095cc974e5c6a70b4c5e"'
 discovery:
   method: 'fork-network:ecklf/mkps4'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: ecklf/mkps4
   source: ecklf/mkps4
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

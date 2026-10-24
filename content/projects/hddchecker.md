@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/ps2homebrew/HDDChecker/releases/tag/v0.964'
 activity:
   lastChecked: '2026-09-29T00:27:03.255Z'
-  lastSynchronized: '2026-10-19T14:41:24.879Z'
+  lastSynchronized: '2026-10-24T14:33:49.186Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"943a9f12213a221c8444cc076b382c3003e8c2fc2f53679bbaf4d8ab22a543c5"
-    releasesEtag: W/"e94b2f0020f5c09de497284e85d7a2dc6f739ed50935ed7f90b7e0b3949cc677"
+    repoEtag: W/"4c340380c657c28988912849d4169dce3fc7511f4d31a40135f814aa959534c5"
+    releasesEtag: W/"5c6c1e2716a6d2c26fc010cca01ef1f0ad164247545a7b11cccd8ea2d53b68ef"
 discovery:
   method: curated
   confidence: 100

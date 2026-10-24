@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 240
+  stars: 241
   forks: 28
   lastCommit: '2026-10-07T21:11:49Z'
 latestRelease:
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/izzy2lost/PSX2/releases/tag/1.3.1'
 activity:
   lastChecked: '2026-10-07T22:16:51.969Z'
-  lastSynchronized: '2026-10-19T14:42:45.166Z'
+  lastSynchronized: '2026-10-24T14:35:11.193Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d94421483c729ea36dbf556aad30b9dd27682fe50f99344cab23fd5a14014cbb"
-    releasesEtag: W/"c652b1039230c44ea7c81ee01b844a222100d1075d54456ca8adc43e51eee3b9"
+    repoEtag: W/"b4184f2a60b22747b3311ef49af2424f0ab7040aae90d4da77098b22d6361394"
+    releasesEtag: W/"947ffccad673d58a7303b7295e0f2cd1d75ddb963dc5f02471dac68bd8392c5b"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

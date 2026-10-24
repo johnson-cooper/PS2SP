@@ -33,12 +33,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-08T22:28:32.502Z'
-  lastSynchronized: '2026-10-19T14:41:09.073Z'
+  lastSynchronized: '2026-10-24T14:33:33.501Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"34d8ef712e098b998d164554df89103bdee7bef2b3cdb034007f106203929466"
-    releasesEtag: '"1474211309c9dbcbb93bb9a0d25d66c80bd12d58effff574e673d3f6cebe58ae"'
+    repoEtag: W/"9b3240824afc530854ddde91ef37efaa4f749fa59c32297e90b3e310de57c042"
+    releasesEtag: '"94fbc3dfdcacf1e254cfcd39aeb7e8fce35a0ed1d132095cc974e5c6a70b4c5e"'
 discovery:
   method: 'pending-promotion:incremental:"ps2 port" in:name,description,readme'
   confidence: 75

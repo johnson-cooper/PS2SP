@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-21T12:26:22.872Z'
+  lastSynchronized: '2026-10-24T14:33:30.650Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b715ed0cdc5cc5d27260b7f49123326afa888f3068e33ea0bf2f39355c1317bd"
+    releasesEtag: '"94fbc3dfdcacf1e254cfcd39aeb7e8fce35a0ed1d132095cc974e5c6a70b4c5e"'
 discovery:
   method: 'fork-network:Purplesmaug96/Butterscotch'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: Purplesmaug96/Butterscotch
   source: ButterscotchRunner/Butterscotch
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
