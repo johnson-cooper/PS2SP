@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-07T19:11:47Z'
   url: 'https://github.com/PixeliGer/OrbitOPL-Toolbox/releases/tag/nightly-rc'
 activity:
-  lastSynchronized: '2026-10-20T11:37:37.964Z'
+  lastSynchronized: '2026-10-24T11:01:01.053Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1fc8c6980d86b87dab549736837f7d0f34cc01c86869503c926f94641c3eb332"
-    releasesEtag: W/"8d9ab17ef48ea16260f60174478c1ac6b2dbbee7a72eafb4563836dd4219e772"
+    repoEtag: W/"aba00c1fbe941b1f15a790a6dd14353efb897361d06bbf2dec39ace138b50a0d"
+    releasesEtag: W/"f170f25bdba0367467837a40ff4c8321b7d01863773ba3b120773bb8a18e0d6c"
 discovery:
   method: 'fork-network:Luden02/OrbitPS2-Manager'
   confidence: 95

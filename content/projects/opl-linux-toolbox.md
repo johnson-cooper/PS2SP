@@ -28,12 +28,12 @@ latestRelease:
   url: 'https://github.com/lucasonline0/opl-linux-toolbox/releases/tag/v1.4.2'
 activity:
   lastChecked: '2026-09-29T00:27:26.188Z'
-  lastSynchronized: '2026-10-20T11:37:35.289Z'
+  lastSynchronized: '2026-10-24T11:00:58.633Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"983e272cda90fe034e727ec908e4fccc2d51ee5ed1a08a83f9f47838edf35434"
-    releasesEtag: W/"22820a8dfe236683f16905cf65597216ba8c27e7e9ae67c053b2baa03d83802f"
+    repoEtag: W/"d5b67a4abe289ecffe92c27825aea59a92ed099b53a6722fce422d6fcb11e127"
+    releasesEtag: W/"3fb24dbf2c385281eca030caf70cb3ad61ce9184ae06235ff88d05de4a178b9d"
 discovery:
   method: github-search
   confidence: 100

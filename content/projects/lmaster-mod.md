@@ -10,7 +10,7 @@ tags:
   - prerelease-only
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -19,19 +19,24 @@ source:
   url: 'https://github.com/NexxusDrakoMultimedia/LMASTER-Mod'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-24T04:41:14Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.1.0-beta.1
+  name: LMASTER Mod 0.1.0-beta.1 (testing)
+  publishedAt: '2026-10-24T04:41:17Z'
+  url: >-
+    https://github.com/NexxusDrakoMultimedia/LMASTER-Mod/releases/tag/v0.1.0-beta.1
 activity:
   lastChecked: '2026-10-24T07:36:20.803Z'
+  lastSynchronized: '2026-10-24T11:00:39.177Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b03f84df958ff54625bf831693c3da8de5bef848e672bcf628a58745285388bb"
+    releasesEtag: W/"90f7cf9f69380b03a108806fbfe04bbb6b1c531c47d16be324143bceb9c468b1"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -44,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

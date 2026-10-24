@@ -15,28 +15,28 @@ license: MIT
 homepage: null
 source:
   provider: github
-  repository: daino-selvatico/rac1-native-game
+  repository: RAC-Native/rac1-native-game
   repositoryId: '1412488655'
   url: 'https://github.com/daino-selvatico/rac1-native-game'
 repository:
   archived: false
   defaultBranch: main
-  stars: 70
-  forks: 5
-  lastCommit: '2026-10-19T21:57:52Z'
+  stars: 74
+  forks: 6
+  lastCommit: '2026-10-22T15:58:35Z'
 latestRelease:
   tag: v0.4.0
   name: 'rac1-native 0.4.0: bug fixes, and almost all of the code ported'
   publishedAt: '2026-10-18T14:25:41Z'
-  url: 'https://github.com/daino-selvatico/rac1-native-game/releases/tag/v0.4.0'
+  url: 'https://github.com/RAC-Native/rac1-native-game/releases/tag/v0.4.0'
 activity:
   lastChecked: '2026-10-12T16:07:57.694Z'
-  lastSynchronized: '2026-10-20T11:38:19.171Z'
+  lastSynchronized: '2026-10-24T11:01:44.824Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"96dd6ed32b1110a82d857e7ade23b58ee403b993e5953ef28adee6ce112bef4f"
-    releasesEtag: W/"a92c7ee64e41d5b5c4cb22b9dd7d1ec7493f89f6713e93988f9ff629ca757580"
+    repoEtag: W/"7f2644ec0d22b78136a7d4aa091643b3b7ae122a4c4e8626887705c32d0edc73"
+    releasesEtag: W/"ace82dee70b7026b838df2eae4d751e0ff59acb5c44dac214f2de04a55f5e882"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
