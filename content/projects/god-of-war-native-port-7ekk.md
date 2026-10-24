@@ -24,16 +24,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-18T20:40:40Z'
+  lastCommit: '2026-10-19T00:59:54Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-18T23:40:09.758Z'
+  lastSynchronized: '2026-10-24T05:54:39.387Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"79bf28a6b81c92965c8d42a3437eb3cdc9f674ae6496b2ded8450fd399cb60e5"
+    releasesEtag: '"6651f0a326fe50ee327dca388d5c531714ef939da31569d651d528b162d31cc1"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: Waffle565/God-Of-War-Native-Port
   source: Waffle565/God-Of-War-Native-Port
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

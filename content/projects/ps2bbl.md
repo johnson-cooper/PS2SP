@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 207
+  stars: 206
   forks: 19
   lastCommit: '2026-03-02T20:20:47Z'
 latestRelease:
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/israpps/PlayStation2-Basic-BootLoader/releases/tag/v1.2.0'
 activity:
   lastChecked: '2026-09-29T00:27:10.134Z'
-  lastSynchronized: '2026-10-18T05:55:15.399Z'
+  lastSynchronized: '2026-10-24T05:55:29.331Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7e5c8069581f4bb07d1530c6d09a6c5499bc7cd3c275e3f4bc5c01bbec84dce0"
-    releasesEtag: W/"81f0697292ba674f6827f57be579079caf9d574fbe60992cd7da3fb7365a5fb6"
+    repoEtag: W/"0f2f190358fa88b9ce3276cd35ec2437430718f2b6253196d7ef1495b4b09715"
+    releasesEtag: W/"05c11aa9b27f181c340d0649c30efc778abd6da3a26b8b46df6817e0dffe65f5"
 discovery:
   method: curated
   confidence: 100

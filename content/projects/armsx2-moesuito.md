@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-08-06T18:32:08Z'
   url: 'https://github.com/moesuito/ARMSX2/releases/tag/2.6.7.1'
 activity:
-  lastSynchronized: '2026-10-20T22:40:16.620Z'
+  lastSynchronized: '2026-10-24T05:54:22.165Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d36faf41f58b1c122a072d3e8d7f0c368d35e6ff8a4192b3541efe0fab2634af"
+    releasesEtag: W/"6be7ac499e20f1373f4f515c072a221abb244ab47c0c301da275fcaa67ea2e1b"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: ARMSX2/ARMSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

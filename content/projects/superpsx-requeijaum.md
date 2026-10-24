@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-19T20:43:09.186Z'
+  lastSynchronized: '2026-10-24T05:55:57.218Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7b40152d540553ea36327a44bc86dacc384373053d62c57b631b94479a34fbbd"
+    releasesEtag: '"6651f0a326fe50ee327dca388d5c531714ef939da31569d651d528b162d31cc1"'
 discovery:
   method: 'fork-network:AKuHAK/superpsx'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: AKuHAK/superpsx
   source: frangarcj/superpsx
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

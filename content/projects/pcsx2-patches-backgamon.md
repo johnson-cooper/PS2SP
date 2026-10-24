@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2024-03-05T09:54:36Z'
   url: 'https://github.com/backgamon/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-18T05:54:55.004Z'
+  lastSynchronized: '2026-10-24T05:55:11.690Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5463952deef302fcddd095c1cdbdbb4d4aa1bd0f6ed13077ca21d874298660cf"
-    releasesEtag: W/"ccc1ec2cacbbddc9335cb0e1078a2c9080b24cddeaa629fb3f713c3977d8e9f7"
+    repoEtag: W/"b15cf0f05d2bd4706ae39cfcc0ec7d6d64c667035f5c108262a62c78948b4131"
+    releasesEtag: W/"6df617b6119f7a2f875de2e0dc0c489ce7575b848fb54cc87115e3e570de34eb"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95

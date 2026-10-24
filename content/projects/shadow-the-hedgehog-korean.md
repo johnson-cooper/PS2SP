@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-10-06T08:42:10Z'
   url: 'https://github.com/nonunsaram/shadow-the-hedgehog-korean/releases/tag/v0.2'
 activity:
-  lastSynchronized: '2026-10-18T05:55:45.007Z'
+  lastSynchronized: '2026-10-24T05:55:55.222Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e31bf054401067fdb6b42eff7ad67022f8915e0167a5adf81e1fcd7086a494b7"
-    releasesEtag: W/"ca7d63823a68817c1a94fdb51b16d2e780db5cad55ea31a12605e3575917c096"
+    repoEtag: W/"423bcab851ae6495660d55d337f525343dc1c258a05f155e3b7a39d359346a3a"
+    releasesEtag: W/"3ff6f5ee84dbd7d8222585a75230bb0934de04182bc1e0a509349797b1ef7c57"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

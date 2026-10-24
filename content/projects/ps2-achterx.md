@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-18T05:55:03.454Z'
+  lastSynchronized: '2026-10-24T05:55:19.306Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f5496d6b292dfc6c0c593f5baa2d4fc44a7316a944d81b4d904ba8266cab4269"
-    releasesEtag: '"53e1ce7a7588de96165064ab591fb75cafed13b2912a398801a5356c31241576"'
+    repoEtag: W/"38c29effa593b05686a3f60c74f0b86b68b4dc0fd6819b3125d9bd03170a858b"
+    releasesEtag: '"6651f0a326fe50ee327dca388d5c531714ef939da31569d651d528b162d31cc1"'
 discovery:
   method: 'fork-network:warmenhoven/ps2'
   confidence: 95

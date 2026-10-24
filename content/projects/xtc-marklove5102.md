@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-20T22:40:16.620Z'
+  lastSynchronized: '2026-10-24T05:56:09.935Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f2fb6f7b7c6569f4f751ee06c5738fecea29386c0538125073d68ef9e302a5ef"
+    releasesEtag: '"6651f0a326fe50ee327dca388d5c531714ef939da31569d651d528b162d31cc1"'
 discovery:
   method: 'fork-network:aap/xtc'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: aap/xtc
   source: aap/xtc
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

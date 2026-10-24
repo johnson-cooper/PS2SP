@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-18T05:55:52.028Z'
+  lastSynchronized: '2026-10-24T05:56:02.039Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"47d2f672df20b35eee0d351dc561365a0f706d063805a7d107d28d3aa72d4672"
-    releasesEtag: '"53e1ce7a7588de96165064ab591fb75cafed13b2912a398801a5356c31241576"'
+    repoEtag: W/"f7f4fdb6c987380f404b75fc6f22ad95e6aade6027342cd5e5c02c6fdcc73390"
+    releasesEtag: '"6651f0a326fe50ee327dca388d5c531714ef939da31569d651d528b162d31cc1"'
 discovery:
   method: 'fork-network:MegaBitmap/UDPBD-for-XEBP'
   confidence: 100

@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T01:59:06.038Z'
+  lastSynchronized: '2026-10-24T05:54:50.323Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"df000d10c32b115604dd95d7af799a29725aa72f00a8016612a2ed1fec739c88"
+    releasesEtag: '"6651f0a326fe50ee327dca388d5c531714ef939da31569d651d528b162d31cc1"'
 discovery:
   method: 'incremental:"PS2 homebrew" in:name,description,readme'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: dnunezx/LUNA
   source: dnunezx/LUNA
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

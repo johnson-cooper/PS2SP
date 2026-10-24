@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-18T05:55:02.285Z'
+  lastSynchronized: '2026-10-24T05:55:18.344Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b880cd99af6950c12ef4e89379399beb3a376dab203ab1f61fecdaecee6fa6f1"
-    releasesEtag: '"53e1ce7a7588de96165064ab591fb75cafed13b2912a398801a5356c31241576"'
+    repoEtag: W/"ea33fb5fe442a3314997cc9d3f10bcbfba9a30df827ec47c7d291ef20985a41a"
+    releasesEtag: '"6651f0a326fe50ee327dca388d5c531714ef939da31569d651d528b162d31cc1"'
 discovery:
   method: 'fork-network:ps2homebrew/PMAP'
   confidence: 95

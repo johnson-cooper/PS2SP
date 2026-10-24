@@ -22,20 +22,19 @@ repository:
   defaultBranch: master-dev
   stars: 1
   forks: 0
-  lastCommit: '2026-10-10T19:50:53Z'
+  lastCommit: '2026-10-23T15:22:54Z'
 latestRelease:
-  tag: transport-ag-traffic-v1.0.0
-  name: transport-ag-traffic-v1.0.0
-  publishedAt: '2026-09-18T02:06:10Z'
-  url: >-
-    https://github.com/whozghiar/jak-project/releases/tag/transport-ag-traffic-v1.0.0
+  tag: v0.3.9-whozghiar.1
+  name: v0.3.9-whozghiar.1
+  publishedAt: '2026-10-22T02:00:27Z'
+  url: 'https://github.com/whozghiar/jak-project/releases/tag/v0.3.9-whozghiar.1'
 activity:
-  lastSynchronized: '2026-10-18T05:54:27.357Z'
+  lastSynchronized: '2026-10-24T05:54:44.294Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7b44fddcfa7b8004ad65cf47e93ffa14c86cd0320eec13a753c8446bf6707f4c"
-    releasesEtag: W/"0667de7b2310e06ea0cc50de673d54109ce51e1307bb2ac94814e79e0894b8c1"
+    repoEtag: W/"17133fa070c39ffceb86699a3ca3c1fc3e9099ad1c1f94c12fc6a91a1f81eb1c"
+    releasesEtag: W/"abdc9e1b69a495af75bd69215490af94f403655ac06d4ec1b5ec74b0d10be2ec"
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95

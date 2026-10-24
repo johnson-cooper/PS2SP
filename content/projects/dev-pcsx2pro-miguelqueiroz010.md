@@ -20,19 +20,19 @@ repository:
   defaultBranch: devup
   stars: 4
   forks: 0
-  lastCommit: '2026-08-26T13:29:06Z'
+  lastCommit: '2026-10-19T11:58:25Z'
 latestRelease:
   tag: v1.7.2084
   name: DEV-PCSX2PRO
   publishedAt: '2026-08-26T13:33:47Z'
   url: 'https://github.com/MiguelQueiroz010/dev-pcsx2pro/releases/tag/v1.7.2084'
 activity:
-  lastSynchronized: '2026-10-18T05:54:13.851Z'
+  lastSynchronized: '2026-10-24T05:54:31.536Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"11a84188081ed4e59add46c0014c7c560b932a83ce69d4f8e88119de483bf6a9"
-    releasesEtag: W/"e6fa9fb4ef716adac58c6161418707cf97fece102140e7af00cc8b0902becd00"
+    repoEtag: W/"f5aaaa49fafb148c755fc32af750104abcd1de07131459c85b0cee4e35edca07"
+    releasesEtag: W/"cd70e1a639db058622babd4ffe182f8639d3f728b4caec96543322ff5008c04c"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 95

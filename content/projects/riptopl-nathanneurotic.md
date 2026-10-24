@@ -17,21 +17,21 @@ source:
 repository:
   archived: false
   defaultBranch: rebuild/main
-  stars: 2
+  stars: 5
   forks: 0
-  lastCommit: '2026-10-18T03:42:26Z'
+  lastCommit: '2026-10-20T18:51:18Z'
 latestRelease:
   tag: rolling-ra
   name: RetroAchievements
   publishedAt: '2026-10-16T23:47:27Z'
   url: 'https://github.com/NathanNeurotic/RiptOPL/releases/tag/rolling-ra'
 activity:
-  lastSynchronized: '2026-10-18T05:55:42.964Z'
+  lastSynchronized: '2026-10-24T05:55:53.269Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d0d9c0b2daa203bc7caf1095fc6310f68929ba8f20284e76325fe6e3ccccd963"
-    releasesEtag: W/"d32c117f5263e9e939c2a1a64ddce6311d12d1dea94b4be442affb76b4070dba"
+    repoEtag: W/"50d919d7f11847bf788afb2e8dafaffb6d67c160bf6d6c14dde8c301502c0fed"
+    releasesEtag: W/"4af2f6f810df6dcbb0ee72f4afc9272a8e9e658efc9a3cfda4ba6c952cdf2a52"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100
