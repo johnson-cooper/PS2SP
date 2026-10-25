@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-08-16T04:40:04Z'
   url: 'https://github.com/NathanNeurotic/wLaunchELF_R3Z/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-09T16:14:24.225Z'
+  lastSynchronized: '2026-10-25T16:21:20.529Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"408c4e33a5a56694c259299be23ada0194c584c31a497029cccfd605745e887f"
-    releasesEtag: W/"48c29353311d05436e2ff5ce8839e3958d6edac12b544a37386830b0572f5f2c"
+    repoEtag: W/"3c093c4b9438f960e421e687d00a1e3a88c9f7447ae8bc320cea57d682bab69c"
+    releasesEtag: W/"b04e4ec6effd155ad175f8ca52eb21f705d59940257a2e44edb8f654948d271b"
 discovery:
   method: curated-owner
   confidence: 100

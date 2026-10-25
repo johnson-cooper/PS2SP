@@ -28,9 +28,12 @@ latestRelease:
   url: >-
     https://github.com/ygordreyer/pcsx2_patches/releases/tag/nfsu-chevron-rp5-evidence
 activity:
-  lastSynchronized: '2026-10-13T12:11:14.516Z'
+  lastSynchronized: '2026-10-25T16:20:39.698Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d033cdf43937a75a89124824fd898491df57478c5b43077719d520ab5fb40fcf"
+    releasesEtag: W/"08464c38fafb44caf6a5c1ff43c826342938511340a7121137b8695fd65278ab"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: PCSX2/pcsx2_patches
   source: PCSX2/pcsx2_patches
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

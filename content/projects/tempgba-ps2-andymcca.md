@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-03T11:41:37Z'
   url: 'https://github.com/andymcca/TempGBA-PS2/releases/tag/20261003'
 activity:
-  lastSynchronized: '2026-10-09T16:14:22.117Z'
+  lastSynchronized: '2026-10-25T16:21:17.869Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"76aba3fbbaee5928fd5bd0877dcc3abc48fe18a5f3de112ec6ce005bf7f8e921"
-    releasesEtag: W/"7691318199c5a59dc2ccd5099f61d397f3f8ddb0ed69316f037c1789656a7f3e"
+    repoEtag: W/"57dc8df14b42234fbf4772ab467ee1bd1d2adedd9f7c550cf20ce6f31104357b"
+    releasesEtag: W/"18393c763c11801180f6340d131505e7c9cac6033443d88d208b248e4a0d82f7"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

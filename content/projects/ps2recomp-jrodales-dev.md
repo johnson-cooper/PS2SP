@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: '2026-08-14T14:54:29Z'
   url: 'https://github.com/jrodales-dev/PS2Recomp/releases/tag/assets-v1'
 activity:
-  lastSynchronized: '2026-10-17T01:33:24.800Z'
+  lastSynchronized: '2026-10-25T16:20:58.868Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4341c0d60a894195309472761ee5af9aff295f502f4a8562f5b209755d15b754"
+    releasesEtag: W/"1b157bb9b0513662938059e72e7311f7c8baca44e437fc9735f46a57b6872d2a"
 discovery:
   method: 'fork-network:ran-j/PS2Recomp'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: ran-j/PS2Recomp
   source: ran-j/PS2Recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

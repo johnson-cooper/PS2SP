@@ -21,16 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-08-04T04:42:00Z'
+  lastCommit: '2026-10-19T22:31:12Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-18T11:43:27.443Z'
+  lastSynchronized: '2026-10-25T16:21:10.969Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5aad87c479f5c9006d6bebdf1e7e8afd75a847fd10c055ec6b41f84d8685b3bd"
+    releasesEtag: '"67519807a1434cc860a2f0d388408dbaadf9b95ce5d4b0732f16fb46ac9515f3"'
 discovery:
   method: 'fork-network:georgewoodall82/psx-pi-smbshare-updated'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: georgewoodall82/psx-pi-smbshare-updated
   source: toolboc/psx-pi-smbshare
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

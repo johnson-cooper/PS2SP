@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/ps2dev/ps2-packer/releases/tag/1.1.0'
 activity:
   lastChecked: '2026-09-29T00:27:09.228Z'
-  lastSynchronized: '2026-10-09T16:14:05.839Z'
+  lastSynchronized: '2026-10-25T16:20:50.087Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8db40523185a8ef3a4d1977f550ccb1f84e4582bbdcbdc9ef137a292b0859cb1"
-    releasesEtag: W/"5f008aa59dd291926e91ae3d1718346c6edf6e7e001306db87d574dcba164c18"
+    repoEtag: W/"a322a959f784e953f6c95716c55672d428618a205627f9613c0227257391f979"
+    releasesEtag: W/"3bbd5576d81e4414ece2a9b67bffa9a9b146e55d06c56ed9b590a524697c8e67"
 discovery:
   method: curated
   confidence: 100

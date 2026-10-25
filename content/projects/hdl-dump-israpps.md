@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2024-06-08T12:44:11Z'
   url: 'https://github.com/israpps/hdl-dump/releases/tag/hdlinst'
 activity:
-  lastSynchronized: '2026-10-09T16:13:29.477Z'
+  lastSynchronized: '2026-10-25T16:20:05.037Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"57b118784f407a642798cd51ed6e56d872396c05ea96a9a9a3e3be31f789d79d"
-    releasesEtag: W/"de514e2c4e51a5f9cd3d3d589ca3c1beb69a6ecd55a205054f350a157781947c"
+    repoEtag: W/"83fb12d9ee8020d801377ffb93a97dc91a50d49af1a32797e9ebd531371f8a56"
+    releasesEtag: W/"8cff3ecff6c3120518d6fe967f5fc731753a015759f01b3950b6d858ea570f3d"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

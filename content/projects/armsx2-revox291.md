@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-08-29T08:44:02Z'
   url: 'https://github.com/revox291/ARMSX2/releases/tag/nightly-20260829'
 activity:
-  lastSynchronized: '2026-10-20T22:40:16.620Z'
+  lastSynchronized: '2026-10-25T16:19:42.847Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"842411d1587e23af9def66f2c33a1da84224d46fbc27e1dda865bf8ba296d022"
+    releasesEtag: W/"ef04f8dec3c3e49344ba10ffd60664b6b44847a29db40fce2d961121b64856ed"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: ARMSX2/ARMSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

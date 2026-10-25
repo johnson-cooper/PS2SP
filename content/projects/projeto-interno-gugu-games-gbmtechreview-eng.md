@@ -35,12 +35,12 @@ latestRelease:
   url: >-
     https://github.com/gbmtechreview-eng/Projeto-Interno-GuGu-Games/releases/tag/latest
 activity:
-  lastSynchronized: '2026-10-09T16:14:00.995Z'
+  lastSynchronized: '2026-10-25T16:20:45.019Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cb0cc9191cab9a0f4c5fbc3bc7a9f7fbaf81088d7174d734a6740dd966c8fe15"
-    releasesEtag: W/"35aaa72bf6c93fd4fbef5ea4c289091d2e2dce2044f5db49d6fefa8a7f5686ea"
+    repoEtag: W/"062d9109304f57b8b33cf042adbd36c3546f72bb4a49b3479d793f96bad5be5c"
+    releasesEtag: W/"631ee14e71b3c12ec0a350e03ca9cc35d318f2cf214e34e976e749d60aa20cfc"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

@@ -20,16 +20,19 @@ repository:
   defaultBranch: master
   stars: 68
   forks: 7
-  lastCommit: '2026-10-12T01:36:03Z'
+  lastCommit: '2026-10-22T02:45:23Z'
 latestRelease:
   tag: v3.0.0
   name: v3.0.0
   publishedAt: '2026-08-24T18:18:41Z'
   url: 'https://github.com/PalindromicBreadLoaf/ARMSX2-NX/releases/tag/v3.0.0'
 activity:
-  lastSynchronized: '2026-10-20T22:40:16.620Z'
+  lastSynchronized: '2026-10-25T16:19:41.853Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a301e8ffcc923304e96bdce46e0af954954e31d266d54fca245b7edf5ac28e4b"
+    releasesEtag: W/"2ef9afa74e43caaca5e6550c911da851f0bf95850cd60bb5314457706eb9872f"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: ARMSX2/ARMSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
