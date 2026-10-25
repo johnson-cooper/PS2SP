@@ -685,18 +685,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-10-25T18:03:31.604Z",
+    "at": "2026-10-25T21:22:14.400Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 133,
+    "branchesSeen": 38,
     "branchesChanged": 0,
     "treesScanned": 0,
     "reposAdded": 0,
     "forksAdded": 0,
     "branchesAdded": 0,
     "nestedAdded": 0,
-    "requests": 77,
+    "requests": 83,
     "stoppedForBudget": false
   },
-  "queueCursor": 15
+  "queueCursor": 35
 }
