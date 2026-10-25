@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2025-05-23T22:24:10Z'
   url: 'https://github.com/synrais/nhddl/releases/tag/nightly'
 activity:
-  lastSynchronized: '2026-10-22T19:16:24.210Z'
+  lastSynchronized: '2026-10-25T19:38:12.954Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"569b05e8bce0cc2a3eebdfed18a2bf9279b95eceebef2735cdc58656267d1293"
-    releasesEtag: W/"ba38eb2b51bfb3c4f99839107ec2d0a43ae5a7626104626f3ccac3f041e69dce"
+    repoEtag: W/"6092d2f495b6e6ec6072220ba16ebcf7d98db046bde2134550d8b4e75e403790"
+    releasesEtag: W/"0934b1352c3d0c2e29d44a4f0295169f23fe6e3e7873975ab3856311a57fee7a"
 discovery:
   method: 'fork-network:pcm720/nhddl'
   confidence: 95

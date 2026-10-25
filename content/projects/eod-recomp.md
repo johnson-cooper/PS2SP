@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/pareidolico/eod-recomp/releases/tag/v1.0.2'
 activity:
   lastChecked: '2026-10-11T02:11:44.268Z'
-  lastSynchronized: '2026-10-22T19:15:50.196Z'
+  lastSynchronized: '2026-10-25T19:37:41.202Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9e1599497d82324e177badec42e1ea625c2aee8276afc88259fd6081471b8523"
-    releasesEtag: W/"68ceb56824355acccd59d55d5b8579e9ee8189e7345a5aa1b6d793729d01439c"
+    repoEtag: W/"6ba817949e24c73a4ae53c547bd29e92e533284fcbe7a109575fbe8a619056fd"
+    releasesEtag: W/"2e8cc87d86056369ab941952c608690e3dab829659ceab31b02d320f54dbc49c"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 90

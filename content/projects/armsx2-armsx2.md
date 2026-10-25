@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 2248
-  forks: 186
-  lastCommit: '2026-10-22T19:03:29Z'
+  stars: 2272
+  forks: 196
+  lastCommit: '2026-10-23T14:10:29Z'
 latestRelease:
-  tag: nightly-20261022
-  name: ARMSX2 nightly 20261022 (b276f045c6)
-  publishedAt: '2026-10-22T14:35:03Z'
-  url: 'https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20261022'
+  tag: nightly-20261023
+  name: ARMSX2 nightly 20261023 (90126bdfea)
+  publishedAt: '2026-10-23T14:10:10Z'
+  url: 'https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20261023'
 activity:
-  lastSynchronized: '2026-10-22T19:15:32.872Z'
+  lastSynchronized: '2026-10-25T19:37:26.815Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bb70a76ba8ed610f05b2aaff8ceb304b87f58472ca2af3d9340c2b0c5bf8ecb2"
-    releasesEtag: W/"8e565fe1dc31a267270f606d97db768c5f5204467e79314c3991cae7d0805e92"
+    repoEtag: W/"10d386d35be671d6ba26624f977e8f8b0e278411b5aa297a28621a54993a8120"
+    releasesEtag: W/"0bba235408b5815b6c1a53199ad09ede951e8ab2108f6bdaef900cbb9c4227e5"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

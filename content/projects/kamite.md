@@ -16,7 +16,7 @@ tags:
   - fork
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -25,10 +25,10 @@ source:
   url: 'https://github.com/kris-c-anderson/kamite'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 10
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-25T19:33:59Z'
 latestRelease:
   tag: null
   name: null
@@ -36,8 +36,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-25T10:09:09.591Z'
+  lastSynchronized: '2026-10-25T19:38:00.491Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"70b4dc94a2f2c3f54ecab2ced47573d505073a5675e0a310981a983e76f51a6d"
+    releasesEtag: '"17828022ef91e6b899139ea659c43195f157e5fe9fda163fe4cfd658085b1033"'
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -53,5 +57,4 @@ relationships:
   forkOf: LasVola/godhand-recomp
   source: LasVola/godhand-recomp
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

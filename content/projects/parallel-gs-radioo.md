@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T19:16:36.598Z'
+  lastSynchronized: '2026-10-25T19:38:23.726Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2f4b61a9355f531cc5ce63d661307403d918aad7dc2e39b2916307aceb7fa24a"
-    releasesEtag: '"b33679cef99543938486d165e96451f4443539d11787e6ae7f8cfd42561bd983"'
+    repoEtag: W/"329bc71fec06ef1c862443b43c7058fa809a43b00c5649826e56a0b14e93aaa4"
+    releasesEtag: '"17828022ef91e6b899139ea659c43195f157e5fe9fda163fe4cfd658085b1033"'
 discovery:
   method: 'fork-network:DiscoStarslayer/parallel-gs'
   confidence: 100

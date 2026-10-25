@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T19:16:20.332Z'
+  lastSynchronized: '2026-10-25T19:38:09.684Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"241c2dd67ef441b994ab934cc6845cd74f59de4a2b203f3b0a0fa33ce2b117ed"
-    releasesEtag: '"b33679cef99543938486d165e96451f4443539d11787e6ae7f8cfd42561bd983"'
+    repoEtag: W/"898a0f7705194110e4270db21f5bb7e5e2e377700336730da1c568d95cff836f"
+    releasesEtag: '"17828022ef91e6b899139ea659c43195f157e5fe9fda163fe4cfd658085b1033"'
 discovery:
   method: 'fork-network:Trixarian/NetherSX2-patch'
   confidence: 95
