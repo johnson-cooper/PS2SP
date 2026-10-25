@@ -23,20 +23,20 @@ repository:
   defaultBranch: main
   stars: 8
   forks: 0
-  lastCommit: '2026-10-18T16:01:25Z'
+  lastCommit: '2026-10-23T23:21:22Z'
 latestRelease:
-  tag: v0.28.4
-  name: MKSM Studio 0.28.4 — Xbox Workshop imports
-  publishedAt: '2026-10-18T16:00:53Z'
+  tag: v0.28.6
+  name: MKSM Studio 0.28.6
+  publishedAt: '2026-10-23T23:21:23Z'
   url: >-
-    https://github.com/OGmidway/Mortal-Kombat-Shaolin-Monks-Modding-Tool/releases/tag/v0.28.4
+    https://github.com/OGmidway/Mortal-Kombat-Shaolin-Monks-Modding-Tool/releases/tag/v0.28.6
 activity:
-  lastSynchronized: '2026-10-20T06:01:11.304Z'
+  lastSynchronized: '2026-10-25T06:11:19.934Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d59987d254630524932807cfd6dc7010ffbdedfb0a9077c4138cc622c4a5ca19"
-    releasesEtag: W/"064c4c8d1691a6a34266a07d606489b5a2aff50c05efd9d20af927ebd39a789c"
+    repoEtag: W/"65b46a8208c5ccde20715f9949d223a8d7881e5eefe820980559597989a1b834"
+    releasesEtag: W/"7260bafc402737d017d231fd9efda7b38038626ec65b81da35fb7734a57d2f83"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

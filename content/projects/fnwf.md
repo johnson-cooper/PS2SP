@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/Renan2010p/fnwf/releases/tag/v2.3.0'
 activity:
   lastChecked: '2026-09-29T00:27:45.068Z'
-  lastSynchronized: '2026-10-20T06:00:47.079Z'
+  lastSynchronized: '2026-10-25T06:10:55.718Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"160547acb333abb67ad571896af34187234017b69c1c1c46d4c4fdb56e27e556"
-    releasesEtag: W/"5096f40276f782db0ed382cf1fd7045c1b4789fd4b43e25fb9d3dcb54c19638f"
+    repoEtag: W/"463e967af191cd099d33adf95b290869ea1d610f19f2d333db20c6418378bd85"
+    releasesEtag: W/"e0d8728af935cb1f8e80bcafa7ec30450b63e5352828f66b71091cb598bc5222"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 75

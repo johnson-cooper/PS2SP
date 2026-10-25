@@ -23,10 +23,10 @@ source:
   url: 'https://github.com/erizodev/pal-outbreak-2-server'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-23T02:01:14Z'
 latestRelease:
   tag: null
   name: null
@@ -34,8 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-23T00:59:31.460Z'
+  lastSynchronized: '2026-10-25T06:11:36.406Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"43c00210dbfb31602daeb3d689fa0774b81cd444b7e7bce317b173324c6c7fe7"
+    releasesEtag: '"654d5e3e1a5a9ef9e796502c1441ef105af6f549038446c1b045c75e80cd1ac0"'
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -51,5 +55,4 @@ relationships:
   forkOf: Koosjuh/pal-outbreak-2-server
   source: Koosjuh/pal-outbreak-2-server
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

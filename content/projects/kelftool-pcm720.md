@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-20T06:01:00.615Z'
+  lastSynchronized: '2026-10-25T06:11:10.495Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"59fb666deb7b0f477a152f6fbfe5679ec11a42b26e309ccf52dd8425661f8585"
-    releasesEtag: '"beabca011d245159687fb6a685ede4790f750a2002b686c57e5bbc672bd5ded1"'
+    repoEtag: W/"35764cfac78bab357c1f3b9996df114d660d397308ad71fe6da664241e2d8f8b"
+    releasesEtag: '"654d5e3e1a5a9ef9e796502c1441ef105af6f549038446c1b045c75e80cd1ac0"'
 discovery:
   method: 'fork-network:ps2homebrew/kelftool'
   confidence: 95

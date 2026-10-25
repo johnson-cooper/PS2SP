@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-20T06:01:41.571Z'
+  lastSynchronized: '2026-10-25T06:11:45.441Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"81c2ff4c530d1b6d1cd94a4ee5297515c70a30392329adaa05250cf6214eba7b"
-    releasesEtag: '"beabca011d245159687fb6a685ede4790f750a2002b686c57e5bbc672bd5ded1"'
+    repoEtag: W/"2d2c6b39b5f79997f134c0fc7e1b32fccf200c78d68c1d79fbaa659b5cac0665"
+    releasesEtag: '"654d5e3e1a5a9ef9e796502c1441ef105af6f549038446c1b045c75e80cd1ac0"'
 discovery:
   method: 'fork-network:ps2homebrew/pfsshell'
   confidence: 95

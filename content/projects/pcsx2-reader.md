@@ -24,7 +24,7 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-16T12:53:16Z'
+  lastCommit: '2026-10-21T02:15:45Z'
 latestRelease:
   tag: v0.2.0
   name: PCSX2 Reader 0.2.0
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/sommepo/pcsx2-reader/releases/tag/v0.2.0'
 activity:
   lastChecked: '2026-10-14T18:54:17.306Z'
-  lastSynchronized: '2026-10-20T06:01:39.882Z'
+  lastSynchronized: '2026-10-25T06:11:44.059Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3b7b6bcf6c4d5511b150f5de2aa3a7c8a8689a0e6ba7deaf065e18c37e858c31"
-    releasesEtag: W/"bb98cef7be223b3375e4a0df3b2861e84eb48326b1f1ba68d512c84511428f84"
+    repoEtag: W/"b1295fd24de97cc46342f986d41f1ba995f6c6ea2ce8dbf159acecac8d8d2b4a"
+    releasesEtag: W/"47c765745bfe4b1b224c3e27f6dc4939e314d555a2476d308c9a87bb17f57229"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

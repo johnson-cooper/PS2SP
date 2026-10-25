@@ -20,16 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-22T10:19:30Z'
+  lastCommit: '2026-10-23T09:45:53Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T10:39:06.591Z'
+  lastSynchronized: '2026-10-25T06:10:42.146Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"379653424295dc903fb7c8b67c63e4d0510c1430b4e1e51b25c780b6e71aef9b"
+    releasesEtag: '"654d5e3e1a5a9ef9e796502c1441ef105af6f549038446c1b045c75e80cd1ac0"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: ARMSX2/ARMSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

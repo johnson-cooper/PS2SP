@@ -19,7 +19,7 @@ repository:
   archived: false
   defaultBranch: input-enhancements
   stars: 0
-  forks: 0
+  forks: 1
   lastCommit: '2026-07-15T18:37:07Z'
 latestRelease:
   tag: input-enhancements-20260716-462be68eb
@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/JackerGamer/PCSX2/releases/tag/input-enhancements-20260716-462be68eb
 activity:
-  lastSynchronized: '2026-10-20T06:01:34.013Z'
+  lastSynchronized: '2026-10-25T06:11:39.270Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b78c053f0ea227f3f94f9b53eba09c4976c12457b4dd68b37f23f14e3bd0062b"
-    releasesEtag: W/"c3ba56fbb29135d6e7d7502b71fb3cddfaedfb2ec27f24136263af2de3f434d9"
+    repoEtag: W/"4d856c5206a5ceef1c00c8e4ed8572f839faf06055cf5268c6a78783b7a2efe4"
+    releasesEtag: W/"efcc199b85ced5d1a57b9ee3e74f1ece01e9637e354a35237ddc4e1973a5a692"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

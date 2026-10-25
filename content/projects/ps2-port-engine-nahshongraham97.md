@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-23T23:30:39.239Z'
+  lastSynchronized: '2026-10-25T06:11:58.406Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ff369478674a375890633c718a5904fe74bae8119591624245bb4652b8abcdce"
+    releasesEtag: '"654d5e3e1a5a9ef9e796502c1441ef105af6f549038446c1b045c75e80cd1ac0"'
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: danielgomesvieira2000/ps2-port-engine
   source: danielgomesvieira2000/ps2-port-engine
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

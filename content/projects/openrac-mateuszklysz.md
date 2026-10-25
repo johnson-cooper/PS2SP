@@ -25,21 +25,21 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-19T16:52:41Z'
+  lastCommit: '2026-10-25T06:03:19Z'
 latestRelease:
-  tag: launcher-dev-feature-android-support
-  name: OpenRAC Launcher 0.8.0-dev.38 (feature/android-support)
-  publishedAt: '2026-10-18T17:46:15Z'
+  tag: launcher-dev-feature-launcher-logo
+  name: v0.8.5-dev.53 (feature/launcher-logo)
+  publishedAt: '2026-10-24T20:01:12Z'
   url: >-
-    https://github.com/mateuszklysz/OpenRAC/releases/tag/launcher-dev-feature-android-support
+    https://github.com/mateuszklysz/OpenRAC/releases/tag/launcher-dev-feature-launcher-logo
 activity:
   lastChecked: '2026-10-13T19:32:43.126Z'
-  lastSynchronized: '2026-10-20T06:01:24.328Z'
+  lastSynchronized: '2026-10-25T06:11:31.731Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"eb4535d24549a539afb0fcedfb7728e0614a0632bed432c9fc3f4c15d664a010"
-    releasesEtag: W/"e9a72fd774b82ff68f752feb26bb70bd05c8e33f89dbd81d3f5c47608a300f0a"
+    repoEtag: W/"521303851f0b2c0bc55465436c2dd12035e8f452bb339cdbe11da0547358a94c"
+    releasesEtag: W/"f6712ce979fee128ee4e45eb0cba264c341810ba5e7208af8aeaf3deb131b07b"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

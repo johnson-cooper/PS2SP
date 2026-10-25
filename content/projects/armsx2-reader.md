@@ -24,7 +24,7 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-16T12:57:51Z'
+  lastCommit: '2026-10-21T00:44:53Z'
 latestRelease:
   tag: v0.2.0
   name: ARMSX2 Reader 0.2.0
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/sommepo/armsx2-reader/releases/tag/v0.2.0'
 activity:
   lastChecked: '2026-10-14T18:54:17.306Z'
-  lastSynchronized: '2026-10-20T06:00:34.856Z'
+  lastSynchronized: '2026-10-25T06:10:43.126Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"10687d50bf590bbb814680df7a854f097d30256ddef7b05ae8aaeabeec15edb7"
-    releasesEtag: W/"98e3e9a7706939b8685339d2d58161c473f7c8f3e224f24672d01ebf618e8cba"
+    repoEtag: W/"d3288e696fc697aaa2f75f0a60e6cf888c9bc3fc347d60ef4b61536f7aa8e960"
+    releasesEtag: W/"0dd629b27d4ed55edf3fb4b05e741a6e41ee86251a93a9883a6a0eb3a5e9f9ac"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2024-12-26T15:37:38Z'
   url: 'https://github.com/zyebytevt/Open-PS2-Loader-ARP-Table/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-20T06:01:17.687Z'
+  lastSynchronized: '2026-10-25T06:11:25.844Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"da0f366c7e681dd53e45d9d9c1342d6e58c2cce050d914d1b1fab41aadf68b2e"
-    releasesEtag: W/"79f9ee1b79a2714de8b162a78ce0c08e708294c0a714eaf1bdbe959b85856e1f"
+    repoEtag: W/"8199fa26704404f46c632219e7fb8552c3d601c720998fa6c30827df869f0fe0"
+    releasesEtag: W/"a3e3a61c407aaa440e7e09bffae7945d19fafc3b5d15b8fc7ba52989aabb237d"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100
