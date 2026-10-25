@@ -3917,6 +3917,19 @@
         ]
       },
       {
+        "name": "adlt3ch/ps2 — branch: libretroization",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "adlt3ch/ps2",
+          "libretroization"
+        ]
+      },
+      {
         "name": "AdrianRoger/ps2-covers — branch: main",
         "url": "https://github.com/AdrianRoger/ps2-covers/tree/main",
         "keywords": [
@@ -12055,6 +12068,19 @@
         ]
       },
       {
+        "name": "AKuHAK/ps2dev_forwarder — branch: master",
+        "url": "https://github.com/AKuHAK/ps2dev_forwarder/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2dev_forwarder",
+          "master"
+        ]
+      },
+      {
         "name": "AKuHAK/YADE — branch: 3.00j",
         "url": "https://github.com/AKuHAK/YADE/tree/3.00j",
         "keywords": [
@@ -12831,6 +12857,19 @@
           "branch",
           "repository",
           "allkatran/Funtuna-Fork",
+          "main"
+        ]
+      },
+      {
+        "name": "allkatran/PlayStation2-Basic-BootLoader — branch: main",
+        "url": "https://github.com/allkatran/PlayStation2-Basic-BootLoader/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "allkatran/PlayStation2-Basic-BootLoader",
           "main"
         ]
       },
@@ -14928,6 +14967,32 @@
         ]
       },
       {
+        "name": "arobins/PlayStation2-Basic-BootLoader — branch: exfat",
+        "url": "https://github.com/arobins/PlayStation2-Basic-BootLoader/tree/exfat",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "arobins/PlayStation2-Basic-BootLoader",
+          "exfat"
+        ]
+      },
+      {
+        "name": "arobins/PlayStation2-Basic-BootLoader — branch: main",
+        "url": "https://github.com/arobins/PlayStation2-Basic-BootLoader/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "arobins/PlayStation2-Basic-BootLoader",
+          "main"
+        ]
+      },
+      {
         "name": "Arthrimus/FreeDVDBoot-AIO — branch: master",
         "url": "https://github.com/Arthrimus/FreeDVDBoot-AIO/tree/master",
         "keywords": [
@@ -15123,6 +15188,19 @@
         ]
       },
       {
+        "name": "asmblur/ps2dev-docker — branch: master",
+        "url": "https://github.com/asmblur/ps2dev-docker/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "asmblur/ps2dev-docker",
+          "master"
+        ]
+      },
+      {
         "name": "asommer70/pfsshell — branch: master",
         "url": "https://github.com/asommer70/pfsshell/tree/master",
         "keywords": [
@@ -15133,6 +15211,19 @@
           "repository",
           "asommer70/pfsshell",
           "master"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2 — branch: libretroization",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "aStenciledBee/ps2",
+          "libretroization"
         ]
       },
       {
@@ -15406,6 +15497,32 @@
           "repository",
           "Audirvana/libsmb2",
           "master"
+        ]
+      },
+      {
+        "name": "awaken1ng/PlayStation2-Basic-BootLoader — branch: main",
+        "url": "https://github.com/awaken1ng/PlayStation2-Basic-BootLoader/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "awaken1ng/PlayStation2-Basic-BootLoader",
+          "main"
+        ]
+      },
+      {
+        "name": "awaken1ng/PlayStation2-Basic-BootLoader — branch: osd-init",
+        "url": "https://github.com/awaken1ng/PlayStation2-Basic-BootLoader/tree/osd-init",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "awaken1ng/PlayStation2-Basic-BootLoader",
+          "osd-init"
         ]
       },
       {
@@ -15731,6 +15848,19 @@
           "repository",
           "azkadev/AthenaEnv",
           "main"
+        ]
+      },
+      {
+        "name": "azkadev/ps2dev — branch: master",
+        "url": "https://github.com/azkadev/ps2dev/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "azkadev/ps2dev",
+          "master"
         ]
       },
       {
@@ -16680,6 +16810,19 @@
           "repository",
           "bignaux/ps2-packer",
           "remove-ucl"
+        ]
+      },
+      {
+        "name": "bignaux/ps2client — branch: master",
+        "url": "https://github.com/bignaux/ps2client/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "bignaux/ps2client",
+          "master"
         ]
       },
       {
@@ -17697,6 +17840,19 @@
         ]
       },
       {
+        "name": "BloodotakuZ/Lrps2-Lockstep — branch: libretroization",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization"
+        ]
+      },
+      {
         "name": "blowfish64/mymc — branch: master",
         "url": "https://github.com/blowfish64/mymc/tree/master",
         "keywords": [
@@ -18256,6 +18412,19 @@
         ]
       },
       {
+        "name": "BoGanon/ps2client — branch: master",
+        "url": "https://github.com/BoGanon/ps2client/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "BoGanon/ps2client",
+          "master"
+        ]
+      },
+      {
         "name": "boretrk/libsmb2 — branch: master",
         "url": "https://github.com/boretrk/libsmb2/tree/master",
         "keywords": [
@@ -18581,6 +18750,19 @@
         ]
       },
       {
+        "name": "bozothegeek/ps2 — branch: libretroization",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "bozothegeek/ps2",
+          "libretroization"
+        ]
+      },
+      {
         "name": "brad0/libsmb2 — branch: cmake_openbsd",
         "url": "https://github.com/brad0/libsmb2/tree/cmake_openbsd",
         "keywords": [
@@ -18799,6 +18981,32 @@
           "repository",
           "BryanJacobs/NetherSX2-patch",
           "main"
+        ]
+      },
+      {
+        "name": "bslenul/ps2 — branch: fix-sw-with-vk",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "bslenul/ps2",
+          "fix-sw-with-vk"
+        ]
+      },
+      {
+        "name": "bslenul/ps2 — branch: libretroization",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "bslenul/ps2",
+          "libretroization"
         ]
       },
       {
@@ -19556,6 +19764,19 @@
         ]
       },
       {
+        "name": "calos9999/PlayStation2-Basic-BootLoader — branch: main",
+        "url": "https://github.com/calos9999/PlayStation2-Basic-BootLoader/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "calos9999/PlayStation2-Basic-BootLoader",
+          "main"
+        ]
+      },
+      {
         "name": "calos9999/protopwn — branch: main",
         "url": "https://github.com/calos9999/protopwn/tree/main",
         "keywords": [
@@ -19699,6 +19920,32 @@
         ]
       },
       {
+        "name": "carloid/ps2client-win-patches — branch: master",
+        "url": "https://github.com/carloid/ps2client-win-patches/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "carloid/ps2client-win-patches",
+          "master"
+        ]
+      },
+      {
+        "name": "carloid/ps2dev — branch: master",
+        "url": "https://github.com/carloid/ps2dev/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "carloid/ps2dev",
+          "master"
+        ]
+      },
+      {
         "name": "carlos123oao/AthenaEnv — branch: main",
         "url": "https://github.com/carlos123oao/AthenaEnv/tree/main",
         "keywords": [
@@ -19826,6 +20073,32 @@
           "repository",
           "carlosgonzales34731428-stack/Open-PS2-Loader",
           "v1.1.z"
+        ]
+      },
+      {
+        "name": "carlosgonzales34731428-stack/ps2dev — branch: master",
+        "url": "https://github.com/carlosgonzales34731428-stack/ps2dev/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "carlosgonzales34731428-stack/ps2dev",
+          "master"
+        ]
+      },
+      {
+        "name": "carlosgonzales34731428-stack/ps2dev — branch: updateCI",
+        "url": "https://github.com/carlosgonzales34731428-stack/ps2dev/tree/updateCI",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "carlosgonzales34731428-stack/ps2dev",
+          "updateCI"
         ]
       },
       {
@@ -231430,6 +231703,500 @@
         ]
       },
       {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/chdr",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/chdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/chdr"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/chdr/libchdr",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/chdr/libchdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/chdr/libchdr"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/cpuinfo",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/cpuinfo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/cpuinfo"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/d3d12memalloc",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/d3d12memalloc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/d3d12memalloc"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/fmt/fmt",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/fmt/fmt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/fmt/fmt",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/glad",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/glad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/glad"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/glslang",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/glslang",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/glslang"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/glslang/glslang",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/glslang/glslang",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/glslang/glslang",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/libpng",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/libpng",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/libpng"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/libzip",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/libzip"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/libzip/libzip",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/libzip/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/libzip/libzip",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/lz4",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/lz4"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/lz4/lz4",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/lz4/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/lz4/lz4"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/lz4/lz4/lib",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/lz4/lz4/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/lz4/lz4/lib"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/lzma",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/lzma"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/rapidyaml/rapidyaml",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/rapidyaml/rapidyaml",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/rapidyaml/rapidyaml",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/vulkan-headers",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/vulkan-headers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/vulkan-headers"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/vulkan-headers/tests",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/vulkan-headers/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/vulkan-headers/tests"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/vulkan-headers/tests/integration",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/vulkan-headers/tests/integration",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/vulkan-headers/tests/integration"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/wil",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/wil",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/wil",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/zlib",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/zlib"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/zlib/examples",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/zlib/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/zlib/examples"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/zstd",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/zstd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/zstd"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — 3rdparty/zstd/zstd",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/3rdparty/zstd/zstd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "3rdparty/zstd/zstd",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — common",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "common"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — libretro",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/libretro",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "libretro"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — pcsx2",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/pcsx2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "pcsx2"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — pcsx2/Docs",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/pcsx2/Docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "pcsx2/Docs"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — pcsx2/GS",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/pcsx2/GS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "pcsx2/GS"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — pcsx2/GS/parallel-gs",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/pcsx2/GS/parallel-gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "pcsx2/GS/parallel-gs",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — pcsx2/ps2/Iop",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/pcsx2/ps2/Iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "pcsx2/ps2/Iop"
+        ]
+      },
+      {
+        "name": "adlt3ch/ps2@libretroization — tools",
+        "url": "https://github.com/adlt3ch/ps2/tree/libretroization/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "adlt3ch/ps2",
+          "libretroization",
+          "tools"
+        ]
+      },
+      {
         "name": "ahmedmoselhi/HDDChecker@main — fsck",
         "url": "https://github.com/ahmedmoselhi/HDDChecker/tree/main/fsck",
         "keywords": [
@@ -309837,6 +310604,36 @@
         ]
       },
       {
+        "name": "allkatran/PlayStation2-Basic-BootLoader@main — embed",
+        "url": "https://github.com/allkatran/PlayStation2-Basic-BootLoader/tree/main/embed",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "allkatran/PlayStation2-Basic-BootLoader",
+          "main",
+          "embed"
+        ]
+      },
+      {
+        "name": "allkatran/PlayStation2-Basic-BootLoader@main — embed/iop",
+        "url": "https://github.com/allkatran/PlayStation2-Basic-BootLoader/tree/main/embed/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "allkatran/PlayStation2-Basic-BootLoader",
+          "main",
+          "embed/iop"
+        ]
+      },
+      {
         "name": "allkern/iris@iop-cached — src/ee",
         "url": "https://github.com/allkern/iris/tree/iop-cached/src/ee",
         "keywords": [
@@ -367063,6 +367860,66 @@
         ]
       },
       {
+        "name": "arobins/PlayStation2-Basic-BootLoader@exfat — embed",
+        "url": "https://github.com/arobins/PlayStation2-Basic-BootLoader/tree/exfat/embed",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "arobins/PlayStation2-Basic-BootLoader",
+          "exfat",
+          "embed"
+        ]
+      },
+      {
+        "name": "arobins/PlayStation2-Basic-BootLoader@exfat — embed/iop",
+        "url": "https://github.com/arobins/PlayStation2-Basic-BootLoader/tree/exfat/embed/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "arobins/PlayStation2-Basic-BootLoader",
+          "exfat",
+          "embed/iop"
+        ]
+      },
+      {
+        "name": "arobins/PlayStation2-Basic-BootLoader@main — embed",
+        "url": "https://github.com/arobins/PlayStation2-Basic-BootLoader/tree/main/embed",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "arobins/PlayStation2-Basic-BootLoader",
+          "main",
+          "embed"
+        ]
+      },
+      {
+        "name": "arobins/PlayStation2-Basic-BootLoader@main — embed/iop",
+        "url": "https://github.com/arobins/PlayStation2-Basic-BootLoader/tree/main/embed/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "arobins/PlayStation2-Basic-BootLoader",
+          "main",
+          "embed/iop"
+        ]
+      },
+      {
         "name": "asdlei99/FreeMcBoot-Installer@EE_SIO — 1953",
         "url": "https://github.com/asdlei99/FreeMcBoot-Installer/tree/EE_SIO/1953",
         "keywords": [
@@ -369655,6 +370512,472 @@
           "asommer70/pfsshell",
           "master",
           "pfs"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/chdr",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/chdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/chdr"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/chdr/libchdr",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/chdr/libchdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/chdr/libchdr"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/cpuinfo",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/cpuinfo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/cpuinfo"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/d3d12memalloc",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/d3d12memalloc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/d3d12memalloc"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/fmt/fmt",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/fmt/fmt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/fmt/fmt",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/glad",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/glad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/glad"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/glslang",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/glslang",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/glslang"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/glslang/glslang",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/glslang/glslang",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/glslang/glslang",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/libpng",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/libpng",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/libpng"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/libzip",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/libzip"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/libzip/libzip",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/libzip/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/libzip/libzip",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/lz4",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/lz4"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/lz4/lz4",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/lz4/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/lz4/lz4"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/lz4/lz4/lib",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/lz4/lz4/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/lz4/lz4/lib"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/lzma",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/lzma"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/rapidyaml/rapidyaml",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/rapidyaml/rapidyaml",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/rapidyaml/rapidyaml",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/vulkan-headers",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/vulkan-headers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/vulkan-headers",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/wil",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/wil",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/wil",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/zlib",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/zlib"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/zlib/examples",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/zlib/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/zlib/examples"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/zstd",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/zstd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/zstd"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — 3rdparty/zstd/zstd",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/3rdparty/zstd/zstd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "3rdparty/zstd/zstd",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — common",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "common"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — libretro",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/libretro",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "libretro"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — pcsx2",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/pcsx2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "pcsx2"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — pcsx2/Docs",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/pcsx2/Docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "pcsx2/Docs"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — pcsx2/GS",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/pcsx2/GS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "pcsx2/GS"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — pcsx2/GS/parallel-gs",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/pcsx2/GS/parallel-gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "pcsx2/GS/parallel-gs",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — pcsx2/ps2/Iop",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/pcsx2/ps2/Iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "pcsx2/ps2/Iop"
+        ]
+      },
+      {
+        "name": "aStenciledBee/ps2@libretroization — tools",
+        "url": "https://github.com/aStenciledBee/ps2/tree/libretroization/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "tools"
         ]
       },
       {
@@ -379150,6 +380473,36 @@
           "Audirvana/libsmb2",
           "master",
           "tests"
+        ]
+      },
+      {
+        "name": "awaken1ng/PlayStation2-Basic-BootLoader@main — embed",
+        "url": "https://github.com/awaken1ng/PlayStation2-Basic-BootLoader/tree/main/embed",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "awaken1ng/PlayStation2-Basic-BootLoader",
+          "main",
+          "embed"
+        ]
+      },
+      {
+        "name": "awaken1ng/PlayStation2-Basic-BootLoader@osd-init — embed",
+        "url": "https://github.com/awaken1ng/PlayStation2-Basic-BootLoader/tree/osd-init/embed",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "awaken1ng/PlayStation2-Basic-BootLoader",
+          "osd-init",
+          "embed"
         ]
       },
       {
@@ -425378,6 +426731,500 @@
         ]
       },
       {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/chdr",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/chdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/chdr"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/chdr/libchdr",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/chdr/libchdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/chdr/libchdr"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/cpuinfo",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/cpuinfo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/cpuinfo"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/d3d12memalloc",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/d3d12memalloc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/d3d12memalloc"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/fmt/fmt",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/fmt/fmt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/fmt/fmt",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/glad",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/glad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/glad"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/glslang",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/glslang",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/glslang"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/glslang/glslang",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/glslang/glslang",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/glslang/glslang",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/libpng",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/libpng",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/libpng"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/libzip",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/libzip"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/libzip/libzip",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/libzip/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/libzip/libzip",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/lz4",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/lz4"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/lz4/lz4",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/lz4/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/lz4/lz4"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/lz4/lz4/lib",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/lz4/lz4/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/lz4/lz4/lib"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/lzma",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/lzma"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/rapidyaml/rapidyaml",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/rapidyaml/rapidyaml",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/rapidyaml/rapidyaml",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/vulkan-headers",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/vulkan-headers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/vulkan-headers"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/vulkan-headers/tests",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/vulkan-headers/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/vulkan-headers/tests"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/vulkan-headers/tests/integration",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/vulkan-headers/tests/integration",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/vulkan-headers/tests/integration"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/wil",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/wil",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/wil",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/zlib",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/zlib"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/zlib/examples",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/zlib/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/zlib/examples"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/zstd",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/zstd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/zstd"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — 3rdparty/zstd/zstd",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/3rdparty/zstd/zstd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "3rdparty/zstd/zstd",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — common",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "common"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — libretro",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/libretro",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "libretro"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — pcsx2",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/pcsx2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "pcsx2"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — pcsx2/Docs",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/pcsx2/Docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "pcsx2/Docs"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — pcsx2/GS",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/pcsx2/GS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "pcsx2/GS"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — pcsx2/GS/parallel-gs",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/pcsx2/GS/parallel-gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "pcsx2/GS/parallel-gs",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — pcsx2/ps2/Iop",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/pcsx2/ps2/Iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "pcsx2/ps2/Iop"
+        ]
+      },
+      {
+        "name": "BloodotakuZ/Lrps2-Lockstep@libretroization — tools",
+        "url": "https://github.com/BloodotakuZ/Lrps2-Lockstep/tree/libretroization/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "libretroization",
+          "tools"
+        ]
+      },
+      {
         "name": "blowfish64/ps2-packer@ee-toolchain-gcc10 — lzma",
         "url": "https://github.com/blowfish64/ps2-packer/tree/ee-toolchain-gcc10/lzma",
         "keywords": [
@@ -429095,6 +430942,472 @@
           "BorisVanin/libsmb2",
           "yaml",
           "tests"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/chdr",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/chdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/chdr"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/chdr/libchdr",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/chdr/libchdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/chdr/libchdr"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/cpuinfo",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/cpuinfo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/cpuinfo"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/d3d12memalloc",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/d3d12memalloc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/d3d12memalloc"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/fmt/fmt",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/fmt/fmt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/fmt/fmt",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/glad",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/glad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/glad"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/glslang",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/glslang",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/glslang"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/glslang/glslang",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/glslang/glslang",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/glslang/glslang",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/libpng",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/libpng",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/libpng"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/libzip",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/libzip"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/libzip/libzip",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/libzip/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/libzip/libzip",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/lz4",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/lz4"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/lz4/lz4",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/lz4/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/lz4/lz4"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/lz4/lz4/lib",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/lz4/lz4/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/lz4/lz4/lib"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/lzma",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/lzma"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/rapidyaml/rapidyaml",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/rapidyaml/rapidyaml",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/rapidyaml/rapidyaml",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/vulkan-headers",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/vulkan-headers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/vulkan-headers",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/wil",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/wil",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/wil",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/zlib",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/zlib"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/zlib/examples",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/zlib/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/zlib/examples"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/zstd",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/zstd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/zstd"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — 3rdparty/zstd/zstd",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/3rdparty/zstd/zstd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "3rdparty/zstd/zstd",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — common",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "common"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — libretro",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/libretro",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "libretro"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — pcsx2",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/pcsx2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "pcsx2"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — pcsx2/Docs",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/pcsx2/Docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "pcsx2/Docs"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — pcsx2/GS",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/pcsx2/GS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "pcsx2/GS"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — pcsx2/GS/parallel-gs",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/pcsx2/GS/parallel-gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "pcsx2/GS/parallel-gs",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — pcsx2/ps2/Iop",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/pcsx2/ps2/Iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "pcsx2/ps2/Iop"
+        ]
+      },
+      {
+        "name": "bozothegeek/ps2@libretroization — tools",
+        "url": "https://github.com/bozothegeek/ps2/tree/libretroization/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bozothegeek/ps2",
+          "libretroization",
+          "tools"
         ]
       },
       {
@@ -433354,6 +435667,966 @@
         ]
       },
       {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/chdr",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/chdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/chdr"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/chdr/libchdr",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/chdr/libchdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/chdr/libchdr"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/cpuinfo",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/cpuinfo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/cpuinfo"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/d3d12memalloc",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/d3d12memalloc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/d3d12memalloc"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/fmt/fmt",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/fmt/fmt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/fmt/fmt",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/glad",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/glad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/glad"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/glslang",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/glslang",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/glslang"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/glslang/glslang",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/glslang/glslang",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/glslang/glslang",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/libpng",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/libpng",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/libpng"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/libzip",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/libzip"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/libzip/libzip",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/libzip/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/libzip/libzip",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/lz4",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/lz4"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/lz4/lz4",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/lz4/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/lz4/lz4"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/lz4/lz4/lib",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/lz4/lz4/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/lz4/lz4/lib"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/lzma",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/lzma"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/rapidyaml/rapidyaml",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/rapidyaml/rapidyaml",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/rapidyaml/rapidyaml",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/vulkan-headers",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/vulkan-headers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/vulkan-headers"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/vulkan-headers/tests",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/vulkan-headers/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/vulkan-headers/tests"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/vulkan-headers/tests/integration",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/vulkan-headers/tests/integration",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/vulkan-headers/tests/integration"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/wil",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/wil",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/wil",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/zlib",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/zlib"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/zlib/examples",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/zlib/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/zlib/examples"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/zstd",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/zstd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/zstd"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — 3rdparty/zstd/zstd",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/3rdparty/zstd/zstd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "3rdparty/zstd/zstd",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — common",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "common"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — libretro",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/libretro",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "libretro"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — pcsx2",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/pcsx2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "pcsx2"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — pcsx2/Docs",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/pcsx2/Docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "pcsx2/Docs"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — pcsx2/GS",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/pcsx2/GS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "pcsx2/GS"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — pcsx2/GS/parallel-gs",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/pcsx2/GS/parallel-gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "pcsx2/GS/parallel-gs",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — pcsx2/ps2/Iop",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/pcsx2/ps2/Iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "pcsx2/ps2/Iop"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@fix-sw-with-vk — tools",
+        "url": "https://github.com/bslenul/ps2/tree/fix-sw-with-vk/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "tools"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/chdr",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/chdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/chdr"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/chdr/libchdr",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/chdr/libchdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/chdr/libchdr"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/cpuinfo",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/cpuinfo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/cpuinfo"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/d3d12memalloc",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/d3d12memalloc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/d3d12memalloc"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/fmt/fmt",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/fmt/fmt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/fmt/fmt",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/glad",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/glad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/glad"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/glslang",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/glslang",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/glslang"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/glslang/glslang",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/glslang/glslang",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/glslang/glslang",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/libpng",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/libpng",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/libpng"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/libzip",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/libzip"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/libzip/libzip",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/libzip/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/libzip/libzip",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/lz4",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/lz4"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/lz4/lz4",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/lz4/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/lz4/lz4"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/lz4/lz4/lib",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/lz4/lz4/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/lz4/lz4/lib"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/lzma",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/lzma"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/rapidyaml/rapidyaml",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/rapidyaml/rapidyaml",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/rapidyaml/rapidyaml",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/vulkan-headers",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/vulkan-headers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/vulkan-headers",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/wil",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/wil",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/wil",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/zlib",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/zlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/zlib"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/zlib/examples",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/zlib/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/zlib/examples"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/zstd",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/zstd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/zstd"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — 3rdparty/zstd/zstd",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/3rdparty/zstd/zstd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "3rdparty/zstd/zstd",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — common",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "common"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — libretro",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/libretro",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "libretro"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — pcsx2",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/pcsx2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "pcsx2"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — pcsx2/Docs",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/pcsx2/Docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "pcsx2/Docs"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — pcsx2/GS",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/pcsx2/GS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "pcsx2/GS"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — pcsx2/GS/parallel-gs",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/pcsx2/GS/parallel-gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "pcsx2/GS/parallel-gs",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — pcsx2/ps2/Iop",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/pcsx2/ps2/Iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "pcsx2/ps2/Iop"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — tools",
+        "url": "https://github.com/bslenul/ps2/tree/libretroization/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bslenul/ps2",
+          "libretroization",
+          "tools"
+        ]
+      },
+      {
         "name": "bucanero/apollo-ps2@main — docs",
         "url": "https://github.com/bucanero/apollo-ps2/tree/main/docs",
         "keywords": [
@@ -435976,6 +439249,36 @@
           "calos9999/Funtuna-Fork",
           "main",
           "tools/ps2_packer"
+        ]
+      },
+      {
+        "name": "calos9999/PlayStation2-Basic-BootLoader@main — embed",
+        "url": "https://github.com/calos9999/PlayStation2-Basic-BootLoader/tree/main/embed",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "calos9999/PlayStation2-Basic-BootLoader",
+          "main",
+          "embed"
+        ]
+      },
+      {
+        "name": "calos9999/PlayStation2-Basic-BootLoader@main — embed/iop",
+        "url": "https://github.com/calos9999/PlayStation2-Basic-BootLoader/tree/main/embed/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "calos9999/PlayStation2-Basic-BootLoader",
+          "main",
+          "embed/iop"
         ]
       },
       {
@@ -1913095,6 +1916398,457 @@
         ]
       },
       {
+        "name": "bslenul/ps2@libretroization — submodule: 3rdparty/fmt/fmt",
+        "url": "https://github.com/fmtlib/fmt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/fmt",
+          "https://github.com/fmtlib/fmt",
+          "DiscoStarslayer/pcsx2-reliquary",
+          "hack",
+          "3rdparty/fmt/fmt",
+          "https://github.com/fmtlib/fmt.git",
+          "magicgate-fork",
+          "master_old",
+          "master_qt",
+          "usb_qt_wip",
+          "ioncodes/iris",
+          "israpps/pcsx2",
+          "Test",
+          "magicgate",
+          "master",
+          "patch-1",
+          "patch-2",
+          "patch-3",
+          "python2",
+          "test2",
+          "Link4Electronics/iris",
+          "PCSX2/pcsx2",
+          "gs_wrchacking",
+          "ps2homebrew/pcsx2",
+          "AppMana/pcsx2-web",
+          "Arawn-Davies/whiterhino",
+          "bringlive/pcsx2",
+          "CutieKoboldSkylarie/pcsx2",
+          "DataKnifeAI/pcsx2",
+          "emtee40/pcsx2",
+          "hafis0058-art/pcsx2",
+          "Ingeniiious/pcsx2",
+          "JDHalfrack/pcsx2",
+          "ncaa-next-1.7.4029-extmem",
+          "mariobob/pcsx2",
+          "MiguelQueiroz010/dev-pcsx2pro",
+          "devup",
+          "mommysgoodpuppy/pcsx2",
+          "pingumen96/pcsx2",
+          "potentialtrouble/pcsx2",
+          "retrobone/pcsx2",
+          "sanxswxw/pcsx2",
+          "sevdestruct/pcsx2",
+          "SomeoneIsWorking/pcsx2",
+          "Stoppedwumm/pcsx2",
+          "tleibert/pcsx2",
+          "vagaanis3-cmd/pcsx2",
+          "adlt3ch/ps2",
+          "libretroization",
+          "aStenciledBee/ps2",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "bozothegeek/ps2",
+          "bslenul/ps2",
+          "fix-sw-with-vk"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — submodule: 3rdparty/glslang/glslang",
+        "url": "https://github.com/KhronosGroup/glslang",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "DiscoStarslayer/pcsx2-reliquary",
+          "hack",
+          "3rdparty/glslang/glslang",
+          "https://github.com/KhronosGroup/glslang.git",
+          "magicgate-fork",
+          "master_old",
+          "master_qt",
+          "usb_qt_wip",
+          "israpps/pcsx2",
+          "magicgate",
+          "master",
+          "patch-1",
+          "patch-2",
+          "patch-3",
+          "python2",
+          "test2",
+          "PCSX2/pcsx2",
+          "gs_wrchacking",
+          "ps2homebrew/pcsx2",
+          "ToolAssisted-run/chimera-core-pcsx2",
+          "main",
+          "extern/glslang",
+          "AppMana/pcsx2-web",
+          "Arawn-Davies/whiterhino",
+          "bringlive/pcsx2",
+          "CutieKoboldSkylarie/pcsx2",
+          "DataKnifeAI/pcsx2",
+          "emtee40/pcsx2",
+          "hafis0058-art/pcsx2",
+          "Ingeniiious/pcsx2",
+          "JDHalfrack/pcsx2",
+          "ncaa-next-1.7.4029-extmem",
+          "mariobob/pcsx2",
+          "mommysgoodpuppy/pcsx2",
+          "pingumen96/pcsx2",
+          "potentialtrouble/pcsx2",
+          "retrobone/pcsx2",
+          "sanxswxw/pcsx2",
+          "sevdestruct/pcsx2",
+          "SomeoneIsWorking/pcsx2",
+          "Stoppedwumm/pcsx2",
+          "tleibert/pcsx2",
+          "vagaanis3-cmd/pcsx2",
+          "adlt3ch/ps2",
+          "libretroization",
+          "aStenciledBee/ps2",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "bozothegeek/ps2",
+          "bslenul/ps2",
+          "fix-sw-with-vk"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — submodule: 3rdparty/libzip/libzip",
+        "url": "https://github.com/nih-at/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "chaoticgd/wrench",
+          "master",
+          "thirdparty/libzip",
+          "https://github.com/nih-at/libzip",
+          "DiscoStarslayer/pcsx2-reliquary",
+          "master_old",
+          "3rdparty/libzip/libzip",
+          "https://github.com/nih-at/libzip.git",
+          "master_qt",
+          "usb_qt_wip",
+          "israpps/pcsx2",
+          "magicgate",
+          "patch-1",
+          "patch-2",
+          "python2",
+          "test2",
+          "PCSX2/pcsx2",
+          "gs_wrchacking",
+          "ps2homebrew/pcsx2",
+          "AppMana/pcsx2-web",
+          "Arawn-Davies/whiterhino",
+          "bringlive/pcsx2",
+          "CutieKoboldSkylarie/pcsx2",
+          "DataKnifeAI/pcsx2",
+          "emtee40/pcsx2",
+          "hafis0058-art/pcsx2",
+          "Ingeniiious/pcsx2",
+          "JDHalfrack/pcsx2",
+          "ncaa-next-1.7.4029-extmem",
+          "mariobob/pcsx2",
+          "mommysgoodpuppy/pcsx2",
+          "pingumen96/pcsx2",
+          "potentialtrouble/pcsx2",
+          "retrobone/pcsx2",
+          "sanxswxw/pcsx2",
+          "sevdestruct/pcsx2",
+          "SomeoneIsWorking/pcsx2",
+          "Stoppedwumm/pcsx2",
+          "tleibert/pcsx2",
+          "vagaanis3-cmd/pcsx2",
+          "adlt3ch/ps2",
+          "libretroization",
+          "aStenciledBee/ps2",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "bozothegeek/ps2",
+          "bslenul/ps2",
+          "fix-sw-with-vk"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — submodule: 3rdparty/rapidyaml/rapidyaml",
+        "url": "https://github.com/biojppm/rapidyaml",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "DiscoStarslayer/pcsx2-reliquary",
+          "hack",
+          "3rdparty/rapidyaml/rapidyaml",
+          "https://github.com/biojppm/rapidyaml.git",
+          "magicgate-fork",
+          "master_old",
+          "master_qt",
+          "usb_qt_wip",
+          "israpps/pcsx2",
+          "magicgate",
+          "master",
+          "patch-1",
+          "patch-2",
+          "patch-3",
+          "python2",
+          "test2",
+          "PCSX2/pcsx2",
+          "gs_wrchacking",
+          "ps2homebrew/pcsx2",
+          "AppMana/pcsx2-web",
+          "Arawn-Davies/whiterhino",
+          "bringlive/pcsx2",
+          "CutieKoboldSkylarie/pcsx2",
+          "DataKnifeAI/pcsx2",
+          "emtee40/pcsx2",
+          "hafis0058-art/pcsx2",
+          "Ingeniiious/pcsx2",
+          "JDHalfrack/pcsx2",
+          "ncaa-next-1.7.4029-extmem",
+          "mariobob/pcsx2",
+          "mommysgoodpuppy/pcsx2",
+          "pingumen96/pcsx2",
+          "potentialtrouble/pcsx2",
+          "retrobone/pcsx2",
+          "sanxswxw/pcsx2",
+          "sevdestruct/pcsx2",
+          "SomeoneIsWorking/pcsx2",
+          "Stoppedwumm/pcsx2",
+          "tleibert/pcsx2",
+          "vagaanis3-cmd/pcsx2",
+          "adlt3ch/ps2",
+          "libretroization",
+          "aStenciledBee/ps2",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "bozothegeek/ps2",
+          "bslenul/ps2",
+          "fix-sw-with-vk"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — submodule: 3rdparty/vulkan-headers",
+        "url": "https://github.com/KhronosGroup/Vulkan-Headers",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "DiscoStarslayer/pcsx2-reliquary",
+          "hack",
+          "3rdparty/vulkan-headers",
+          "https://github.com/KhronosGroup/Vulkan-Headers.git",
+          "magicgate-fork",
+          "master_old",
+          "master_qt",
+          "usb_qt_wip",
+          "israpps/pcsx2",
+          "magicgate",
+          "master",
+          "patch-1",
+          "patch-2",
+          "patch-3",
+          "python2",
+          "test2",
+          "PCSX2/pcsx2",
+          "gs_wrchacking",
+          "ps2homebrew/pcsx2",
+          "AppMana/pcsx2-web",
+          "Arawn-Davies/whiterhino",
+          "bringlive/pcsx2",
+          "CutieKoboldSkylarie/pcsx2",
+          "DataKnifeAI/pcsx2",
+          "emtee40/pcsx2",
+          "hafis0058-art/pcsx2",
+          "Ingeniiious/pcsx2",
+          "JDHalfrack/pcsx2",
+          "ncaa-next-1.7.4029-extmem",
+          "mariobob/pcsx2",
+          "mommysgoodpuppy/pcsx2",
+          "pingumen96/pcsx2",
+          "potentialtrouble/pcsx2",
+          "retrobone/pcsx2",
+          "sanxswxw/pcsx2",
+          "sevdestruct/pcsx2",
+          "SomeoneIsWorking/pcsx2",
+          "Stoppedwumm/pcsx2",
+          "tleibert/pcsx2",
+          "vagaanis3-cmd/pcsx2",
+          "aStenciledBee/ps2",
+          "libretroization",
+          "bozothegeek/ps2",
+          "bslenul/ps2"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — submodule: 3rdparty/wil",
+        "url": "https://github.com/microsoft/wil",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "DiscoStarslayer/pcsx2-reliquary",
+          "hack",
+          "3rdparty/wil",
+          "https://github.com/microsoft/wil.git",
+          "magicgate-fork",
+          "master_old",
+          "master_qt",
+          "usb_qt_wip",
+          "israpps/pcsx2",
+          "magicgate",
+          "master",
+          "patch-1",
+          "patch-2",
+          "patch-3",
+          "python2",
+          "test2",
+          "PCSX2/pcsx2",
+          "gs_wrchacking",
+          "ps2homebrew/pcsx2",
+          "AppMana/pcsx2-web",
+          "Arawn-Davies/whiterhino",
+          "bringlive/pcsx2",
+          "CutieKoboldSkylarie/pcsx2",
+          "DataKnifeAI/pcsx2",
+          "emtee40/pcsx2",
+          "hafis0058-art/pcsx2",
+          "Ingeniiious/pcsx2",
+          "JDHalfrack/pcsx2",
+          "ncaa-next-1.7.4029-extmem",
+          "mariobob/pcsx2",
+          "MiguelQueiroz010/dev-pcsx2pro",
+          "devup",
+          "mommysgoodpuppy/pcsx2",
+          "pingumen96/pcsx2",
+          "potentialtrouble/pcsx2",
+          "retrobone/pcsx2",
+          "sanxswxw/pcsx2",
+          "sevdestruct/pcsx2",
+          "SomeoneIsWorking/pcsx2",
+          "Stoppedwumm/pcsx2",
+          "tleibert/pcsx2",
+          "vagaanis3-cmd/pcsx2",
+          "adlt3ch/ps2",
+          "libretroization",
+          "aStenciledBee/ps2",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "bozothegeek/ps2",
+          "bslenul/ps2",
+          "fix-sw-with-vk"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — submodule: 3rdparty/zstd/zstd",
+        "url": "https://github.com/facebook/zstd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "DiscoStarslayer/pcsx2-reliquary",
+          "hack",
+          "3rdparty/zstd/zstd",
+          "https://github.com/facebook/zstd.git",
+          "magicgate-fork",
+          "master_old",
+          "master_qt",
+          "usb_qt_wip",
+          "israpps/pcsx2",
+          "magicgate",
+          "master",
+          "patch-1",
+          "patch-2",
+          "patch-3",
+          "python2",
+          "test2",
+          "PCSX2/pcsx2",
+          "gs_wrchacking",
+          "ps2homebrew/pcsx2",
+          "ToolAssisted-run/chimera-core-pcsx2",
+          "main",
+          "extern/zstd",
+          "AppMana/pcsx2-web",
+          "Arawn-Davies/whiterhino",
+          "bringlive/pcsx2",
+          "CutieKoboldSkylarie/pcsx2",
+          "DataKnifeAI/pcsx2",
+          "emtee40/pcsx2",
+          "hafis0058-art/pcsx2",
+          "Ingeniiious/pcsx2",
+          "JDHalfrack/pcsx2",
+          "ncaa-next-1.7.4029-extmem",
+          "mariobob/pcsx2",
+          "mommysgoodpuppy/pcsx2",
+          "pingumen96/pcsx2",
+          "potentialtrouble/pcsx2",
+          "retrobone/pcsx2",
+          "sanxswxw/pcsx2",
+          "sevdestruct/pcsx2",
+          "SomeoneIsWorking/pcsx2",
+          "Stoppedwumm/pcsx2",
+          "tleibert/pcsx2",
+          "vagaanis3-cmd/pcsx2",
+          "adlt3ch/ps2",
+          "libretroization",
+          "aStenciledBee/ps2",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "bozothegeek/ps2",
+          "bslenul/ps2",
+          "fix-sw-with-vk"
+        ]
+      },
+      {
+        "name": "bslenul/ps2@libretroization — submodule: pcsx2/GS/parallel-gs",
+        "url": "https://github.com/Arntzen-Software/parallel-gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "DiscoStarslayer/pcsx2-reliquary",
+          "feature/arcade-io",
+          "pcsx2/GS/parallel-gs",
+          "https://github.com/Arntzen-Software/parallel-gs.git",
+          "feature/chd-hdd",
+          "feature/cue-file-support",
+          "feature/deadlocked-shadows",
+          "feature/radioo-fork-sync",
+          "fix/socket-tcp-recovery",
+          "fix/utility-disk-1.0",
+          "maekawa-mugi/pcsx2-basement",
+          "main",
+          "adlt3ch/ps2",
+          "libretroization",
+          "https://github.com/Arntzen-Software/parallel-gs",
+          "aStenciledBee/ps2",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "bozothegeek/ps2",
+          "bslenul/ps2",
+          "fix-sw-with-vk"
+        ]
+      },
+      {
         "name": "chaoticgd/wrench@master — submodule: thirdparty/glm",
         "url": "https://github.com/g-truc/glm",
         "keywords": [
@@ -1913615,29 +1917369,6 @@
           "https://github.com/allkern/parallel-gs",
           "ioncodes/iris",
           "Link4Electronics/iris"
-        ]
-      },
-      {
-        "name": "maekawa-mugi/pcsx2-basement@main — submodule: pcsx2/GS/parallel-gs",
-        "url": "https://github.com/Arntzen-Software/parallel-gs",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "DiscoStarslayer/pcsx2-reliquary",
-          "feature/arcade-io",
-          "pcsx2/GS/parallel-gs",
-          "https://github.com/Arntzen-Software/parallel-gs.git",
-          "feature/chd-hdd",
-          "feature/cue-file-support",
-          "feature/deadlocked-shadows",
-          "feature/radioo-fork-sync",
-          "fix/socket-tcp-recovery",
-          "fix/utility-disk-1.0",
-          "maekawa-mugi/pcsx2-basement",
-          "main"
         ]
       },
       {
@@ -1914882,120 +1918613,6 @@
         ]
       },
       {
-        "name": "vagaanis3-cmd/pcsx2@gs_wrchacking — submodule: 3rdparty/fmt/fmt",
-        "url": "https://github.com/fmtlib/fmt",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/fmt",
-          "https://github.com/fmtlib/fmt",
-          "DiscoStarslayer/pcsx2-reliquary",
-          "hack",
-          "3rdparty/fmt/fmt",
-          "https://github.com/fmtlib/fmt.git",
-          "magicgate-fork",
-          "master_old",
-          "master_qt",
-          "usb_qt_wip",
-          "ioncodes/iris",
-          "israpps/pcsx2",
-          "Test",
-          "magicgate",
-          "master",
-          "patch-1",
-          "patch-2",
-          "patch-3",
-          "python2",
-          "test2",
-          "Link4Electronics/iris",
-          "PCSX2/pcsx2",
-          "gs_wrchacking",
-          "ps2homebrew/pcsx2",
-          "AppMana/pcsx2-web",
-          "Arawn-Davies/whiterhino",
-          "bringlive/pcsx2",
-          "CutieKoboldSkylarie/pcsx2",
-          "DataKnifeAI/pcsx2",
-          "emtee40/pcsx2",
-          "hafis0058-art/pcsx2",
-          "Ingeniiious/pcsx2",
-          "JDHalfrack/pcsx2",
-          "ncaa-next-1.7.4029-extmem",
-          "mariobob/pcsx2",
-          "MiguelQueiroz010/dev-pcsx2pro",
-          "devup",
-          "mommysgoodpuppy/pcsx2",
-          "pingumen96/pcsx2",
-          "potentialtrouble/pcsx2",
-          "retrobone/pcsx2",
-          "sanxswxw/pcsx2",
-          "sevdestruct/pcsx2",
-          "SomeoneIsWorking/pcsx2",
-          "Stoppedwumm/pcsx2",
-          "tleibert/pcsx2",
-          "vagaanis3-cmd/pcsx2"
-        ]
-      },
-      {
-        "name": "vagaanis3-cmd/pcsx2@gs_wrchacking — submodule: 3rdparty/glslang/glslang",
-        "url": "https://github.com/KhronosGroup/glslang",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "DiscoStarslayer/pcsx2-reliquary",
-          "hack",
-          "3rdparty/glslang/glslang",
-          "https://github.com/KhronosGroup/glslang.git",
-          "magicgate-fork",
-          "master_old",
-          "master_qt",
-          "usb_qt_wip",
-          "israpps/pcsx2",
-          "magicgate",
-          "master",
-          "patch-1",
-          "patch-2",
-          "patch-3",
-          "python2",
-          "test2",
-          "PCSX2/pcsx2",
-          "gs_wrchacking",
-          "ps2homebrew/pcsx2",
-          "ToolAssisted-run/chimera-core-pcsx2",
-          "main",
-          "extern/glslang",
-          "AppMana/pcsx2-web",
-          "Arawn-Davies/whiterhino",
-          "bringlive/pcsx2",
-          "CutieKoboldSkylarie/pcsx2",
-          "DataKnifeAI/pcsx2",
-          "emtee40/pcsx2",
-          "hafis0058-art/pcsx2",
-          "Ingeniiious/pcsx2",
-          "JDHalfrack/pcsx2",
-          "ncaa-next-1.7.4029-extmem",
-          "mariobob/pcsx2",
-          "mommysgoodpuppy/pcsx2",
-          "pingumen96/pcsx2",
-          "potentialtrouble/pcsx2",
-          "retrobone/pcsx2",
-          "sanxswxw/pcsx2",
-          "sevdestruct/pcsx2",
-          "SomeoneIsWorking/pcsx2",
-          "Stoppedwumm/pcsx2",
-          "tleibert/pcsx2",
-          "vagaanis3-cmd/pcsx2"
-        ]
-      },
-      {
         "name": "vagaanis3-cmd/pcsx2@gs_wrchacking — submodule: 3rdparty/gtest",
         "url": "https://github.com/google/googletest",
         "keywords": [
@@ -1915178,108 +1918795,6 @@
         ]
       },
       {
-        "name": "vagaanis3-cmd/pcsx2@gs_wrchacking — submodule: 3rdparty/libzip/libzip",
-        "url": "https://github.com/nih-at/libzip",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "chaoticgd/wrench",
-          "master",
-          "thirdparty/libzip",
-          "https://github.com/nih-at/libzip",
-          "DiscoStarslayer/pcsx2-reliquary",
-          "master_old",
-          "3rdparty/libzip/libzip",
-          "https://github.com/nih-at/libzip.git",
-          "master_qt",
-          "usb_qt_wip",
-          "israpps/pcsx2",
-          "magicgate",
-          "patch-1",
-          "patch-2",
-          "python2",
-          "test2",
-          "PCSX2/pcsx2",
-          "gs_wrchacking",
-          "ps2homebrew/pcsx2",
-          "AppMana/pcsx2-web",
-          "Arawn-Davies/whiterhino",
-          "bringlive/pcsx2",
-          "CutieKoboldSkylarie/pcsx2",
-          "DataKnifeAI/pcsx2",
-          "emtee40/pcsx2",
-          "hafis0058-art/pcsx2",
-          "Ingeniiious/pcsx2",
-          "JDHalfrack/pcsx2",
-          "ncaa-next-1.7.4029-extmem",
-          "mariobob/pcsx2",
-          "mommysgoodpuppy/pcsx2",
-          "pingumen96/pcsx2",
-          "potentialtrouble/pcsx2",
-          "retrobone/pcsx2",
-          "sanxswxw/pcsx2",
-          "sevdestruct/pcsx2",
-          "SomeoneIsWorking/pcsx2",
-          "Stoppedwumm/pcsx2",
-          "tleibert/pcsx2",
-          "vagaanis3-cmd/pcsx2"
-        ]
-      },
-      {
-        "name": "vagaanis3-cmd/pcsx2@gs_wrchacking — submodule: 3rdparty/rapidyaml/rapidyaml",
-        "url": "https://github.com/biojppm/rapidyaml",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "DiscoStarslayer/pcsx2-reliquary",
-          "hack",
-          "3rdparty/rapidyaml/rapidyaml",
-          "https://github.com/biojppm/rapidyaml.git",
-          "magicgate-fork",
-          "master_old",
-          "master_qt",
-          "usb_qt_wip",
-          "israpps/pcsx2",
-          "magicgate",
-          "master",
-          "patch-1",
-          "patch-2",
-          "patch-3",
-          "python2",
-          "test2",
-          "PCSX2/pcsx2",
-          "gs_wrchacking",
-          "ps2homebrew/pcsx2",
-          "AppMana/pcsx2-web",
-          "Arawn-Davies/whiterhino",
-          "bringlive/pcsx2",
-          "CutieKoboldSkylarie/pcsx2",
-          "DataKnifeAI/pcsx2",
-          "emtee40/pcsx2",
-          "hafis0058-art/pcsx2",
-          "Ingeniiious/pcsx2",
-          "JDHalfrack/pcsx2",
-          "ncaa-next-1.7.4029-extmem",
-          "mariobob/pcsx2",
-          "mommysgoodpuppy/pcsx2",
-          "pingumen96/pcsx2",
-          "potentialtrouble/pcsx2",
-          "retrobone/pcsx2",
-          "sanxswxw/pcsx2",
-          "sevdestruct/pcsx2",
-          "SomeoneIsWorking/pcsx2",
-          "Stoppedwumm/pcsx2",
-          "tleibert/pcsx2",
-          "vagaanis3-cmd/pcsx2"
-        ]
-      },
-      {
         "name": "vagaanis3-cmd/pcsx2@gs_wrchacking — submodule: 3rdparty/rcheevos/rcheevos",
         "url": "https://github.com/RetroAchievements/rcheevos",
         "keywords": [
@@ -1915386,164 +1918901,6 @@
           "vu-cached",
           "Ziemas/eegs",
           "iop-thread-display",
-          "AppMana/pcsx2-web",
-          "Arawn-Davies/whiterhino",
-          "bringlive/pcsx2",
-          "CutieKoboldSkylarie/pcsx2",
-          "DataKnifeAI/pcsx2",
-          "emtee40/pcsx2",
-          "hafis0058-art/pcsx2",
-          "Ingeniiious/pcsx2",
-          "JDHalfrack/pcsx2",
-          "ncaa-next-1.7.4029-extmem",
-          "mariobob/pcsx2",
-          "mommysgoodpuppy/pcsx2",
-          "pingumen96/pcsx2",
-          "potentialtrouble/pcsx2",
-          "retrobone/pcsx2",
-          "sanxswxw/pcsx2",
-          "sevdestruct/pcsx2",
-          "SomeoneIsWorking/pcsx2",
-          "Stoppedwumm/pcsx2",
-          "tleibert/pcsx2",
-          "vagaanis3-cmd/pcsx2"
-        ]
-      },
-      {
-        "name": "vagaanis3-cmd/pcsx2@gs_wrchacking — submodule: 3rdparty/vulkan-headers",
-        "url": "https://github.com/KhronosGroup/Vulkan-Headers",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "DiscoStarslayer/pcsx2-reliquary",
-          "hack",
-          "3rdparty/vulkan-headers",
-          "https://github.com/KhronosGroup/Vulkan-Headers.git",
-          "magicgate-fork",
-          "master_old",
-          "master_qt",
-          "usb_qt_wip",
-          "israpps/pcsx2",
-          "magicgate",
-          "master",
-          "patch-1",
-          "patch-2",
-          "patch-3",
-          "python2",
-          "test2",
-          "PCSX2/pcsx2",
-          "gs_wrchacking",
-          "ps2homebrew/pcsx2",
-          "AppMana/pcsx2-web",
-          "Arawn-Davies/whiterhino",
-          "bringlive/pcsx2",
-          "CutieKoboldSkylarie/pcsx2",
-          "DataKnifeAI/pcsx2",
-          "emtee40/pcsx2",
-          "hafis0058-art/pcsx2",
-          "Ingeniiious/pcsx2",
-          "JDHalfrack/pcsx2",
-          "ncaa-next-1.7.4029-extmem",
-          "mariobob/pcsx2",
-          "mommysgoodpuppy/pcsx2",
-          "pingumen96/pcsx2",
-          "potentialtrouble/pcsx2",
-          "retrobone/pcsx2",
-          "sanxswxw/pcsx2",
-          "sevdestruct/pcsx2",
-          "SomeoneIsWorking/pcsx2",
-          "Stoppedwumm/pcsx2",
-          "tleibert/pcsx2",
-          "vagaanis3-cmd/pcsx2"
-        ]
-      },
-      {
-        "name": "vagaanis3-cmd/pcsx2@gs_wrchacking — submodule: 3rdparty/wil",
-        "url": "https://github.com/microsoft/wil",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "DiscoStarslayer/pcsx2-reliquary",
-          "hack",
-          "3rdparty/wil",
-          "https://github.com/microsoft/wil.git",
-          "magicgate-fork",
-          "master_old",
-          "master_qt",
-          "usb_qt_wip",
-          "israpps/pcsx2",
-          "magicgate",
-          "master",
-          "patch-1",
-          "patch-2",
-          "patch-3",
-          "python2",
-          "test2",
-          "PCSX2/pcsx2",
-          "gs_wrchacking",
-          "ps2homebrew/pcsx2",
-          "AppMana/pcsx2-web",
-          "Arawn-Davies/whiterhino",
-          "bringlive/pcsx2",
-          "CutieKoboldSkylarie/pcsx2",
-          "DataKnifeAI/pcsx2",
-          "emtee40/pcsx2",
-          "hafis0058-art/pcsx2",
-          "Ingeniiious/pcsx2",
-          "JDHalfrack/pcsx2",
-          "ncaa-next-1.7.4029-extmem",
-          "mariobob/pcsx2",
-          "MiguelQueiroz010/dev-pcsx2pro",
-          "devup",
-          "mommysgoodpuppy/pcsx2",
-          "pingumen96/pcsx2",
-          "potentialtrouble/pcsx2",
-          "retrobone/pcsx2",
-          "sanxswxw/pcsx2",
-          "sevdestruct/pcsx2",
-          "SomeoneIsWorking/pcsx2",
-          "Stoppedwumm/pcsx2",
-          "tleibert/pcsx2",
-          "vagaanis3-cmd/pcsx2"
-        ]
-      },
-      {
-        "name": "vagaanis3-cmd/pcsx2@gs_wrchacking — submodule: 3rdparty/zstd/zstd",
-        "url": "https://github.com/facebook/zstd",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "DiscoStarslayer/pcsx2-reliquary",
-          "hack",
-          "3rdparty/zstd/zstd",
-          "https://github.com/facebook/zstd.git",
-          "magicgate-fork",
-          "master_old",
-          "master_qt",
-          "usb_qt_wip",
-          "israpps/pcsx2",
-          "magicgate",
-          "master",
-          "patch-1",
-          "patch-2",
-          "patch-3",
-          "python2",
-          "test2",
-          "PCSX2/pcsx2",
-          "gs_wrchacking",
-          "ps2homebrew/pcsx2",
-          "ToolAssisted-run/chimera-core-pcsx2",
-          "main",
-          "extern/zstd",
           "AppMana/pcsx2-web",
           "Arawn-Davies/whiterhino",
           "bringlive/pcsx2",
