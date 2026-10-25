@@ -1,0 +1,16 @@
+{
+  "repository": "sgassner/pcsx2-phone-buzzers",
+  "repositoryId": "1433058014",
+  "url": "https://github.com/sgassner/pcsx2-phone-buzzers",
+  "description": "Use phones as Buzz! buzzers for the PS2 emulator PCSX2 – macOS & Windows, no app needed",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-25T10:09:09.591Z",
+  "checkedAt": "2026-10-25T10:09:09.591Z"
+}
