@@ -20,21 +20,21 @@ source:
 repository:
   archived: false
   defaultBranch: claude/open-decisions-review-75968c
-  stars: 2
+  stars: 3
   forks: 0
-  lastCommit: '2026-10-19T17:59:47Z'
+  lastCommit: '2026-10-24T15:21:59Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-23T01:31:59.028Z'
+  lastSynchronized: '2026-10-25T01:14:21.738Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5c83ccf77eb4f3aa5ffd7a151c6be3bb1fa747be2ca569664dd72cf0a4d268af"
-    releasesEtag: '"ff6090af9c91b61292326178ca0823b97aed61799df8cc0ca8f7a6c7d1215cb9"'
+    repoEtag: W/"47150e6287eee59635838981202fb91a015a41d81880738b1308abbaafb8d0b7"
+    releasesEtag: '"a5c451af9d88eff769190129023bb74c9de83ceb2f12875d0ca286055e5e73e6"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

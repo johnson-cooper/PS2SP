@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-23T06:28:59.434Z'
+  lastSynchronized: '2026-10-25T01:15:23.383Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"78b79b849747e858c9cab3f156bab3a42ddf9ff5b2624bfe246e1e6a0a512c3b"
+    releasesEtag: '"a5c451af9d88eff769190129023bb74c9de83ceb2f12875d0ca286055e5e73e6"'
 discovery:
   method: 'fork-network:izzy2lost/PSX2'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: izzy2lost/PSX2
   source: izzy2lost/PSX2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

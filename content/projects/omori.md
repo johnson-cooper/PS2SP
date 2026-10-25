@@ -22,22 +22,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 16
+  stars: 33
   forks: 0
-  lastCommit: '2026-10-22T10:27:09Z'
+  lastCommit: '2026-10-24T12:18:53Z'
 latestRelease:
-  tag: v1.1.1
-  name: v1.1.1 0c22b19
-  publishedAt: '2026-10-22T10:27:09Z'
-  url: 'https://github.com/meetox80/omori/releases/tag/v1.1.1'
+  tag: v1.1.2
+  name: v1.1.2 44e3263
+  publishedAt: '2026-10-24T09:20:39Z'
+  url: 'https://github.com/meetox80/omori/releases/tag/v1.1.2'
 activity:
   lastChecked: '2026-10-21T12:26:22.872Z'
-  lastSynchronized: '2026-10-23T01:32:17.685Z'
+  lastSynchronized: '2026-10-25T01:14:40.407Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a7034a9ec2e23742a3993717445e7e374bf7d02089930d37b12cbffd3ca579f1"
-    releasesEtag: W/"388033e00355f7d300cbe6d725d18fa799fdf979e9c3f95916f62e6034bcbdeb"
+    repoEtag: W/"1ed01a3b12e0c4d90bfaa1af5fddc81a1c9557aeadb66e979328fd35dc1553b0"
+    releasesEtag: W/"e9bcecdba84f3b0f3ef23335dc4b2fb2692c5496ce6970a99defef8db722af26"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80
