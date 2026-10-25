@@ -27,19 +27,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2021-10-04T14:55:24Z'
+  lastCommit: '2026-10-25T13:18:36Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: latest
+  name: Development build
+  publishedAt: '2026-10-25T13:18:37Z'
+  url: 'https://github.com/rickgaiser/ps2link/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-23T22:12:40.905Z'
+  lastSynchronized: '2026-10-25T22:34:55.960Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7343297bad2faebeb257898253a3096d56c404179fc7a51b68ea2d28b647206d"
-    releasesEtag: '"83e88907bcdf1a6e2bb4f4c45d64e426e2fcbb7e5cb331f2e184283ffd59869e"'
+    repoEtag: W/"96642aecd17d5abf976a562c5cedf78802dd7a6482de8132d743fd926577ec98"
+    releasesEtag: W/"7464b919f1e3482bf8508cfa84b2e47dd9bed9915bbd44aad6852ccd6e39a8e5"
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100

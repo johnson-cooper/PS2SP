@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-09-28T17:50:05Z'
   url: 'https://github.com/Moosish/ARMSX2-PI5/releases/tag/pi5-builds'
 activity:
-  lastSynchronized: '2026-10-23T22:11:26.443Z'
+  lastSynchronized: '2026-10-25T22:33:33.061Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0bb5c4b6ea9a36037b958ed3cceadf3dcedbd68cdcc06fc92afd76860b1362fe"
-    releasesEtag: W/"14dae464fa5fc0d0e1d23b42ec187d7f9f8a45f3b14856931feadc55cb613ac2"
+    repoEtag: W/"16605a8d680d53ef19d4a71f6bf9a29e9d5beffc4977649405221cfd5fc03c5a"
+    releasesEtag: W/"8df3f3be291e4e522047e1757392d1c1242419f30e1925e9bc1feabc907408a0"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 95

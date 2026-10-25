@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/therealdreg/okhi/releases/tag/v3'
 activity:
   lastChecked: '2026-09-29T19:41:17.144Z'
-  lastSynchronized: '2026-10-23T22:11:59.949Z'
+  lastSynchronized: '2026-10-25T22:34:09.162Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"817a9f8be7309a14e6b2432844299dd8379712d96f7c43d088369228228d7d59"
-    releasesEtag: W/"7e79837dcc9d145fb3963787024e4aee748feb981031e6769f0a4f98471730fb"
+    repoEtag: W/"26cd7d731476d958fe2215947832bbda48a2792b3e147a44ce31861c873c4c07"
+    releasesEtag: W/"2dfd8b80a9f79444b92841396e02acab48c17739fd0f50d1acb2f5b12427d3c8"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 80

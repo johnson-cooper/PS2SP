@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2023-08-06T04:05:50Z'
   url: 'https://github.com/israpps/OSDSYS-Launcher/releases/tag/isra1'
 activity:
-  lastSynchronized: '2026-10-23T22:12:10.911Z'
+  lastSynchronized: '2026-10-25T22:34:20.871Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3d7549e73b2143ec955f82d2cf8444c9bd4048ee7caddc4b7e19bb175f8aed85"
-    releasesEtag: W/"e67d26e8c21b6d0794ce29c2ecf43dcabf2c022dda22df1c81f456deb2ff6c61"
+    repoEtag: W/"5d1551afbe2086ee836910d4588bbaa65ec417d7b4e08b18914ef42a0f4f13c2"
+    releasesEtag: W/"5cc884f86ee15fa52c837dc82dad6bffa25af9f663e0beb1333ff1c5952e0b91"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

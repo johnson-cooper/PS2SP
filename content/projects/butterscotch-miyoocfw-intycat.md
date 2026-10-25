@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-04-07T06:26:48Z'
   url: 'https://github.com/intycat/Butterscotch-MiyooCFW/releases/tag/v1.3.0'
 activity:
-  lastSynchronized: '2026-10-23T22:11:32.320Z'
+  lastSynchronized: '2026-10-25T22:33:38.839Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6eb24823860931d9d6bed0a478cc3383afbb8e5cf0e1cbb31f4caeab6d46d246"
-    releasesEtag: W/"888e615b9cf81b6354392d1113056387005e143e81f32ed7ce1825359a7ba710"
+    repoEtag: W/"35c76b9802d6a07872fb9c8b90aab33f4f684798e5f7d888fe49b5123e7e0759"
+    releasesEtag: W/"c0e453e1e53239e029ec83b31bf4058063d8fae3e698515aea44bbe7a8ee3c01"
 discovery:
   method: 'fork-network:ButterscotchRunner/Butterscotch'
   confidence: 95

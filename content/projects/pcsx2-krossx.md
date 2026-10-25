@@ -20,16 +20,19 @@ repository:
   defaultBranch: master
   stars: 4
   forks: 0
-  lastCommit: '2026-10-24T01:16:15Z'
+  lastCommit: '2026-10-25T00:59:17Z'
 latestRelease:
   tag: v1.7.0-dev
   name: Backup Release
   publishedAt: '2022-01-07T22:26:40Z'
   url: 'https://github.com/KrossX/pcsx2/releases/tag/v1.7.0-dev'
 activity:
-  lastSynchronized: '2026-10-24T01:59:06.038Z'
+  lastSynchronized: '2026-10-25T22:34:25.596Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b780c60b32451a0c14d24b950737c7317a434e262c3b09dc44d3d279c0d4f70c"
+    releasesEtag: W/"8cc04cb658f43ebac109d8279753314466bad5ad22c9a9dae89784b769997185"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
