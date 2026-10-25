@@ -19,19 +19,19 @@ repository:
   defaultBranch: ps2
   stars: 2
   forks: 0
-  lastCommit: '2026-10-22T16:48:04Z'
+  lastCommit: '2026-10-25T00:22:39Z'
 latestRelease:
-  tag: v1.0.2-ps2
-  name: Fallout 2 CE PS2 - v1.0.2 (Hardware Boot Hardening)
-  publishedAt: '2026-10-22T05:59:28Z'
-  url: 'https://github.com/Nicolasalucin/fallout2-ce-ps2/releases/tag/v1.0.2-ps2'
+  tag: v1.0.3-ps2
+  name: Fallout 2 CE PS2 v1.0.3
+  publishedAt: '2026-10-25T00:23:01Z'
+  url: 'https://github.com/Nicolasalucin/fallout2-ce-ps2/releases/tag/v1.0.3-ps2'
 activity:
-  lastSynchronized: '2026-10-24T11:00:21.792Z'
+  lastSynchronized: '2026-10-25T11:29:46.527Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3cee73cdb7feae187024ec71828cb7b8df995c4a80cb5c6f42d0e97ec781a030"
-    releasesEtag: W/"8d3753fb17fab966b0a36ef9f178f77a8b369078945e8b493b67ea6258adcaac"
+    repoEtag: W/"4e7dca4911fc62da712ae7d227d6ff09362d8fa2d57c5953a90810cfb51b1506"
+    releasesEtag: W/"ca5329e6302394ea635e9b3735c8854ee172a2dc4e9a5c1f76e8292b1e58fe48"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

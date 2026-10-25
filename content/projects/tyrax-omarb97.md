@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T11:01:52.466Z'
+  lastSynchronized: '2026-10-25T11:31:07.984Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"69b9ee951ecb1f05bbeabf02f3d5c5f437f81606e3bff21b7c2a12f32069fcd5"
-    releasesEtag: '"2d8126faf7d60a088ad7a14f528f5a8f3ca919b5cd485e0f97d8ebb20b5102f0"'
+    repoEtag: W/"84b07ea1759e97221e0899859f9bcd8560c9e00c3a32a3b31552b9ba993f7ddf"
+    releasesEtag: '"9e77b662133f4d4e3007923dbf3a0cbb2fd896f67c82d38c785dfb153804c449"'
 discovery:
   method: 'fork-network:doctorspider42/tyraX'
   confidence: 100

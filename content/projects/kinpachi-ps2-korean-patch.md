@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-10-25T05:58:52Z'
   url: 'https://github.com/ayaneros-eng/kinpachi-ps2-korean-patch/releases/tag/v267'
 activity:
-  lastSynchronized: '2026-10-25T10:09:09.591Z'
+  lastSynchronized: '2026-10-25T11:30:00.370Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"30cd98c5c35dc474857b7c27572250fec9ea51a38785ddc70ce5d0d77d2707ae"
+    releasesEtag: W/"eed635303d52927bff62a886794b74daa7441497cbd8e1f4851ae56bcb7cf94c"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -41,5 +44,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

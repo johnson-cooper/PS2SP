@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T11:01:53.461Z'
+  lastSynchronized: '2026-10-25T11:31:08.920Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9150a03685eecacd247aaaf4337080486cb2536271182c7d233d93029a1ed66c"
-    releasesEtag: '"2d8126faf7d60a088ad7a14f528f5a8f3ca919b5cd485e0f97d8ebb20b5102f0"'
+    repoEtag: W/"108573457a93486a71dd3e1a620a475047a8e0c9c05233bf53b5ad01e2e7fff0"
+    releasesEtag: '"9e77b662133f4d4e3007923dbf3a0cbb2fd896f67c82d38c785dfb153804c449"'
 discovery:
   method: 'fork-network:4gordi/udpbd-server'
   confidence: 95

@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2025-06-14T00:43:56Z'
   url: 'https://github.com/israpps/AthenaEnv/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-24T11:00:13.981Z'
+  lastSynchronized: '2026-10-25T11:29:39.823Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a5eefe52c1326715e1c99a25642e167dfa1752a54b955a8ce4658860632fc63b"
-    releasesEtag: W/"ca2ac5c0e60663da19a1dd84cfad609e331fb26d862adc1bcfaba59d3c523721"
+    repoEtag: W/"eb037a9bdb3b11c88130feefa49aae55816e471d149f419a53a2a0a21e62c48d"
+    releasesEtag: W/"aec5bdd8a53cd9a421e6b932e699e0ed92a0f23a8ac0fbe1985cbe3a8c18f511"
 discovery:
   method: 'fork-network:DanielSant0s/AthenaEnv'
   confidence: 100

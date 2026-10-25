@@ -21,22 +21,24 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 74
+  stars: 76
   forks: 6
-  lastCommit: '2026-10-22T15:58:35Z'
+  lastCommit: '2026-10-25T11:17:09Z'
 latestRelease:
-  tag: v0.4.0
-  name: 'rac1-native 0.4.0: bug fixes, and almost all of the code ported'
-  publishedAt: '2026-10-18T14:25:41Z'
-  url: 'https://github.com/RAC-Native/rac1-native-game/releases/tag/v0.4.0'
+  tag: v0.5.0
+  name: >-
+    rac1-native 0.5.0: the launcher, Vulkan (experimental), the widescreen HUD
+    and the reworked modern lighting
+  publishedAt: '2026-10-24T17:04:05Z'
+  url: 'https://github.com/RAC-Native/rac1-native-game/releases/tag/v0.5.0'
 activity:
   lastChecked: '2026-10-12T16:07:57.694Z'
-  lastSynchronized: '2026-10-24T11:01:44.824Z'
+  lastSynchronized: '2026-10-25T11:31:00.494Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7f2644ec0d22b78136a7d4aa091643b3b7ae122a4c4e8626887705c32d0edc73"
-    releasesEtag: W/"ace82dee70b7026b838df2eae4d751e0ff59acb5c44dac214f2de04a55f5e882"
+    repoEtag: W/"06af01597b57204cbdff405c1e911db8b0f3646f49e9e630ae888cdd903f41a6"
+    releasesEtag: W/"efe305c613e059b54ddb19c7c66426b059278b07a3a34d8e7665cc42d03ef3a7"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
