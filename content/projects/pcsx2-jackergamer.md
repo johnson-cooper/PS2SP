@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/JackerGamer/PCSX2/releases/tag/input-enhancements-20260716-462be68eb
 activity:
-  lastSynchronized: '2026-10-25T06:11:39.270Z'
+  lastSynchronized: '2026-10-26T06:14:51.011Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4d856c5206a5ceef1c00c8e4ed8572f839faf06055cf5268c6a78783b7a2efe4"
-    releasesEtag: W/"efcc199b85ced5d1a57b9ee3e74f1ece01e9637e354a35237ddc4e1973a5a692"
+    repoEtag: W/"f7ac8d30bb16cd48f56a844c0768e9e9f14cd5fbf7e617a35d289e731aca7dca"
+    releasesEtag: W/"c2adc9e7a4a3f11e6436f9760b1b6180b5700c930e68c87d0b6c98938bdfa3b0"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

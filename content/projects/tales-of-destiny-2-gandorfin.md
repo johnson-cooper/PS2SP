@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-22T21:59:19Z'
   url: 'https://github.com/Gandorfin/Tales-of-Destiny-2/releases/tag/1.3.3'
 activity:
-  lastSynchronized: '2026-10-25T06:12:37.943Z'
+  lastSynchronized: '2026-10-26T06:15:57.223Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9b7850fa14e8f89af154a41086888461a6ab270421bf8079de365713f216b1bb"
-    releasesEtag: W/"48a9f0882ad8cc51dec62ff1e58c041086663690f2bf9bb8f916cb1f2aed1edf"
+    repoEtag: W/"1db8cbaf0841192b40f0134c06a038e4e14e873b762018173ed14bc9f2d9f5a9"
+    releasesEtag: W/"61402fb408664d6a2458396197886581a3445fc0c65340c3d071f860925d9068"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

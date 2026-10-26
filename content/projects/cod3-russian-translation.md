@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/alekszverr-jpg/cod3-russian-translation/releases/tag/v1.0'
 activity:
   lastChecked: '2026-10-20T15:22:35.905Z'
-  lastSynchronized: '2026-10-25T06:10:49.607Z'
+  lastSynchronized: '2026-10-26T06:13:52.085Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"63d93343b452de12f15e2142ca1d6b2d7c3ef157a4c019bd325c04496783de75"
-    releasesEtag: W/"69fd1e253d4c19a8f4ee6bf5b293ae96ea17a6afe3cee77282aa4c3b08d76f2b"
+    repoEtag: W/"fbf128c2d1bb766035ab0a7ac93ebffce7f661196daa4ed7e639a10b2e556d1d"
+    releasesEtag: W/"24bce1075278749116d5a2b825f437a60e69bcc0a0fee76d27fe3b9e696d1772"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

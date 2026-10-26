@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-25T10:09:09.591Z'
+  lastSynchronized: '2026-10-26T06:15:00.626Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ff7920ac0fae51e909967a9ebcbbd93038f4c577d63c13f2537c97f35d5a9f16"
+    releasesEtag: '"fd80ae07671e69e330b5a485bb1dd283e344c87f18874a4a0d6eb0f98cac3832"'
 discovery:
   method: 'fork-network:theclub654/ProjectCane'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: theclub654/ProjectCane
   source: theclub654/ProjectCane
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

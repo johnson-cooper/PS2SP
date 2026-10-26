@@ -25,21 +25,21 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-25T06:03:19Z'
+  lastCommit: '2026-10-26T06:12:33Z'
 latestRelease:
-  tag: launcher-dev-feature-launcher-logo
-  name: v0.8.5-dev.53 (feature/launcher-logo)
-  publishedAt: '2026-10-24T20:01:12Z'
+  tag: launcher-dev-fix-android-disc-setup
+  name: v0.8.5-dev.63 (fix/android-disc-setup)
+  publishedAt: '2026-10-25T12:43:45Z'
   url: >-
-    https://github.com/mateuszklysz/OpenRAC/releases/tag/launcher-dev-feature-launcher-logo
+    https://github.com/mateuszklysz/OpenRAC/releases/tag/launcher-dev-fix-android-disc-setup
 activity:
   lastChecked: '2026-10-13T19:32:43.126Z'
-  lastSynchronized: '2026-10-25T06:11:31.731Z'
+  lastSynchronized: '2026-10-26T06:14:42.326Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"521303851f0b2c0bc55465436c2dd12035e8f452bb339cdbe11da0547358a94c"
-    releasesEtag: W/"f6712ce979fee128ee4e45eb0cba264c341810ba5e7208af8aeaf3deb131b07b"
+    repoEtag: W/"109b1e55f4ce2341ff54c2923df0b65a28b5fb1bbabed4329904e8fcbb91beef"
+    releasesEtag: W/"20a0ca90b8501c503a49305150b617b60055a321507153d6c36d8bdf7e57a0f3"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

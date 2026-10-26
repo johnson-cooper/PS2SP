@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/sommepo/armsx2-reader/releases/tag/v0.2.0'
 activity:
   lastChecked: '2026-10-14T18:54:17.306Z'
-  lastSynchronized: '2026-10-25T06:10:43.126Z'
+  lastSynchronized: '2026-10-26T06:13:43.996Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d3288e696fc697aaa2f75f0a60e6cf888c9bc3fc347d60ef4b61536f7aa8e960"
-    releasesEtag: W/"0dd629b27d4ed55edf3fb4b05e741a6e41ee86251a93a9883a6a0eb3a5e9f9ac"
+    repoEtag: W/"54ff4adfca3e392496025a2104edd6c0b440930cd4b6e8e897523a0b61255606"
+    releasesEtag: W/"a3f9a530b4582b05e7d274cfb1a2b162e31453342f2114a448f67a94d4710dab"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

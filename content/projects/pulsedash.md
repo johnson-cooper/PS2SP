@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/dwzg/pulsedash/releases/tag/v1.3.0'
 activity:
   lastChecked: '2026-10-04T01:00:16.356Z'
-  lastSynchronized: '2026-10-25T06:12:29.022Z'
+  lastSynchronized: '2026-10-26T06:15:46.809Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ae79356ff929a2aa014f4e577d01017473cd8ceba5d85997f1c929f66c5ef894"
-    releasesEtag: W/"a1db69558529c3397308cc5ec438e95f6aeaeb5b837bcc549071397924f0474b"
+    repoEtag: W/"d853ba4dc8986eb2c5007f0bbbfcc3221980309776326eadc677f8767a3b651a"
+    releasesEtag: W/"1a8b17fdf079cc01e312d57342f83f16e3ee7f39d64f9af17077d20f53c2389b"
 discovery:
   method: 'pending-promotion:incremental:ps2sdk in:name,description,readme'
   confidence: 90

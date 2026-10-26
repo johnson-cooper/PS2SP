@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-25T06:11:01.537Z'
+  lastSynchronized: '2026-10-26T06:14:05.438Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a80ef5e1a09a6973d105bc6e471bc3e6efe7b685b697a5d9cea54953215525d1"
-    releasesEtag: '"654d5e3e1a5a9ef9e796502c1441ef105af6f549038446c1b045c75e80cd1ac0"'
+    repoEtag: W/"44014a70fefd5e29d4b9b9855fed2e65272698fe7f2b7fdd419ec66367ec113c"
+    releasesEtag: '"fd80ae07671e69e330b5a485bb1dd283e344c87f18874a4a0d6eb0f98cac3832"'
 discovery:
   method: 'fork-network:gustavocanepa/gt4-decomp'
   confidence: 100

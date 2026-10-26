@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2024-04-23T21:43:24Z'
   url: 'https://github.com/fjtrujy/PS2Ident/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-25T06:12:07.749Z'
+  lastSynchronized: '2026-10-26T06:15:23.072Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"85b04e743813326240ccb86cabda7a09e41802b958ea41bd54ef50cae9fd100b"
-    releasesEtag: W/"dc59bee3aaf18e44f7e76405181a2fa7e75bd2863826ffc2ef76f71ae35c31e7"
+    repoEtag: W/"70016e2d3687fc59246c0600f47877b817005918e924120bbc68c1fe12cd0f07"
+    releasesEtag: W/"57f4a616781ef0b33731a3baf39a6a48e8b129aabb724590c54151c55f0b58cd"
 discovery:
   method: 'fork-network:AKuHAK/PS2Ident'
   confidence: 100
