@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/Issung/PS2IODB/releases/tag/mymc%2B%2Bv0.1'
 activity:
   lastChecked: '2026-09-29T00:28:45.199Z'
-  lastSynchronized: '2026-10-23T13:28:28.367Z'
+  lastSynchronized: '2026-10-26T13:09:24.268Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a334373ae4167361ca43f1e8f5a7b61f4fb2ef302f4d50d5a6e59a77e5a465b1"
-    releasesEtag: W/"9d37c1b8d7fb6914b14c03e8a7586f528e0ca773211e70bc780ac0bad98595bd"
+    repoEtag: W/"563d85fc020285850f29c1f9ac9d07065b4a58cc24122ee391bf124cfe6321a7"
+    releasesEtag: W/"8855e216dfdbe3510f5526dd20e3ba8e158013d56c2735cc009378e54292777f"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 90

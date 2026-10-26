@@ -24,8 +24,8 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 305
-  forks: 9
+  stars: 323
+  forks: 12
   lastCommit: '2026-10-22T08:06:07Z'
 latestRelease:
   tag: decompilation
@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/theclub654/ProjectCane/releases/tag/decompilation'
 activity:
   lastChecked: '2026-10-10T22:56:45.140Z'
-  lastSynchronized: '2026-10-23T13:28:15.359Z'
+  lastSynchronized: '2026-10-26T13:09:07.194Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c1ae3dbd31a36d8ce8b1a23034c02b69290307bd714bc772c02df2d158620318"
-    releasesEtag: W/"15ac211fd465628bbd3fc1434ed4e34b67105b5676534995bf4a9b65e9ae90ed"
+    repoEtag: W/"ff786e30fe0fc9019d74c72cc754bfc5658ff6b277f54cf4e922c4d08223cbaf"
+    releasesEtag: W/"2ac56fae2bd80d934911e2acc5bad0abc9dc7d82c42711e0771e364d07580a23"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 70

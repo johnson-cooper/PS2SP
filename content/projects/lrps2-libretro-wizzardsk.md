@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-09-19T19:11:30Z'
   url: 'https://github.com/WizzardSK/lrps2-libretro/releases/tag/lrps2-bisect'
 activity:
-  lastSynchronized: '2026-10-23T13:27:41.304Z'
+  lastSynchronized: '2026-10-26T13:08:23.934Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a645b12a4a084016ef7fa715f276c13a8cd9faeadc793e3d27abe72cc1d83e18"
-    releasesEtag: W/"50e70ac862d938062b2a1e1e707d4ac34dd745fe56d85bb834ab80ea5d06c96b"
+    repoEtag: W/"a5beacbfccabfcf1c48dd327dd62417c4e3c6f1a7ffb4b2c0f0913ddfd5d08bf"
+    releasesEtag: W/"106da660b3f636cd49454a4acf4b1b9304ad60f3df364634aa3840cb43688789"
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 95

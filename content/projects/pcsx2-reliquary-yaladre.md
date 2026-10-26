@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-23T13:28:09.785Z'
+  lastSynchronized: '2026-10-26T13:09:01.156Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d1416511f8dd268ae6e51a998643bde9ec11d60bd6c80398a3409de059f94790"
-    releasesEtag: '"1f955df3cc0d5f50148d51c27f9f25e070d80480a00c6dcdbc2b3f8472658634"'
+    repoEtag: W/"f84c3a3a7283b390c640b61d1ae6bddae17702602c445138a471412e1c84279d"
+    releasesEtag: '"c986126542e0b5d1a30f2419f360b2edf077fb2694e04957eb80442520a691c2"'
 discovery:
   method: 'fork-network:Radioo/pcsx2-reliquary'
   confidence: 100

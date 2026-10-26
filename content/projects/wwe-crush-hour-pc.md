@@ -35,12 +35,12 @@ latestRelease:
     https://github.com/KaikoClanworth1/wwe-crush-hour-pc/releases/tag/v0.0.1-alpha
 activity:
   lastChecked: '2026-10-23T06:28:59.434Z'
-  lastSynchronized: '2026-10-23T13:28:59.391Z'
+  lastSynchronized: '2026-10-26T13:09:58.274Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"663b30f07b1685e1ba24b70d99e28c1b177e8a1fb87068520fa043ecd731bdd5"
-    releasesEtag: W/"a4b5e66d31882df67ba16deba83e3b0ea0a24277b92a29dfe9cc8c806fd11b47"
+    repoEtag: W/"5eab7961954438a815bd3ea514ff59f251849a2bee7008fb9e467155bcfd4168"
+    releasesEtag: W/"c41be74690e498bc014b653d260b07b56bd094c6e49bea7ab91370a073ee418e"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

@@ -18,7 +18,7 @@ repository:
   archived: false
   defaultBranch: main
   stars: 21
-  forks: 1
+  forks: 2
   lastCommit: '2026-10-19T02:41:54Z'
 latestRelease:
   tag: v2.0.0.0
@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-10-19T02:41:55Z'
   url: 'https://github.com/jimmyBizMobile/jellyfin-ps2/releases/tag/v2.0.0.0'
 activity:
-  lastSynchronized: '2026-10-23T13:27:32.700Z'
+  lastSynchronized: '2026-10-26T13:08:14.242Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5386ac7434546b5650f7a273fdd848f265dd63856b3497cd76d79a5386148132"
-    releasesEtag: W/"60e35c709fef2c195630814637fdcff8b4e0b2ea1bceac73bd6cc2e5079643a4"
+    repoEtag: W/"b6807e2f0726c66edf5dc149896cf884c4e7ac4dc31ac3a07ba920b456660b86"
+    releasesEtag: W/"91acc6afe05bf50c1c8d8d791ce3a585f914332be93c584cbe6d2581f668681a"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
