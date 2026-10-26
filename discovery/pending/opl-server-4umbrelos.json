@@ -1,0 +1,16 @@
+{
+  "repository": "NoFuzz-NoFun/OPL-Server-4UmbrelOS",
+  "repositoryId": "1434286950",
+  "url": "https://github.com/NoFuzz-NoFun/OPL-Server-4UmbrelOS",
+  "description": "Meu ps2 opl server vibecodaado para rodar dentro do umbrel OS. Inspirado completamente no El Mariolo OPL SERVER",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-26T14:34:04.716Z",
+  "checkedAt": "2026-10-26T14:34:04.716Z"
+}
