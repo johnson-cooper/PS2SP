@@ -1,0 +1,16 @@
+{
+  "repository": "JimmyMcThiccus/shadow-hearts-extractor",
+  "repositoryId": "1434648594",
+  "url": "https://github.com/JimmyMcThiccus/shadow-hearts-extractor",
+  "description": "Asset extractors for Shadow Hearts: Covenant and From the New World (PS2) + Blender cutscene importer",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-26T20:09:39.841Z",
+  "checkedAt": "2026-10-26T20:09:39.841Z"
+}

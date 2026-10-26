@@ -1,0 +1,16 @@
+{
+  "repository": "Fuindin/PSG2SaveEditor",
+  "repositoryId": "1264323033",
+  "url": "https://github.com/Fuindin/PSG2SaveEditor",
+  "description": "A WinForms application that allows a user to load and edit save states for the PS2 game Phantasy Star Generation 2. Supported Save states are from the PCSX2 emulator.",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-26T20:09:39.841Z",
+  "checkedAt": "2026-10-26T20:09:39.841Z"
+}

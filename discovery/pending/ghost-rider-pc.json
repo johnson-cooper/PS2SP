@@ -1,0 +1,16 @@
+{
+  "repository": "otavix010/ghost-rider-pc",
+  "repositoryId": "1434698396",
+  "url": "https://github.com/otavix010/ghost-rider-pc",
+  "description": "Ghost Rider (PS2, PAL): port nativo para PC por recompilação estática (PS2Recomp). Gera a partir da sua ISO. Em desenvolvimento.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-26T20:09:39.841Z",
+  "checkedAt": "2026-10-26T20:09:39.841Z"
+}

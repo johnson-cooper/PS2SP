@@ -1,0 +1,16 @@
+{
+  "repository": "otavix010/10000-bullets-pc",
+  "repositoryId": "1434697615",
+  "url": "https://github.com/otavix010/10000-bullets-pc",
+  "description": "10.000 Bullets (PS2, PAL): port nativo para PC por recompilação estática (PS2Recomp). Gera a partir da sua ISO. Em desenvolvimento.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-26T20:09:39.841Z",
+  "checkedAt": "2026-10-26T20:09:39.841Z"
+}
