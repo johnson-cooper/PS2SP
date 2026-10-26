@@ -20,7 +20,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 275
+  stars: 276
   forks: 13
   lastCommit: '2026-10-07T11:11:58Z'
 latestRelease:
@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/Irfanlesnar/PS2-Launcher/releases/tag/v5.0.0'
 activity:
   lastChecked: '2026-09-29T00:29:07.917Z'
-  lastSynchronized: '2026-10-25T19:38:47.809Z'
+  lastSynchronized: '2026-10-26T19:21:26.119Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ab0c9b4c7b05179694bd685756e7a445cd7f2901f094416e22627bcdf56faab7"
-    releasesEtag: W/"db0e183c65bad483cc86c2f5e3ef91a7f89ee05a7305b209312e112c40c7e452"
+    repoEtag: W/"08c5acd51d497500b3aa8162ca720fe65bc2eb820054ca121ef0f22e52820ec4"
+    releasesEtag: W/"0f1e66a658eca425235c8c60444f6da0a92059d0b94b6143cc3992dc0222c72e"
 discovery:
   method: github-search
   confidence: 100

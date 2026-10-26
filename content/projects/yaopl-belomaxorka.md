@@ -36,12 +36,12 @@ latestRelease:
   publishedAt: '2026-10-23T07:19:26Z'
   url: 'https://github.com/belomaxorka/yaopl/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-25T19:39:30.321Z'
+  lastSynchronized: '2026-10-26T19:22:11.875Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"66dd29c74940d65c98e9090251f48ca9229cef2d394782ce0a8b65d4b83d8727"
-    releasesEtag: W/"08b718886a5fa984c9bb5ea152a807bb7b9c9cf3c8f81115bcc13af60be67a7b"
+    repoEtag: W/"9cd890fb40150b180afbe63d1af3de08160e1e07f283f3cf18985133aa27cd53"
+    releasesEtag: W/"ab9decc20c8648ac4848bbbcb27e68c2c98d070783fc1e3a892c10097bec4a5c"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

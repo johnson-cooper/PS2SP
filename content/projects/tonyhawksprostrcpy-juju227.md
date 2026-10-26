@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-25T19:39:23.318Z'
+  lastSynchronized: '2026-10-26T19:22:04.254Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5cac5b357a95d62582e7e06d8ecd5c117e16c4b7a81c180530f17bae7a7df6ef"
-    releasesEtag: '"17828022ef91e6b899139ea659c43195f157e5fe9fda163fe4cfd658085b1033"'
+    repoEtag: W/"685a194e891fe85519ed4577df08cd7746823a5e77ee66f13ef502ad52658ae5"
+    releasesEtag: '"38c3ccd7f65944b3f303bfcb7997b3c76200ccc2765c2dd0e0948d7774a01ca4"'
 discovery:
   method: 'fork-network:grimdoomer/TonyHawksProStrcpy'
   confidence: 95

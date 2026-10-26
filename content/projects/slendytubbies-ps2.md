@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-15T18:50:25Z'
   url: 'https://github.com/LucianoDoS/slendytubbies-ps2/releases/tag/v0.1.0'
 activity:
-  lastSynchronized: '2026-10-25T19:39:20.224Z'
+  lastSynchronized: '2026-10-26T19:22:00.824Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d8dbba87747bbea867cc40a6f9b3ed924916a8b88552da1e9561ff953cc6de17"
-    releasesEtag: W/"d358dd539e024a6e97d87d079e7d6d9726ef834b210b531bef30d19841d1f234"
+    repoEtag: W/"0418ee28b813f433a85f060c74ad73ae78dfca8065336fbd0cfea1ab271957e4"
+    releasesEtag: W/"88ea791562550e9c882822ed86ffd45d56b2a8a4a6d870994a47c9582bddf748"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

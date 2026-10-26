@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-25T19:39:17.694Z'
+  lastSynchronized: '2026-10-26T19:21:57.832Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2d5485fe52f2c8af3886497465560e6e91d7e4dbe38c59b856cccbd1269009c2"
-    releasesEtag: '"17828022ef91e6b899139ea659c43195f157e5fe9fda163fe4cfd658085b1033"'
+    repoEtag: W/"6890c1716929c60b37c6f1af7c02a3035d55b9ecc11a882e50d3a5bec46c8475"
+    releasesEtag: '"38c3ccd7f65944b3f303bfcb7997b3c76200ccc2765c2dd0e0948d7774a01ca4"'
 discovery:
   method: 'fork-network:raylib4Consoles/raylib4PlayStation2'
   confidence: 100

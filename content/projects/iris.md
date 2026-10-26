@@ -27,12 +27,12 @@ latestRelease:
   url: 'https://github.com/allkern/iris/releases/tag/0.20-alpha'
 activity:
   lastChecked: '2026-09-29T00:28:54.794Z'
-  lastSynchronized: '2026-10-25T19:37:56.953Z'
+  lastSynchronized: '2026-10-26T19:20:27.252Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"316ec7daef1cabfce0547d48d117e67194fe86760ac149a5d98eeb5587ac27be"
-    releasesEtag: W/"1df16f4b544e5db0a67f49e3d379e3fc69b1f0ed8e009464a70a62968e18bb93"
+    repoEtag: W/"a35cd3fd62106be1f895d1fe5994547753936fbcd326ea8a1ed2548a3a7991ae"
+    releasesEtag: W/"e0fa291e23adfb524b9d0ac37d4c2cfa39c84c0f42be5ceba327ed58e93bee93"
 discovery:
   method: github-search
   confidence: 100

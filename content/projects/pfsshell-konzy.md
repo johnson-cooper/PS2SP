@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-25T19:38:35.570Z'
+  lastSynchronized: '2026-10-26T19:21:12.414Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"62bad0fabc004aed0d22c8aec0b95c28de9005164683693b4eb099cbef75ee89"
-    releasesEtag: '"17828022ef91e6b899139ea659c43195f157e5fe9fda163fe4cfd658085b1033"'
+    repoEtag: W/"c43a9134b235e218b36d7f86e49658049546e99ba6f6f397ffa7c6a4fca5d1e5"
+    releasesEtag: '"38c3ccd7f65944b3f303bfcb7997b3c76200ccc2765c2dd0e0948d7774a01ca4"'
 discovery:
   method: 'fork-network:makefu/pfsshell'
   confidence: 95
