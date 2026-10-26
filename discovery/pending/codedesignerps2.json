@@ -1,0 +1,16 @@
+{
+  "repository": "FatalityDevelopment/CodeDesignerPS2",
+  "repositoryId": "1136140921",
+  "url": "https://github.com/FatalityDevelopment/CodeDesignerPS2",
+  "description": "CodeDesigner – PlayStation 2 toolkit / debugger (vsCode Extension)",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-26T07:00:06.885Z",
+  "checkedAt": "2026-10-26T07:00:06.885Z"
+}
