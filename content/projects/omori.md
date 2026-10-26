@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 33
+  stars: 37
   forks: 0
   lastCommit: '2026-10-24T12:18:53Z'
 latestRelease:
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/meetox80/omori/releases/tag/v1.1.2'
 activity:
   lastChecked: '2026-10-21T12:26:22.872Z'
-  lastSynchronized: '2026-10-25T01:14:40.407Z'
+  lastSynchronized: '2026-10-26T01:11:24.339Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1ed01a3b12e0c4d90bfaa1af5fddc81a1c9557aeadb66e979328fd35dc1553b0"
-    releasesEtag: W/"e9bcecdba84f3b0f3ef23335dc4b2fb2692c5496ce6970a99defef8db722af26"
+    repoEtag: W/"e33ed037e593d3466813bf784c2c49e2e777c97c58191168f74bbd522a6c5f8b"
+    releasesEtag: W/"09196f92a77242de741de6d24314d6650793f8f557d0ee7fcd8dd565866d2486"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

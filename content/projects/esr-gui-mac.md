@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-10-16T16:58:11Z'
   url: 'https://github.com/giancoppola/ESR-Patcher-for-Mac/releases/tag/v0.1.0'
 activity:
-  lastSynchronized: '2026-10-25T01:14:12.506Z'
+  lastSynchronized: '2026-10-26T01:10:48.601Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4c1024b1e9328b35ed15e96589528e8972d7acd15b76b5782c359f6f747941d5"
-    releasesEtag: W/"133d188dbdd199df5649309261613c1f80dd65bec624e5e56d8fb01cb122002c"
+    repoEtag: W/"f4019298e3a677c08bf0e2871ffff5489b01e24c87e19db58c401d8031e3c6e4"
+    releasesEtag: W/"e9986f26e1979217d7e400592dcb4be39b0a858c77b618afbd69d44e627ed1d4"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

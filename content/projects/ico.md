@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-24T15:49:33Z'
   url: 'https://github.com/nathanialf/ico/releases/tag/pal-v1.0.4'
 activity:
-  lastSynchronized: '2026-10-25T01:14:24.097Z'
+  lastSynchronized: '2026-10-26T01:11:03.784Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c9321d9311c57faf50a7b2f1919d872c229702d095741fa9b159b0113134ca75"
-    releasesEtag: W/"b6cb0d8c21e9431110a02a6793f2fe85f3b8f5050bf9476a21a55c1cf9fc63e6"
+    repoEtag: W/"d571ea820afcccfdb2bcd90ad92064c08d2da5d1a6ffc4b3006f0b080e464313"
+    releasesEtag: W/"511f049d9e8d9b11972aa4d6c60d229e9f87c1d54be12610964805fee53eea4a"
 discovery:
   method: pending-recheck
   confidence: 100
