@@ -1,0 +1,16 @@
+{
+  "repository": "SilverCrow2323/pcsx2-rt-stream",
+  "repositoryId": "1433740577",
+  "url": "https://github.com/SilverCrow2323/pcsx2-rt-stream",
+  "description": "Stream your PS2 library from a Linux PC running PCSX2 to a muOS handheld via Sunshine + Moonlight.",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-26T01:43:46.634Z",
+  "checkedAt": "2026-10-26T01:43:46.634Z"
+}
