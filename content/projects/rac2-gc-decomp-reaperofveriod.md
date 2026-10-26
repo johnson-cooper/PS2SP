@@ -16,26 +16,26 @@ license: GPL-3.0
 homepage: null
 source:
   provider: github
-  repository: ReaperOfVeriod/rac2-gc-decomp
+  repository: ReaperOfVeriod/rac2-decomp
   repositoryId: '1420038109'
 repository:
   archived: false
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-23T01:48:49Z'
+  lastCommit: '2026-10-26T08:30:55Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T23:16:28.695Z'
+  lastSynchronized: '2026-10-26T23:55:31.671Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d7ad2d8e3245a71e13593a458fa8332e770248186a2be184e6c4dff6042eab98"
-    releasesEtag: '"d958fbfec27a80deaeffdf70593bfd5e43f02f963f152d4a8d9f4917da92f5c0"'
+    repoEtag: W/"e071d9e3bf7d5531662eeffaa6722d4ba0a4bc6aac5bee9e695f32fd8a1d5176"
+    releasesEtag: '"504ca22ff8123bd7805f73d3c3e9e41aa43de67ba6ae4002821d1e6a9f7aa914"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

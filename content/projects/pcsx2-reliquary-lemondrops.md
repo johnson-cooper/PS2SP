@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/lemondrops/pcsx2-reliquary/releases/tag/v2.9.78-reliquary-1.9.4
 activity:
-  lastSynchronized: '2026-10-24T23:15:51.315Z'
+  lastSynchronized: '2026-10-26T23:54:44.705Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5c0014aa4dc42108b94f43a210a8d44e03391e758b451d31656b3ed4a2898a64"
-    releasesEtag: W/"b371fbff4f2e77444a364483fc364811f6c5177f2aebe6ad8781db58a176967b"
+    repoEtag: W/"9c3c209ce9e4e8c3aa041e34164ffbfa2010f3dcd71977d7f008fc02863f55b7"
+    releasesEtag: W/"a3e8c70a34a9ccbd3c4c58e2d589f878ed169b9418bacb5548a640da7bd23515"
 discovery:
   method: 'fork-network:DiscoStarslayer/pcsx2-reliquary'
   confidence: 100

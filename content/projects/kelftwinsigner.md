@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2022-06-10T22:11:57Z'
   url: 'https://github.com/israpps/KelfTwinSigner/releases/tag/Latest'
 activity:
-  lastSynchronized: '2026-10-24T23:15:25.240Z'
+  lastSynchronized: '2026-10-26T23:54:11.999Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e86837a35a05ba65a5c25b5bc977fe8581867b6a31cac34da959ee73dd99f7a0"
-    releasesEtag: W/"5d8a9bfd2342de11443e61111d6f4cccadcf538a188c45d3cdf2f78f6b40b2b0"
+    repoEtag: W/"4f983086757465f6da40297006b7e37f3eae8bf9af2ed56fb5ee7648a78cc305"
+    releasesEtag: W/"fdc636cbc629215c15502c201b1f60cbdea4cb03dfc47b4649c74ae6da54012f"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

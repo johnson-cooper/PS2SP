@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2022-09-16T10:58:58Z'
   url: 'https://github.com/ps2homebrew/OPL-Launcher/releases/tag/1.0'
 activity:
-  lastSynchronized: '2026-10-24T23:15:41.984Z'
+  lastSynchronized: '2026-10-26T23:54:33.740Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"007990de4a18078c744765607128703e734c1653ec551f44b46da9806c15661f"
-    releasesEtag: W/"2046a4a3b224f2af210a832230832509be5834b25de9940493cea17833693f9d"
+    repoEtag: W/"038b226fab60e05c36823d2fb24066ff7b7a8b896835ec413ccc57b9c3185674"
+    releasesEtag: W/"bbde93e4b45125c678933208c888a24ef1c85c92e22d8c175fe5a0a014369a8f"
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100

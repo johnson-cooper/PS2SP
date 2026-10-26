@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/khant735/PS3-PSU-Manager/releases/tag/dev-v1.63-build.211.1
 activity:
-  lastSynchronized: '2026-10-24T23:16:23.890Z'
+  lastSynchronized: '2026-10-26T23:55:25.553Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"889171cbcbcd911597a6e9c33f9e781f430e236b7542868844405ff4c34b283f"
-    releasesEtag: W/"b13d7b8d16f8aa85c17b52d3ffdf74ea1901907bc6b75913a6f6eddfa4115fef"
+    repoEtag: W/"dbe95b6daa7552c5fd652a3015d0f7b9e6ead136d9998e950e53a5e11d9f6498"
+    releasesEtag: W/"2f9ec0c74654f12fba3b758c5bf812ba00ea02eaf7ea675a95f6f224d5de83f0"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -22,10 +22,10 @@ source:
   url: 'https://github.com/sungsphinx/ClassiCube'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-24T23:57:14Z'
 latestRelease:
   tag: null
   name: null
@@ -33,8 +33,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-25T00:31:44.133Z'
+  lastSynchronized: '2026-10-26T23:53:43.798Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6c98c8f7ca09e752c2fcdf4259823b4aa74565ffacc1f220f21402181416ccfa"
+    releasesEtag: '"504ca22ff8123bd7805f73d3c3e9e41aa43de67ba6ae4002821d1e6a9f7aa914"'
 discovery:
   method: 'pending-promotion:incremental:"ps2 port" in:name,description,readme'
   confidence: 75
@@ -50,5 +54,4 @@ relationships:
   forkOf: ClassiCube/ClassiCube
   source: ClassiCube/ClassiCube
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

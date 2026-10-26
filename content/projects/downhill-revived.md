@@ -21,21 +21,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 32
-  forks: 3
-  lastCommit: '2026-10-24T16:59:05Z'
+  stars: 64
+  forks: 7
+  lastCommit: '2026-10-26T20:28:24Z'
 latestRelease:
-  tag: v0.3.1
-  name: Downhill Revived 0.3.1
-  publishedAt: '2026-10-24T16:59:11Z'
-  url: 'https://github.com/skuza-oss/downhill-revived/releases/tag/v0.3.1'
+  tag: v0.5.0
+  name: Downhill Revived 0.5.0
+  publishedAt: '2026-10-26T20:28:33Z'
+  url: 'https://github.com/skuza-oss/downhill-revived/releases/tag/v0.5.0'
 activity:
-  lastSynchronized: '2026-10-24T23:15:04.227Z'
+  lastSynchronized: '2026-10-26T23:53:47.783Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b579b89375c50a8850e5373f4329c2223d0e4e0e2f742088e9e9086514b6779f"
-    releasesEtag: W/"10070a0d4d3ec9a55c693547a0288f153b24023b3533bec52048a7cbd5e56064"
+    repoEtag: W/"edad2f8d3b8c2faf151a4e717470c6941aeb7349900dcb2ee1e090055b228761"
+    releasesEtag: W/"ee21322f12c8abdc2155b1aebc797b0d8fbc9bef7cb82c87cbbc49505fea5ef9"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
