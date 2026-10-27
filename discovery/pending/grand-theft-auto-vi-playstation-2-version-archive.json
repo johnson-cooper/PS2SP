@@ -1,0 +1,16 @@
+{
+  "repository": "Devayan-135/Grand-Theft-Auto-VI-PlayStation-2-Version-Archive",
+  "repositoryId": "1436032425",
+  "url": "https://github.com/Devayan-135/Grand-Theft-Auto-VI-PlayStation-2-Version-Archive",
+  "description": "It's the ultimate level of Grand Theft Auto VI mod for the PlayStation 2. This is done on the bootleg of the legendary mod work of the Grand Theft Auto Vice City, by Pedro_PAP has done the foundation work by first major overhaul, and injecting custom new textures, and models of vehicles, Jason, and Lucia characters with unique switching system.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-27T21:29:01.337Z",
+  "checkedAt": "2026-10-27T21:29:01.337Z"
+}
