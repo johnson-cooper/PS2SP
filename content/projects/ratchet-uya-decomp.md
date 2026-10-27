@@ -16,26 +16,26 @@ license: null
 homepage: 'https://openrac.dev/'
 source:
   provider: github
-  repository: OpenRAC/rac3-uya-decomp
+  repository: vetusmagnus/rac3-uya-decomp
   repositoryId: '1381074406'
 repository:
   archived: false
   defaultBranch: main
-  stars: 25
+  stars: 35
   forks: 3
-  lastCommit: '2026-10-16T15:03:50Z'
+  lastCommit: '2026-10-22T18:14:22Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-16T21:09:52.506Z'
+  lastSynchronized: '2026-10-27T21:21:52.584Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8e27768c0030d8e00e2e0394dfd3cb21c126fdbd2e118c338f321f428736f6b0"
-    releasesEtag: '"93e34ac1244782a0121e42d9354130286354c9e7e44c0a46cf8934224d432d45"'
+    repoEtag: W/"1aa0a673d149c62ae055eec395e85c2c7928df25107fe4bc16d92463f3101ee1"
+    releasesEtag: '"d07c796e30f535638c8c1195e1d7bb3337cbd88ac1b448751b73563c614dd6ad"'
 discovery:
   method: 'incremental:topic:ps2'
   confidence: 100

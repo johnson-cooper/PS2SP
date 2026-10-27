@@ -22,9 +22,9 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 33
+  stars: 34
   forks: 0
-  lastCommit: '2026-10-09T17:17:21Z'
+  lastCommit: '2026-10-21T03:33:56Z'
 latestRelease:
   tag: v3.35.0
   name: 'UnoDOS v3.35.0 - Wi-Fi on real hardware, file transfer, and Linux appliances'
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/hmofet/unodos/releases/tag/v3.35.0'
 activity:
   lastChecked: '2026-10-09T16:35:29.097Z'
-  lastSynchronized: '2026-10-16T21:10:01.558Z'
+  lastSynchronized: '2026-10-27T21:22:05.817Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"aeb02bcf1f845f784ce04cf03fbb21471a4c4880ee345a27fd8269cffbba1eb1"
-    releasesEtag: W/"d6e3da17a6031d50bcbe8d3dc06ce12974509c02ed4c6688a99a00490f1ff0fc"
+    repoEtag: W/"158ffca8e9ed2c2dd4042f67efcc7ff5b787784c287fdf11ccb9c1e5b0d75ba4"
+    releasesEtag: W/"1fe67cc665a635d5e4ab5d884cd77452798c090c170c84dfdcd0133c8300f895"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 80

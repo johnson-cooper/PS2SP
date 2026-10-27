@@ -14,7 +14,7 @@ tags:
   - fork
 features: []
 authors: []
-license: null
+license: MIT
 homepage: null
 source:
   provider: github
@@ -23,10 +23,10 @@ source:
   url: 'https://github.com/pkayee/SOTC-cmake'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-27T01:53:32Z'
 latestRelease:
   tag: null
   name: null
@@ -34,8 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-24T12:13:58.718Z'
+  lastSynchronized: '2026-10-27T21:21:59.717Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"18076a7c28c6b0ee792cd320311022e64c5d6e1919bd6b6fb714dd387c44b7e0"
+    releasesEtag: '"d07c796e30f535638c8c1195e1d7bb3337cbd88ac1b448751b73563c614dd6ad"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85
@@ -51,5 +55,4 @@ relationships:
   forkOf: Fantaskink/SOTC
   source: Fantaskink/SOTC
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

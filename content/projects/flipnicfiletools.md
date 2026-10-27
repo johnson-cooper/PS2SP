@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/MarkusMaal/FlipnicFileTools/releases/tag/2.3.1'
 activity:
   lastChecked: '2026-10-07T22:16:51.969Z'
-  lastSynchronized: '2026-10-16T21:08:47.967Z'
+  lastSynchronized: '2026-10-27T21:20:10.615Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b2ca840713edf00a4cbb8df8c56ae770ae55714a4b90732c3547641c6d0ff521"
-    releasesEtag: W/"ed29b38b010a2d02411477817943f5ea02f0d94e406de218158449657e152ff7"
+    repoEtag: W/"042de4d121be0d05143d8e2a202bb874dad267ce690b854c0cdf1d4c7d2c303e"
+    releasesEtag: W/"893d51943d9ea9a10950a087d42d70b57101330d81ce4051870da878bdb01199"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 90

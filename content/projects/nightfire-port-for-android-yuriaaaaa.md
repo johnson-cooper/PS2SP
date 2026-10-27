@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T07:00:06.885Z'
+  lastSynchronized: '2026-10-27T21:20:44.480Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"07a1e26aa9a6157c9c72dd3057cbf21b11431d9fb4656af2b5b8083e66438738"
+    releasesEtag: '"d07c796e30f535638c8c1195e1d7bb3337cbd88ac1b448751b73563c614dd6ad"'
 discovery:
   method: 'fork-network:Jeffsteelflex/nightfire-port'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: Jeffsteelflex/nightfire-port
   source: Jeffsteelflex/nightfire-port
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

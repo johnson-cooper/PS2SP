@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: ps2
-  stars: 5
+  stars: 6
   forks: 1
   lastCommit: '2026-02-16T10:46:47Z'
 latestRelease:
@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2025-12-21T00:12:54Z'
   url: 'https://github.com/Wolf3s/prboom-plus/releases/tag/1.0.0.1'
 activity:
-  lastSynchronized: '2026-10-16T21:09:28.659Z'
+  lastSynchronized: '2026-10-27T21:21:12.679Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5bae64b9764a3b7a1545100bf6fd2b9e961a63026409146bf31e664e1969da00"
-    releasesEtag: W/"f68b2493257f862fe158b9078b165219296d4387054f5e1a20785cf2396f9488"
+    repoEtag: W/"a34873b5ce9009a0c69cb070ac2222519f1a4e960c1e56d4fc483ceb04857456"
+    releasesEtag: W/"a51a9d9ac17ff287ef9aea2155268f10fd973154d8398972d52ace5545092a51"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

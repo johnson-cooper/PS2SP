@@ -27,12 +27,12 @@ latestRelease:
   url: 'https://github.com/israpps/Funtuna-Fork/releases/tag/latest'
 activity:
   lastChecked: '2026-09-29T00:27:02.458Z'
-  lastSynchronized: '2026-10-16T21:08:52.472Z'
+  lastSynchronized: '2026-10-27T21:20:16.941Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"58540491011ec0c7390b26eb0d25b9d6ec60e0fb6f9a92a1b73bcb6b5f7c6afe"
-    releasesEtag: W/"eebfa1c118ad8c0a966cfafb087a727dae641966be66e88dc73bf32d52f2293e"
+    repoEtag: W/"a9241ea969980a805839b1b6900365a880a5616af6b630987369cb03de9b8ca3"
+    releasesEtag: W/"f651e98988f087c3608182fb8e7aa4c621a07f89a48b0380a2d0cac262fb838d"
 discovery:
   method: github-search
   confidence: 95

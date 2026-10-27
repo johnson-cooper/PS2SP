@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-16T21:10:01.088Z'
+  lastSynchronized: '2026-10-27T21:22:05.244Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a1b5808d8fad4343107965354186d20840446c75f6bd70c615b97bcaca358167"
-    releasesEtag: '"93e34ac1244782a0121e42d9354130286354c9e7e44c0a46cf8934224d432d45"'
+    repoEtag: W/"f136bfa6bf2fd4b97a72c2a86c41e2bb6835fac130510c0a1ff8936c1a459ec9"
+    releasesEtag: '"d07c796e30f535638c8c1195e1d7bb3337cbd88ac1b448751b73563c614dd6ad"'
 discovery:
   method: 'fork-network:pcm720/udpfsd'
   confidence: 95

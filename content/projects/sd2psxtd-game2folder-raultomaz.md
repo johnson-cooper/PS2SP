@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-21T20:54:13.012Z'
+  lastSynchronized: '2026-10-27T21:21:57.152Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"362070eb7e0a548ff55012b99242267265e6c9b9e2d1ffdf576129ccc2f7054e"
+    releasesEtag: '"d07c796e30f535638c8c1195e1d7bb3337cbd88ac1b448751b73563c614dd6ad"'
 discovery:
   method: 'fork-network:lucaslealdev/sd2psXtd-game2folder'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: lucaslealdev/sd2psXtd-game2folder
   source: sd2psx/firmware
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
