@@ -1,0 +1,17 @@
+{
+  "repository": "TatsunaKyo/YakuzaRecomp",
+  "repositoryId": "1426397159",
+  "url": "https://github.com/TatsunaKyo/YakuzaRecomp",
+  "description": null,
+  "score": 75,
+  "evidence": [
+    "README explicitly mentions PlayStation 2",
+    "README contains PS2 development/toolchain evidence",
+    "published GitHub release present"
+  ],
+  "origin": "incremental:ps2sdk in:name,description,readme",
+  "maturity": "prerelease-only",
+  "fork": null,
+  "discoveredAt": "2026-10-27T05:36:47.166Z",
+  "checkedAt": "2026-10-27T05:36:47.166Z"
+}

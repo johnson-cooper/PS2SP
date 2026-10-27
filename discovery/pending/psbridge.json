@@ -1,7 +1,7 @@
 {
-  "repository": "DevNoib/PSBridge",
+  "repository": "eclipsebladestudioficial/PSBridge",
   "repositoryId": "1368495882",
-  "url": "https://github.com/DevNoib/PSBridge",
+  "url": "https://github.com/eclipsebladestudioficial/PSBridge",
   "description": "a compatibility and recompilation project that aims to bring PSP software to the PlayStation 2 by translating Allegrex code to the R5900 architecture and providing the runtime support needed for psp apis, graphics, audio, and system services",
   "score": 75,
   "evidence": [
@@ -12,5 +12,5 @@
   "maturity": "active-wip",
   "fork": null,
   "discoveredAt": "2026-10-17T21:45:31.930Z",
-  "checkedAt": "2026-10-23T23:30:39.239Z"
+  "checkedAt": "2026-10-27T05:36:47.166Z"
 }

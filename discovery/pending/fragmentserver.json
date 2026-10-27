@@ -1,0 +1,15 @@
+{
+  "repository": "PSRewired/FragmentServer",
+  "repositoryId": "630279501",
+  "url": "https://github.com/PSRewired/FragmentServer",
+  "description": "Rewrite of the NetSlum .hack Fragment server",
+  "score": 75,
+  "evidence": [
+    "PS2-specific topic"
+  ],
+  "origin": "incremental:topic:ps2",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-27T05:36:47.166Z",
+  "checkedAt": "2026-10-27T05:36:47.166Z"
+}
