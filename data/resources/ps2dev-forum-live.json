@@ -14260,6 +14260,30 @@
         ]
       },
       {
+        "name": "PS2Dev Forums — Thu Jan 01, 1970 10:00 am",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=1438",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — fileio question",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=1433",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
         "name": "PS2Dev Forums — How's SDL doing?",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=1432",
         "keywords": [
@@ -14298,6 +14322,18 @@
       {
         "name": "PS2Dev Forums — Is there a way to read eprom?",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=1421",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — understanding how SDL joystick's hat works and maybe a bug",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=1420",
         "keywords": [
           "PS2",
           "PlayStation 2",
@@ -14368,8 +14404,32 @@
         ]
       },
       {
+        "name": "PS2Dev Forums — libpng needs pow",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=1408",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
         "name": "PS2Dev Forums — problem once again oopos script/cygwin -newlib patch routine",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=1407",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — SDL_ps2video.c compiling error",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=1406",
         "keywords": [
           "PS2",
           "PlayStation 2",
@@ -15496,6 +15556,18 @@
         ]
       },
       {
+        "name": "PS2Dev Forums — A little lost with the SDL port",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=1066",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
         "name": "PS2Dev Forums — Listing Directory Contents from CD",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=1061",
         "keywords": [
@@ -15594,6 +15666,18 @@
       {
         "name": "PS2Dev Forums — ps2 boot disc for copy and homebrew games",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=1048",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — include problem when compiling libmp3",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=1047",
         "keywords": [
           "PS2",
           "PlayStation 2",
@@ -16146,6 +16230,18 @@
       {
         "name": "PS2Dev Forums — gsKit Fonts",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=962",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — 800x600 resolution",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=960",
         "keywords": [
           "PS2",
           "PlayStation 2",
@@ -25156,8 +25252,68 @@
         ]
       },
       {
+        "name": "PS2Dev Forums — OpenGL Support...",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=20",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — PS1 dev using PS2?",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=18",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
         "name": "PS2Dev Forums — Step up to become the VU master!",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=16",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Setting up Pukklink",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=15",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — explanation on how to use mr brown's exploit",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=14",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — SifIopReset(const char *arg, int mode);",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=13",
         "keywords": [
           "PS2",
           "PlayStation 2",
@@ -25194,6 +25350,18 @@
       {
         "name": "PS2Dev Forums — Playstation 2 Serial Cable (EE)",
         "url": "https://forums.ps2dev.org/viewtopic.php?t=7",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "PS2Dev",
+          "forum",
+          "development",
+          "archive"
+        ]
+      },
+      {
+        "name": "PS2Dev Forums — Problems loading PS2LINK v1.2",
+        "url": "https://forums.ps2dev.org/viewtopic.php?t=6",
         "keywords": [
           "PS2",
           "PlayStation 2",
