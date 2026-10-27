@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-23T18:38:25Z'
+  lastCommit: '2026-10-25T18:41:37Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T05:56:01.598Z'
+  lastSynchronized: '2026-10-27T05:07:01.959Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ae19c01afe47e6b6e2af17c066c71e9deb938374f2f090507b065cb7b61d4fce"
-    releasesEtag: '"6651f0a326fe50ee327dca388d5c531714ef939da31569d651d528b162d31cc1"'
+    repoEtag: W/"8eead4d4ca235b93261c9d54e465ce36b9eec2f4dfb0b17edabd0bf78f9616f8"
+    releasesEtag: '"8962456a2767bc9200ffde34dbf3ce364232427596717043c1b51556df0f7cba"'
 discovery:
   method: 'incremental:"PS2 homebrew" in:name,description,readme'
   confidence: 100

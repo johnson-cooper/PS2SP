@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-07-20T18:53:53Z'
   url: 'https://github.com/Bastian2024/pcsx2-3ds/releases/tag/Pineapple'
 activity:
-  lastSynchronized: '2026-10-24T05:55:05.407Z'
+  lastSynchronized: '2026-10-27T05:06:01.041Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3df6722bea58414e2c3fa448051551a854fc621ed7f1bf1432da6423e6ad75d0"
-    releasesEtag: W/"3b2bb5f39b26a60f766c6b4f0975bc31152e58ce8a8f96bb50def69702d18916"
+    repoEtag: W/"23a615f2576a617fa4b084f8b8f7c7fdb79ec5cf791af2475cd65edb88a40c08"
+    releasesEtag: W/"3702cde9066385940bc7f694525476b6d05e9e0025421149d87285fd7a339470"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

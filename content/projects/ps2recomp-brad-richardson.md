@@ -33,12 +33,12 @@ latestRelease:
   url: >-
     https://github.com/brad-richardson/PS2Recomp/releases/tag/android-prebuilt-82fcd61da77efd7d2ae449cd53a2a9c55122f53430a245ba8dfa33fc4c29302c
 activity:
-  lastSynchronized: '2026-10-24T05:55:35.776Z'
+  lastSynchronized: '2026-10-27T05:06:34.283Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"39a95320d875918731b9de11016166c10893b50247b857a06002df66e73018a0"
-    releasesEtag: W/"da2e9a3c6fd93c65fe055d33fbf135350a4bcd1164bdb230d471174f83e3acd9"
+    repoEtag: W/"426080641013cde735156fae0a019b9056bb583ad7ab34b7a84076ddd36d4dac"
+    releasesEtag: W/"f2d284e814ae5b88de556e42f80c4b8d2bc64f2dc31b03ca13be85bb824121dc"
 discovery:
   method: 'fork-network:ran-j/PS2Recomp'
   confidence: 100

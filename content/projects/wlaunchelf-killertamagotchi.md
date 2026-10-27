@@ -28,19 +28,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-01-30T17:54:30Z'
+  lastCommit: '2026-10-24T15:31:09Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T05:56:05.657Z'
+  lastSynchronized: '2026-10-27T05:07:06.774Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0df0f60d0cf458ba0bc82c9dc359b1d302e9d90f834f2fd3908d36d3ed5e8b68"
-    releasesEtag: '"6651f0a326fe50ee327dca388d5c531714ef939da31569d651d528b162d31cc1"'
+    repoEtag: W/"b5b085eb63b221eba3da59683fc3ced78cd839fc965845a3ba185c587ad8ab60"
+    releasesEtag: '"8962456a2767bc9200ffde34dbf3ce364232427596717043c1b51556df0f7cba"'
 discovery:
   method: 'fork-network:ps2homebrew/wLaunchELF'
   confidence: 100

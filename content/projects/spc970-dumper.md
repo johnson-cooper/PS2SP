@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-09-22T19:07:12Z'
   url: 'https://github.com/spc970-dumper-union/spc970-dumper/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-24T05:55:56.774Z'
+  lastSynchronized: '2026-10-27T05:06:56.378Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"128c55e3e1c7a66634770472307b167f5cc9f345ad8b467e09849dc9b9204ee3"
-    releasesEtag: W/"29c133b6e4adc5d71eadb0264a026383f7b510c2c76a7105cc229a4a1b4443d6"
+    repoEtag: W/"da1e1c348c2e1089d31035ab75537661bec3c6e12cc5cc1698bd4f816954a36a"
+    releasesEtag: W/"7e9b7c569a4c45756a11d4be3c56f701c7b37f8ce1d462da1dd1739a26688392"
 discovery:
   method: pending-recheck
   confidence: 100

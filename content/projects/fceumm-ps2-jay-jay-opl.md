@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2021-07-22T12:27:24Z'
   url: 'https://github.com/Jay-Jay-OPL/Fceumm-PS2/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-24T05:54:33.062Z'
+  lastSynchronized: '2026-10-27T05:05:17.447Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"20cc7604e3406e08a164f645d9c334aebc114d6694f5ded7a3feaa6b0955611b"
-    releasesEtag: W/"427d89728bc1f4b9a1162c2f4d151584a2b052f9f4d587e5c3645877cd33cb0e"
+    repoEtag: W/"aff38d5ecf8a0f8f45f8fcf8b45205ac11a6862c0909a8a038dfb0383f6642b2"
+    releasesEtag: W/"ed6ad7ea44a442195a59f77ffb6f54ab67d61606de61eacc3e62e000db5544f6"
 discovery:
   method: 'fork-network:ps2homebrew/Fceumm-PS2'
   confidence: 100

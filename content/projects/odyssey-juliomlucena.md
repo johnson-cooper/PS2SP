@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-19T23:22:42Z'
   url: 'https://github.com/JulioMLucena/Odyssey/releases/tag/v0.2.7'
 activity:
-  lastSynchronized: '2026-10-24T05:54:56.803Z'
+  lastSynchronized: '2026-10-27T05:05:47.989Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"15f614617c2f05bb55af8c85c79addcef7dc00c321b2a23129e29ed8511438ba"
-    releasesEtag: W/"9197326f852ad20b420c62c4ec2b35c37406bfeceec48c089104a58d16c62edd"
+    repoEtag: W/"4c54830243653d1858c2c5638fa0df03847335d975e8aaf735eea408d4ddfa74"
+    releasesEtag: W/"0dab81c22eed161155012eda4d3f162d268f92d914afa4309a59613ae2486c5f"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

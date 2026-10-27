@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-04-12T16:45:22Z'
   url: 'https://github.com/alex-free/tonyhax/releases/tag/v1.6.3i'
 activity:
-  lastSynchronized: '2026-10-24T05:55:59.029Z'
+  lastSynchronized: '2026-10-27T05:06:58.990Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"af288b6eed7f468a5053ffcf59872578d900f148d941c6f31551b229e8b95ba1"
-    releasesEtag: W/"12c828f42bfc153833862d634f00d2019288a3d0221c79b972db80ffb8a58394"
+    repoEtag: W/"b4c049e500ab85a8f2ec41fab21650a389b22ee1d06b90b7f88790d1fecb236e"
+    releasesEtag: W/"e121edc1c3a47d4ef412f357755e23497e30179a5148b6e38ef0f02c6783c75d"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-02-01T21:42:51Z'
   url: 'https://github.com/k0lo86/PMAP-Linux/releases/tag/0.1'
 activity:
-  lastSynchronized: '2026-10-24T05:55:18.820Z'
+  lastSynchronized: '2026-10-27T05:06:14.496Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3690e900aa6a9e7b14722f2017115ebb94b1ebc36c687fbe69d3cb5754fb5191"
-    releasesEtag: W/"f83468243e212f544bb6158ec3ef240a8b0d8a8da34871cd63d334c0988ddcfd"
+    repoEtag: W/"238b878dd6676c4c063a649577365c401476d71aaec156c7c909511a40565fff"
+    releasesEtag: W/"4643554f87686506b94a644550276505435d4ad0450652b6719bcb8a9b0c3855"
 discovery:
   method: 'fork-network:ps2homebrew/PMAP'
   confidence: 95

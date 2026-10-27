@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2025-07-08T21:18:09Z'
   url: 'https://github.com/fuzzyghosty/wLaunchELF/releases/tag/Nightly'
 activity:
-  lastSynchronized: '2026-10-24T05:56:06.592Z'
+  lastSynchronized: '2026-10-27T05:07:07.928Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7b18a8193dbbe5790afebcc7a363432226cac31cc1215fab46a0d7d8988d4a34"
-    releasesEtag: W/"1d32e7deca0604487908c0ecdded6a9a0d9f35d8620ba8680a502a2d47fe10e0"
+    repoEtag: W/"5daf09ea5006608e4b26f62a1070d8786dfc3fb5fb67a49bd2f0992b909bad50"
+    releasesEtag: W/"921970432bf859420a063e9bcdfdcbf31a4a1cb53e36ff4c694876dc506b7f15"
 discovery:
   method: 'fork-network:ps2homebrew/wLaunchELF'
   confidence: 100

@@ -34,12 +34,12 @@ latestRelease:
     https://github.com/amxcs/MechaPwn-v2-unofficial/releases/tag/force-unlock-v2-r1
 activity:
   lastChecked: '2026-10-14T18:54:17.306Z'
-  lastSynchronized: '2026-10-24T05:54:51.819Z'
+  lastSynchronized: '2026-10-27T05:05:42.632Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"26e87b8fb983c35725b2fb20591606e9398b9182c9889de4b9c9da03d0bd9458"
-    releasesEtag: W/"3ded3652f8a1365979344b4a92f9e5e482b6ccd0452cc598cf9fcbc438e22962"
+    repoEtag: W/"663aa3d3403be1044f9fe287099bbb9be24efb8587ed4bf9680adeb1eb439285"
+    releasesEtag: W/"05955bedb88ecce7274f23c3629ee8d7aef38afbc436d6259f1bbe10ca3b4f7a"
 discovery:
   method: 'pending-promotion:incremental:"PS2 homebrew" in:name,description,readme'
   confidence: 90

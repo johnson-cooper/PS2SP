@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T05:56:02.454Z'
+  lastSynchronized: '2026-10-27T05:07:02.978Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"51607442a166107bebf634e730674ae6bb0cef8a17c747fb08594ec34c598f09"
-    releasesEtag: '"6651f0a326fe50ee327dca388d5c531714ef939da31569d651d528b162d31cc1"'
+    repoEtag: W/"0362ef1bb697a2d939286bd87a68af6f37b4efdefedc3b9c30ae21af0e5e375c"
+    releasesEtag: '"8962456a2767bc9200ffde34dbf3ce364232427596717043c1b51556df0f7cba"'
 discovery:
   method: 'fork-network:N0N0/USBInsanity'
   confidence: 95

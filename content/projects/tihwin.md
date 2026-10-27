@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/developersu/Tihwin/releases/tag/v2.6'
 activity:
   lastChecked: '2026-10-05T07:41:33.942Z'
-  lastSynchronized: '2026-10-24T05:55:58.552Z'
+  lastSynchronized: '2026-10-27T05:06:58.421Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"933461c52903e29cb119475b5314c3e15f403fd5142ae9e3c07ac08928a573ea"
-    releasesEtag: W/"60b4070a9fe4e6d7fe2be449047e6b525b57f4eeaf7e4bd57148565deb509020"
+    repoEtag: W/"d6cd555d385434c7a0e001f9594cda451f237ed01d475f00bd7db72eb73b4421"
+    releasesEtag: W/"56156c0e32d9edd8e6442a599b7dc8ff87ca4fb7818780c7508b3d818bd28124"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80
