@@ -1,0 +1,21 @@
+{
+  "repository": "FrontierAutoResearch/Awesome-REA-Disassembly",
+  "repositoryId": "1435783979",
+  "url": "https://github.com/FrontierAutoResearch/Awesome-REA-Disassembly",
+  "description": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
+  "score": 75,
+  "evidence": [
+    "README explicitly mentions PlayStation 2",
+    "README contains PS2 development/toolchain evidence",
+    "GitHub fork of another repository"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": {
+    "parent": "reacher-z/Awesome-REA",
+    "source": "reacher-z/Awesome-REA",
+    "aheadBy": null
+  },
+  "discoveredAt": "2026-10-27T16:51:40.447Z",
+  "checkedAt": "2026-10-27T16:51:40.447Z"
+}
