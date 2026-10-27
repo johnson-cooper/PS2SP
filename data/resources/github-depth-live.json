@@ -2344,6 +2344,45 @@
         ]
       },
       {
+        "name": "362053534/ps2gl — branch: master",
+        "url": "https://github.com/362053534/ps2gl/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "362053534/ps2gl",
+          "master"
+        ]
+      },
+      {
+        "name": "362053534/PS2HDDTester — branch: master",
+        "url": "https://github.com/362053534/PS2HDDTester/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "362053534/PS2HDDTester",
+          "master"
+        ]
+      },
+      {
+        "name": "362053534/ps2homebrew — branch: main",
+        "url": "https://github.com/362053534/ps2homebrew/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "362053534/ps2homebrew",
+          "main"
+        ]
+      },
+      {
         "name": "374606829/EmuCoreX — branch: feature/lan-netplay-only",
         "url": "https://github.com/374606829/EmuCoreX/tree/feature/lan-netplay-only",
         "keywords": [
@@ -2367,6 +2406,32 @@
           "repository",
           "374606829/EmuCoreX",
           "main"
+        ]
+      },
+      {
+        "name": "3D-ICON/ps2eth — branch: master",
+        "url": "https://github.com/3D-ICON/ps2eth/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "3D-ICON/ps2eth",
+          "master"
+        ]
+      },
+      {
+        "name": "3D-ICON/ps2link — branch: master",
+        "url": "https://github.com/3D-ICON/ps2link/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "3D-ICON/ps2link",
+          "master"
         ]
       },
       {
@@ -2431,6 +2496,19 @@
           "branch",
           "repository",
           "4gordi/udpbd-server",
+          "main"
+        ]
+      },
+      {
+        "name": "4kbyter/ps2docs — branch: main",
+        "url": "https://github.com/4kbyter/ps2docs/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "4kbyter/ps2docs",
           "main"
         ]
       },
@@ -3355,6 +3433,19 @@
           "repository",
           "7dog123/ps2dev",
           "updateCI"
+        ]
+      },
+      {
+        "name": "7dog123/ps2gl — branch: master",
+        "url": "https://github.com/7dog123/ps2gl/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "7dog123/ps2gl",
+          "master"
         ]
       },
       {
@@ -200591,6 +200682,246 @@
         ]
       },
       {
+        "name": "362053534/ps2gl@master — examples",
+        "url": "https://github.com/362053534/ps2gl/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2gl",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "362053534/ps2gl@master — examples/box",
+        "url": "https://github.com/362053534/ps2gl/tree/master/examples/box",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2gl",
+          "master",
+          "examples/box"
+        ]
+      },
+      {
+        "name": "362053534/ps2gl@master — examples/logo",
+        "url": "https://github.com/362053534/ps2gl/tree/master/examples/logo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2gl",
+          "master",
+          "examples/logo"
+        ]
+      },
+      {
+        "name": "362053534/ps2gl@master — examples/nehe/lesson02",
+        "url": "https://github.com/362053534/ps2gl/tree/master/examples/nehe/lesson02",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2gl",
+          "master",
+          "examples/nehe/lesson02"
+        ]
+      },
+      {
+        "name": "362053534/ps2gl@master — examples/nehe/lesson03",
+        "url": "https://github.com/362053534/ps2gl/tree/master/examples/nehe/lesson03",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2gl",
+          "master",
+          "examples/nehe/lesson03"
+        ]
+      },
+      {
+        "name": "362053534/ps2gl@master — examples/nehe/lesson04",
+        "url": "https://github.com/362053534/ps2gl/tree/master/examples/nehe/lesson04",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2gl",
+          "master",
+          "examples/nehe/lesson04"
+        ]
+      },
+      {
+        "name": "362053534/ps2gl@master — examples/nehe/lesson05",
+        "url": "https://github.com/362053534/ps2gl/tree/master/examples/nehe/lesson05",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2gl",
+          "master",
+          "examples/nehe/lesson05"
+        ]
+      },
+      {
+        "name": "362053534/ps2gl@master — examples/performance",
+        "url": "https://github.com/362053534/ps2gl/tree/master/examples/performance",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2gl",
+          "master",
+          "examples/performance"
+        ]
+      },
+      {
+        "name": "362053534/ps2gl@master — examples/shared_code",
+        "url": "https://github.com/362053534/ps2gl/tree/master/examples/shared_code",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2gl",
+          "master",
+          "examples/shared_code"
+        ]
+      },
+      {
+        "name": "362053534/ps2gl@master — examples/tricked_out",
+        "url": "https://github.com/362053534/ps2gl/tree/master/examples/tricked_out",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2gl",
+          "master",
+          "examples/tricked_out"
+        ]
+      },
+      {
+        "name": "362053534/ps2gl@master — glut",
+        "url": "https://github.com/362053534/ps2gl/tree/master/glut",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2gl",
+          "master",
+          "glut"
+        ]
+      },
+      {
+        "name": "362053534/ps2gl@master — vu1",
+        "url": "https://github.com/362053534/ps2gl/tree/master/vu1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2gl",
+          "master",
+          "vu1"
+        ]
+      },
+      {
+        "name": "362053534/PS2HDDTester@master — hddtester",
+        "url": "https://github.com/362053534/PS2HDDTester/tree/master/hddtester",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/PS2HDDTester",
+          "master",
+          "hddtester"
+        ]
+      },
+      {
+        "name": "362053534/PS2HDDTester@master — iop",
+        "url": "https://github.com/362053534/PS2HDDTester/tree/master/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/PS2HDDTester",
+          "master",
+          "iop"
+        ]
+      },
+      {
+        "name": "362053534/PS2HDDTester@master — iop/atad",
+        "url": "https://github.com/362053534/PS2HDDTester/tree/master/iop/atad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/PS2HDDTester",
+          "master",
+          "iop/atad"
+        ]
+      },
+      {
+        "name": "362053534/PS2HDDTester@master — iop/xhdd",
+        "url": "https://github.com/362053534/PS2HDDTester/tree/master/iop/xhdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/PS2HDDTester",
+          "master",
+          "iop/xhdd"
+        ]
+      },
+      {
         "name": "374606829/EmuCoreX@feature/lan-netplay-only — app/src/main/cpp",
         "url": "https://github.com/374606829/EmuCoreX/tree/feature/lan-netplay-only/app/src/main/cpp",
         "keywords": [
@@ -201788,6 +202119,141 @@
           "374606829/EmuCoreX",
           "main",
           "app/src/main/cpp/3rdparty/shaderc/examples"
+        ]
+      },
+      {
+        "name": "3D-ICON/ps2eth@master — bin",
+        "url": "https://github.com/3D-ICON/ps2eth/tree/master/bin",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "3D-ICON/ps2eth",
+          "master",
+          "bin"
+        ]
+      },
+      {
+        "name": "3D-ICON/ps2eth@master — common",
+        "url": "https://github.com/3D-ICON/ps2eth/tree/master/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "3D-ICON/ps2eth",
+          "master",
+          "common"
+        ]
+      },
+      {
+        "name": "3D-ICON/ps2eth@master — common/lib",
+        "url": "https://github.com/3D-ICON/ps2eth/tree/master/common/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "3D-ICON/ps2eth",
+          "master",
+          "common/lib"
+        ]
+      },
+      {
+        "name": "3D-ICON/ps2eth@master — common/lwip",
+        "url": "https://github.com/3D-ICON/ps2eth/tree/master/common/lwip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "3D-ICON/ps2eth",
+          "master",
+          "common/lwip"
+        ]
+      },
+      {
+        "name": "3D-ICON/ps2eth@master — ps2klsi",
+        "url": "https://github.com/3D-ICON/ps2eth/tree/master/ps2klsi",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "3D-ICON/ps2eth",
+          "master",
+          "ps2klsi"
+        ]
+      },
+      {
+        "name": "3D-ICON/ps2eth@master — smap",
+        "url": "https://github.com/3D-ICON/ps2eth/tree/master/smap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "3D-ICON/ps2eth",
+          "master",
+          "smap"
+        ]
+      },
+      {
+        "name": "3D-ICON/ps2eth@master — smap-linux",
+        "url": "https://github.com/3D-ICON/ps2eth/tree/master/smap-linux",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "3D-ICON/ps2eth",
+          "master",
+          "smap-linux"
+        ]
+      },
+      {
+        "name": "3D-ICON/ps2link@master — ee",
+        "url": "https://github.com/3D-ICON/ps2link/tree/master/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "3D-ICON/ps2link",
+          "master",
+          "ee"
+        ]
+      },
+      {
+        "name": "3D-ICON/ps2link@master — iop",
+        "url": "https://github.com/3D-ICON/ps2link/tree/master/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "3D-ICON/ps2link",
+          "master",
+          "iop"
         ]
       },
       {
@@ -228241,6 +228707,96 @@
           "7dog123/ps2-SDL",
           "master",
           "test"
+        ]
+      },
+      {
+        "name": "7dog123/ps2gl@master — examples",
+        "url": "https://github.com/7dog123/ps2gl/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "7dog123/ps2gl",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "7dog123/ps2gl@master — examples/performance",
+        "url": "https://github.com/7dog123/ps2gl/tree/master/examples/performance",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "7dog123/ps2gl",
+          "master",
+          "examples/performance"
+        ]
+      },
+      {
+        "name": "7dog123/ps2gl@master — examples/tricked_out",
+        "url": "https://github.com/7dog123/ps2gl/tree/master/examples/tricked_out",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "7dog123/ps2gl",
+          "master",
+          "examples/tricked_out"
+        ]
+      },
+      {
+        "name": "7dog123/ps2gl@master — glut",
+        "url": "https://github.com/7dog123/ps2gl/tree/master/glut",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "7dog123/ps2gl",
+          "master",
+          "glut"
+        ]
+      },
+      {
+        "name": "7dog123/ps2gl@master — tests",
+        "url": "https://github.com/7dog123/ps2gl/tree/master/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "7dog123/ps2gl",
+          "master",
+          "tests"
+        ]
+      },
+      {
+        "name": "7dog123/ps2gl@master — vu1",
+        "url": "https://github.com/7dog123/ps2gl/tree/master/vu1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "7dog123/ps2gl",
+          "master",
+          "vu1"
         ]
       },
       {
@@ -312607,6 +313163,968 @@
         ]
       },
       {
+        "name": "alekszverr-jpg/quake2-ps2@main — scripts",
+        "url": "https://github.com/alekszverr-jpg/quake2-ps2/tree/main/scripts",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alekszverr-jpg/quake2-ps2",
+          "main",
+          "scripts"
+        ]
+      },
+      {
+        "name": "alekszverr-jpg/quake2-ps2@main — src",
+        "url": "https://github.com/alekszverr-jpg/quake2-ps2/tree/main/src",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alekszverr-jpg/quake2-ps2",
+          "main",
+          "src"
+        ]
+      },
+      {
+        "name": "alekszverr-jpg/quake2-ps2@main — src/client",
+        "url": "https://github.com/alekszverr-jpg/quake2-ps2/tree/main/src/client",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alekszverr-jpg/quake2-ps2",
+          "main",
+          "src/client"
+        ]
+      },
+      {
+        "name": "alekszverr-jpg/quake2-ps2@main — src/game",
+        "url": "https://github.com/alekszverr-jpg/quake2-ps2/tree/main/src/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alekszverr-jpg/quake2-ps2",
+          "main",
+          "src/game"
+        ]
+      },
+      {
+        "name": "alekszverr-jpg/quake2-ps2@main — src/server",
+        "url": "https://github.com/alekszverr-jpg/quake2-ps2/tree/main/src/server",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alekszverr-jpg/quake2-ps2",
+          "main",
+          "src/server"
+        ]
+      },
+      {
+        "name": "alekszverr-jpg/quake2-ps2@main — src/tools",
+        "url": "https://github.com/alekszverr-jpg/quake2-ps2/tree/main/src/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alekszverr-jpg/quake2-ps2",
+          "main",
+          "src/tools"
+        ]
+      },
+      {
+        "name": "alekszverr-jpg/quake2-ps2@main — src/tools/vscode_extensions/ps2-vcl",
+        "url": "https://github.com/alekszverr-jpg/quake2-ps2/tree/main/src/tools/vscode_extensions/ps2-vcl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alekszverr-jpg/quake2-ps2",
+          "main",
+          "src/tools/vscode_extensions/ps2-vcl"
+        ]
+      },
+      {
+        "name": "alekszverr-jpg/quake2-ps2@main — tools",
+        "url": "https://github.com/alekszverr-jpg/quake2-ps2/tree/main/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alekszverr-jpg/quake2-ps2",
+          "main",
+          "tools"
+        ]
+      },
+      {
+        "name": "alex-berliner/libsmb2@fix_examples — cmake/Modules",
+        "url": "https://github.com/alex-berliner/libsmb2/tree/fix_examples/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-berliner/libsmb2",
+          "fix_examples",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "alex-berliner/libsmb2@fix_examples — examples",
+        "url": "https://github.com/alex-berliner/libsmb2/tree/fix_examples/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-berliner/libsmb2",
+          "fix_examples",
+          "examples"
+        ]
+      },
+      {
+        "name": "alex-berliner/libsmb2@fix_examples — examples/picow",
+        "url": "https://github.com/alex-berliner/libsmb2/tree/fix_examples/examples/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-berliner/libsmb2",
+          "fix_examples",
+          "examples/picow"
+        ]
+      },
+      {
+        "name": "alex-berliner/libsmb2@fix_examples — include/picow",
+        "url": "https://github.com/alex-berliner/libsmb2/tree/fix_examples/include/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-berliner/libsmb2",
+          "fix_examples",
+          "include/picow"
+        ]
+      },
+      {
+        "name": "alex-berliner/libsmb2@fix_examples — lib",
+        "url": "https://github.com/alex-berliner/libsmb2/tree/fix_examples/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-berliner/libsmb2",
+          "fix_examples",
+          "lib"
+        ]
+      },
+      {
+        "name": "alex-berliner/libsmb2@fix_examples — tests",
+        "url": "https://github.com/alex-berliner/libsmb2/tree/fix_examples/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-berliner/libsmb2",
+          "fix_examples",
+          "tests"
+        ]
+      },
+      {
+        "name": "alex-berliner/libsmb2@master — cmake/Modules",
+        "url": "https://github.com/alex-berliner/libsmb2/tree/master/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-berliner/libsmb2",
+          "master",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "alex-berliner/libsmb2@master — examples",
+        "url": "https://github.com/alex-berliner/libsmb2/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-berliner/libsmb2",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "alex-berliner/libsmb2@master — examples/picow",
+        "url": "https://github.com/alex-berliner/libsmb2/tree/master/examples/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-berliner/libsmb2",
+          "master",
+          "examples/picow"
+        ]
+      },
+      {
+        "name": "alex-berliner/libsmb2@master — include/picow",
+        "url": "https://github.com/alex-berliner/libsmb2/tree/master/include/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-berliner/libsmb2",
+          "master",
+          "include/picow"
+        ]
+      },
+      {
+        "name": "alex-berliner/libsmb2@master — lib",
+        "url": "https://github.com/alex-berliner/libsmb2/tree/master/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-berliner/libsmb2",
+          "master",
+          "lib"
+        ]
+      },
+      {
+        "name": "alex-berliner/libsmb2@master — tests",
+        "url": "https://github.com/alex-berliner/libsmb2/tree/master/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-berliner/libsmb2",
+          "master",
+          "tests"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — ee",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "ee"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — ee/ee_core",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/ee/ee_core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "ee/ee_core"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — ee/loader",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/ee/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "ee/loader"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/atad_emu",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/atad_emu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/atad_emu"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/bdfs",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/bdfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/bdfs"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/cdvdfsv",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/cdvdfsv"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/cdvdman_emu",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/cdvdman_emu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/cdvdman_emu"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/cdvdman_esr1",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/cdvdman_esr1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/cdvdman_esr1"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/cdvdman_esr2",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/cdvdman_esr2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/cdvdman_esr2"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/dev9",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/dev9",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/dev9"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/fakemod",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/fakemod",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/fakemod"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/fhi_bd",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/fhi_bd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/fhi_bd"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/gapfill",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/gapfill",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/gapfill"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/hdlfs",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/hdlfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/hdlfs"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/imgdrv",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/imgdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/imgdrv"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/mc_emu",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/mc_emu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/mc_emu"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/memcheck",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/memcheck",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/memcheck"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/ministack",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/ministack",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/ministack"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/patch_freemem",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/patch_freemem",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/patch_freemem"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/patch_membo",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/patch_membo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/patch_membo"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/patch_rc_uya",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/patch_rc_uya",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/patch_rc_uya"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/smap",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/smap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/smap"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/udpbd",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/udpbd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/udpbd"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/udpfs",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/udpfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/udpfs"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — iop/usbd_null",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/iop/usbd_null",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "iop/usbd_null"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — lab/cdvd",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/lab/cdvd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "lab/cdvd"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — lab/cdvd/ee",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/lab/cdvd/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "lab/cdvd/ee"
+        ]
+      },
+      {
+        "name": "alex-dot/neutrino@master — lab/cdvd/iop",
+        "url": "https://github.com/alex-dot/neutrino/tree/master/lab/cdvd/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/neutrino",
+          "master",
+          "lab/cdvd/iop"
+        ]
+      },
+      {
+        "name": "alex-dot/nhddl@main — examples",
+        "url": "https://github.com/alex-dot/nhddl/tree/main/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/nhddl",
+          "main",
+          "examples"
+        ]
+      },
+      {
+        "name": "alex-dot/nhddl@main — iop",
+        "url": "https://github.com/alex-dot/nhddl/tree/main/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/nhddl",
+          "main",
+          "iop"
+        ]
+      },
+      {
+        "name": "alex-dot/nhddl@main — iop/smap_udpbd",
+        "url": "https://github.com/alex-dot/nhddl/tree/main/iop/smap_udpbd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/nhddl",
+          "main",
+          "iop/smap_udpbd"
+        ]
+      },
+      {
+        "name": "alex-dot/nhddl@main — iop/smap_udptty",
+        "url": "https://github.com/alex-dot/nhddl/tree/main/iop/smap_udptty",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/nhddl",
+          "main",
+          "iop/smap_udptty"
+        ]
+      },
+      {
+        "name": "alex-dot/nhddl@main — loader",
+        "url": "https://github.com/alex-dot/nhddl/tree/main/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/nhddl",
+          "main",
+          "loader"
+        ]
+      },
+      {
+        "name": "alex-dot/nhddl@main — res/sas/app",
+        "url": "https://github.com/alex-dot/nhddl/tree/main/res/sas/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/nhddl",
+          "main",
+          "res/sas/app"
+        ]
+      },
+      {
+        "name": "alex-dot/nhddl@main — res/sas/models/app",
+        "url": "https://github.com/alex-dot/nhddl/tree/main/res/sas/models/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/nhddl",
+          "main",
+          "res/sas/models/app"
+        ]
+      },
+      {
+        "name": "alex-dot/nhddl@rewrite — examples",
+        "url": "https://github.com/alex-dot/nhddl/tree/rewrite/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/nhddl",
+          "rewrite",
+          "examples"
+        ]
+      },
+      {
+        "name": "alex-dot/nhddl@rewrite — iop",
+        "url": "https://github.com/alex-dot/nhddl/tree/rewrite/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/nhddl",
+          "rewrite",
+          "iop"
+        ]
+      },
+      {
+        "name": "alex-dot/nhddl@rewrite — iop/mmceman",
+        "url": "https://github.com/alex-dot/nhddl/tree/rewrite/iop/mmceman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/nhddl",
+          "rewrite",
+          "iop/mmceman",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "alex-dot/nhddl@rewrite — iop/udpfs/ministack",
+        "url": "https://github.com/alex-dot/nhddl/tree/rewrite/iop/udpfs/ministack",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/nhddl",
+          "rewrite",
+          "iop/udpfs/ministack"
+        ]
+      },
+      {
+        "name": "alex-dot/nhddl@rewrite — iop/udpfs/smap",
+        "url": "https://github.com/alex-dot/nhddl/tree/rewrite/iop/udpfs/smap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/nhddl",
+          "rewrite",
+          "iop/udpfs/smap"
+        ]
+      },
+      {
+        "name": "alex-dot/nhddl@rewrite — iop/udpfs/udpfs",
+        "url": "https://github.com/alex-dot/nhddl/tree/rewrite/iop/udpfs/udpfs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/nhddl",
+          "rewrite",
+          "iop/udpfs/udpfs"
+        ]
+      },
+      {
+        "name": "alex-dot/nhddl@rewrite — res/sas/app",
+        "url": "https://github.com/alex-dot/nhddl/tree/rewrite/res/sas/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/nhddl",
+          "rewrite",
+          "res/sas/app"
+        ]
+      },
+      {
+        "name": "alex-dot/nhddl@rewrite — res/sas/models/app",
+        "url": "https://github.com/alex-dot/nhddl/tree/rewrite/res/sas/models/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-dot/nhddl",
+          "rewrite",
+          "res/sas/models/app"
+        ]
+      },
+      {
         "name": "alex-dot/OSD-XMB@main — bin/APPS",
         "url": "https://github.com/alex-dot/OSD-XMB/tree/main/bin/APPS",
         "keywords": [
@@ -312724,6 +314242,3431 @@
           "alex-free/protopwn",
           "main",
           "utils/osdpack"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@gpuscale — entrypoints",
+        "url": "https://github.com/alex-free/tonyhax/tree/gpuscale/entrypoints",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "gpuscale",
+          "entrypoints"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@gpuscale — freepsxboot",
+        "url": "https://github.com/alex-free/tonyhax/tree/gpuscale/freepsxboot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "gpuscale",
+          "freepsxboot"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@gpuscale — freepsxboot/FreePSXBoot",
+        "url": "https://github.com/alex-free/tonyhax/tree/gpuscale/freepsxboot/FreePSXBoot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "gpuscale",
+          "freepsxboot/FreePSXBoot",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@gpuscale — loader",
+        "url": "https://github.com/alex-free/tonyhax/tree/gpuscale/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "gpuscale",
+          "loader"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@jptest — entrypoints",
+        "url": "https://github.com/alex-free/tonyhax/tree/jptest/entrypoints",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "jptest",
+          "entrypoints"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@jptest — freepsxboot",
+        "url": "https://github.com/alex-free/tonyhax/tree/jptest/freepsxboot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "jptest",
+          "freepsxboot"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@jptest — freepsxboot/FreePSXBoot",
+        "url": "https://github.com/alex-free/tonyhax/tree/jptest/freepsxboot/FreePSXBoot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "jptest",
+          "freepsxboot/FreePSXBoot",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@jptest — loader",
+        "url": "https://github.com/alex-free/tonyhax/tree/jptest/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "jptest",
+          "loader"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — boot-cd",
+        "url": "https://github.com/alex-free/tonyhax/tree/master/boot-cd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "master",
+          "boot-cd"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — entrypoints",
+        "url": "https://github.com/alex-free/tonyhax/tree/master/entrypoints",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "master",
+          "entrypoints"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — freepsxboot",
+        "url": "https://github.com/alex-free/tonyhax/tree/master/freepsxboot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "master",
+          "freepsxboot"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — freepsxboot/FreePSXBoot",
+        "url": "https://github.com/alex-free/tonyhax/tree/master/freepsxboot/FreePSXBoot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "master",
+          "freepsxboot/FreePSXBoot",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — gshax",
+        "url": "https://github.com/alex-free/tonyhax/tree/master/gshax",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "master",
+          "gshax"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — gshax-tool",
+        "url": "https://github.com/alex-free/tonyhax/tree/master/gshax-tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "master",
+          "gshax-tool",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — loader",
+        "url": "https://github.com/alex-free/tonyhax/tree/master/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "master",
+          "loader"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — mkpsxiso",
+        "url": "https://github.com/alex-free/tonyhax/tree/master/mkpsxiso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "master",
+          "mkpsxiso",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — nxflash",
+        "url": "https://github.com/alex-free/tonyhax/tree/master/nxflash",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "master",
+          "nxflash",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — pcsx-redux-support",
+        "url": "https://github.com/alex-free/tonyhax/tree/master/pcsx-redux-support",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "master",
+          "pcsx-redux-support",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — psexe2rom",
+        "url": "https://github.com/alex-free/tonyhax/tree/master/psexe2rom",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "master",
+          "psexe2rom",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — psn00bsdk-builder",
+        "url": "https://github.com/alex-free/tonyhax/tree/master/psn00bsdk-builder",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "master",
+          "psn00bsdk-builder",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — rom",
+        "url": "https://github.com/alex-free/tonyhax/tree/master/rom",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "master",
+          "rom"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — util",
+        "url": "https://github.com/alex-free/tonyhax/tree/master/util",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "master",
+          "util"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — xstation",
+        "url": "https://github.com/alex-free/tonyhax/tree/master/xstation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "master",
+          "xstation"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@v1.4 — entrypoints",
+        "url": "https://github.com/alex-free/tonyhax/tree/v1.4/entrypoints",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "v1.4",
+          "entrypoints"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@v1.4 — freepsxboot",
+        "url": "https://github.com/alex-free/tonyhax/tree/v1.4/freepsxboot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "v1.4",
+          "freepsxboot"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@v1.4 — freepsxboot/FreePSXBoot",
+        "url": "https://github.com/alex-free/tonyhax/tree/v1.4/freepsxboot/FreePSXBoot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "v1.4",
+          "freepsxboot/FreePSXBoot",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@v1.4 — loader",
+        "url": "https://github.com/alex-free/tonyhax/tree/v1.4/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alex-free/tonyhax",
+          "v1.4",
+          "loader"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — ee_core",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/ee_core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "ee_core"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — labs/genvmclab",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/labs/genvmclab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "labs/genvmclab"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — labs/lwnbdsvr",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/labs/lwnbdsvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "labs/lwnbdsvr"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — labs/opltestiso",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/labs/opltestiso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "labs/opltestiso"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — labs/opltestiso/ee",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/labs/opltestiso/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "labs/opltestiso/ee"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — labs/opltestiso/iop",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/labs/opltestiso/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "labs/opltestiso/iop"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — labs/opltestiso/iop/freeram",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/labs/opltestiso/iop/freeram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "labs/opltestiso/iop/freeram"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — labs/smblab",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/labs/smblab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "labs/smblab"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/bdmevent",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/bdmevent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/bdmevent"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/debug/ps2link",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/debug/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/debug/ps2link"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/debug/udptty-ingame",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/debug/udptty-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/debug/udptty-ingame"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/ds34bt",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/ds34bt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/ds34bt"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/ds34bt/ee",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/ds34bt/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/ds34bt/ee"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/ds34bt/iop",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/ds34bt/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/ds34bt/iop"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/ds34usb",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/ds34usb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/ds34usb"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/ds34usb/ee",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/ds34usb/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/ds34usb/ee"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/ds34usb/iop",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/ds34usb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/ds34usb/iop"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/hdd/xhdd",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/hdd/xhdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/hdd/xhdd"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/iopcore/cdvdfsv",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/iopcore/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/iopcore/cdvdfsv"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/iopcore/cdvdman",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/iopcore/cdvdman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/iopcore/cdvdman"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/iopcore/imgdrv",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/iopcore/imgdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/iopcore/imgdrv"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/iopcore/patches/apemodpatch",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/iopcore/patches/apemodpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/iopcore/patches/apemodpatch"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/iopcore/patches/cleareffects",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/iopcore/patches/cleareffects",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/iopcore/patches/cleareffects"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/iopcore/patches/f2techioppatch",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/iopcore/patches/f2techioppatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/iopcore/patches/f2techioppatch"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/iopcore/patches/iremsndpatch",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/iopcore/patches/iremsndpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/iopcore/patches/iremsndpatch"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/iopcore/resetspu",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/iopcore/resetspu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/iopcore/resetspu"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/isofs",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/isofs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/isofs"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/mcemu",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/mcemu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/mcemu"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/network/httpclient",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/network/httpclient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/network/httpclient"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/network/nbns",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/network/nbns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/network/nbns"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/network/smap-ingame",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/network/smap-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/network/smap-ingame"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/network/smbinit",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/network/smbinit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/network/smbinit"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/network/SMSTCPIP",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/network/SMSTCPIP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/network/SMSTCPIP"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/network/SMSUTILS",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/network/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/network/SMSUTILS"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/pademu",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/pademu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/pademu"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — modules/vmc/genvmc",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/modules/vmc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "modules/vmc/genvmc"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — pc",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "pc"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — pc/genvmc",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/pc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "pc/genvmc"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — pc/iso2opl",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/pc/iso2opl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "pc/iso2opl"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — pc/opl2iso",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/pc/opl2iso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "copilot/apply-missing-labels-and-comments",
+          "pc/opl2iso"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — ee_core",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/ee_core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "ee_core"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — labs/genvmclab",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/labs/genvmclab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "labs/genvmclab"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — labs/lwnbdsvr",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/labs/lwnbdsvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "labs/lwnbdsvr"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — labs/opltestiso",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/labs/opltestiso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "labs/opltestiso"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — labs/opltestiso/ee",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/labs/opltestiso/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "labs/opltestiso/ee"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — labs/opltestiso/iop",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/labs/opltestiso/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "labs/opltestiso/iop"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — labs/opltestiso/iop/freeram",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/labs/opltestiso/iop/freeram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "labs/opltestiso/iop/freeram"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — labs/smblab",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/labs/smblab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "labs/smblab"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/bdmevent",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/bdmevent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/bdmevent"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/debug/ps2link",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/debug/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/debug/ps2link"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/debug/udptty-ingame",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/debug/udptty-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/debug/udptty-ingame"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/ds34bt",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/ds34bt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/ds34bt"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/ds34bt/ee",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/ds34bt/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/ds34bt/ee"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/ds34bt/iop",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/ds34bt/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/ds34bt/iop"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/ds34usb",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/ds34usb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/ds34usb"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/ds34usb/ee",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/ds34usb/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/ds34usb/ee"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/ds34usb/iop",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/ds34usb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/ds34usb/iop"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/hdd/xhdd",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/hdd/xhdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/hdd/xhdd"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/iopcore/cdvdfsv",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/iopcore/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/iopcore/cdvdfsv"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/iopcore/cdvdman",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/iopcore/cdvdman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/iopcore/cdvdman"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/iopcore/imgdrv",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/iopcore/imgdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/iopcore/imgdrv"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/iopcore/patches/apemodpatch",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/iopcore/patches/apemodpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/iopcore/patches/apemodpatch"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/iopcore/patches/cleareffects",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/iopcore/patches/cleareffects",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/iopcore/patches/cleareffects"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/iopcore/patches/f2techioppatch",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/iopcore/patches/f2techioppatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/iopcore/patches/f2techioppatch"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/iopcore/patches/iremsndpatch",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/iopcore/patches/iremsndpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/iopcore/patches/iremsndpatch"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/iopcore/resetspu",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/iopcore/resetspu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/iopcore/resetspu"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/isofs",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/isofs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/isofs"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/mcemu",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/mcemu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/mcemu"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/network/httpclient",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/network/httpclient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/network/httpclient"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/network/nbns",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/network/nbns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/network/nbns"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/network/smap-ingame",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/network/smap-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/network/smap-ingame"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/network/smbinit",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/network/smbinit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/network/smbinit"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/network/SMSTCPIP",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/network/SMSTCPIP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/network/SMSTCPIP"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/network/SMSUTILS",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/network/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/network/SMSUTILS"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/pademu",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/pademu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/pademu"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — modules/vmc/genvmc",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/modules/vmc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "modules/vmc/genvmc"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — pc",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "pc"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — pc/genvmc",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/pc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "pc/genvmc"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — pc/iso2opl",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/pc/iso2opl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "pc/iso2opl"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@main — pc/opl2iso",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/main/pc/opl2iso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "main",
+          "pc/opl2iso"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — ee_core",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/ee_core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "ee_core"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — labs/genvmclab",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/labs/genvmclab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "labs/genvmclab"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — labs/lwnbdsvr",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/labs/lwnbdsvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "labs/lwnbdsvr"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — labs/opltestiso",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/labs/opltestiso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "labs/opltestiso"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — labs/opltestiso/ee",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/labs/opltestiso/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "labs/opltestiso/ee"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — labs/opltestiso/iop",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/labs/opltestiso/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "labs/opltestiso/iop"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — labs/opltestiso/iop/freeram",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/labs/opltestiso/iop/freeram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "labs/opltestiso/iop/freeram"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — labs/smblab",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/labs/smblab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "labs/smblab"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/bdmevent",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/bdmevent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/bdmevent"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/debug/ps2link",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/debug/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/debug/ps2link"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/debug/udptty-ingame",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/debug/udptty-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/debug/udptty-ingame"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/ds34bt",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/ds34bt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/ds34bt"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/ds34bt/ee",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/ds34bt/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/ds34bt/ee"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/ds34bt/iop",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/ds34bt/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/ds34bt/iop"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/ds34usb",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/ds34usb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/ds34usb"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/ds34usb/ee",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/ds34usb/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/ds34usb/ee"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/ds34usb/iop",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/ds34usb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/ds34usb/iop"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/hdd/xhdd",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/hdd/xhdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/hdd/xhdd"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/iopcore/cdvdfsv",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/iopcore/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/iopcore/cdvdfsv"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/iopcore/cdvdman",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/iopcore/cdvdman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/iopcore/cdvdman"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/iopcore/imgdrv",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/iopcore/imgdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/iopcore/imgdrv"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/iopcore/patches/apemodpatch",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/iopcore/patches/apemodpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/iopcore/patches/apemodpatch"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/iopcore/patches/cleareffects",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/iopcore/patches/cleareffects",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/iopcore/patches/cleareffects"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/iopcore/patches/f2techioppatch",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/iopcore/patches/f2techioppatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/iopcore/patches/f2techioppatch"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/iopcore/patches/iremsndpatch",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/iopcore/patches/iremsndpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/iopcore/patches/iremsndpatch"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/iopcore/resetspu",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/iopcore/resetspu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/iopcore/resetspu"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/isofs",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/isofs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/isofs"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/mcemu",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/mcemu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/mcemu"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/network/httpclient",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/network/httpclient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/network/httpclient"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/network/nbns",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/network/nbns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/network/nbns"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/network/smap-ingame",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/network/smap-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/network/smap-ingame"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/network/smbinit",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/network/smbinit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/network/smbinit"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/network/SMSTCPIP",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/network/SMSTCPIP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/network/SMSTCPIP"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/network/SMSUTILS",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/network/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/network/SMSUTILS"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/pademu",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/pademu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/pademu"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — modules/vmc/genvmc",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/modules/vmc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "modules/vmc/genvmc"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — pc",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "pc"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — pc/genvmc",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/pc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "pc/genvmc"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — pc/iso2opl",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/pc/iso2opl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "pc/iso2opl"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master — pc/opl2iso",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master/pc/opl2iso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master",
+          "pc/opl2iso"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — ee_core",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/ee_core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "ee_core"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — labs/genvmclab",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/labs/genvmclab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "labs/genvmclab"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — labs/lwnbdsvr",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/labs/lwnbdsvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "labs/lwnbdsvr"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — labs/opltestiso",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/labs/opltestiso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "labs/opltestiso"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — labs/opltestiso/ee",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/labs/opltestiso/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "labs/opltestiso/ee"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — labs/opltestiso/iop",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/labs/opltestiso/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "labs/opltestiso/iop"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — labs/opltestiso/iop/freeram",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/labs/opltestiso/iop/freeram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "labs/opltestiso/iop/freeram"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — labs/smblab",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/labs/smblab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "labs/smblab"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/bdmevent",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/bdmevent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/bdmevent"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/debug/ps2link",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/debug/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/debug/ps2link"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/debug/udptty-ingame",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/debug/udptty-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/debug/udptty-ingame"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/ds34bt",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/ds34bt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/ds34bt"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/ds34bt/ee",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/ds34bt/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/ds34bt/ee"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/ds34bt/iop",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/ds34bt/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/ds34bt/iop"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/ds34usb",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/ds34usb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/ds34usb"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/ds34usb/ee",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/ds34usb/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/ds34usb/ee"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/ds34usb/iop",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/ds34usb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/ds34usb/iop"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/hdd/xhdd",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/hdd/xhdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/hdd/xhdd"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/iopcore/cdvdfsv",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/iopcore/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/iopcore/cdvdfsv"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/iopcore/cdvdman",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/iopcore/cdvdman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/iopcore/cdvdman"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/iopcore/imgdrv",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/iopcore/imgdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/iopcore/imgdrv"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/iopcore/patches/apemodpatch",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/iopcore/patches/apemodpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/iopcore/patches/apemodpatch"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/iopcore/patches/cleareffects",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/iopcore/patches/cleareffects",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/iopcore/patches/cleareffects"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/iopcore/patches/f2techioppatch",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/iopcore/patches/f2techioppatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/iopcore/patches/f2techioppatch"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/iopcore/patches/iremsndpatch",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/iopcore/patches/iremsndpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/iopcore/patches/iremsndpatch"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/iopcore/resetspu",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/iopcore/resetspu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/iopcore/resetspu"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/isofs",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/isofs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/isofs"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/mcemu",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/mcemu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/mcemu"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/network/httpclient",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/network/httpclient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/network/httpclient"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/network/nbns",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/network/nbns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/network/nbns"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/network/smap-ingame",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/network/smap-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/network/smap-ingame"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/network/smbinit",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/network/smbinit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/network/smbinit"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/network/SMSTCPIP",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/network/SMSTCPIP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/network/SMSTCPIP"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/network/SMSUTILS",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/network/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/network/SMSUTILS"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/pademu",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/pademu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/pademu"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — modules/vmc/genvmc",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/modules/vmc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "modules/vmc/genvmc"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — pc",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "pc"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — pc/genvmc",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/pc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "pc/genvmc"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — pc/iso2opl",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/pc/iso2opl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "pc/iso2opl"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@master_old — pc/opl2iso",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/master_old/pc/opl2iso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "master_old",
+          "pc/opl2iso"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — ee_core",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/ee_core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "ee_core"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — elfldr",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/elfldr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "elfldr"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — labs/genvmclab",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/labs/genvmclab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "labs/genvmclab"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — labs/lwnbdsvr",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/labs/lwnbdsvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "labs/lwnbdsvr"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — labs/smblab",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/labs/smblab",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "labs/smblab"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/bdmevent",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/bdmevent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/bdmevent"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/debug/ioptrap",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/debug/ioptrap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/debug/ioptrap"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/debug/ps2link",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/debug/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/debug/ps2link"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/debug/udptty-ingame",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/debug/udptty-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/debug/udptty-ingame"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/ds34bt",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/ds34bt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/ds34bt"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/ds34bt/ee",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/ds34bt/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/ds34bt/ee"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/ds34bt/iop",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/ds34bt/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/ds34bt/iop"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/ds34usb",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/ds34usb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/ds34usb"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/ds34usb/ee",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/ds34usb/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/ds34usb/ee"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/ds34usb/iop",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/ds34usb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/ds34usb/iop"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/hdd/xhdd",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/hdd/xhdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/hdd/xhdd"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/iopcore/cdvdfsv",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/iopcore/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/cdvdfsv"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/iopcore/cdvdman",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/iopcore/cdvdman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/cdvdman"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/iopcore/eesync",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/iopcore/eesync",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/eesync"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/iopcore/imgdrv",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/iopcore/imgdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/imgdrv"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/iopcore/patches/apemodpatch",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/iopcore/patches/apemodpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/patches/apemodpatch"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/iopcore/patches/cleareffects",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/iopcore/patches/cleareffects",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/patches/cleareffects"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/iopcore/patches/f2techioppatch",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/iopcore/patches/f2techioppatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/patches/f2techioppatch"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/iopcore/patches/iremsndpatch",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/iopcore/patches/iremsndpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/patches/iremsndpatch"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/iopcore/resetspu",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/iopcore/resetspu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/resetspu"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/iopcore/udnl",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/iopcore/udnl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/udnl"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/iopcore/udnl-t300",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/iopcore/udnl-t300",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/iopcore/udnl-t300"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/isofs",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/isofs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/isofs"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/mcemu",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/mcemu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/mcemu"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/network/httpclient",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/network/httpclient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/network/httpclient"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/network/lwnbdsvr",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/network/lwnbdsvr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/network/lwnbdsvr"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/network/nbns",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/network/nbns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/network/nbns"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/network/smap-ingame",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/network/smap-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/network/smap-ingame"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/network/smbinit",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/network/smbinit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/network/smbinit"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/network/SMSTCPIP",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/network/SMSTCPIP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/network/SMSTCPIP"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/network/SMSUTILS",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/network/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/network/SMSUTILS"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/pademu",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/pademu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/pademu"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — modules/vmc/genvmc",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/modules/vmc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "modules/vmc/genvmc"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — pc",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "pc"
+        ]
+      },
+      {
+        "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader@v1.1.z — pc/genvmc",
+        "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/v1.1.z/pc/genvmc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandreaugustodemoura0-crypto/Open-PS2-Loader",
+          "v1.1.z",
+          "pc/genvmc"
         ]
       },
       {
@@ -1979942,6 +1984885,191 @@
         ]
       },
       {
+        "name": "alex-dot/nhddl@rewrite — submodule: iop/mmceman",
+        "url": "https://github.com/ps2-mmce/mmceman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "dirtrider735/nhddl",
+          "async-cover-art",
+          "iop/mmceman",
+          "https://github.com/ps2-mmce/mmceman.git",
+          "feature/editable-network-settings",
+          "legacy",
+          "release-candidate/integrated-ftp-20260814",
+          "rewrite",
+          "video-modes",
+          "dnunezx/nhddl-luna",
+          "luna",
+          "dnunezx/ROCKET",
+          "main",
+          "launcher/iop/mmceman",
+          "unstable",
+          "eliankeil/nhddl",
+          "NathanNeurotic/launcHER",
+          "EMBER",
+          "codex/opl-self-argv",
+          "codex/pages-favicon",
+          "codex/popstarter-replacement",
+          "docs/github-pages",
+          "docs/mobile-cursor-orbs-toggle-20261011",
+          "fix/build-version-sidecar-20261012",
+          "fix/ghpages-mobile-orbs-live-20261011",
+          "fix/nichdd-pfs-writethrough",
+          "fix/opl-apps-mass-argv0",
+          "fix/opl-db-quickboot-pfs0",
+          "fix/udpfs-nack-once",
+          "NathanNeurotic/nhddl",
+          "pcm720/nhddl",
+          "pcm720/OSDMenu",
+          "SumavisionQ5/launcHER",
+          "aleelyoshi/OSDMenu",
+          "celiocasttro/OSDMenu",
+          "coreylad/OSDMenu",
+          "higorhgon/OSDMenu",
+          "baseline-ab-test",
+          "claude/osdmenu-games-menu-tkcbok",
+          "feat/covers",
+          "feat/ember-igr",
+          "osdhub",
+          "saildot4k/OSDMenu",
+          "alex-dot/nhddl"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — submodule: freepsxboot/FreePSXBoot",
+        "url": "https://github.com/alex-free/FreePSXBoot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "NathanNeurotic/tonyhax",
+          "master",
+          "freepsxboot/FreePSXBoot",
+          "https://github.com/alex-free/FreePSXBoot",
+          "alex-free/tonyhax"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — submodule: gshax-tool",
+        "url": "https://github.com/alex-free/gshax-tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "NathanNeurotic/tonyhax",
+          "master",
+          "gshax-tool",
+          "https://github.com/alex-free/gshax-tool",
+          "alex-free/tonyhax"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — submodule: mkpsxiso",
+        "url": "https://github.com/lameguy64/mkpsxiso",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "NathanNeurotic/tonyhax",
+          "master",
+          "mkpsxiso",
+          "https://github.com/lameguy64/mkpsxiso",
+          "alex-free/tonyhax"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — submodule: nxflash",
+        "url": "https://github.com/danhans42/nxflash/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "NathanNeurotic/tonyhax",
+          "master",
+          "nxflash",
+          "https://github.com/danhans42/nxflash/",
+          "alex-free/tonyhax"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — submodule: pcsx-redux-support",
+        "url": "https://github.com/pcsx-redux/support",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "NathanNeurotic/tonyhax",
+          "master",
+          "pcsx-redux-support",
+          "https://github.com/pcsx-redux/support",
+          "alex-free/tonyhax"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — submodule: psexe2rom",
+        "url": "https://github.com/alex-free/psexe2rom/",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "NathanNeurotic/tonyhax",
+          "master",
+          "psexe2rom",
+          "https://github.com/alex-free/psexe2rom/",
+          "alex-free/tonyhax"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@master — submodule: psn00bsdk-builder",
+        "url": "https://github.com/alex-free/psn00bsdk-builder",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "NathanNeurotic/tonyhax",
+          "master",
+          "psn00bsdk-builder",
+          "https://github.com/alex-free/psn00bsdk-builder",
+          "alex-free/tonyhax"
+        ]
+      },
+      {
+        "name": "alex-free/tonyhax@v1.4 — submodule: freepsxboot/FreePSXBoot",
+        "url": "https://github.com/brad-lin/FreePSXBoot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "NathanNeurotic/tonyhax",
+          "gpuscale",
+          "freepsxboot/FreePSXBoot",
+          "https://github.com/brad-lin/FreePSXBoot",
+          "jptest",
+          "v1.4",
+          "alex-free/tonyhax"
+        ]
+      },
+      {
         "name": "Arntzen-Software/parallel-gs@vram-copy-rewrite — submodule: Granite",
         "url": "https://github.com/Themaister/Granite",
         "keywords": [
@@ -1980844,128 +1985972,6 @@
         ]
       },
       {
-        "name": "NathanNeurotic/tonyhax@master — submodule: freepsxboot/FreePSXBoot",
-        "url": "https://github.com/alex-free/FreePSXBoot",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "NathanNeurotic/tonyhax",
-          "master",
-          "freepsxboot/FreePSXBoot",
-          "https://github.com/alex-free/FreePSXBoot"
-        ]
-      },
-      {
-        "name": "NathanNeurotic/tonyhax@master — submodule: gshax-tool",
-        "url": "https://github.com/alex-free/gshax-tool",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "NathanNeurotic/tonyhax",
-          "master",
-          "gshax-tool",
-          "https://github.com/alex-free/gshax-tool"
-        ]
-      },
-      {
-        "name": "NathanNeurotic/tonyhax@master — submodule: mkpsxiso",
-        "url": "https://github.com/lameguy64/mkpsxiso",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "NathanNeurotic/tonyhax",
-          "master",
-          "mkpsxiso",
-          "https://github.com/lameguy64/mkpsxiso"
-        ]
-      },
-      {
-        "name": "NathanNeurotic/tonyhax@master — submodule: nxflash",
-        "url": "https://github.com/danhans42/nxflash/",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "NathanNeurotic/tonyhax",
-          "master",
-          "nxflash",
-          "https://github.com/danhans42/nxflash/"
-        ]
-      },
-      {
-        "name": "NathanNeurotic/tonyhax@master — submodule: pcsx-redux-support",
-        "url": "https://github.com/pcsx-redux/support",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "NathanNeurotic/tonyhax",
-          "master",
-          "pcsx-redux-support",
-          "https://github.com/pcsx-redux/support"
-        ]
-      },
-      {
-        "name": "NathanNeurotic/tonyhax@master — submodule: psexe2rom",
-        "url": "https://github.com/alex-free/psexe2rom/",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "NathanNeurotic/tonyhax",
-          "master",
-          "psexe2rom",
-          "https://github.com/alex-free/psexe2rom/"
-        ]
-      },
-      {
-        "name": "NathanNeurotic/tonyhax@master — submodule: psn00bsdk-builder",
-        "url": "https://github.com/alex-free/psn00bsdk-builder",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "NathanNeurotic/tonyhax",
-          "master",
-          "psn00bsdk-builder",
-          "https://github.com/alex-free/psn00bsdk-builder"
-        ]
-      },
-      {
-        "name": "NathanNeurotic/tonyhax@v1.4 — submodule: freepsxboot/FreePSXBoot",
-        "url": "https://github.com/brad-lin/FreePSXBoot",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "NathanNeurotic/tonyhax",
-          "gpuscale",
-          "freepsxboot/FreePSXBoot",
-          "https://github.com/brad-lin/FreePSXBoot",
-          "jptest",
-          "v1.4"
-        ]
-      },
-      {
         "name": "oMrRexD/xerabora-android@main — submodule: opl",
         "url": "https://github.com/hacan359/Open-PS2-Loader",
         "keywords": [
@@ -1981303,60 +1986309,6 @@
           "main",
           "pcm720/nhddl-psu",
           "nhddl-2.0"
-        ]
-      },
-      {
-        "name": "saildot4k/OSDMenu@main — submodule: launcher/iop/mmceman",
-        "url": "https://github.com/ps2-mmce/mmceman",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "dirtrider735/nhddl",
-          "async-cover-art",
-          "iop/mmceman",
-          "https://github.com/ps2-mmce/mmceman.git",
-          "feature/editable-network-settings",
-          "legacy",
-          "release-candidate/integrated-ftp-20260814",
-          "rewrite",
-          "video-modes",
-          "dnunezx/nhddl-luna",
-          "luna",
-          "dnunezx/ROCKET",
-          "main",
-          "launcher/iop/mmceman",
-          "unstable",
-          "eliankeil/nhddl",
-          "NathanNeurotic/launcHER",
-          "EMBER",
-          "codex/opl-self-argv",
-          "codex/pages-favicon",
-          "codex/popstarter-replacement",
-          "docs/github-pages",
-          "docs/mobile-cursor-orbs-toggle-20261011",
-          "fix/build-version-sidecar-20261012",
-          "fix/ghpages-mobile-orbs-live-20261011",
-          "fix/nichdd-pfs-writethrough",
-          "fix/opl-apps-mass-argv0",
-          "fix/opl-db-quickboot-pfs0",
-          "fix/udpfs-nack-once",
-          "NathanNeurotic/nhddl",
-          "pcm720/nhddl",
-          "pcm720/OSDMenu",
-          "SumavisionQ5/launcHER",
-          "aleelyoshi/OSDMenu",
-          "celiocasttro/OSDMenu",
-          "coreylad/OSDMenu",
-          "higorhgon/OSDMenu",
-          "baseline-ab-test",
-          "claude/osdmenu-games-menu-tkcbok",
-          "feat/covers",
-          "feat/ember-igr",
-          "osdhub",
-          "saildot4k/OSDMenu"
         ]
       },
       {
