@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-06-30T20:18:04Z'
   url: 'https://github.com/pcm720/OSDMenu/releases/tag/v1.3.0'
 activity:
-  lastSynchronized: '2026-10-25T16:20:31.576Z'
+  lastSynchronized: '2026-10-27T16:40:20.455Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5118cfdd0c980033a2548e788c7b15aad838b4ce1d5017d32ff67ef3bc34cc91"
-    releasesEtag: W/"3ed1bf57dc7d2b0777792aea191836fc2ffd9f1e16ccd22f184bf873a6f70c6d"
+    repoEtag: W/"9cccd77c129a1c8636a03966299ac909c653bd5dcbd5f4969b939a163471b35c"
+    releasesEtag: W/"b8c68feb210ae27cc1e0c7b632c94f7ae6387e5e5046f9dd5c4c2892bd93596a"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

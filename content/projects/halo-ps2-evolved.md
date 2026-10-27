@@ -23,21 +23,21 @@ source:
 repository:
   archived: false
   defaultBranch: port/halo-ce-universal-remake
-  stars: 1
+  stars: 2
   forks: 0
-  lastCommit: '2026-10-25T16:17:22Z'
+  lastCommit: '2026-10-26T20:38:32Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-25T16:20:03.287Z'
+  lastSynchronized: '2026-10-27T16:39:41.880Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"604a3321e2f25292b47982beb7fae7500a35f075664c7d5940b1c381ac1b23bd"
-    releasesEtag: '"67519807a1434cc860a2f0d388408dbaadf9b95ce5d4b0732f16fb46ac9515f3"'
+    repoEtag: W/"80d662cf0e2c0ca94638b6ef81e0940218b6e70be2b7ca4fbb0e851376fe06a4"
+    releasesEtag: '"d6bfcadce9082ff8e7ad7e61e752259445152597493886acfe1cd21262866285"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

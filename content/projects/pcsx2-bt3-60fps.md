@@ -23,9 +23,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 4
+  stars: 5
   forks: 0
-  lastCommit: '2026-10-25T14:48:56Z'
+  lastCommit: '2026-10-26T09:38:22Z'
 latestRelease:
   tag: v28-meter-economy
   name: 'v28 - ki, the combat windows, effects and the match clock'
@@ -34,12 +34,12 @@ latestRelease:
     https://github.com/Saupernova13/pcsx2-bt3-60fps/releases/tag/v28-meter-economy
 activity:
   lastChecked: '2026-09-29T16:39:19.086Z'
-  lastSynchronized: '2026-10-25T16:20:33.819Z'
+  lastSynchronized: '2026-10-27T16:40:23.418Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2548f74b937eb4ed8263079ac9207b29bbe4b5cf24fc95df67ed3623bc97cfaf"
-    releasesEtag: W/"bb8e2b1226bce10411f01bfed99dc26d7a7d3696129d2927984a23a9c90a6495"
+    repoEtag: W/"dfcba4f81b459d3ab01578bfaef9cb9f3b7aa57622e517024aa6c1efa6b8fb99"
+    releasesEtag: W/"d30855030699b65d41cf6b3766f1e416ed6cd27cd061220ca22f939a05116dab"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 80

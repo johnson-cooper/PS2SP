@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-02-03T11:35:32Z'
   url: 'https://github.com/Blaze1burn2/Stationplay2EMU/releases/tag/1.0'
 activity:
-  lastSynchronized: '2026-10-25T16:21:16.887Z'
+  lastSynchronized: '2026-10-27T16:41:24.765Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e3b312261d694391220318e1083c77927b1b3d55e18291b12d244df2f6885761"
-    releasesEtag: W/"e859aabffb9ae329f4c6ee6ec58bb153cc445f08ba9f5b777e7f1832ff1b32ac"
+    repoEtag: W/"1eb716f066edb7fb431a66861ade1cda3094c7876a12c7cfe2a85f11afe5ea97"
+    releasesEtag: W/"4e44bdcc87d82ce4b249de7350975af8efce8ca70c70da8af9097d6c076ac11d"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

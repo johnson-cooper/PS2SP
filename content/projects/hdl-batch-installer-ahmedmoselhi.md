@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2023-01-12T21:26:47Z'
   url: 'https://github.com/ahmedmoselhi/HDL-Batch-installer/releases/tag/Latest'
 activity:
-  lastSynchronized: '2026-10-25T16:20:04.401Z'
+  lastSynchronized: '2026-10-27T16:39:43.130Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9d0196fe01558270a2aec4c378b4298669f8066826efd2cc07b45e4c546523cf"
-    releasesEtag: W/"48b8bf84d4bc6ad2944c82c0399364f0f165256fd3f84e0adc5981f90654d4e1"
+    repoEtag: W/"9310eb1fff11792a8ca597dd1a79ede3ad99d41b05168657813c3c1ac03afd2f"
+    releasesEtag: W/"58b6d2de2e4fba6833d68f057b1ca049bf61b963cbecc9d008ee13d70e30ff24"
 discovery:
   method: 'fork-network:israpps/HDL-Batch-installer'
   confidence: 95

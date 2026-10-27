@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/dragoonant/srw-impact-translation/releases/tag/v0.1.1'
 activity:
   lastChecked: '2026-10-17T19:42:53.994Z'
-  lastSynchronized: '2026-10-25T16:21:16.453Z'
+  lastSynchronized: '2026-10-27T16:41:24.155Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f9038c3553944ed9938509cd7ffb563ec1cb987fdf741af8166680ad02810cfb"
-    releasesEtag: W/"65ec6d1f6321941aed17c9dd54743559622c2df3a65e61941a101c4c95837d42"
+    repoEtag: W/"57ffc05d9464a4e8710a6af3a17b447fe5cae3b0a674c88f108f070f41121c95"
+    releasesEtag: W/"cd2a45f943e88905019d2e7a89f5d87119fbedba07ba141312b4f5ab2246503a"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

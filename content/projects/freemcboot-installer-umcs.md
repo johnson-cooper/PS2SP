@@ -32,12 +32,12 @@ latestRelease:
   url: >-
     https://github.com/NathanNeurotic/FreeMcBoot-Installer-UMCS/releases/tag/latest
 activity:
-  lastSynchronized: '2026-10-25T16:19:58.872Z'
+  lastSynchronized: '2026-10-27T16:39:35.607Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3906d22a740e4885b46be264c52034237d8925d3834c7906fa2cf9960ae86a04"
-    releasesEtag: W/"c52a2536eaed2ea241d06d6f4c6125d0f92d735d1f74c8063425c922d0a73a64"
+    repoEtag: W/"f5580070a87d048d8f9462a83e4696da96c50a2c1b14819b9c0dc2c5ebb0bd40"
+    releasesEtag: W/"0234619638329decabb0573a9ade7397bc1ac6454c50e6e10322f1d5ba9ce79d"
 discovery:
   method: curated-owner
   confidence: 100

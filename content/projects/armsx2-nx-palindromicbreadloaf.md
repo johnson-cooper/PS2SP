@@ -13,26 +13,26 @@ license: GPL-3.0
 homepage: 'https://armsx2.net/'
 source:
   provider: github
-  repository: PalindromicBreadLoaf/ARMSX2-NX
+  repository: PalindromicBreadLoaf/Yadokari
   repositoryId: '1270172504'
 repository:
   archived: false
   defaultBranch: master
-  stars: 68
+  stars: 69
   forks: 7
-  lastCommit: '2026-10-22T02:45:23Z'
+  lastCommit: '2026-10-27T02:33:39Z'
 latestRelease:
   tag: v3.0.0
   name: v3.0.0
   publishedAt: '2026-08-24T18:18:41Z'
-  url: 'https://github.com/PalindromicBreadLoaf/ARMSX2-NX/releases/tag/v3.0.0'
+  url: 'https://github.com/PalindromicBreadLoaf/Yadokari/releases/tag/v3.0.0'
 activity:
-  lastSynchronized: '2026-10-25T16:19:41.853Z'
+  lastSynchronized: '2026-10-27T16:39:11.865Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a301e8ffcc923304e96bdce46e0af954954e31d266d54fca245b7edf5ac28e4b"
-    releasesEtag: W/"2ef9afa74e43caaca5e6550c911da851f0bf95850cd60bb5314457706eb9872f"
+    repoEtag: W/"9a39a275779957cf73c713febc6e235dd97cd4f2529c0c808e78f73c7a238b9c"
+    releasesEtag: W/"6230e86f8a339353c339fc92cb14856e72fc8a2575f41b16903e9d7897dd82fc"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 95

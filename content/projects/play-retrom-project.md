@@ -28,9 +28,12 @@ latestRelease:
   url: >-
     https://github.com/retrom-project/Play-/releases/tag/retrom-core-g83700b2c31e5-r5
 activity:
-  lastSynchronized: '2026-10-27T10:59:42.373Z'
+  lastSynchronized: '2026-10-27T16:40:40.280Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"618db3fb262caaa922cfb38a4c0e81e95392b9b8a111354748921098f729f4c5"
+    releasesEtag: W/"7c9d651c7a3fc7a8a6a0b31faff69d8adfe85d8e7945a9d2bcf965b7c4e09fcf"
 discovery:
   method: 'fork-network:jpd002/Play-'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: jpd002/Play-
   source: jpd002/Play-
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

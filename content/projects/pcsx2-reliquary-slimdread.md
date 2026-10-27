@@ -20,16 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-26T00:07:24Z'
+  lastCommit: '2026-10-26T06:20:29Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T01:43:46.634Z'
+  lastSynchronized: '2026-10-27T16:40:31.860Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"784a8c87e410f93e7c76f072329085178485626a172bde508b107bed70879ef3"
+    releasesEtag: '"d6bfcadce9082ff8e7ad7e61e752259445152597493886acfe1cd21262866285"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: DiscoStarslayer/pcsx2-reliquary
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

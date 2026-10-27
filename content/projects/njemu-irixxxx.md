@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-25T16:20:21.221Z'
+  lastSynchronized: '2026-10-27T16:40:03.814Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7ce2525cda65ef5bd44d986d60be5c0e6538e402ed5ca0cfbf4ffe757009949e"
-    releasesEtag: '"67519807a1434cc860a2f0d388408dbaadf9b95ce5d4b0732f16fb46ac9515f3"'
+    repoEtag: W/"121c661bdb1f6a8763eed2a81c6469315d2da3e26ccb82b61a4ca1a0f9c0b1c9"
+    releasesEtag: '"d6bfcadce9082ff8e7ad7e61e752259445152597493886acfe1cd21262866285"'
 discovery:
   method: 'fork-network:fjtrujy/NJEMU'
   confidence: 95
