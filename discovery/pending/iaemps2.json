@@ -1,0 +1,16 @@
+{
+  "repository": "Bazchh/iaemps2",
+  "repositoryId": "1434827155",
+  "url": "https://github.com/Bazchh/iaemps2",
+  "description": "IAEmPS2: mestre invisível por IA para jogos de PS2 em emulador (documentos de projeto)",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-27T00:05:09.259Z",
+  "checkedAt": "2026-10-27T00:05:09.259Z"
+}
