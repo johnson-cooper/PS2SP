@@ -14,26 +14,26 @@ license: null
 homepage: null
 source:
   provider: github
-  repository: RodrigoRosa95/ps2GamesCLoudinOPl
+  repository: RodrigoRosa95/PS2-Henbox
   repositoryId: '1423952155'
 repository:
   archived: false
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-22T07:28:36Z'
+  lastCommit: '2026-10-25T11:56:00Z'
 latestRelease:
   tag: v1.0
   name: v1.0 — pendrive.zip e instalador público
   publishedAt: '2026-10-18T22:52:56Z'
-  url: 'https://github.com/RodrigoRosa95/ps2GamesCLoudinOPl/releases/tag/v1.0'
+  url: 'https://github.com/RodrigoRosa95/PS2-Henbox/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-10-22T10:12:33.581Z'
+  lastSynchronized: '2026-10-27T10:36:20.152Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4bb91ee5350a9cdd937620c164e5c9bbee6dc8f2b4a404b6333de6e9cfb6cbdf"
-    releasesEtag: W/"1026873758038ad1731c45f28bdfbded06e4fe79c9870dc70d303c1f4767bc52"
+    repoEtag: W/"1b0fc4105fe5c5fc574d31884429a836bc119ff3629032aa8be0d43338a4745b"
+    releasesEtag: W/"f2879e147977c2f4827c38449f8a1c641ec7c32f0d70b814f34c8a3ccdca257d"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

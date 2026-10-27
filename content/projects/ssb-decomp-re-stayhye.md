@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T10:12:53.876Z'
+  lastSynchronized: '2026-10-27T10:36:45.079Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"05ceba25753ec8684fd764e2477c1c5e77ce935468cd83c7ff44e5f1737ea392"
-    releasesEtag: '"39377d39985f2eab2b83c37200e58ba2c8aeff6ef491619b4c0e8af86ecefbcf"'
+    repoEtag: W/"0d5dc2cfa812de62574a8d5582fc7dc87e2cb514914aab155e382c0ed8c2d643"
+    releasesEtag: '"2527ec6c5ed97265bdb7d9a1e2a4687a42a2c05b59874f596fef4b44cfba4c30"'
 discovery:
   method: 'fork-network:johnson-cooper/ssb-decomp-re'
   confidence: 95

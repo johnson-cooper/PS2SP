@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-03-14T01:23:28Z'
   url: 'https://github.com/F0bes/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-22T10:12:15.493Z'
+  lastSynchronized: '2026-10-27T10:35:54.823Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5c6dd800a39a826208068d6ff793fd8efc6eb87eca042d9591d33bca950e4495"
-    releasesEtag: W/"d6a6915489603613771e39d78ff765387e416d81fa9aed459324d8c057f04fa3"
+    repoEtag: W/"79ff03ab6a29777ee13d262f4e7290713c32f2e2f69c952bdb510dc796a9eb40"
+    releasesEtag: W/"5713b70ed423f524f2fb87f5dcb6b9e0b92271b8517c41e2eccb9df8cc3e26c0"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95

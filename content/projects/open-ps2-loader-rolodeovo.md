@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2020-09-19T17:53:03Z'
   url: 'https://github.com/RoloDeOvo/Open-PS2-Loader/releases/tag/modular-pademu'
 activity:
-  lastSynchronized: '2026-10-22T10:12:08.557Z'
+  lastSynchronized: '2026-10-27T10:35:44.916Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"811ecc512dde501d06262755397c3f81c9c802ba898f7bb626f2129fa4e495ab"
-    releasesEtag: W/"4adf5c245a0793d651e51c0c78cc44166f01090602dadf9a73708402549c0e93"
+    repoEtag: W/"a9114988224b7edbe73bdf57b5742191f09219dcf1e174cca8636aff9556cfae"
+    releasesEtag: W/"73a90889a9ea079f8fd6df0d4ef9396aa701d19f342fe6f6c2526d36a8ca56eb"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

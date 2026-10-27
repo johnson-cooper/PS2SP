@@ -37,12 +37,12 @@ latestRelease:
   publishedAt: '2026-10-13T04:09:36Z'
   url: 'https://github.com/uyjulian/wLaunchELF/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-22T10:12:59.250Z'
+  lastSynchronized: '2026-10-27T10:36:51.989Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ad7224ca637488c9d5dc0166dc6d02c241e7fc032a0b792dc6644011975fafff"
-    releasesEtag: W/"cef021559ff8443691707db9cbd541467af18b045ceee73d3c3485c388d5bef6"
+    repoEtag: W/"a2b1b44291784efc829b51e9585f18781c3987ef0c06b471219a2ebe4efc44db"
+    releasesEtag: W/"5795fcadd2e3182fd81d3d4d4b06afe836c2f96b31e1aa09905fbf6cec3a8f5b"
 discovery:
   method: 'fork-network:ps2homebrew/wLaunchELF'
   confidence: 100

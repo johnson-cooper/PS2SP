@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: '2026-10-11T12:31:04Z'
   url: 'https://github.com/Clodmony/opengoal-coop/releases/tag/v0.1.1'
 activity:
-  lastSynchronized: '2026-10-24T19:00:34.288Z'
+  lastSynchronized: '2026-10-27T10:35:46.241Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"81ce8f337eb44b42a7e10741686f836be7705cd57d822bc67cee5cf5151cfff5"
+    releasesEtag: W/"7d700d75e910d0239eac9c895bc808e6c82648f88c2a72fac274086f80e51ecb"
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95
@@ -49,5 +52,4 @@ relationships:
   forkOf: open-goal/jak-project
   source: open-goal/jak-project
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

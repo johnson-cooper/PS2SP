@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T10:11:57.979Z'
+  lastSynchronized: '2026-10-27T10:35:29.326Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6f4a7b5a7b8beca37b6142b557f316ec6a1ff7fcbfb7ddb15c68fbfbf69e9a36"
-    releasesEtag: '"39377d39985f2eab2b83c37200e58ba2c8aeff6ef491619b4c0e8af86ecefbcf"'
+    repoEtag: W/"b16478c44e8618a5bf13b7422ee60e8262cdaa51c7e037b0a121f7ba513de41a"
+    releasesEtag: '"2527ec6c5ed97265bdb7d9a1e2a4687a42a2c05b59874f596fef4b44cfba4c30"'
 discovery:
   method: 'fork-network:DanielSant0s/melonDS-PS2'
   confidence: 100

@@ -29,12 +29,12 @@ latestRelease:
   url: 'https://github.com/Thesoim/ARMSX2-Gold/releases/tag/v1.0'
 activity:
   lastChecked: '2026-09-29T00:28:56.778Z'
-  lastSynchronized: '2026-10-22T10:11:24.509Z'
+  lastSynchronized: '2026-10-27T10:34:43.818Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bf80da599dabc9bde2de5e6b7f315459956fc7ba4cb838aca14c5a9ed7f546dd"
-    releasesEtag: W/"870aa1b95f47c82ce9d8e0acc9c88a50a792df6b6e8a064ff482161cbf1ce330"
+    repoEtag: W/"b926aba4ee0ef3b2cae6c4151dae23411ff1ceccac8bcd333f983a5d54b0db0d"
+    releasesEtag: W/"61aaeed06598d817cdf80ecf675c942e641dc4fb225a42640e402fbad518e71d"
 discovery:
   method: github-search
   confidence: 100
