@@ -1,0 +1,16 @@
+{
+  "repository": "RodrigoCobo/Yakuza-PSP-recomp",
+  "repositoryId": "1436350558",
+  "url": "https://github.com/RodrigoCobo/Yakuza-PSP-recomp",
+  "description": "Yakuza for PlayStation 2 running natively on the PSP through static recompilation (experimental)",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-10-28T00:44:37.049Z",
+  "checkedAt": "2026-10-28T00:44:37.049Z"
+}
