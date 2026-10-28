@@ -35,9 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-20T19:35:24.428Z'
+  lastSynchronized: '2026-10-28T08:34:30.671Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"af86bc341694314279d0695f46a06bea8a6b68e07fa85957ba195025519efe26"
+    releasesEtag: '"4c5ecd697451b273cf52052bd3a46e621bcbb235bd1aff8a6c92c491c1168c20"'
 discovery:
   method: 'fork-network:Jay-Jay-OPL/uLaunchELF'
   confidence: 100
@@ -54,5 +57,4 @@ relationships:
   forkOf: Jay-Jay-OPL/uLaunchELF
   source: ps2homebrew/wLaunchELF
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

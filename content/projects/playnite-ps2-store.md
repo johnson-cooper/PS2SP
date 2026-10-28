@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-10-08T15:07:36Z'
   url: 'https://github.com/codermert/playnite-ps2-store/releases/tag/v1.0.0-beta.1'
 activity:
-  lastSynchronized: '2026-10-11T08:51:56.992Z'
+  lastSynchronized: '2026-10-28T08:33:46.954Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b80e22d8f12e606a544d1963462549e2b7b93e25ee3fde09c835eb57a8ebae31"
-    releasesEtag: W/"15feaeb8d9d70d3b87ceffe2520cd3ac5c7f249e4c106f4e8adbb833bf3909a5"
+    repoEtag: W/"f23a5754d7934301e5b01cac6ba82c8e513605d7e66f099cc79dcd9e101376ca"
+    releasesEtag: W/"ea939fd3935537eee742e9030bd3f5a9656ead299da8ab9f8cf7a9829eb1df25"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

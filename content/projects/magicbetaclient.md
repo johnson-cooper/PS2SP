@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 3
+  stars: 4
   forks: 0
   lastCommit: '2026-10-07T13:27:58Z'
 latestRelease:
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/BrownNPC/MagicBetaClient/releases/tag/0.0.1'
 activity:
   lastChecked: '2026-10-07T16:24:32.585Z'
-  lastSynchronized: '2026-10-11T08:51:40.824Z'
+  lastSynchronized: '2026-10-28T08:33:03.920Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"44b85e815fdb79d3332f51eb22b1fc4df04fa997e1e560afe853fdc407d1ed18"
-    releasesEtag: W/"e305489544103cb5c44030dcd21ab21823629e03804447dc89761b40e3c3bd73"
+    repoEtag: W/"363b8d685084e47663434f77d7f741738a66550dc2140087f6abb3accb88e4cf"
+    releasesEtag: W/"d24fce4c9001377ff9c2a6efa0b364cc8d1982652fc12dd67ddddf7216247750"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

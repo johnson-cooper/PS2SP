@@ -35,12 +35,12 @@ latestRelease:
   url: 'https://github.com/johnson-cooper/project-goat/releases/tag/v0.1.7'
 activity:
   lastChecked: '2026-09-29T10:00:00Z'
-  lastSynchronized: '2026-10-11T08:51:57.866Z'
+  lastSynchronized: '2026-10-28T08:33:48.094Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1346c795be17cac69f195c9320859845a4b4c5646c12b9269ebe61eb94c34eb3"
-    releasesEtag: W/"9ca51fb089860ccbfde741bb56b0c85c483206e329ef62b346e65b089720c202"
+    repoEtag: W/"365dc285a41e71c03deffb97e49bcec6e57774d1e5c6b4db4e9a1a14350c4526"
+    releasesEtag: W/"aa7d08a831ba0d6bd52abfb43d71cefca7e63701f8148db33915a2c6357fe4ec"
 discovery:
   method: curated
   confidence: 100

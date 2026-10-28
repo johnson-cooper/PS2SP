@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-19T14:59:02.710Z'
+  lastSynchronized: '2026-10-28T08:34:21.743Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"35a91b72ec41a17967ff712722b4881759e6a5b211e7316c2f565f09d5ce6ae3"
+    releasesEtag: '"4c5ecd697451b273cf52052bd3a46e621bcbb235bd1aff8a6c92c491c1168c20"'
 discovery:
   method: 'fork-network:RompEmu/RomP'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: RompEmu/RomP
   source: RompEmu/RomP
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

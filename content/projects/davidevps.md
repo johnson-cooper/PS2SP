@@ -31,12 +31,12 @@ latestRelease:
     https://github.com/davifernandobastosdeassiss-coder/DaviDevPS/releases/tag/v1.1
 activity:
   lastChecked: '2026-09-29T00:27:00.988Z'
-  lastSynchronized: '2026-10-17T05:51:57.406Z'
+  lastSynchronized: '2026-10-28T08:32:39.582Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"be7ec97779b848641da8363019f02f5bfb9b13b7a8fc1ac568fa6a6a197bd578"
-    releasesEtag: W/"e2d9e33c52cc394d29fa77895372befbb824abb828c48acf17a58227e15e46b8"
+    repoEtag: W/"a36071dcc77aacff181ef619320d4da6c32f87243b448fdfe0300f5347524f9e"
+    releasesEtag: W/"b6183540ad5acae6ddc5b53d7185ce49e6a6512c88e66ab2fa8f878f81c59967"
 discovery:
   method: github-search
   confidence: 100

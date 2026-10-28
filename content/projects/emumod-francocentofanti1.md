@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-27T00:05:09.259Z'
+  lastSynchronized: '2026-10-28T08:32:43.854Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ec1a6d6820ed7de9bb14a1afc92d0e6fecdc340748a097da01387e7b1585b4e1"
+    releasesEtag: '"4c5ecd697451b273cf52052bd3a46e621bcbb235bd1aff8a6c92c491c1168c20"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: Sparretro/EmuMod
   source: Sparretro/EmuMod
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

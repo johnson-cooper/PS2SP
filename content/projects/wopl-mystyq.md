@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2026-07-24T01:25:43Z'
   url: 'https://github.com/mystyq/wOPL/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-11T08:52:19.128Z'
+  lastSynchronized: '2026-10-28T08:34:33.465Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"21732b0d8550b14afb054bdf26f753e069c9c013789a2c7328ee2f15c6f9d1a1"
-    releasesEtag: W/"3622c8a3f331940f58227335f172af76e10b58fae319aa7c0c401c30edfe2a4c"
+    repoEtag: W/"c697b2f50fd525b66987a4500b2898ccff7af5b60a40cd6a6320e7c893dab2ec"
+    releasesEtag: W/"dc1841d02fe20d405b102bbdddf9b0f72ad56c5dc9a9195d44e98e59c7ade315"
 discovery:
   method: 'fork-network:ps2homebrew/wOPL'
   confidence: 100

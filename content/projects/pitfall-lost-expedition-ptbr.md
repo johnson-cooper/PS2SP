@@ -22,23 +22,23 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 2
   forks: 0
-  lastCommit: '2026-10-10T03:43:24Z'
+  lastCommit: '2026-10-23T03:30:48Z'
 latestRelease:
-  tag: v0.9-beta
-  name: v0.9 beta — Tradução PT-BR
-  publishedAt: '2026-10-10T03:43:24Z'
+  tag: v0.9.1-beta
+  name: v0.9.1 beta — Tradução PT-BR (correção da ISO base)
+  publishedAt: '2026-10-21T01:04:49Z'
   url: >-
-    https://github.com/Oblytoid/Pitfall-Lost-Expedition-PTBR/releases/tag/v0.9-beta
+    https://github.com/Oblytoid/Pitfall-Lost-Expedition-PTBR/releases/tag/v0.9.1-beta
 activity:
   lastChecked: '2026-10-10T07:44:46.917Z'
-  lastSynchronized: '2026-10-11T08:51:56.570Z'
+  lastSynchronized: '2026-10-28T08:33:43.896Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"48b0883d055bdd9ec7918b4e9e405dcd8e6059feb975a708532a0fc714cbc314"
-    releasesEtag: W/"c01643d8733c0d749d7986e990178a11f7797c5d3d49911ff6abfcd1b29b2b6f"
+    repoEtag: W/"09e0e58cf34e7cdab434d821ec5b708e3bb77028f8f04cc3a839c650f129a1bd"
+    releasesEtag: W/"bb43c2077bcc3f8f8ccb9b98a074d0ddf96d20076cd9c1e0a776743f8d3e1e8b"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

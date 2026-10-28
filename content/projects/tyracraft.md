@@ -17,7 +17,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 169
+  stars: 176
   forks: 13
   lastCommit: '2026-05-18T14:03:14Z'
 latestRelease:
@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2024-08-17T15:56:52Z'
   url: 'https://github.com/Wellinator/tyracraft/releases/tag/v0.86.140'
 activity:
-  lastSynchronized: '2026-10-11T08:52:16.021Z'
+  lastSynchronized: '2026-10-28T08:34:28.448Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ce0aea416bfb5eb48b844dfaa2e5f3d280eef91f0ab5f4a34faf016e4dd3b07f"
-    releasesEtag: W/"db9d48f5e41e7a22da316d994dd51adbb6d54a23c94e960da09f9230560ffba4"
+    repoEtag: W/"ea695dc3e41f6e36e1762f6142ad548b5f00c45bd93f1de212498281f84f287d"
+    releasesEtag: W/"f434059248a916e8bb5f7f103bfba53e768b32fbd3f45e8993330551618e6abb"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

@@ -20,16 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-18T00:11:38Z'
+  lastCommit: '2026-10-18T02:32:21Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: '0.1'
+  name: 0.1 Release
+  publishedAt: '2026-10-18T02:32:22Z'
+  url: 'https://github.com/makaherpasswordlostmedia/Play-/releases/tag/0.1'
 activity:
-  lastSynchronized: '2026-10-18T01:32:12.259Z'
+  lastSynchronized: '2026-10-28T08:33:45.024Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ef9b637412599a112cc3cdb277eea4f9ce572617a9a0858a88ca45c540c61cb4"
+    releasesEtag: W/"bbede9855e4f123736b55e2dfe4c4dedc5e30026e06c979f0c6a2ab10541bc8a"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: darkpigeon/Play-
   source: jpd002/Play-
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

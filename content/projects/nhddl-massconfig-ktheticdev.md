@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2025-05-04T16:52:49Z'
   url: 'https://github.com/ktheticdev/nhddl-massconfig/releases/tag/nightly'
 activity:
-  lastSynchronized: '2026-10-11T08:51:44.713Z'
+  lastSynchronized: '2026-10-28T08:33:08.506Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"89af5f99f62b08631f0cbcf9cef0da6f864914eb2f69d555c8ceb50961407b1c"
-    releasesEtag: W/"67951dfbcf787b604e92af7ae6c70ddcf10ace3ba1536b6269cf7114fb649ab0"
+    repoEtag: W/"798bfbb89dec5e121da40e49212d58f74dc209f51c880e96641e6160c2931992"
+    releasesEtag: W/"6fcf76700ebcc5bd59ce598dfcaae949e32980d6555ff5238b30dfe02e4a2794"
 discovery:
   method: 'fork-network:pcm720/nhddl'
   confidence: 95

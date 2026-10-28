@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-11T08:52:09.499Z'
+  lastSynchronized: '2026-10-28T08:34:15.436Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6daf94ce8f8105450ab523f0c13dc5de4f30436f663ab324f61fce5d5f0566d0"
-    releasesEtag: '"8319ae7601177a31d3f2724a3bb97a3d4a4b2de9c008246b6300bab6f6ae39ce"'
+    repoEtag: W/"bf9aab4a9916ced29d5ae83d18c5307f263e7e8c5b1b450af6b558a8e7ea30fb"
+    releasesEtag: '"4c5ecd697451b273cf52052bd3a46e621bcbb235bd1aff8a6c92c491c1168c20"'
 discovery:
   method: 'fork-network:CosmicScale/PSBBN-Definitive-Project'
   confidence: 95

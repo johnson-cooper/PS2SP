@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-11T08:51:40.389Z'
+  lastSynchronized: '2026-10-28T08:33:03.360Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a427761846794e47a393b12895bd5b8de76674de80deff982a9da2bfc9601cef"
-    releasesEtag: '"8319ae7601177a31d3f2724a3bb97a3d4a4b2de9c008246b6300bab6f6ae39ce"'
+    repoEtag: W/"ce2dbfc8901b0d130cce00187bfb016807797b35498be2a5ead5ba2017842a62"
+    releasesEtag: '"4c5ecd697451b273cf52052bd3a46e621bcbb235bd1aff8a6c92c491c1168c20"'
 discovery:
   method: 'fork-network:ps2dev/lua'
   confidence: 95

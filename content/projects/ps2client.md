@@ -23,8 +23,8 @@ repository:
   archived: false
   defaultBranch: master
   stars: 60
-  forks: 22
-  lastCommit: '2026-10-05T14:55:25Z'
+  forks: 23
+  lastCommit: '2026-10-25T19:04:53Z'
 latestRelease:
   tag: v1.3.0
   name: v1.3.0
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/ps2dev/ps2client/releases/tag/v1.3.0'
 activity:
   lastChecked: '2026-09-29T00:27:10.402Z'
-  lastSynchronized: '2026-10-11T08:52:02.211Z'
+  lastSynchronized: '2026-10-28T08:33:58.306Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cc5b4d5c310b9d20d6bf7235e0f67cc2002ed0c75e8d4e099f15a48de0369bb8"
-    releasesEtag: W/"377374b356169e45a5adcaf68d95dc0d2b620afe56c1ccb1de86bc6aaec7eec2"
+    repoEtag: W/"c134483b509db44690702b2e6302ea6e16fac5c3621a6d7e5fcc2eb97a1d422a"
+    releasesEtag: W/"eb6b20fb94124d507d9985f1d5d72ea5879c5ab2a5f21b2340eee3efe9c9d0ec"
 discovery:
   method: curated
   confidence: 100

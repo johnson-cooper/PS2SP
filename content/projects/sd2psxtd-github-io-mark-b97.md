@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-11T08:52:12.677Z'
+  lastSynchronized: '2026-10-28T08:34:23.985Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6d1d6549cfe6d8351ec8f3e123b8c3451a8adb6de90aa62c4f17a9d366e7b0ee"
-    releasesEtag: '"8319ae7601177a31d3f2724a3bb97a3d4a4b2de9c008246b6300bab6f6ae39ce"'
+    repoEtag: W/"0313759a4acd6b3429e793c6638de274f18b8e8361a9d21c9e292cec4bbefcff"
+    releasesEtag: '"4c5ecd697451b273cf52052bd3a46e621bcbb235bd1aff8a6c92c491c1168c20"'
 discovery:
   method: 'fork-network:sd2psXtd/sd2psXtd.github.io'
   confidence: 95

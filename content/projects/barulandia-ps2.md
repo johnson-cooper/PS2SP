@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2020-12-08T21:52:49Z'
   url: 'https://github.com/jmgk77/BARULANDIA.PS2/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-10-17T05:50:30.215Z'
+  lastSynchronized: '2026-10-28T08:32:31.695Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"770db1c425f3e701edbf5adeea08374b39ae088ede0cf89963ba38e92c50878b"
-    releasesEtag: W/"312b1e96b401329cfc0b990acfd9e8aa21f43c5e5aa39a48628a90034805f0d1"
+    repoEtag: W/"90937bf264377b65d47206bd8e8ea4c949ec77a6a5c0daf0c5f3aa00f9bb7c12"
+    releasesEtag: W/"c45c528917ce7ce19e8445b0add93735278eea4b89db151d1e0fc571b98c0f94"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

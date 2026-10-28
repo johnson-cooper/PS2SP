@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 228
+  stars: 232
   forks: 18
   lastCommit: '2026-10-09T09:41:13Z'
 latestRelease:
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/sd2psXtd/firmware/releases/tag/1.4.0'
 activity:
   lastChecked: '2026-10-01T03:27:44.437Z'
-  lastSynchronized: '2026-10-11T08:51:28.425Z'
+  lastSynchronized: '2026-10-28T08:32:46.075Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ff8aae27d297c4549297988e6d189b44ceecb50a111eef5f208e00bac365d100"
-    releasesEtag: W/"763389bd55a9ae67283889f09a89164062afb8798027b62c7393b8e821480aba"
+    repoEtag: W/"dd7a487f66b47d60ff159a63b07eb80c1ff9cd06deeb8791f0b670eee4e74329"
+    releasesEtag: W/"b385c4e5d4e1f8a783dbe0648fb3af438c43a2189bcc60472797b2f5870b7006"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 80

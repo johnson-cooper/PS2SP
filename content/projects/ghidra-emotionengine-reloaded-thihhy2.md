@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T00:14:45.066Z'
+  lastSynchronized: '2026-10-28T08:32:52.071Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"54f132d1cb3309b2edf67414401af2a6cb70f479e2204290feca1614fc9a077e"
+    releasesEtag: '"4c5ecd697451b273cf52052bd3a46e621bcbb235bd1aff8a6c92c491c1168c20"'
 discovery:
   method: 'fork-network:chaoticgd/ghidra-emotionengine-reloaded'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: chaoticgd/ghidra-emotionengine-reloaded
   source: chaoticgd/ghidra-emotionengine-reloaded
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

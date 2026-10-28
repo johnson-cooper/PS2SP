@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-21T00:58:06.538Z'
+  lastSynchronized: '2026-10-28T08:34:31.664Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"67d1296ad02a0bf77b58b8d311c55ab126d36d143370eb78eb673819a1b34b94"
+    releasesEtag: '"4c5ecd697451b273cf52052bd3a46e621bcbb235bd1aff8a6c92c491c1168c20"'
 discovery:
   method: 'fork-network:glampert/vclpp'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: glampert/vclpp
   source: glampert/vclpp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -21,16 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-13T02:45:34Z'
+  lastCommit: '2026-10-28T03:17:14Z'
 latestRelease:
-  tag: v100
-  name: 'RIPPS2 themes for build 100, the first beta'
-  publishedAt: '2026-10-12T21:34:00Z'
-  url: 'https://github.com/akilluminati47/RIPPS2-themes/releases/tag/v100'
+  tag: rolling
+  name: RIPPS2 Themes
+  publishedAt: '2026-10-26T04:38:25Z'
+  url: 'https://github.com/akilluminati47/RIPPS2-themes/releases/tag/rolling'
 activity:
-  lastSynchronized: '2026-10-13T19:32:43.126Z'
+  lastSynchronized: '2026-10-28T08:34:21.149Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e394ff9b73add057e283d1ca2792536299a6ff733bba124828adea00ad08353c"
+    releasesEtag: W/"72e81a09e115c0499cfaecf1d9c077e3d0f0f22f61f3590d2e6184330944646c"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
