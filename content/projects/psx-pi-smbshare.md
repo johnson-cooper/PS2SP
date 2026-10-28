@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2020-07-17T21:14:26Z'
   url: 'https://github.com/toolboc/psx-pi-smbshare/releases/tag/v1.9'
 activity:
-  lastSynchronized: '2026-10-27T21:21:49.887Z'
+  lastSynchronized: '2026-10-28T21:07:01.367Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ffbc7d6080d710f757eb6181005239755b2f4e61b385d7bf837456338e422a10"
-    releasesEtag: W/"68bb36fc812115f554103ad2d6fd1236574567ef40b80fdde3055e773c283914"
+    repoEtag: W/"7baf0e9655375a819642c1c852e5607a4dcaddc12c2ac49f49e5eaac3a17d8b9"
+    releasesEtag: W/"e0c3bc33f742a120adc956337c2cb18ee370ce6073a1c5d08309580c1d6e24b6"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

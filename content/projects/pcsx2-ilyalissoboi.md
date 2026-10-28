@@ -20,19 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-23T10:08:02Z'
+  lastCommit: '2026-10-28T16:00:16Z'
 latestRelease:
-  tag: v2.9.127-sc2
-  name: 'PCSX2 v2.9.127-sc2 (shader chain, memory card sync)'
-  publishedAt: '2026-10-23T11:51:30Z'
-  url: 'https://github.com/ilyalissoboi/pcsx2/releases/tag/v2.9.127-sc2'
+  tag: v2.9.147-sc1
+  name: 'PCSX2 v2.9.147-sc1 (shader chain, memory card sync)'
+  publishedAt: '2026-10-28T16:00:30Z'
+  url: 'https://github.com/ilyalissoboi/pcsx2/releases/tag/v2.9.147-sc1'
 activity:
-  lastSynchronized: '2026-10-27T21:21:01.560Z'
+  lastSynchronized: '2026-10-28T21:06:12.573Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8790d5cad4a61b44fcb6631ac597ec6be3c5123b45e4186c7306fbef397a90f6"
-    releasesEtag: W/"39915a2c01d3db80aa7e0c229ddb1bce50c5fbc0fbd5077ecde65dec973ba401"
+    repoEtag: W/"27c694279277cde8d37dce381e70fbf799460e743a952f1ee3cf5288c1d3f39d"
+    releasesEtag: W/"b35135c74fe97b855f5e263c9ef478068ed9397335421a453a3150a8d390a639"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

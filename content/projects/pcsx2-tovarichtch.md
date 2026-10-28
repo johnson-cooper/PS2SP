@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-04-26T17:10:29Z'
   url: 'https://github.com/Tovarichtch/pcsx2/releases/tag/0.5'
 activity:
-  lastSynchronized: '2026-10-28T06:19:41.022Z'
+  lastSynchronized: '2026-10-28T21:06:18.959Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a108de91fb6413801e19d9759f5a3ebd702f257d8c8c9a0d5cffa776462f77a0"
+    releasesEtag: W/"220fcaee4dbb003dda375907ccb219dec9c2cb9c391142bf67160a8992460ed4"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

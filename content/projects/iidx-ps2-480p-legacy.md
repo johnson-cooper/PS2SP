@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-25T11:27:09Z'
+  lastCommit: '2026-10-28T15:06:33Z'
 latestRelease:
-  tag: v1.1
-  name: beatmania IIDX (PS2) — 480p Patch v1.1
-  publishedAt: '2026-10-22T08:33:27Z'
-  url: 'https://github.com/saboten731/iidx-ps2-480p-legacy/releases/tag/v1.1'
+  tag: v1.2
+  name: beatmania IIDX (PS2) — 480p Patch v1.2
+  publishedAt: '2026-10-28T15:06:34Z'
+  url: 'https://github.com/saboten731/iidx-ps2-480p-legacy/releases/tag/v1.2'
 activity:
-  lastSynchronized: '2026-10-27T21:20:25.757Z'
+  lastSynchronized: '2026-10-28T21:05:33.700Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3f7e563f7c6f447a75894bbef4fe8257236d432fc133839383f280bf44597e11"
-    releasesEtag: W/"e2b26a204bf33c06cb99423f75c1e6c09ed479070a2b724c95ece6ec6007ab58"
+    repoEtag: W/"bae8b605a9483bf2b117a0234dc52d583f8a5c2545c273526fb1256a9a489d1c"
+    releasesEtag: W/"26eac1dfd97c14babb65aa918d56d0cbe5cda352758f3134caafc90e6f058b84"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

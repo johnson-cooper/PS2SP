@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2021-06-27T18:43:47Z'
   url: 'https://github.com/NimrodPSI/hdl-dump/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-27T21:20:24.002Z'
+  lastSynchronized: '2026-10-28T21:05:31.934Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f048cf22e4bd219d40ce030d44ff3af47320364d06768b7bf80b9a6ed71c966c"
-    releasesEtag: W/"08468a09138b29f90118baf4e8fdfc434f9b16b7d2155b80d2475134cc2c170a"
+    repoEtag: W/"18b9de637ef6ec5a3ead3c833769298634f4a2d143dd8f2016c2fcf0138a62db"
+    releasesEtag: W/"3f8d3ed1edd8a7b6d07b17d176c662842ff07d7c9ec668e83e5b69a2db118541"
 discovery:
   method: 'fork-network:ps2homebrew/hdl-dump'
   confidence: 100

@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-27T21:20:44.480Z'
+  lastSynchronized: '2026-10-28T21:05:52.882Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"07a1e26aa9a6157c9c72dd3057cbf21b11431d9fb4656af2b5b8083e66438738"
-    releasesEtag: '"d07c796e30f535638c8c1195e1d7bb3337cbd88ac1b448751b73563c614dd6ad"'
+    repoEtag: W/"a33050eb8d5dbcb2920ac64726b3881651f699c84be323a77e88fa9a1693e393"
+    releasesEtag: '"d1a52c4e26a1d79e6d0ca8316872f5dfae1d7d418926e6cc103b78856f730cdb"'
 discovery:
   method: 'fork-network:Jeffsteelflex/nightfire-port'
   confidence: 100

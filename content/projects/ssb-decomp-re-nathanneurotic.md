@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-10-12T13:10:41Z'
+  lastCommit: '2026-10-28T13:05:34Z'
 latestRelease:
   tag: nightly-0aeed9e
   name: Reliable PS2 baseline — 2026-10-08
   publishedAt: '2026-10-08T19:10:34Z'
   url: 'https://github.com/NathanNeurotic/ssb-decomp-re/releases/tag/nightly-0aeed9e'
 activity:
-  lastSynchronized: '2026-10-27T21:22:00.950Z'
+  lastSynchronized: '2026-10-28T21:07:12.413Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"71348756b1b971445b8f8c61064c9949c84ac434b39664a3414a2f111f04b451"
-    releasesEtag: W/"fc856ae178eb0282566e8d5dd4991bb7599c927f07d58bc3b5ac3917c4bf9ed6"
+    repoEtag: W/"fb2976a62bd2e5f7563b0d1de24c67e28b85c97db36ae831b057855a6ff10379"
+    releasesEtag: W/"9d68f25be71c3a41df487037174312e8baaa3cdb25d79aa5cd6ca9cfbb55cfb7"
 discovery:
   method: 'fork-network:johnson-cooper/ssb-decomp-re'
   confidence: 100
