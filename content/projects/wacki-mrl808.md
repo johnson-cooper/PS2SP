@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T01:12:37.840Z'
+  lastSynchronized: '2026-10-28T01:24:04.439Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"619c954436de202e812b5b8303356cfcb679772a45620f5142bb9539a12d6536"
-    releasesEtag: '"48bf809f6c1548ce5adf719690c22731e6722f6ec3511d0bc52dc0bbcab4bdbc"'
+    repoEtag: W/"3360d2c650767de98d7e0b77d111ff83d723644ca16816200642d7c5914658f6"
+    releasesEtag: '"41d00b946821828c93f32efe15a1049785db1fcedaf15e45e617228a622d311d"'
 discovery:
   method: 'fork-network:mszula/wacki'
   confidence: 100

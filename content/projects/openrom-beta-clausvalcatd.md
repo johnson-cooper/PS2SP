@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-08-21T19:25:10Z'
   url: 'https://github.com/ClausValcaTD/OpenROM-Beta/releases/tag/nodtool-main'
 activity:
-  lastSynchronized: '2026-10-26T01:11:34.623Z'
+  lastSynchronized: '2026-10-28T01:23:03.044Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5b68b0c880d62236177c6d3de29e13c38e3e3c71dcca3258ccbbcc9afa1b7130"
-    releasesEtag: W/"4619f64ba0400a66fc1a175f3d1c609be64304954219851a07134ea3c2274f57"
+    repoEtag: W/"157a5d526efcb7806b7f271abe5920d64368aafd8e5abe8d8429d512e03f5b1f"
+    releasesEtag: W/"53610b9b1e080c02f4ad12a9d2e8d1b5dfe9125440e42c5525ae70779f3af2dc"
 discovery:
   method: 'fork-network:M5Devs/OpenROM'
   confidence: 95

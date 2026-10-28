@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T01:10:50.364Z'
+  lastSynchronized: '2026-10-28T01:22:21.146Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bfabae0deb85048dad56f631a852ce61503544beca5bf4a5bdcef0d2be92fbb2"
-    releasesEtag: '"48bf809f6c1548ce5adf719690c22731e6722f6ec3511d0bc52dc0bbcab4bdbc"'
+    repoEtag: W/"d05a2efa0610e0fd0afb256603aeb44e53a67d390bb7d991983a1bc922126979"
+    releasesEtag: '"41d00b946821828c93f32efe15a1049785db1fcedaf15e45e617228a622d311d"'
 discovery:
   method: 'fork-network:ps2homebrew/Fceumm-PS2'
   confidence: 100

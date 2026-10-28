@@ -20,10 +20,10 @@ source:
   url: 'https://github.com/nicholas477/prussia'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-27T17:37:37Z'
 latestRelease:
   tag: null
   name: null
@@ -31,8 +31,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-27T21:29:01.337Z'
+  lastSynchronized: '2026-10-28T01:23:24.226Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"711c57266fbcd8f99534471c94082ddee4b274b578c3e56e11c11f529bc2653f"
+    releasesEtag: '"41d00b946821828c93f32efe15a1049785db1fcedaf15e45e617228a622d311d"'
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -48,5 +52,4 @@ relationships:
   forkOf: Ravenslofty/prussia
   source: Ravenslofty/prussia
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

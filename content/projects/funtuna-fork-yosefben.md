@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T01:10:57.778Z'
+  lastSynchronized: '2026-10-28T01:22:28.009Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"08731c5198cc31fc14ddcfc6a82c1fdd65f36e8948c73b8d15eb92930a54d42d"
-    releasesEtag: '"48bf809f6c1548ce5adf719690c22731e6722f6ec3511d0bc52dc0bbcab4bdbc"'
+    repoEtag: W/"481f426477938e79276c5b80ec7da47e03cc6588a98fa3eb0fd48e110009cf2e"
+    releasesEtag: '"41d00b946821828c93f32efe15a1049785db1fcedaf15e45e617228a622d311d"'
 discovery:
   method: 'fork-network:israpps/Funtuna-Fork'
   confidence: 95

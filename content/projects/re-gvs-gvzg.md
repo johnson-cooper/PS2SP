@@ -15,7 +15,7 @@ tags:
 features: []
 authors: []
 license: null
-homepage: null
+homepage: 'https://sennett-lau.github.io/re-gvs-gvzg/'
 source:
   provider: github
   repository: sennett-lau/re-gvs-gvzg
@@ -23,19 +23,23 @@ source:
   url: 'https://github.com/sennett-lau/re-gvs-gvzg'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-27T02:54:13Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.3.0-alpha.1
+  name: v0.3.0-alpha.1 - Research Wiki and Adaptive Rendering
+  publishedAt: '2026-10-27T02:55:37Z'
+  url: 'https://github.com/sennett-lau/re-gvs-gvzg/releases/tag/v0.3.0-alpha.1'
 activity:
   lastChecked: '2026-10-27T05:36:47.166Z'
+  lastSynchronized: '2026-10-28T01:23:51.720Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0399e16246fd991dd6c2e705735380167955a4923314617492e9f2c7ed817112"
+    releasesEtag: W/"a35017a7bde88c9a3e1bab816e920f0334517919d781f55d97b1d69fdc5e8897"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80
@@ -48,5 +52,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.
