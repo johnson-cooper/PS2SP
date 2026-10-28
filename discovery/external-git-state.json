@@ -315,7 +315,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/cmake@master": "55ede39b9c06afeabf342f8242eda06dadcd1877",
     "https://git.techwritescode.dev/api/v1|ps2/ps2_drivers@main": "54f0895756890eb8d5af25e1de954357f94bb2b6",
     "https://git.techwritescode.dev/api/v1|ps2/ps2_drivers@master": "3163ae180eb2117d1ebe67bfa01fdda7a76d35ad",
-    "https://git.techwritescode.dev/api/v1|ps2/libjpeg-turbo@master": "fec18329883e684773c38ef401dfd727123b32cc",
+    "https://git.techwritescode.dev/api/v1|ps2/libjpeg-turbo@master": "6327ff29b7ac668a7db6ed9cdd4408ca3d5ac4e5",
     "https://git.techwritescode.dev/api/v1|ps2/freetype@master": "ac76a91c43b45f92d0d802f211ce4351a9e1c1a8",
     "https://git.techwritescode.dev/api/v1|ps2/libpng@master": "f30e0daca14157d27dab0b8e3a2b634481338ea6",
     "https://git.techwritescode.dev/api/v1|ps2/ogg@main": "35cc16fd916c63d894aed7f5a6d7d471fac3510d",
@@ -685,18 +685,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-10-28T13:46:40.128Z",
+    "at": "2026-10-28T19:17:54.931Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 132,
-    "branchesChanged": 0,
-    "treesScanned": 0,
+    "branchesSeen": 31,
+    "branchesChanged": 1,
+    "treesScanned": 1,
     "reposAdded": 0,
     "forksAdded": 0,
     "branchesAdded": 0,
     "nestedAdded": 0,
-    "requests": 83,
+    "requests": 78,
     "stoppedForBudget": false
   },
-  "queueCursor": 9
+  "queueCursor": 29
 }
