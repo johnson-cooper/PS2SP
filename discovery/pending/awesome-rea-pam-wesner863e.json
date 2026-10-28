@@ -9,7 +9,7 @@
     "README contains PS2 development/toolchain evidence",
     "GitHub fork of another repository"
   ],
-  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "origin": "pending-recheck",
   "maturity": "active-unreleased",
   "fork": {
     "parent": "reacher-z/Awesome-REA",
@@ -17,5 +17,5 @@
     "aheadBy": null
   },
   "discoveredAt": "2026-10-24T12:13:58.718Z",
-  "checkedAt": "2026-10-24T12:13:58.718Z"
+  "checkedAt": "2026-10-28T13:32:49.340Z"
 }

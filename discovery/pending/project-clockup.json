@@ -1,0 +1,16 @@
+{
+  "repository": "YEperik/Project-ClockUp",
+  "repositoryId": "1436892117",
+  "url": "https://github.com/YEperik/Project-ClockUp",
+  "description": "progress matching Decompilation project PS2 fighting game developed by Digifloyd and published by Bandai Namco SLPS-20483 (Japanese)",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-28T13:32:49.340Z",
+  "checkedAt": "2026-10-28T13:32:49.340Z"
+}
