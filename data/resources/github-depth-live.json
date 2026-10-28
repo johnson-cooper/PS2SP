@@ -174685,6 +174685,32 @@
         ]
       },
       {
+        "name": "yagolasse/sm-recomp — branch: main",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "yagolasse/sm-recomp",
+          "main"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp — branch: shaolin-monks",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/shaolin-monks",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "yagolasse/sm-recomp",
+          "shaolin-monks"
+        ]
+      },
+      {
         "name": "yamir-cady/FreeMcBoot — branch: master",
         "url": "https://github.com/yamir-cady/FreeMcBoot/tree/master",
         "keywords": [
@@ -175829,6 +175855,19 @@
         ]
       },
       {
+        "name": "zappepappe/ps2eth — branch: master",
+        "url": "https://github.com/zappepappe/ps2eth/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zappepappe/ps2eth",
+          "master"
+        ]
+      },
+      {
         "name": "zay448345045/apollo-ps2 — branch: main",
         "url": "https://github.com/zay448345045/apollo-ps2/tree/main",
         "keywords": [
@@ -175917,6 +175956,227 @@
           "repository",
           "zay448345045/ps2-covers",
           "main"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: bugfix/logo-fix-and-design-credits-in-faq",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/bugfix/logo-fix-and-design-credits-in-faq",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "bugfix/logo-fix-and-design-credits-in-faq"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: bugfix/mymc++-icon-fixes",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/bugfix/mymc%2B%2B-icon-fixes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "bugfix/mymc++-icon-fixes"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: feature/#52-mymcpp-build-spike",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/%2352-mymcpp-build-spike",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "feature/#52-mymcpp-build-spike"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: feature/#56-website-animation-playback-keyframing",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/%2356-website-animation-playback-keyframing",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "feature/#56-website-animation-playback-keyframing"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: feature/contributors-view",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/contributors-view",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "feature/contributors-view"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: feature/every-icon-view-page",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/every-icon-view-page",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "feature/every-icon-view-page"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: feature/extractor/icon-debugger-tools",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/extractor/icon-debugger-tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "feature/extractor/icon-debugger-tools"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: feature/icon-viewer-title-list-sidebar",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/icon-viewer-title-list-sidebar",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "feature/icon-viewer-title-list-sidebar"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: feature/macos-extractor-github-ci-build",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/macos-extractor-github-ci-build",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "feature/macos-extractor-github-ci-build"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: feature/python-tool-rename",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/python-tool-rename",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "feature/python-tool-rename"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: feature/vertex-colors-display",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/vertex-colors-display",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "feature/vertex-colors-display"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: feature/web-extractor",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/web-extractor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "feature/web-extractor"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: feature/web-modelview-refactor",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/web-modelview-refactor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "feature/web-modelview-refactor"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: gh-pages",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/gh-pages",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "gh-pages"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: icons/cajas-22-november-2024",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/icons/cajas-22-november-2024",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "icons/cajas-22-november-2024"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: main",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "main"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB — branch: release/animation-v2",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/release/animation-v2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zay448345045/PS2IODB",
+          "release/animation-v2"
         ]
       },
       {
@@ -176414,6 +176674,19 @@
         ]
       },
       {
+        "name": "Ziemas/ps2gl — branch: master",
+        "url": "https://github.com/Ziemas/ps2gl/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Ziemas/ps2gl",
+          "master"
+        ]
+      },
+      {
         "name": "Ziemas/sfiii-decomp — branch: fullscreen",
         "url": "https://github.com/Ziemas/sfiii-decomp/tree/fullscreen",
         "keywords": [
@@ -176775,6 +177048,19 @@
           "repository",
           "zm2529/libsmb2",
           "master"
+        ]
+      },
+      {
+        "name": "Zorkats/PS2Recomp — branch: main",
+        "url": "https://github.com/Zorkats/PS2Recomp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Zorkats/PS2Recomp",
+          "main"
         ]
       },
       {
@@ -321693,6 +321979,21 @@
           "Alexis-VsCode/mario-kart-64-ps2",
           "feature/idioma-espanol",
           "docs/traduccion"
+        ]
+      },
+      {
+        "name": "Alexis-VsCode/mario-kart-64-ps2@main — docs/manual",
+        "url": "https://github.com/Alexis-VsCode/mario-kart-64-ps2/tree/main/docs/manual",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Alexis-VsCode/mario-kart-64-ps2",
+          "main",
+          "docs/manual"
         ]
       },
       {
@@ -1965434,6 +1965735,456 @@
         ]
       },
       {
+        "name": "yagolasse/sm-recomp@main — android",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/main/android",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "main",
+          "android"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@main — android/app",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/main/android/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "main",
+          "android/app"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@main — ps2xAnalyzer",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/main/ps2xAnalyzer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "main",
+          "ps2xAnalyzer"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@main — ps2xIOP",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/main/ps2xIOP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "main",
+          "ps2xIOP"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@main — ps2xIOP/include/ps2x/iop",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/main/ps2xIOP/include/ps2x/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "main",
+          "ps2xIOP/include/ps2x/iop"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@main — ps2xIOP/src/modules",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/main/ps2xIOP/src/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "main",
+          "ps2xIOP/src/modules"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@main — ps2xRecomp",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/main/ps2xRecomp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "main",
+          "ps2xRecomp"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@main — ps2xRecomp/tools",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/main/ps2xRecomp/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "main",
+          "ps2xRecomp/tools"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@main — ps2xRuntime",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/main/ps2xRuntime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "main",
+          "ps2xRuntime"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@main — ps2xRuntime/include/runtime/gs",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/main/ps2xRuntime/include/runtime/gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "main",
+          "ps2xRuntime/include/runtime/gs"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@main — ps2xRuntime/src/lib/gs",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/main/ps2xRuntime/src/lib/gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "main",
+          "ps2xRuntime/src/lib/gs"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@main — ps2xRuntime/vita/module",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/main/ps2xRuntime/vita/module",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "main",
+          "ps2xRuntime/vita/module"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@main — ps2xStudio",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/main/ps2xStudio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "main",
+          "ps2xStudio"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@main — ps2xTest",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/main/ps2xTest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "main",
+          "ps2xTest"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@main — ps2xTest/gs_cache",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/main/ps2xTest/gs_cache",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "main",
+          "ps2xTest/gs_cache"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@shaolin-monks — android",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/shaolin-monks/android",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "shaolin-monks",
+          "android"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@shaolin-monks — android/app",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/shaolin-monks/android/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "shaolin-monks",
+          "android/app"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@shaolin-monks — ps2xAnalyzer",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/shaolin-monks/ps2xAnalyzer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "shaolin-monks",
+          "ps2xAnalyzer"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@shaolin-monks — ps2xIOP",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/shaolin-monks/ps2xIOP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "shaolin-monks",
+          "ps2xIOP"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@shaolin-monks — ps2xIOP/include/ps2x/iop",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/shaolin-monks/ps2xIOP/include/ps2x/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "shaolin-monks",
+          "ps2xIOP/include/ps2x/iop"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@shaolin-monks — ps2xIOP/src/modules",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/shaolin-monks/ps2xIOP/src/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "shaolin-monks",
+          "ps2xIOP/src/modules"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@shaolin-monks — ps2xRecomp",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/shaolin-monks/ps2xRecomp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "shaolin-monks",
+          "ps2xRecomp"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@shaolin-monks — ps2xRecomp/tools",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/shaolin-monks/ps2xRecomp/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "shaolin-monks",
+          "ps2xRecomp/tools"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@shaolin-monks — ps2xRuntime",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/shaolin-monks/ps2xRuntime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "shaolin-monks",
+          "ps2xRuntime"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@shaolin-monks — ps2xRuntime/include/runtime/gs",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/shaolin-monks/ps2xRuntime/include/runtime/gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "shaolin-monks",
+          "ps2xRuntime/include/runtime/gs"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@shaolin-monks — ps2xRuntime/src/lib/gs",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/shaolin-monks/ps2xRuntime/src/lib/gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "shaolin-monks",
+          "ps2xRuntime/src/lib/gs"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@shaolin-monks — ps2xRuntime/vita/module",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/shaolin-monks/ps2xRuntime/vita/module",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "shaolin-monks",
+          "ps2xRuntime/vita/module"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@shaolin-monks — ps2xStudio",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/shaolin-monks/ps2xStudio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "shaolin-monks",
+          "ps2xStudio"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@shaolin-monks — ps2xTest",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/shaolin-monks/ps2xTest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "shaolin-monks",
+          "ps2xTest"
+        ]
+      },
+      {
+        "name": "yagolasse/sm-recomp@shaolin-monks — ps2xTest/gs_cache",
+        "url": "https://github.com/yagolasse/sm-recomp/tree/shaolin-monks/ps2xTest/gs_cache",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "yagolasse/sm-recomp",
+          "shaolin-monks",
+          "ps2xTest/gs_cache"
+        ]
+      },
+      {
         "name": "yamir-cady/FreeMcBoot@master — Changed source for external projects/gsKit/ee",
         "url": "https://github.com/yamir-cady/FreeMcBoot/tree/master/Changed%20source%20for%20external%20projects/gsKit/ee",
         "keywords": [
@@ -1988819,6 +1989570,111 @@
         ]
       },
       {
+        "name": "zappepappe/ps2eth@master — bin",
+        "url": "https://github.com/zappepappe/ps2eth/tree/master/bin",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zappepappe/ps2eth",
+          "master",
+          "bin"
+        ]
+      },
+      {
+        "name": "zappepappe/ps2eth@master — common",
+        "url": "https://github.com/zappepappe/ps2eth/tree/master/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zappepappe/ps2eth",
+          "master",
+          "common"
+        ]
+      },
+      {
+        "name": "zappepappe/ps2eth@master — common/lib",
+        "url": "https://github.com/zappepappe/ps2eth/tree/master/common/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zappepappe/ps2eth",
+          "master",
+          "common/lib"
+        ]
+      },
+      {
+        "name": "zappepappe/ps2eth@master — common/lwip",
+        "url": "https://github.com/zappepappe/ps2eth/tree/master/common/lwip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zappepappe/ps2eth",
+          "master",
+          "common/lwip"
+        ]
+      },
+      {
+        "name": "zappepappe/ps2eth@master — ps2klsi",
+        "url": "https://github.com/zappepappe/ps2eth/tree/master/ps2klsi",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zappepappe/ps2eth",
+          "master",
+          "ps2klsi"
+        ]
+      },
+      {
+        "name": "zappepappe/ps2eth@master — smap",
+        "url": "https://github.com/zappepappe/ps2eth/tree/master/smap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zappepappe/ps2eth",
+          "master",
+          "smap"
+        ]
+      },
+      {
+        "name": "zappepappe/ps2eth@master — smap-linux",
+        "url": "https://github.com/zappepappe/ps2eth/tree/master/smap-linux",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zappepappe/ps2eth",
+          "master",
+          "smap-linux"
+        ]
+      },
+      {
         "name": "zay448345045/apollo-ps2@main — docs",
         "url": "https://github.com/zay448345045/apollo-ps2/tree/main/docs",
         "keywords": [
@@ -1988981,6 +1989837,726 @@
           "zay448345045/ps2-covers",
           "main",
           "tools"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@bugfix/logo-fix-and-design-credits-in-faq — Documentation/PS2IconSys c++ tool",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/bugfix/logo-fix-and-design-credits-in-faq/Documentation/PS2IconSys%20c%2B%2B%20tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "bugfix/logo-fix-and-design-credits-in-faq",
+          "Documentation/PS2IconSys c++ tool"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@bugfix/logo-fix-and-design-credits-in-faq — mymc++",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/bugfix/logo-fix-and-design-credits-in-faq/mymc%2B%2B",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "bugfix/logo-fix-and-design-credits-in-faq",
+          "mymc++"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@bugfix/logo-fix-and-design-credits-in-faq — website",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/bugfix/logo-fix-and-design-credits-in-faq/website",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "bugfix/logo-fix-and-design-credits-in-faq",
+          "website"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@bugfix/mymc++-icon-fixes — Documentation/PS2IconSys c++ tool",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/bugfix/mymc%2B%2B-icon-fixes/Documentation/PS2IconSys%20c%2B%2B%20tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "bugfix/mymc++-icon-fixes",
+          "Documentation/PS2IconSys c++ tool"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@bugfix/mymc++-icon-fixes — mymc++",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/bugfix/mymc%2B%2B-icon-fixes/mymc%2B%2B",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "bugfix/mymc++-icon-fixes",
+          "mymc++"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@bugfix/mymc++-icon-fixes — website",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/bugfix/mymc%2B%2B-icon-fixes/website",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "bugfix/mymc++-icon-fixes",
+          "website"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/#52-mymcpp-build-spike — Documentation/PS2IconSys c++ tool",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/%2352-mymcpp-build-spike/Documentation/PS2IconSys%20c%2B%2B%20tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/#52-mymcpp-build-spike",
+          "Documentation/PS2IconSys c++ tool"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/#52-mymcpp-build-spike — mymc++",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/%2352-mymcpp-build-spike/mymc%2B%2B",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/#52-mymcpp-build-spike",
+          "mymc++"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/#52-mymcpp-build-spike — website",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/%2352-mymcpp-build-spike/website",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/#52-mymcpp-build-spike",
+          "website"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/#56-website-animation-playback-keyframing — Documentation/PS2IconSys c++ tool",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/%2356-website-animation-playback-keyframing/Documentation/PS2IconSys%20c%2B%2B%20tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/#56-website-animation-playback-keyframing",
+          "Documentation/PS2IconSys c++ tool"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/#56-website-animation-playback-keyframing — mymc++",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/%2356-website-animation-playback-keyframing/mymc%2B%2B",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/#56-website-animation-playback-keyframing",
+          "mymc++"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/#56-website-animation-playback-keyframing — website",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/%2356-website-animation-playback-keyframing/website",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/#56-website-animation-playback-keyframing",
+          "website"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/contributors-view — Documentation/PS2IconSys c++ tool",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/contributors-view/Documentation/PS2IconSys%20c%2B%2B%20tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/contributors-view",
+          "Documentation/PS2IconSys c++ tool"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/contributors-view — mymc++",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/contributors-view/mymc%2B%2B",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/contributors-view",
+          "mymc++"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/contributors-view — website",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/contributors-view/website",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/contributors-view",
+          "website"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/every-icon-view-page — Documentation/PS2IconSys c++ tool",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/every-icon-view-page/Documentation/PS2IconSys%20c%2B%2B%20tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/every-icon-view-page",
+          "Documentation/PS2IconSys c++ tool"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/every-icon-view-page — mymc++",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/every-icon-view-page/mymc%2B%2B",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/every-icon-view-page",
+          "mymc++"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/every-icon-view-page — website",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/every-icon-view-page/website",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/every-icon-view-page",
+          "website"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/extractor/icon-debugger-tools — Documentation/PS2IconSys c++ tool",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/extractor/icon-debugger-tools/Documentation/PS2IconSys%20c%2B%2B%20tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/extractor/icon-debugger-tools",
+          "Documentation/PS2IconSys c++ tool"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/extractor/icon-debugger-tools — extractor",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/extractor/icon-debugger-tools/extractor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/extractor/icon-debugger-tools",
+          "extractor"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/extractor/icon-debugger-tools — website",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/extractor/icon-debugger-tools/website",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/extractor/icon-debugger-tools",
+          "website"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/icon-viewer-title-list-sidebar — Documentation/PS2IconSys c++ tool",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/icon-viewer-title-list-sidebar/Documentation/PS2IconSys%20c%2B%2B%20tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/icon-viewer-title-list-sidebar",
+          "Documentation/PS2IconSys c++ tool"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/icon-viewer-title-list-sidebar — extractor",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/icon-viewer-title-list-sidebar/extractor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/icon-viewer-title-list-sidebar",
+          "extractor"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/icon-viewer-title-list-sidebar — website",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/icon-viewer-title-list-sidebar/website",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/icon-viewer-title-list-sidebar",
+          "website"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/macos-extractor-github-ci-build — Documentation/PS2IconSys c++ tool",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/macos-extractor-github-ci-build/Documentation/PS2IconSys%20c%2B%2B%20tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/macos-extractor-github-ci-build",
+          "Documentation/PS2IconSys c++ tool"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/macos-extractor-github-ci-build — extractor",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/macos-extractor-github-ci-build/extractor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/macos-extractor-github-ci-build",
+          "extractor"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/macos-extractor-github-ci-build — website",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/macos-extractor-github-ci-build/website",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/macos-extractor-github-ci-build",
+          "website"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/python-tool-rename — Documentation/PS2IconSys c++ tool",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/python-tool-rename/Documentation/PS2IconSys%20c%2B%2B%20tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/python-tool-rename",
+          "Documentation/PS2IconSys c++ tool"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/python-tool-rename — extractor",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/python-tool-rename/extractor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/python-tool-rename",
+          "extractor"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/python-tool-rename — website",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/python-tool-rename/website",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/python-tool-rename",
+          "website"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/vertex-colors-display — Documentation/PS2IconSys c++ tool",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/vertex-colors-display/Documentation/PS2IconSys%20c%2B%2B%20tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/vertex-colors-display",
+          "Documentation/PS2IconSys c++ tool"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/vertex-colors-display — mymc++",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/vertex-colors-display/mymc%2B%2B",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/vertex-colors-display",
+          "mymc++"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/vertex-colors-display — website",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/vertex-colors-display/website",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/vertex-colors-display",
+          "website"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/web-extractor — Documentation/PS2IconSys c++ tool",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/web-extractor/Documentation/PS2IconSys%20c%2B%2B%20tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/web-extractor",
+          "Documentation/PS2IconSys c++ tool"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/web-extractor — extractor",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/web-extractor/extractor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/web-extractor",
+          "extractor"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/web-extractor — website",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/web-extractor/website",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/web-extractor",
+          "website"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/web-modelview-refactor — Documentation/PS2IconSys c++ tool",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/web-modelview-refactor/Documentation/PS2IconSys%20c%2B%2B%20tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/web-modelview-refactor",
+          "Documentation/PS2IconSys c++ tool"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/web-modelview-refactor — extractor",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/web-modelview-refactor/extractor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/web-modelview-refactor",
+          "extractor"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@feature/web-modelview-refactor — website",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/feature/web-modelview-refactor/website",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "feature/web-modelview-refactor",
+          "website"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@icons/cajas-22-november-2024 — Documentation/PS2IconSys c++ tool",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/icons/cajas-22-november-2024/Documentation/PS2IconSys%20c%2B%2B%20tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "icons/cajas-22-november-2024",
+          "Documentation/PS2IconSys c++ tool"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@icons/cajas-22-november-2024 — mymc++",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/icons/cajas-22-november-2024/mymc%2B%2B",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "icons/cajas-22-november-2024",
+          "mymc++"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@icons/cajas-22-november-2024 — website",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/icons/cajas-22-november-2024/website",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "icons/cajas-22-november-2024",
+          "website"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@main — Documentation/PS2IconSys c++ tool",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/main/Documentation/PS2IconSys%20c%2B%2B%20tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "main",
+          "Documentation/PS2IconSys c++ tool"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@main — extractor",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/main/extractor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "main",
+          "extractor"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@main — website",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/main/website",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "main",
+          "website"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@release/animation-v2 — Documentation/PS2IconSys c++ tool",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/release/animation-v2/Documentation/PS2IconSys%20c%2B%2B%20tool",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "release/animation-v2",
+          "Documentation/PS2IconSys c++ tool"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@release/animation-v2 — extractor",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/release/animation-v2/extractor",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "release/animation-v2",
+          "extractor"
+        ]
+      },
+      {
+        "name": "zay448345045/PS2IODB@release/animation-v2 — website",
+        "url": "https://github.com/zay448345045/PS2IODB/tree/release/animation-v2/website",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "zay448345045/PS2IODB",
+          "release/animation-v2",
+          "website"
         ]
       },
       {
@@ -2003711,6 +2005287,186 @@
         ]
       },
       {
+        "name": "Ziemas/ps2gl@master — examples",
+        "url": "https://github.com/Ziemas/ps2gl/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Ziemas/ps2gl",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2gl@master — examples/box",
+        "url": "https://github.com/Ziemas/ps2gl/tree/master/examples/box",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Ziemas/ps2gl",
+          "master",
+          "examples/box"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2gl@master — examples/logo",
+        "url": "https://github.com/Ziemas/ps2gl/tree/master/examples/logo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Ziemas/ps2gl",
+          "master",
+          "examples/logo"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2gl@master — examples/nehe/lesson02",
+        "url": "https://github.com/Ziemas/ps2gl/tree/master/examples/nehe/lesson02",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Ziemas/ps2gl",
+          "master",
+          "examples/nehe/lesson02"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2gl@master — examples/nehe/lesson03",
+        "url": "https://github.com/Ziemas/ps2gl/tree/master/examples/nehe/lesson03",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Ziemas/ps2gl",
+          "master",
+          "examples/nehe/lesson03"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2gl@master — examples/nehe/lesson04",
+        "url": "https://github.com/Ziemas/ps2gl/tree/master/examples/nehe/lesson04",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Ziemas/ps2gl",
+          "master",
+          "examples/nehe/lesson04"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2gl@master — examples/nehe/lesson05",
+        "url": "https://github.com/Ziemas/ps2gl/tree/master/examples/nehe/lesson05",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Ziemas/ps2gl",
+          "master",
+          "examples/nehe/lesson05"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2gl@master — examples/performance",
+        "url": "https://github.com/Ziemas/ps2gl/tree/master/examples/performance",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Ziemas/ps2gl",
+          "master",
+          "examples/performance"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2gl@master — examples/shared_code",
+        "url": "https://github.com/Ziemas/ps2gl/tree/master/examples/shared_code",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Ziemas/ps2gl",
+          "master",
+          "examples/shared_code"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2gl@master — examples/tricked_out",
+        "url": "https://github.com/Ziemas/ps2gl/tree/master/examples/tricked_out",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Ziemas/ps2gl",
+          "master",
+          "examples/tricked_out"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2gl@master — glut",
+        "url": "https://github.com/Ziemas/ps2gl/tree/master/glut",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Ziemas/ps2gl",
+          "master",
+          "glut"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2gl@master — vu1",
+        "url": "https://github.com/Ziemas/ps2gl/tree/master/vu1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Ziemas/ps2gl",
+          "master",
+          "vu1"
+        ]
+      },
+      {
         "name": "Ziemas/sfiii-decomp@fullscreen — include/cri/ee",
         "url": "https://github.com/Ziemas/sfiii-decomp/tree/fullscreen/include/cri/ee",
         "keywords": [
@@ -2006564,6 +2008320,216 @@
           "master",
           "tests"
         ]
+      },
+      {
+        "name": "Zorkats/PS2Recomp@main — android",
+        "url": "https://github.com/Zorkats/PS2Recomp/tree/main/android",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zorkats/PS2Recomp",
+          "main",
+          "android"
+        ]
+      },
+      {
+        "name": "Zorkats/PS2Recomp@main — android/app",
+        "url": "https://github.com/Zorkats/PS2Recomp/tree/main/android/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zorkats/PS2Recomp",
+          "main",
+          "android/app"
+        ]
+      },
+      {
+        "name": "Zorkats/PS2Recomp@main — ps2xAnalyzer",
+        "url": "https://github.com/Zorkats/PS2Recomp/tree/main/ps2xAnalyzer",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zorkats/PS2Recomp",
+          "main",
+          "ps2xAnalyzer"
+        ]
+      },
+      {
+        "name": "Zorkats/PS2Recomp@main — ps2xIOP",
+        "url": "https://github.com/Zorkats/PS2Recomp/tree/main/ps2xIOP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zorkats/PS2Recomp",
+          "main",
+          "ps2xIOP"
+        ]
+      },
+      {
+        "name": "Zorkats/PS2Recomp@main — ps2xIOP/include/ps2x/iop",
+        "url": "https://github.com/Zorkats/PS2Recomp/tree/main/ps2xIOP/include/ps2x/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zorkats/PS2Recomp",
+          "main",
+          "ps2xIOP/include/ps2x/iop"
+        ]
+      },
+      {
+        "name": "Zorkats/PS2Recomp@main — ps2xIOP/src/modules",
+        "url": "https://github.com/Zorkats/PS2Recomp/tree/main/ps2xIOP/src/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zorkats/PS2Recomp",
+          "main",
+          "ps2xIOP/src/modules"
+        ]
+      },
+      {
+        "name": "Zorkats/PS2Recomp@main — ps2xRecomp",
+        "url": "https://github.com/Zorkats/PS2Recomp/tree/main/ps2xRecomp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zorkats/PS2Recomp",
+          "main",
+          "ps2xRecomp"
+        ]
+      },
+      {
+        "name": "Zorkats/PS2Recomp@main — ps2xRecomp/tools",
+        "url": "https://github.com/Zorkats/PS2Recomp/tree/main/ps2xRecomp/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zorkats/PS2Recomp",
+          "main",
+          "ps2xRecomp/tools"
+        ]
+      },
+      {
+        "name": "Zorkats/PS2Recomp@main — ps2xRuntime",
+        "url": "https://github.com/Zorkats/PS2Recomp/tree/main/ps2xRuntime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zorkats/PS2Recomp",
+          "main",
+          "ps2xRuntime"
+        ]
+      },
+      {
+        "name": "Zorkats/PS2Recomp@main — ps2xRuntime/include/runtime/gs",
+        "url": "https://github.com/Zorkats/PS2Recomp/tree/main/ps2xRuntime/include/runtime/gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zorkats/PS2Recomp",
+          "main",
+          "ps2xRuntime/include/runtime/gs"
+        ]
+      },
+      {
+        "name": "Zorkats/PS2Recomp@main — ps2xRuntime/src/lib/gs",
+        "url": "https://github.com/Zorkats/PS2Recomp/tree/main/ps2xRuntime/src/lib/gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zorkats/PS2Recomp",
+          "main",
+          "ps2xRuntime/src/lib/gs"
+        ]
+      },
+      {
+        "name": "Zorkats/PS2Recomp@main — ps2xRuntime/vita/module",
+        "url": "https://github.com/Zorkats/PS2Recomp/tree/main/ps2xRuntime/vita/module",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zorkats/PS2Recomp",
+          "main",
+          "ps2xRuntime/vita/module"
+        ]
+      },
+      {
+        "name": "Zorkats/PS2Recomp@main — ps2xStudio",
+        "url": "https://github.com/Zorkats/PS2Recomp/tree/main/ps2xStudio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zorkats/PS2Recomp",
+          "main",
+          "ps2xStudio"
+        ]
+      },
+      {
+        "name": "Zorkats/PS2Recomp@main — ps2xTest",
+        "url": "https://github.com/Zorkats/PS2Recomp/tree/main/ps2xTest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zorkats/PS2Recomp",
+          "main",
+          "ps2xTest"
+        ]
       }
     ]
   },
@@ -2006901,6 +2008867,690 @@
         ]
       },
       {
+        "name": "allkern/iris@iop-cached — submodule: deps/asmjit",
+        "url": "https://github.com/asmjit/asmjit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/asmjit",
+          "https://github.com/asmjit/asmjit",
+          "master",
+          "FelipeGamingYT/iris-backup",
+          "ioncodes/iris",
+          "KornelHajto/iris",
+          "lazymaster101/iris",
+          "ee-jit",
+          "Link4Electronics/iris",
+          "mingcc5240/iris",
+          "momo-AUX1/iris",
+          "Mrlinkwii/iris",
+          "Xphalnos/iris",
+          "LLVM-CI",
+          "zay448345045/iris-emu",
+          "vu-cached",
+          "Ziemas/eegs",
+          "iop-thread-display"
+        ]
+      },
+      {
+        "name": "allkern/iris@iop-cached — submodule: deps/curl",
+        "url": "https://github.com/curl/curl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/curl",
+          "https://github.com/curl/curl",
+          "ioncodes/iris",
+          "KornelHajto/iris",
+          "Link4Electronics/iris"
+        ]
+      },
+      {
+        "name": "allkern/iris@iop-cached — submodule: deps/fmt",
+        "url": "https://github.com/fmtlib/fmt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/fmt",
+          "https://github.com/fmtlib/fmt",
+          "DiscoStarslayer/pcsx2-reliquary",
+          "hack",
+          "3rdparty/fmt/fmt",
+          "https://github.com/fmtlib/fmt.git",
+          "magicgate-fork",
+          "master_old",
+          "master_qt",
+          "usb_qt_wip",
+          "ioncodes/iris",
+          "israpps/pcsx2",
+          "Test",
+          "magicgate",
+          "master",
+          "patch-1",
+          "patch-2",
+          "patch-3",
+          "python2",
+          "test2",
+          "Link4Electronics/iris",
+          "PCSX2/pcsx2",
+          "gs_wrchacking",
+          "ps2homebrew/pcsx2",
+          "AppMana/pcsx2-web",
+          "Arawn-Davies/whiterhino",
+          "bringlive/pcsx2",
+          "CutieKoboldSkylarie/pcsx2",
+          "DataKnifeAI/pcsx2",
+          "emtee40/pcsx2",
+          "hafis0058-art/pcsx2",
+          "Ingeniiious/pcsx2",
+          "JDHalfrack/pcsx2",
+          "ncaa-next-1.7.4029-extmem",
+          "mariobob/pcsx2",
+          "MiguelQueiroz010/dev-pcsx2pro",
+          "devup",
+          "mommysgoodpuppy/pcsx2",
+          "pingumen96/pcsx2",
+          "potentialtrouble/pcsx2",
+          "retrobone/pcsx2",
+          "sanxswxw/pcsx2",
+          "sevdestruct/pcsx2",
+          "SomeoneIsWorking/pcsx2",
+          "Stoppedwumm/pcsx2",
+          "tleibert/pcsx2",
+          "vagaanis3-cmd/pcsx2",
+          "adlt3ch/ps2",
+          "libretroization",
+          "aStenciledBee/ps2",
+          "BloodotakuZ/Lrps2-Lockstep",
+          "bozothegeek/ps2",
+          "bslenul/ps2",
+          "fix-sw-with-vk",
+          "codingncaffeine/ps2",
+          "ee-on-libretro-thread",
+          "higher-samplerate",
+          "libretro",
+          "newrebase",
+          "newrebasing",
+          "parallel-gs",
+          "refactor-branch",
+          "crazyqk2019/libretro-pcsx2",
+          "DocMAX/ps2",
+          "fix-cso-crash",
+          "EboChain/pcsx2-libretro",
+          "hunterk/ps2",
+          "jeapostrophe/ps2",
+          "lazepeda01/ps2",
+          "M4tth4ck333/ps2",
+          "parkerlreed/ps2",
+          "pstef/ps2",
+          "rubin55/libretro-lrps2",
+          "ryanmilvenan/ps2",
+          "feat/multitap-support",
+          "SachaDev34FR/ps2",
+          "sysfce2/libretro-ps2",
+          "warmenhoven/ps2"
+        ]
+      },
+      {
+        "name": "allkern/iris@iop-cached — submodule: deps/imgui",
+        "url": "https://github.com/ocornut/imgui",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/imgui",
+          "https://github.com/ocornut/imgui",
+          "master",
+          "arcum42/iris",
+          "imgui",
+          "chaoticgd/wrench",
+          "thirdparty/imgui",
+          "cualquiercosa327/iris",
+          "DiscoStarslayer/pcsx2-reliquary",
+          "master_old",
+          "3rdparty/imgui/imgui",
+          "https://github.com/ocornut/imgui.git",
+          "master_qt",
+          "usb_qt_wip",
+          "FelipeGamingYT/iris-backup",
+          "ioncodes/iris",
+          "israpps/pcsx2",
+          "python2",
+          "JordanTheToaster/iris",
+          "KornelHajto/iris",
+          "lazymaster101/iris",
+          "ee-jit",
+          "Link4Electronics/iris",
+          "mingcc5240/iris",
+          "momo-AUX1/iris",
+          "Mrlinkwii/iris",
+          "ps2homebrew/pcsx2",
+          "Randomuser8219/iris",
+          "RussPalms/iris_dev",
+          "cached-ee",
+          "desr",
+          "TomasRytir/iris",
+          "torchesburn/iris",
+          "Xphalnos/iris",
+          "LLVM-CI",
+          "zay448345045/iris-emu",
+          "vu-cached",
+          "Ziemas/eegs",
+          "iop-thread-display",
+          "module-list",
+          "bringlive/pcsx2"
+        ]
+      },
+      {
+        "name": "allkern/iris@iop-cached — submodule: deps/implot",
+        "url": "https://github.com/epezent/implot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/implot",
+          "https://github.com/epezent/implot",
+          "master",
+          "FelipeGamingYT/iris-backup",
+          "ioncodes/iris",
+          "JordanTheToaster/iris",
+          "implot",
+          "KornelHajto/iris",
+          "lazymaster101/iris",
+          "ee-jit",
+          "Link4Electronics/iris",
+          "mingcc5240/iris",
+          "momo-AUX1/iris",
+          "Mrlinkwii/iris",
+          "torchesburn/iris",
+          "Xphalnos/iris",
+          "LLVM-CI",
+          "zay448345045/iris-emu",
+          "vu-cached",
+          "Ziemas/eegs",
+          "iop-thread-display"
+        ]
+      },
+      {
+        "name": "allkern/iris@iop-cached — submodule: deps/libchdr",
+        "url": "https://github.com/rtissera/libchdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/libchdr",
+          "https://github.com/rtissera/libchdr",
+          "master",
+          "DiscoStarslayer/pcsx2-reliquary",
+          "hack",
+          "3rdparty/libchdr/libchdr",
+          "https://github.com/rtissera/libchdr.git",
+          "master_old",
+          "master_qt",
+          "usb_qt_wip",
+          "FelipeGamingYT/iris-backup",
+          "ioncodes/iris",
+          "israpps/pcsx2",
+          "Test",
+          "magicgate",
+          "patch-1",
+          "patch-2",
+          "python2",
+          "test2",
+          "KornelHajto/iris",
+          "lazymaster101/iris",
+          "ee-jit",
+          "Link4Electronics/iris",
+          "mingcc5240/iris",
+          "momo-AUX1/iris",
+          "Mrlinkwii/iris",
+          "PCSX2/pcsx2",
+          "gs_wrchacking",
+          "ps2homebrew/pcsx2",
+          "torchesburn/iris",
+          "Xphalnos/iris",
+          "LLVM-CI",
+          "zay448345045/iris-emu",
+          "vu-cached",
+          "Ziemas/eegs",
+          "iop-thread-display",
+          "AppMana/pcsx2-web",
+          "Arawn-Davies/whiterhino",
+          "bringlive/pcsx2",
+          "CutieKoboldSkylarie/pcsx2",
+          "DataKnifeAI/pcsx2",
+          "emtee40/pcsx2",
+          "hafis0058-art/pcsx2",
+          "Ingeniiious/pcsx2",
+          "JDHalfrack/pcsx2",
+          "ncaa-next-1.7.4029-extmem",
+          "mariobob/pcsx2",
+          "MiguelQueiroz010/dev-pcsx2pro",
+          "devup",
+          "mommysgoodpuppy/pcsx2",
+          "pingumen96/pcsx2",
+          "potentialtrouble/pcsx2",
+          "retrobone/pcsx2",
+          "sanxswxw/pcsx2",
+          "sevdestruct/pcsx2",
+          "SomeoneIsWorking/pcsx2",
+          "Stoppedwumm/pcsx2",
+          "tleibert/pcsx2",
+          "vagaanis3-cmd/pcsx2",
+          "codingncaffeine/ps2",
+          "libretro",
+          "newrebase",
+          "newrebasing",
+          "crazyqk2019/libretro-pcsx2",
+          "EboChain/pcsx2-libretro",
+          "hunterk/ps2",
+          "jeapostrophe/ps2",
+          "ryanmilvenan/ps2",
+          "sysfce2/libretro-ps2",
+          "warmenhoven/ps2"
+        ]
+      },
+      {
+        "name": "allkern/iris@iop-cached — submodule: deps/libdeflate",
+        "url": "https://github.com/ebiggers/libdeflate",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/libdeflate",
+          "https://github.com/ebiggers/libdeflate",
+          "master",
+          "FelipeGamingYT/iris-backup",
+          "ioncodes/iris",
+          "KornelHajto/iris",
+          "lazymaster101/iris",
+          "ee-jit",
+          "Link4Electronics/iris",
+          "mingcc5240/iris",
+          "momo-AUX1/iris",
+          "Mrlinkwii/iris",
+          "torchesburn/iris",
+          "Xphalnos/iris",
+          "LLVM-CI",
+          "zay448345045/iris-emu",
+          "vu-cached",
+          "Ziemas/eegs",
+          "iop-thread-display"
+        ]
+      },
+      {
+        "name": "allkern/iris@iop-cached — submodule: deps/libslirp",
+        "url": "https://gitlab.freedesktop.org/slirp/libslirp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/libslirp",
+          "https://gitlab.freedesktop.org/slirp/libslirp.git",
+          "ioncodes/iris",
+          "KornelHajto/iris",
+          "Link4Electronics/iris"
+        ]
+      },
+      {
+        "name": "allkern/iris@iop-cached — submodule: deps/lz4",
+        "url": "https://github.com/lz4/lz4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/lz4",
+          "https://github.com/lz4/lz4",
+          "master",
+          "FelipeGamingYT/iris-backup",
+          "ioncodes/iris",
+          "israpps/pcsx2",
+          "patch-3",
+          "3rdparty/lz4/lz4",
+          "KornelHajto/iris",
+          "lazymaster101/iris",
+          "ee-jit",
+          "Link4Electronics/iris",
+          "mingcc5240/iris",
+          "momo-AUX1/iris",
+          "Mrlinkwii/iris",
+          "ToolAssisted-run/chimera-core-pcsx2",
+          "main",
+          "extern/lz4",
+          "https://github.com/lz4/lz4.git",
+          "torchesburn/iris",
+          "Xphalnos/iris",
+          "LLVM-CI",
+          "zay448345045/iris-emu",
+          "vu-cached",
+          "Ziemas/eegs",
+          "iop-thread-display"
+        ]
+      },
+      {
+        "name": "allkern/iris@iop-cached — submodule: deps/mbedtls",
+        "url": "https://github.com/Mbed-TLS/mbedtls",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/mbedtls",
+          "https://github.com/Mbed-TLS/mbedtls",
+          "ioncodes/iris",
+          "KornelHajto/iris",
+          "Link4Electronics/iris"
+        ]
+      },
+      {
+        "name": "allkern/iris@iop-cached — submodule: deps/miniz",
+        "url": "https://github.com/richgel999/miniz",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/miniz",
+          "https://github.com/richgel999/miniz",
+          "glampert/quake2-ps2",
+          "main",
+          "src/tools/miniz",
+          "https://github.com/richgel999/miniz.git",
+          "ioncodes/iris",
+          "KornelHajto/iris",
+          "Link4Electronics/iris"
+        ]
+      },
+      {
+        "name": "allkern/iris@iop-cached — submodule: deps/parallel-gs",
+        "url": "https://github.com/allkern/parallel-gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/parallel-gs",
+          "https://github.com/allkern/parallel-gs",
+          "ioncodes/iris",
+          "Link4Electronics/iris"
+        ]
+      },
+      {
+        "name": "allkern/iris@iop-cached — submodule: deps/portable-file-dialogs",
+        "url": "https://github.com/samhocevar/portable-file-dialogs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/portable-file-dialogs",
+          "https://github.com/samhocevar/portable-file-dialogs",
+          "master",
+          "FelipeGamingYT/iris-backup",
+          "ioncodes/iris",
+          "KornelHajto/iris",
+          "lazymaster101/iris",
+          "ee-jit",
+          "Link4Electronics/iris",
+          "mingcc5240/iris",
+          "momo-AUX1/iris",
+          "Mrlinkwii/iris",
+          "torchesburn/iris",
+          "Xphalnos/iris",
+          "LLVM-CI",
+          "zay448345045/iris-emu",
+          "vu-cached",
+          "Ziemas/eegs",
+          "iop-thread-display"
+        ]
+      },
+      {
+        "name": "allkern/iris@iop-cached — submodule: deps/SDL",
+        "url": "https://github.com/libsdl-org/SDL",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/SDL",
+          "https://github.com/libsdl-org/SDL",
+          "master",
+          "DiscoStarslayer/pcsx2-reliquary",
+          "master_old",
+          "3rdparty/sdl2/SDL",
+          "https://github.com/libsdl-org/SDL.git",
+          "master_qt",
+          "usb_qt_wip",
+          "FelipeGamingYT/iris-backup",
+          "ioncodes/iris",
+          "israpps/pcsx2",
+          "magicgate",
+          "patch-1",
+          "patch-2",
+          "python2",
+          "test2",
+          "jackwthake/ps2",
+          "main",
+          "lib/SDL",
+          "JordanTheToaster/iris",
+          "SDL",
+          "KornelHajto/iris",
+          "lazymaster101/iris",
+          "ee-jit",
+          "Link4Electronics/iris",
+          "mingcc5240/iris",
+          "momo-AUX1/iris",
+          "Mrlinkwii/iris",
+          "mszula/wacki",
+          "ci/artifact-retention",
+          "android/app/jni/SDL",
+          "review-fixes",
+          "PCSX2/pcsx2",
+          "gs_wrchacking",
+          "ps2homebrew/pcsx2",
+          "Randomuser8219/iris",
+          "torchesburn/iris",
+          "Xphalnos/iris",
+          "LLVM-CI",
+          "zay448345045/iris-emu",
+          "vu-cached",
+          "Ziemas/eegs",
+          "iop-thread-display",
+          "AppMana/pcsx2-web",
+          "Arawn-Davies/whiterhino",
+          "bringlive/pcsx2",
+          "CutieKoboldSkylarie/pcsx2",
+          "DataKnifeAI/pcsx2",
+          "emtee40/pcsx2",
+          "hafis0058-art/pcsx2",
+          "Ingeniiious/pcsx2",
+          "JDHalfrack/pcsx2",
+          "ncaa-next-1.7.4029-extmem",
+          "mariobob/pcsx2",
+          "mommysgoodpuppy/pcsx2",
+          "pingumen96/pcsx2",
+          "potentialtrouble/pcsx2",
+          "retrobone/pcsx2",
+          "sanxswxw/pcsx2",
+          "sevdestruct/pcsx2",
+          "SomeoneIsWorking/pcsx2",
+          "Stoppedwumm/pcsx2",
+          "tleibert/pcsx2",
+          "vagaanis3-cmd/pcsx2",
+          "codingncaffeine/ps2",
+          "libretro",
+          "newrebase",
+          "newrebasing",
+          "crazyqk2019/libretro-pcsx2",
+          "EboChain/pcsx2-libretro",
+          "hunterk/ps2",
+          "jeapostrophe/ps2",
+          "ryanmilvenan/ps2",
+          "sysfce2/libretro-ps2",
+          "warmenhoven/ps2"
+        ]
+      },
+      {
+        "name": "allkern/iris@iop-cached — submodule: deps/SDL_GameControllerDB",
+        "url": "https://github.com/mdqinc/SDL_GameControllerDB",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/SDL_GameControllerDB",
+          "https://github.com/mdqinc/SDL_GameControllerDB",
+          "master",
+          "FelipeGamingYT/iris-backup",
+          "ioncodes/iris",
+          "KornelHajto/iris",
+          "lazymaster101/iris",
+          "ee-jit",
+          "Link4Electronics/iris",
+          "mingcc5240/iris",
+          "momo-AUX1/iris",
+          "Mrlinkwii/iris",
+          "torchesburn/iris",
+          "Xphalnos/iris",
+          "LLVM-CI",
+          "zay448345045/iris-emu",
+          "vu-cached",
+          "Ziemas/eegs",
+          "iop-thread-display"
+        ]
+      },
+      {
+        "name": "allkern/iris@iop-cached — submodule: deps/stb",
+        "url": "https://github.com/nothings/stb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/stb",
+          "https://github.com/nothings/stb",
+          "master",
+          "FelipeGamingYT/iris-backup",
+          "ioncodes/iris",
+          "KornelHajto/iris",
+          "lazymaster101/iris",
+          "ee-jit",
+          "Link4Electronics/iris",
+          "mingcc5240/iris",
+          "momo-AUX1/iris",
+          "Mrlinkwii/iris",
+          "torchesburn/iris",
+          "Xphalnos/iris",
+          "LLVM-CI",
+          "zay448345045/iris-emu",
+          "vu-cached",
+          "Ziemas/eegs",
+          "iop-thread-display"
+        ]
+      },
+      {
+        "name": "allkern/iris@iop-cached — submodule: deps/tomlplusplus",
+        "url": "https://github.com/marzer/tomlplusplus",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/tomlplusplus",
+          "https://github.com/marzer/tomlplusplus",
+          "master",
+          "arcum42/iris",
+          "tomlplusplus",
+          "cualquiercosa327/iris",
+          "FelipeGamingYT/iris-backup",
+          "ioncodes/iris",
+          "JordanTheToaster/iris",
+          "KornelHajto/iris",
+          "lazymaster101/iris",
+          "ee-jit",
+          "Link4Electronics/iris",
+          "mingcc5240/iris",
+          "momo-AUX1/iris",
+          "Mrlinkwii/iris",
+          "Randomuser8219/iris",
+          "RussPalms/iris_dev",
+          "cached-ee",
+          "desr",
+          "TomasRytir/iris",
+          "torchesburn/iris",
+          "Xphalnos/iris",
+          "LLVM-CI",
+          "zay448345045/iris-emu",
+          "vu-cached",
+          "Ziemas/eegs",
+          "iop-thread-display",
+          "module-list"
+        ]
+      },
+      {
         "name": "Arntzen-Software/parallel-gs@vram-copy-rewrite — submodule: Granite",
         "url": "https://github.com/Themaister/Granite",
         "keywords": [
@@ -2006963,60 +2009613,6 @@
           "python2",
           "ps2homebrew/pcsx2",
           "master",
-          "bringlive/pcsx2"
-        ]
-      },
-      {
-        "name": "bringlive/pcsx2@master — submodule: 3rdparty/imgui/imgui",
-        "url": "https://github.com/ocornut/imgui",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/imgui",
-          "https://github.com/ocornut/imgui",
-          "master",
-          "arcum42/iris",
-          "imgui",
-          "chaoticgd/wrench",
-          "thirdparty/imgui",
-          "cualquiercosa327/iris",
-          "DiscoStarslayer/pcsx2-reliquary",
-          "master_old",
-          "3rdparty/imgui/imgui",
-          "https://github.com/ocornut/imgui.git",
-          "master_qt",
-          "usb_qt_wip",
-          "FelipeGamingYT/iris-backup",
-          "ioncodes/iris",
-          "israpps/pcsx2",
-          "python2",
-          "JordanTheToaster/iris",
-          "KornelHajto/iris",
-          "lazymaster101/iris",
-          "ee-jit",
-          "Link4Electronics/iris",
-          "mingcc5240/iris",
-          "momo-AUX1/iris",
-          "Mrlinkwii/iris",
-          "ps2homebrew/pcsx2",
-          "Randomuser8219/iris",
-          "RussPalms/iris_dev",
-          "cached-ee",
-          "desr",
-          "TomasRytir/iris",
-          "torchesburn/iris",
-          "Xphalnos/iris",
-          "LLVM-CI",
-          "zay448345045/iris-emu",
-          "vu-cached",
-          "Ziemas/eegs",
-          "iop-thread-display",
-          "module-list",
           "bringlive/pcsx2"
         ]
       },
@@ -2007493,99 +2010089,6 @@
           "develop",
           "svd2rust",
           "https://github.com/rust-embedded/svd2rust/"
-        ]
-      },
-      {
-        "name": "Link4Electronics/iris@iop-cached — submodule: deps/curl",
-        "url": "https://github.com/curl/curl",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/curl",
-          "https://github.com/curl/curl",
-          "ioncodes/iris",
-          "KornelHajto/iris",
-          "Link4Electronics/iris"
-        ]
-      },
-      {
-        "name": "Link4Electronics/iris@iop-cached — submodule: deps/libslirp",
-        "url": "https://gitlab.freedesktop.org/slirp/libslirp",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/libslirp",
-          "https://gitlab.freedesktop.org/slirp/libslirp.git",
-          "ioncodes/iris",
-          "KornelHajto/iris",
-          "Link4Electronics/iris"
-        ]
-      },
-      {
-        "name": "Link4Electronics/iris@iop-cached — submodule: deps/mbedtls",
-        "url": "https://github.com/Mbed-TLS/mbedtls",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/mbedtls",
-          "https://github.com/Mbed-TLS/mbedtls",
-          "ioncodes/iris",
-          "KornelHajto/iris",
-          "Link4Electronics/iris"
-        ]
-      },
-      {
-        "name": "Link4Electronics/iris@iop-cached — submodule: deps/miniz",
-        "url": "https://github.com/richgel999/miniz",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/miniz",
-          "https://github.com/richgel999/miniz",
-          "glampert/quake2-ps2",
-          "main",
-          "src/tools/miniz",
-          "https://github.com/richgel999/miniz.git",
-          "ioncodes/iris",
-          "KornelHajto/iris",
-          "Link4Electronics/iris"
-        ]
-      },
-      {
-        "name": "Link4Electronics/iris@iop-cached — submodule: deps/parallel-gs",
-        "url": "https://github.com/allkern/parallel-gs",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/parallel-gs",
-          "https://github.com/allkern/parallel-gs",
-          "ioncodes/iris",
-          "Link4Electronics/iris"
         ]
       },
       {
@@ -2008790,89 +2011293,6 @@
         ]
       },
       {
-        "name": "warmenhoven/ps2@newrebasing — submodule: 3rdparty/libchdr/libchdr",
-        "url": "https://github.com/rtissera/libchdr",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/libchdr",
-          "https://github.com/rtissera/libchdr",
-          "master",
-          "DiscoStarslayer/pcsx2-reliquary",
-          "hack",
-          "3rdparty/libchdr/libchdr",
-          "https://github.com/rtissera/libchdr.git",
-          "master_old",
-          "master_qt",
-          "usb_qt_wip",
-          "FelipeGamingYT/iris-backup",
-          "ioncodes/iris",
-          "israpps/pcsx2",
-          "Test",
-          "magicgate",
-          "patch-1",
-          "patch-2",
-          "python2",
-          "test2",
-          "KornelHajto/iris",
-          "lazymaster101/iris",
-          "ee-jit",
-          "Link4Electronics/iris",
-          "mingcc5240/iris",
-          "momo-AUX1/iris",
-          "Mrlinkwii/iris",
-          "PCSX2/pcsx2",
-          "gs_wrchacking",
-          "ps2homebrew/pcsx2",
-          "torchesburn/iris",
-          "Xphalnos/iris",
-          "LLVM-CI",
-          "zay448345045/iris-emu",
-          "vu-cached",
-          "Ziemas/eegs",
-          "iop-thread-display",
-          "AppMana/pcsx2-web",
-          "Arawn-Davies/whiterhino",
-          "bringlive/pcsx2",
-          "CutieKoboldSkylarie/pcsx2",
-          "DataKnifeAI/pcsx2",
-          "emtee40/pcsx2",
-          "hafis0058-art/pcsx2",
-          "Ingeniiious/pcsx2",
-          "JDHalfrack/pcsx2",
-          "ncaa-next-1.7.4029-extmem",
-          "mariobob/pcsx2",
-          "MiguelQueiroz010/dev-pcsx2pro",
-          "devup",
-          "mommysgoodpuppy/pcsx2",
-          "pingumen96/pcsx2",
-          "potentialtrouble/pcsx2",
-          "retrobone/pcsx2",
-          "sanxswxw/pcsx2",
-          "sevdestruct/pcsx2",
-          "SomeoneIsWorking/pcsx2",
-          "Stoppedwumm/pcsx2",
-          "tleibert/pcsx2",
-          "vagaanis3-cmd/pcsx2",
-          "codingncaffeine/ps2",
-          "libretro",
-          "newrebase",
-          "newrebasing",
-          "crazyqk2019/libretro-pcsx2",
-          "EboChain/pcsx2-libretro",
-          "hunterk/ps2",
-          "jeapostrophe/ps2",
-          "ryanmilvenan/ps2",
-          "sysfce2/libretro-ps2",
-          "warmenhoven/ps2"
-        ]
-      },
-      {
         "name": "warmenhoven/ps2@newrebasing — submodule: 3rdparty/rcheevos/rcheevos",
         "url": "https://github.com/RetroAchievements/rcheevos",
         "keywords": [
@@ -2008904,95 +2011324,6 @@
           "gs_wrchacking",
           "AppMana/pcsx2-web",
           "Arawn-Davies/whiterhino",
-          "CutieKoboldSkylarie/pcsx2",
-          "DataKnifeAI/pcsx2",
-          "emtee40/pcsx2",
-          "hafis0058-art/pcsx2",
-          "Ingeniiious/pcsx2",
-          "JDHalfrack/pcsx2",
-          "ncaa-next-1.7.4029-extmem",
-          "mariobob/pcsx2",
-          "mommysgoodpuppy/pcsx2",
-          "pingumen96/pcsx2",
-          "potentialtrouble/pcsx2",
-          "retrobone/pcsx2",
-          "sanxswxw/pcsx2",
-          "sevdestruct/pcsx2",
-          "SomeoneIsWorking/pcsx2",
-          "Stoppedwumm/pcsx2",
-          "tleibert/pcsx2",
-          "vagaanis3-cmd/pcsx2",
-          "codingncaffeine/ps2",
-          "libretro",
-          "newrebase",
-          "newrebasing",
-          "crazyqk2019/libretro-pcsx2",
-          "EboChain/pcsx2-libretro",
-          "hunterk/ps2",
-          "jeapostrophe/ps2",
-          "ryanmilvenan/ps2",
-          "sysfce2/libretro-ps2",
-          "warmenhoven/ps2"
-        ]
-      },
-      {
-        "name": "warmenhoven/ps2@newrebasing — submodule: 3rdparty/sdl2/SDL",
-        "url": "https://github.com/libsdl-org/SDL",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/SDL",
-          "https://github.com/libsdl-org/SDL",
-          "master",
-          "DiscoStarslayer/pcsx2-reliquary",
-          "master_old",
-          "3rdparty/sdl2/SDL",
-          "https://github.com/libsdl-org/SDL.git",
-          "master_qt",
-          "usb_qt_wip",
-          "FelipeGamingYT/iris-backup",
-          "ioncodes/iris",
-          "israpps/pcsx2",
-          "magicgate",
-          "patch-1",
-          "patch-2",
-          "python2",
-          "test2",
-          "jackwthake/ps2",
-          "main",
-          "lib/SDL",
-          "JordanTheToaster/iris",
-          "SDL",
-          "KornelHajto/iris",
-          "lazymaster101/iris",
-          "ee-jit",
-          "Link4Electronics/iris",
-          "mingcc5240/iris",
-          "momo-AUX1/iris",
-          "Mrlinkwii/iris",
-          "mszula/wacki",
-          "ci/artifact-retention",
-          "android/app/jni/SDL",
-          "review-fixes",
-          "PCSX2/pcsx2",
-          "gs_wrchacking",
-          "ps2homebrew/pcsx2",
-          "Randomuser8219/iris",
-          "torchesburn/iris",
-          "Xphalnos/iris",
-          "LLVM-CI",
-          "zay448345045/iris-emu",
-          "vu-cached",
-          "Ziemas/eegs",
-          "iop-thread-display",
-          "AppMana/pcsx2-web",
-          "Arawn-Davies/whiterhino",
-          "bringlive/pcsx2",
           "CutieKoboldSkylarie/pcsx2",
           "DataKnifeAI/pcsx2",
           "emtee40/pcsx2",
@@ -2009088,97 +2011419,6 @@
           "hunterk/ps2",
           "jeapostrophe/ps2",
           "ryanmilvenan/ps2",
-          "sysfce2/libretro-ps2",
-          "warmenhoven/ps2"
-        ]
-      },
-      {
-        "name": "warmenhoven/ps2@parallel-gs — submodule: 3rdparty/fmt/fmt",
-        "url": "https://github.com/fmtlib/fmt",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/fmt",
-          "https://github.com/fmtlib/fmt",
-          "DiscoStarslayer/pcsx2-reliquary",
-          "hack",
-          "3rdparty/fmt/fmt",
-          "https://github.com/fmtlib/fmt.git",
-          "magicgate-fork",
-          "master_old",
-          "master_qt",
-          "usb_qt_wip",
-          "ioncodes/iris",
-          "israpps/pcsx2",
-          "Test",
-          "magicgate",
-          "master",
-          "patch-1",
-          "patch-2",
-          "patch-3",
-          "python2",
-          "test2",
-          "Link4Electronics/iris",
-          "PCSX2/pcsx2",
-          "gs_wrchacking",
-          "ps2homebrew/pcsx2",
-          "AppMana/pcsx2-web",
-          "Arawn-Davies/whiterhino",
-          "bringlive/pcsx2",
-          "CutieKoboldSkylarie/pcsx2",
-          "DataKnifeAI/pcsx2",
-          "emtee40/pcsx2",
-          "hafis0058-art/pcsx2",
-          "Ingeniiious/pcsx2",
-          "JDHalfrack/pcsx2",
-          "ncaa-next-1.7.4029-extmem",
-          "mariobob/pcsx2",
-          "MiguelQueiroz010/dev-pcsx2pro",
-          "devup",
-          "mommysgoodpuppy/pcsx2",
-          "pingumen96/pcsx2",
-          "potentialtrouble/pcsx2",
-          "retrobone/pcsx2",
-          "sanxswxw/pcsx2",
-          "sevdestruct/pcsx2",
-          "SomeoneIsWorking/pcsx2",
-          "Stoppedwumm/pcsx2",
-          "tleibert/pcsx2",
-          "vagaanis3-cmd/pcsx2",
-          "adlt3ch/ps2",
-          "libretroization",
-          "aStenciledBee/ps2",
-          "BloodotakuZ/Lrps2-Lockstep",
-          "bozothegeek/ps2",
-          "bslenul/ps2",
-          "fix-sw-with-vk",
-          "codingncaffeine/ps2",
-          "ee-on-libretro-thread",
-          "higher-samplerate",
-          "libretro",
-          "newrebase",
-          "newrebasing",
-          "parallel-gs",
-          "refactor-branch",
-          "crazyqk2019/libretro-pcsx2",
-          "DocMAX/ps2",
-          "fix-cso-crash",
-          "EboChain/pcsx2-libretro",
-          "hunterk/ps2",
-          "jeapostrophe/ps2",
-          "lazepeda01/ps2",
-          "M4tth4ck333/ps2",
-          "parkerlreed/ps2",
-          "pstef/ps2",
-          "rubin55/libretro-lrps2",
-          "ryanmilvenan/ps2",
-          "feat/multitap-support",
-          "SachaDev34FR/ps2",
           "sysfce2/libretro-ps2",
           "warmenhoven/ps2"
         ]
@@ -2009883,142 +2012123,6 @@
         ]
       },
       {
-        "name": "Ziemas/eegs@iop-thread-display — submodule: deps/asmjit",
-        "url": "https://github.com/asmjit/asmjit",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/asmjit",
-          "https://github.com/asmjit/asmjit",
-          "master",
-          "FelipeGamingYT/iris-backup",
-          "ioncodes/iris",
-          "KornelHajto/iris",
-          "lazymaster101/iris",
-          "ee-jit",
-          "Link4Electronics/iris",
-          "mingcc5240/iris",
-          "momo-AUX1/iris",
-          "Mrlinkwii/iris",
-          "Xphalnos/iris",
-          "LLVM-CI",
-          "zay448345045/iris-emu",
-          "vu-cached",
-          "Ziemas/eegs",
-          "iop-thread-display"
-        ]
-      },
-      {
-        "name": "Ziemas/eegs@iop-thread-display — submodule: deps/implot",
-        "url": "https://github.com/epezent/implot",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/implot",
-          "https://github.com/epezent/implot",
-          "master",
-          "FelipeGamingYT/iris-backup",
-          "ioncodes/iris",
-          "JordanTheToaster/iris",
-          "implot",
-          "KornelHajto/iris",
-          "lazymaster101/iris",
-          "ee-jit",
-          "Link4Electronics/iris",
-          "mingcc5240/iris",
-          "momo-AUX1/iris",
-          "Mrlinkwii/iris",
-          "torchesburn/iris",
-          "Xphalnos/iris",
-          "LLVM-CI",
-          "zay448345045/iris-emu",
-          "vu-cached",
-          "Ziemas/eegs",
-          "iop-thread-display"
-        ]
-      },
-      {
-        "name": "Ziemas/eegs@iop-thread-display — submodule: deps/libdeflate",
-        "url": "https://github.com/ebiggers/libdeflate",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/libdeflate",
-          "https://github.com/ebiggers/libdeflate",
-          "master",
-          "FelipeGamingYT/iris-backup",
-          "ioncodes/iris",
-          "KornelHajto/iris",
-          "lazymaster101/iris",
-          "ee-jit",
-          "Link4Electronics/iris",
-          "mingcc5240/iris",
-          "momo-AUX1/iris",
-          "Mrlinkwii/iris",
-          "torchesburn/iris",
-          "Xphalnos/iris",
-          "LLVM-CI",
-          "zay448345045/iris-emu",
-          "vu-cached",
-          "Ziemas/eegs",
-          "iop-thread-display"
-        ]
-      },
-      {
-        "name": "Ziemas/eegs@iop-thread-display — submodule: deps/lz4",
-        "url": "https://github.com/lz4/lz4",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/lz4",
-          "https://github.com/lz4/lz4",
-          "master",
-          "FelipeGamingYT/iris-backup",
-          "ioncodes/iris",
-          "israpps/pcsx2",
-          "patch-3",
-          "3rdparty/lz4/lz4",
-          "KornelHajto/iris",
-          "lazymaster101/iris",
-          "ee-jit",
-          "Link4Electronics/iris",
-          "mingcc5240/iris",
-          "momo-AUX1/iris",
-          "Mrlinkwii/iris",
-          "ToolAssisted-run/chimera-core-pcsx2",
-          "main",
-          "extern/lz4",
-          "https://github.com/lz4/lz4.git",
-          "torchesburn/iris",
-          "Xphalnos/iris",
-          "LLVM-CI",
-          "zay448345045/iris-emu",
-          "vu-cached",
-          "Ziemas/eegs",
-          "iop-thread-display"
-        ]
-      },
-      {
         "name": "Ziemas/eegs@iop-thread-display — submodule: deps/parallel-gs",
         "url": "https://github.com/Arntzen-software/parallel-gs",
         "keywords": [
@@ -2010035,102 +2012139,6 @@
           "ioncodes/iris",
           "KornelHajto/iris",
           "iop-cached",
-          "lazymaster101/iris",
-          "ee-jit",
-          "Link4Electronics/iris",
-          "mingcc5240/iris",
-          "momo-AUX1/iris",
-          "Mrlinkwii/iris",
-          "torchesburn/iris",
-          "Xphalnos/iris",
-          "LLVM-CI",
-          "zay448345045/iris-emu",
-          "vu-cached",
-          "Ziemas/eegs",
-          "iop-thread-display"
-        ]
-      },
-      {
-        "name": "Ziemas/eegs@iop-thread-display — submodule: deps/portable-file-dialogs",
-        "url": "https://github.com/samhocevar/portable-file-dialogs",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/portable-file-dialogs",
-          "https://github.com/samhocevar/portable-file-dialogs",
-          "master",
-          "FelipeGamingYT/iris-backup",
-          "ioncodes/iris",
-          "KornelHajto/iris",
-          "lazymaster101/iris",
-          "ee-jit",
-          "Link4Electronics/iris",
-          "mingcc5240/iris",
-          "momo-AUX1/iris",
-          "Mrlinkwii/iris",
-          "torchesburn/iris",
-          "Xphalnos/iris",
-          "LLVM-CI",
-          "zay448345045/iris-emu",
-          "vu-cached",
-          "Ziemas/eegs",
-          "iop-thread-display"
-        ]
-      },
-      {
-        "name": "Ziemas/eegs@iop-thread-display — submodule: deps/SDL_GameControllerDB",
-        "url": "https://github.com/mdqinc/SDL_GameControllerDB",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/SDL_GameControllerDB",
-          "https://github.com/mdqinc/SDL_GameControllerDB",
-          "master",
-          "FelipeGamingYT/iris-backup",
-          "ioncodes/iris",
-          "KornelHajto/iris",
-          "lazymaster101/iris",
-          "ee-jit",
-          "Link4Electronics/iris",
-          "mingcc5240/iris",
-          "momo-AUX1/iris",
-          "Mrlinkwii/iris",
-          "torchesburn/iris",
-          "Xphalnos/iris",
-          "LLVM-CI",
-          "zay448345045/iris-emu",
-          "vu-cached",
-          "Ziemas/eegs",
-          "iop-thread-display"
-        ]
-      },
-      {
-        "name": "Ziemas/eegs@iop-thread-display — submodule: deps/stb",
-        "url": "https://github.com/nothings/stb",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/stb",
-          "https://github.com/nothings/stb",
-          "master",
-          "FelipeGamingYT/iris-backup",
-          "ioncodes/iris",
-          "KornelHajto/iris",
           "lazymaster101/iris",
           "ee-jit",
           "Link4Electronics/iris",
@@ -2010165,48 +2012173,6 @@
           "desr",
           "TomasRytir/iris",
           "Ziemas/eegs",
-          "module-list"
-        ]
-      },
-      {
-        "name": "Ziemas/eegs@module-list — submodule: tomlplusplus",
-        "url": "https://github.com/marzer/tomlplusplus",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/tomlplusplus",
-          "https://github.com/marzer/tomlplusplus",
-          "master",
-          "arcum42/iris",
-          "tomlplusplus",
-          "cualquiercosa327/iris",
-          "FelipeGamingYT/iris-backup",
-          "ioncodes/iris",
-          "JordanTheToaster/iris",
-          "KornelHajto/iris",
-          "lazymaster101/iris",
-          "ee-jit",
-          "Link4Electronics/iris",
-          "mingcc5240/iris",
-          "momo-AUX1/iris",
-          "Mrlinkwii/iris",
-          "Randomuser8219/iris",
-          "RussPalms/iris_dev",
-          "cached-ee",
-          "desr",
-          "TomasRytir/iris",
-          "torchesburn/iris",
-          "Xphalnos/iris",
-          "LLVM-CI",
-          "zay448345045/iris-emu",
-          "vu-cached",
-          "Ziemas/eegs",
-          "iop-thread-display",
           "module-list"
         ]
       },
