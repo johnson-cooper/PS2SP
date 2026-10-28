@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-08-23T08:23:50Z'
   url: 'https://github.com/AKuHAK/pfsshell/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-27T16:40:36.246Z'
+  lastSynchronized: '2026-10-28T16:04:56.614Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0d36b945a9caddf3e76dda37e7c391f9fbe384dd9b1ff1e3241ea5cd8239c25f"
-    releasesEtag: W/"38dfc46f0d3d4dcf420ea33c85e6d45955fc3945110ac94305aef3d387bcbe31"
+    repoEtag: W/"e3b2fee257386342dc59f755556ebf7c6459216152c4fab68a0b9f4db9ed823e"
+    releasesEtag: W/"a134a71e971ceb40f9c6318e971dd928876bb5ad6374ee16fe61fa08f302b7de"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

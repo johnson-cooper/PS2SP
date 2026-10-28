@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-08-14T14:54:29Z'
   url: 'https://github.com/jrodales-dev/PS2Recomp/releases/tag/assets-v1'
 activity:
-  lastSynchronized: '2026-10-27T16:41:00.421Z'
+  lastSynchronized: '2026-10-28T16:05:22.291Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b8d24763770fb09323ef06c80257fd2283f88c14df8c5b9de5d28affeab2eadb"
-    releasesEtag: W/"234fc266ea5bc8526154c9d3f6800caf540bd06a1789e8d094c1facc875dcbed"
+    repoEtag: W/"67c89d5a313da23cfe84be4126e5e22694c1836ceff1840655dab051f64b47f4"
+    releasesEtag: W/"df322538e4a6d54e5501add28546b524987de11bc99631552e99c66c6878f822"
 discovery:
   method: 'fork-network:ran-j/PS2Recomp'
   confidence: 100

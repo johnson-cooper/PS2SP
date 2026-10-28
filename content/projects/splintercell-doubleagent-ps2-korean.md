@@ -27,12 +27,12 @@ latestRelease:
   url: >-
     https://github.com/Yonggary6425/SplinterCell-DoubleAgent-PS2-Korean/releases/tag/v1.0
 activity:
-  lastSynchronized: '2026-10-27T16:41:23.465Z'
+  lastSynchronized: '2026-10-28T16:05:45.329Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0d76b00a99d34ec4c90ccdd2edfc9870f7021ecd3c8609dd52cb81a8ba3b7f24"
-    releasesEtag: W/"3e542f78db58eca38eb7f464de861f26d2e4fba5ac7dd2177c5ab81414259180"
+    repoEtag: W/"2109d365f173b6291a0dc3edb4f05f6032a522764d3d96f9e3c408db77d61fd0"
+    releasesEtag: W/"b830e775f374f2a45d0deb7c9525ab89fec4a231f209ba4620fa9ad0c8336942"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

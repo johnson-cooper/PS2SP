@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-08-29T08:44:02Z'
   url: 'https://github.com/revox291/ARMSX2/releases/tag/nightly-20260829'
 activity:
-  lastSynchronized: '2026-10-27T16:39:13.258Z'
+  lastSynchronized: '2026-10-28T16:03:29.937Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b13e754b94f3951ad958cf4f3c78ac6ca5b5669d516f1f3d86a8c2c51938ccb5"
-    releasesEtag: W/"12ec29e7a771507254ea24d4a80674281fef401a0903752bef60914cc9891e06"
+    repoEtag: W/"f4b0422b4758acd447413ff598e662f9e54901a00e70c9f17142954722aa0a84"
+    releasesEtag: W/"f722d3822f2735159a60dfa71bbebf915d740ae6d423017f1b845cb23de0d1be"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

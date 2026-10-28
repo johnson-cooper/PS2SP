@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-05-24T15:11:15Z'
   url: 'https://github.com/ddobokki/pcsx2_modem/releases/tag/pcsx2_modem_v1.0.2'
 activity:
-  lastSynchronized: '2026-10-28T06:19:41.022Z'
+  lastSynchronized: '2026-10-28T16:04:44.731Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6e6b49bbe2e7f843660a9e1977985013e6e42a797a6711b83f6328da73b5a0d5"
+    releasesEtag: W/"86bb0627c6472037af5ee678b39fac619c6b25e85d134336b57fea54e9e7d8cc"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

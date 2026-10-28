@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-08-24T18:18:41Z'
   url: 'https://github.com/PalindromicBreadLoaf/Yadokari/releases/tag/v3.0.0'
 activity:
-  lastSynchronized: '2026-10-27T16:39:11.865Z'
+  lastSynchronized: '2026-10-28T16:03:28.668Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9a39a275779957cf73c713febc6e235dd97cd4f2529c0c808e78f73c7a238b9c"
-    releasesEtag: W/"6230e86f8a339353c339fc92cb14856e72fc8a2575f41b16903e9d7897dd82fc"
+    repoEtag: W/"4570c0ee9ae53d02ee868deaa49ac42b815323fc6c352f0d1fa993d379c5e3f8"
+    releasesEtag: W/"855576dcfa8cc10a079597f6edb48e558fb83e508c542f644e20f509f6ab8627"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 95

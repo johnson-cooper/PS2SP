@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-27T16:39:58.648Z'
+  lastSynchronized: '2026-10-28T16:04:16.206Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"de1c7f815b3abf0cf87c7866722e01794156c949d6ada0e1e1603fc131f6dff0"
-    releasesEtag: '"d6bfcadce9082ff8e7ad7e61e752259445152597493886acfe1cd21262866285"'
+    repoEtag: W/"3c13c897fbcc351311532f790338f1bfecf13eececdf4f8693602e00c608c798"
+    releasesEtag: '"84a6274a83f0dc9ad9077bd4fa5bf01cb0f02ba03d47c68dcd760c50b12de572"'
 discovery:
   method: 'fork-network:bmdhacks/malisx2'
   confidence: 100

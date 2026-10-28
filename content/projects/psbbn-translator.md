@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/Emertels/PSBBN-Translator/releases/tag/v1.1.0'
 activity:
   lastChecked: '2026-09-29T00:28:44.145Z'
-  lastSynchronized: '2026-10-27T16:41:13.911Z'
+  lastSynchronized: '2026-10-28T16:05:35.690Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"18559cc0a61ed550dd1a399831c9e0ddd4a6c9c82e099abdf98f0a19440d9375"
-    releasesEtag: W/"981a6462c4c5ee1ab66cadf86505046734a5893826c22516f3c01923efc93282"
+    repoEtag: W/"084d96719dcc39eb414a6057551e6ed80c6e0ace6b9e6be86899e5d24bff631e"
+    releasesEtag: W/"7c09449d66be26bf04ec00f59a98e51896314ebf25a9e981d17913af4c85ede0"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 90
