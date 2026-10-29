@@ -1,0 +1,16 @@
+{
+  "repository": "Anaphygon/un5-nx",
+  "repositoryId": "1438036548",
+  "url": "https://github.com/Anaphygon/un5-nx",
+  "description": "Native port of Naruto Shippuden: Ultimate Ninja 5 (PS2) to the Nintendo Switch and macOS: static recompilation plus PCSX2's hardware GS. Bring your own disc.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-10-29T10:25:26.926Z",
+  "checkedAt": "2026-10-29T10:25:26.926Z"
+}

@@ -1,0 +1,16 @@
+{
+  "repository": "OpenThievius/sly1-decomp",
+  "repositoryId": "1437944368",
+  "url": "https://github.com/OpenThievius/sly1-decomp",
+  "description": "Decompilation for Sly Cooper and the Thievius Raccoonus for the Playstation 2.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-10-29T10:25:26.926Z",
+  "checkedAt": "2026-10-29T10:25:26.926Z"
+}
