@@ -27,12 +27,12 @@ latestRelease:
   url: >-
     https://github.com/richard1222/SpongeBob-SquarePants-movie-game-ps2-cheat-codes/releases/tag/v0.4
 activity:
-  lastSynchronized: '2026-10-24T14:35:16.676Z'
+  lastSynchronized: '2026-10-29T14:23:00.173Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0c061bf321216be139ae13ddb2626151f47981a874b1d8ebd7a5fdfcbf2f62e9"
-    releasesEtag: W/"991e04c1cc696d1eaa44d30931ff21cfe3318c77c7e01f3339c929501e480f3a"
+    repoEtag: W/"31820f6bb5e4091a95a4b1a41e8385fd7f41dda2768f6707cf4ecc8830a71ac2"
+    releasesEtag: W/"cf6d96f5d351dc0af31a335ca6f056235db2244d2270142b1857d32c39506f87"
 discovery:
   method: pending-recheck
   confidence: 95

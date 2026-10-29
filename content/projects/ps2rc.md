@@ -20,22 +20,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 73
-  forks: 8
-  lastCommit: '2026-10-20T02:39:24Z'
+  stars: 86
+  forks: 10
+  lastCommit: '2026-10-27T23:00:39Z'
 latestRelease:
-  tag: v0.1.1
-  name: PS2RC Converter 0.1.1
-  publishedAt: '2026-10-14T22:13:18Z'
-  url: 'https://github.com/SandstoneDev/PS2RC/releases/tag/v0.1.1'
+  tag: v0.2.1
+  name: PS2RC Converter 0.2.1
+  publishedAt: '2026-10-27T23:00:39Z'
+  url: 'https://github.com/SandstoneDev/PS2RC/releases/tag/v0.2.1'
 activity:
   lastChecked: '2026-10-20T05:18:56.651Z'
-  lastSynchronized: '2026-10-24T14:34:53.523Z'
+  lastSynchronized: '2026-10-29T14:22:28.501Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d0e919ababe610fd4c537b79faa52a9e2777f70b7414114c66a5262b36f8630d"
-    releasesEtag: W/"7fa23a5ff19d72e0b10c761190253a76532c8a9f266b3ecace96e8a9e7050fd5"
+    repoEtag: W/"b592dbcbb211c53df70c9fd4d2604af8e97aaa1e27ee1c9fe0e5c20a29394eef"
+    releasesEtag: W/"3474a75c0dd557c5bb7e62b211527774390d33359e3df3a509f746d46daa9df9"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 75

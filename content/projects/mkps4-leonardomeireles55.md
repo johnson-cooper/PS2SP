@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T14:34:03.834Z'
+  lastSynchronized: '2026-10-29T14:21:07.673Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1b9d976ef8f05d5c70c8815d63e62bc0c18b0fd56813be184f8f83212432085c"
-    releasesEtag: '"94fbc3dfdcacf1e254cfcd39aeb7e8fce35a0ed1d132095cc974e5c6a70b4c5e"'
+    repoEtag: W/"b1cb9bdcd3f320bc7e79fe37a9977802b4a1ffc2dcc23416dfd8d85ed55b43ee"
+    releasesEtag: '"54b3450c7eeceffdfd9637e5dbd9ebf7bcfc8e4ceba373ac5374c014cb3cffab"'
 discovery:
   method: 'fork-network:ecklf/mkps4'
   confidence: 95

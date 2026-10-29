@@ -25,7 +25,7 @@ repository:
   defaultBranch: master
   stars: 433
   forks: 212
-  lastCommit: '2026-10-22T23:15:35Z'
+  lastCommit: '2026-10-25T10:08:35Z'
 latestRelease:
   tag: libsmb2-6.3
   name: libsmb2-6.3
@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/sahlberg/libsmb2/releases/tag/libsmb2-6.3'
 activity:
   lastChecked: '2026-09-29T00:27:41.566Z'
-  lastSynchronized: '2026-10-24T14:34:02.382Z'
+  lastSynchronized: '2026-10-29T14:21:05.055Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"97932294460016f1292685069063bcbe6645f8443b2b94337e471938129a6f52"
-    releasesEtag: W/"f4a03c1cfabb2ae7811749c1bbc4f1a136e5ac736a8ceb01aa0d0f214709d665"
+    repoEtag: W/"b2bdfa6f0d19e291d5c224b4e2ccf3d424eb169fa5319021c3ae0ffbf9bbc933"
+    releasesEtag: W/"780e1df3b5a65c7bac74a1bdeb9281bffda484a56de223bcabc3b5ce098432fb"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 100

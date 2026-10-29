@@ -22,7 +22,7 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-22T16:09:25Z'
+  lastCommit: '2026-10-26T15:30:40Z'
 latestRelease:
   tag: v1.0
   name: 'v1.0: Journey of the Cursed Monsters'
@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/PauloAxcel/dq8-cursed-monsters/releases/tag/v1.0'
 activity:
   lastChecked: '2026-10-20T19:35:24.428Z'
-  lastSynchronized: '2026-10-24T14:33:37.169Z'
+  lastSynchronized: '2026-10-29T14:20:27.810Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"aaba86f28a37f045b1a3b7f327e347295bb101e8eed71a6e52aebcfb245e4c97"
-    releasesEtag: W/"02b3952ef41b1ab04de3e665f57b85cf4511e3b107eb94f8fa8f0c6de963add5"
+    repoEtag: W/"9fd1ab43216bd0f03de72719e217d4c2e2ad80689655939ccddbadc850963bff"
+    releasesEtag: W/"93238780cfda2ccab12a552cd4135d0d24a300e72663c0e12713570af27f4496"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

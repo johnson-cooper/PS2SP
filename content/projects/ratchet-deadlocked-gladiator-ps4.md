@@ -34,12 +34,12 @@ latestRelease:
     https://github.com/NickPlexus/ratchet-deadlocked-gladiator-ps4/releases/tag/v1.0.0
 activity:
   lastChecked: '2026-10-20T05:18:56.651Z'
-  lastSynchronized: '2026-10-24T14:35:13.783Z'
+  lastSynchronized: '2026-10-29T14:22:55.688Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3df54c583fd4580b599a06907863c570c49713ec42fa340de302831fc465569c"
-    releasesEtag: W/"e19c54d62a405235ad7c155ecfe0e02e34334c64093832e6c5e7aca35811fd17"
+    repoEtag: W/"d60170ab20a87ceb60e8c98af7f5dd1635bcc2434d729582bc7213b86a2d8d6c"
+    releasesEtag: W/"fde1b1b1a6a84dfb6841adff13b5462e6abaa19448245cc1d3ef75f013a5c458"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

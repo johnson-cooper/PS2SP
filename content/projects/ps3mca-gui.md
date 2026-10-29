@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/Tunederuz/ps2-memory-card-manager/releases/tag/v0.4.0'
 activity:
   lastChecked: '2026-10-20T19:35:24.428Z'
-  lastSynchronized: '2026-10-24T14:35:07.242Z'
+  lastSynchronized: '2026-10-29T14:22:46.438Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"721903467eca92cd46eb8c2f405690a32069195dbdd6a49029594fa6b02225ca"
-    releasesEtag: W/"063e8c6e4b88cd931107d7d1fcacc91b9f946fae6d9449a92a548f763f47fb5d"
+    repoEtag: W/"e59432e4af808f9a74be453368b0d94b9de250a6ad69d0e77e91b049ca6d5335"
+    releasesEtag: W/"7d64e2d8848c41dd902c4ae41300be89efddb36e817231fa2f2686c51e725455"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

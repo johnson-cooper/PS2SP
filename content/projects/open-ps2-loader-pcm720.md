@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2025-02-21T20:50:50Z'
   url: 'https://github.com/pcm720/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-24T14:34:16.080Z'
+  lastSynchronized: '2026-10-29T14:21:27.749Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"05185a77e79117220fe9a2d1f7a6bad83bbec47d95a7bd6c5228be3ddc85e766"
-    releasesEtag: W/"05fb40c1f9bf5ba544e9aa4f1146e554f28dcf389cae95868732d515d3ed3fd0"
+    repoEtag: W/"353b80ed0609ab91923d9a69bd7f1a2676f5efce0f80907f9b9b01a4600d6404"
+    releasesEtag: W/"0b986f43785ad8b0087fbe26bf0fecb96e4e642d96f25c1fd4019062575f0ddf"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

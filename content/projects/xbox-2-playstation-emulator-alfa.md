@@ -27,12 +27,12 @@ latestRelease:
   url: >-
     https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/releases/tag/SAS
 activity:
-  lastSynchronized: '2026-10-24T14:35:21.675Z'
+  lastSynchronized: '2026-10-29T14:23:07.560Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"92f49700c7b40626155a86de6365bfba92c01e3e530d1b90571cb1801684b889"
-    releasesEtag: W/"183ad12b747cb448787be3f458688b06dc150991638639b512e0e0502140cb75"
+    repoEtag: W/"e4a2813acf8580b580bd51699d0ad1e0ad90456158716b85655514541105aecc"
+    releasesEtag: W/"6253b4ff5800f9643c2d33a05bbf6132be4e69b45c1e72f7b53ba7b9f21934f5"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

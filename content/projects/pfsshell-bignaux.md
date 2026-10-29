@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2021-03-24T18:29:37Z'
   url: 'https://github.com/bignaux/pfsshell/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-24T14:34:33.079Z'
+  lastSynchronized: '2026-10-29T14:21:55.724Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ea1a30d7e475b2dde19310e878f5f9e96b5449b5b33b3bf9b2119ae6442997cb"
-    releasesEtag: W/"9c33a672a4a3112ed7b1d9ddb357a400433db23049650eac507a5090949edd8e"
+    repoEtag: W/"178980ca034ac31c43a1fae1f6c9593b6f2a5aafc72cdbca9af039ad76d02a38"
+    releasesEtag: W/"3aa387143fa39d308652a17e4a6d251833e5e5ec1a36b0e4732ff826148f60ca"
 discovery:
   method: 'fork-network:ps2homebrew/pfsshell'
   confidence: 95

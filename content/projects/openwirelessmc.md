@@ -25,22 +25,22 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-23T21:57:27Z'
+  lastCommit: '2026-10-29T13:26:35Z'
 latestRelease:
-  tag: v1.4.0
+  tag: v1.5.0
   name: >-
-    OpenWirelessMC v1.4 - Protocol Realignments, FastRead Streaming & Boot Card
-    Healing
-  publishedAt: '2026-10-21T16:27:34Z'
-  url: 'https://github.com/Schickacka/OpenWirelessMC/releases/tag/v1.4.0'
+    OpenWirelessMC v1.5.0 - Hierarquia de Pastas, Duplicacao de Cartoes e Nova
+    Interface Web
+  publishedAt: '2026-10-28T11:41:02Z'
+  url: 'https://github.com/Schickacka/OpenWirelessMC/releases/tag/v1.5.0'
 activity:
   lastChecked: '2026-10-15T06:27:26.444Z'
-  lastSynchronized: '2026-10-24T14:34:19.668Z'
+  lastSynchronized: '2026-10-29T14:21:34.088Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ddc728df8681792920e17e6a26cd527bf01fceac76311e9674b08ffb5264909c"
-    releasesEtag: W/"aeedf3339abfc6781b12a014695dc5d239b41ffeab82b7aad79646654e65330c"
+    repoEtag: W/"fa2f866a51a4da12d9c1a49dfd37a08ef6d0354a650c87e77b82ac653c6fd3bc"
+    releasesEtag: W/"ae2fe4db4630fc49e98d912c4e07a07db2a63215d0335342d3ceaaa9e93785e5"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 70

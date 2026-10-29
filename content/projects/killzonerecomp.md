@@ -20,21 +20,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 115
-  forks: 4
-  lastCommit: '2026-10-22T14:24:12Z'
+  stars: 155
+  forks: 5
+  lastCommit: '2026-10-28T13:26:25Z'
 latestRelease:
-  tag: v0.1.3-alpha
-  name: Killzone PC v0.1.3 alpha
-  publishedAt: '2026-10-22T14:24:18Z'
-  url: 'https://github.com/drakolordx7/KillzoneRecomp/releases/tag/v0.1.3-alpha'
+  tag: v0.1.5-alpha
+  name: Killzone PC v0.1.5 alpha
+  publishedAt: '2026-10-25T08:20:36Z'
+  url: 'https://github.com/drakolordx7/KillzoneRecomp/releases/tag/v0.1.5-alpha'
 activity:
-  lastSynchronized: '2026-10-24T14:33:54.297Z'
+  lastSynchronized: '2026-10-29T14:20:54.078Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ee057abbce98666eabcda210c325af8ad4efa69ba34df70353e78372b97656ba"
-    releasesEtag: W/"3c425883c028cfa972b90fc2d0486fb26a197c937837603de35e03820eaf087f"
+    repoEtag: W/"3733370a7d44c1197ae6fcc526baf9bb5f0f3f901935bb89c62005a4e8aba66a"
+    releasesEtag: W/"e1a86a8ba29dc8d1ebdf69422c91954c1be6d771ed21fe78c1fb2ae94fbb4d44"
 discovery:
   method: pending-recheck
   confidence: 100
