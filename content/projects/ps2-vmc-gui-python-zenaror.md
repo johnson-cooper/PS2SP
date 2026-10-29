@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-28T19:07:21.883Z'
+  lastSynchronized: '2026-10-29T00:58:33.703Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"30344d8dae6d6bae1d9d936a6a8549a4d18be2b7801aaad8750e475c3369d1c1"
+    releasesEtag: '"ed883635daf9e1a915725ab8be081a3ea70614a4faeaca680146a5aa9133984d"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: MegaBitmap/PS2-VMC-GUI
   source: MegaBitmap/PS2-VMC-GUI
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

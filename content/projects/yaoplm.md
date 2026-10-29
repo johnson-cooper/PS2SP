@@ -23,17 +23,20 @@ repository:
   archived: false
   defaultBranch: main
   stars: 0
-  forks: 0
-  lastCommit: '2026-10-24T22:34:51Z'
+  forks: 1
+  lastCommit: '2026-10-28T08:05:56Z'
 latestRelease:
   tag: v0.1.0
   name: YAOPLM v0.1.0
   publishedAt: '2026-10-23T06:27:35Z'
   url: 'https://github.com/belomaxorka/yaoplm/releases/tag/v0.1.0'
 activity:
-  lastSynchronized: '2026-10-25T00:31:44.133Z'
+  lastSynchronized: '2026-10-29T00:59:23.168Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"75a0082b189d4a4e5d2cb76580704d94697f0371f9bcb234f50a9b3117f32bcd"
+    releasesEtag: W/"9cf876aa1ff1f29bf9c1510ec2121c3cc1b1c93dccb7578b68425f1c4814a7fe"
 discovery:
   method: pending-recheck
   confidence: 100
@@ -47,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

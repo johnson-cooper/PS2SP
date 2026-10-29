@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T00:43:42.650Z'
+  lastSynchronized: '2026-10-29T00:59:00.943Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"351e9e0b6c949342267200236629d351c7f2470f2335e4de8050dd582a97500f"
-    releasesEtag: '"48753e9f26e6ff1c83a1da242b54bc63adc9fabd9c0810f6d38846bcaeb17bf4"'
+    repoEtag: W/"3ed3069bf0a9ed79342293221a1a6f866c5670ee38d56f80d0c53886ca81ee79"
+    releasesEtag: '"ed883635daf9e1a915725ab8be081a3ea70614a4faeaca680146a5aa9133984d"'
 discovery:
   method: 'fork-network:saildot4k/R3CONFIGURATOR'
   confidence: 100

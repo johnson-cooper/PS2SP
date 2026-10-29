@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-28T00:44:37.049Z'
+  lastSynchronized: '2026-10-29T00:58:10.544Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"cffbec827c806ff918d251c11588a5dc3dc79a1d511562dff7c8a0eef64f5180"
+    releasesEtag: '"ed883635daf9e1a915725ab8be081a3ea70614a4faeaca680146a5aa9133984d"'
 discovery:
   method: 'fork-network:JackerGamer/PCSX2'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: JackerGamer/PCSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

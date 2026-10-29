@@ -11,7 +11,7 @@ tags:
   - auto-discovered
 features: []
 authors: []
-license: null
+license: MIT
 homepage: null
 source:
   provider: github
@@ -22,19 +22,19 @@ repository:
   defaultBranch: dev
   stars: 2
   forks: 0
-  lastCommit: '2026-10-24T00:19:56Z'
+  lastCommit: '2026-10-29T00:57:34Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T00:42:54.402Z'
+  lastSynchronized: '2026-10-29T00:57:51.554Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"34e0ac363199efd981f24cb1a6586f19ecf0781f7fdd5c870ccc7e963f57a077"
-    releasesEtag: '"48753e9f26e6ff1c83a1da242b54bc63adc9fabd9c0810f6d38846bcaeb17bf4"'
+    repoEtag: W/"8f701b06cf896a6e157cb7547b52e733ae82e2e6502315f043e038be89d1a9ef"
+    releasesEtag: '"ed883635daf9e1a915725ab8be081a3ea70614a4faeaca680146a5aa9133984d"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

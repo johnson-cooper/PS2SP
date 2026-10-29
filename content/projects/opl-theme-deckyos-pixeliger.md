@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-03-20T06:02:59Z'
   url: 'https://github.com/PixeliGer/OPL-Theme-DeckyOS/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-10-24T00:43:00.943Z'
+  lastSynchronized: '2026-10-29T00:58:03.335Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0f93190809af31fd4a1df6b33f17a111d4c603ffbeb34362429ce557964cf103"
-    releasesEtag: W/"35e1b6837b0f758ec0ba4a0a6a1ca96fc761eff9cc9d6c091570e3e77004959f"
+    repoEtag: W/"05fd6157ed1e857d79ec5aed4f8fa54898b3137335f874c8da932e7dafd9e81c"
+    releasesEtag: W/"54cfc627db53768a6e0cec423a5164b683223b09e316a1fb0233fada7d895d4b"
 discovery:
   method: pending-recheck
   confidence: 100

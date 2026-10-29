@@ -29,12 +29,12 @@ latestRelease:
   url: >-
     https://github.com/illusionyy/ghidra-emotionengine-reloaded/releases/tag/unstable
 activity:
-  lastSynchronized: '2026-10-24T00:42:36.141Z'
+  lastSynchronized: '2026-10-29T00:57:28.925Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"52babab1f1a9c926baf6471e97fe2152cf8f5054d4318285b74856a2ac4c8d8b"
-    releasesEtag: W/"ca9084733e4f1ba5e0c537dd15d461c92f5d888292352db5a6dd38c965fe46db"
+    repoEtag: W/"10dcb5a7ee1980e23bc1e854ede446f96643b7598692b75f6b7b937d54f853e3"
+    releasesEtag: W/"26a8eff0e72702f83c7685cc534e3fce552069a3fce8cc3d33549daa44b9adb7"
 discovery:
   method: 'fork-network:chaoticgd/ghidra-emotionengine-reloaded'
   confidence: 100
