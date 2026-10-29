@@ -23,18 +23,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
-  forks: 0
-  lastCommit: '2026-10-23T17:02:52Z'
+  stars: 2
+  forks: 1
+  lastCommit: '2026-10-29T00:51:56Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-23T17:27:12.070Z'
+  lastSynchronized: '2026-10-29T07:05:59.171Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"de1f12268884d1b5b162c6e3bc3afcbb87ba0fba55438cfe876300fb575b0dd2"
+    releasesEtag: '"0e55d62a156b051eca49228a211e37e97ef1756e978a92491825b134ce41ed33"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: n-delic/decompdecomp
   source: i12bp8/decomp.wtf
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

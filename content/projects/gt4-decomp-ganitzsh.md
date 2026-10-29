@@ -23,19 +23,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-22T10:04:04Z'
+  lastCommit: '2026-10-25T11:19:32Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-23T07:33:04.318Z'
+  lastSynchronized: '2026-10-29T07:06:10.092Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d6eef8d511c11b3c9b345752c377787e46e6b18f858d7fe7d759ee6d2e80bbba"
-    releasesEtag: '"e3ab66dcafeed307bc15775fd7db3e1fb24738ae62c0b221a2d866c321882844"'
+    repoEtag: W/"a127af97d699fcbdffa85cec035ec998c431f03ddc68c8d00dd96d5282c680c9"
+    releasesEtag: '"0e55d62a156b051eca49228a211e37e97ef1756e978a92491825b134ce41ed33"'
 discovery:
   method: 'fork-network:gustavocanepa/gt4-decomp'
   confidence: 100
