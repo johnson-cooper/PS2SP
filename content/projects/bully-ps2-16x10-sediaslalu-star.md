@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T21:53:47.976Z'
+  lastSynchronized: '2026-10-29T20:18:10.942Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a20813d3cdbcf192eea42055a4e247478ad6556328087a7fbc4d42c94447713b"
+    releasesEtag: '"61da9ec93cc8a3183020bd8d1dbf61e6cf81978ab258b81280fc02558cd07e6b"'
 discovery:
   method: 'fork-network:MatthewBlenk/bully-ps2-16x10'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: MatthewBlenk/bully-ps2-16x10
   source: MatthewBlenk/bully-ps2-16x10
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

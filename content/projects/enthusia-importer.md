@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-10-25T03:40:25Z'
   url: 'https://github.com/ravenDS/enthusia-importer/releases/tag/v1.1.0'
 activity:
-  lastSynchronized: '2026-10-26T14:34:04.716Z'
+  lastSynchronized: '2026-10-29T20:18:20.363Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"806f16dc33df1d5f5728f028765707c10dafca831f5a611bbbd0b103642bf381"
+    releasesEtag: W/"93ebcbfbac3e4fda2237a634453ead94d617bacb8488bc1119a1cd3855ea0fb4"
 discovery:
   method: 'incremental:topic:playstation2'
   confidence: 100
@@ -41,5 +44,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

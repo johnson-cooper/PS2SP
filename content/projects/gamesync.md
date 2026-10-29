@@ -21,8 +21,8 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 1
-  forks: 0
+  stars: 2
+  forks: 1
   lastCommit: '2026-10-14T15:21:29Z'
 latestRelease:
   tag: 0.5.4
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/pepasjc/GameSync/releases/tag/0.5.4'
 activity:
   lastChecked: '2026-09-29T11:01:59.784Z'
-  lastSynchronized: '2026-10-24T20:50:12.003Z'
+  lastSynchronized: '2026-10-29T20:18:25.272Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3a79bcb792acd969d76da8446b12b570e3783a144ebe95c1b4d2a7f814a4e853"
-    releasesEtag: W/"fd76cfd2011e27a1363755373e6f9d14355c105e5bec6af1941a5d6e54ddfb27"
+    repoEtag: W/"ffd86a4201cd8e31b292084bc49e772e6f225c5e494503773cf1ebc57c1c91a8"
+    releasesEtag: W/"a9e9ed14cee4d8457f322b6d7d58f520bd6ec841403c1fcb76351a41cd168554"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 90

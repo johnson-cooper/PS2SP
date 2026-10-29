@@ -13,26 +13,26 @@ license: GPL-3.0
 homepage: 'https://pcsx2.net'
 source:
   provider: github
-  repository: TylerDev888/pcsx2
+  repository: FatalityDevelopment/pcsx2
   repositoryId: '1138954338'
 repository:
   archived: false
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-24T05:20:39Z'
+  lastCommit: '2026-10-25T22:56:52Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T20:50:52.302Z'
+  lastSynchronized: '2026-10-29T20:19:14.746Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e48f2241c79267d5e1962fe94736ebed05719cbdd2a3b84661faf3e2a33c7b86"
-    releasesEtag: '"6fcd387081f9435b98bcf0721412c9c91e5080317856a568362bf5cafd0c899f"'
+    repoEtag: W/"a3c2a48b2cb0a7cc96bf83efe5fd0e46b1f5227837230e6889216ebfd71cc8e1"
+    releasesEtag: '"61da9ec93cc8a3183020bd8d1dbf61e6cf81978ab258b81280fc02558cd07e6b"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

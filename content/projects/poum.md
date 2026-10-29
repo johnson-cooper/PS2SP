@@ -23,19 +23,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-01-04T12:15:47Z'
+  lastCommit: '2026-10-29T18:19:47Z'
 latestRelease:
-  tag: v0.2.3
-  name: POUM v0.2.3
-  publishedAt: '2026-01-04T12:19:54Z'
-  url: 'https://github.com/gecm0/POUM/releases/tag/v0.2.3'
+  tag: v0.2.4
+  name: POUM v0.2.4
+  publishedAt: '2026-10-29T18:37:29Z'
+  url: 'https://github.com/gecm0/POUM/releases/tag/v0.2.4'
 activity:
-  lastSynchronized: '2026-10-24T20:50:56.113Z'
+  lastSynchronized: '2026-10-29T20:19:19.941Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5baa4444d0d953840c73c09799a8e8b2d460bcd4324b3ce4e8911e72c4ffb2e6"
-    releasesEtag: W/"54c12d044122fd4f2aabdcd314997102fa2d0ba707362b922f9692b36606a78c"
+    repoEtag: W/"a8b4579aa2685b328bc600363326527a6acab5c293e7661adffc636a7dc52bb9"
+    releasesEtag: W/"a8ec8a1f4a2f1c46021b101ee40e7e37ca05a7cd005b8f8925b490c54993011c"
 discovery:
   method: pending-recheck
   confidence: 100
