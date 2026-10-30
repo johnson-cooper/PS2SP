@@ -2513,6 +2513,149 @@
         ]
       },
       {
+        "name": "362053534/ps2stuff — branch: master",
+        "url": "https://github.com/362053534/ps2stuff/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "362053534/ps2stuff",
+          "master"
+        ]
+      },
+      {
+        "name": "362053534/ps2stuff — branch: use_stdint",
+        "url": "https://github.com/362053534/ps2stuff/tree/use_stdint",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "362053534/ps2stuff",
+          "use_stdint"
+        ]
+      },
+      {
+        "name": "362053534/ps2toolchain — branch: master",
+        "url": "https://github.com/362053534/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "362053534/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "362053534/ps2toolchain — branch: official",
+        "url": "https://github.com/362053534/ps2toolchain/tree/official",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "362053534/ps2toolchain",
+          "official"
+        ]
+      },
+      {
+        "name": "362053534/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/362053534/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "362053534/ps2toolchain-dvp",
+          "main"
+        ]
+      },
+      {
+        "name": "362053534/ps2toolchain-dvp — branch: official",
+        "url": "https://github.com/362053534/ps2toolchain-dvp/tree/official",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "362053534/ps2toolchain-dvp",
+          "official"
+        ]
+      },
+      {
+        "name": "362053534/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/362053534/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "362053534/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "362053534/ps2toolchain-ee — branch: official",
+        "url": "https://github.com/362053534/ps2toolchain-ee/tree/official",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "362053534/ps2toolchain-ee",
+          "official"
+        ]
+      },
+      {
+        "name": "362053534/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/362053534/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "362053534/ps2toolchain-iop",
+          "main"
+        ]
+      },
+      {
+        "name": "362053534/ps2toolchain-iop — branch: official",
+        "url": "https://github.com/362053534/ps2toolchain-iop/tree/official",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "362053534/ps2toolchain-iop",
+          "official"
+        ]
+      },
+      {
+        "name": "362053534/ps2toolchain-iop — branch: test-ci-windows",
+        "url": "https://github.com/362053534/ps2toolchain-iop/tree/test-ci-windows",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "362053534/ps2toolchain-iop",
+          "test-ci-windows"
+        ]
+      },
+      {
         "name": "374606829/EmuCoreX — branch: feature/lan-netplay-only",
         "url": "https://github.com/374606829/EmuCoreX/tree/feature/lan-netplay-only",
         "keywords": [
@@ -3706,6 +3849,45 @@
           "repository",
           "7dog123/ps2sdk-ports",
           "master"
+        ]
+      },
+      {
+        "name": "7dog123/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/7dog123/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "7dog123/ps2toolchain-dvp",
+          "main"
+        ]
+      },
+      {
+        "name": "7dog123/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/7dog123/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "7dog123/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "7dog123/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/7dog123/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "7dog123/ps2toolchain-iop",
+          "main"
         ]
       },
       {
@@ -13937,6 +14119,110 @@
           "repository",
           "AKuHAK/ps2sdk-ports",
           "patch-2"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/AKuHAK/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2toolchain-dvp",
+          "main"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2toolchain-dvp — branch: patch-1",
+        "url": "https://github.com/AKuHAK/ps2toolchain-dvp/tree/patch-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2toolchain-dvp",
+          "patch-1"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2toolchain-ee — branch: AKuHAK-patch-1",
+        "url": "https://github.com/AKuHAK/ps2toolchain-ee/tree/AKuHAK-patch-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2toolchain-ee",
+          "AKuHAK-patch-1"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/AKuHAK/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2toolchain-ee — branch: patch-1",
+        "url": "https://github.com/AKuHAK/ps2toolchain-ee/tree/patch-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2toolchain-ee",
+          "patch-1"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2toolchain-ee — branch: patch-2",
+        "url": "https://github.com/AKuHAK/ps2toolchain-ee/tree/patch-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2toolchain-ee",
+          "patch-2"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2toolchain-ee — branch: patch-4",
+        "url": "https://github.com/AKuHAK/ps2toolchain-ee/tree/patch-4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2toolchain-ee",
+          "patch-4"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2toolchain-ee — branch: readme",
+        "url": "https://github.com/AKuHAK/ps2toolchain-ee/tree/readme",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2toolchain-ee",
+          "readme"
         ]
       },
       {
@@ -213352,6 +213638,66 @@
           "362053534/ps2sdk",
           "USB-compatible-normal",
           "tools/ps2-irxgen"
+        ]
+      },
+      {
+        "name": "362053534/ps2stuff@master — tools",
+        "url": "https://github.com/362053534/ps2stuff/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2stuff",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "362053534/ps2stuff@master — tools/vu_reg_manager",
+        "url": "https://github.com/362053534/ps2stuff/tree/master/tools/vu_reg_manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2stuff",
+          "master",
+          "tools/vu_reg_manager"
+        ]
+      },
+      {
+        "name": "362053534/ps2stuff@use_stdint — tools",
+        "url": "https://github.com/362053534/ps2stuff/tree/use_stdint/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2stuff",
+          "use_stdint",
+          "tools"
+        ]
+      },
+      {
+        "name": "362053534/ps2stuff@use_stdint — tools/vu_reg_manager",
+        "url": "https://github.com/362053534/ps2stuff/tree/use_stdint/tools/vu_reg_manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "362053534/ps2stuff",
+          "use_stdint",
+          "tools/vu_reg_manager"
         ]
       },
       {
