@@ -1,0 +1,16 @@
+{
+  "repository": "RgeditV1/ROR-Recomp",
+  "repositoryId": "1439140888",
+  "url": "https://github.com/RgeditV1/ROR-Recomp",
+  "description": "Native PC Rule of Rose (PS2) recompilation",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-30T02:08:54.184Z",
+  "checkedAt": "2026-10-30T02:08:54.184Z"
+}
