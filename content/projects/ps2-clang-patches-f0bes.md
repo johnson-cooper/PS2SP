@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-29T14:22:02.847Z'
+  lastSynchronized: '2026-10-30T14:10:22.404Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7d7052264e031b22bfcdd5428c5f14956a8ba82032ce1e66168b6c9fa89fe9cf"
-    releasesEtag: '"54b3450c7eeceffdfd9637e5dbd9ebf7bcfc8e4ceba373ac5374c014cb3cffab"'
+    repoEtag: W/"4d5630635fb139dc0508d8f3b997ddba015f6ca280fc6dbf8f7927d403440bd7"
+    releasesEtag: '"000355bbf274101e0048ce4960e43564dcb66510c0b66a35418a5215ce1cc384"'
 discovery:
   method: 'fork-network:Ravenslofty/ps2-clang-patches'
   confidence: 100

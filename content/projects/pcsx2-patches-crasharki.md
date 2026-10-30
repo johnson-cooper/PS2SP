@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-27T13:26:07Z'
   url: 'https://github.com/CRASHARKI/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-29T14:21:52.230Z'
+  lastSynchronized: '2026-10-30T14:10:14.038Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"58fe9591300b1106cac8a3b09c5122add3ba96971217fe541888aab694771003"
-    releasesEtag: W/"60f2ca0d435d0ac5e45deced8cd8c38c7156453a6d319af55f3a74a79824e5df"
+    repoEtag: W/"9c7c44e9141028de8017316158cb685a9a238fea803c4a1fa01ace6b78d57843"
+    releasesEtag: W/"1abbf478fa90b474a60c5b3f86d0fe949f28063dc2535f092bf3ed16eeefd65c"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95

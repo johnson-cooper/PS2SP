@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-29T14:20:41.288Z'
+  lastSynchronized: '2026-10-30T14:09:14.517Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"10115586016674b0c1d3beb75e8d0d0d7b70c423da38fd301c6ea7c08bfe8284"
-    releasesEtag: '"54b3450c7eeceffdfd9637e5dbd9ebf7bcfc8e4ceba373ac5374c014cb3cffab"'
+    repoEtag: W/"fc6edaacc4636d2c1272b99ff8466859d85e43f1e88a8969636e41ce71911f35"
+    releasesEtag: '"000355bbf274101e0048ce4960e43564dcb66510c0b66a35418a5215ce1cc384"'
 discovery:
   method: 'fork-network:KIexster/god-of-war-recomp'
   confidence: 100

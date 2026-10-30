@@ -32,12 +32,12 @@ latestRelease:
     https://github.com/damon-daemon/taiko-risshiden-5-english/releases/tag/v0.10.3
 activity:
   lastChecked: '2026-10-18T23:40:09.758Z'
-  lastSynchronized: '2026-10-29T14:23:01.521Z'
+  lastSynchronized: '2026-10-30T14:11:13.971Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6a56ae71053e4af52ea8b63884e500ebbe4c17955df71ac89e43d92165610c80"
-    releasesEtag: W/"746e55b186ba05d2d748172f87e15c3226c0bb2e4370743f31528394c9f445a7"
+    repoEtag: W/"2505369106c6fa8769a1498c0147ec08292f4b213d55d0dc7e1136526aeacfc4"
+    releasesEtag: W/"3738e6c82818d12be19d5da318166d2cf807db4d31e70922c78df021b3313235"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

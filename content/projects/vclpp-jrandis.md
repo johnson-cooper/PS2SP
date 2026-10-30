@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-29T14:23:05.506Z'
+  lastSynchronized: '2026-10-30T14:11:17.253Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8e84686803fe3b666cf6be5c5e0f8e3fef5257cb2a94f93d666a36b9c82cc8d8"
-    releasesEtag: '"54b3450c7eeceffdfd9637e5dbd9ebf7bcfc8e4ceba373ac5374c014cb3cffab"'
+    repoEtag: W/"c0b8263e6d8130464c6245a4e1ccd079d8b105c4ba988db4c631c271222bdd7c"
+    releasesEtag: '"000355bbf274101e0048ce4960e43564dcb66510c0b66a35418a5215ce1cc384"'
 discovery:
   method: 'fork-network:glampert/vclpp'
   confidence: 95

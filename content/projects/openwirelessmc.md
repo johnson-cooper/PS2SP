@@ -27,20 +27,18 @@ repository:
   forks: 0
   lastCommit: '2026-10-29T13:26:35Z'
 latestRelease:
-  tag: v1.5.0
-  name: >-
-    OpenWirelessMC v1.5.0 - Hierarquia de Pastas, Duplicacao de Cartoes e Nova
-    Interface Web
-  publishedAt: '2026-10-28T11:41:02Z'
-  url: 'https://github.com/Schickacka/OpenWirelessMC/releases/tag/v1.5.0'
+  tag: v1.5.2
+  name: OpenWirelessMC v1.5.2
+  publishedAt: '2026-10-29T22:19:08Z'
+  url: 'https://github.com/Schickacka/OpenWirelessMC/releases/tag/v1.5.2'
 activity:
   lastChecked: '2026-10-15T06:27:26.444Z'
-  lastSynchronized: '2026-10-29T14:21:34.088Z'
+  lastSynchronized: '2026-10-30T14:09:58.733Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fa2f866a51a4da12d9c1a49dfd37a08ef6d0354a650c87e77b82ac653c6fd3bc"
-    releasesEtag: W/"ae2fe4db4630fc49e98d912c4e07a07db2a63215d0335342d3ceaaa9e93785e5"
+    repoEtag: W/"1f515a739f0e626f15237d60c8010528a484eff442b0d9d45f3211db222889eb"
+    releasesEtag: W/"7e7f2f122b9412c2d3b1116b630738b71cb02480a480415b9bda2bfc4a9d851d"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 70

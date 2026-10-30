@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-29T14:21:16.553Z'
+  lastSynchronized: '2026-10-30T14:09:44.272Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d67323c49f01d50a575ea21a41c2e09a16914cc5c726a6b64cdc4c00cc24f21c"
-    releasesEtag: '"54b3450c7eeceffdfd9637e5dbd9ebf7bcfc8e4ceba373ac5374c014cb3cffab"'
+    repoEtag: W/"6c285015770a4d939990e40c7e6feedcf6431ce0e9bb083b0a6d63cd72ff4222"
+    releasesEtag: '"000355bbf274101e0048ce4960e43564dcb66510c0b66a35418a5215ce1cc384"'
 discovery:
   method: 'fork-network:hitchhikr/nrlpack'
   confidence: 100

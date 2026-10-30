@@ -27,20 +27,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-29T04:35:18Z'
+  lastCommit: '2026-10-30T02:31:07Z'
 latestRelease:
-  tag: v1.29.5
-  name: v1.29.5
-  publishedAt: '2026-10-29T02:02:15Z'
-  url: 'https://github.com/fatty8me2/retrohub/releases/tag/v1.29.5'
+  tag: v1.29.23
+  name: RetroHub v1.29.23
+  publishedAt: '2026-10-30T02:31:21Z'
+  url: 'https://github.com/fatty8me2/retrohub/releases/tag/v1.29.23'
 activity:
   lastChecked: '2026-10-25T05:19:15.478Z'
-  lastSynchronized: '2026-10-29T14:22:56.967Z'
+  lastSynchronized: '2026-10-30T14:11:09.309Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"52b53a421733811a0208b4681e1a1db11b6ceeab5df50ee2d9168982e38109d3"
-    releasesEtag: W/"ccae20e1fbaedaa131628f293bc5cdb8752972c46b3968409bb070b52642145b"
+    repoEtag: W/"3327e32758396024a71c77491248c430bef29777390c2ce4141f381d904942d2"
+    releasesEtag: W/"d2fffa60899ddbd992d48f0d5930f15a88c6eb0f2ca01332db8a987f00083a68"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

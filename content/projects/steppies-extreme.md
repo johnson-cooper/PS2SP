@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/PSChuze/steppies-extreme/releases/tag/v0.1.0'
 activity:
   lastChecked: '2026-10-25T00:31:44.133Z'
-  lastSynchronized: '2026-10-29T14:23:00.842Z'
+  lastSynchronized: '2026-10-30T14:11:12.759Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5b384456590f8ab73c54cb4e06a36f316f0b5ae26c7e8c8804df6156641c1dbd"
-    releasesEtag: W/"725ece935abdec4c9f53b58be3e13401ba399ce3c8ca98ef6e2e5df478c779d3"
+    repoEtag: W/"7dada40445adacc4d632896447478b3afb0c0084c84cbd67d944318d4657bf50"
+    releasesEtag: W/"7cb9c353b93c1e2bcec3e6c97735311b90e7ec01c106df6a2ff90ab2bfd3dc09"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85

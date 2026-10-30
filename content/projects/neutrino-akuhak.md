@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2024-12-05T14:00:25Z'
   url: 'https://github.com/AKuHAK/neutrino/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-29T14:21:14.443Z'
+  lastSynchronized: '2026-10-30T14:09:42.404Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"98836e3ad5cf7427a43ac8f9a15ca538a7b24c4f4bc75a1b2a897fd4bcb0e038"
-    releasesEtag: W/"346096c150d944238ddbc6ab9fc7f706d88081c30d65413b2f95bb24aeea8dfd"
+    repoEtag: W/"8d3dc8390afa7374c876d22df2cb11c970613b620e65fb5b708a5f79d1527ac8"
+    releasesEtag: W/"8dfe8fa52e9be9d75b162cdff7c6fee31716b87d516320ffaab66431c113338a"
 discovery:
   method: 'fork-network:ps2max32/neutrino'
   confidence: 95

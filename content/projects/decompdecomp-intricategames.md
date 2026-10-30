@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-29T22:00:32.843Z'
+  lastSynchronized: '2026-10-30T14:09:00.245Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4dd40d5f88d61cdaaf2233663932f6cc4f6069d0062f5310d24ae389c3c68a3c"
+    releasesEtag: '"000355bbf274101e0048ce4960e43564dcb66510c0b66a35418a5215ce1cc384"'
 discovery:
   method: 'fork-network:n-delic/decomp.wtf'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: n-delic/decompdecomp
   source: i12bp8/decomp.wtf
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

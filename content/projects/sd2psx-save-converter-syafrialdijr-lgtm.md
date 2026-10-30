@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-29T14:22:58.314Z'
+  lastSynchronized: '2026-10-30T14:11:10.639Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0287387b409873b7596173568e52a818b5a51a035c90d381b1246c2f8f451d77"
-    releasesEtag: '"54b3450c7eeceffdfd9637e5dbd9ebf7bcfc8e4ceba373ac5374c014cb3cffab"'
+    repoEtag: W/"ee809c5686a43ac98075277b8f740f81d2eca7696a3b8475ac70045a468f0a70"
+    releasesEtag: '"000355bbf274101e0048ce4960e43564dcb66510c0b66a35418a5215ce1cc384"'
 discovery:
   method: 'fork-network:GDX-X/sd2psx-save-converter'
   confidence: 95

@@ -20,7 +20,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 155
+  stars: 160
   forks: 5
   lastCommit: '2026-10-28T13:26:25Z'
 latestRelease:
@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-10-25T08:20:36Z'
   url: 'https://github.com/drakolordx7/KillzoneRecomp/releases/tag/v0.1.5-alpha'
 activity:
-  lastSynchronized: '2026-10-29T14:20:54.078Z'
+  lastSynchronized: '2026-10-30T14:09:25.070Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3733370a7d44c1197ae6fcc526baf9bb5f0f3f901935bb89c62005a4e8aba66a"
-    releasesEtag: W/"e1a86a8ba29dc8d1ebdf69422c91954c1be6d771ed21fe78c1fb2ae94fbb4d44"
+    repoEtag: W/"b210935322b6927bcb56c8828126526c45f1d988bfee86f46d0945e40e2d5883"
+    releasesEtag: W/"d69e40525bb745833ad8efc3d35902b75c4d87e89da68236ba25c7a94feffe16"
 discovery:
   method: pending-recheck
   confidence: 100

@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/izzy2lost/PSX2/releases/tag/1.3.2'
 activity:
   lastChecked: '2026-10-07T22:16:51.969Z'
-  lastSynchronized: '2026-10-29T14:22:51.691Z'
+  lastSynchronized: '2026-10-30T14:11:04.366Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"51c24ef9a45a30c5a13526719a4eec9a95948fa1d13bd948fd3290504726c928"
-    releasesEtag: W/"4808e38a61d9f177dfc8d85c7b03e1e2f84a0266b91fcac7e80550863e970378"
+    repoEtag: W/"322e904c7e9d6e73808ee05a124607e6eae613476035645dcaf916718b5f96e1"
+    releasesEtag: W/"c489e3d2c2f8a9b83c65aef426a677850c649c681c21049b1d6be1c0073dda09"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

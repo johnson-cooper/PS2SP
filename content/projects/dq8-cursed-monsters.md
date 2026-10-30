@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/PauloAxcel/dq8-cursed-monsters/releases/tag/v1.0'
 activity:
   lastChecked: '2026-10-20T19:35:24.428Z'
-  lastSynchronized: '2026-10-29T14:20:27.810Z'
+  lastSynchronized: '2026-10-30T14:09:02.687Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9fd1ab43216bd0f03de72719e217d4c2e2ad80689655939ccddbadc850963bff"
-    releasesEtag: W/"93238780cfda2ccab12a552cd4135d0d24a300e72663c0e12713570af27f4496"
+    repoEtag: W/"72e4584bbd01a0b14b63e8c8ccd0fe5b4e97abeaffd0e897e52ce8a87ac7d7e6"
+    releasesEtag: W/"0ef7e67d3242da6c0c6750cbeb34d57228de0f970b54ad5bd1f77dbefecd28e6"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80
