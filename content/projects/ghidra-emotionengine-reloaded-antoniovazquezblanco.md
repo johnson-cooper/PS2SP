@@ -29,12 +29,12 @@ latestRelease:
   url: >-
     https://github.com/antoniovazquezblanco/ghidra-emotionengine-reloaded/releases/tag/unstable
 activity:
-  lastSynchronized: '2026-10-26T19:20:17.454Z'
+  lastSynchronized: '2026-10-30T19:22:53.496Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2e0ef44fb4e06b1903975bfa7d7c3c6bac6ad698d6baab40a2a6ebba59193b95"
-    releasesEtag: W/"d5afb5734b242c02082a464ebe9432016a8b02068da1e8d7f7dac31042b3d8c5"
+    repoEtag: W/"26965ab184d91520e69562cbec2b85e9aa185900b5892b208617b3d399f88584"
+    releasesEtag: W/"6a7dfbf4f734baabe7ba85f880815286ff57416824ec6eefc8102dc743cea9d1"
 discovery:
   method: 'fork-network:chaoticgd/ghidra-emotionengine-reloaded'
   confidence: 100

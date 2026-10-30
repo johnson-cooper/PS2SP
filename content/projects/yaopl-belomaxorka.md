@@ -19,29 +19,29 @@ features:
   - mx4sio
 authors: []
 license: AFL-3.0
-homepage: null
+homepage: 'https://yaopl.github.io/yaopl/'
 source:
   provider: github
-  repository: belomaxorka/yaopl
+  repository: yaopl/yaopl
   repositoryId: '1429972457'
 repository:
   archived: false
   defaultBranch: master
-  stars: 0
+  stars: 1
   forks: 0
-  lastCommit: '2026-10-23T07:19:52Z'
+  lastCommit: '2026-10-30T18:33:35Z'
 latestRelease:
   tag: latest
-  name: v1.2.0-Beta-2370-33a2b19-yaopl
-  publishedAt: '2026-10-23T07:19:26Z'
-  url: 'https://github.com/belomaxorka/yaopl/releases/tag/latest'
+  name: v2.0.0-nightly.176-b8fd533-yaopl
+  publishedAt: '2026-10-30T18:33:36Z'
+  url: 'https://github.com/yaopl/yaopl/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-26T19:22:11.875Z'
+  lastSynchronized: '2026-10-30T19:24:50.510Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9cd890fb40150b180afbe63d1af3de08160e1e07f283f3cf18985133aa27cd53"
-    releasesEtag: W/"ab9decc20c8648ac4848bbbcb27e68c2c98d070783fc1e3a892c10097bec4a5c"
+    repoEtag: W/"2d3661c0edb02f88c43282389da805380c9f97e5d2a58fcb5c34fa8e5e8cb262"
+    releasesEtag: W/"82f2d7baea15d50eb7f37c5637fd9996841f69b8bed3749ea28f1fab49641829"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

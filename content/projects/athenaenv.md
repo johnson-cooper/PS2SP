@@ -24,7 +24,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 699
+  stars: 698
   forks: 60
   lastCommit: '2026-10-24T21:07:20Z'
 latestRelease:
@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/DanielSant0s/AthenaEnv/releases/tag/latest'
 activity:
   lastChecked: '2026-09-29T00:27:00.178Z'
-  lastSynchronized: '2026-10-26T19:19:57.991Z'
+  lastSynchronized: '2026-10-30T19:22:33.024Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7e61df2e6b0f6c8371663bdc55be2fe139987bad41fc464fcc920ee71a8b048d"
-    releasesEtag: W/"adaca890d05e2f48cfb46e42a71192126f3ed113786adebde2d7ceca3d86c70d"
+    repoEtag: W/"c9c64a01aa08c61fc139ce4a57421ad3b536afc9ee298f15f9887cbf0843ef33"
+    releasesEtag: W/"2e7eb8be7d66ae9a232a72a18c99c632767a5dd90f85d76edd6f61dad8f4b714"
 discovery:
   method: curated
   confidence: 100

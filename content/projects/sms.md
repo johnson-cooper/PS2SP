@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/ps2homebrew/SMS/releases/tag/2.9rev4'
 activity:
   lastChecked: '2026-09-29T00:27:14.840Z'
-  lastSynchronized: '2026-10-26T19:22:02.725Z'
+  lastSynchronized: '2026-10-30T19:24:40.606Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d2aeb533f35d32157a1b47a74289aa967e51063cb05661034605694656e0b98f"
-    releasesEtag: W/"5fb3bf83da07c2c265723414ce690243ecf9c90179ebad271a7d364bc09f9a46"
+    repoEtag: W/"99d43696d7405b6931358b90c715015fc4bbfa18b55bf7e198fcd09ce0f665cd"
+    releasesEtag: W/"b5a7da7ac9cbd28f11113d9524fbcbb82f3cbb4fe9c4192212654dff4ac6dee7"
 discovery:
   method: curated
   confidence: 100

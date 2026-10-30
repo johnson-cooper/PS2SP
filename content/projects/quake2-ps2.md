@@ -22,9 +22,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 55
+  stars: 56
   forks: 14
-  lastCommit: '2026-10-26T00:06:44Z'
+  lastCommit: '2026-10-29T13:23:26Z'
 latestRelease:
   tag: v3.21
   name: 'Quake 2 PS2 - v3.21 - USB and HDD support, tested on HW'
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/glampert/quake2-ps2/releases/tag/v3.21'
 activity:
   lastChecked: '2026-09-29T00:27:14.376Z'
-  lastSynchronized: '2026-10-26T19:21:56.748Z'
+  lastSynchronized: '2026-10-30T19:24:34.262Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7001c495f976eaaf368414ef1696b3cdaa98e26550fa0f163cece0f0bfd3e184"
-    releasesEtag: W/"ec79346739871e37ebc253581ad543ac9ab315de84055306bc7e0ec26c3fe85e"
+    repoEtag: W/"8a5eda98e1219947b09eebef2c5b245b1a591d4b3272440eb31e229847d8488a"
+    releasesEtag: W/"bafc989f87a71fa67cf0f19f77651369cc0003aec26483bd03454060e7667944"
 discovery:
   method: curated
   confidence: 100
