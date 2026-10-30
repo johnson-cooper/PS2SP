@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-29T00:58:10.544Z'
+  lastSynchronized: '2026-10-30T01:00:38.778Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cffbec827c806ff918d251c11588a5dc3dc79a1d511562dff7c8a0eef64f5180"
-    releasesEtag: '"ed883635daf9e1a915725ab8be081a3ea70614a4faeaca680146a5aa9133984d"'
+    repoEtag: W/"cd2b4a8e78c5c9cbcde9921d313373072abe325d5111fa9ed3f0a70808d2cfc4"
+    releasesEtag: '"80399694c75a8c644d0249a64c161ba58684a2b10dc101339d615790d812c8b6"'
 discovery:
   method: 'fork-network:JackerGamer/PCSX2'
   confidence: 100

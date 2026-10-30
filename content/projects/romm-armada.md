@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-27T18:53:08Z'
   url: 'https://github.com/abduznik/romm-armada/releases/tag/v0.4.0'
 activity:
-  lastSynchronized: '2026-10-29T00:59:08.101Z'
+  lastSynchronized: '2026-10-30T01:01:35.060Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7103853873e18fb639f372f57ac2f9f7aa27fe1e5694f465b65b53ceab5144f4"
-    releasesEtag: W/"c4526a3a2cef1b4e606793189e3a199ce483e71df358a2f302b5565806e2d819"
+    repoEtag: W/"d3378872a22c914b8cd1ba309d625d824975aa4ef8c37841ef29366272996784"
+    releasesEtag: W/"3a0278135bd20b8c5fd3b6e937fdffb0c84e1192b055198f607a0c6fe6facaba"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

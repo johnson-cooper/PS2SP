@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-29T00:59:22.027Z'
+  lastSynchronized: '2026-10-30T01:01:48.601Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e23b1a9461975e15960b9ae46a3fd482253d5a5db5b0f8f1987fd1a8568ad915"
-    releasesEtag: '"ed883635daf9e1a915725ab8be081a3ea70614a4faeaca680146a5aa9133984d"'
+    repoEtag: W/"4aa725fefe56e7d0476618abb94f9b5e8e466cfc30f68158a44146c7abb736ee"
+    releasesEtag: '"80399694c75a8c644d0249a64c161ba58684a2b10dc101339d615790d812c8b6"'
 discovery:
   method: 'fork-network:chaoticgd/wrench'
   confidence: 95

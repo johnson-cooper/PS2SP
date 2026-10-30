@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2026-10-15T11:13:33Z'
   url: 'https://github.com/danielgomesvieira2000/ps2-port-engine/releases/tag/v0.7.0'
 activity:
-  lastSynchronized: '2026-10-29T00:58:32.150Z'
+  lastSynchronized: '2026-10-30T01:01:00.174Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b6388bcaf81dc7a65f24e6d82dc9124e59d27b25f4c899d628cc30b71b50c052"
-    releasesEtag: W/"7d8679957df2a6a109043390f4467a9e62233b556f616d2b3e171eb43c1751ef"
+    repoEtag: W/"5a46fafd3d034333dfeca007c47ef12235464cb59872a6e9e6d7c3fae8c1a3e8"
+    releasesEtag: W/"0911660e056023330b316a1f0416c4625af06ba9ef9c641814160fdded3732cb"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 95

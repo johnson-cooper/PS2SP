@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2025-03-14T23:03:18Z'
   url: 'https://github.com/Badzolini/opl-artwork-processor/releases/tag/2025-03-14'
 activity:
-  lastSynchronized: '2026-10-29T00:58:02.035Z'
+  lastSynchronized: '2026-10-30T01:00:30.743Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fd269f490d2fc31b59add7c23cd04a8832c0914e0b9ceb3754f73ae6d460ff45"
-    releasesEtag: W/"290ddcf5390ddfbce43d81188270b7ea29e7a8c7ec9e1a2fd23f0544024f26a1"
+    repoEtag: W/"227a0e5814afd10f6a22b30b56368addbd27b19c55eff5b8d75b3e5729a23bd4"
+    releasesEtag: W/"4f56f3a7c60146d0d30c649e9913f090f8a673ba95e0631103417f33d8f10fe5"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

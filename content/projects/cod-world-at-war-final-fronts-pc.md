@@ -29,7 +29,7 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-28T00:44:51Z'
+  lastCommit: '2026-10-30T00:42:23Z'
 latestRelease:
   tag: v0.1.1
   name: 'Call of Duty: World at War - Final Fronts PC — v0.1.1 source snapshot'
@@ -38,12 +38,12 @@ latestRelease:
     https://github.com/batatinhafcbatatinha-pixel/cod-world-at-war-final-fronts-pc/releases/tag/v0.1.1
 activity:
   lastChecked: '2026-10-27T00:05:09.259Z'
-  lastSynchronized: '2026-10-29T00:57:19.538Z'
+  lastSynchronized: '2026-10-30T00:59:49.358Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a5aa503a94cdd01512dd1992f03dd380cc5c8817c40dc481ad3c5dfbda30ddc3"
-    releasesEtag: W/"ea3f2d380d38a2e313603c33db21fcee67da38e5c242a00188097c2e5d2ed60e"
+    repoEtag: W/"26e0b0e21fc2e39c89dd4bab8113f90696eb9a258880ce6a743f6054a3a0a07b"
+    releasesEtag: W/"6538b7030f986db457906591900fd2d6457e8fa031977264c876297428ceafde"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

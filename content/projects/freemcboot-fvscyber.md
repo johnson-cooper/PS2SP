@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-29T00:57:27.109Z'
+  lastSynchronized: '2026-10-30T00:59:56.367Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"825f7b40b099ee1d8b0569f17c602f616d7a50ae2f7231936e2eed7b6fe656a9"
-    releasesEtag: '"ed883635daf9e1a915725ab8be081a3ea70614a4faeaca680146a5aa9133984d"'
+    repoEtag: W/"27ad3a59160ac7e580370cc5e7d0290a455246b0c20497432eb3c48c49243c5e"
+    releasesEtag: '"80399694c75a8c644d0249a64c161ba58684a2b10dc101339d615790d812c8b6"'
 discovery:
   method: 'fork-network:TnA-Plastic/FreeMcBoot'
   confidence: 95

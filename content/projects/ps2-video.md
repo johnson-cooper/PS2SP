@@ -22,16 +22,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-29T15:26:00Z'
+  lastCommit: '2026-10-30T00:39:47Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-29T17:05:16.992Z'
+  lastSynchronized: '2026-10-30T01:01:01.697Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0e49d658727176cacf283a0a0c8c907129add3519b238b0040db900b56aba59f"
+    releasesEtag: '"80399694c75a8c644d0249a64c161ba58684a2b10dc101339d615790d812c8b6"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95
@@ -43,5 +46,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

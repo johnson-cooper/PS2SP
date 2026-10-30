@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2026-01-05T21:21:49Z'
   url: 'https://github.com/ps2devnoob/AthenaEnv/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-29T00:57:11.470Z'
+  lastSynchronized: '2026-10-30T00:59:41.316Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"31d1b447a215856d680a3d338a9e0c60097f343b396182b3f2d590333a8041f4"
-    releasesEtag: W/"90ff82a66d4ac6506f0fb0ff1ef91017696e457bd4466df41bc866daefc19794"
+    repoEtag: W/"d4ab5862d99b2f921077e50abe879a1cd84ed4496f7315c5364cbcba9e58501c"
+    releasesEtag: W/"e535b759f662251b359ff4f67e6caa7940a5c1a6d74f87e8188d02e5444de8e0"
 discovery:
   method: 'fork-network:DanielSant0s/AthenaEnv'
   confidence: 100

@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-29T00:58:06.674Z'
+  lastSynchronized: '2026-10-30T01:00:34.924Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9859bec588bc51cbd25d2700a05bcb4739cdca546df1c30953b865b88569c449"
-    releasesEtag: '"ed883635daf9e1a915725ab8be081a3ea70614a4faeaca680146a5aa9133984d"'
+    repoEtag: W/"a44a4dcac816d2188859db086529cf29b5341fec68f7cc3c392576ff9d17a0e2"
+    releasesEtag: '"80399694c75a8c644d0249a64c161ba58684a2b10dc101339d615790d812c8b6"'
 discovery:
   method: 'fork-network:ps2homebrew/OSD-Initialization-Libraries'
   confidence: 95

@@ -20,17 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-29T10:00:54Z'
+  lastCommit: '2026-10-30T00:21:38Z'
 latestRelease:
-  tag: ps2-ps2_port_revamp-8
-  name: 'PS2 build #8 (ps2_port_revamp, 96e7f3d)'
-  publishedAt: '2026-10-29T09:35:18Z'
-  url: >-
-    https://github.com/squishylemon/ClassiCube-RetroConsoleEdition/releases/tag/ps2-ps2_port_revamp-8
+  tag: null
+  name: null
+  publishedAt: null
+  url: null
 activity:
-  lastSynchronized: '2026-10-29T10:25:26.926Z'
+  lastSynchronized: '2026-10-30T00:59:48.876Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"77a0fc9c53137cc01fa1083520ae1157ee9814fe4137de1ce24b2b8a665a4034"
+    releasesEtag: '"80399694c75a8c644d0249a64c161ba58684a2b10dc101339d615790d812c8b6"'
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
@@ -49,5 +51,4 @@ relationships:
   forkOf: ClassiCube/ClassiCube
   source: ClassiCube/ClassiCube
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
