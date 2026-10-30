@@ -50288,6 +50288,84 @@
         ]
       },
       {
+        "name": "fjtrujy/ps2toolchain-ee — branch: fix_windows",
+        "url": "https://github.com/fjtrujy/ps2toolchain-ee/tree/fix_windows",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fjtrujy/ps2toolchain-ee",
+          "fix_windows"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2toolchain-ee — branch: foo_standards",
+        "url": "https://github.com/fjtrujy/ps2toolchain-ee/tree/foo_standards",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fjtrujy/ps2toolchain-ee",
+          "foo_standards"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2toolchain-ee — branch: gcc15_1",
+        "url": "https://github.com/fjtrujy/ps2toolchain-ee/tree/gcc15_1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fjtrujy/ps2toolchain-ee",
+          "gcc15_1"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/fjtrujy/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fjtrujy/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2toolchain-iop — branch: fix_windows_compilation",
+        "url": "https://github.com/fjtrujy/ps2toolchain-iop/tree/fix_windows_compilation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fjtrujy/ps2toolchain-iop",
+          "fix_windows_compilation"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/fjtrujy/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fjtrujy/ps2toolchain-iop",
+          "main"
+        ]
+      },
+      {
         "name": "FKV587/libsmb2 — branch: appstore",
         "url": "https://github.com/FKV587/libsmb2/tree/appstore",
         "keywords": [
@@ -51650,6 +51728,58 @@
           "repository",
           "fox015/ps2sdk-ports",
           "master"
+        ]
+      },
+      {
+        "name": "fox015/ps2toolchain — branch: master",
+        "url": "https://github.com/fox015/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fox015/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "fox015/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/fox015/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fox015/ps2toolchain-dvp",
+          "main"
+        ]
+      },
+      {
+        "name": "fox015/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/fox015/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fox015/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "fox015/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/fox015/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fox015/ps2toolchain-iop",
+          "main"
         ]
       },
       {
@@ -57048,6 +57178,19 @@
         ]
       },
       {
+        "name": "GustavoFurtad2/ps2toolchain — branch: master",
+        "url": "https://github.com/GustavoFurtad2/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "GustavoFurtad2/ps2toolchain",
+          "master"
+        ]
+      },
+      {
         "name": "h1aji/PMAP — branch: master",
         "url": "https://github.com/h1aji/PMAP/tree/master",
         "keywords": [
@@ -57110,6 +57253,19 @@
           "repository",
           "h4570/ps2gl",
           "master"
+        ]
+      },
+      {
+        "name": "h4570/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/h4570/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "h4570/ps2toolchain-dvp",
+          "main"
         ]
       },
       {
@@ -60373,6 +60529,32 @@
           "repository",
           "INDRAPhilip/Open-PS2-Loader-Compatibility-list",
           "patch-9"
+        ]
+      },
+      {
+        "name": "INDRAPhilip/ps2toolchain — branch: master",
+        "url": "https://github.com/INDRAPhilip/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "INDRAPhilip/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "INDRAPhilip/ps2toolchain — branch: v1.y",
+        "url": "https://github.com/INDRAPhilip/ps2toolchain/tree/v1.y",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "INDRAPhilip/ps2toolchain",
+          "v1.y"
         ]
       },
       {
@@ -66106,6 +66288,123 @@
           "repository",
           "israpps/ps2sdk-ports",
           "v1.0-arcade"
+        ]
+      },
+      {
+        "name": "israpps/ps2toolchain — branch: master",
+        "url": "https://github.com/israpps/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "israpps/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "israpps/ps2toolchain — branch: patch-1",
+        "url": "https://github.com/israpps/ps2toolchain/tree/patch-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "israpps/ps2toolchain",
+          "patch-1"
+        ]
+      },
+      {
+        "name": "israpps/ps2toolchain — branch: v1.y",
+        "url": "https://github.com/israpps/ps2toolchain/tree/v1.y",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "israpps/ps2toolchain",
+          "v1.y"
+        ]
+      },
+      {
+        "name": "israpps/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/israpps/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "israpps/ps2toolchain-dvp",
+          "main"
+        ]
+      },
+      {
+        "name": "israpps/ps2toolchain-dvp — branch: patch-1",
+        "url": "https://github.com/israpps/ps2toolchain-dvp/tree/patch-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "israpps/ps2toolchain-dvp",
+          "patch-1"
+        ]
+      },
+      {
+        "name": "israpps/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/israpps/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "israpps/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "israpps/ps2toolchain-ee — branch: patch-1",
+        "url": "https://github.com/israpps/ps2toolchain-ee/tree/patch-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "israpps/ps2toolchain-ee",
+          "patch-1"
+        ]
+      },
+      {
+        "name": "israpps/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/israpps/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "israpps/ps2toolchain-iop",
+          "main"
+        ]
+      },
+      {
+        "name": "israpps/ps2toolchain-iop — branch: patch-1",
+        "url": "https://github.com/israpps/ps2toolchain-iop/tree/patch-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "israpps/ps2toolchain-iop",
+          "patch-1"
         ]
       },
       {
@@ -73584,6 +73883,58 @@
         ]
       },
       {
+        "name": "Jay-Jay-OPL/ps2stuff — branch: master",
+        "url": "https://github.com/Jay-Jay-OPL/ps2stuff/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Jay-Jay-OPL/ps2stuff",
+          "master"
+        ]
+      },
+      {
+        "name": "Jay-Jay-OPL/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/Jay-Jay-OPL/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Jay-Jay-OPL/ps2toolchain-dvp",
+          "main"
+        ]
+      },
+      {
+        "name": "Jay-Jay-OPL/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/Jay-Jay-OPL/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Jay-Jay-OPL/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "Jay-Jay-OPL/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/Jay-Jay-OPL/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Jay-Jay-OPL/ps2toolchain-iop",
+          "main"
+        ]
+      },
+      {
         "name": "JayEchols/PS2-OPL-CFG — branch: master",
         "url": "https://github.com/JayEchols/PS2-OPL-CFG/tree/master",
         "keywords": [
@@ -73840,6 +74191,19 @@
           "branch",
           "repository",
           "jcmoore1977/ps2sdk-ports",
+          "master"
+        ]
+      },
+      {
+        "name": "jcmoore1977/ps2toolchain — branch: master",
+        "url": "https://github.com/jcmoore1977/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "jcmoore1977/ps2toolchain",
           "master"
         ]
       },
@@ -1065091,6 +1065455,36 @@
           "Jay-Jay-OPL/ps2sdk-ports",
           "master",
           "sdlttf"
+        ]
+      },
+      {
+        "name": "Jay-Jay-OPL/ps2stuff@master — tools",
+        "url": "https://github.com/Jay-Jay-OPL/ps2stuff/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Jay-Jay-OPL/ps2stuff",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "Jay-Jay-OPL/ps2stuff@master — tools/vu_reg_manager",
+        "url": "https://github.com/Jay-Jay-OPL/ps2stuff/tree/master/tools/vu_reg_manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Jay-Jay-OPL/ps2stuff",
+          "master",
+          "tools/vu_reg_manager"
         ]
       },
       {
