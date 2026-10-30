@@ -1,0 +1,21 @@
+{
+  "repository": "Omkar-Patil-01/Awesome-REA",
+  "repositoryId": "1424358587",
+  "url": "https://github.com/Omkar-Patil-01/Awesome-REA",
+  "description": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
+  "score": 75,
+  "evidence": [
+    "README explicitly mentions PlayStation 2",
+    "README contains PS2 development/toolchain evidence",
+    "GitHub fork of another repository"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": {
+    "parent": "reacher-z/Awesome-REA",
+    "source": "reacher-z/Awesome-REA",
+    "aheadBy": null
+  },
+  "discoveredAt": "2026-10-30T16:14:43.736Z",
+  "checkedAt": "2026-10-30T16:14:43.736Z"
+}

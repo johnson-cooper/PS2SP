@@ -1,0 +1,16 @@
+{
+  "repository": "Korvonordico/shadow-of-rome-recompiled",
+  "repositoryId": "1439719759",
+  "url": "https://github.com/Korvonordico/shadow-of-rome-recompiled",
+  "description": "Shadow of Rome (PS2) native PC port via static recompilation. Experimental: boots to the main menu. Long-term project, not playable yet.",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-10-30T16:14:43.736Z",
+  "checkedAt": "2026-10-30T16:14:43.736Z"
+}
