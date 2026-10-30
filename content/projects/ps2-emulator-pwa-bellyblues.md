@@ -20,16 +20,19 @@ repository:
   defaultBranch: wasm
   stars: 0
   forks: 0
-  lastCommit: '2026-10-29T20:21:40Z'
+  lastCommit: '2026-10-29T22:16:32Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-29T22:00:32.843Z'
+  lastSynchronized: '2026-10-30T23:48:24.555Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"36174d818ef46ed55dac607ccb4b14d9df1246716603813c334d09d6e17366a2"
+    releasesEtag: '"cbffa8c2ee1a1f6b3cf75e78213d91cd233adb139b0afa116aa74a77efb70eb9"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: TabStationToo/TabStationToo
   source: TabStationToo/TabStationToo
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

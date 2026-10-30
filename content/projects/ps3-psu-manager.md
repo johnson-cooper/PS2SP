@@ -23,20 +23,20 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-10-24T08:25:24Z'
+  lastCommit: '2026-10-29T01:52:35Z'
 latestRelease:
-  tag: dev-v1.63-build.211.1
-  name: PS3 PSU Manager dev-v1.63-build.211.1
-  publishedAt: '2026-10-24T08:25:21Z'
+  tag: dev-v1.63-build.220.1
+  name: PS3 PSU Manager dev-v1.63-build.220.1
+  publishedAt: '2026-10-29T01:52:32Z'
   url: >-
-    https://github.com/khant735/PS3-PSU-Manager/releases/tag/dev-v1.63-build.211.1
+    https://github.com/khant735/PS3-PSU-Manager/releases/tag/dev-v1.63-build.220.1
 activity:
-  lastSynchronized: '2026-10-26T23:55:25.553Z'
+  lastSynchronized: '2026-10-30T23:48:49.838Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"dbe95b6daa7552c5fd652a3015d0f7b9e6ead136d9998e950e53a5e11d9f6498"
-    releasesEtag: W/"2f9ec0c74654f12fba3b758c5bf812ba00ea02eaf7ea675a95f6f224d5de83f0"
+    repoEtag: W/"3ebdb4620b7d8392bd3216b5a659778591acd45a25ae27d6068a669b0c378b9c"
+    releasesEtag: W/"9e8609ec6ca01b5185cc8564b21afa8ba5aa15e18d3a16971419af169938f505"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

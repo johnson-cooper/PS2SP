@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/code-monad/NetherSX2-network-patched/releases/tag/v2.2n-4248-mhsrv.1
 activity:
-  lastSynchronized: '2026-10-26T23:54:20.539Z'
+  lastSynchronized: '2026-10-30T23:47:45.498Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ee6cf1c49974abc23e50ae84e328624210b3d59902f693d1dfe752f2d4913936"
-    releasesEtag: W/"165f699e2c1794f1a5d0f191d817e7326c2f337cbd168c223971a2481f9c2cae"
+    repoEtag: W/"f4f37feb78a7e85a846575d4afe804dc9018905b9ed709229e33c8c9b2c6fa33"
+    releasesEtag: W/"857b70ec442e61f61adabdb0494449677b104d5748fda5fb0a1b76ca316e762d"
 discovery:
   method: 'fork-network:Trixarian/NetherSX2-patch'
   confidence: 95

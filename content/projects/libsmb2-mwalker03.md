@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T23:54:16.862Z'
+  lastSynchronized: '2026-10-30T23:47:42.286Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6f7d929751b168439e279a662308ff2fb11e9deadb7dc12131c8ae956ff1c9e6"
-    releasesEtag: '"504ca22ff8123bd7805f73d3c3e9e41aa43de67ba6ae4002821d1e6a9f7aa914"'
+    repoEtag: W/"72e78e4415d3a9220b6e911dc2af1bcf8a90ccb7918fec3f5d99f49bb3d62b44"
+    releasesEtag: '"cbffa8c2ee1a1f6b3cf75e78213d91cd233adb139b0afa116aa74a77efb70eb9"'
 discovery:
   method: 'fork-network:sahlberg/libsmb2'
   confidence: 95

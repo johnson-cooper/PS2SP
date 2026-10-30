@@ -23,10 +23,10 @@ source:
   url: 'https://github.com/VinnenS/ChronicleTwo'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-30T14:56:43Z'
 latestRelease:
   tag: null
   name: null
@@ -34,8 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-30T16:14:43.736Z'
+  lastSynchronized: '2026-10-30T23:47:10.798Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c03cf144be7df0f44ce01dbf332644786c108e48ba08877a603b3377753d8631"
+    releasesEtag: '"cbffa8c2ee1a1f6b3cf75e78213d91cd233adb139b0afa116aa74a77efb70eb9"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85
@@ -51,5 +55,4 @@ relationships:
   forkOf: TheMoonPeople/ChronicleTwo
   source: TheMoonPeople/ChronicleTwo
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.
