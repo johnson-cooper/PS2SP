@@ -14226,6 +14226,32 @@
         ]
       },
       {
+        "name": "AKuHAK/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/AKuHAK/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2toolchain-iop",
+          "main"
+        ]
+      },
+      {
+        "name": "AKuHAK/ps2toolchain-iop — branch: patch-1",
+        "url": "https://github.com/AKuHAK/ps2toolchain-iop/tree/patch-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AKuHAK/ps2toolchain-iop",
+          "patch-1"
+        ]
+      },
+      {
         "name": "AKuHAK/YADE — branch: 3.00j",
         "url": "https://github.com/AKuHAK/YADE/tree/3.00j",
         "keywords": [
@@ -20242,6 +20268,84 @@
           "repository",
           "blowfish64/ps2-packer",
           "remove-ucl"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2toolchain — branch: deckard",
+        "url": "https://github.com/blowfish64/ps2toolchain/tree/deckard",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "blowfish64/ps2toolchain",
+          "deckard"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2toolchain — branch: ee-parameters",
+        "url": "https://github.com/blowfish64/ps2toolchain/tree/ee-parameters",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "blowfish64/ps2toolchain",
+          "ee-parameters"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2toolchain — branch: for-ps2dev",
+        "url": "https://github.com/blowfish64/ps2toolchain/tree/for-ps2dev",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "blowfish64/ps2toolchain",
+          "for-ps2dev"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2toolchain — branch: master",
+        "url": "https://github.com/blowfish64/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "blowfish64/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2toolchain — branch: move-libc-to-newlib",
+        "url": "https://github.com/blowfish64/ps2toolchain/tree/move-libc-to-newlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "blowfish64/ps2toolchain",
+          "move-libc-to-newlib"
+        ]
+      },
+      {
+        "name": "blowfish64/ps2toolchain — branch: move-to-newlib",
+        "url": "https://github.com/blowfish64/ps2toolchain/tree/move-to-newlib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "blowfish64/ps2toolchain",
+          "move-to-newlib"
         ]
       },
       {
@@ -28678,6 +28782,32 @@
           "branch",
           "repository",
           "danielt3/opentuna-RLE",
+          "main"
+        ]
+      },
+      {
+        "name": "danielt3/ps2toolchain-dvp — branch: feature/add-support-for-mingw-w64",
+        "url": "https://github.com/danielt3/ps2toolchain-dvp/tree/feature/add-support-for-mingw-w64",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "danielt3/ps2toolchain-dvp",
+          "feature/add-support-for-mingw-w64"
+        ]
+      },
+      {
+        "name": "danielt3/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/danielt3/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "danielt3/ps2toolchain-dvp",
           "main"
         ]
       },
@@ -41838,6 +41968,84 @@
         ]
       },
       {
+        "name": "doctorspider42/tyrax-toolchain-ps2toolchain — branch: master",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "doctorspider42/tyrax-toolchain-ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-ps2toolchain — branch: v1.y",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-ps2toolchain/tree/v1.y",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "doctorspider42/tyrax-toolchain-ps2toolchain",
+          "v1.y"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "doctorspider42/tyrax-toolchain-ps2toolchain-dvp",
+          "main"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-ps2toolchain-ee — branch: main",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "doctorspider42/tyrax-toolchain-ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-ps2toolchain-iop — branch: main",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "doctorspider42/tyrax-toolchain-ps2toolchain-iop",
+          "main"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-ps2toolchain-iop — branch: upgrade-official-mainstream-repos",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-ps2toolchain-iop/tree/upgrade-official-mainstream-repos",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "doctorspider42/tyrax-toolchain-ps2toolchain-iop",
+          "upgrade-official-mainstream-repos"
+        ]
+      },
+      {
         "name": "doctorspider42/tyrax-vendor-ps2sdk — branch: gh-pages",
         "url": "https://github.com/doctorspider42/tyrax-vendor-ps2sdk/tree/gh-pages",
         "keywords": [
@@ -42497,6 +42705,19 @@
           "branch",
           "repository",
           "DucRP/pfsshell",
+          "master"
+        ]
+      },
+      {
+        "name": "DucRP/ps2toolchain — branch: master",
+        "url": "https://github.com/DucRP/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "DucRP/ps2toolchain",
           "master"
         ]
       },
@@ -45673,6 +45894,58 @@
         ]
       },
       {
+        "name": "Duy-Thanh/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/Duy-Thanh/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Duy-Thanh/ps2toolchain-dvp",
+          "main"
+        ]
+      },
+      {
+        "name": "Duy-Thanh/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/Duy-Thanh/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Duy-Thanh/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "Duy-Thanh/ps2toolchain-ee — branch: revert-15-main",
+        "url": "https://github.com/Duy-Thanh/ps2toolchain-ee/tree/revert-15-main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Duy-Thanh/ps2toolchain-ee",
+          "revert-15-main"
+        ]
+      },
+      {
+        "name": "Duy-Thanh/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/Duy-Thanh/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Duy-Thanh/ps2toolchain-iop",
+          "main"
+        ]
+      },
+      {
         "name": "dverbeeck/PlayStation2-PFS-BatchKit-Manager — branch: main",
         "url": "https://github.com/dverbeeck/PlayStation2-PFS-BatchKit-Manager/tree/main",
         "keywords": [
@@ -45682,6 +45955,32 @@
           "branch",
           "repository",
           "dverbeeck/PlayStation2-PFS-BatchKit-Manager",
+          "main"
+        ]
+      },
+      {
+        "name": "e820/ps2toolchain — branch: master",
+        "url": "https://github.com/e820/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "e820/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "e820/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/e820/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "e820/ps2toolchain-ee",
           "main"
         ]
       },
@@ -48286,6 +48585,71 @@
         ]
       },
       {
+        "name": "F0bes/ps2stuff — branch: gif-ctrl-reg",
+        "url": "https://github.com/F0bes/ps2stuff/tree/gif-ctrl-reg",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "F0bes/ps2stuff",
+          "gif-ctrl-reg"
+        ]
+      },
+      {
+        "name": "F0bes/ps2stuff — branch: master",
+        "url": "https://github.com/F0bes/ps2stuff/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "F0bes/ps2stuff",
+          "master"
+        ]
+      },
+      {
+        "name": "F0bes/ps2toolchain — branch: master",
+        "url": "https://github.com/F0bes/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "F0bes/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "F0bes/ps2toolchain — branch: msys2-pkg",
+        "url": "https://github.com/F0bes/ps2toolchain/tree/msys2-pkg",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "F0bes/ps2toolchain",
+          "msys2-pkg"
+        ]
+      },
+      {
+        "name": "F0bes/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/F0bes/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "F0bes/ps2toolchain-iop",
+          "main"
+        ]
+      },
+      {
         "name": "facybenbook/PlayStation2-Basic-BootLoader — branch: main",
         "url": "https://github.com/facybenbook/PlayStation2-Basic-BootLoader/tree/main",
         "keywords": [
@@ -49882,6 +50246,45 @@
           "repository",
           "fjtrujy/ps2sdk-ports",
           "master"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2stuff — branch: improve_types",
+        "url": "https://github.com/fjtrujy/ps2stuff/tree/improve_types",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fjtrujy/ps2stuff",
+          "improve_types"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2stuff — branch: master",
+        "url": "https://github.com/fjtrujy/ps2stuff/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fjtrujy/ps2stuff",
+          "master"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/fjtrujy/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fjtrujy/ps2toolchain-dvp",
+          "main"
         ]
       },
       {
@@ -809887,6 +810290,66 @@
         ]
       },
       {
+        "name": "F0bes/ps2stuff@gif-ctrl-reg — tools",
+        "url": "https://github.com/F0bes/ps2stuff/tree/gif-ctrl-reg/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "F0bes/ps2stuff",
+          "gif-ctrl-reg",
+          "tools"
+        ]
+      },
+      {
+        "name": "F0bes/ps2stuff@gif-ctrl-reg — tools/vu_reg_manager",
+        "url": "https://github.com/F0bes/ps2stuff/tree/gif-ctrl-reg/tools/vu_reg_manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "F0bes/ps2stuff",
+          "gif-ctrl-reg",
+          "tools/vu_reg_manager"
+        ]
+      },
+      {
+        "name": "F0bes/ps2stuff@master — tools",
+        "url": "https://github.com/F0bes/ps2stuff/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "F0bes/ps2stuff",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "F0bes/ps2stuff@master — tools/vu_reg_manager",
+        "url": "https://github.com/F0bes/ps2stuff/tree/master/tools/vu_reg_manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "F0bes/ps2stuff",
+          "master",
+          "tools/vu_reg_manager"
+        ]
+      },
+      {
         "name": "facybenbook/PlayStation2-Basic-BootLoader@main — embed",
         "url": "https://github.com/facybenbook/PlayStation2-Basic-BootLoader/tree/main/embed",
         "keywords": [
@@ -827916,6 +828379,66 @@
           "fjtrujy/ps2sdk-ports",
           "master",
           "unzip"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2stuff@improve_types — tools",
+        "url": "https://github.com/fjtrujy/ps2stuff/tree/improve_types/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2stuff",
+          "improve_types",
+          "tools"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2stuff@improve_types — tools/vu_reg_manager",
+        "url": "https://github.com/fjtrujy/ps2stuff/tree/improve_types/tools/vu_reg_manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2stuff",
+          "improve_types",
+          "tools/vu_reg_manager"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2stuff@master — tools",
+        "url": "https://github.com/fjtrujy/ps2stuff/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2stuff",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2stuff@master — tools/vu_reg_manager",
+        "url": "https://github.com/fjtrujy/ps2stuff/tree/master/tools/vu_reg_manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2stuff",
+          "master",
+          "tools/vu_reg_manager"
         ]
       },
       {
