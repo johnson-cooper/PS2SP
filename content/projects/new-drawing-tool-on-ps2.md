@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-10-17T21:51:33Z'
   url: 'https://github.com/medoisnotcool/Ps2_Paint/releases/tag/Ps2'
 activity:
-  lastSynchronized: '2026-10-29T07:06:30.702Z'
+  lastSynchronized: '2026-10-30T07:07:25.523Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8d3808c802633cfcd2d68b1235b4409a2e716f8e55af529b47f4b19ad8c33813"
-    releasesEtag: W/"d3947b4c7dadb3beaa2d7e8a2d4023f23d032c3b61684474023fe488e74d3869"
+    repoEtag: W/"07855b77c63c94ec3433cdac2e50162247abc1c7182c3d5264f8c0c2f84e663a"
+    releasesEtag: W/"251f0a8945610939bfe07ba275c491df131369207af58be195f1c0543b8a1c08"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

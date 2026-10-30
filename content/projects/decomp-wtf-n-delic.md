@@ -26,20 +26,20 @@ repository:
   defaultBranch: main
   stars: 197
   forks: 36
-  lastCommit: '2026-10-29T00:38:23Z'
+  lastCommit: '2026-10-30T00:01:06Z'
 latestRelease:
-  tag: v1.0.7-alpha.1
-  name: v1.0.7-alpha.1
-  publishedAt: '2026-10-25T16:06:01Z'
-  url: 'https://github.com/n-delic/decompdecomp/releases/tag/v1.0.7-alpha.1'
+  tag: v1.0.7-alpha.2
+  name: v1.0.7-alpha.2
+  publishedAt: '2026-10-29T18:35:41Z'
+  url: 'https://github.com/n-delic/decompdecomp/releases/tag/v1.0.7-alpha.2'
 activity:
   lastChecked: '2026-10-15T23:18:28.396Z'
-  lastSynchronized: '2026-10-29T07:05:57.529Z'
+  lastSynchronized: '2026-10-30T07:06:55.153Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"70b0c2054bbb14570530b2b424949fa20999b94fe90fb64a6cf84b504b8aeae7"
-    releasesEtag: W/"393935e30ccd1e36a7b82187f24345aa92d9aee1bdf8dd139b64235fe3410227"
+    repoEtag: W/"0422199ef568f2bb5a82fb257c2ab9cd4d7959493d13a7d89719f54a6fa6208a"
+    releasesEtag: W/"05affe588e6850fbc85ad1965af9a8dcdab8b44c224a97eb2cee3cf8a4dbb25d"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

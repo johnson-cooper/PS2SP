@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/HamzaElgabry/PS2-emulator-texture-convertor--to-work-on-nethersx2/releases/tag/v1.0.0
 activity:
-  lastSynchronized: '2026-10-29T07:07:05.518Z'
+  lastSynchronized: '2026-10-30T07:07:57.796Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"59ce63b83a9e58bf4ed37c63438b2d5f35981ddbd0380ef5e67f2b26c9c8ae7b"
-    releasesEtag: W/"50bff528458b12c56f2e679c5422bcedd02d7cd978a6506525322876d06315fa"
+    repoEtag: W/"a8057da4610530f3641749d02a314687ae2bd4feeb489fbebe831ef29a1d2f26"
+    releasesEtag: W/"1abca6e61fd3fd33b129a8e1bf1730be45ff82d96fc80bb107e83ec647ddb6ab"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

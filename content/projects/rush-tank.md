@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/coregiu/rush-tank/releases/tag/v3.0-finish-all-integrate'
 activity:
   lastChecked: '2026-10-26T14:34:04.716Z'
-  lastSynchronized: '2026-10-29T07:07:40.324Z'
+  lastSynchronized: '2026-10-30T07:08:29.618Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bbb83224725ec33d97e76f588b796dc2dd3d6e3e376e60fa129eb511757514f3"
-    releasesEtag: W/"91641c1ff90f5c4972bd1ca1ef4ce9aacb0c1e33e7c899fab3c58c20a553c949"
+    repoEtag: W/"66a5e6a1f4e7073704376f8616bb338e66ae4f83781bdceef776e1d86e9b3124"
+    releasesEtag: W/"0e08ba280a6bc4be39170ec88fdfd16c219d3c08ea07a16b319e10e4e61175ce"
 discovery:
   method: 'pending-promotion:incremental:topic:ps2'
   confidence: 80
