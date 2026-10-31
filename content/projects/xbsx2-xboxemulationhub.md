@@ -18,7 +18,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 119
+  stars: 129
   forks: 21
   lastCommit: '2026-10-20T15:04:44Z'
 latestRelease:
@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-10-20T15:04:47Z'
   url: 'https://github.com/XboxEmulationHub/XBSX2/releases/tag/v2.0.9.2'
 activity:
-  lastSynchronized: '2026-10-20T15:22:35.905Z'
+  lastSynchronized: '2026-10-31T12:31:35.883Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"543dc2c6fceed54baa648788bbd176a291e948dc6edd3b85fa2aad46ff2cb33d"
+    releasesEtag: W/"604e508e194883c4959bb8c48f43bb3387f9354eea31ac408907d774249de259"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

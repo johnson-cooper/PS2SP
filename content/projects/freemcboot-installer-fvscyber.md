@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2024-10-01T15:08:03Z'
   url: 'https://github.com/FVSCyber/FreeMcBoot-Installer/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-16T12:25:24.209Z'
+  lastSynchronized: '2026-10-31T12:29:58.230Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"57c82436c81e8ee995f99be9a83374e4f05db1ee79da0e9108c5fdd37e6d8ccf"
-    releasesEtag: W/"27e2cf7df6e7ed1927cd99806985cbbd7a4e1aaca0f434de8453679d889235c8"
+    repoEtag: W/"616c9269fe5f599e6cf5f95f761bb225f39bcea1d9b302cc71cb38d57230eb19"
+    releasesEtag: W/"1bf6fdd06a0108784f296aad0d51f7e524a9f92fa0f163c5150d396e269efdae"
 discovery:
   method: 'fork-network:israpps/FreeMcBoot-Installer'
   confidence: 95

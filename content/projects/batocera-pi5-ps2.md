@@ -19,18 +19,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 2
   forks: 0
-  lastCommit: '2026-10-18T02:33:09Z'
+  lastCommit: '2026-10-19T12:18:25Z'
 latestRelease:
-  tag: v1.0.2
-  name: Crater PS2 Kit 1.0.2 (ARMSX2 nightly 20261011)
-  publishedAt: '2026-10-18T02:33:09Z'
-  url: 'https://github.com/damagedarchitect/batocera-pi5-ps2/releases/tag/v1.0.2'
+  tag: v1.0.4
+  name: Crater PS2 Kit 1.0.4 (ARMSX2 nightly 20261011)
+  publishedAt: '2026-10-19T12:18:25Z'
+  url: 'https://github.com/damagedarchitect/batocera-pi5-ps2/releases/tag/v1.0.4'
 activity:
-  lastSynchronized: '2026-10-18T06:36:07.983Z'
+  lastSynchronized: '2026-10-31T12:29:41.565Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ee12852561328957a19eebac751653e90bb0aa603ff5bfb4a8f33d30da3447e1"
+    releasesEtag: W/"8b52b6d6c31c89afe089cea8e9812b8d4c7a09fc39b542d77c00c396e62a4903"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

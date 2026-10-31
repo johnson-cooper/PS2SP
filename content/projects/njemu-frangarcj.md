@@ -22,16 +22,19 @@ repository:
   defaultBranch: master
   stars: 1
   forks: 0
-  lastCommit: '2026-09-28T20:33:59Z'
+  lastCommit: '2026-10-25T15:38:13Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-21T00:58:06.538Z'
+  lastSynchronized: '2026-10-31T12:30:17.965Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7cf82d73c0c398465106e208090a9f97aba7b249637f98be65302afea765f78a"
+    releasesEtag: '"964dfedc1caef83c4b1aa8bad46befef72289bce806c22a16cc8fead3d29c6dc"'
 discovery:
   method: 'fork-network:fjtrujy/NJEMU'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: fjtrujy/NJEMU
   source: phoe-nix/NJEMU
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

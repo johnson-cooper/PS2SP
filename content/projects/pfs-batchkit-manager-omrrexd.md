@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-16T12:26:00.704Z'
+  lastSynchronized: '2026-10-31T12:30:40.756Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8f7eaf9c96ac23ce37138ee226d47b06db65b909ac2da5b946c425b582d5ed25"
-    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
+    repoEtag: W/"df73348664012b5e769527ef2674dc1ab8bcae0cfbeaae91808c000df874f76e"
+    releasesEtag: '"964dfedc1caef83c4b1aa8bad46befef72289bce806c22a16cc8fead3d29c6dc"'
 discovery:
   method: 'fork-network:GDX-X/PFS-BatchKit-Manager'
   confidence: 95

@@ -16,26 +16,26 @@ license: AGPL-3.0
 homepage: null
 source:
   provider: github
-  repository: zenibako/Butterscotch
+  repository: zenibako/butterscotch-pocket
   repositoryId: '1409094123'
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 2
   forks: 0
-  lastCommit: '2026-10-17T02:47:34Z'
+  lastCommit: '2026-10-29T19:51:21Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.7.8
+  name: v0.7.8
+  publishedAt: '2026-10-28T13:20:25Z'
+  url: 'https://github.com/zenibako/butterscotch-pocket/releases/tag/v0.7.8'
 activity:
-  lastSynchronized: '2026-10-17T05:51:26.186Z'
+  lastSynchronized: '2026-10-31T12:29:45.318Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"15e802bd3c1d122f6617300c5e61e9e5374694b77ddc7390d70ab78d3644b2a5"
-    releasesEtag: '"840d8b22d7db312c6ea7f64c0729d54bdc2329ace0982cd7dfae9d1d30d0d261"'
+    repoEtag: W/"63e032de3048edc684999016c52e93c76f00cf96dcb3f9f8d4cc96137e48a705"
+    releasesEtag: W/"dc57ec62a783d20def26b718a8d8ed33a70e10fdd811624bd212b29bb670b881"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

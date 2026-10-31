@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-25T05:19:15.478Z'
+  lastSynchronized: '2026-10-31T12:30:56.992Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"14616f4e087de9788abf04eaf153a73cc95466304c79da4fffe274494044c61b"
+    releasesEtag: '"964dfedc1caef83c4b1aa8bad46befef72289bce806c22a16cc8fead3d29c6dc"'
 discovery:
   method: 'fork-network:snuri00/ps2-web-recomp'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: snuri00/ps2-web-recomp
   source: snuri00/ps2-web-recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

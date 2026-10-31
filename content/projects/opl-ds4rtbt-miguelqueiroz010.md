@@ -30,16 +30,19 @@ repository:
   defaultBranch: mtap-menu-redesign
   stars: 2
   forks: 0
-  lastCommit: '2026-10-25T00:19:21Z'
+  lastCommit: '2026-10-28T12:49:12Z'
 latestRelease:
   tag: rt-2.8.0
   name: OPL DualSense/DS4 BT rt-2.8.0
   publishedAt: '2026-10-21T23:06:24Z'
   url: 'https://github.com/MiguelQueiroz010/OPL-DS4RTBT/releases/tag/rt-2.8.0'
 activity:
-  lastSynchronized: '2026-10-25T10:09:09.591Z'
+  lastSynchronized: '2026-10-31T12:30:27.775Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"23b373617c2a0144b98c118e21165b49b957f4b743cb4c254d6ed498698cf17c"
+    releasesEtag: W/"861b9258c15d037adce0d983b72c9bf6b09ee013048bd50dd769e78d77818f9c"
 discovery:
   method: 'fork-network:rodrigoGalvanDev/OPL-DualSense-BT'
   confidence: 100
@@ -58,5 +61,4 @@ relationships:
   forkOf: rodrigoGalvanDev/OPL-DualSense-BT
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

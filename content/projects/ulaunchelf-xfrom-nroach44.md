@@ -35,9 +35,12 @@ latestRelease:
   publishedAt: '2023-11-25T05:28:17Z'
   url: 'https://github.com/nroach44/uLaunchELF_XFROM/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-20T19:35:24.428Z'
+  lastSynchronized: '2026-10-31T12:31:32.833Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"03c59ee3a7b553238163cd7df26888719b5495e4538cb5774d759df802519b21"
+    releasesEtag: W/"a5f397c9deff1a5b29d8266496e2b439a269cabebab1afda33144827175ba471"
 discovery:
   method: 'fork-network:xfwcfw/uLaunchELF'
   confidence: 95
@@ -55,5 +58,4 @@ relationships:
   forkOf: xfwcfw/uLaunchELF
   source: ps2homebrew/wLaunchELF
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

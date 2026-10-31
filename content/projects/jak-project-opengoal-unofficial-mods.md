@@ -30,9 +30,12 @@ latestRelease:
   url: >-
     https://github.com/OpenGOAL-Unofficial-Mods/jak-project/releases/tag/0.000000000000000000000000000000004
 activity:
-  lastSynchronized: '2026-10-24T19:00:34.288Z'
+  lastSynchronized: '2026-10-31T12:30:08.403Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1abf249e7670e0e27c6818d5e2307a4e8621e783a19a51d169161cda3c87113e"
+    releasesEtag: W/"e5c7aabc8417533a364377c7162b8234532714619d3a2e347ad46c6efd25bced"
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: open-goal/jak-project
   source: open-goal/jak-project
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

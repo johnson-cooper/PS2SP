@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-18T18:16:42.637Z'
+  lastSynchronized: '2026-10-31T12:31:21.451Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8b4640bb9a09508c5ff85ad2c4f2b321f2714354c0a8ae097a2db2822ebf3044"
+    releasesEtag: '"964dfedc1caef83c4b1aa8bad46befef72289bce806c22a16cc8fead3d29c6dc"'
 discovery:
   method: 'fork-network:libretro/quake2-for-ps2'
   confidence: 100
@@ -53,5 +56,4 @@ relationships:
   forkOf: libretro/quake2-for-ps2
   source: glampert/quake2-ps2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

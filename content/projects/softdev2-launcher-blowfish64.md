@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-16T12:26:43.521Z'
+  lastSynchronized: '2026-10-31T12:31:29.314Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b20a8da0d6878a963ae1126144dbcd0a8f351daca9369e475467f2405c3ab1e2"
-    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
+    repoEtag: W/"31028b1ceb28f38f4702599884d4932ab0933dd9b4cd8223186243e39a1d2ef5"
+    releasesEtag: '"964dfedc1caef83c4b1aa8bad46befef72289bce806c22a16cc8fead3d29c6dc"'
 discovery:
   method: 'fork-network:parrado/SoftDev2'
   confidence: 95

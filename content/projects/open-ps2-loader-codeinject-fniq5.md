@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2024-03-31T17:27:47Z'
   url: 'https://github.com/fniq5/Open-PS2-Loader-CodeInject/releases/tag/ci-1.0.0'
 activity:
-  lastSynchronized: '2026-10-16T12:25:43.640Z'
+  lastSynchronized: '2026-10-31T12:30:20.450Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7abd96765f36dee6932461d0a5140f9802bbf07946b2b3e35edaeea25870942b"
-    releasesEtag: W/"529ab43119fc8138cb6b6a5cd11f5e912ac2970cd0b36c05123dfe28370f2c8f"
+    repoEtag: W/"0eb8627f0c8b3b662a43ac8bb199497ae8ef7eee9d08a4ac10af501771de4dcd"
+    releasesEtag: W/"9fa9ff34bee2bf1edebaf4751c19f7fd40b49ee551bfed251717b25b2199f456"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

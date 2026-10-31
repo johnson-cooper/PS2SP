@@ -14,8 +14,8 @@ tags:
   - fork
 features: []
 authors: []
-license: null
-homepage: null
+license: MIT
+homepage: 'https://decomp.wtf'
 source:
   provider: github
   repository: OMGitsMatt45/decomp.wtf
@@ -23,19 +23,23 @@ source:
   url: 'https://github.com/OMGitsMatt45/decomp.wtf'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 1
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-31T07:58:49Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.20.1
+  name: decomp.wtf v0.20.1
+  publishedAt: '2026-10-30T06:09:48Z'
+  url: 'https://github.com/OMGitsMatt45/decomp.wtf/releases/tag/v0.20.1'
 activity:
   lastChecked: '2026-10-18T01:32:12.259Z'
+  lastSynchronized: '2026-10-31T12:29:49.817Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"eac9a31c0066c1f8fdea613e30b9197d395754b1ef4771e25d060bece8e5688a"
+    releasesEtag: W/"505f222b9b2897982f8cb2c8bb1f0dc5ee78fd7135c0d63cfde3975869f9208d"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75
@@ -51,5 +55,4 @@ relationships:
   forkOf: i12bp8/decomp.wtf
   source: i12bp8/decomp.wtf
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

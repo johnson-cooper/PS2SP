@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 89
+  stars: 90
   forks: 6
   lastCommit: '2026-09-07T00:32:04Z'
 latestRelease:
@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2025-10-04T13:09:15Z'
   url: 'https://github.com/bucanero/psv-save-converter/releases/tag/v1.2.2'
 activity:
-  lastSynchronized: '2026-10-16T12:26:35.376Z'
+  lastSynchronized: '2026-10-31T12:31:19.837Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"105eea6a818e40e7af4f92d2628eecf8149e592dcc1b520af4d08d3e74de4e94"
-    releasesEtag: W/"f093a82560dac4f977c2c37df282c290f637b4df9a6c40ee35fdd01db86ab85f"
+    repoEtag: W/"9d01b8a66075823562d561ec3505e1a811399604fc9fa88801ee2ed723e72762"
+    releasesEtag: W/"3b536cc8bafcad6d600ac2be38aeea9221ffb14d7f97190314caf78090ccfab7"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

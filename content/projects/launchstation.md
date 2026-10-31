@@ -19,21 +19,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 5
-  forks: 0
-  lastCommit: '2026-10-16T10:42:32Z'
+  stars: 12
+  forks: 1
+  lastCommit: '2026-10-31T12:16:40Z'
 latestRelease:
   tag: latest
-  name: Launchstation Rolling — 2026-10-15 (fb014a0)
-  publishedAt: '2026-09-26T22:49:23Z'
+  name: Launchstation Rolling 951 - 2026-10-31 (de11ede)
+  publishedAt: '2026-10-31T11:33:38Z'
   url: 'https://github.com/NathanNeurotic/Launchstation/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-16T12:25:35.751Z'
+  lastSynchronized: '2026-10-31T12:30:10.716Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d7d3f85db18f04a0055f27b040697703d1e3208bb4256d2c73b79f28a93be278"
-    releasesEtag: W/"f37d9ea66962a6ea3266ccd8bcf07413d7590e4112d946b7a17e4ce71bfd28b8"
+    repoEtag: W/"22de20c407b6d310d5ab8252d28201012b78dd19829d97191879f95d85059207"
+    releasesEtag: W/"636c564883f3d337a1398ab7f9cdd9f12d2d66a09b6856f554d3b23254c03e29"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

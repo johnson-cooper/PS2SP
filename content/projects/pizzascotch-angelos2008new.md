@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-16T12:26:03.013Z'
+  lastSynchronized: '2026-10-31T12:30:42.887Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e90f380abb25a9d43bf186e72cd4f9b9b33ccf81e0cec5c339a6f28abdc89beb"
-    releasesEtag: '"745ad2352d1c2f5720beb2bb553763f403af0581e6483860649a95eb8a9126e4"'
+    repoEtag: W/"93146ccbfa563d690f4c45c8194b9c636c25aadf56d77f6e8696d68c74fad88b"
+    releasesEtag: '"964dfedc1caef83c4b1aa8bad46befef72289bce806c22a16cc8fead3d29c6dc"'
 discovery:
   method: 'fork-network:ButterscotchRunner/Butterscotch'
   confidence: 95

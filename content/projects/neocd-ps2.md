@@ -27,12 +27,12 @@ latestRelease:
   url: 'https://github.com/obiot/NeoCD-PS2/releases/tag/0.6c'
 activity:
   lastChecked: '2026-09-29T00:27:36.931Z'
-  lastSynchronized: '2026-10-16T12:25:41.285Z'
+  lastSynchronized: '2026-10-31T12:30:16.299Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"82bd3572e95230ce91b079d7e76f394e85ca33186a294b086b7964cec8517e1c"
-    releasesEtag: W/"34d188dc56cd113ca1981146f75c40452acf5fce600eb4cb0248fcc2e47937d4"
+    repoEtag: W/"2728f29fd5f926977dbe42482f3072da2502e4ce294f97a825d363abb1f776ab"
+    releasesEtag: W/"30470dbf0c35ff36611514d963d547e933017f9501a8987981700a23fd6014b2"
 discovery:
   method: github-search
   confidence: 100
