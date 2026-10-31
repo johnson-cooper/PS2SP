@@ -144694,6 +144694,32 @@
         ]
       },
       {
+        "name": "rickgaiser/ps2toolchain-ee — branch: for-ps2dev",
+        "url": "https://github.com/rickgaiser/ps2toolchain-ee/tree/for-ps2dev",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "rickgaiser/ps2toolchain-ee",
+          "for-ps2dev"
+        ]
+      },
+      {
+        "name": "rickgaiser/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/rickgaiser/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "rickgaiser/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
         "name": "rickgaiser/ps2toolchain-iop — branch: for-ps2dev",
         "url": "https://github.com/rickgaiser/ps2toolchain-iop/tree/for-ps2dev",
         "keywords": [
@@ -151948,6 +151974,19 @@
         ]
       },
       {
+        "name": "secretagentmoof/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/secretagentmoof/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "secretagentmoof/ps2toolchain-dvp",
+          "main"
+        ]
+      },
+      {
         "name": "seekerpanoulis/FreeMcBoot-Installer — branch: circleci-project-setup",
         "url": "https://github.com/seekerpanoulis/FreeMcBoot-Installer/tree/circleci-project-setup",
         "keywords": [
@@ -152143,6 +152182,71 @@
         ]
       },
       {
+        "name": "Serentty/ps2toolchain — branch: libgccjit",
+        "url": "https://github.com/Serentty/ps2toolchain/tree/libgccjit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Serentty/ps2toolchain",
+          "libgccjit"
+        ]
+      },
+      {
+        "name": "Serentty/ps2toolchain — branch: master",
+        "url": "https://github.com/Serentty/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Serentty/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "Serentty/ps2toolchain-ee — branch: libgccjit",
+        "url": "https://github.com/Serentty/ps2toolchain-ee/tree/libgccjit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Serentty/ps2toolchain-ee",
+          "libgccjit"
+        ]
+      },
+      {
+        "name": "Serentty/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/Serentty/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Serentty/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "Serentty/ps2toolchain-ee — branch: self-reference",
+        "url": "https://github.com/Serentty/ps2toolchain-ee/tree/self-reference",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Serentty/ps2toolchain-ee",
+          "self-reference"
+        ]
+      },
+      {
         "name": "sergeykadiyevskiy/HDL-Batch-installer — branch: main",
         "url": "https://github.com/sergeykadiyevskiy/HDL-Batch-installer/tree/main",
         "keywords": [
@@ -152231,6 +152335,58 @@
           "repository",
           "sergiomor1973/ps2sdk-ports",
           "master"
+        ]
+      },
+      {
+        "name": "sergiomor1973/ps2toolchain — branch: master",
+        "url": "https://github.com/sergiomor1973/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "sergiomor1973/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "sergiomor1973/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/sergiomor1973/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "sergiomor1973/ps2toolchain-dvp",
+          "main"
+        ]
+      },
+      {
+        "name": "sergiomor1973/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/sergiomor1973/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "sergiomor1973/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "sergiomor1973/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/sergiomor1973/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "sergiomor1973/ps2toolchain-iop",
+          "main"
         ]
       },
       {
@@ -152660,6 +152816,19 @@
           "repository",
           "shaanhomebrew-cloud/OPL-PS1-AIO-Converter-GUI",
           "main"
+        ]
+      },
+      {
+        "name": "shadergz/ps2toolchain — branch: master",
+        "url": "https://github.com/shadergz/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shadergz/ps2toolchain",
+          "master"
         ]
       },
       {
@@ -162439,6 +162608,45 @@
         ]
       },
       {
+        "name": "SpiceDev/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/SpiceDev/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SpiceDev/ps2toolchain-dvp",
+          "main"
+        ]
+      },
+      {
+        "name": "SpiceDev/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/SpiceDev/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SpiceDev/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "SpiceDev/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/SpiceDev/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SpiceDev/ps2toolchain-iop",
+          "main"
+        ]
+      },
+      {
         "name": "spicybung/pcsx2 — branch: master",
         "url": "https://github.com/spicybung/pcsx2/tree/master",
         "keywords": [
@@ -164519,6 +164727,19 @@
         ]
       },
       {
+        "name": "tallero/ps2toolchain — branch: master",
+        "url": "https://github.com/tallero/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tallero/ps2toolchain",
+          "master"
+        ]
+      },
+      {
         "name": "Tanner716/HDLGameInstaller — branch: main",
         "url": "https://github.com/Tanner716/HDLGameInstaller/tree/main",
         "keywords": [
@@ -165491,6 +165712,58 @@
           "repository",
           "techwritescode/ps2sdk",
           "master"
+        ]
+      },
+      {
+        "name": "techwritescode/ps2toolchain — branch: master",
+        "url": "https://github.com/techwritescode/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "techwritescode/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "techwritescode/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/techwritescode/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "techwritescode/ps2toolchain-dvp",
+          "main"
+        ]
+      },
+      {
+        "name": "techwritescode/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/techwritescode/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "techwritescode/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "techwritescode/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/techwritescode/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "techwritescode/ps2toolchain-iop",
+          "main"
         ]
       },
       {
@@ -171952,6 +172225,162 @@
           "repository",
           "uyjulian/ps2sdk-ports",
           "zlib_samename_fix"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-dvp — branch: buildsystem_improve",
+        "url": "https://github.com/uyjulian/ps2toolchain-dvp/tree/buildsystem_improve",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-dvp",
+          "buildsystem_improve"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-dvp — branch: ci_fix_multi_arch_docker",
+        "url": "https://github.com/uyjulian/ps2toolchain-dvp/tree/ci_fix_multi_arch_docker",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-dvp",
+          "ci_fix_multi_arch_docker"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-dvp — branch: ci_improvements_20250918",
+        "url": "https://github.com/uyjulian/ps2toolchain-dvp/tree/ci_improvements_20250918",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-dvp",
+          "ci_improvements_20250918"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-dvp — branch: ci_improvements_20251010",
+        "url": "https://github.com/uyjulian/ps2toolchain-dvp/tree/ci_improvements_20251010",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-dvp",
+          "ci_improvements_20251010"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-dvp — branch: cleanup1",
+        "url": "https://github.com/uyjulian/ps2toolchain-dvp/tree/cleanup1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-dvp",
+          "cleanup1"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-dvp — branch: del_extra_cmake_modules",
+        "url": "https://github.com/uyjulian/ps2toolchain-dvp/tree/del_extra_cmake_modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-dvp",
+          "del_extra_cmake_modules"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-dvp — branch: docker_test",
+        "url": "https://github.com/uyjulian/ps2toolchain-dvp/tree/docker_test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-dvp",
+          "docker_test"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-dvp — branch: dockerfile_deps_update",
+        "url": "https://github.com/uyjulian/ps2toolchain-dvp/tree/dockerfile_deps_update",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-dvp",
+          "dockerfile_deps_update"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-dvp — branch: dockerfile_deps_update2",
+        "url": "https://github.com/uyjulian/ps2toolchain-dvp/tree/dockerfile_deps_update2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-dvp",
+          "dockerfile_deps_update2"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-dvp — branch: ghcr_upload",
+        "url": "https://github.com/uyjulian/ps2toolchain-dvp/tree/ghcr_upload",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-dvp",
+          "ghcr_upload"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-dvp — branch: improve_docs_20240804",
+        "url": "https://github.com/uyjulian/ps2toolchain-dvp/tree/improve_docs_20240804",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-dvp",
+          "improve_docs_20240804"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/uyjulian/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-dvp",
+          "main"
         ]
       },
       {
