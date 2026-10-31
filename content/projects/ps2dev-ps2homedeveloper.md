@@ -26,19 +26,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-08T21:44:30Z'
+  lastCommit: '2026-10-31T06:52:15Z'
 latestRelease:
-  tag: v1.0.0
-  name: v1.0.0
-  publishedAt: '2026-10-02T06:12:29Z'
-  url: 'https://github.com/PS2HomeDeveloper/ps2dev/releases/tag/v1.0.0'
+  tag: toolchain-only
+  name: toolchain-only
+  publishedAt: '2026-10-31T06:52:15Z'
+  url: 'https://github.com/PS2HomeDeveloper/ps2dev/releases/tag/toolchain-only'
 activity:
-  lastSynchronized: '2026-10-28T21:06:43.274Z'
+  lastSynchronized: '2026-10-31T21:35:53.320Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5b03e7b0e11e69a10148e92a1abeb430fff6503dfc6c5386e1dbd42e87db5018"
-    releasesEtag: W/"cccae5d58b3af4972673833020cbc56942945a6df32f39d7afee52a79a6b6130"
+    repoEtag: W/"dd4a7e116f6e62a1fd976086f06807836b6da5de1a0de4bb0edf118c386a5527"
+    releasesEtag: W/"58b6539c9b512ef2f67e5439901fac9eff0c26964deebeed17d7f62a95b46e5b"
 discovery:
   method: 'fork-network:ps2dev/ps2dev'
   confidence: 100

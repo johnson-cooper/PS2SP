@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-28T21:07:04.250Z'
+  lastSynchronized: '2026-10-31T21:36:15.239Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bc922f34d49806a1819a33e15a27e88aefd68fcf73a813820672f438c703ecfa"
-    releasesEtag: '"d1a52c4e26a1d79e6d0ca8316872f5dfae1d7d418926e6cc103b78856f730cdb"'
+    repoEtag: W/"66ae506b798fa6c16ce3f2a8474f5a457e9bbc713c0270449408cd189b2fd93e"
+    releasesEtag: '"4da18e51dfb63479748d5f2062fd7c31ab13b4cfeaf582b2c6f4acdcfce67a3f"'
 discovery:
   method: 'fork-network:DanielFergisz/RepairBox-PSX-XMB-Apps-Installer'
   confidence: 100

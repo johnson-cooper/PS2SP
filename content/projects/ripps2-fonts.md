@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: '2026-10-06T06:53:47Z'
   url: 'https://github.com/akilluminati47/RIPPS2-fonts/releases/tag/v1.2'
 activity:
-  lastSynchronized: '2026-10-28T23:33:39.545Z'
+  lastSynchronized: '2026-10-31T21:36:17.254Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7f1a2bd5e0c3eb39535790a1efdbdc5da43e19e86f5ab6233af88b3083166542"
+    releasesEtag: W/"db8b037d9428793493b95b41877f2cc4eac64a9fb16c6585eaafa10033fb84fb"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -43,5 +46,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -21,22 +21,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 209
-  forks: 4
-  lastCommit: '2026-10-20T23:49:01Z'
+  stars: 210
+  forks: 5
+  lastCommit: '2026-10-31T18:14:24Z'
 latestRelease:
-  tag: v3.9.0
-  name: OpenROM v3.9.0
-  publishedAt: '2026-10-09T19:01:13Z'
-  url: 'https://github.com/M5Devs/OpenROM/releases/tag/v3.9.0'
+  tag: v3.9.5
+  name: OpenROM v3.9.5
+  publishedAt: '2026-10-31T17:58:33Z'
+  url: 'https://github.com/M5Devs/OpenROM/releases/tag/v3.9.5'
 activity:
   lastChecked: '2026-09-29T00:28:24.384Z'
-  lastSynchronized: '2026-10-28T21:06:02.977Z'
+  lastSynchronized: '2026-10-31T21:35:15.617Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"79a58d83dc1e932746c3f2dec7fb3a5272b15db23587795fe9fe86439a43b94a"
-    releasesEtag: W/"d8b936b67f6036124f568f7bde881e4b7477ff214b588a991a3d02a4bb460f6f"
+    repoEtag: W/"32bd6c90910bd74188ef1dd3560d98ca03edebed26b0511c6cbcfaeff712bf5e"
+    releasesEtag: W/"70555fbc20cabfed3286e268872c90c4575165ab26041402770d4f1c382f139c"
 discovery:
   method: github-search
   confidence: 100

@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-28T21:06:31.907Z'
+  lastSynchronized: '2026-10-31T21:35:41.826Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5d50491bfdd2ad3e92e08dd6b10e81c0df1d94a8350d7121a20416c107097a0b"
-    releasesEtag: '"d1a52c4e26a1d79e6d0ca8316872f5dfae1d7d418926e6cc103b78856f730cdb"'
+    repoEtag: W/"968d4fac02357e956088986e4d482e14235360cc708cca4f7c7909dd11ab602f"
+    releasesEtag: '"4da18e51dfb63479748d5f2062fd7c31ab13b4cfeaf582b2c6f4acdcfce67a3f"'
 discovery:
   method: 'fork-network:xlenore/ps2-covers'
   confidence: 100

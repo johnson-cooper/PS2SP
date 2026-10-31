@@ -16,7 +16,7 @@ license: MIT
 homepage: null
 source:
   provider: github
-  repository: Matheusbritto77/ps2-web-recomp
+  repository: matheusbrittod3v/ps2-web-recomp
   repositoryId: '1421453211'
 repository:
   archived: false
@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-28T21:06:39.667Z'
+  lastSynchronized: '2026-10-31T21:35:50.103Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5b97d59044b841fd4ae800078db7b996482769c54359b12b0dbaabaae0af8454"
-    releasesEtag: '"d1a52c4e26a1d79e6d0ca8316872f5dfae1d7d418926e6cc103b78856f730cdb"'
+    repoEtag: W/"be306dd0abb05434b3900d286a1003b8d1286011ca2a19abab8097ced772fd6d"
+    releasesEtag: '"4da18e51dfb63479748d5f2062fd7c31ab13b4cfeaf582b2c6f4acdcfce67a3f"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

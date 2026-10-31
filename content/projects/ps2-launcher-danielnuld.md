@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-06T06:00:02Z'
   url: 'https://github.com/danielnuld/ps2-launcher/releases/tag/v1.0.2'
 activity:
-  lastSynchronized: '2026-10-28T21:06:34.575Z'
+  lastSynchronized: '2026-10-31T21:35:44.300Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"040ca38086d3609b486375d2a13c2e22afef4b3052c624c49144717bf4a68b27"
-    releasesEtag: W/"801a57f3365cee26a88427897fd0ba7ac25ef363693f299fc234490f1a2697b2"
+    repoEtag: W/"46ad5b9149a732b6f1190a6d03de88d6c9e602a2d988299cb20f557dabf789f9"
+    releasesEtag: W/"c9a15cbdabe5c2da85f2e49cbcff8941242b3318d92b3ab2a005ec2cc50baddf"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
