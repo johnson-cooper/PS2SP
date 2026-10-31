@@ -1,0 +1,16 @@
+{
+  "repository": "YEperik/ff7-doc-decomp",
+  "repositoryId": "1411922519",
+  "url": "https://github.com/YEperik/ff7-doc-decomp",
+  "description": "A matching decompilation of Dirge of Cerberus: Final Fantasy VII International (PS2 / SLPM-66629)",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-31T07:30:31.053Z",
+  "checkedAt": "2026-10-31T07:30:31.053Z"
+}
