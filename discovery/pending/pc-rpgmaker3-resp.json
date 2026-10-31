@@ -1,0 +1,16 @@
+{
+  "repository": "BehindSaturn/pc-rpgmaker3-resp",
+  "repositoryId": "1440886314",
+  "url": "https://github.com/BehindSaturn/pc-rpgmaker3-resp",
+  "description": "Native PC reimplementation of the RPG Maker 3 (PS2) engine - format documentation and tools (BYOA)",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-31T18:45:56.304Z",
+  "checkedAt": "2026-10-31T18:45:56.304Z"
+}

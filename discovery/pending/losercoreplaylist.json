@@ -1,0 +1,16 @@
+{
+  "repository": "daymaster/losercoreplaylist",
+  "repositoryId": "1440778825",
+  "url": "https://github.com/daymaster/losercoreplaylist",
+  "description": "Losercore: Meme Archive, Playlist & PS2 Photo Tool",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-10-31T18:45:56.304Z",
+  "checkedAt": "2026-10-31T18:45:56.304Z"
+}

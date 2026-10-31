@@ -1,0 +1,16 @@
+{
+  "repository": "n0madic/Soulcalibur3-recomp",
+  "repositoryId": "1441142315",
+  "url": "https://github.com/n0madic/Soulcalibur3-recomp",
+  "description": "Experimental Soulcalibur III native recompilation for Apple Silicon macOS using ps2-native-recomp. Tooling and source patches only; bring your own game disc.",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-10-31T18:45:56.304Z",
+  "checkedAt": "2026-10-31T18:45:56.304Z"
+}
