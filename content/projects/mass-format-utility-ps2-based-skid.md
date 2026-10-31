@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/Based-Skid/Mass-Format-Utility-PS2/releases/tag/untagged-fe327013102786382f4f
 activity:
-  lastSynchronized: '2026-10-27T05:05:42.092Z'
+  lastSynchronized: '2026-10-31T05:41:34.275Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8a15fc5350a19f3cd2fd2e87127f6832fa9c861539b952c597c1324c4f17e9a1"
-    releasesEtag: W/"adde29cac8ecd991e65c747f515b274ee729ffaf84c0018c3ef9b1e4d60edaa1"
+    repoEtag: W/"8a4620791a74860bace16b78a5741d213e9b439109fd0279892bddc83b19d64f"
+    releasesEtag: W/"129e01f1411310f170efa5754610fd5496481ab5e518162820e7b680f7ef0b58"
 discovery:
   method: 'fork-network:Zero1UP/PS2-Memory-Card-Formatter'
   confidence: 100

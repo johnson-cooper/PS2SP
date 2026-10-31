@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-27T05:06:56.893Z'
+  lastSynchronized: '2026-10-31T05:42:49.190Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"00a97459c9ff54b09c9101294bb3476139dbff8bbe1dd19185956b62e939057f"
-    releasesEtag: '"8962456a2767bc9200ffde34dbf3ce364232427596717043c1b51556df0f7cba"'
+    repoEtag: W/"d1c3d614ed54cc3d8dc4f88de959e01fc7cc379d5e4210fb94575920de7954c8"
+    releasesEtag: '"b2698f3bc425a78276de1d8fc6bd7bb2255a34bae88cfdf311a1da54908ed37a"'
 discovery:
   method: 'fork-network:AKuHAK/superpsx'
   confidence: 100

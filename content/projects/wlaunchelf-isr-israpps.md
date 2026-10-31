@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2026-01-14T03:21:46Z'
   url: 'https://github.com/israpps/wLaunchELF_ISR/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-27T05:07:05.665Z'
+  lastSynchronized: '2026-10-31T05:42:57.091Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a9b0242d9cbda1aaca13e82c1a416ca643f9fbc59f9eaecfb43fa7e15f406aec"
-    releasesEtag: W/"18d316bd9103a18f86771095d9069ea4d5d90a6bcf70071df734d462914d0f9b"
+    repoEtag: W/"3c99b2cc4d1c871860e537880e8c7b47bc9b1f84eaee4f5938ed1d82a5b69538"
+    releasesEtag: W/"75b67cdfadad0d9a86f1dc719d9102631e80c5f5afe27e0c102fed31b390a3ef"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

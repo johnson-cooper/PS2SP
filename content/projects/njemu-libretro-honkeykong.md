@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-30T21:03:44.551Z'
+  lastSynchronized: '2026-10-31T05:41:39.600Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8515de6a107a971e04bdfe475cfa89b0d4678704a17cfe5818eb8d0926c87389"
+    releasesEtag: '"b2698f3bc425a78276de1d8fc6bd7bb2255a34bae88cfdf311a1da54908ed37a"'
 discovery:
   method: 'incremental:ps2sdk in:name,description,readme'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: SumavisionQ5/NJEMU-PS2
   source: phoe-nix/NJEMU
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

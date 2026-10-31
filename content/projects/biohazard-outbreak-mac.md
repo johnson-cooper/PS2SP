@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
   lastCommit: '2026-10-26T17:13:48Z'
 latestRelease:
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/HAB3X/Biohazard-Outbreak-Mac/releases/tag/v0.1.2'
 activity:
   lastChecked: '2026-10-20T15:22:35.905Z'
-  lastSynchronized: '2026-10-27T05:05:09.308Z'
+  lastSynchronized: '2026-10-31T05:41:05.919Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e2187ca46d140a1f821dc663df48df9829539e60b8051f94f536e7b751080e9b"
-    releasesEtag: W/"ac39979bcb47d4d93ec11715fe22f35d3142f28ae305b08851260b3aba56a508"
+    repoEtag: W/"343e4b27a882f9b31a92a385a855c0fea5b8ae05af36126a021e3ba571e5eb90"
+    releasesEtag: W/"6708306a1fe720b9b5ac8a273cde5069baceac101c836f975450cc205147c39e"
 discovery:
   method: 'pending-promotion:incremental:ps2sdk in:name,description,readme'
   confidence: 75

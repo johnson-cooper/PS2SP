@@ -24,16 +24,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-28T15:03:33Z'
+  lastCommit: '2026-10-28T21:27:18Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-28T19:07:21.883Z'
+  lastSynchronized: '2026-10-31T05:41:05.442Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"38b87ee3a66a72f14e0f1785d4a9a20720db3470cb34d898068e4029935aadbb"
+    releasesEtag: '"b2698f3bc425a78276de1d8fc6bd7bb2255a34bae88cfdf311a1da54908ed37a"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -53,5 +56,4 @@ relationships:
   forkOf: saildot4k/PlayStation2-Basic-BootLoader-Extended
   source: saildot4k/PlayStation2-Basic-BootLoader-Extended
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-27T05:06:57.438Z'
+  lastSynchronized: '2026-10-31T05:42:49.612Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"27558d38e7453653a6ad1e254e5b621ae6b233776c4c7907711abd712fecfe27"
-    releasesEtag: '"8962456a2767bc9200ffde34dbf3ce364232427596717043c1b51556df0f7cba"'
+    repoEtag: W/"ae19e474e66b9837d092e4f01aca51df9585e9a4d25b503d42ecca18cdb6d66a"
+    releasesEtag: '"b2698f3bc425a78276de1d8fc6bd7bb2255a34bae88cfdf311a1da54908ed37a"'
 discovery:
   method: 'fork-network:Gandorfin/Tales-of-Destiny-2'
   confidence: 100

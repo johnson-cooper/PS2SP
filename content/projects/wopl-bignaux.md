@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-27T05:07:08.472Z'
+  lastSynchronized: '2026-10-31T05:42:59.392Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b728f73fe82bfab2623a1780a5085c4eb6cbe93eebe234f647646e3116f41053"
-    releasesEtag: '"8962456a2767bc9200ffde34dbf3ce364232427596717043c1b51556df0f7cba"'
+    repoEtag: W/"895d43bf45fc2e7a1fc6107c123fd515caa7f77eb36a088570842c5d42e73b5d"
+    releasesEtag: '"b2698f3bc425a78276de1d8fc6bd7bb2255a34bae88cfdf311a1da54908ed37a"'
 discovery:
   method: 'fork-network:ps2homebrew/wOPL'
   confidence: 100

@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-27T05:05:40.523Z'
+  lastSynchronized: '2026-10-31T05:41:32.974Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"30931eb11f8c522a046af7b9b884107899b39580252b52040cbb8c91f54f0755"
-    releasesEtag: '"8962456a2767bc9200ffde34dbf3ce364232427596717043c1b51556df0f7cba"'
+    repoEtag: W/"2d37c78d76f66b6360561a4219fc9e84b2a2bcb4d3ad5c505d4b1d2b98bb3418"
+    releasesEtag: '"b2698f3bc425a78276de1d8fc6bd7bb2255a34bae88cfdf311a1da54908ed37a"'
 discovery:
   method: 'fork-network:ps2dev/libtap'
   confidence: 95

@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/acklavidian/decomp_wots2/releases/tag/v0.3.10'
 activity:
   lastChecked: '2026-10-14T18:54:17.306Z'
-  lastSynchronized: '2026-10-27T05:05:14.143Z'
+  lastSynchronized: '2026-10-31T05:41:10.107Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a026dafcad6e54c0f62a37bb7c66e85229d733b49796b9436785616e3b221551"
-    releasesEtag: W/"30b1520d077d2c17e52fb4218e926a7edd57899d3ba9d2cb54aa00fea339d6a2"
+    repoEtag: W/"e26c3a55c52f963444273797e646e65f455ee79becab4664cd35b78a5d91aa3d"
+    releasesEtag: W/"d607def72671440f0149cb7de3a549f6ee15b75f3b9109d5fbea4912fc135e9b"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85

@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-27T05:06:54.375Z'
+  lastSynchronized: '2026-10-31T05:42:46.845Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"56a610df5e81ee8639836ba9be65670e170fc949c252a12c1660cebce2fd1231"
-    releasesEtag: '"8962456a2767bc9200ffde34dbf3ce364232427596717043c1b51556df0f7cba"'
+    repoEtag: W/"70c0521a4e023d60f61cc3f70e8d501ac51a1f9a993c6149371d1489d21fbaad"
+    releasesEtag: '"b2698f3bc425a78276de1d8fc6bd7bb2255a34bae88cfdf311a1da54908ed37a"'
 discovery:
   method: 'fork-network:GorGylka/Server2PS2'
   confidence: 95

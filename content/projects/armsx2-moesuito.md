@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-08-06T18:32:08Z'
   url: 'https://github.com/moesuito/ARMSX2/releases/tag/2.6.7.1'
 activity:
-  lastSynchronized: '2026-10-27T05:05:05.086Z'
+  lastSynchronized: '2026-10-31T05:41:01.429Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e53bd0480048eb417a708d188ef5911a1d839b46b72a666a224f76e12ca344f4"
-    releasesEtag: W/"57415320412f5c7117a8e7c672f0b614a752e51b3ec17372da157edd09d14a58"
+    repoEtag: W/"e6478346786b2f5c65d00190b74ad46b42df15b1445a1d9c1ca780a5a5a06d67"
+    releasesEtag: W/"e128871ee459f4cac10e74f63c5930cdb392c85710e9b65fff219c54daff9286"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100
