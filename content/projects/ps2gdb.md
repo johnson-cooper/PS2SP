@@ -28,12 +28,12 @@ latestRelease:
   url: 'https://github.com/ps2dev/ps2gdb/releases/tag/latest'
 activity:
   lastChecked: '2026-09-29T00:27:11.204Z'
-  lastSynchronized: '2026-10-20T17:05:44.319Z'
+  lastSynchronized: '2026-10-31T17:45:16.408Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"270a362c7734add56e6617312efc7ed892e1638388a838301649aae720e7b5c8"
-    releasesEtag: W/"c65e612d30709be791da47174191cd33cccb16aa387b9266d373036b5ff2c422"
+    repoEtag: W/"ba9f04e30762c4c72d4e0e4b7ebceae036ef43dfa797665440815a849468b23e"
+    releasesEtag: W/"18050076258e7a6dab5cd0853d2a9b4600bd620bb2e3f8fb3183ba176193e364"
 discovery:
   method: curated
   confidence: 100

@@ -20,19 +20,19 @@ repository:
   defaultBranch: slim-updates
   stars: 0
   forks: 0
-  lastCommit: '2026-09-24T17:42:50Z'
+  lastCommit: '2026-10-25T00:38:56Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-20T17:05:18.865Z'
+  lastSynchronized: '2026-10-31T17:44:46.123Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9bcc06696b0d8e58ff8f65c52eefe4ec6f6ea894fac5ba4415791e155f82e0d8"
-    releasesEtag: '"d3d0da21844f8c629c27423ea02df36dddc7e23bf807a0d3c2a92ba20b02b2b2"'
+    repoEtag: W/"ea98a2bee3b36a3228e44736168709bbd928078b5b7941d67bc100d66636e8a7"
+    releasesEtag: '"4974cdabbdbf73285da0f921c4f96aa0de3dd6faf16e346bf3e2eb915154d754"'
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: '2026-10-01T22:51:21Z'
   url: 'https://github.com/khant735/500-Card-Game-PS2/releases/tag/v501B'
 activity:
-  lastSynchronized: '2026-10-21T00:58:06.538Z'
+  lastSynchronized: '2026-10-31T17:43:46.247Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2c1380ace7dc0ea4846d906943c9384c107fd5deef9af8a7d999bf13078f26d3"
+    releasesEtag: W/"885d64063ec81dcb5ed676a074e9500cea60975acac6d80cc302dfcd415c839e"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -49,5 +52,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

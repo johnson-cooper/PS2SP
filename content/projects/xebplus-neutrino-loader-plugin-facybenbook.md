@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-20T17:06:16.225Z'
+  lastSynchronized: '2026-10-31T17:45:51.688Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"88d6972444fe7e4517a146d8c818158dea8a3400541bf200accb3378848ebb68"
-    releasesEtag: '"d3d0da21844f8c629c27423ea02df36dddc7e23bf807a0d3c2a92ba20b02b2b2"'
+    repoEtag: W/"f26908b578f679b9abfe03d24f0a22c7b4849017121eb3fdeb95b46e594fefd6"
+    releasesEtag: '"4974cdabbdbf73285da0f921c4f96aa0de3dd6faf16e346bf3e2eb915154d754"'
 discovery:
   method: 'fork-network:sync-on-luma/xebplus-neutrino-loader-plugin'
   confidence: 95

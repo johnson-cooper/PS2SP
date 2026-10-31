@@ -17,18 +17,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 11
   forks: 0
-  lastCommit: '2026-10-22T09:26:35Z'
+  lastCommit: '2026-10-22T11:10:12Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: '1.2'
+  name: first release
+  publishedAt: '2026-10-22T11:10:13Z'
+  url: 'https://github.com/andreacampanella/meta-playstation2/releases/tag/1.2'
 activity:
-  lastSynchronized: '2026-10-22T10:39:06.591Z'
+  lastSynchronized: '2026-10-31T17:44:21.225Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"06fe5ed0957bdf1fc73d3ca4053f6b8d7e51092c3dcea0c281b33eec690eae1f"
+    releasesEtag: W/"8b53e006425dec02c42e81abffb89b725b1ec220bca4bb3ae0e41ea2eef298c6"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -40,5 +43,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-20T17:04:34.556Z'
+  lastSynchronized: '2026-10-31T17:43:59.187Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5553b1655f4a1d8c62445f6bd8751041bd885db55b98891cd66a3232cfb6273f"
-    releasesEtag: '"d3d0da21844f8c629c27423ea02df36dddc7e23bf807a0d3c2a92ba20b02b2b2"'
+    repoEtag: W/"5f8a6f2a0873f50c03d2a4df0b58d704442c42ac9bbe24de2f200e3daa71f787"
+    releasesEtag: '"4974cdabbdbf73285da0f921c4f96aa0de3dd6faf16e346bf3e2eb915154d754"'
 discovery:
   method: 'fork-network:sashkinbro/EmuCoreX'
   confidence: 100

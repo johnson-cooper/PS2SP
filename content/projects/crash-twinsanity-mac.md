@@ -22,7 +22,7 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-14T01:46:35Z'
+  lastCommit: '2026-10-22T09:05:14Z'
 latestRelease:
   tag: v0.3.0
   name: Crash Twinsanity for Mac 0.3.0
@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/HAB3X/Crash-Twinsanity-Mac/releases/tag/v0.3.0'
 activity:
   lastChecked: '2026-10-11T09:18:35.593Z'
-  lastSynchronized: '2026-10-20T17:04:32.461Z'
+  lastSynchronized: '2026-10-31T17:43:54.690Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9c253df410701709aa354db1656cccce935eafbe1e04af81b51aa475511fc0cb"
-    releasesEtag: W/"127efa215fc2833405e6071b4ca65e131d7bee90fc0ef298ce92ff87480e04e0"
+    repoEtag: W/"8f438dda608acc63dd27c24edb2f7b4c93e0ab2407089c1e11313b4d507edfd6"
+    releasesEtag: W/"424cebf8dd7ebc6725224a0080e0665497af534604c6b7dceaafc76fb261f59f"
 discovery:
   method: 'pending-promotion:incremental:ps2sdk in:name,description,readme'
   confidence: 75

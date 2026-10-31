@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-29T22:00:32.843Z'
+  lastSynchronized: '2026-10-31T17:43:56.247Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"efbd7ebe381d35500ee92a95561a182a10a248735d56cfe222244548c8e73e9a"
+    releasesEtag: '"4974cdabbdbf73285da0f921c4f96aa0de3dd6faf16e346bf3e2eb915154d754"'
 discovery:
   method: 'fork-network:valenvivaldi/decomp.wtf'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: valenvivaldi/decomp.wtf
   source: i12bp8/decomp.wtf
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

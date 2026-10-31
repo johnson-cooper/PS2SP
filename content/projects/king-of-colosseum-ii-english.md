@@ -12,7 +12,7 @@ tags:
 features: []
 authors: []
 license: MIT
-homepage: null
+homepage: 'https://kactusken.github.io/King-of-Colosseum-II-English/guide'
 source:
   provider: github
   repository: kactusken/King-of-Colosseum-II-English
@@ -21,9 +21,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 6
   forks: 0
-  lastCommit: '2026-10-17T11:52:30Z'
+  lastCommit: '2026-10-30T11:13:42Z'
 latestRelease:
   tag: v0.1
   name: King of Colosseum II English Patch v0.1
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/kactusken/King-of-Colosseum-II-English/releases/tag/v0.1'
 activity:
   lastChecked: '2026-10-17T05:53:23.162Z'
-  lastSynchronized: '2026-10-20T17:04:51.204Z'
+  lastSynchronized: '2026-10-31T17:44:16.635Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b2f6aa49fdddd0e3b35d2bec798d1b84fb913bec0cbf7dd1de0475173e675aac"
-    releasesEtag: W/"9f7fbff269f2ab026e3563b63e914a814aa8d61362585cd2ed2127fbe810a5c5"
+    repoEtag: W/"f45a5130d5d7967e1205ff035869c315507f9be7df0dfa17c786e4a66a717dc4"
+    releasesEtag: W/"7fb8859950d86b06b7670c2383f88bef83fb30a55e2fb61e5824c28024270b5c"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

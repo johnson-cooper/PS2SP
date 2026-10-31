@@ -23,20 +23,20 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 1
-  lastCommit: '2026-10-16T03:00:37Z'
+  lastCommit: '2026-10-24T03:20:49Z'
 latestRelease:
-  tag: v0.3.0
-  name: v0.3.0
-  publishedAt: '2026-10-01T02:59:11Z'
-  url: 'https://github.com/Phenra/RoadTripAdventure-AP/releases/tag/v0.3.0'
+  tag: v0.3.1
+  name: v0.3.1
+  publishedAt: '2026-10-24T03:20:50Z'
+  url: 'https://github.com/Phenra/RoadTripAdventure-AP/releases/tag/v0.3.1'
 activity:
   lastChecked: '2026-10-01T03:27:44.437Z'
-  lastSynchronized: '2026-10-20T17:06:04.063Z'
+  lastSynchronized: '2026-10-31T17:45:38.771Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9246f2cfc1309c8baf25a76c8d266dcf593657239f112dbf1157c9140681b47f"
-    releasesEtag: W/"4c566d2292bdfbcd117c2a31df524fc228a5f5945ba1343f3c691f93c6503613"
+    repoEtag: W/"52b7ec2686cddff8f96926c6864e892cfafeb1dfe90257feec950f703e0e7202"
+    releasesEtag: W/"4bf823ee03fc426c311f501463004a98a3118dba8fc85bcb32d95e468a29e11a"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

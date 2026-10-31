@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-20T17:04:28.177Z'
+  lastSynchronized: '2026-10-31T17:43:45.702Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0fd8a2ff36a4ffa7884042dc2d4f0fb7b8574665b7d18052e52af30d6fdc12e5"
-    releasesEtag: '"d3d0da21844f8c629c27423ea02df36dddc7e23bf807a0d3c2a92ba20b02b2b2"'
+    repoEtag: W/"76dc66e634e0de7e2d3ff03180839da6b3d22d1a77489178e6e57fb6f1862759"
+    releasesEtag: '"4974cdabbdbf73285da0f921c4f96aa0de3dd6faf16e346bf3e2eb915154d754"'
 discovery:
   method: 'fork-network:demmis98/3s-psp'
   confidence: 95

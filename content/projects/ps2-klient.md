@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2018-12-14T00:29:42Z'
   url: 'https://github.com/gdomingues/ps2-klient/releases/tag/v0.3.0'
 activity:
-  lastSynchronized: '2026-10-20T17:05:36.847Z'
+  lastSynchronized: '2026-10-31T17:45:08.402Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d02d1147a7571727d30ed70f3e5388e706e2f38b833ff5b6faedd0de714390fa"
-    releasesEtag: W/"83395d52d37f93100566926697edcf35e06dbb0e307007ff4a7631f147d0e696"
+    repoEtag: W/"bbac5bbed0a5f43f2bbcc71226643267614c5a28ad8714b8fdd8690094a51470"
+    releasesEtag: W/"f9952fea37657c800b24f05ff6414f882fcc27008e1055b5ac82fbcfc3ebae33"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

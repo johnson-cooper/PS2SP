@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-28T00:44:37.049Z'
+  lastSynchronized: '2026-10-31T17:43:58.203Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"95382d01921e163ba8b6f39bdcd6156ea4b22daf29818d0767a0bf322001a11b"
+    releasesEtag: '"4974cdabbdbf73285da0f921c4f96aa0de3dd6faf16e346bf3e2eb915154d754"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: skuza-oss/downhill-revived
   source: skuza-oss/downhill-revived
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

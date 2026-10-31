@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T07:00:06.885Z'
+  lastSynchronized: '2026-10-31T17:45:37.218Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5ca1bf81d882b9f409f69a00873deaf9f5857b0a34d0897a9d3f03bda5850bd7"
+    releasesEtag: '"4974cdabbdbf73285da0f921c4f96aa0de3dd6faf16e346bf3e2eb915154d754"'
 discovery:
   method: 'fork-network:OpenRAC/rac2-gc-decomp'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: OpenRAC/rac2-decomp
   source: OpenRAC/rac2-decomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
