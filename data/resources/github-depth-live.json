@@ -93994,6 +93994,19 @@
         ]
       },
       {
+        "name": "msxdev/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/msxdev/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "msxdev/ps2toolchain-iop",
+          "main"
+        ]
+      },
+      {
         "name": "mszula/wacki — branch: ci/artifact-retention",
         "url": "https://github.com/mszula/wacki/tree/ci/artifact-retention",
         "keywords": [
@@ -94745,6 +94758,32 @@
           "repository",
           "Nanobass/ps2sdk",
           "master"
+        ]
+      },
+      {
+        "name": "Nanobass/ps2toolchain — branch: master",
+        "url": "https://github.com/Nanobass/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Nanobass/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "Nanobass/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/Nanobass/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Nanobass/ps2toolchain-ee",
+          "main"
         ]
       },
       {
@@ -108710,6 +108749,19 @@
         ]
       },
       {
+        "name": "ninjadynamics/ps2stuff — branch: master",
+        "url": "https://github.com/ninjadynamics/ps2stuff/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ninjadynamics/ps2stuff",
+          "master"
+        ]
+      },
+      {
         "name": "niumeng07/libsmb2 — branch: master",
         "url": "https://github.com/niumeng07/libsmb2/tree/master",
         "keywords": [
@@ -108979,6 +109031,19 @@
           "branch",
           "repository",
           "noxiousdraco/BinMerger",
+          "main"
+        ]
+      },
+      {
+        "name": "nsn90255/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/nsn90255/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "nsn90255/ps2toolchain-dvp",
           "main"
         ]
       },
@@ -111332,6 +111397,19 @@
           "branch",
           "repository",
           "o1line/ps2dev",
+          "master"
+        ]
+      },
+      {
+        "name": "o1line/ps2toolchain — branch: master",
+        "url": "https://github.com/o1line/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "o1line/ps2toolchain",
           "master"
         ]
       },
@@ -133254,6 +133332,58 @@
         ]
       },
       {
+        "name": "PS2HomeDeveloper/ps2toolchain — branch: master",
+        "url": "https://github.com/PS2HomeDeveloper/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PS2HomeDeveloper/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "PS2HomeDeveloper/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/PS2HomeDeveloper/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PS2HomeDeveloper/ps2toolchain-dvp",
+          "main"
+        ]
+      },
+      {
+        "name": "PS2HomeDeveloper/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/PS2HomeDeveloper/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PS2HomeDeveloper/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "PS2HomeDeveloper/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/PS2HomeDeveloper/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "PS2HomeDeveloper/ps2toolchain-iop",
+          "main"
+        ]
+      },
+      {
         "name": "ps2max32/neutrino — branch: ci",
         "url": "https://github.com/ps2max32/neutrino/tree/ci",
         "keywords": [
@@ -133459,6 +133589,58 @@
           "repository",
           "psp2dev/ps2dev",
           "master"
+        ]
+      },
+      {
+        "name": "psp2dev/ps2toolchain — branch: master",
+        "url": "https://github.com/psp2dev/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psp2dev/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "psp2dev/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/psp2dev/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psp2dev/ps2toolchain-dvp",
+          "main"
+        ]
+      },
+      {
+        "name": "psp2dev/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/psp2dev/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psp2dev/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "psp2dev/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/psp2dev/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psp2dev/ps2toolchain-iop",
+          "main"
         ]
       },
       {
@@ -136114,6 +136296,32 @@
         ]
       },
       {
+        "name": "psxdev/ps2toolchain — branch: master",
+        "url": "https://github.com/psxdev/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "psxdev/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/psxdev/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "psxdev/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
         "name": "PunishedSnake/fhdb-bootstrap-manager — branch: dev/0.4.0-michishirube",
         "url": "https://github.com/PunishedSnake/fhdb-bootstrap-manager/tree/dev/0.4.0-michishirube",
         "keywords": [
@@ -137047,6 +137255,32 @@
           "repository",
           "puppydawg43/Open-PS2-Loader",
           "master"
+        ]
+      },
+      {
+        "name": "qasimkamran/ps2toolchain — branch: master",
+        "url": "https://github.com/qasimkamran/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "qasimkamran/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "qasimkamran/ps2toolchain — branch: v1.y",
+        "url": "https://github.com/qasimkamran/ps2toolchain/tree/v1.y",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "qasimkamran/ps2toolchain",
+          "v1.y"
         ]
       },
       {
@@ -144340,6 +144574,45 @@
           "repository",
           "rickgaiser/ps2sdk-ports",
           "revert-3-master"
+        ]
+      },
+      {
+        "name": "rickgaiser/ps2stuff — branch: fixes",
+        "url": "https://github.com/rickgaiser/ps2stuff/tree/fixes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "rickgaiser/ps2stuff",
+          "fixes"
+        ]
+      },
+      {
+        "name": "rickgaiser/ps2stuff — branch: for-ps2dev",
+        "url": "https://github.com/rickgaiser/ps2stuff/tree/for-ps2dev",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "rickgaiser/ps2stuff",
+          "for-ps2dev"
+        ]
+      },
+      {
+        "name": "rickgaiser/ps2stuff — branch: master",
+        "url": "https://github.com/rickgaiser/ps2stuff/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "rickgaiser/ps2stuff",
+          "master"
         ]
       },
       {
@@ -1389731,6 +1390004,51 @@
         ]
       },
       {
+        "name": "ninjadynamics/ps2stuff@master — tests",
+        "url": "https://github.com/ninjadynamics/ps2stuff/tree/master/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ninjadynamics/ps2stuff",
+          "master",
+          "tests"
+        ]
+      },
+      {
+        "name": "ninjadynamics/ps2stuff@master — tools",
+        "url": "https://github.com/ninjadynamics/ps2stuff/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ninjadynamics/ps2stuff",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "ninjadynamics/ps2stuff@master — tools/vu_reg_manager",
+        "url": "https://github.com/ninjadynamics/ps2stuff/tree/master/tools/vu_reg_manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ninjadynamics/ps2stuff",
+          "master",
+          "tools/vu_reg_manager"
+        ]
+      },
+      {
         "name": "niumeng07/libsmb2@master — cmake/Modules",
         "url": "https://github.com/niumeng07/libsmb2/tree/master/cmake/Modules",
         "keywords": [
@@ -1652997,6 +1653315,96 @@
           "rickgaiser/ps2sdk-ports",
           "revert-3-master",
           "ucl/test"
+        ]
+      },
+      {
+        "name": "rickgaiser/ps2stuff@fixes — tools",
+        "url": "https://github.com/rickgaiser/ps2stuff/tree/fixes/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rickgaiser/ps2stuff",
+          "fixes",
+          "tools"
+        ]
+      },
+      {
+        "name": "rickgaiser/ps2stuff@fixes — tools/vu_reg_manager",
+        "url": "https://github.com/rickgaiser/ps2stuff/tree/fixes/tools/vu_reg_manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rickgaiser/ps2stuff",
+          "fixes",
+          "tools/vu_reg_manager"
+        ]
+      },
+      {
+        "name": "rickgaiser/ps2stuff@for-ps2dev — tools",
+        "url": "https://github.com/rickgaiser/ps2stuff/tree/for-ps2dev/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rickgaiser/ps2stuff",
+          "for-ps2dev",
+          "tools"
+        ]
+      },
+      {
+        "name": "rickgaiser/ps2stuff@for-ps2dev — tools/vu_reg_manager",
+        "url": "https://github.com/rickgaiser/ps2stuff/tree/for-ps2dev/tools/vu_reg_manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rickgaiser/ps2stuff",
+          "for-ps2dev",
+          "tools/vu_reg_manager"
+        ]
+      },
+      {
+        "name": "rickgaiser/ps2stuff@master — tools",
+        "url": "https://github.com/rickgaiser/ps2stuff/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rickgaiser/ps2stuff",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "rickgaiser/ps2stuff@master — tools/vu_reg_manager",
+        "url": "https://github.com/rickgaiser/ps2stuff/tree/master/tools/vu_reg_manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rickgaiser/ps2stuff",
+          "master",
+          "tools/vu_reg_manager"
         ]
       },
       {
