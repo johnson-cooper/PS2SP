@@ -793,6 +793,30 @@
         ]
       },
       {
+        "name": "ps2/llvm — branch: mmi-autovec",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-autovec",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/llvm",
+          "mmi-autovec"
+        ]
+      },
+      {
+        "name": "ps2/llvm — branch: mmi-cmp-const-lhs",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-cmp-const-lhs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/llvm",
+          "mmi-cmp-const-lhs"
+        ]
+      },
+      {
         "name": "ps2/llvm — branch: ps2-mc-fill-warning",
         "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/ps2-mc-fill-warning",
         "keywords": [
@@ -8857,6 +8881,398 @@
           "nested project",
           "ps2/llvm",
           "main",
+          "bolt/test/Unit"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-autovec — .ci/buildbot",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-autovec/.ci/buildbot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-autovec",
+          ".ci/buildbot"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-autovec — bolt",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-autovec/bolt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-autovec",
+          "bolt"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-autovec — bolt/cmake/modules",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-autovec/bolt/cmake/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-autovec",
+          "bolt/cmake/modules"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-autovec — bolt/docs",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-autovec/bolt/docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-autovec",
+          "bolt/docs"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-autovec — bolt/lib",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-autovec/bolt/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-autovec",
+          "bolt/lib"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-autovec — bolt/lib/Core",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-autovec/bolt/lib/Core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-autovec",
+          "bolt/lib/Core"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-autovec — bolt/lib/Passes",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-autovec/bolt/lib/Passes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-autovec",
+          "bolt/lib/Passes"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-autovec — bolt/lib/Profile",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-autovec/bolt/lib/Profile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-autovec",
+          "bolt/lib/Profile"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-autovec — bolt/lib/Rewrite",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-autovec/bolt/lib/Rewrite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-autovec",
+          "bolt/lib/Rewrite"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-autovec — bolt/lib/RuntimeLibs",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-autovec/bolt/lib/RuntimeLibs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-autovec",
+          "bolt/lib/RuntimeLibs"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-autovec — bolt/lib/Utils",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-autovec/bolt/lib/Utils",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-autovec",
+          "bolt/lib/Utils"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-autovec — bolt/runtime",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-autovec/bolt/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-autovec",
+          "bolt/runtime"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-autovec — bolt/test",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-autovec/bolt/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-autovec",
+          "bolt/test"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-autovec — bolt/test/Unit",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-autovec/bolt/test/Unit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-autovec",
+          "bolt/test/Unit"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-cmp-const-lhs — .ci/buildbot",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-cmp-const-lhs/.ci/buildbot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-cmp-const-lhs",
+          ".ci/buildbot"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-cmp-const-lhs — bolt",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-cmp-const-lhs/bolt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-cmp-const-lhs",
+          "bolt"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-cmp-const-lhs — bolt/cmake/modules",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-cmp-const-lhs/bolt/cmake/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-cmp-const-lhs",
+          "bolt/cmake/modules"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-cmp-const-lhs — bolt/docs",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-cmp-const-lhs/bolt/docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-cmp-const-lhs",
+          "bolt/docs"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-cmp-const-lhs — bolt/lib",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-cmp-const-lhs/bolt/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-cmp-const-lhs",
+          "bolt/lib"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-cmp-const-lhs — bolt/lib/Core",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-cmp-const-lhs/bolt/lib/Core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-cmp-const-lhs",
+          "bolt/lib/Core"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-cmp-const-lhs — bolt/lib/Passes",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-cmp-const-lhs/bolt/lib/Passes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-cmp-const-lhs",
+          "bolt/lib/Passes"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-cmp-const-lhs — bolt/lib/Profile",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-cmp-const-lhs/bolt/lib/Profile",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-cmp-const-lhs",
+          "bolt/lib/Profile"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-cmp-const-lhs — bolt/lib/Rewrite",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-cmp-const-lhs/bolt/lib/Rewrite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-cmp-const-lhs",
+          "bolt/lib/Rewrite"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-cmp-const-lhs — bolt/lib/RuntimeLibs",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-cmp-const-lhs/bolt/lib/RuntimeLibs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-cmp-const-lhs",
+          "bolt/lib/RuntimeLibs"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-cmp-const-lhs — bolt/lib/Utils",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-cmp-const-lhs/bolt/lib/Utils",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-cmp-const-lhs",
+          "bolt/lib/Utils"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-cmp-const-lhs — bolt/runtime",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-cmp-const-lhs/bolt/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-cmp-const-lhs",
+          "bolt/runtime"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-cmp-const-lhs — bolt/test",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-cmp-const-lhs/bolt/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-cmp-const-lhs",
+          "bolt/test"
+        ]
+      },
+      {
+        "name": "ps2/llvm@mmi-cmp-const-lhs — bolt/test/Unit",
+        "url": "https://git.techwritescode.dev/ps2/llvm/src/branch/mmi-cmp-const-lhs/bolt/test/Unit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/llvm",
+          "mmi-cmp-const-lhs",
           "bolt/test/Unit"
         ]
       },

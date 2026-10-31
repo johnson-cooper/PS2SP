@@ -239,7 +239,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/toolchain@main": "2eb5c010a56a016f4bdcf0a375fb96ae8cb746a4",
     "https://git.techwritescode.dev/api/v1|ps2/toolchain@canadian-cross-windows": "f9b89482fd5776d4018105083d58674510df840d",
     "https://git.techwritescode.dev/api/v1|ps2/masp@master": "c93e34a4d339f645811cde9a3c4b187225877424",
-    "https://git.techwritescode.dev/api/v1|ps2/openvcl@master": "17cbadb6544bdca05d3a235aed3644bd12017fae",
+    "https://git.techwritescode.dev/api/v1|ps2/openvcl@master": "a5e9dbee6c0f2033403ee846fcc8565f17a0840d",
     "https://git.techwritescode.dev/api/v1|ps2/openvcl@fix_ci": "00b3750217c8943806d22fc7b6854d4ae8b2b979",
     "https://git.techwritescode.dev/api/v1|ps2/newlib@ee-v4.6.0": "8881dc4b138f0561596980ac9a481c7e638aebd0",
     "https://git.techwritescode.dev/api/v1|ps2/newlib@ee-v4.5.0": "5b40580b9ec430b9dae369ea434d5daf6e295e9b",
@@ -570,7 +570,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-100-test-matrix": "73d1f6b54be3c93db2f3ae4065bbdb17cdf006fa",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-104-eh-frame": "a18b79cf822b0724add5e97edb71fdc8717c1667",
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core@ps2-98-llvm-compat": "a00c8255dfe9958553baa41a5f18a546d94208bf",
-    "https://git.techwritescode.dev/api/v1|ps2/llvm@r5900-ee": "a820e0f0a5081019a4ea17b2c5d6e13df05d33dd",
+    "https://git.techwritescode.dev/api/v1|ps2/llvm@r5900-ee": "b0acfbc66eff361461a8a3e43b1567f9fcc27111",
     "https://git.techwritescode.dev/api/v1|ps2/llvm@main": "fa360c3b8dbfd8a449364b7a6e454878bcf00eb9",
     "https://git.techwritescode.dev/api/v1|ps2/llvm-toolchain@main": "6daa288f64620f3999321d0922e62929b1af1457",
     "https://git.techwritescode.dev/api/v1|ps2/newlib-llvm@ee-v4.6.0-llvm": "05e73c20c58428a9388a4b36e800caeedf5860bf",
@@ -602,7 +602,9 @@
     "https://git.techwritescode.dev/api/v1|ps2/docs@ps2-191-iop-driver-guide": "a883504af3d290bcd5c3be1bd4b8f7cd37c25827",
     "https://git.techwritescode.dev/api/v1|ps2/llvm@r3000a-load-delay": "3d1f4b5e1634da64280d2f14d13ae924e90f8d69",
     "https://git.techwritescode.dev/api/v1|ps2/docs@docs-quirks-optimization": "c0481396c9e888714804baf2a8cb70b396e760bd",
-    "https://git.techwritescode.dev/api/v1|ps2/llvm@r3000a-delay-slots": "3d1f4b5e1634da64280d2f14d13ae924e90f8d69"
+    "https://git.techwritescode.dev/api/v1|ps2/llvm@r3000a-delay-slots": "3d1f4b5e1634da64280d2f14d13ae924e90f8d69",
+    "https://git.techwritescode.dev/api/v1|ps2/llvm@mmi-cmp-const-lhs": "b0acfbc66eff361461a8a3e43b1567f9fcc27111",
+    "https://git.techwritescode.dev/api/v1|ps2/llvm@mmi-autovec": "154ca68f3b6696d34d6f1be0bcb3bd7ea90f7337"
   },
   "branchPage": {
     "https://git.techwritescode.dev/api/v1|ps2/ps2build": 2,
@@ -611,7 +613,7 @@
     "https://git.techwritescode.dev/api/v1|ps2/toolchain": 2,
     "https://git.techwritescode.dev/api/v1|ps2/masp": 2,
     "https://git.techwritescode.dev/api/v1|ps2/openvcl": 2,
-    "https://git.techwritescode.dev/api/v1|ps2/newlib": 2,
+    "https://git.techwritescode.dev/api/v1|ps2/newlib": 3,
     "https://git.techwritescode.dev/api/v1|ps2/pthread-embedded": 2,
     "https://git.techwritescode.dev/api/v1|ps2/sdk-core": 2,
     "https://git.techwritescode.dev/api/v1|ps2/tools": 2,
@@ -685,18 +687,18 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-10-30T21:20:53.333Z",
+    "at": "2026-10-31T14:24:41.807Z",
     "repositoriesScanned": 20,
     "forksSeen": 0,
-    "branchesSeen": 120,
-    "branchesChanged": 0,
-    "treesScanned": 0,
+    "branchesSeen": 140,
+    "branchesChanged": 4,
+    "treesScanned": 4,
     "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 0,
-    "nestedAdded": 0,
-    "requests": 77,
+    "branchesAdded": 2,
+    "nestedAdded": 28,
+    "requests": 87,
     "stoppedForBudget": false
   },
-  "queueCursor": 19
+  "queueCursor": 1
 }
