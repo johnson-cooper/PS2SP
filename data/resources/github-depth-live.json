@@ -172384,6 +172384,422 @@
         ]
       },
       {
+        "name": "uyjulian/ps2toolchain-ee — branch: buildsystem_improve",
+        "url": "https://github.com/uyjulian/ps2toolchain-ee/tree/buildsystem_improve",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-ee",
+          "buildsystem_improve"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-ee — branch: ci_improvements_20250918",
+        "url": "https://github.com/uyjulian/ps2toolchain-ee/tree/ci_improvements_20250918",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-ee",
+          "ci_improvements_20250918"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-ee — branch: ci_improvements_20251010",
+        "url": "https://github.com/uyjulian/ps2toolchain-ee/tree/ci_improvements_20251010",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-ee",
+          "ci_improvements_20251010"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-ee — branch: cleanup1",
+        "url": "https://github.com/uyjulian/ps2toolchain-ee/tree/cleanup1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-ee",
+          "cleanup1"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-ee — branch: contrib_download_prerequisites",
+        "url": "https://github.com/uyjulian/ps2toolchain-ee/tree/contrib_download_prerequisites",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-ee",
+          "contrib_download_prerequisites"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-ee — branch: debuginfo_fatlto",
+        "url": "https://github.com/uyjulian/ps2toolchain-ee/tree/debuginfo_fatlto",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-ee",
+          "debuginfo_fatlto"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-ee — branch: del_extra_cmake_modules",
+        "url": "https://github.com/uyjulian/ps2toolchain-ee/tree/del_extra_cmake_modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-ee",
+          "del_extra_cmake_modules"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-ee — branch: ghcr_upload",
+        "url": "https://github.com/uyjulian/ps2toolchain-ee/tree/ghcr_upload",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-ee",
+          "ghcr_upload"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-ee — branch: improve_docs_20240804",
+        "url": "https://github.com/uyjulian/ps2toolchain-ee/tree/improve_docs_20240804",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-ee",
+          "improve_docs_20240804"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-ee — branch: macos_build_test",
+        "url": "https://github.com/uyjulian/ps2toolchain-ee/tree/macos_build_test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-ee",
+          "macos_build_test"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/uyjulian/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-ee — branch: partial_revert_fatlto",
+        "url": "https://github.com/uyjulian/ps2toolchain-ee/tree/partial_revert_fatlto",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-ee",
+          "partial_revert_fatlto"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-ee — branch: win32_workaround",
+        "url": "https://github.com/uyjulian/ps2toolchain-ee/tree/win32_workaround",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-ee",
+          "win32_workaround"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-ee — branch: without_python",
+        "url": "https://github.com/uyjulian/ps2toolchain-ee/tree/without_python",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-ee",
+          "without_python"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: binutils_gcc_update_20250918",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/binutils_gcc_update_20250918",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "binutils_gcc_update_20250918"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: buildsystem_improve",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/buildsystem_improve",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "buildsystem_improve"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: ci_improvements_20250918",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/ci_improvements_20250918",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "ci_improvements_20250918"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: ci_improvements_20251010",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/ci_improvements_20251010",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "ci_improvements_20251010"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: cleanup1",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/cleanup1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "cleanup1"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: contrib_download_prerequisites",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/contrib_download_prerequisites",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "contrib_download_prerequisites"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: debuginfo",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/debuginfo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "debuginfo"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: del_extra_cmake_modules",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/del_extra_cmake_modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "del_extra_cmake_modules"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: ghcr_upload",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/ghcr_upload",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "ghcr_upload"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: improve_docs_20240804",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/improve_docs_20240804",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "improve_docs_20240804"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "main"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: mipsel_none",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/mipsel_none",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "mipsel_none"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: plain_elf",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/plain_elf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "plain_elf"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: revertnewgcc12",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/revertnewgcc12",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "revertnewgcc12"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: upstream_gcc_12_2",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/upstream_gcc_12_2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "upstream_gcc_12_2"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: uyjworking",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/uyjworking",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "uyjworking"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: win32_workaround",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/win32_workaround",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "win32_workaround"
+        ]
+      },
+      {
+        "name": "uyjulian/ps2toolchain-iop — branch: without_python",
+        "url": "https://github.com/uyjulian/ps2toolchain-iop/tree/without_python",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "uyjulian/ps2toolchain-iop",
+          "without_python"
+        ]
+      },
+      {
         "name": "v9u/libsmb2 — branch: master",
         "url": "https://github.com/v9u/libsmb2/tree/master",
         "keywords": [
@@ -175608,6 +176024,32 @@
         ]
       },
       {
+        "name": "vertver/ps2toolchain — branch: master",
+        "url": "https://github.com/vertver/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "vertver/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "vertver/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/vertver/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "vertver/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
         "name": "VetheonDevelops/pcsx2 — branch: 0.9.8",
         "url": "https://github.com/VetheonDevelops/pcsx2/tree/0.9.8",
         "keywords": [
@@ -177490,6 +177932,45 @@
           "repository",
           "Wellinator/PS2ME",
           "main"
+        ]
+      },
+      {
+        "name": "Wellinator/ps2stuff — branch: master",
+        "url": "https://github.com/Wellinator/ps2stuff/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Wellinator/ps2stuff",
+          "master"
+        ]
+      },
+      {
+        "name": "Wellinator/ps2toolchain — branch: master",
+        "url": "https://github.com/Wellinator/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Wellinator/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "Wellinator/ps2toolchain — branch: v1.y",
+        "url": "https://github.com/Wellinator/ps2toolchain/tree/v1.y",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Wellinator/ps2toolchain",
+          "v1.y"
         ]
       },
       {
@@ -182586,6 +183067,162 @@
           "repository",
           "Ziemas/ps2sdk-ports",
           "master"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2toolchain — branch: master",
+        "url": "https://github.com/Ziemas/ps2toolchain/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Ziemas/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2toolchain — branch: v1.y",
+        "url": "https://github.com/Ziemas/ps2toolchain/tree/v1.y",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Ziemas/ps2toolchain",
+          "v1.y"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2toolchain-dvp — branch: main",
+        "url": "https://github.com/Ziemas/ps2toolchain-dvp/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Ziemas/ps2toolchain-dvp",
+          "main"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2toolchain-dvp — branch: master",
+        "url": "https://github.com/Ziemas/ps2toolchain-dvp/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Ziemas/ps2toolchain-dvp",
+          "master"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2toolchain-ee — branch: gcc14",
+        "url": "https://github.com/Ziemas/ps2toolchain-ee/tree/gcc14",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Ziemas/ps2toolchain-ee",
+          "gcc14"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2toolchain-ee — branch: libatomic",
+        "url": "https://github.com/Ziemas/ps2toolchain-ee/tree/libatomic",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Ziemas/ps2toolchain-ee",
+          "libatomic"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2toolchain-ee — branch: libatomic-fixes",
+        "url": "https://github.com/Ziemas/ps2toolchain-ee/tree/libatomic-fixes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Ziemas/ps2toolchain-ee",
+          "libatomic-fixes"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2toolchain-ee — branch: locking-policy",
+        "url": "https://github.com/Ziemas/ps2toolchain-ee/tree/locking-policy",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Ziemas/ps2toolchain-ee",
+          "locking-policy"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2toolchain-ee — branch: main",
+        "url": "https://github.com/Ziemas/ps2toolchain-ee/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Ziemas/ps2toolchain-ee",
+          "main"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2toolchain-iop — branch: c++",
+        "url": "https://github.com/Ziemas/ps2toolchain-iop/tree/c%2B%2B",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Ziemas/ps2toolchain-iop",
+          "c++"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2toolchain-iop — branch: gcc14",
+        "url": "https://github.com/Ziemas/ps2toolchain-iop/tree/gcc14",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Ziemas/ps2toolchain-iop",
+          "gcc14"
+        ]
+      },
+      {
+        "name": "Ziemas/ps2toolchain-iop — branch: main",
+        "url": "https://github.com/Ziemas/ps2toolchain-iop/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Ziemas/ps2toolchain-iop",
+          "main"
         ]
       },
       {
@@ -2085637,6 +2086274,36 @@
           "Wellinator/PS2ME",
           "main",
           "tools"
+        ]
+      },
+      {
+        "name": "Wellinator/ps2stuff@master — tools",
+        "url": "https://github.com/Wellinator/ps2stuff/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Wellinator/ps2stuff",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "Wellinator/ps2stuff@master — tools/vu_reg_manager",
+        "url": "https://github.com/Wellinator/ps2stuff/tree/master/tools/vu_reg_manager",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Wellinator/ps2stuff",
+          "master",
+          "tools/vu_reg_manager"
         ]
       },
       {
