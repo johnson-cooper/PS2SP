@@ -1,0 +1,21 @@
+{
+  "repository": "J2010T/Awesome-REA-copy",
+  "repositoryId": "1440318295",
+  "url": "https://github.com/J2010T/Awesome-REA-copy",
+  "description": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
+  "score": 75,
+  "evidence": [
+    "README explicitly mentions PlayStation 2",
+    "README contains PS2 development/toolchain evidence",
+    "GitHub fork of another repository"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": {
+    "parent": "reacher-z/Awesome-REA",
+    "source": "reacher-z/Awesome-REA",
+    "aheadBy": null
+  },
+  "discoveredAt": "2026-10-31T01:03:27.533Z",
+  "checkedAt": "2026-10-31T01:03:27.533Z"
+}
