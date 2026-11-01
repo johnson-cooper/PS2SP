@@ -1,9 +1,9 @@
 {
   "version": 1,
   "ps2devForum": {
-    "nextStart": 900,
+    "nextStart": 950,
     "maxStart": 2100,
-    "lastRun": "2026-10-31T22:24:48.285Z",
+    "lastRun": "2026-11-01T02:06:27.534Z",
     "latestSucceeded": true,
     "historicalSucceeded": true
   }
