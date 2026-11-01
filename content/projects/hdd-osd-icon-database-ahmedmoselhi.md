@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-30T19:22:57.967Z'
+  lastSynchronized: '2026-11-01T19:40:52.874Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"eab370b6fb0c77803ef9c2ed0fc674e63226d18df74d0bfa8e7c154fdde0ee94"
-    releasesEtag: '"4e5a0754123e150edd35f63c077b092fc8acf1f99673343fdbd321eefe2fd689"'
+    repoEtag: W/"50d776407aaa4549273929349cf4affa5582d89b30f010e9dc6e9f7a85358399"
+    releasesEtag: '"77fced59e78595972d5ad73c99bf78e1bf7c3083a50bba7fc056d047e954f91c"'
 discovery:
   method: 'fork-network:CosmicScale/HDD-OSD-Icon-Database'
   confidence: 95

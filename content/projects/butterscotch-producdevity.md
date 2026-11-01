@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-30T19:22:36.342Z'
+  lastSynchronized: '2026-11-01T19:40:35.813Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8608e2646bbf1c82e28a8b15e987053038165c5ada017ba6e2bc1c1d96df2727"
-    releasesEtag: '"4e5a0754123e150edd35f63c077b092fc8acf1f99673343fdbd321eefe2fd689"'
+    repoEtag: W/"7410f3f487243d7b61fc16477aeab8b7cedd3d7444f166bd11a3887c5e12615a"
+    releasesEtag: '"77fced59e78595972d5ad73c99bf78e1bf7c3083a50bba7fc056d047e954f91c"'
 discovery:
   method: 'fork-network:cobaltgit/Butterscotch'
   confidence: 100

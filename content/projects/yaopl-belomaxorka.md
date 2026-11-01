@@ -27,21 +27,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 1
+  stars: 2
   forks: 0
-  lastCommit: '2026-10-30T18:33:35Z'
+  lastCommit: '2026-11-01T09:05:30Z'
 latestRelease:
   tag: latest
-  name: v2.0.0-nightly.176-b8fd533-yaopl
-  publishedAt: '2026-10-30T18:33:36Z'
+  name: v2.0.0-nightly.191-6955d0b-yaopl
+  publishedAt: '2026-11-01T09:27:11Z'
   url: 'https://github.com/yaopl/yaopl/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-30T19:24:50.510Z'
+  lastSynchronized: '2026-11-01T19:42:26.100Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2d3661c0edb02f88c43282389da805380c9f97e5d2a58fcb5c34fa8e5e8cb262"
-    releasesEtag: W/"82f2d7baea15d50eb7f37c5637fd9996841f69b8bed3749ea28f1fab49641829"
+    repoEtag: W/"ba745141c5cc8d182d6a94f59406f2a3970c8dbaeab2b61bf7e4baa2d9f6a625"
+    releasesEtag: W/"828daa2829d895395d3de6ca4b1f439aa0ff496113a7088b079c98e625d9400c"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

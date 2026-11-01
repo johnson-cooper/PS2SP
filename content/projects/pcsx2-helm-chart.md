@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/HenriqZimer/pcsx2-helm-chart/releases/tag/v1.5.6'
 activity:
   lastChecked: '2026-10-19T14:59:02.710Z'
-  lastSynchronized: '2026-10-30T19:23:37.858Z'
+  lastSynchronized: '2026-11-01T19:41:26.204Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a13fd53685d7fd07654d19e94a2f4ba6265c2a63280ef036cce865cb123847b3"
-    releasesEtag: W/"56cb577a360413a1bc3fcd9e6680ef22b0bb753f2405a439c90da40876ca2989"
+    repoEtag: W/"391d59f9e80b3b0dad5c541ff9b4dbeaa7e277df034722b6f8e32f8ef550782b"
+    releasesEtag: W/"5f62629cfbcc861889d363e438f55662915a599a203dde94cea122a5d08ee877"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85

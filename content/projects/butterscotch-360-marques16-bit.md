@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-30T19:22:34.580Z'
+  lastSynchronized: '2026-11-01T19:40:34.510Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1b7c2ff191b17d1cb949e39cf431700fffb5fb281e8e792a5f7cbefc5a6da9c3"
-    releasesEtag: '"4e5a0754123e150edd35f63c077b092fc8acf1f99673343fdbd321eefe2fd689"'
+    repoEtag: W/"7022eea6b0a0024d764b2736abc0ea90ffb82dbd40e560d35b0f19312dcb2050"
+    releasesEtag: '"77fced59e78595972d5ad73c99bf78e1bf7c3083a50bba7fc056d047e954f91c"'
 discovery:
   method: 'fork-network:ceilingtilefan/Butterscotch-360'
   confidence: 95

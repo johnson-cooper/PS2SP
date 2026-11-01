@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-30T19:24:33.639Z'
+  lastSynchronized: '2026-11-01T19:42:12.458Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"82d782ac3e496a1ef2beee03fc0028c5c19036c15b41b2b5b0e703f679842985"
-    releasesEtag: '"4e5a0754123e150edd35f63c077b092fc8acf1f99673343fdbd321eefe2fd689"'
+    repoEtag: W/"4dde5664320a7908c2b78a21ebb099c087d1f9ddebfe88d2e6563ac17b4995eb"
+    releasesEtag: '"77fced59e78595972d5ad73c99bf78e1bf7c3083a50bba7fc056d047e954f91c"'
 discovery:
   method: 'fork-network:alex-free/psx80mp'
   confidence: 95

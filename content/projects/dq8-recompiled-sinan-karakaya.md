@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 103
+  stars: 112
   forks: 3
   lastCommit: '2026-10-23T21:42:07Z'
 latestRelease:
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/Sinan-Karakaya/DQ8-Recompiled/releases/tag/f6dfd96'
 activity:
   lastChecked: '2026-10-08T16:57:35.240Z'
-  lastSynchronized: '2026-10-30T19:22:42.706Z'
+  lastSynchronized: '2026-11-01T19:40:40.749Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"65256d1934bbb75e988cd73c50ca5a8608caa3d74d2b461ba23bd6f5c9fb32e6"
-    releasesEtag: W/"bcd13ae29e00e8b6602a5474ee9cdb559cd4c57425c3b9bfd9a7336f150f5a9f"
+    repoEtag: W/"22f7bf9d61866203ace13fa6dff262cd8823f22ed078e626683e3701da84cf9e"
+    releasesEtag: W/"ac323d4df14d9cd1ea2ce3cb46b5da90e793a630140b0483edde9cd55ba7931b"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85

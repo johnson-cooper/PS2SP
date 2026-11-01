@@ -27,7 +27,7 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-30T04:31:00Z'
+  lastCommit: '2026-11-01T10:52:13Z'
 latestRelease:
   tag: v0.1.1
   name: Boku no Natsuyasumi 2 PC — v0.1.1 source snapshot
@@ -36,12 +36,12 @@ latestRelease:
     https://github.com/batatinhafcbatatinha-pixel/boku-no-natsuyasumi-2-pc/releases/tag/v0.1.1
 activity:
   lastChecked: '2026-10-27T00:05:09.259Z'
-  lastSynchronized: '2026-10-30T19:22:33.914Z'
+  lastSynchronized: '2026-11-01T19:40:34.003Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"df36736b720d29bcadf8491fbf9f705f0b2bec0d3d1a1249e5c0f9ce98b97614"
-    releasesEtag: W/"0c9b14be37516f7ab8a74d3968256e6bc7a2e556382b315a6ad0f7c9fe2e2df9"
+    repoEtag: W/"5e706f70603a5e6a714e3d389c9bb2e82fc28b4ad3def01a656ab9390ffc993a"
+    releasesEtag: W/"3d5f1cf48e79b287f221d344d8ae38c598543ab3ea19c4431e561ac83874dacc"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
