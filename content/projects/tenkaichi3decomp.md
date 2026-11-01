@@ -35,12 +35,12 @@ latestRelease:
   url: 'https://github.com/BeeLTL/Tenkaichi3Decomp/releases/tag/web-0.1.37'
 activity:
   lastChecked: '2026-10-13T19:32:43.126Z'
-  lastSynchronized: '2026-10-30T23:48:58.736Z'
+  lastSynchronized: '2026-11-01T23:38:24.646Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d7f36434110d6abf2fb25b3796f21151f29cacda703007c643661dbad66ee45b"
-    releasesEtag: W/"8e08fe4179360713668a1755d22226d6a5d828e66fc7cd5fa6c42c4b7696aa01"
+    repoEtag: W/"81f65b22b99cb7e2de7a7e765260158cab525f7a27bf680061b068d484519bb4"
+    releasesEtag: W/"a3512addd5622ed065b4c5de4df6f4dd270490f797ccb9add3eef2e19b0548d0"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 80

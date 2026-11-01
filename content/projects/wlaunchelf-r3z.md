@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/saildot4k/wLaunchELF_R3Z/releases/tag/4.80'
 activity:
   lastChecked: '2026-09-29T00:27:15.652Z'
-  lastSynchronized: '2026-10-30T23:49:09.702Z'
+  lastSynchronized: '2026-11-01T23:38:36.596Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"54181a7378222218fd874d11c44b81964ed812d4d60b342230ddd0a984d6c3be"
-    releasesEtag: W/"d753aa9090e7d63f46daace76b0bfb2288036fa16bc1ddd2a30a55cb975e071a"
+    repoEtag: W/"bb4d2ae1f451dc9e12a7fde2003c7f379da41923b6ff06728d3d765d4ba3a1d5"
+    releasesEtag: W/"bb442199b1da0c3a3f12533faa535ae18f490b86d856495f82e4c3b14f96f068"
 discovery:
   method: curated
   confidence: 100

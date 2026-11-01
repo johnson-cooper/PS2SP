@@ -16,7 +16,7 @@ license: Unlicense
 homepage: 'https://discord.gg/xRh3NnYyMa'
 source:
   provider: github
-  repository: code-monad/NetherSX2-network-patched
+  repository: code-tsao/NetherSX2-network-patched
   repositoryId: '1330172908'
 repository:
   archived: false
@@ -29,14 +29,14 @@ latestRelease:
   name: NetherSX2 v2.2n-4248 MHSrv Network Patch 1
   publishedAt: '2026-08-11T17:42:22Z'
   url: >-
-    https://github.com/code-monad/NetherSX2-network-patched/releases/tag/v2.2n-4248-mhsrv.1
+    https://github.com/code-tsao/NetherSX2-network-patched/releases/tag/v2.2n-4248-mhsrv.1
 activity:
-  lastSynchronized: '2026-10-30T23:47:45.498Z'
+  lastSynchronized: '2026-11-01T23:36:42.621Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f4f37feb78a7e85a846575d4afe804dc9018905b9ed709229e33c8c9b2c6fa33"
-    releasesEtag: W/"857b70ec442e61f61adabdb0494449677b104d5748fda5fb0a1b76ca316e762d"
+    repoEtag: W/"ea14d7cb1dc341a6f5ca123b809eccb2fff284fc5f4b8d56dffd04fad6fd8feb"
+    releasesEtag: W/"165931853b9871bce165c6889d150fe01efb28892a2e2af7ac168495ff00c486"
 discovery:
   method: 'fork-network:Trixarian/NetherSX2-patch'
   confidence: 95
