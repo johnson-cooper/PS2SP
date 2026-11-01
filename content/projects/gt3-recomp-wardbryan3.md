@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 2
   forks: 0
   lastCommit: '2026-10-18T14:57:42Z'
 latestRelease:
@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-28T01:22:30.474Z'
+  lastSynchronized: '2026-11-01T01:10:28.422Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"16553e997a545972c8194a12cd15e76b9eb2cad2bf4b0e23561a3cbb9e7d4642"
-    releasesEtag: '"41d00b946821828c93f32efe15a1049785db1fcedaf15e45e617228a622d311d"'
+    repoEtag: W/"a007f3271f4425c2c7f15a84847dd00bc4e98c9ea53e0cbdea1fef1a922bd9a3"
+    releasesEtag: '"3b75f1d818d1fdb934a49305a4de4de4f2078614586fedddd81d263fe1e9f072"'
 discovery:
   method: 'fork-network:snuri00/ps2-web-recomp'
   confidence: 95

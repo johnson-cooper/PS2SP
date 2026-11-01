@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-28T01:23:50.310Z'
+  lastSynchronized: '2026-11-01T01:11:49.558Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1e549883d18b1c2063bf8ce51ea0f4c4cd7e24c34739e05c5168435efd2e50b8"
-    releasesEtag: '"41d00b946821828c93f32efe15a1049785db1fcedaf15e45e617228a622d311d"'
+    repoEtag: W/"6db1e18fcf72fb2393744451a94e03fb6e0452bbd6bc35d586be990f0c4a451d"
+    releasesEtag: '"3b75f1d818d1fdb934a49305a4de4de4f2078614586fedddd81d263fe1e9f072"'
 discovery:
   method: 'fork-network:daino-selvatico/rac1-native-game'
   confidence: 100

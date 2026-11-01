@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-28T01:23:23.248Z'
+  lastSynchronized: '2026-11-01T01:11:21.425Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"05f6010cbcbd2bc9a9567b68690028db1073309ece26f69791a4098d22f67f10"
-    releasesEtag: '"41d00b946821828c93f32efe15a1049785db1fcedaf15e45e617228a622d311d"'
+    repoEtag: W/"32c048774243c4761d11072d5e691f0a000c6db7b0128c19826759f60b5689c8"
+    releasesEtag: '"3b75f1d818d1fdb934a49305a4de4de4f2078614586fedddd81d263fe1e9f072"'
 discovery:
   method: 'fork-network:Wolf3s/prboom-plus'
   confidence: 95

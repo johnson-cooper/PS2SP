@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: '2026-10-31T01:00:19Z'
   url: 'https://github.com/0xdhx0/star-ocean-3-ptbr/releases/tag/v0.9-beta'
 activity:
-  lastSynchronized: '2026-10-31T07:30:31.053Z'
+  lastSynchronized: '2026-11-01T01:12:00.979Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"11d021c7d687f13fd9aea7e81fd58232080e894ec7782725dfcb39b67ef5eeaa"
+    releasesEtag: W/"603b173513cf359912fc6e57c4bcd32317e3f0c866ad718bfc2a0de6dd9c371b"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

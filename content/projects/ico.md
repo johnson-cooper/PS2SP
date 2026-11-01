@@ -10,7 +10,7 @@ tags:
 features: []
 authors: []
 license: null
-homepage: null
+homepage: 'https://nathanialf.github.io/ico/'
 source:
   provider: github
   repository: nathanialf/ico
@@ -18,21 +18,23 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 49
+  stars: 51
   forks: 2
-  lastCommit: '2026-10-24T22:15:32Z'
+  lastCommit: '2026-10-30T08:32:11Z'
 latestRelease:
-  tag: pal-v1.0.4
-  name: 'pal-v1.0.4: enemyKind as committed source, the branch on main''s shared layer'
-  publishedAt: '2026-10-24T15:49:33Z'
-  url: 'https://github.com/nathanialf/ico/releases/tag/pal-v1.0.4'
+  tag: pal-v1.0.5
+  name: >-
+    pal-v1.0.5: GirlForceFieldGeo takes the object, the branch on main's shared
+    layer
+  publishedAt: '2026-10-30T07:11:39Z'
+  url: 'https://github.com/nathanialf/ico/releases/tag/pal-v1.0.5'
 activity:
-  lastSynchronized: '2026-10-28T01:22:33.506Z'
+  lastSynchronized: '2026-11-01T01:10:31.757Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"878edf578625bc216a1ae50dd79e858f8d84366e31efbba0c795e247319569b7"
-    releasesEtag: W/"5930ec8e28ec014891031d083a7fee730045b326340e4b60003883ec93a3f3ef"
+    repoEtag: W/"e8cb616918f9e600052e115c48d547395461e3feb889cad6b967b0fd2bf4cbf7"
+    releasesEtag: W/"4c38293f2cb3657cb1f955be9e165c0764c8c27baf511a59095f4538e9465611"
 discovery:
   method: pending-recheck
   confidence: 100

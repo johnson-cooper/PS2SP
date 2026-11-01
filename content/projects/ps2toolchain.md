@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/ps2dev/ps2toolchain/releases/tag/2018-10-19'
 activity:
   lastChecked: '2026-09-29T00:27:13.927Z'
-  lastSynchronized: '2026-10-28T01:23:47.163Z'
+  lastSynchronized: '2026-11-01T01:11:46.689Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"86d407d0fe591fed42df0ce801dc69aa965bace290f8ade22bb502fd061246e7"
-    releasesEtag: W/"7945a87aabe3c4631045e14031f4df7aadf147e5714c88a2f6ad2909a4ed2f75"
+    repoEtag: W/"6c17f2231c8fc43ed69044b879093a2316b7f67172f461ec764d31f127165a77"
+    releasesEtag: W/"274a5cc1023797aff26b4fcb7ee51aa53857b8f39ff318015c4addf63bb555c6"
 discovery:
   method: curated
   confidence: 100
