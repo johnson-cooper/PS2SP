@@ -1,0 +1,16 @@
+{
+  "repository": "countnull10/pcsx2-cheats",
+  "repositoryId": "1441288220",
+  "url": "https://github.com/countnull10/pcsx2-cheats",
+  "description": "My custom .pnach cheat files, memory patches, and mods for PlayStation 2 games.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-01T01:28:31.587Z",
+  "checkedAt": "2026-11-01T01:28:31.587Z"
+}
