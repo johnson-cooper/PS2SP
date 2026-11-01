@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-10-14T20:59:09Z'
   url: 'https://github.com/mihhru/PS2CF/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-10-22T15:19:13.265Z'
+  lastSynchronized: '2026-11-01T15:10:53.813Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"687b7db82c695be0e3579cc01dcf773251965818fc63f9c9d88ec76f2e9aeb28"
-    releasesEtag: W/"bd317a407f9ede3659ade4bec8b14b6f271ce5647f151d60a9b411412c1a2b04"
+    repoEtag: W/"775a6e26ce6db8a09069a6ab8440eaaf99eda08a6177510d1903c0a0e5ce0611"
+    releasesEtag: W/"6317534476bf07a0da64c3efffade842da48cc3259eea2c7bafbb6316e9178ad"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -22,17 +22,18 @@ repository:
   forks: 0
   lastCommit: '2026-07-27T21:01:15Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: PCSX2_x64_B_056de99_C_7235a04
+  name: PCSX2_x64_B_056de99_C_7235a04
+  publishedAt: '2026-07-27T21:01:15Z'
+  url: >-
+    https://github.com/snowyegret23/pcsx2/releases/tag/PCSX2_x64_B_056de99_C_7235a04
 activity:
-  lastSynchronized: '2026-10-22T15:18:47.105Z'
+  lastSynchronized: '2026-11-01T15:10:30.571Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"882bbd361ad4f4e3115babd3b113194cbfa5da8c2b76b670a323602497575146"
-    releasesEtag: '"99dfab16a539fcae500c3d0e749ddca734427a46367bf6b00845c1e5b0a36b69"'
+    repoEtag: W/"9359d5dd7bc9fe89a85f6fffd389e99ff15397f570b0e81d6f510bd95c21d6c5"
+    releasesEtag: W/"e6debd4ae25bd1e07b9145509d67634bfa6210bd7ce035050cfe5348842f30e4"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

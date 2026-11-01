@@ -29,17 +29,17 @@ repository:
   forks: 0
   lastCommit: '2025-03-06T05:24:55Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: latest
+  name: latest
+  publishedAt: '2025-03-06T05:24:55Z'
+  url: 'https://github.com/Stayhye/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-22T15:18:22.863Z'
+  lastSynchronized: '2026-11-01T15:10:11.665Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7a055296bd0d06a22d7b20be16d98b73636c81d06219655cc7c59415ebeb72bb"
-    releasesEtag: '"99dfab16a539fcae500c3d0e749ddca734427a46367bf6b00845c1e5b0a36b69"'
+    repoEtag: W/"85d7158ee14af1d9fc74450ec9ba15b74578e83a5543d7152f525242bd0ed12f"
+    releasesEtag: W/"0f0637e4be6928c9f57b897bbb8c25085cb23bab709d2586dec101c109fc907a"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

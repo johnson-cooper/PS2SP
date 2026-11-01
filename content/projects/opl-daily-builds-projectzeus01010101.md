@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T15:18:25.678Z'
+  lastSynchronized: '2026-11-01T15:10:13.943Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"461c29e84a97ba5c0a7c1a3bf0e1f53dc82ae8cb52bfcb7cb72050c0e2378949"
-    releasesEtag: '"99dfab16a539fcae500c3d0e749ddca734427a46367bf6b00845c1e5b0a36b69"'
+    repoEtag: W/"e39fcdb69f8797def4c94687ba3a41152c5ac4c9f7a574934c2f8c7627f9e7bb"
+    releasesEtag: '"ad77fe11f72b65d0026fedb2545459954fd125a98ebe703c07954f3273e8f4aa"'
 discovery:
   method: 'fork-network:citronalco/OPL-Daily-Builds'
   confidence: 95

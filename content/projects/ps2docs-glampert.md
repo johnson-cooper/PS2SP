@@ -14,7 +14,7 @@ license: null
 homepage: null
 source:
   provider: github
-  repository: glampert/PS2Docs
+  repository: glampert/ps2docs
   repositoryId: '1425059196'
 repository:
   archived: false
@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T15:19:16.010Z'
+  lastSynchronized: '2026-11-01T15:10:55.855Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a6d1017cf4ba9b5c4ef432e4b0fa3695d0133b4c3bfafba0575c3faee8cf29f7"
-    releasesEtag: '"99dfab16a539fcae500c3d0e749ddca734427a46367bf6b00845c1e5b0a36b69"'
+    repoEtag: W/"9920c99e3ba1fc4f9c70c78847355c02c311f04bb32829d601d522855104dcd1"
+    releasesEtag: '"ad77fe11f72b65d0026fedb2545459954fd125a98ebe703c07954f3273e8f4aa"'
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

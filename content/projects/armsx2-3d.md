@@ -11,7 +11,7 @@ tags:
 features: []
 authors: []
 license: GPL-3.0
-homepage: null
+homepage: 'https://portroyale.online/armsx2.html'
 source:
   provider: github
   repository: SgtBilko76/ARMSX2-3D
@@ -21,19 +21,19 @@ repository:
   defaultBranch: quest-vr-stereo
   stars: 4
   forks: 0
-  lastCommit: '2026-09-27T11:33:33Z'
+  lastCommit: '2026-11-01T11:37:53Z'
 latestRelease:
   tag: v0.3-beta
   name: Beta 0.3
   publishedAt: '2026-09-23T11:45:33Z'
   url: 'https://github.com/SgtBilko76/ARMSX2-3D/releases/tag/v0.3-beta'
 activity:
-  lastSynchronized: '2026-10-22T15:16:55.474Z'
+  lastSynchronized: '2026-11-01T15:09:06.189Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b54e5121cdd81bfe50068fb51d4301f598e9a62d12fdfd9f4cc1ba92131cc4a7"
-    releasesEtag: W/"adcb5d7acc731cd64e100e442a0f449555f35bb9ecca2d01dc6bf03dfadb2c3e"
+    repoEtag: W/"aefe0baffbf15458d881fe79724d7dc08066075c5c63b84e0925595540782fae"
+    releasesEtag: W/"e192a6d885aca30012cd5378a731b3d03c5c12431b88196a330698581038b985"
 discovery:
   method: 'incremental:topic:ps2'
   confidence: 100

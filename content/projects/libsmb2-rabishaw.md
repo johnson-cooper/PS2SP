@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-23T23:30:39.239Z'
+  lastSynchronized: '2026-11-01T15:09:50.127Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"64e38a0be3c9e4a2f7b350ce7fcaf73fb166d657445e506fd6ef606de0dd87ed"
+    releasesEtag: '"ad77fe11f72b65d0026fedb2545459954fd125a98ebe703c07954f3273e8f4aa"'
 discovery:
   method: 'fork-network:skbehera1984/libsmb2'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: skbehera1984/libsmb2
   source: sahlberg/libsmb2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

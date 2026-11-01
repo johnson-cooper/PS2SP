@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-29T02:52:46.443Z'
+  lastSynchronized: '2026-11-01T15:09:46.404Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0562ff83db3d8df476915a2bbd05910f8360ad7227f43041005a5d481c081f78"
+    releasesEtag: '"ad77fe11f72b65d0026fedb2545459954fd125a98ebe703c07954f3273e8f4aa"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: drakolordx7/KillzoneRecomp
   source: drakolordx7/KillzoneRecomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

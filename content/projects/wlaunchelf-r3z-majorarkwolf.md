@@ -36,12 +36,12 @@ latestRelease:
   url: 'https://github.com/MajorArkwolf/wLaunchELF_R3Z/releases/tag/latest'
 activity:
   lastChecked: '2026-09-29T00:33:09.425Z'
-  lastSynchronized: '2026-10-22T15:20:02.669Z'
+  lastSynchronized: '2026-11-01T15:11:27.239Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3fe0ab65a1fde6a5ad10593b38a4520a0adb3e4f1c8f98aa81d37ceabe7823f2"
-    releasesEtag: W/"3815efb01b6519d8d0c815c496259e2197ff6ec8b2bc614d9b07a0eee984083f"
+    repoEtag: W/"ce00f006fc094c4f1fc38fe2bc5187a29557314b0fbc282cd9046b3d72133761"
+    releasesEtag: W/"e37f2cedb1ebb1f72ac215a0006dc509ca1606dc66af3904b224a1a5cc696a56"
 discovery:
   method: github-maintained-fork
   confidence: 100

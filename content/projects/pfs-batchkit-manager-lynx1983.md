@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-04-24T13:05:14Z'
   url: 'https://github.com/lynx1983/PFS-BatchKit-Manager/releases/tag/v1.2.1-alpha'
 activity:
-  lastSynchronized: '2026-10-22T15:18:52.387Z'
+  lastSynchronized: '2026-11-01T15:10:36.102Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b2d37a7b98fbee3b019827ed5c2a4b3b761a091cb32d29dda83a1b7a1584375f"
-    releasesEtag: W/"14c903027771f9ac8d22657753e0f2404dabfa9b770d3d9fb0e00b461942f02f"
+    repoEtag: W/"f0b5cd8ade2da3f372cdbcab6a241011e62c122b00a3cabf6416674e129c7810"
+    releasesEtag: W/"5e4d2484c8484826e3225571a6fae7b39fc47572253494e25daf93873dde7c67"
 discovery:
   method: 'fork-network:GDX-X/PFS-BatchKit-Manager'
   confidence: 95

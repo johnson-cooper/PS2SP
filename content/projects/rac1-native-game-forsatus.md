@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T01:43:46.634Z'
+  lastSynchronized: '2026-11-01T15:11:16.454Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4c595207d7f9d402c20623c14796f3a4072f8c4ec7baa5a3227eae1d6da04ca1"
+    releasesEtag: '"ad77fe11f72b65d0026fedb2545459954fd125a98ebe703c07954f3273e8f4aa"'
 discovery:
   method: 'fork-network:daino-selvatico/rac1-native-game'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: RAC-Native/rac1-native-game
   source: RAC-Native/rac1-native-game
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

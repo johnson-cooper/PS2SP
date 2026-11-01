@@ -20,21 +20,21 @@ source:
 repository:
   archived: false
   defaultBranch: rippcsx2
-  stars: 0
+  stars: 1
   forks: 0
-  lastCommit: '2026-10-21T07:10:09Z'
+  lastCommit: '2026-10-29T07:37:33Z'
 latestRelease:
-  tag: v2.9.96-rippcsx2.2
-  name: 'RIPPCSX2 2: the PS2 homebrew test emulator, ready for AI-assisted testing'
-  publishedAt: '2026-10-20T18:39:07Z'
-  url: 'https://github.com/akilluminati47/RIPPCSX2/releases/tag/v2.9.96-rippcsx2.2'
+  tag: rolling
+  name: RIPPCSX2
+  publishedAt: '2026-10-29T07:37:33Z'
+  url: 'https://github.com/akilluminati47/RIPPCSX2/releases/tag/rolling'
 activity:
-  lastSynchronized: '2026-10-22T15:19:51.848Z'
+  lastSynchronized: '2026-11-01T15:11:19.855Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cc7e82e97581fc4c32bb67dfe93a97be1e552f208e7190ee6185d93288d04035"
-    releasesEtag: W/"598bca3aae24db7076decfb7d64cad1bcbef1d480a413636787a1cbfe24368ec"
+    repoEtag: W/"c2bdb2603563b66a8658e32b3bfd8270da729b1142a9abc36ba00a8ed50ee24b"
+    releasesEtag: W/"3ccd213850073b3ca3cef86626c668aa91c7e853cfeb4ae00a534416b0d08386"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

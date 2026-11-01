@@ -20,21 +20,21 @@ source:
 repository:
   archived: false
   defaultBranch: remix-backend
-  stars: 1
+  stars: 2
   forks: 0
   lastCommit: '2026-09-28T16:18:56Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: remix-preview-5
+  name: PCSX2 RTX Remix - preview 5
+  publishedAt: '2026-09-28T16:19:15Z'
+  url: 'https://github.com/BRAGme/pcsx2-rtx-remix/releases/tag/remix-preview-5'
 activity:
-  lastSynchronized: '2026-10-22T15:18:45.799Z'
+  lastSynchronized: '2026-11-01T15:10:30.037Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4301c3a6f2409362568c076c3a1ba88261921048010fc2be08195dda9da250ac"
-    releasesEtag: '"99dfab16a539fcae500c3d0e749ddca734427a46367bf6b00845c1e5b0a36b69"'
+    repoEtag: W/"af8fe24589234955a493059b76b9ff3d1f0f1916d49f97dcc0b0d4b2ae0a86b6"
+    releasesEtag: W/"a290d2415f5854181a07e07ff8f3c38b9ff396fb43a94a12a311d14be4567030"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100
