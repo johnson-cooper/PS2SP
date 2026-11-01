@@ -1,0 +1,16 @@
+{
+  "repository": "anthoo582/retrace-mcp",
+  "repositoryId": "1442295808",
+  "url": "https://github.com/anthoo582/retrace-mcp",
+  "description": "Advanced reverse engineering MCP for Nintendo 64 and PlayStation 2. Binary analysis, MIPS decompilation, memory forensics and multi-agent tooling.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-01T23:54:36.997Z",
+  "checkedAt": "2026-11-01T23:54:36.997Z"
+}
