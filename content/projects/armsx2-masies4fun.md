@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-06-24T21:00:34Z'
   url: 'https://github.com/MaSieS4Fun/ARMSX2/releases/tag/Linux-arm'
 activity:
-  lastSynchronized: '2026-10-30T07:06:47.601Z'
+  lastSynchronized: '2026-11-01T07:32:22.939Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"82730acd482fbbef1d48002d3b4d812946ffb0d27d40787146a3f386f85bbf06"
-    releasesEtag: W/"74431f3e153e5962308755fe7a66e92f308392f59cae7941013da6b7e42ac1a8"
+    repoEtag: W/"354235aff6775e86bd6387788cf9f942eeb08091dcbf15c02596cd622270e7a4"
+    releasesEtag: W/"4882c0c7f4b3debff76beb45b2ebb6c9a4698d566a7a0deb7471f6daead2ef55"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

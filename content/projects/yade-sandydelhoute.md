@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-30T07:08:37.312Z'
+  lastSynchronized: '2026-11-01T07:34:14.794Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"33ee6e3bcd875e5e60fa6f36aaad075dc36df221a88f9d195be0a09b33e46895"
-    releasesEtag: '"93e3f34a5d35d00255924ba0a03af83e60bd3648a7f532bcf2317bb9d0e54b8c"'
+    repoEtag: W/"90360271bc2a0db9d74394f960724afde7ce91200e0b4982e6a99166c49a41a1"
+    releasesEtag: '"8ac24642bd58cc54c647f1529d0cb902c5d19c65a6967e95d12b097c3bec3e70"'
 discovery:
   method: 'fork-network:MFDGaming/YADE'
   confidence: 95

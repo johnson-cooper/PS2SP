@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/SynapticDreams/decomp.wtf/releases/tag/v0.10.7'
 activity:
   lastChecked: '2026-10-16T06:23:09.688Z'
-  lastSynchronized: '2026-10-30T07:06:55.699Z'
+  lastSynchronized: '2026-11-01T07:32:30.997Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"322f9e222330f94d011de7265a204fa63bf0c5041f2e4e9237c9ca0563602279"
-    releasesEtag: W/"29c39dccf0cac58e8dc0f1fe845aa927287258a7b08735845757108c533e6774"
+    repoEtag: W/"adfa18b054719025130e3fc892b5f4151885e066c4eac648910aa2c1d5e18c1c"
+    releasesEtag: W/"923e5f64c427a00d950b6fe593347c758013a40b84697dd9dcb6ff96d5c56832"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

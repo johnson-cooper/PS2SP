@@ -35,12 +35,12 @@ latestRelease:
   url: >-
     https://github.com/ColtonSilvaonKnoxKontor/Open-PS2-Loader/releases/tag/latest
 activity:
-  lastSynchronized: '2026-10-30T07:07:27.836Z'
+  lastSynchronized: '2026-11-01T07:33:04.004Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5de8908ed3fdf3013b33aae4ed875b5edb5492cb4d760c00d64af9e353039cc0"
-    releasesEtag: W/"5bac77f9d512c850179f426d9e3222205d03ea80817d6a0c078199e43922c6a0"
+    repoEtag: W/"439b355c59102e92e123d2c6012cbb29996ff73679f03ca8354223bfaa048914"
+    releasesEtag: W/"ef0dd17bfb030323277fc1734265635c895ebf62942d85323fe5dee5dafde537"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

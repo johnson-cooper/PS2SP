@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-30T07:07:08.430Z'
+  lastSynchronized: '2026-11-01T07:32:44.228Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"765da4bde970933bd0120aabe9cd5f4fb7059440dbb7ae0c54612cf985da4ab9"
-    releasesEtag: '"93e3f34a5d35d00255924ba0a03af83e60bd3648a7f532bcf2317bb9d0e54b8c"'
+    repoEtag: W/"5bcb363507ef65a45fabaa4961b417bd48e7b988c1e8081573166fff711512b2"
+    releasesEtag: '"8ac24642bd58cc54c647f1529d0cb902c5d19c65a6967e95d12b097c3bec3e70"'
 discovery:
   method: 'fork-network:ps2homebrew/HDLGameInstaller'
   confidence: 95

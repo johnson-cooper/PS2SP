@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/Sploters/Lombyte/releases/tag/toolchain-src'
 activity:
   lastChecked: '2026-10-14T14:03:13.565Z'
-  lastSynchronized: '2026-10-30T07:07:20.500Z'
+  lastSynchronized: '2026-11-01T07:32:55.940Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f24ed55f4c1ef4ce03de227fd62169f54ba46201f60bfbb36b33182ac76eaa76"
-    releasesEtag: W/"0e3c349d270ae7062461655adec4748396ca84820b8da952e0c9df383e3b07f0"
+    repoEtag: W/"511e2f73645d2a53b91c123938e321e75989298ad5fcd88bf69f75086fc224fb"
+    releasesEtag: W/"9c5b9e9d6ac2abc0bf3eb6bbebdbbb2bbf7388ff8969c5d1a409ffc651bd849f"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85
