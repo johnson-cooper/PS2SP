@@ -49,6 +49,21 @@ npm run build
 
 The generated site is written to `dist/`.
 
+Run `npm test` for offline discovery regression tests. These use simulated hosts
+and temporary catalogs, so they do not modify the live catalog or depend on
+external services. CI runs them on every pull request and before external Git
+discovery.
+
+External Git discovery retries timeouts, network failures, HTTP 408/429, and
+server errors once. If the retry fails, that host is deferred for the remainder
+of the run while other hosts continue. Each attempt counts against the request
+budget, and the 30-second deadline covers both headers and the JSON body.
+Warnings identify the failed endpoint; `discovery/external-git-state.json` records
+`lastRun.failedHosts`. A successful job with deferred hosts means partial discovery,
+not that every host was reachable. Existing links and unfinished branch scans
+are preserved for later scheduled runs. Authentication errors and invalid JSON
+still fail the job and require investigation.
+
 ## Cloudflare Pages
 
 Use:

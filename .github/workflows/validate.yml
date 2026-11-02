@@ -36,6 +36,9 @@ jobs:
           node --check scripts/organize-catalog.mjs
           node --check scripts/audit-ui-contracts.mjs
 
+      - name: Test discovery failure recovery
+        run: npm test
+
       - name: Audit UI contracts
         run: npm run audit:ui
 
@@ -59,7 +62,7 @@ jobs:
           echo "File count:"
           find dist -type f | wc -l
           echo "Largest generated files:"
-          find dist -type f -printf '%s %p\n' | sort -nr | head -20
+          find dist -type f -printf '%s %p\n' | sort -nr | sed -n '1,20p'
           echo "Known heavy entrypoints:"
           for file in dist/projects/index.html dist/resources/index.html dist/api/resources.json dist/api/software.json dist/index.html; do
             if [ -f "$file" ]; then
