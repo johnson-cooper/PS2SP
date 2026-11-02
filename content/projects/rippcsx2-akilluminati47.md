@@ -22,19 +22,19 @@ repository:
   defaultBranch: rippcsx2
   stars: 1
   forks: 0
-  lastCommit: '2026-10-29T07:37:33Z'
+  lastCommit: '2026-11-02T03:29:17Z'
 latestRelease:
   tag: rolling
   name: RIPPCSX2
   publishedAt: '2026-10-29T07:37:33Z'
   url: 'https://github.com/akilluminati47/RIPPCSX2/releases/tag/rolling'
 activity:
-  lastSynchronized: '2026-11-01T15:11:19.855Z'
+  lastSynchronized: '2026-11-02T15:55:17.280Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c2bdb2603563b66a8658e32b3bfd8270da729b1142a9abc36ba00a8ed50ee24b"
-    releasesEtag: W/"3ccd213850073b3ca3cef86626c668aa91c7e853cfeb4ae00a534416b0d08386"
+    repoEtag: W/"6e8d2c64977b3754896985903cb37cb9c7df604edc614111aad3ea47077695e2"
+    releasesEtag: W/"e1da3c6e5f10fa6da739d32a461914444c1dee5c20ba62f5304858ce75c3d07f"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

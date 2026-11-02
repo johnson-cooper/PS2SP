@@ -27,19 +27,19 @@ repository:
   defaultBranch: 362053534-patch-1
   stars: 14
   forks: 4
-  lastCommit: '2026-11-01T12:15:09Z'
+  lastCommit: '2026-11-02T15:43:48Z'
 latestRelease:
   tag: v0.9.3
   name: v0.9.3
   publishedAt: '2025-06-30T17:12:30Z'
   url: 'https://github.com/362053534/Open-PS2-Loader/releases/tag/v0.9.3'
 activity:
-  lastSynchronized: '2026-11-01T15:10:03.839Z'
+  lastSynchronized: '2026-11-02T15:53:41.582Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a0a50f104f59e963fa68d0333150dc04c09dd6fc0178683bccd64c42b0bc7b6d"
-    releasesEtag: W/"418e83c7af61e066edacab78e55e31234eda80141c73457f4ce0bf45d0ae1a47"
+    repoEtag: W/"aa05af8c605ff3d0d8aa60705c8c726995a02037145b0dda50abe51bcdf2bfe5"
+    releasesEtag: W/"485fe34bcad5499839c1983607f04495897b9eef87c31270ceb7fbd0f9a65d57"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

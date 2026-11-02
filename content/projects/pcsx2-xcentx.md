@@ -13,12 +13,12 @@ license: GPL-3.0
 homepage: 'https://pcsx2.net'
 source:
   provider: github
-  repository: xCENTx/pcsx2
+  repository: NightFyre/pcsx2
   repositoryId: '674336090'
 repository:
   archived: false
   defaultBranch: master
-  stars: 1
+  stars: 2
   forks: 0
   lastCommit: '2026-10-29T05:22:54Z'
 latestRelease:
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-01T15:10:34.462Z'
+  lastSynchronized: '2026-11-02T15:54:18.914Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1aa5fe51d5e7875414951c7e4addff016160226aa9bd536fdc1f92b1d91476d5"
-    releasesEtag: '"ad77fe11f72b65d0026fedb2545459954fd125a98ebe703c07954f3273e8f4aa"'
+    repoEtag: W/"fd4f4d2674c2e380ac7964daaaca1764b817ebc881512ee78b048dffc22f7119"
+    releasesEtag: '"a9f324b2a61da9854a428d9d24f3a16e20fe5f6fad6077a79cab1349ea45188c"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/elprogramadorloco-arch/fuc-recomp/releases/tag/v0.0.5'
 activity:
   lastChecked: '2026-10-17T23:28:07.364Z'
-  lastSynchronized: '2026-11-01T15:09:36.078Z'
+  lastSynchronized: '2026-11-02T15:53:05.738Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c5036939a8832bb554e36de76d604442a8e37a98632ec9ccbd2ed5aaad589280"
-    releasesEtag: W/"882650ef8dfaf01af09d2537f9779cdf6e0b4f30e66ae6926754a862612b3540"
+    repoEtag: W/"892fde2ba3081075916b6f3017b4fd18a7add182aa7ce3b3e121dd5a86d1b7bf"
+    releasesEtag: W/"d43c7a80216d615d55fdaa28592a062a9e4459470c454da4e945f43896f5cf4b"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

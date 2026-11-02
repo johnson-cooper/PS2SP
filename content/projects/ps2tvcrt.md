@@ -20,7 +20,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 2
+  stars: 3
   forks: 2
   lastCommit: '2026-10-31T21:24:07Z'
 latestRelease:
@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/Kyllemn/PS2TVCRT/releases/tag/Suite_FULL_INSTALL_MC'
 activity:
   lastChecked: '2026-10-18T18:16:42.637Z'
-  lastSynchronized: '2026-11-01T15:11:09.569Z'
+  lastSynchronized: '2026-11-02T15:55:03.180Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1358ac7945f080fbbe9c0fc3525c0ec46274245f7a621d4381c72fbd84342650"
-    releasesEtag: W/"5e8727a31af8a3997687d08140fd58c3a3bbf1502a82baa41ce2a36ea425d398"
+    repoEtag: W/"98bd21a060c111e1cc5557b4b30573cf0ebd57a790f921b1b7bbefcbfff26203"
+    releasesEtag: W/"637a8fadb9a7c7ba2521bfbc3865e10374a504171f3f5ae0c0e71349625620c5"
 discovery:
   method: 'pending-promotion:starred:NathanNeurotic'
   confidence: 70

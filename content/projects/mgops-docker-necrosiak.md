@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-01T15:09:54.597Z'
+  lastSynchronized: '2026-11-02T15:53:29.948Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a10740597e4cf1ac1f2fc31b6fc7a88d345bcc1d67eff03293c1abb55924eeef"
-    releasesEtag: '"ad77fe11f72b65d0026fedb2545459954fd125a98ebe703c07954f3273e8f4aa"'
+    repoEtag: W/"a003e7d7070f6723b3e1db4967a47a690a80e0d87d53b632b2db98a66ce98e5a"
+    releasesEtag: '"a9f324b2a61da9854a428d9d24f3a16e20fe5f6fad6077a79cab1349ea45188c"'
 discovery:
   method: 'fork-network:curi0us/mgops'
   confidence: 95

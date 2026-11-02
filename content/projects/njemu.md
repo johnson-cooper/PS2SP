@@ -23,7 +23,7 @@ repository:
   defaultBranch: master
   stars: 13
   forks: 4
-  lastCommit: '2026-11-01T11:43:12Z'
+  lastCommit: '2026-11-02T03:29:08Z'
 latestRelease:
   tag: v3.1.0
   name: NJEMU 3.1.0
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/fjtrujy/NJEMU/releases/tag/v3.1.0'
 activity:
   lastChecked: '2026-10-04T08:48:40.209Z'
-  lastSynchronized: '2026-11-01T15:10:02.099Z'
+  lastSynchronized: '2026-11-02T15:53:39.571Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bbd76b8449db52bbb2f03aae80652205000930a71a9291c194b10e6b3ba5810d"
-    releasesEtag: W/"f65cb1d83d56b0a46c07e2b82b65b440722446ca64d96bc75cc53c7b83dd1f0a"
+    repoEtag: W/"274b6f5af98c3b2ded2ddb674f142e55903b39e12f4f3fe7d41330957a1c97ab"
+    releasesEtag: W/"630cd74b5cc12f592bb863098b3578e461032ef862d4167bdbbf80d6164ef6c7"
 discovery:
   method: 'pending-promotion:incremental:ps2sdk in:name,description,readme'
   confidence: 75

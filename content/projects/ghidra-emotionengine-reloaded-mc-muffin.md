@@ -29,12 +29,12 @@ latestRelease:
   url: >-
     https://github.com/Mc-muffin/ghidra-emotionengine-reloaded/releases/tag/unstable
 activity:
-  lastSynchronized: '2026-11-01T15:09:37.072Z'
+  lastSynchronized: '2026-11-02T15:53:07.074Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e881363e4b0ef24e7e3159ade3301683137b5a3140145571e4ac586b9bac219a"
-    releasesEtag: W/"5b85a7b3cc291f4eda1d0be7975ea13217fb9ef4a9dd687a557d553833261a4b"
+    repoEtag: W/"d35aa050294286f5fca8d365da7d0e05dc8211fdd92f93b0c546f2e299cc8f95"
+    releasesEtag: W/"23274fec52f5fbdc3f9bda67754dffd036199835d0e57269f3f122b468a74515"
 discovery:
   method: 'fork-network:chaoticgd/ghidra-emotionengine-reloaded'
   confidence: 100
