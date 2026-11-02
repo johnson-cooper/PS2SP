@@ -1,0 +1,16 @@
+{
+  "repository": "FastestMolasses/Extermination",
+  "repositoryId": "1246950484",
+  "url": "https://github.com/FastestMolasses/Extermination",
+  "description": "Decompilation of the 2001 action horror PS2 game",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-02T17:26:42.913Z",
+  "checkedAt": "2026-11-02T17:26:42.913Z"
+}
