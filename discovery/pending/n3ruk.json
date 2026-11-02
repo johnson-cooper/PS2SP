@@ -1,0 +1,16 @@
+{
+  "repository": "N3ruk/N3ruk",
+  "repositoryId": "1443085389",
+  "url": "https://github.com/N3ruk/N3ruk",
+  "description": "Linux gaming, desktop utilities and PlayStation 2 tools. The N3ruk workshop.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-02T15:20:22.952Z",
+  "checkedAt": "2026-11-02T15:20:22.952Z"
+}
