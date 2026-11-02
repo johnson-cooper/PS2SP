@@ -65,7 +65,10 @@ and temporary catalogs, so they do not modify the live catalog or depend on
 external services. CI runs them on every pull request and before external Git
 discovery.
 
-External Git discovery retries timeouts, network failures, HTTP 408/429, and
+External Git discovery (`.github/workflows/external-git-discovery.yml`) runs
+once a week. Nearly all of its sources are on git.techwritescode.dev, a small
+personal server, so each run checks the whole queue once instead of the job
+running hourly. It retries timeouts, network failures, HTTP 408/429, and
 server errors once. If the retry fails, that host is deferred for the remainder
 of the run while other hosts continue. Each attempt counts against the request
 budget, and the 30-second deadline covers both headers and the JSON body.
