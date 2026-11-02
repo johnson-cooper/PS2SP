@@ -18048,6 +18048,19 @@
         ]
       },
       {
+        "name": "Audirvana/libsmb2 — branch: share-enum-fragment-byte-order",
+        "url": "https://github.com/Audirvana/libsmb2/tree/share-enum-fragment-byte-order",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Audirvana/libsmb2",
+          "share-enum-fragment-byte-order"
+        ]
+      },
+      {
         "name": "awaken1ng/PlayStation2-Basic-BootLoader — branch: main",
         "url": "https://github.com/awaken1ng/PlayStation2-Basic-BootLoader/tree/main",
         "keywords": [
@@ -172033,6 +172046,19 @@
         ]
       },
       {
+        "name": "Tomasmerca/psx-pi-smbshare — branch: master",
+        "url": "https://github.com/Tomasmerca/psx-pi-smbshare/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Tomasmerca/psx-pi-smbshare",
+          "master"
+        ]
+      },
+      {
         "name": "TomasRytir/iris — branch: master",
         "url": "https://github.com/TomasRytir/iris/tree/master",
         "keywords": [
@@ -175436,6 +175462,84 @@
           "repository",
           "vbreuibvso/ps2-covers",
           "main"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project — branch: game-install-improv",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/game-install-improv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "game-install-improv"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project — branch: main",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "main"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project — branch: PSBBN-Definitive-English-Patch",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/PSBBN-Definitive-English-Patch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "PSBBN-Definitive-English-Patch"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project — branch: PSBBN-Definitive-Project-v2.1",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/PSBBN-Definitive-Project-v2.1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "PSBBN-Definitive-Project-v2.1"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project — branch: PSBBN-Definitive-Project-v3.0",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/PSBBN-Definitive-Project-v3.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "PSBBN-Definitive-Project-v3.0"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project — branch: PSBBN-Definitive-Project-v4.2",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/PSBBN-Definitive-Project-v4.2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "PSBBN-Definitive-Project-v4.2"
         ]
       },
       {
@@ -179326,6 +179430,19 @@
         ]
       },
       {
+        "name": "vswanagan/PSBBN-Definitive-English-Patch — branch: main",
+        "url": "https://github.com/vswanagan/PSBBN-Definitive-English-Patch/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "vswanagan/PSBBN-Definitive-English-Patch",
+          "main"
+        ]
+      },
+      {
         "name": "VTSTech/PS2-OPL-CFG — branch: master",
         "url": "https://github.com/VTSTech/PS2-OPL-CFG/tree/master",
         "keywords": [
@@ -180639,6 +180756,19 @@
         ]
       },
       {
+        "name": "wildfirebill-sony-ps2/PSBBN-Definitive-English-Patch — branch: main",
+        "url": "https://github.com/wildfirebill-sony-ps2/PSBBN-Definitive-English-Patch/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "wildfirebill-sony-ps2/PSBBN-Definitive-English-Patch",
+          "main"
+        ]
+      },
+      {
         "name": "WilkerSebastian/AthenaEnv — branch: main",
         "url": "https://github.com/WilkerSebastian/AthenaEnv/tree/main",
         "keywords": [
@@ -180675,6 +180805,19 @@
           "repository",
           "williamblair/ps2gdb",
           "update_build"
+        ]
+      },
+      {
+        "name": "Wink72/psbbn-art-database — branch: main",
+        "url": "https://github.com/Wink72/psbbn-art-database/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Wink72/psbbn-art-database",
+          "main"
         ]
       },
       {
@@ -181731,6 +181874,19 @@
         ]
       },
       {
+        "name": "Woronetsky/PSBBN-DP-W — branch: main",
+        "url": "https://github.com/Woronetsky/PSBBN-DP-W/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Woronetsky/PSBBN-DP-W",
+          "main"
+        ]
+      },
+      {
         "name": "wowplus2/NetherSX2-patch — branch: main",
         "url": "https://github.com/wowplus2/NetherSX2-patch/tree/main",
         "keywords": [
@@ -181845,6 +182001,45 @@
           "repository",
           "WuGambinos/sfiii-decomp",
           "main"
+        ]
+      },
+      {
+        "name": "wyntresparkz/PSBBN-Definitive-English-Patch — branch: main",
+        "url": "https://github.com/wyntresparkz/PSBBN-Definitive-English-Patch/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "wyntresparkz/PSBBN-Definitive-English-Patch",
+          "main"
+        ]
+      },
+      {
+        "name": "wyntresparkz/PSBBN-Definitive-English-Patch — branch: release-v2.11",
+        "url": "https://github.com/wyntresparkz/PSBBN-Definitive-English-Patch/tree/release-v2.11",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "wyntresparkz/PSBBN-Definitive-English-Patch",
+          "release-v2.11"
+        ]
+      },
+      {
+        "name": "wyntresparkz/PSBBN-Definitive-English-Patch — branch: release-v3.00",
+        "url": "https://github.com/wyntresparkz/PSBBN-Definitive-English-Patch/tree/release-v3.00",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "wyntresparkz/PSBBN-Definitive-English-Patch",
+          "release-v3.00"
         ]
       },
       {
@@ -182885,6 +183080,32 @@
           "repository",
           "xperiable/NetherSX2-patch",
           "main"
+        ]
+      },
+      {
+        "name": "xperiments/psx-pi-smbshare — branch: master",
+        "url": "https://github.com/xperiments/psx-pi-smbshare/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "xperiments/psx-pi-smbshare",
+          "master"
+        ]
+      },
+      {
+        "name": "xperiments/psx-pi-smbshare — branch: smbd",
+        "url": "https://github.com/xperiments/psx-pi-smbshare/tree/smbd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "xperiments/psx-pi-smbshare",
+          "smbd"
         ]
       },
       {
@@ -184770,6 +184991,19 @@
           "repository",
           "zhaog100/neutrino",
           "v1.6.z"
+        ]
+      },
+      {
+        "name": "zhb94430/ps2-icon-extractor — branch: master",
+        "url": "https://github.com/zhb94430/ps2-icon-extractor/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zhb94430/ps2-icon-extractor",
+          "master"
         ]
       },
       {
@@ -424847,6 +425081,96 @@
         ]
       },
       {
+        "name": "Audirvana/libsmb2@master — libdcerpc/dcerpcd",
+        "url": "https://github.com/Audirvana/libsmb2/tree/master/libdcerpc/dcerpcd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "master",
+          "libdcerpc/dcerpcd"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@master — libdcerpc/dcerpcd/axpy",
+        "url": "https://github.com/Audirvana/libsmb2/tree/master/libdcerpc/dcerpcd/axpy",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "master",
+          "libdcerpc/dcerpcd/axpy"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@master — libdcerpc/dcerpcd/example",
+        "url": "https://github.com/Audirvana/libsmb2/tree/master/libdcerpc/dcerpcd/example",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "master",
+          "libdcerpc/dcerpcd/example"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@master — libdcerpc/examples",
+        "url": "https://github.com/Audirvana/libsmb2/tree/master/libdcerpc/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "master",
+          "libdcerpc/examples"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@master — libdcerpc/tests",
+        "url": "https://github.com/Audirvana/libsmb2/tree/master/libdcerpc/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "master",
+          "libdcerpc/tests"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@master — libdcerpc/utils",
+        "url": "https://github.com/Audirvana/libsmb2/tree/master/libdcerpc/utils",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "master",
+          "libdcerpc/utils"
+        ]
+      },
+      {
         "name": "Audirvana/libsmb2@master — tests",
         "url": "https://github.com/Audirvana/libsmb2/tree/master/tests",
         "keywords": [
@@ -424859,6 +425183,231 @@
           "Audirvana/libsmb2",
           "master",
           "tests"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@master — utils",
+        "url": "https://github.com/Audirvana/libsmb2/tree/master/utils",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "master",
+          "utils"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@share-enum-fragment-byte-order — cmake/Modules",
+        "url": "https://github.com/Audirvana/libsmb2/tree/share-enum-fragment-byte-order/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "share-enum-fragment-byte-order",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@share-enum-fragment-byte-order — examples",
+        "url": "https://github.com/Audirvana/libsmb2/tree/share-enum-fragment-byte-order/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "share-enum-fragment-byte-order",
+          "examples"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@share-enum-fragment-byte-order — examples/picow",
+        "url": "https://github.com/Audirvana/libsmb2/tree/share-enum-fragment-byte-order/examples/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "share-enum-fragment-byte-order",
+          "examples/picow"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@share-enum-fragment-byte-order — include/picow",
+        "url": "https://github.com/Audirvana/libsmb2/tree/share-enum-fragment-byte-order/include/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "share-enum-fragment-byte-order",
+          "include/picow"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@share-enum-fragment-byte-order — lib",
+        "url": "https://github.com/Audirvana/libsmb2/tree/share-enum-fragment-byte-order/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "share-enum-fragment-byte-order",
+          "lib"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@share-enum-fragment-byte-order — libdcerpc",
+        "url": "https://github.com/Audirvana/libsmb2/tree/share-enum-fragment-byte-order/libdcerpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "share-enum-fragment-byte-order",
+          "libdcerpc"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@share-enum-fragment-byte-order — libdcerpc/dcerpcd",
+        "url": "https://github.com/Audirvana/libsmb2/tree/share-enum-fragment-byte-order/libdcerpc/dcerpcd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "share-enum-fragment-byte-order",
+          "libdcerpc/dcerpcd"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@share-enum-fragment-byte-order — libdcerpc/dcerpcd/axpy",
+        "url": "https://github.com/Audirvana/libsmb2/tree/share-enum-fragment-byte-order/libdcerpc/dcerpcd/axpy",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "share-enum-fragment-byte-order",
+          "libdcerpc/dcerpcd/axpy"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@share-enum-fragment-byte-order — libdcerpc/dcerpcd/example",
+        "url": "https://github.com/Audirvana/libsmb2/tree/share-enum-fragment-byte-order/libdcerpc/dcerpcd/example",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "share-enum-fragment-byte-order",
+          "libdcerpc/dcerpcd/example"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@share-enum-fragment-byte-order — libdcerpc/examples",
+        "url": "https://github.com/Audirvana/libsmb2/tree/share-enum-fragment-byte-order/libdcerpc/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "share-enum-fragment-byte-order",
+          "libdcerpc/examples"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@share-enum-fragment-byte-order — libdcerpc/tests",
+        "url": "https://github.com/Audirvana/libsmb2/tree/share-enum-fragment-byte-order/libdcerpc/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "share-enum-fragment-byte-order",
+          "libdcerpc/tests"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@share-enum-fragment-byte-order — libdcerpc/utils",
+        "url": "https://github.com/Audirvana/libsmb2/tree/share-enum-fragment-byte-order/libdcerpc/utils",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "share-enum-fragment-byte-order",
+          "libdcerpc/utils"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@share-enum-fragment-byte-order — tests",
+        "url": "https://github.com/Audirvana/libsmb2/tree/share-enum-fragment-byte-order/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "share-enum-fragment-byte-order",
+          "tests"
+        ]
+      },
+      {
+        "name": "Audirvana/libsmb2@share-enum-fragment-byte-order — utils",
+        "url": "https://github.com/Audirvana/libsmb2/tree/share-enum-fragment-byte-order/utils",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Audirvana/libsmb2",
+          "share-enum-fragment-byte-order",
+          "utils"
         ]
       },
       {
@@ -2053503,6 +2054052,306 @@
         ]
       },
       {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@game-install-improv — games",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/game-install-improv/games",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "game-install-improv",
+          "games"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@game-install-improv — games/APPS",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/game-install-improv/games/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "game-install-improv",
+          "games/APPS"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@game-install-improv — scripts/assets/neutrino",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/game-install-improv/scripts/assets/neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "game-install-improv",
+          "scripts/assets/neutrino"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@game-install-improv — scripts/assets/neutrino/modules",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/game-install-improv/scripts/assets/neutrino/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "game-install-improv",
+          "scripts/assets/neutrino/modules"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@main — games",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/main/games",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "main",
+          "games"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@main — games/APPS",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/main/games/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "main",
+          "games/APPS"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@main — scripts/assets/neutrino",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/main/scripts/assets/neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "main",
+          "scripts/assets/neutrino"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@main — scripts/assets/neutrino/modules",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/main/scripts/assets/neutrino/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "main",
+          "scripts/assets/neutrino/modules"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@PSBBN-Definitive-Project-v2.1 — assets/neutrino",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/PSBBN-Definitive-Project-v2.1/assets/neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "PSBBN-Definitive-Project-v2.1",
+          "assets/neutrino"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@PSBBN-Definitive-Project-v2.1 — assets/neutrino/modules",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/PSBBN-Definitive-Project-v2.1/assets/neutrino/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "PSBBN-Definitive-Project-v2.1",
+          "assets/neutrino/modules"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@PSBBN-Definitive-Project-v2.1 — games",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/PSBBN-Definitive-Project-v2.1/games",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "PSBBN-Definitive-Project-v2.1",
+          "games"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@PSBBN-Definitive-Project-v2.1 — games/APPS",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/PSBBN-Definitive-Project-v2.1/games/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "PSBBN-Definitive-Project-v2.1",
+          "games/APPS"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@PSBBN-Definitive-Project-v3.0 — games",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/PSBBN-Definitive-Project-v3.0/games",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "PSBBN-Definitive-Project-v3.0",
+          "games"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@PSBBN-Definitive-Project-v3.0 — games/APPS",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/PSBBN-Definitive-Project-v3.0/games/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "PSBBN-Definitive-Project-v3.0",
+          "games/APPS"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@PSBBN-Definitive-Project-v3.0 — scripts/assets/neutrino",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/PSBBN-Definitive-Project-v3.0/scripts/assets/neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "PSBBN-Definitive-Project-v3.0",
+          "scripts/assets/neutrino"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@PSBBN-Definitive-Project-v3.0 — scripts/assets/neutrino/modules",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/PSBBN-Definitive-Project-v3.0/scripts/assets/neutrino/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "PSBBN-Definitive-Project-v3.0",
+          "scripts/assets/neutrino/modules"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@PSBBN-Definitive-Project-v4.2 — games",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/PSBBN-Definitive-Project-v4.2/games",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "PSBBN-Definitive-Project-v4.2",
+          "games"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@PSBBN-Definitive-Project-v4.2 — games/APPS",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/PSBBN-Definitive-Project-v4.2/games/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "PSBBN-Definitive-Project-v4.2",
+          "games/APPS"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@PSBBN-Definitive-Project-v4.2 — scripts/assets/neutrino",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/PSBBN-Definitive-Project-v4.2/scripts/assets/neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "PSBBN-Definitive-Project-v4.2",
+          "scripts/assets/neutrino"
+        ]
+      },
+      {
+        "name": "VEEZZYSSION/PSBBN-Definitive-Project@PSBBN-Definitive-Project-v4.2 — scripts/assets/neutrino/modules",
+        "url": "https://github.com/VEEZZYSSION/PSBBN-Definitive-Project/tree/PSBBN-Definitive-Project-v4.2/scripts/assets/neutrino/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "VEEZZYSSION/PSBBN-Definitive-Project",
+          "PSBBN-Definitive-Project-v4.2",
+          "scripts/assets/neutrino/modules"
+        ]
+      },
+      {
         "name": "velrino/ps2-covers@fix/issue-613-slps-25550-cover — tools",
         "url": "https://github.com/velrino/ps2-covers/tree/fix/issue-613-slps-25550-cover/tools",
         "keywords": [
@@ -2088095,6 +2088944,66 @@
         ]
       },
       {
+        "name": "vswanagan/PSBBN-Definitive-English-Patch@main — assets/neutrino",
+        "url": "https://github.com/vswanagan/PSBBN-Definitive-English-Patch/tree/main/assets/neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "vswanagan/PSBBN-Definitive-English-Patch",
+          "main",
+          "assets/neutrino"
+        ]
+      },
+      {
+        "name": "vswanagan/PSBBN-Definitive-English-Patch@main — assets/neutrino/modules",
+        "url": "https://github.com/vswanagan/PSBBN-Definitive-English-Patch/tree/main/assets/neutrino/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "vswanagan/PSBBN-Definitive-English-Patch",
+          "main",
+          "assets/neutrino/modules"
+        ]
+      },
+      {
+        "name": "vswanagan/PSBBN-Definitive-English-Patch@main — games",
+        "url": "https://github.com/vswanagan/PSBBN-Definitive-English-Patch/tree/main/games",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "vswanagan/PSBBN-Definitive-English-Patch",
+          "main",
+          "games"
+        ]
+      },
+      {
+        "name": "vswanagan/PSBBN-Definitive-English-Patch@main — games/APPS",
+        "url": "https://github.com/vswanagan/PSBBN-Definitive-English-Patch/tree/main/games/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "vswanagan/PSBBN-Definitive-English-Patch",
+          "main",
+          "games/APPS"
+        ]
+      },
+      {
         "name": "wallmasterr/Fceumm-PS2coverflow@master — fceux-2.6.6",
         "url": "https://github.com/wallmasterr/Fceumm-PS2coverflow/tree/master/fceux-2.6.6",
         "keywords": [
@@ -2101527,6 +2102436,66 @@
         ]
       },
       {
+        "name": "wildfirebill-sony-ps2/PSBBN-Definitive-English-Patch@main — games",
+        "url": "https://github.com/wildfirebill-sony-ps2/PSBBN-Definitive-English-Patch/tree/main/games",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wildfirebill-sony-ps2/PSBBN-Definitive-English-Patch",
+          "main",
+          "games"
+        ]
+      },
+      {
+        "name": "wildfirebill-sony-ps2/PSBBN-Definitive-English-Patch@main — games/APPS",
+        "url": "https://github.com/wildfirebill-sony-ps2/PSBBN-Definitive-English-Patch/tree/main/games/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wildfirebill-sony-ps2/PSBBN-Definitive-English-Patch",
+          "main",
+          "games/APPS"
+        ]
+      },
+      {
+        "name": "wildfirebill-sony-ps2/PSBBN-Definitive-English-Patch@main — scripts/assets/neutrino",
+        "url": "https://github.com/wildfirebill-sony-ps2/PSBBN-Definitive-English-Patch/tree/main/scripts/assets/neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wildfirebill-sony-ps2/PSBBN-Definitive-English-Patch",
+          "main",
+          "scripts/assets/neutrino"
+        ]
+      },
+      {
+        "name": "wildfirebill-sony-ps2/PSBBN-Definitive-English-Patch@main — scripts/assets/neutrino/modules",
+        "url": "https://github.com/wildfirebill-sony-ps2/PSBBN-Definitive-English-Patch/tree/main/scripts/assets/neutrino/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wildfirebill-sony-ps2/PSBBN-Definitive-English-Patch",
+          "main",
+          "scripts/assets/neutrino/modules"
+        ]
+      },
+      {
         "name": "WilkerSebastian/AthenaEnv@main — ee_modules/bearssl",
         "url": "https://github.com/WilkerSebastian/AthenaEnv/tree/main/ee_modules/bearssl",
         "keywords": [
@@ -2102064,6 +2103033,21 @@
           "williamblair/ps2gdb",
           "update_build",
           "ee"
+        ]
+      },
+      {
+        "name": "Wink72/psbbn-art-database@main — apps",
+        "url": "https://github.com/Wink72/psbbn-art-database/tree/main/apps",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Wink72/psbbn-art-database",
+          "main",
+          "apps"
         ]
       },
       {
@@ -2123869,6 +2124853,66 @@
         ]
       },
       {
+        "name": "Woronetsky/PSBBN-DP-W@main — games",
+        "url": "https://github.com/Woronetsky/PSBBN-DP-W/tree/main/games",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Woronetsky/PSBBN-DP-W",
+          "main",
+          "games"
+        ]
+      },
+      {
+        "name": "Woronetsky/PSBBN-DP-W@main — games/APPS",
+        "url": "https://github.com/Woronetsky/PSBBN-DP-W/tree/main/games/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Woronetsky/PSBBN-DP-W",
+          "main",
+          "games/APPS"
+        ]
+      },
+      {
+        "name": "Woronetsky/PSBBN-DP-W@main — scripts/assets/neutrino",
+        "url": "https://github.com/Woronetsky/PSBBN-DP-W/tree/main/scripts/assets/neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Woronetsky/PSBBN-DP-W",
+          "main",
+          "scripts/assets/neutrino"
+        ]
+      },
+      {
+        "name": "Woronetsky/PSBBN-DP-W@main — scripts/assets/neutrino/modules",
+        "url": "https://github.com/Woronetsky/PSBBN-DP-W/tree/main/scripts/assets/neutrino/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Woronetsky/PSBBN-DP-W",
+          "main",
+          "scripts/assets/neutrino/modules"
+        ]
+      },
+      {
         "name": "WR699/PS2-BlockBattle@main — tools",
         "url": "https://github.com/WR699/PS2-BlockBattle/tree/main/tools",
         "keywords": [
@@ -2124909,6 +2125953,186 @@
           "tools/saturn-splitter",
           "gitlink",
           "submodule"
+        ]
+      },
+      {
+        "name": "wyntresparkz/PSBBN-Definitive-English-Patch@main — games",
+        "url": "https://github.com/wyntresparkz/PSBBN-Definitive-English-Patch/tree/main/games",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wyntresparkz/PSBBN-Definitive-English-Patch",
+          "main",
+          "games"
+        ]
+      },
+      {
+        "name": "wyntresparkz/PSBBN-Definitive-English-Patch@main — games/APPS",
+        "url": "https://github.com/wyntresparkz/PSBBN-Definitive-English-Patch/tree/main/games/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wyntresparkz/PSBBN-Definitive-English-Patch",
+          "main",
+          "games/APPS"
+        ]
+      },
+      {
+        "name": "wyntresparkz/PSBBN-Definitive-English-Patch@main — scripts/assets/neutrino",
+        "url": "https://github.com/wyntresparkz/PSBBN-Definitive-English-Patch/tree/main/scripts/assets/neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wyntresparkz/PSBBN-Definitive-English-Patch",
+          "main",
+          "scripts/assets/neutrino"
+        ]
+      },
+      {
+        "name": "wyntresparkz/PSBBN-Definitive-English-Patch@main — scripts/assets/neutrino/modules",
+        "url": "https://github.com/wyntresparkz/PSBBN-Definitive-English-Patch/tree/main/scripts/assets/neutrino/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wyntresparkz/PSBBN-Definitive-English-Patch",
+          "main",
+          "scripts/assets/neutrino/modules"
+        ]
+      },
+      {
+        "name": "wyntresparkz/PSBBN-Definitive-English-Patch@release-v2.11 — assets/neutrino",
+        "url": "https://github.com/wyntresparkz/PSBBN-Definitive-English-Patch/tree/release-v2.11/assets/neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wyntresparkz/PSBBN-Definitive-English-Patch",
+          "release-v2.11",
+          "assets/neutrino"
+        ]
+      },
+      {
+        "name": "wyntresparkz/PSBBN-Definitive-English-Patch@release-v2.11 — assets/neutrino/modules",
+        "url": "https://github.com/wyntresparkz/PSBBN-Definitive-English-Patch/tree/release-v2.11/assets/neutrino/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wyntresparkz/PSBBN-Definitive-English-Patch",
+          "release-v2.11",
+          "assets/neutrino/modules"
+        ]
+      },
+      {
+        "name": "wyntresparkz/PSBBN-Definitive-English-Patch@release-v2.11 — games",
+        "url": "https://github.com/wyntresparkz/PSBBN-Definitive-English-Patch/tree/release-v2.11/games",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wyntresparkz/PSBBN-Definitive-English-Patch",
+          "release-v2.11",
+          "games"
+        ]
+      },
+      {
+        "name": "wyntresparkz/PSBBN-Definitive-English-Patch@release-v2.11 — games/APPS",
+        "url": "https://github.com/wyntresparkz/PSBBN-Definitive-English-Patch/tree/release-v2.11/games/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wyntresparkz/PSBBN-Definitive-English-Patch",
+          "release-v2.11",
+          "games/APPS"
+        ]
+      },
+      {
+        "name": "wyntresparkz/PSBBN-Definitive-English-Patch@release-v3.00 — games",
+        "url": "https://github.com/wyntresparkz/PSBBN-Definitive-English-Patch/tree/release-v3.00/games",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wyntresparkz/PSBBN-Definitive-English-Patch",
+          "release-v3.00",
+          "games"
+        ]
+      },
+      {
+        "name": "wyntresparkz/PSBBN-Definitive-English-Patch@release-v3.00 — games/APPS",
+        "url": "https://github.com/wyntresparkz/PSBBN-Definitive-English-Patch/tree/release-v3.00/games/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wyntresparkz/PSBBN-Definitive-English-Patch",
+          "release-v3.00",
+          "games/APPS"
+        ]
+      },
+      {
+        "name": "wyntresparkz/PSBBN-Definitive-English-Patch@release-v3.00 — scripts/assets/neutrino",
+        "url": "https://github.com/wyntresparkz/PSBBN-Definitive-English-Patch/tree/release-v3.00/scripts/assets/neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wyntresparkz/PSBBN-Definitive-English-Patch",
+          "release-v3.00",
+          "scripts/assets/neutrino"
+        ]
+      },
+      {
+        "name": "wyntresparkz/PSBBN-Definitive-English-Patch@release-v3.00 — scripts/assets/neutrino/modules",
+        "url": "https://github.com/wyntresparkz/PSBBN-Definitive-English-Patch/tree/release-v3.00/scripts/assets/neutrino/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wyntresparkz/PSBBN-Definitive-English-Patch",
+          "release-v3.00",
+          "scripts/assets/neutrino/modules"
         ]
       },
       {
