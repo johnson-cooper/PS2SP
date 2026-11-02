@@ -19491,6 +19491,32 @@
         ]
       },
       {
+        "name": "bhardwajRahul/retronas — branch: main",
+        "url": "https://github.com/bhardwajRahul/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "bhardwajRahul/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "bigianb/quake2-for-ps2 — branch: master",
+        "url": "https://github.com/bigianb/quake2-for-ps2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "bigianb/quake2-for-ps2",
+          "master"
+        ]
+      },
+      {
         "name": "bignaux/hdl-dump — branch: 0.8.x",
         "url": "https://github.com/bignaux/hdl-dump/tree/0.8.x",
         "keywords": [
@@ -19826,6 +19852,84 @@
           "repository",
           "BirdWatcherBen/pcsx2",
           "master"
+        ]
+      },
+      {
+        "name": "birdybro/retronas — branch: add-arduboy",
+        "url": "https://github.com/birdybro/retronas/tree/add-arduboy",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "birdybro/retronas",
+          "add-arduboy"
+        ]
+      },
+      {
+        "name": "birdybro/retronas — branch: add-systems",
+        "url": "https://github.com/birdybro/retronas/tree/add-systems",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "birdybro/retronas",
+          "add-systems"
+        ]
+      },
+      {
+        "name": "birdybro/retronas — branch: fix-mister-shares",
+        "url": "https://github.com/birdybro/retronas/tree/fix-mister-shares",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "birdybro/retronas",
+          "fix-mister-shares"
+        ]
+      },
+      {
+        "name": "birdybro/retronas — branch: main",
+        "url": "https://github.com/birdybro/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "birdybro/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "birdybro/retronas — branch: optimize-samba",
+        "url": "https://github.com/birdybro/retronas/tree/optimize-samba",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "birdybro/retronas",
+          "optimize-samba"
+        ]
+      },
+      {
+        "name": "birdybro/retronas — branch: samba-fix",
+        "url": "https://github.com/birdybro/retronas/tree/samba-fix",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "birdybro/retronas",
+          "samba-fix"
         ]
       },
       {
@@ -20609,6 +20713,45 @@
         ]
       },
       {
+        "name": "blathers16/retronas — branch: main",
+        "url": "https://github.com/blathers16/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "blathers16/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "blathers16/retronas — branch: smdb-specific",
+        "url": "https://github.com/blathers16/retronas/tree/smdb-specific",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "blathers16/retronas",
+          "smdb-specific"
+        ]
+      },
+      {
+        "name": "blathers16/retronas — branch: update-smdb-when-running-for-specific-system",
+        "url": "https://github.com/blathers16/retronas/tree/update-smdb-when-running-for-specific-system",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "blathers16/retronas",
+          "update-smdb-when-running-for-specific-system"
+        ]
+      },
+      {
         "name": "Blaze1burn2/Stationplay2EMU — branch: master",
         "url": "https://github.com/Blaze1burn2/Stationplay2EMU/tree/master",
         "keywords": [
@@ -21308,6 +21451,58 @@
           "repository",
           "BlueInstruction/pcsx2",
           "rc_0.9.6"
+        ]
+      },
+      {
+        "name": "BluejayWagon/retronas — branch: imgcreator",
+        "url": "https://github.com/BluejayWagon/retronas/tree/imgcreator",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "BluejayWagon/retronas",
+          "imgcreator"
+        ]
+      },
+      {
+        "name": "BluejayWagon/retronas — branch: main",
+        "url": "https://github.com/BluejayWagon/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "BluejayWagon/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "BluejayWagon/retronas — branch: multi-distro-concept",
+        "url": "https://github.com/BluejayWagon/retronas/tree/multi-distro-concept",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "BluejayWagon/retronas",
+          "multi-distro-concept"
+        ]
+      },
+      {
+        "name": "BluejayWagon/retronas — branch: testing",
+        "url": "https://github.com/BluejayWagon/retronas/tree/testing",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "BluejayWagon/retronas",
+          "testing"
         ]
       },
       {
@@ -22845,6 +23040,32 @@
         ]
       },
       {
+        "name": "call286/retronas — branch: main",
+        "url": "https://github.com/call286/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "call286/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "call286/retronas — branch: retropi",
+        "url": "https://github.com/call286/retronas/tree/retropi",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "call286/retronas",
+          "retropi"
+        ]
+      },
+      {
         "name": "calos9999/FreeMcBoot-Installer — branch: master",
         "url": "https://github.com/calos9999/FreeMcBoot-Installer/tree/master",
         "keywords": [
@@ -23248,6 +23469,58 @@
         ]
       },
       {
+        "name": "caseyrobb/retronas — branch: main",
+        "url": "https://github.com/caseyrobb/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "caseyrobb/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "castanea-dentata/retronas-bsd — branch: dev",
+        "url": "https://github.com/castanea-dentata/retronas-bsd/tree/dev",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "castanea-dentata/retronas-bsd",
+          "dev"
+        ]
+      },
+      {
+        "name": "castanea-dentata/retronas-bsd — branch: main",
+        "url": "https://github.com/castanea-dentata/retronas-bsd/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "castanea-dentata/retronas-bsd",
+          "main"
+        ]
+      },
+      {
+        "name": "castanea-dentata/retronas-bsd — branch: testing",
+        "url": "https://github.com/castanea-dentata/retronas-bsd/tree/testing",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "castanea-dentata/retronas-bsd",
+          "testing"
+        ]
+      },
+      {
         "name": "Cat-Ling/ps2-covers — branch: main",
         "url": "https://github.com/Cat-Ling/ps2-covers/tree/main",
         "keywords": [
@@ -23378,6 +23651,19 @@
         ]
       },
       {
+        "name": "ch0mik/retronas — branch: main",
+        "url": "https://github.com/ch0mik/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ch0mik/retronas",
+          "main"
+        ]
+      },
+      {
         "name": "chadalvarez/libsmb2 — branch: master",
         "url": "https://github.com/chadalvarez/libsmb2/tree/master",
         "keywords": [
@@ -23388,6 +23674,58 @@
           "repository",
           "chadalvarez/libsmb2",
           "master"
+        ]
+      },
+      {
+        "name": "changsongyang/retronas — branch: imgcreator",
+        "url": "https://github.com/changsongyang/retronas/tree/imgcreator",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "changsongyang/retronas",
+          "imgcreator"
+        ]
+      },
+      {
+        "name": "changsongyang/retronas — branch: main",
+        "url": "https://github.com/changsongyang/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "changsongyang/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "changsongyang/retronas — branch: multi-distro-concept",
+        "url": "https://github.com/changsongyang/retronas/tree/multi-distro-concept",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "changsongyang/retronas",
+          "multi-distro-concept"
+        ]
+      },
+      {
+        "name": "changsongyang/retronas — branch: testing",
+        "url": "https://github.com/changsongyang/retronas/tree/testing",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "changsongyang/retronas",
+          "testing"
         ]
       },
       {
@@ -23843,6 +24181,19 @@
           "repository",
           "Cidazl/OPL-Widescreen-Cheats",
           "SLUS_212.40"
+        ]
+      },
+      {
+        "name": "cisox/retronas — branch: main",
+        "url": "https://github.com/cisox/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "cisox/retronas",
+          "main"
         ]
       },
       {
@@ -24925,6 +25276,19 @@
         ]
       },
       {
+        "name": "cr1sby/retronas — branch: main",
+        "url": "https://github.com/cr1sby/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "cr1sby/retronas",
+          "main"
+        ]
+      },
+      {
         "name": "crashGG/PeterDelta_patches — branch: main",
         "url": "https://github.com/crashGG/PeterDelta_patches/tree/main",
         "keywords": [
@@ -25614,6 +25978,19 @@
         ]
       },
       {
+        "name": "cualquiercosa327/quake2-for-ps2 — branch: master",
+        "url": "https://github.com/cualquiercosa327/quake2-for-ps2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "cualquiercosa327/quake2-for-ps2",
+          "master"
+        ]
+      },
+      {
         "name": "cualquiercosa327/sfiii-decomp — branch: main",
         "url": "https://github.com/cualquiercosa327/sfiii-decomp/tree/main",
         "keywords": [
@@ -26248,6 +26625,58 @@
           "repository",
           "Da-TWiG/PCSX2",
           "patch-1"
+        ]
+      },
+      {
+        "name": "daleking/retronas — branch: installed",
+        "url": "https://github.com/daleking/retronas/tree/installed",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "daleking/retronas",
+          "installed"
+        ]
+      },
+      {
+        "name": "daleking/retronas — branch: main",
+        "url": "https://github.com/daleking/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "daleking/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "daleking/retronas — branch: nfs_anonuid_fix",
+        "url": "https://github.com/daleking/retronas/tree/nfs_anonuid_fix",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "daleking/retronas",
+          "nfs_anonuid_fix"
+        ]
+      },
+      {
+        "name": "daleking/retronas — branch: testing",
+        "url": "https://github.com/daleking/retronas/tree/testing",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "daleking/retronas",
+          "testing"
         ]
       },
       {
@@ -30017,6 +30446,45 @@
           "branch",
           "repository",
           "DarthMotzkus/wOPL-new-ui",
+          "main"
+        ]
+      },
+      {
+        "name": "Dasutin/retronas — branch: docker-int-service-demo",
+        "url": "https://github.com/Dasutin/retronas/tree/docker-int-service-demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Dasutin/retronas",
+          "docker-int-service-demo"
+        ]
+      },
+      {
+        "name": "Dasutin/retronas — branch: litch-enabled",
+        "url": "https://github.com/Dasutin/retronas/tree/litch-enabled",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Dasutin/retronas",
+          "litch-enabled"
+        ]
+      },
+      {
+        "name": "Dasutin/retronas — branch: main",
+        "url": "https://github.com/Dasutin/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Dasutin/retronas",
           "main"
         ]
       },
@@ -34090,6 +34558,71 @@
         ]
       },
       {
+        "name": "derek-oneill/retronas — branch: fix-ops2l-install",
+        "url": "https://github.com/derek-oneill/retronas/tree/fix-ops2l-install",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "derek-oneill/retronas",
+          "fix-ops2l-install"
+        ]
+      },
+      {
+        "name": "derek-oneill/retronas — branch: imgcreator",
+        "url": "https://github.com/derek-oneill/retronas/tree/imgcreator",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "derek-oneill/retronas",
+          "imgcreator"
+        ]
+      },
+      {
+        "name": "derek-oneill/retronas — branch: main",
+        "url": "https://github.com/derek-oneill/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "derek-oneill/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "derek-oneill/retronas — branch: multi-distro-concept",
+        "url": "https://github.com/derek-oneill/retronas/tree/multi-distro-concept",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "derek-oneill/retronas",
+          "multi-distro-concept"
+        ]
+      },
+      {
+        "name": "derek-oneill/retronas — branch: testing",
+        "url": "https://github.com/derek-oneill/retronas/tree/testing",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "derek-oneill/retronas",
+          "testing"
+        ]
+      },
+      {
         "name": "Derek52/mymc — branch: master",
         "url": "https://github.com/Derek52/mymc/tree/master",
         "keywords": [
@@ -34204,6 +34737,45 @@
           "repository",
           "Dev-Leandr0/Open-PS2-Loader",
           "master"
+        ]
+      },
+      {
+        "name": "Devcon4/pthread-embedded — branch: master",
+        "url": "https://github.com/Devcon4/pthread-embedded/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Devcon4/pthread-embedded",
+          "master"
+        ]
+      },
+      {
+        "name": "Devcon4/pthread-embedded — branch: platform_agnostic",
+        "url": "https://github.com/Devcon4/pthread-embedded/tree/platform_agnostic",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Devcon4/pthread-embedded",
+          "platform_agnostic"
+        ]
+      },
+      {
+        "name": "devcrono/retronas — branch: main",
+        "url": "https://github.com/devcrono/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "devcrono/retronas",
+          "main"
         ]
       },
       {
@@ -448317,6 +448889,96 @@
         ]
       },
       {
+        "name": "bigianb/quake2-for-ps2@master — src",
+        "url": "https://github.com/bigianb/quake2-for-ps2/tree/master/src",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bigianb/quake2-for-ps2",
+          "master",
+          "src"
+        ]
+      },
+      {
+        "name": "bigianb/quake2-for-ps2@master — src/client",
+        "url": "https://github.com/bigianb/quake2-for-ps2/tree/master/src/client",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bigianb/quake2-for-ps2",
+          "master",
+          "src/client"
+        ]
+      },
+      {
+        "name": "bigianb/quake2-for-ps2@master — src/game",
+        "url": "https://github.com/bigianb/quake2-for-ps2/tree/master/src/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bigianb/quake2-for-ps2",
+          "master",
+          "src/game"
+        ]
+      },
+      {
+        "name": "bigianb/quake2-for-ps2@master — src/server",
+        "url": "https://github.com/bigianb/quake2-for-ps2/tree/master/src/server",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bigianb/quake2-for-ps2",
+          "master",
+          "src/server"
+        ]
+      },
+      {
+        "name": "bigianb/quake2-for-ps2@master — src/tools",
+        "url": "https://github.com/bigianb/quake2-for-ps2/tree/master/src/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bigianb/quake2-for-ps2",
+          "master",
+          "src/tools"
+        ]
+      },
+      {
+        "name": "bigianb/quake2-for-ps2@master — vidtest",
+        "url": "https://github.com/bigianb/quake2-for-ps2/tree/master/vidtest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bigianb/quake2-for-ps2",
+          "master",
+          "vidtest"
+        ]
+      },
+      {
         "name": "bignaux/hdl-dump@0.8.x — execli",
         "url": "https://github.com/bignaux/hdl-dump/tree/0.8.x/execli",
         "keywords": [
@@ -534186,6 +534848,81 @@
         ]
       },
       {
+        "name": "cualquiercosa327/quake2-for-ps2@master — src",
+        "url": "https://github.com/cualquiercosa327/quake2-for-ps2/tree/master/src",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "cualquiercosa327/quake2-for-ps2",
+          "master",
+          "src"
+        ]
+      },
+      {
+        "name": "cualquiercosa327/quake2-for-ps2@master — src/client",
+        "url": "https://github.com/cualquiercosa327/quake2-for-ps2/tree/master/src/client",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "cualquiercosa327/quake2-for-ps2",
+          "master",
+          "src/client"
+        ]
+      },
+      {
+        "name": "cualquiercosa327/quake2-for-ps2@master — src/game",
+        "url": "https://github.com/cualquiercosa327/quake2-for-ps2/tree/master/src/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "cualquiercosa327/quake2-for-ps2",
+          "master",
+          "src/game"
+        ]
+      },
+      {
+        "name": "cualquiercosa327/quake2-for-ps2@master — src/server",
+        "url": "https://github.com/cualquiercosa327/quake2-for-ps2/tree/master/src/server",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "cualquiercosa327/quake2-for-ps2",
+          "master",
+          "src/server"
+        ]
+      },
+      {
+        "name": "cualquiercosa327/quake2-for-ps2@master — src/tools",
+        "url": "https://github.com/cualquiercosa327/quake2-for-ps2/tree/master/src/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "cualquiercosa327/quake2-for-ps2",
+          "master",
+          "src/tools"
+        ]
+      },
+      {
         "name": "cualquiercosa327/sfiii-decomp@main — include/cri/ee",
         "url": "https://github.com/cualquiercosa327/sfiii-decomp/tree/main/include/cri/ee",
         "keywords": [
@@ -612669,6 +613406,81 @@
           "Deofresh/ps2sdk",
           "master",
           "tools/ps2-irxgen"
+        ]
+      },
+      {
+        "name": "Devcon4/pthread-embedded@master — platform/psp",
+        "url": "https://github.com/Devcon4/pthread-embedded/tree/master/platform/psp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Devcon4/pthread-embedded",
+          "master",
+          "platform/psp"
+        ]
+      },
+      {
+        "name": "Devcon4/pthread-embedded@master — platform/vita",
+        "url": "https://github.com/Devcon4/pthread-embedded/tree/master/platform/vita",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Devcon4/pthread-embedded",
+          "master",
+          "platform/vita"
+        ]
+      },
+      {
+        "name": "Devcon4/pthread-embedded@platform_agnostic — platform/ps2",
+        "url": "https://github.com/Devcon4/pthread-embedded/tree/platform_agnostic/platform/ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Devcon4/pthread-embedded",
+          "platform_agnostic",
+          "platform/ps2"
+        ]
+      },
+      {
+        "name": "Devcon4/pthread-embedded@platform_agnostic — platform/psp",
+        "url": "https://github.com/Devcon4/pthread-embedded/tree/platform_agnostic/platform/psp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Devcon4/pthread-embedded",
+          "platform_agnostic",
+          "platform/psp"
+        ]
+      },
+      {
+        "name": "Devcon4/pthread-embedded@platform_agnostic — platform/vita",
+        "url": "https://github.com/Devcon4/pthread-embedded/tree/platform_agnostic/platform/vita",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Devcon4/pthread-embedded",
+          "platform_agnostic",
+          "platform/vita"
         ]
       },
       {
