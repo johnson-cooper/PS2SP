@@ -49,6 +49,32 @@ npm run build
 
 The generated site is written to `dist/`.
 
+Every `npm run build` also checks all generated assets against Cloudflare Pages'
+25 MiB per-file limit, including builds in scheduled catalog workflows.
+
+The resource API is paginated: start at `/api/resources.json`, consume its
+`groups`, and follow `next` until it is absent. Subsequent URLs have the form
+`/api/resources/1.json`. Pages target at most 4 MiB of UTF-8 JSON; categories
+can span pages, so concatenate links for matching categories. Consumers that
+previously assumed a single response must follow `next` to retrieve the complete
+catalog. The resource page does this automatically and only enables the complete
+index after every page loads successfully.
+
+Run `npm test` for offline discovery regression tests. These use simulated hosts
+and temporary catalogs, so they do not modify the live catalog or depend on
+external services. CI runs them on every pull request and before external Git
+discovery.
+
+External Git discovery retries timeouts, network failures, HTTP 408/429, and
+server errors once. If the retry fails, that host is deferred for the remainder
+of the run while other hosts continue. Each attempt counts against the request
+budget, and the 30-second deadline covers both headers and the JSON body.
+Warnings identify the failed endpoint; `discovery/external-git-state.json` records
+`lastRun.failedHosts`. A successful job with deferred hosts means partial discovery,
+not that every host was reachable. Existing links and unfinished branch scans
+are preserved for later scheduled runs. Authentication errors and invalid JSON
+still fail the job and require investigation.
+
 ## Cloudflare Pages
 
 Use:

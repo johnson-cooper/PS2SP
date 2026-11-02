@@ -8,6 +8,8 @@ on:
     branches: [main]
     paths:
       - "scripts/discover-external-git.mjs"
+      - "scripts/lib/external-git-client.mjs"
+      - "scripts/tests/**"
       - "config/external-git-sources.json"
       - ".github/workflows/external-git-discovery.yml"
 
@@ -37,6 +39,9 @@ jobs:
 
       - name: Install dependencies
         run: npm install --no-audit --no-fund
+
+      - name: Test catalog regressions
+        run: npm test
 
       - name: Scan non-GitHub Git hosts
         env:

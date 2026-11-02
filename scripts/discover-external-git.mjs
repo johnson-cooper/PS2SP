@@ -2,6 +2,8 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
+import { BudgetStop, HostUnavailable, createExternalGitClient } from "./lib/external-git-client.mjs";
+
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const CONFIG_PATH = path.join(ROOT, "config", "external-git-sources.json");
 const OUTPUT_PATH = path.join(ROOT, "data", "resources", "external-git-live.json");
@@ -15,11 +17,11 @@ const TREES_PER_RUN = Math.max(1, Number.parseInt(process.env.EXTERNAL_GIT_TREES
 const INTERNAL_PATHS_PER_BRANCH = Math.max(1, Number.parseInt(process.env.EXTERNAL_GIT_INTERNAL_PATHS_PER_BRANCH ?? "40", 10));
 const USER_AGENT = "PS2SP-external-git/1.0 (+https://github.com/johnson-cooper/PS2SP)";
 
-let requestCount = 0;
 let treesScanned = 0;
 let stoppedForBudget = false;
 
-class BudgetStop extends Error {}
+const client = createExternalGitClient({ maxRequests: MAX_REQUESTS, userAgent: USER_AGENT });
+const fetchJson = (url) => client.fetchJson(url);
 
 async function readJson(filePath, fallback) {
   try {
@@ -30,33 +32,14 @@ async function readJson(filePath, fallback) {
   }
 }
 
-async function fetchJson(url) {
-  if (requestCount >= MAX_REQUESTS) {
-    throw new BudgetStop(`External Git request budget reached (${MAX_REQUESTS}).`);
+function handleDeferredRequest(error) {
+  if (error instanceof HostUnavailable) return true;
+  if (error instanceof BudgetStop) {
+    if (!stoppedForBudget) console.warn(`::warning::${error.message}`);
+    stoppedForBudget = true;
+    return true;
   }
-
-  requestCount++;
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 30_000);
-
-  try {
-    const response = await fetch(url, {
-      headers: {
-        "User-Agent": USER_AGENT,
-        "Accept": "application/json"
-      },
-      redirect: "follow",
-      signal: controller.signal
-    });
-
-    if (response.status === 404 || response.status === 409 || response.status === 410 || response.status === 451) {
-      return null;
-    }
-    if (!response.ok) throw new Error(`${response.status} ${response.statusText}: ${url}`);
-    return response.json();
-  } finally {
-    clearTimeout(timeout);
-  }
+  return false;
 }
 
 function keyFor(source, repository) {
@@ -212,21 +195,29 @@ for (const entry of config.forgejoOrganizations ?? []) {
   const source = sourceFromConfig(entry);
   sourceMap.set(source.apiBase, source);
 
-  for (let page = 1; page <= 5; page++) {
-    const repos = await fetchJson(`${source.apiBase}/orgs/${encodeURIComponent(entry.organization)}/repos?limit=50&page=${page}`);
-    if (!Array.isArray(repos) || repos.length === 0) break;
-    for (const repo of repos) {
-      if (repo?.full_name) seedRepos.push({ source, repository: repo.full_name, metadata: repo });
+  try {
+    for (let page = 1; page <= 5; page++) {
+      const repos = await fetchJson(`${source.apiBase}/orgs/${encodeURIComponent(entry.organization)}/repos?limit=50&page=${page}`);
+      if (!Array.isArray(repos) || repos.length === 0) break;
+      for (const repo of repos) {
+        if (repo?.full_name) seedRepos.push({ source, repository: repo.full_name, metadata: repo });
+      }
+      if (repos.length < 50) break;
     }
-    if (repos.length < 50) break;
+  } catch (error) {
+    if (!handleDeferredRequest(error)) throw error;
   }
 }
 
 for (const entry of config.forgejoRepositories ?? []) {
   const source = sourceFromConfig(entry);
   sourceMap.set(source.apiBase, source);
-  const metadata = await fetchJson(`${source.apiBase}/repos/${entry.repository}`);
-  if (metadata?.full_name) seedRepos.push({ source, repository: metadata.full_name, metadata });
+  try {
+    const metadata = await fetchJson(`${source.apiBase}/repos/${entry.repository}`);
+    if (metadata?.full_name) seedRepos.push({ source, repository: metadata.full_name, metadata });
+  } catch (error) {
+    if (!handleDeferredRequest(error)) throw error;
+  }
 }
 
 const queue = [];
@@ -301,104 +292,117 @@ try {
     const { source, repository } = current;
     repositoriesScanned++;
 
-    const metadata = await fetchJson(`${source.apiBase}/repos/${repository}`);
-    if (!metadata) continue;
+    try {
+      const metadata = await fetchJson(`${source.apiBase}/repos/${repository}`);
+      if (!metadata) continue;
 
-    if (upsert(repoGroup, {
-      name: `${source.label} — ${repository}`,
-      url: metadata.html_url ?? repoWebUrl(source, repository),
-      keywords: [
-        "PS2", "PlayStation 2", "external Git", "Forgejo", "Gitea", "repository",
-        repository, metadata.language ?? "", metadata.mirror ? "mirror" : "", metadata.archived ? "archived" : ""
-      ].filter(Boolean)
-    })) reposAdded++;
+      if (upsert(repoGroup, {
+        name: `${source.label} — ${repository}`,
+        url: metadata.html_url ?? repoWebUrl(source, repository),
+        keywords: [
+          "PS2", "PlayStation 2", "external Git", "Forgejo", "Gitea", "repository",
+          repository, metadata.language ?? "", metadata.mirror ? "mirror" : "", metadata.archived ? "archived" : ""
+        ].filter(Boolean)
+      })) reposAdded++;
 
-    const repoKey = keyFor(source, repository);
-    const forkPage = Math.max(1, Number(state.forkPage[repoKey]) || 1);
-    let nextForkPage = forkPage;
+      const repoKey = keyFor(source, repository);
+      const forkPage = Math.max(1, Number(state.forkPage[repoKey]) || 1);
+      let nextForkPage = forkPage;
 
-    for (let pageOffset = 0; pageOffset < FORK_PAGES_PER_REPO; pageOffset++) {
-      const page = forkPage + pageOffset;
-      const forks = await fetchJson(`${source.apiBase}/repos/${repository}/forks?limit=50&page=${page}`);
-      if (!Array.isArray(forks)) break;
+      for (let pageOffset = 0; pageOffset < FORK_PAGES_PER_REPO; pageOffset++) {
+        const page = forkPage + pageOffset;
+        const forks = await fetchJson(`${source.apiBase}/repos/${repository}/forks?limit=50&page=${page}`);
+        if (!Array.isArray(forks)) break;
 
-      for (const fork of forks) {
-        if (!fork?.full_name) continue;
-        forksSeen++;
+        for (const fork of forks) {
+          if (!fork?.full_name) continue;
+          forksSeen++;
 
-        if (upsert(forkGroup, {
-          name: `${source.label} — fork: ${fork.full_name}`,
-          url: fork.html_url ?? repoWebUrl(source, fork.full_name),
-          keywords: ["PS2", "PlayStation 2", "external Git", "fork", "fork network", repository, fork.full_name]
-        })) forksAdded++;
+          if (upsert(forkGroup, {
+            name: `${source.label} — fork: ${fork.full_name}`,
+            url: fork.html_url ?? repoWebUrl(source, fork.full_name),
+            keywords: ["PS2", "PlayStation 2", "external Git", "fork", "fork network", repository, fork.full_name]
+          })) forksAdded++;
 
-        const forkKey = keyFor(source, fork.full_name);
-        if (!queued.has(forkKey)) {
-          queue.push({ source, repository: fork.full_name });
-          queued.add(forkKey);
+          const forkKey = keyFor(source, fork.full_name);
+          if (!queued.has(forkKey)) {
+            queue.push({ source, repository: fork.full_name });
+            queued.add(forkKey);
+          }
+        }
+
+        if (forks.length < 50) {
+          nextForkPage = 1;
+          break;
+        }
+        nextForkPage = page + 1;
+      }
+      state.forkPage[repoKey] = nextForkPage;
+
+      const deepBranchPage = Math.max(2, Number(state.branchPage[repoKey]) || 2);
+      const pageTargets = [...new Set([1, deepBranchPage].slice(0, BRANCH_PAGES_PER_REPO))];
+      const branches = new Map();
+      let deepFull = false;
+
+      for (const page of pageTargets) {
+        const branchList = await fetchJson(`${source.apiBase}/repos/${repository}/branches?limit=50&page=${page}`);
+        if (!Array.isArray(branchList)) continue;
+        if (page === deepBranchPage) deepFull = branchList.length === 50;
+        for (const branch of branchList) {
+          if (branch?.name && branch?.commit?.id) branches.set(branch.name, branch);
         }
       }
+      // Advance only after all trees on this page have been handled.
+      let treesComplete = true;
 
-      if (forks.length < 50) {
-        nextForkPage = 1;
-        break;
-      }
-      nextForkPage = page + 1;
-    }
-    state.forkPage[repoKey] = nextForkPage;
+      for (const branch of branches.values()) {
+        branchesSeen++;
+        const branchName = branch.name;
+        const branchSha = branch.commit.id;
 
-    const deepBranchPage = Math.max(2, Number(state.branchPage[repoKey]) || 2);
-    const pageTargets = [...new Set([1, deepBranchPage].slice(0, BRANCH_PAGES_PER_REPO))];
-    const branches = new Map();
-    let deepFull = false;
+        if (upsert(branchGroup, {
+          name: `${repository} — branch: ${branchName}`,
+          url: branchWebUrl(source, repository, branchName),
+          keywords: ["PS2", "PlayStation 2", "external Git", "branch", repository, branchName]
+        })) branchesAdded++;
 
-    for (const page of pageTargets) {
-      const branchList = await fetchJson(`${source.apiBase}/repos/${repository}/branches?limit=50&page=${page}`);
-      if (!Array.isArray(branchList)) continue;
-      if (page === deepBranchPage) deepFull = branchList.length === 50;
-      for (const branch of branchList) {
-        if (branch?.name && branch?.commit?.id) branches.set(branch.name, branch);
-      }
-    }
-    state.branchPage[repoKey] = deepFull ? deepBranchPage + 1 : 2;
+        const headKey = `${repoKey}@${branchName}`;
+        if (state.branchHeads[headKey] === branchSha) continue;
+        if (treesScanned >= TREES_PER_RUN) {
+          treesComplete = false;
+          continue;
+        }
 
-    for (const branch of branches.values()) {
-      branchesSeen++;
-      const branchName = branch.name;
-      const branchSha = branch.commit.id;
+        const tree = await fetchJson(`${source.apiBase}/repos/${repository}/git/trees/${branchSha}?recursive=true`);
+        if (!tree?.tree) continue;
 
-      if (upsert(branchGroup, {
-        name: `${repository} — branch: ${branchName}`,
-        url: branchWebUrl(source, repository, branchName),
-        keywords: ["PS2", "PlayStation 2", "external Git", "branch", repository, branchName]
-      })) branchesAdded++;
+        treesScanned++;
+        branchesChanged++;
 
-      const headKey = `${repoKey}@${branchName}`;
-      if (state.branchHeads[headKey] === branchSha) continue;
-      if (treesScanned >= TREES_PER_RUN) continue;
+        const nested = discoverNestedPaths(tree.tree);
+        for (const dir of [...nested.directories, ...nested.gitlinks]) {
+          if (upsert(nestedGroup, {
+            name: `${repository}@${branchName} — ${dir}`,
+            url: nestedWebUrl(source, repository, branchName, dir),
+            keywords: [
+              "PS2", "PlayStation 2", "external Git", "branch", "nested project",
+              repository, branchName, dir, ...(nested.gitlinks.includes(dir) ? ["gitlink", "submodule"] : [])
+            ]
+          })) nestedAdded++;
+        }
 
-      const tree = await fetchJson(`${source.apiBase}/repos/${repository}/git/trees/${branchSha}?recursive=true`);
-      if (!tree?.tree) continue;
-
-      treesScanned++;
-      branchesChanged++;
-
-      const nested = discoverNestedPaths(tree.tree);
-      for (const dir of [...nested.directories, ...nested.gitlinks]) {
-        if (upsert(nestedGroup, {
-          name: `${repository}@${branchName} — ${dir}`,
-          url: nestedWebUrl(source, repository, branchName, dir),
-          keywords: [
-            "PS2", "PlayStation 2", "external Git", "branch", "nested project",
-            repository, branchName, dir, ...(nested.gitlinks.includes(dir) ? ["gitlink", "submodule"] : [])
-          ]
-        })) nestedAdded++;
+        state.branchHeads[headKey] = branchSha;
       }
 
-      state.branchHeads[headKey] = branchSha;
+      if (treesComplete) state.branchPage[repoKey] = deepFull ? deepBranchPage + 1 : 2;
+      console.log(`external git ${repository}: ${branches.size} branch(es)`);
+    } catch (error) {
+      if (!(error instanceof HostUnavailable)) {
+        // Retry this repository next run when the global budget interrupts it.
+        if (error instanceof BudgetStop) state.queueCursor = (startIndex + i) % initialQueueLength;
+        throw error;
+      }
     }
-
-    console.log(`external git ${repository}: ${branches.size} branch(es)`);
   }
 } catch (error) {
   if (error instanceof BudgetStop) {
@@ -440,7 +444,8 @@ state.lastRun = {
   forksAdded,
   branchesAdded,
   nestedAdded,
-  requests: requestCount,
+  requests: client.requests,
+  failedHosts: client.failedHosts,
   stoppedForBudget
 };
 
@@ -450,5 +455,5 @@ await fs.writeFile(OUTPUT_PATH, `${JSON.stringify(groups, null, 2)}\n`);
 await fs.writeFile(STATE_PATH, `${JSON.stringify(state, null, 2)}\n`);
 
 console.log(
-  `External Git discovery: ${repositoriesScanned} repos, ${forksSeen} forks, ${branchesSeen} branches, ${branchesChanged} changed branch trees, ${nestedAdded} nested paths, ${requestCount} requests${stoppedForBudget ? " (stopped early)" : ""}.`
+  `External Git discovery: ${repositoriesScanned} repos, ${forksSeen} forks, ${branchesSeen} branches, ${branchesChanged} changed branch trees, ${nestedAdded} nested paths, ${client.requests} requests, ${client.failedHosts.length} deferred host(s)${stoppedForBudget ? " (stopped early)" : ""}.`
 );
