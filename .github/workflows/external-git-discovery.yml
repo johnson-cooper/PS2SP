@@ -40,7 +40,7 @@ jobs:
       - name: Install dependencies
         run: npm install --no-audit --no-fund
 
-      - name: Test discovery failure recovery
+      - name: Test catalog regressions
         run: npm test
 
       - name: Scan non-GitHub Git hosts

@@ -156,6 +156,7 @@ const popularTags = [...tagCounts.entries()]
     </div>
 
     <script>
+      import { loadResourceGroups } from "../lib/resource-pages.mjs";
       interface ApiLink {
         name: string;
         url: string;
@@ -430,8 +431,7 @@ const popularTags = [...tagCounts.entries()]
           search?.focus();
         });
 
-        fetch("/api/resources.json")
-          .then((response) => response.json())
+        loadResourceGroups()
           .then((payload: { groups: ApiGroup[] }) => {
             const hostCounts = new Map<string, number>();
             const tagCounts = new Map<string, { label: string; count: number }>();
