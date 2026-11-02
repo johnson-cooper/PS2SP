@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-08-06T15:45:57Z'
   url: 'https://github.com/Menieldm/Butterscotch/releases/tag/v1.3.1'
 activity:
-  lastSynchronized: '2026-11-01T23:35:47.389Z'
+  lastSynchronized: '2026-11-02T23:30:30.876Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b624fa915f360fc386bc0cce97a93b39460a177e1ee61ef179a1d4990ca80c56"
-    releasesEtag: W/"65951da190192ba1819a822af805fca57c456c9fd8583877e8c4fd5f733be169"
+    repoEtag: W/"c61b6c5a0633c07f3cfc84141fd4f527123184b8aeb7c29df42e6ed45cf6a13e"
+    releasesEtag: W/"f9726b01915ee767daf64f3efeeb4968f321a806bcfbb71b605c3362970b5299"
 discovery:
   method: 'fork-network:efimandreev0/Butterscotch'
   confidence: 95

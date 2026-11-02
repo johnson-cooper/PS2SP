@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-10-08T16:18:30Z'
   url: 'https://github.com/absassist/dothack-infection-fr/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-11-01T23:36:00.519Z'
+  lastSynchronized: '2026-11-02T23:30:42.799Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"43b6f945d70296bd39165418d3193ca40d70178d0df102bdff606c9a829c987c"
-    releasesEtag: W/"ad94abfe40434eae27eeeda2dda7a212c60cc4888c98344707041389574172e9"
+    repoEtag: W/"67bd85613f62b2113df953cebb75e193847fc12d1daffa7986300bcfba8cd4a2"
+    releasesEtag: W/"e877137e04c752a4d0fef94ab2f7c61e401b157b689d50e9cdd01f7980c301ae"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

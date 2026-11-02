@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-08-24T09:16:38Z'
   url: 'https://github.com/cobaltgit/Butterscotch/releases/tag/onion-v2'
 activity:
-  lastSynchronized: '2026-11-01T23:35:46.598Z'
+  lastSynchronized: '2026-11-02T23:30:29.838Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"53620a139c86ac6003562dc53918d56be6d80d61b368d1ad0ee020fb5d673634"
-    releasesEtag: W/"68cfac6eae8fc189db6f54d32f808b27e73e00f06d6525d94844ea5048c8ddfa"
+    repoEtag: W/"12ee95041925e348101779e31677182e6d68d7343d2b3efe903ee8c273189efa"
+    releasesEtag: W/"6cf1dff4a30a816b2f080aa5d514223b7df298ca7e75b182cd47d72542ee3220"
 discovery:
   method: 'fork-network:ButterscotchRunner/Butterscotch'
   confidence: 95

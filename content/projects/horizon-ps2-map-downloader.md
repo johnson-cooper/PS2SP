@@ -29,12 +29,12 @@ latestRelease:
   url: >-
     https://github.com/Horizon-Private-Server/horizon-ps2-map-downloader/releases/tag/11/15/2025-r2
 activity:
-  lastSynchronized: '2026-11-01T23:36:23.189Z'
+  lastSynchronized: '2026-11-02T23:31:01.572Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"56eee03f6d6836cf294fe4cc3933d0ea384925d8fb01a783dc5ef7d62520f209"
-    releasesEtag: W/"8272c6c55c95291e1b1ef6ff5a062c252f1b6671017c5af4850571f0ada482c8"
+    repoEtag: W/"ee6b0d401b2458454e652ca2662111468adc522cef1867eb424e655b79774e7e"
+    releasesEtag: W/"0283fdf01a32314655fb128922d9303113591d59b9a0c0c377151f76c8bcb51d"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

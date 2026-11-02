@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/jimmyBizMobile/ps2-240ptestsuite-native/releases/tag/v2.0'
 activity:
   lastChecked: '2026-09-29T00:29:08.414Z'
-  lastSynchronized: '2026-11-01T23:37:29.665Z'
+  lastSynchronized: '2026-11-02T23:31:55.033Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"52430e7255bdf9eeac88445404046858aedb4925f9ec416c07111aa2baf53242"
-    releasesEtag: W/"b9f98869a0da319fc89b27624c6e203c3f5dd8ca592ba4cb24712bd4de51e37f"
+    repoEtag: W/"36c02a819a34cbf1d7915a20b82b921128f6be0dcf6d00f2f929dbcc30b19460"
+    releasesEtag: W/"d9639abdd7447e1728380c543baf7b58ad62eff81a610910173d1ae64d3c3ef3"
 discovery:
   method: github-search
   confidence: 100

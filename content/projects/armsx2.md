@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/ilyalissoboi/ARMSX2/releases/tag/2.9.1-fork.2'
 activity:
   lastChecked: '2026-10-20T05:18:56.651Z'
-  lastSynchronized: '2026-11-01T23:35:44.570Z'
+  lastSynchronized: '2026-11-02T23:30:27.491Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f46afc068bdd69387d46fb94d991a4e0ea17f27688e3b9f8e65897dbea1e256c"
-    releasesEtag: W/"5e62e8ce6fb04175586f7ed3560d0b183b2b024a81c025b879f75b7342754a2b"
+    repoEtag: W/"91b03b3f4f6b9e81262dc699c6706553a2d9b0ca87afc24a242996acb8c3eb19"
+    releasesEtag: W/"de5b1cf70abffb92db7e30b8aeef3a7e0a118dacd9fb83487f552d54ca2586f5"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85

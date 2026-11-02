@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2023-04-23T07:34:05Z'
   url: 'https://github.com/MilchRatchet/wrench/releases/tag/unstable'
 activity:
-  lastSynchronized: '2026-11-01T23:38:38.482Z'
+  lastSynchronized: '2026-11-02T23:32:51.033Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"71896fffaf5c3bf33f6f8c8ec95b792ef0285d4ecd4f62415f02519d99b82a33"
-    releasesEtag: W/"bbff6ff9d66d8012d40998eb81f0c41cc3813800e4698941ebbd992fa646eebe"
+    repoEtag: W/"b342e090c9132716f9d928a4cb615ddacc9c2e3ed7399d67ccde0fe6c1a761e7"
+    releasesEtag: W/"d090a05d776ec9607d45c33fcf8f75c3f3c778356c33680f905dbebdb9eec0a6"
 discovery:
   method: 'fork-network:chaoticgd/wrench'
   confidence: 95

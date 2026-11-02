@@ -10,7 +10,7 @@ tags:
   - fork
 features: []
 authors: []
-license: null
+license: CC0-1.0
 homepage: 'https://theonlyzac.github.io/sly1'
 source:
   provider: github
@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2024-07-02T16:46:57Z'
+  lastCommit: '2026-11-02T21:24:07Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-01T23:38:21.941Z'
+  lastSynchronized: '2026-11-02T23:32:36.900Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"27287f8b3898b4daa85da0b94f000d3bbe7e854756b4d527e601572923e63e51"
-    releasesEtag: '"47f1744e7295ced181535c901e04e3510025b9a0cf4a5e620620e00e8bc16c85"'
+    repoEtag: W/"bdec82a8426acddd791924b2e61f843bfe8076e11f63e30e6192ea7c8b306b33"
+    releasesEtag: '"f9d1805627afeeeb8335f78ffb35eade606e35619da6e1d8c24312d4e6777828"'
 discovery:
   method: 'fork-network:TheOnlyZac/sly1'
   confidence: 100

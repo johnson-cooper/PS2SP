@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-01T23:35:59.895Z'
+  lastSynchronized: '2026-11-02T23:30:42.284Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e55f73e776faf335d807ce9857109d4d516170d586b5e82324892d58f3b1acc1"
-    releasesEtag: '"47f1744e7295ced181535c901e04e3510025b9a0cf4a5e620620e00e8bc16c85"'
+    repoEtag: W/"bc7e01a88bcbe24bbc9b2b174f480c09994ea4c9088798e92d3b3cd6af7514da"
+    releasesEtag: '"f9d1805627afeeeb8335f78ffb35eade606e35619da6e1d8c24312d4e6777828"'
 discovery:
   method: 'fork-network:n-delic/decomp.wtf'
   confidence: 100

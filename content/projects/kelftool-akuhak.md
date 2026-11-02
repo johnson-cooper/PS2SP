@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2024-01-19T08:55:16Z'
   url: 'https://github.com/AKuHAK/kelftool/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-01T23:36:30.203Z'
+  lastSynchronized: '2026-11-02T23:31:07.177Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8fb960de67236e9b4f9a27051acfdbcc3592b4f06b56df6a1d36bc9b1c2a8a5c"
-    releasesEtag: W/"199a1acaec617d7d77143eb8cdc979d4db501f4f470e0553deaa5b51a52065b1"
+    repoEtag: W/"79ec003c6666dd5ccf1d3e6664418d939cafa259b9d4622219b5848b1530bac6"
+    releasesEtag: W/"387ca02cfaa78197d81234e1590875650a4980858911c2cf9856de34c8dde884"
 discovery:
   method: 'fork-network:ps2homebrew/kelftool'
   confidence: 95
