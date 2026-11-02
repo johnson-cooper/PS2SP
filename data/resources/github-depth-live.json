@@ -4528,6 +4528,19 @@
         ]
       },
       {
+        "name": "adeyholar/retronas — branch: main",
+        "url": "https://github.com/adeyholar/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "adeyholar/retronas",
+          "main"
+        ]
+      },
+      {
         "name": "AdityaKumar7209/Modulo-R1-Beta-Preview---PS2 — branch: main",
         "url": "https://github.com/AdityaKumar7209/Modulo-R1-Beta-Preview---PS2/tree/main",
         "keywords": [
@@ -4551,6 +4564,19 @@
           "repository",
           "adlerosn/ps2joysrv",
           "master"
+        ]
+      },
+      {
+        "name": "Adlinke/retronas — branch: main",
+        "url": "https://github.com/Adlinke/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Adlinke/retronas",
+          "main"
         ]
       },
       {
@@ -14967,6 +14993,45 @@
         ]
       },
       {
+        "name": "alexandre-lavoie/pthread-embedded — branch: master",
+        "url": "https://github.com/alexandre-lavoie/pthread-embedded/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "alexandre-lavoie/pthread-embedded",
+          "master"
+        ]
+      },
+      {
+        "name": "alexandre-lavoie/pthread-embedded — branch: platform_agnostic",
+        "url": "https://github.com/alexandre-lavoie/pthread-embedded/tree/platform_agnostic",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "alexandre-lavoie/pthread-embedded",
+          "platform_agnostic"
+        ]
+      },
+      {
+        "name": "alexandre-lavoie/pthread-embedded — branch: ps2toolkit",
+        "url": "https://github.com/alexandre-lavoie/pthread-embedded/tree/ps2toolkit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "alexandre-lavoie/pthread-embedded",
+          "ps2toolkit"
+        ]
+      },
+      {
         "name": "alexandreaugustodemoura0-crypto/Open-PS2-Loader — branch: copilot/apply-missing-labels-and-comments",
         "url": "https://github.com/alexandreaugustodemoura0-crypto/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments",
         "keywords": [
@@ -15266,6 +15331,19 @@
         ]
       },
       {
+        "name": "Alili100/retronas — branch: main",
+        "url": "https://github.com/Alili100/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Alili100/retronas",
+          "main"
+        ]
+      },
+      {
         "name": "alksdesu/OPL-Launcher — branch: main",
         "url": "https://github.com/alksdesu/OPL-Launcher/tree/main",
         "keywords": [
@@ -15275,6 +15353,19 @@
           "branch",
           "repository",
           "alksdesu/OPL-Launcher",
+          "main"
+        ]
+      },
+      {
+        "name": "alksdesu/PSxMemCardGen2 — branch: main",
+        "url": "https://github.com/alksdesu/PSxMemCardGen2/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "alksdesu/PSxMemCardGen2",
           "main"
         ]
       },
@@ -15327,6 +15418,19 @@
           "branch",
           "repository",
           "allkatran/PSBBN-Definitive-English-Patch",
+          "main"
+        ]
+      },
+      {
+        "name": "allkatran/retronas — branch: main",
+        "url": "https://github.com/allkatran/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "allkatran/retronas",
           "main"
         ]
       },
@@ -17515,6 +17619,19 @@
         ]
       },
       {
+        "name": "arundba5/retronas — branch: main",
+        "url": "https://github.com/arundba5/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "arundba5/retronas",
+          "main"
+        ]
+      },
+      {
         "name": "as0554157332-png/NetherSX2-patch — branch: main",
         "url": "https://github.com/as0554157332-png/NetherSX2-patch/tree/main",
         "keywords": [
@@ -18139,6 +18256,19 @@
         ]
       },
       {
+        "name": "AWBuchanan7/retronas — branch: main",
+        "url": "https://github.com/AWBuchanan7/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "AWBuchanan7/retronas",
+          "main"
+        ]
+      },
+      {
         "name": "axax002/okhi — branch: main",
         "url": "https://github.com/axax002/okhi/tree/main",
         "keywords": [
@@ -18551,6 +18681,19 @@
           "branch",
           "repository",
           "BAD-AL/mymc_web",
+          "main"
+        ]
+      },
+      {
+        "name": "BadBunnyHimself/retronas — branch: main",
+        "url": "https://github.com/BadBunnyHimself/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "BadBunnyHimself/retronas",
           "main"
         ]
       },
@@ -346236,6 +346379,126 @@
           "alexandre-lavoie/ps2sdk",
           "ps2toolkit",
           "tools/ps2-irxgen"
+        ]
+      },
+      {
+        "name": "alexandre-lavoie/pthread-embedded@master — platform/psp",
+        "url": "https://github.com/alexandre-lavoie/pthread-embedded/tree/master/platform/psp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandre-lavoie/pthread-embedded",
+          "master",
+          "platform/psp"
+        ]
+      },
+      {
+        "name": "alexandre-lavoie/pthread-embedded@master — platform/vita",
+        "url": "https://github.com/alexandre-lavoie/pthread-embedded/tree/master/platform/vita",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandre-lavoie/pthread-embedded",
+          "master",
+          "platform/vita"
+        ]
+      },
+      {
+        "name": "alexandre-lavoie/pthread-embedded@platform_agnostic — platform/ps2",
+        "url": "https://github.com/alexandre-lavoie/pthread-embedded/tree/platform_agnostic/platform/ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandre-lavoie/pthread-embedded",
+          "platform_agnostic",
+          "platform/ps2"
+        ]
+      },
+      {
+        "name": "alexandre-lavoie/pthread-embedded@platform_agnostic — platform/psp",
+        "url": "https://github.com/alexandre-lavoie/pthread-embedded/tree/platform_agnostic/platform/psp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandre-lavoie/pthread-embedded",
+          "platform_agnostic",
+          "platform/psp"
+        ]
+      },
+      {
+        "name": "alexandre-lavoie/pthread-embedded@platform_agnostic — platform/vita",
+        "url": "https://github.com/alexandre-lavoie/pthread-embedded/tree/platform_agnostic/platform/vita",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandre-lavoie/pthread-embedded",
+          "platform_agnostic",
+          "platform/vita"
+        ]
+      },
+      {
+        "name": "alexandre-lavoie/pthread-embedded@ps2toolkit — platform/ps2",
+        "url": "https://github.com/alexandre-lavoie/pthread-embedded/tree/ps2toolkit/platform/ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandre-lavoie/pthread-embedded",
+          "ps2toolkit",
+          "platform/ps2"
+        ]
+      },
+      {
+        "name": "alexandre-lavoie/pthread-embedded@ps2toolkit — platform/psp",
+        "url": "https://github.com/alexandre-lavoie/pthread-embedded/tree/ps2toolkit/platform/psp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandre-lavoie/pthread-embedded",
+          "ps2toolkit",
+          "platform/psp"
+        ]
+      },
+      {
+        "name": "alexandre-lavoie/pthread-embedded@ps2toolkit — platform/vita",
+        "url": "https://github.com/alexandre-lavoie/pthread-embedded/tree/ps2toolkit/platform/vita",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "alexandre-lavoie/pthread-embedded",
+          "ps2toolkit",
+          "platform/vita"
         ]
       },
       {
