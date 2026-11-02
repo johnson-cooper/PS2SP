@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-31T13:53:53.172Z'
+  lastSynchronized: '2026-11-02T06:03:26.057Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"dded23ae40b05dca74b47984f6d2632bed7c2a1f71a487f798872b1fc8e241e2"
+    releasesEtag: '"a3ecb6892d2d743d8b827fa2a5bb15363548a9af08f592d29835e33f8f4b1528"'
 discovery:
   method: 'fork-network:curi0us/mgops'
   confidence: 95
@@ -51,5 +54,4 @@ relationships:
   forkOf: curi0us/mgops
   source: curi0us/mgops
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

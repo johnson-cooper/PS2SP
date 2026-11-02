@@ -25,21 +25,21 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-26T06:12:33Z'
+  lastCommit: '2026-11-02T05:58:04Z'
 latestRelease:
-  tag: launcher-dev-fix-android-disc-setup
-  name: v0.8.5-dev.63 (fix/android-disc-setup)
-  publishedAt: '2026-10-25T12:43:45Z'
+  tag: launcher-dev-fix-windows-audio-stutter
+  name: v0.10.1-dev.153 (fix/windows-audio-stutter)
+  publishedAt: '2026-11-01T18:09:53Z'
   url: >-
-    https://github.com/mateuszklysz/OpenRAC/releases/tag/launcher-dev-fix-android-disc-setup
+    https://github.com/mateuszklysz/OpenRAC/releases/tag/launcher-dev-fix-windows-audio-stutter
 activity:
   lastChecked: '2026-10-13T19:32:43.126Z'
-  lastSynchronized: '2026-10-26T06:14:42.326Z'
+  lastSynchronized: '2026-11-02T06:03:42.986Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"109b1e55f4ce2341ff54c2923df0b65a28b5fb1bbabed4329904e8fcbb91beef"
-    releasesEtag: W/"20a0ca90b8501c503a49305150b617b60055a321507153d6c36d8bdf7e57a0f3"
+    repoEtag: W/"c50d60eaea5d5a5b14c699865c4fad94a87cfe00231b4cd26ddc75df616de267"
+    releasesEtag: W/"195996d48ad8df0648f6d44fd0e38862d315062c8814f32b4ab36898733a36b7"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

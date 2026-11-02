@@ -19,21 +19,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 10
+  stars: 11
   forks: 1
-  lastCommit: '2026-10-23T22:08:15Z'
+  lastCommit: '2026-10-26T14:09:24Z'
 latestRelease:
-  tag: 1.3.3
-  name: 'Patch: QS v1.3.3'
-  publishedAt: '2026-10-22T21:59:19Z'
-  url: 'https://github.com/Gandorfin/Tales-of-Destiny-2/releases/tag/1.3.3'
+  tag: 1.3.4
+  name: 'Patch: QS v1.3.4'
+  publishedAt: '2026-10-26T14:09:15Z'
+  url: 'https://github.com/Gandorfin/Tales-of-Destiny-2/releases/tag/1.3.4'
 activity:
-  lastSynchronized: '2026-10-26T06:15:57.223Z'
+  lastSynchronized: '2026-11-02T06:05:01.632Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1db8cbaf0841192b40f0134c06a038e4e14e873b762018173ed14bc9f2d9f5a9"
-    releasesEtag: W/"61402fb408664d6a2458396197886581a3445fc0c65340c3d071f860925d9068"
+    repoEtag: W/"7cb2c2b00ef912b1e1362cb2722a0819ea70b549fea8970adb6fc7cdf6f16fca"
+    releasesEtag: W/"56e9c41c1672e2558a50d1fa98e6e7223d47b243f3c2b5d1eb070eb93d61fefd"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

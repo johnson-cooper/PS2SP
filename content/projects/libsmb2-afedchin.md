@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2018-05-29T06:28:03Z'
   url: 'https://github.com/afedchin/libsmb2/releases/tag/v1.1.0'
 activity:
-  lastSynchronized: '2026-10-26T06:14:16.265Z'
+  lastSynchronized: '2026-11-02T06:03:18.235Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7a7b5c01ccbb05f07128eff152b9d5bf8f41e0a24c049b3fc11197b2dc416b38"
-    releasesEtag: W/"c1646bc1eb9f622ce427ec2b9e1e6bf25b659cc1604ed6ed926c8815f556761a"
+    repoEtag: W/"62502fc08b0c4956ec49676e4c7d431dd2698882fd4d93a988051f90345db30f"
+    releasesEtag: W/"9c9db5d41eaff60c880d21fe735baf90e6b336ef3561eff1c1b9b89b848141e6"
 discovery:
   method: 'fork-network:sahlberg/libsmb2'
   confidence: 95

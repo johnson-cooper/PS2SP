@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2025-12-12T23:30:13Z'
   url: 'https://github.com/FableCraze/wLaunchELF_ISR/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-26T06:16:04.846Z'
+  lastSynchronized: '2026-11-02T06:05:08.975Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"514301f43b2b07e23fb59a42dfa3a8f22ffc570a262f92d535b3fb405fe3823b"
-    releasesEtag: W/"3ffc8b584b8a0ba93ad19cd8e2bbd965b061feb54c7831cce4587c677fab8665"
+    repoEtag: W/"429e155be74f08bf4d00e8916b4b9441ed6abdb760eea93e33d7c404a825cf75"
+    releasesEtag: W/"35b187825c910caf8d7389453156c3b1ec830659635da8c2e8200be3c015146e"
 discovery:
   method: 'fork-network:israpps/wLaunchELF_ISR'
   confidence: 100

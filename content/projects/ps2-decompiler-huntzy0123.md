@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-27T05:36:47.166Z'
+  lastSynchronized: '2026-11-02T06:04:12.508Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"767a3bcc04560d7de5ae986f88ce0281b714471c9e60c188b85e06271601e87e"
+    releasesEtag: '"a3ecb6892d2d743d8b827fa2a5bb15363548a9af08f592d29835e33f8f4b1528"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: ismaelcaraballo-afk/ps2-decompiler
   source: ismaelcaraballo-afk/ps2-decompiler
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

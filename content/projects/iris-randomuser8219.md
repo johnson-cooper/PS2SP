@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T06:14:10.999Z'
+  lastSynchronized: '2026-11-02T06:03:13.143Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e66b5f93d68acf425e0b3da2c9950b6564d8542767dccd609dff71b21e935a73"
-    releasesEtag: '"fd80ae07671e69e330b5a485bb1dd283e344c87f18874a4a0d6eb0f98cac3832"'
+    repoEtag: W/"47be6168d9549f87ba3bdd615f373a7b533186313d373d2da76f6beaa358311e"
+    releasesEtag: '"a3ecb6892d2d743d8b827fa2a5bb15363548a9af08f592d29835e33f8f4b1528"'
 discovery:
   method: 'fork-network:allkern/iris'
   confidence: 100

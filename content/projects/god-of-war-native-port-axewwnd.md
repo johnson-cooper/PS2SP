@@ -24,17 +24,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-29T20:31:03Z'
+  lastCommit: '2026-10-30T10:36:20Z'
 latestRelease:
-  tag: ares-android-arm64-20261029
-  name: PROJECT ARES — Android ARM64 experimental
-  publishedAt: '2026-10-29T20:19:49Z'
+  tag: ares-turnip-driver-test-v0.2.0
+  name: ARES 0.2 — prueba de Turnip; port GS pendiente
+  publishedAt: '2026-10-30T00:37:39Z'
   url: >-
-    https://github.com/Axewwnd/God-Of-War-Native-Port/releases/tag/ares-android-arm64-20261029
+    https://github.com/Axewwnd/God-Of-War-Native-Port/releases/tag/ares-turnip-driver-test-v0.2.0
 activity:
-  lastSynchronized: '2026-10-29T22:00:32.843Z'
+  lastSynchronized: '2026-11-02T06:03:06.374Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"96a4825c9fa064de21ea1103d78a3ba70ce2036d670bd245c23249877010ada6"
+    releasesEtag: W/"0e11de94bcda68f5d75719ea4b9fdb950dbc6450fd775672c205d7c5752bca05"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -54,5 +57,4 @@ relationships:
   forkOf: Waffle565/God-Of-War-Native-Port
   source: Waffle565/God-Of-War-Native-Port
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

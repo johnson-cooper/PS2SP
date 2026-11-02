@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2025-09-13T09:41:11Z'
   url: 'https://github.com/allkatran/Funtuna-Fork/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-26T06:14:03.424Z'
+  lastSynchronized: '2026-11-02T06:03:04.553Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"25ace0b73da8b325ccf59efac0f84f454f55dee1298094fc6e833e27f67060cf"
-    releasesEtag: W/"a11d638568e304e02a5f44135dfc35f2585da66e9f560fcaecb4bb13d4b7c990"
+    repoEtag: W/"11f9d82fdec5d69dc8ca39f45346748284573e99cb8d03d2e1ecf831fe520986"
+    releasesEtag: W/"66e386d777ce47bbaf24569e6d0da8a263f6d31efaafe394f54aad6723132e45"
 discovery:
   method: 'fork-network:israpps/Funtuna-Fork'
   confidence: 100

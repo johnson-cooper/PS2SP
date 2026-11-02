@@ -18,8 +18,8 @@ source:
 repository:
   archived: false
   defaultBranch: legacy
-  stars: 169
-  forks: 14
+  stars: 170
+  forks: 15
   lastCommit: '2026-06-16T18:17:16Z'
 latestRelease:
   tag: v1.2.2
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-04-05T15:50:56Z'
   url: 'https://github.com/pcm720/nhddl/releases/tag/v1.2.2'
 activity:
-  lastSynchronized: '2026-10-26T06:14:31.910Z'
+  lastSynchronized: '2026-11-02T06:03:33.493Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e7b4b014c86797a1387e88150e5b4a43ec08abb07a27c492b8952efcad5e0a6c"
-    releasesEtag: W/"93423cef4380f9ed66c5c5a0ca2f2dd305871d708413c2abb88293d67783345e"
+    repoEtag: W/"2f0733c4ebfce13fce9c79b28843108f68229088bcafb4b7953b36af2b07709b"
+    releasesEtag: W/"1aec27a1b3ad5e8323ba2299c0c1f5617b49df4cffda8305f39e2a54a6824df9"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

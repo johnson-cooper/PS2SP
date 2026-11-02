@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-27T21:29:01.337Z'
+  lastSynchronized: '2026-11-02T06:03:58.148Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"21cb2905ad9818fa7b61ea3c2dce635a913ec0442fd29fe56eba32351949b97c"
+    releasesEtag: '"a3ecb6892d2d743d8b827fa2a5bb15363548a9af08f592d29835e33f8f4b1528"'
 discovery:
   method: 'fork-network:jpolo1224/pcsx2'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: jpolo1224/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

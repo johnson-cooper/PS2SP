@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-04-01T16:55:58Z'
   url: 'https://github.com/moonmagian/Play-imas/releases/tag/imas-release'
 activity:
-  lastSynchronized: '2026-10-27T10:59:42.373Z'
+  lastSynchronized: '2026-11-02T06:04:02.049Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"23dfe599124f7a4bfbce9f32ccfe1fca5b9d7db7737de911030db71936228e6a"
+    releasesEtag: W/"6266f8e0219c3358f42c5fed546ca1050b7a0815fa7f9f4e46e851ff70eeff48"
 discovery:
   method: 'fork-network:jpd002/Play-'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: jpd002/Play-
   source: jpd002/Play-
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -18,7 +18,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 89
+  stars: 92
   forks: 0
   lastCommit: '2026-10-07T03:39:39Z'
 latestRelease:
@@ -28,12 +28,12 @@ latestRelease:
   url: 'https://github.com/Gageformer/Ember/releases/tag/Beta-2'
 activity:
   lastChecked: '2026-09-29T00:28:03.014Z'
-  lastSynchronized: '2026-10-26T06:13:57.951Z'
+  lastSynchronized: '2026-11-02T06:02:57.962Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"564ed8e73a0cd83bd7b7c915c69a535640fd01479cf58aefef05a7323b462d58"
-    releasesEtag: W/"6ceea7abea91af32973825add0ea5ade5f675d9ce82bfccec6acd978bc226211"
+    repoEtag: W/"477527b40d6ac880b0d9f305b6ae45f072fd9ccc8811c1f74d35b975066a6ba4"
+    releasesEtag: W/"5db6ee0e89842f36af6a660b7f508ab4143673d25278ecf109b192969724a5f2"
 discovery:
   method: github-search
   confidence: 100

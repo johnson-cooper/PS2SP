@@ -12,7 +12,7 @@ tags:
   - fork
 features: []
 authors: []
-license: null
+license: AGPL-3.0
 homepage: null
 source:
   provider: github
@@ -21,10 +21,10 @@ source:
   url: 'https://github.com/ReaperOfVeriod/sly1-decomp'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-29T23:54:50Z'
 latestRelease:
   tag: null
   name: null
@@ -32,8 +32,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-29T10:25:26.926Z'
+  lastSynchronized: '2026-11-02T06:04:57.964Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7f9d1a1230e584281cbdde0ffd4f9419447e913e664123f24eae5d13c444734a"
+    releasesEtag: '"a3ecb6892d2d743d8b827fa2a5bb15363548a9af08f592d29835e33f8f4b1528"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85
@@ -49,5 +53,4 @@ relationships:
   forkOf: OpenThievius/sly1-decomp
   source: OpenThievius/sly1-decomp
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.
