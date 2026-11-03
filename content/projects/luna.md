@@ -27,12 +27,12 @@ latestRelease:
   url: 'https://github.com/dnunezx/LUNA/releases/tag/v3.1.3'
 activity:
   lastChecked: '2026-09-29T00:27:04.940Z'
-  lastSynchronized: '2026-11-02T15:53:28.131Z'
+  lastSynchronized: '2026-11-03T15:09:07.075Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"85b5123be40853a1d73e9bda691dfa5f08a6fd744dc9a44a55356938235518e1"
-    releasesEtag: W/"b951ef00cb43454e4861fced20d840f0dfaaf978aed606d674fac7903b98720d"
+    repoEtag: W/"c4d796c7e35fa1fd81634960bb3ffbb4f90c752054ecdb45f67d702821761fc9"
+    releasesEtag: W/"f6794743de3ffe7043f5ab5fe4786556fc611596f8761319eaa9270be4ea971b"
 discovery:
   method: github-search
   confidence: 100

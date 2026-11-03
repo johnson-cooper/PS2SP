@@ -23,22 +23,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 9
+  stars: 8
   forks: 0
-  lastCommit: '2026-11-02T03:47:30Z'
+  lastCommit: '2026-11-03T15:01:47Z'
 latestRelease:
-  tag: v1.6.0
-  name: OpenTennis 1.6.0
-  publishedAt: '2026-10-31T18:51:01Z'
-  url: 'https://github.com/FIZL0/opentennis/releases/tag/v1.6.0'
+  tag: v1.6.1
+  name: OpenTennis 1.6.1
+  publishedAt: '2026-11-03T15:01:42Z'
+  url: 'https://github.com/FIZL0/opentennis/releases/tag/v1.6.1'
 activity:
   lastChecked: '2026-10-09T16:35:29.097Z'
-  lastSynchronized: '2026-11-02T15:53:13.819Z'
+  lastSynchronized: '2026-11-03T15:08:54.958Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"13abd145373ea0aff45c3b5a0c7ede4e5f69a277dfc77e901c4094d03c1534a9"
-    releasesEtag: W/"3530dc2bf4c66bd0b62b3e6f6a7f13644618057016dc2865bd3eadceefe449a6"
+    repoEtag: W/"3a03887d83899344f8d9a251df680a8f2b438635f99050fdf4517d332d3a5518"
+    releasesEtag: W/"a2087e628541ef9497b15eb2eeaa2af0874b3d3688a64235bc29ea398f18be46"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85

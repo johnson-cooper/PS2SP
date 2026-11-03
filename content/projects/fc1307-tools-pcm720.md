@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-07-29T00:51:12Z'
   url: 'https://github.com/pcm720/fc1307-tools/releases/tag/V3.72A'
 activity:
-  lastSynchronized: '2026-11-02T15:52:55.280Z'
+  lastSynchronized: '2026-11-03T15:08:38.407Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"eef92af14e06fe9a21c25c3170b16b70dd595d8c5fe8d215b83bd6cc156d25f4"
-    releasesEtag: W/"d45425b2edaeace95539dbc5b6ba8dca7b7bc3b7e4d3200ab42f76410b09cb75"
+    repoEtag: W/"717f8ca66a786a669f9bbc232d65e072e9ac0b5174d1f9b2ab2615924f89f62c"
+    releasesEtag: W/"9d340245238b606415abaa0b15c53ca8464d70e3e2f1b50770847f3c717153ff"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

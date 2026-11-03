@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/snowyegret23/pcsx2/releases/tag/PCSX2_x64_B_056de99_C_7235a04
 activity:
-  lastSynchronized: '2026-11-02T15:54:13.632Z'
+  lastSynchronized: '2026-11-03T15:09:47.658Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ac43a83fca5ef049a0088ba6b29e8ff1d99179f91b767c0268ecba9bc77c3b8d"
-    releasesEtag: W/"52ccf124fdcf08729bae1d5da90b021e174468b17273ac6a5b2d965cd5519810"
+    repoEtag: W/"40d3b3fe6e5ea32d3b8975d50bd5a95b1be2eb22d838d6cab9bdff81b190018d"
+    releasesEtag: W/"4cd70690e95a6778aaa187f0e190c3071367de3164cc6cf5864b8ed92fd6f9db"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

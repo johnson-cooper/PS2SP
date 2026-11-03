@@ -26,23 +26,23 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 172
+  stars: 184
   forks: 4
-  lastCommit: '2026-11-01T03:12:42Z'
+  lastCommit: '2026-11-03T00:10:26Z'
 latestRelease:
-  tag: v0.4.0
+  tag: v0.5.0
   name: >-
-    v0.4.0 — Shipped PGO profile, Fast VU mode, hold instead of mashing and
-    clear install/GPU errors
-  publishedAt: '2026-11-01T02:39:25Z'
-  url: 'https://github.com/Vnnc1/gow-native-pc/releases/tag/v0.4.0'
+    v0.5.0 — Experimental Linux, CHD import, regional editions and accessibility
+    improvements
+  publishedAt: '2026-11-03T00:10:26Z'
+  url: 'https://github.com/Vnnc1/gow-native-pc/releases/tag/v0.5.0'
 activity:
-  lastSynchronized: '2026-11-02T15:53:08.367Z'
+  lastSynchronized: '2026-11-03T15:08:50.342Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"51b6ba69bae630b3bcf7d1948da3fb2adb41c3b274524cbd16b2a0dc6883edb9"
-    releasesEtag: W/"3b985bc3f43c36cfa7407d4ded7097008915ca61c30849479b50138a05653fbc"
+    repoEtag: W/"3fabb07159c8ecc82a542e9b7e22bac8a9ce24b55cb9ddeb0e56d0f8cb546ad9"
+    releasesEtag: W/"8e6351547d5dedab43c6b467a3ccbf9e5bcfc20b6b592c5169804b2853548c42"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
