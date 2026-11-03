@@ -1,0 +1,16 @@
+{
+  "repository": "khasinski/final-fantasy-x-decomp",
+  "repositoryId": "1443547445",
+  "url": "https://github.com/khasinski/final-fantasy-x-decomp",
+  "description": "Byte-matching decompilation of Final Fantasy X (PlayStation 2, PAL SCES_504.90)",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README contains PS2 development/toolchain evidence"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-03T00:02:44.895Z",
+  "checkedAt": "2026-11-03T00:02:44.895Z"
+}

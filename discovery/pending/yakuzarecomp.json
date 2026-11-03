@@ -9,9 +9,9 @@
     "README contains PS2 development/toolchain evidence",
     "published GitHub release present"
   ],
-  "origin": "incremental:ps2sdk in:name,description,readme",
+  "origin": "pending-recheck",
   "maturity": "prerelease-only",
   "fork": null,
   "discoveredAt": "2026-10-27T05:36:47.166Z",
-  "checkedAt": "2026-10-27T05:36:47.166Z"
+  "checkedAt": "2026-11-03T00:02:44.895Z"
 }
