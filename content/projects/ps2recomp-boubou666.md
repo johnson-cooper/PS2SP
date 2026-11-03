@@ -16,26 +16,26 @@ license: GPL-3.0
 homepage: null
 source:
   provider: github
-  repository: boubou666/PS2Recomp
+  repository: TheBozos/PS2Recomp
   repositoryId: '1427370995'
 repository:
   archived: false
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-29T20:15:03Z'
+  lastCommit: '2026-11-03T20:35:08Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-29T20:19:37.036Z'
+  lastSynchronized: '2026-11-03T21:01:01.048Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b7be5221c7920b791a1323f0e1ed6a5add2f57122725e671651de52b88750788"
-    releasesEtag: '"61da9ec93cc8a3183020bd8d1dbf61e6cf81978ab258b81280fc02558cd07e6b"'
+    repoEtag: W/"5743b6be1f5f98af411027a13ef7ec124674c16be8a20a336f9d4fe3451d6011"
+    releasesEtag: '"edb695a0b10a195de0f2bfb6f0e14e249cb89906be5a57da3395e301db7eb864"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

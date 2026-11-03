@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-01T08:10:20.320Z'
+  lastSynchronized: '2026-11-03T21:01:09.782Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1ff0836d965dede7501fdbfdcf51d5c9f5a0a1ad0d7117a5bb2a2ae739a70309"
+    releasesEtag: '"edb695a0b10a195de0f2bfb6f0e14e249cb89906be5a57da3395e301db7eb864"'
 discovery:
   method: 'fork-network:mikeakohn/ps2sdk'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: mikeakohn/ps2sdk
   source: ps2dev/ps2sdk
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

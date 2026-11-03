@@ -14,25 +14,25 @@ homepage: 'https://pcsx2.net'
 source:
   provider: github
   repository: RgeditV1/pcsx2
-  repositoryId: '1335155943'
+  repositoryId: '1441499146'
 repository:
   archived: false
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-18T20:14:12Z'
+  lastCommit: '2026-11-03T20:59:35Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-29T20:19:12.726Z'
+  lastSynchronized: '2026-11-03T21:00:31.650Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e44799f3307abc0bc18f493a8ab75cca56c6dfc03dd7c15c9da7ac7ca69c7cbf"
-    releasesEtag: '"61da9ec93cc8a3183020bd8d1dbf61e6cf81978ab258b81280fc02558cd07e6b"'
+    repoEtag: W/"01717977fc88c70001d565b0c7b91be8d67af7044f9eea1f85b231bdf63db2dc"
+    releasesEtag: '"edb695a0b10a195de0f2bfb6f0e14e249cb89906be5a57da3395e301db7eb864"'
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

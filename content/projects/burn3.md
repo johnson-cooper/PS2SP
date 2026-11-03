@@ -21,22 +21,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 3
+  stars: 12
   forks: 0
-  lastCommit: '2026-10-29T19:34:14Z'
+  lastCommit: '2026-11-03T15:05:32Z'
 latestRelease:
-  tag: v0.1.3
-  name: Takedown Recomp v0.1.3
-  publishedAt: '2026-10-29T19:34:14Z'
-  url: 'https://github.com/UwUCammie/Burn3/releases/tag/v0.1.3'
+  tag: v0.1.14
+  name: v0.1.14
+  publishedAt: '2026-11-03T15:05:32Z'
+  url: 'https://github.com/UwUCammie/Burn3/releases/tag/v0.1.14'
 activity:
   lastChecked: '2026-10-29T17:05:16.992Z'
-  lastSynchronized: '2026-10-29T20:18:11.483Z'
+  lastSynchronized: '2026-11-03T20:59:15.945Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"eb31fadf144bcc1b532b828da0ed440f244991f4db7b204e0b2848ed80e29227"
-    releasesEtag: W/"109e8974d7fd6eb568598b1d31957667ed25f388d92c5fb2a072d5878a08e2c0"
+    repoEtag: W/"0b44a9d334874304b5f3f6dd6ffa2c2e6d0cce94791dcc97e352ef4bf0715917"
+    releasesEtag: W/"daa7c4ded11d825e0c27240be0ed3e0c9df31a424481425b58f3753b1a42c366"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

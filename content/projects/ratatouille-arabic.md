@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-16T15:10:26Z'
   url: 'https://github.com/abod77/ratatouille-arabic/releases/tag/v1.0.1'
 activity:
-  lastSynchronized: '2026-10-29T20:19:52.814Z'
+  lastSynchronized: '2026-11-03T21:01:24.207Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"47017991241521dc49e22c2102bfaaeae5aeb9e2571d6b7de6378fd71995fd3b"
-    releasesEtag: W/"d749083c6ec226b15de7e1d591053bc45634278fe9ba518dceda2fa924f4edb8"
+    repoEtag: W/"2420981d71b48bda0538b4c9481227b81ce6e859c83056b8bda6523e07e41e82"
+    releasesEtag: W/"6f8f17064f924d4af573769e5288ab557843da39ba112f5a56c8fc6ef0fa3f9e"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

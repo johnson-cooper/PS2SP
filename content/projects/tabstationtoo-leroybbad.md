@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-30T02:08:54.184Z'
+  lastSynchronized: '2026-11-03T21:01:30.332Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"aae72fdd2bb09e464b24fe7d0886eca4d8523514ba6eb2df4bcedf652d76fc28"
+    releasesEtag: '"edb695a0b10a195de0f2bfb6f0e14e249cb89906be5a57da3395e301db7eb864"'
 discovery:
   method: 'fork-network:Aegyptiacus11/TabStationToo'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: TabStationToo/TabStationToo
   source: TabStationToo/TabStationToo
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
