@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-02T06:03:46.922Z'
+  lastSynchronized: '2026-11-03T06:49:12.816Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f5319081de6227b640c34bd8978de4389d041626875ba34b2cb8e0c22797e13b"
-    releasesEtag: '"a3ecb6892d2d743d8b827fa2a5bb15363548a9af08f592d29835e33f8f4b1528"'
+    repoEtag: W/"2f33a066611f82c3bb23cce1ec10c2efd81d1c1fdb2dd70de2765060c64dc6f9"
+    releasesEtag: '"692f2c9f61b2b2ea303277a9a51794b8b35824333ba16aff8fab37dc1c73a90d"'
 discovery:
   method: 'fork-network:Luden02/OrbitPS2-Manager'
   confidence: 95

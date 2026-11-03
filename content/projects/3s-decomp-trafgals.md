@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-22T04:36:17Z'
   url: 'https://github.com/trafgals/3s-decomp/releases/tag/web-data-1'
 activity:
-  lastSynchronized: '2026-11-02T06:02:41.518Z'
+  lastSynchronized: '2026-11-03T06:47:59.782Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"42e415d947ad2b17d5b01e47e17040342d4d69e9b1955648ce3bcc89198b1427"
-    releasesEtag: W/"744501ad3aa2f052ac5d003a47c68b68b7da39a6355dc0f49f051d5d7f3763bb"
+    repoEtag: W/"8efdf2b492824a3cc5423418e8e48bb34297616b13f762171f9dbcbae05e08ba"
+    releasesEtag: W/"bf77cf72d84fb67cd9e402ac6602833a7dc03fb03d2e4615f5e53872dd570f9f"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

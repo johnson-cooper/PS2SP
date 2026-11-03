@@ -25,21 +25,21 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-02T05:58:04Z'
+  lastCommit: '2026-11-02T22:35:03Z'
 latestRelease:
-  tag: launcher-dev-fix-windows-audio-stutter
-  name: v0.10.1-dev.153 (fix/windows-audio-stutter)
-  publishedAt: '2026-11-01T18:09:53Z'
+  tag: launcher-dev-feature-shared-menu
+  name: v0.10.1-dev.185 (feature/shared-menu)
+  publishedAt: '2026-11-02T11:36:20Z'
   url: >-
-    https://github.com/mateuszklysz/OpenRAC/releases/tag/launcher-dev-fix-windows-audio-stutter
+    https://github.com/mateuszklysz/OpenRAC/releases/tag/launcher-dev-feature-shared-menu
 activity:
   lastChecked: '2026-10-13T19:32:43.126Z'
-  lastSynchronized: '2026-11-02T06:03:42.986Z'
+  lastSynchronized: '2026-11-03T06:49:08.445Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c50d60eaea5d5a5b14c699865c4fad94a87cfe00231b4cd26ddc75df616de267"
-    releasesEtag: W/"195996d48ad8df0648f6d44fd0e38862d315062c8814f32b4ab36898733a36b7"
+    repoEtag: W/"dfa71405df754cd39e358eb4b6fb1befbe7da51a8bdcd7d8b579a1e1ed8fb1a7"
+    releasesEtag: W/"e32c532ebb2fff21734dbd5a415f2381a1c160f5fe9b58dd7a36d3d4fd3ecce1"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

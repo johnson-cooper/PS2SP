@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-10-30T22:35:55Z'
   url: 'https://github.com/sp00nznet/linksawakening-portable/releases/tag/v0.2.0'
 activity:
-  lastSynchronized: '2026-11-02T06:03:25.085Z'
+  lastSynchronized: '2026-11-03T06:48:48.029Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b36be1e1f2e8c89a680257864dcb676e6b33e427b962703a29fc78aad3530726"
-    releasesEtag: W/"b609e2e12149f6dc936534fa93b7866af6268b2698abaec6cdd2fdddc17ba23b"
+    repoEtag: W/"966e9ff56068aed9d87bf58bc4fcd2e13b918fc584a920355a5e3ec6c20247e7"
+    releasesEtag: W/"3fa022ab5211326bbbf6011520f4adffe2efcaaf20c62bee3176a6b33e7a8852"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
