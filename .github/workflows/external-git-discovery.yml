@@ -3,7 +3,7 @@ name: Discover PS2 external Git depth
 # Almost every repository this scans lives on git.techwritescode.dev, the small personal server that hosts the
 # PS2BUILD SDK. Run hourly (about five runs a day in practice), it could send that host up to 260 API requests
 # a run, recursive tree listings included, for repositories that rarely change. So it runs once a week and
-# checks the whole queue in that one run (EXTERNAL_GIT_REPOS_PER_RUN is above the 38 repositories queued on
+# attempts to check the current queue (EXTERNAL_GIT_REPOS_PER_RUN is above the 38 repositories queued on
 # 2026-11-02); MAX_EXTERNAL_GIT_REQUESTS still caps the run, and a run that hits the cap resumes where it
 # stopped the next week.
 on:
