@@ -34870,6 +34870,19 @@
         ]
       },
       {
+        "name": "dferramosi/retronas — branch: main",
+        "url": "https://github.com/dferramosi/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "dferramosi/retronas",
+          "main"
+        ]
+      },
+      {
         "name": "dfletcher4489/ps2sdk — branch: master",
         "url": "https://github.com/dfletcher4489/ps2sdk/tree/master",
         "keywords": [
@@ -34905,6 +34918,19 @@
           "branch",
           "repository",
           "dgiorgio/PFS-BatchKit-Manager",
+          "main"
+        ]
+      },
+      {
+        "name": "dgubitosi/retronas — branch: main",
+        "url": "https://github.com/dgubitosi/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "dgubitosi/retronas",
           "main"
         ]
       },
@@ -35179,6 +35205,19 @@
           "repository",
           "dirsors/ps2dev",
           "updateCI"
+        ]
+      },
+      {
+        "name": "dirsors/quake1_ps2 — branch: master",
+        "url": "https://github.com/dirsors/quake1_ps2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "dirsors/quake1_ps2",
+          "master"
         ]
       },
       {
@@ -35829,6 +35868,32 @@
           "repository",
           "djgerman10/Funtuna-Fork",
           "main"
+        ]
+      },
+      {
+        "name": "djpain/retronas — branch: main",
+        "url": "https://github.com/djpain/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "djpain/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "djpain/retronas — branch: testing",
+        "url": "https://github.com/djpain/retronas/tree/testing",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "djpain/retronas",
+          "testing"
         ]
       },
       {
@@ -43515,6 +43580,32 @@
         ]
       },
       {
+        "name": "doctorspider42/tyrax-toolchain-pthread-embedded — branch: master",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-pthread-embedded/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "doctorspider42/tyrax-toolchain-pthread-embedded",
+          "master"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-pthread-embedded — branch: platform_agnostic",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-pthread-embedded/tree/platform_agnostic",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "doctorspider42/tyrax-toolchain-pthread-embedded",
+          "platform_agnostic"
+        ]
+      },
+      {
         "name": "doctorspider42/tyrax-vendor-ps2sdk — branch: gh-pages",
         "url": "https://github.com/doctorspider42/tyrax-vendor-ps2sdk/tree/gh-pages",
         "keywords": [
@@ -43667,6 +43758,32 @@
           "branch",
           "repository",
           "Doom-modding-and-etc/isjpcm",
+          "master"
+        ]
+      },
+      {
+        "name": "Doom-modding-and-etc/quake2-for-ps2 — branch: dev",
+        "url": "https://github.com/Doom-modding-and-etc/quake2-for-ps2/tree/dev",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Doom-modding-and-etc/quake2-for-ps2",
+          "dev"
+        ]
+      },
+      {
+        "name": "Doom-modding-and-etc/quake2-for-ps2 — branch: master",
+        "url": "https://github.com/Doom-modding-and-etc/quake2-for-ps2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Doom-modding-and-etc/quake2-for-ps2",
           "master"
         ]
       },
@@ -44009,6 +44126,123 @@
         ]
       },
       {
+        "name": "drinksomewhiskey/retronas — branch: imgcreator",
+        "url": "https://github.com/drinksomewhiskey/retronas/tree/imgcreator",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "drinksomewhiskey/retronas",
+          "imgcreator"
+        ]
+      },
+      {
+        "name": "drinksomewhiskey/retronas — branch: main",
+        "url": "https://github.com/drinksomewhiskey/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "drinksomewhiskey/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "drinksomewhiskey/retronas — branch: multi-distro-concept",
+        "url": "https://github.com/drinksomewhiskey/retronas/tree/multi-distro-concept",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "drinksomewhiskey/retronas",
+          "multi-distro-concept"
+        ]
+      },
+      {
+        "name": "drinksomewhiskey/retronas — branch: testing",
+        "url": "https://github.com/drinksomewhiskey/retronas/tree/testing",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "drinksomewhiskey/retronas",
+          "testing"
+        ]
+      },
+      {
+        "name": "drizzt/retronas — branch: fix-mister-typos",
+        "url": "https://github.com/drizzt/retronas/tree/fix-mister-typos",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "drizzt/retronas",
+          "fix-mister-typos"
+        ]
+      },
+      {
+        "name": "drizzt/retronas — branch: imgcreator",
+        "url": "https://github.com/drizzt/retronas/tree/imgcreator",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "drizzt/retronas",
+          "imgcreator"
+        ]
+      },
+      {
+        "name": "drizzt/retronas — branch: main",
+        "url": "https://github.com/drizzt/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "drizzt/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "drizzt/retronas — branch: multi-distro-concept",
+        "url": "https://github.com/drizzt/retronas/tree/multi-distro-concept",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "drizzt/retronas",
+          "multi-distro-concept"
+        ]
+      },
+      {
+        "name": "drizzt/retronas — branch: testing",
+        "url": "https://github.com/drizzt/retronas/tree/testing",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "drizzt/retronas",
+          "testing"
+        ]
+      },
+      {
         "name": "drknsdarkness-eng/NetherSX2-patch — branch: main",
         "url": "https://github.com/drknsdarkness-eng/NetherSX2-patch/tree/main",
         "keywords": [
@@ -44045,6 +44279,19 @@
           "repository",
           "drkzrg/Open-PS2-Loader-1",
           "master"
+        ]
+      },
+      {
+        "name": "drpaneas/retronas — branch: main",
+        "url": "https://github.com/drpaneas/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "drpaneas/retronas",
+          "main"
         ]
       },
       {
@@ -44187,6 +44434,19 @@
           "branch",
           "repository",
           "DucRP/ps2toolchain",
+          "master"
+        ]
+      },
+      {
+        "name": "DucRP/quake2-for-ps2 — branch: master",
+        "url": "https://github.com/DucRP/quake2-for-ps2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "DucRP/quake2-for-ps2",
           "master"
         ]
       },
@@ -49339,6 +49599,32 @@
         ]
       },
       {
+        "name": "EpideMic/RETROLauncher — branch: main",
+        "url": "https://github.com/EpideMic/RETROLauncher/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "EpideMic/RETROLauncher",
+          "main"
+        ]
+      },
+      {
+        "name": "EpideMic/RETROLauncher — branch: patch-1",
+        "url": "https://github.com/EpideMic/RETROLauncher/tree/patch-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "EpideMic/RETROLauncher",
+          "patch-1"
+        ]
+      },
+      {
         "name": "eraycep/pcsx2 — branch: fix-unsaved-breakpoints",
         "url": "https://github.com/eraycep/pcsx2/tree/fix-unsaved-breakpoints",
         "keywords": [
@@ -49362,6 +49648,45 @@
           "repository",
           "eraycep/pcsx2",
           "master"
+        ]
+      },
+      {
+        "name": "ErichMoraga/retronas — branch: imgcreator",
+        "url": "https://github.com/ErichMoraga/retronas/tree/imgcreator",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ErichMoraga/retronas",
+          "imgcreator"
+        ]
+      },
+      {
+        "name": "ErichMoraga/retronas — branch: main",
+        "url": "https://github.com/ErichMoraga/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ErichMoraga/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "ErichMoraga/retronas — branch: testing",
+        "url": "https://github.com/ErichMoraga/retronas/tree/testing",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ErichMoraga/retronas",
+          "testing"
         ]
       },
       {
@@ -50922,6 +51247,19 @@
           "repository",
           "FatBaldDad/PS2-EtherDrive",
           "main"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive — branch: rebuild/main",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main"
         ]
       },
       {
@@ -53720,6 +54058,19 @@
         ]
       },
       {
+        "name": "fransking/retronas — branch: main",
+        "url": "https://github.com/fransking/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fransking/retronas",
+          "main"
+        ]
+      },
+      {
         "name": "frbruno/AthenaEnv_PS2 — branch: main",
         "url": "https://github.com/frbruno/AthenaEnv_PS2/tree/main",
         "keywords": [
@@ -53729,6 +54080,19 @@
           "branch",
           "repository",
           "frbruno/AthenaEnv_PS2",
+          "main"
+        ]
+      },
+      {
+        "name": "frederic-mahe/retronas — branch: main",
+        "url": "https://github.com/frederic-mahe/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "frederic-mahe/retronas",
           "main"
         ]
       },
@@ -57724,6 +58088,19 @@
         ]
       },
       {
+        "name": "GlennPegden2/retronas-docker — branch: main",
+        "url": "https://github.com/GlennPegden2/retronas-docker/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "GlennPegden2/retronas-docker",
+          "main"
+        ]
+      },
+      {
         "name": "glitchfox/libsmb2 — branch: builtin-ntlmssp",
         "url": "https://github.com/glitchfox/libsmb2/tree/builtin-ntlmssp",
         "keywords": [
@@ -58244,6 +58621,19 @@
         ]
       },
       {
+        "name": "gnuisance/retronas — branch: main",
+        "url": "https://github.com/gnuisance/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "gnuisance/retronas",
+          "main"
+        ]
+      },
+      {
         "name": "Goatman13/ps2-unpacker — branch: main",
         "url": "https://github.com/Goatman13/ps2-unpacker/tree/main",
         "keywords": [
@@ -58721,6 +59111,45 @@
           "branch",
           "repository",
           "gundamzaku/NetherSX2-patch",
+          "main"
+        ]
+      },
+      {
+        "name": "gunkaaa/retronas — branch: docker-int-service-demo",
+        "url": "https://github.com/gunkaaa/retronas/tree/docker-int-service-demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "gunkaaa/retronas",
+          "docker-int-service-demo"
+        ]
+      },
+      {
+        "name": "gunkaaa/retronas — branch: litch-enabled",
+        "url": "https://github.com/gunkaaa/retronas/tree/litch-enabled",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "gunkaaa/retronas",
+          "litch-enabled"
+        ]
+      },
+      {
+        "name": "gunkaaa/retronas — branch: main",
+        "url": "https://github.com/gunkaaa/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "gunkaaa/retronas",
           "main"
         ]
       },
@@ -669538,6 +669967,81 @@
         ]
       },
       {
+        "name": "doctorspider42/tyrax-toolchain-pthread-embedded@master — platform/psp",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-pthread-embedded/tree/master/platform/psp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "doctorspider42/tyrax-toolchain-pthread-embedded",
+          "master",
+          "platform/psp"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-pthread-embedded@master — platform/vita",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-pthread-embedded/tree/master/platform/vita",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "doctorspider42/tyrax-toolchain-pthread-embedded",
+          "master",
+          "platform/vita"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-pthread-embedded@platform_agnostic — platform/ps2",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-pthread-embedded/tree/platform_agnostic/platform/ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "doctorspider42/tyrax-toolchain-pthread-embedded",
+          "platform_agnostic",
+          "platform/ps2"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-pthread-embedded@platform_agnostic — platform/psp",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-pthread-embedded/tree/platform_agnostic/platform/psp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "doctorspider42/tyrax-toolchain-pthread-embedded",
+          "platform_agnostic",
+          "platform/psp"
+        ]
+      },
+      {
+        "name": "doctorspider42/tyrax-toolchain-pthread-embedded@platform_agnostic — platform/vita",
+        "url": "https://github.com/doctorspider42/tyrax-toolchain-pthread-embedded/tree/platform_agnostic/platform/vita",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "doctorspider42/tyrax-toolchain-pthread-embedded",
+          "platform_agnostic",
+          "platform/vita"
+        ]
+      },
+      {
         "name": "doctorspider42/tyrax-vendor-ps2sdk@master — ee/debug/samples",
         "url": "https://github.com/doctorspider42/tyrax-vendor-ps2sdk/tree/master/ee/debug/samples",
         "keywords": [
@@ -712108,6 +712612,141 @@
         ]
       },
       {
+        "name": "Doom-modding-and-etc/quake2-for-ps2@dev — client",
+        "url": "https://github.com/Doom-modding-and-etc/quake2-for-ps2/tree/dev/client",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Doom-modding-and-etc/quake2-for-ps2",
+          "dev",
+          "client"
+        ]
+      },
+      {
+        "name": "Doom-modding-and-etc/quake2-for-ps2@dev — game",
+        "url": "https://github.com/Doom-modding-and-etc/quake2-for-ps2/tree/dev/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Doom-modding-and-etc/quake2-for-ps2",
+          "dev",
+          "game"
+        ]
+      },
+      {
+        "name": "Doom-modding-and-etc/quake2-for-ps2@dev — server",
+        "url": "https://github.com/Doom-modding-and-etc/quake2-for-ps2/tree/dev/server",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Doom-modding-and-etc/quake2-for-ps2",
+          "dev",
+          "server"
+        ]
+      },
+      {
+        "name": "Doom-modding-and-etc/quake2-for-ps2@dev — tools",
+        "url": "https://github.com/Doom-modding-and-etc/quake2-for-ps2/tree/dev/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Doom-modding-and-etc/quake2-for-ps2",
+          "dev",
+          "tools"
+        ]
+      },
+      {
+        "name": "Doom-modding-and-etc/quake2-for-ps2@master — src",
+        "url": "https://github.com/Doom-modding-and-etc/quake2-for-ps2/tree/master/src",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Doom-modding-and-etc/quake2-for-ps2",
+          "master",
+          "src"
+        ]
+      },
+      {
+        "name": "Doom-modding-and-etc/quake2-for-ps2@master — src/client",
+        "url": "https://github.com/Doom-modding-and-etc/quake2-for-ps2/tree/master/src/client",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Doom-modding-and-etc/quake2-for-ps2",
+          "master",
+          "src/client"
+        ]
+      },
+      {
+        "name": "Doom-modding-and-etc/quake2-for-ps2@master — src/game",
+        "url": "https://github.com/Doom-modding-and-etc/quake2-for-ps2/tree/master/src/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Doom-modding-and-etc/quake2-for-ps2",
+          "master",
+          "src/game"
+        ]
+      },
+      {
+        "name": "Doom-modding-and-etc/quake2-for-ps2@master — src/server",
+        "url": "https://github.com/Doom-modding-and-etc/quake2-for-ps2/tree/master/src/server",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Doom-modding-and-etc/quake2-for-ps2",
+          "master",
+          "src/server"
+        ]
+      },
+      {
+        "name": "Doom-modding-and-etc/quake2-for-ps2@master — src/tools",
+        "url": "https://github.com/Doom-modding-and-etc/quake2-for-ps2/tree/master/src/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Doom-modding-and-etc/quake2-for-ps2",
+          "master",
+          "src/tools"
+        ]
+      },
+      {
         "name": "dothacktranslate/PS2Recomp-dothack-recomp@dothack-test-gs-fix — android",
         "url": "https://github.com/dothacktranslate/PS2Recomp-dothack-recomp/tree/dothack-test-gs-fix/android",
         "keywords": [
@@ -720858,6 +721497,81 @@
           "DucRP/pfsshell",
           "master",
           "subprojects/pfs"
+        ]
+      },
+      {
+        "name": "DucRP/quake2-for-ps2@master — src",
+        "url": "https://github.com/DucRP/quake2-for-ps2/tree/master/src",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DucRP/quake2-for-ps2",
+          "master",
+          "src"
+        ]
+      },
+      {
+        "name": "DucRP/quake2-for-ps2@master — src/client",
+        "url": "https://github.com/DucRP/quake2-for-ps2/tree/master/src/client",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DucRP/quake2-for-ps2",
+          "master",
+          "src/client"
+        ]
+      },
+      {
+        "name": "DucRP/quake2-for-ps2@master — src/game",
+        "url": "https://github.com/DucRP/quake2-for-ps2/tree/master/src/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DucRP/quake2-for-ps2",
+          "master",
+          "src/game"
+        ]
+      },
+      {
+        "name": "DucRP/quake2-for-ps2@master — src/server",
+        "url": "https://github.com/DucRP/quake2-for-ps2/tree/master/src/server",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DucRP/quake2-for-ps2",
+          "master",
+          "src/server"
+        ]
+      },
+      {
+        "name": "DucRP/quake2-for-ps2@master — src/tools",
+        "url": "https://github.com/DucRP/quake2-for-ps2/tree/master/src/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DucRP/quake2-for-ps2",
+          "master",
+          "src/tools"
         ]
       },
       {
@@ -804237,6 +804951,126 @@
         ]
       },
       {
+        "name": "EpideMic/RETROLauncher@main — RETROLauncher/Roms/APPS",
+        "url": "https://github.com/EpideMic/RETROLauncher/tree/main/RETROLauncher/Roms/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "EpideMic/RETROLauncher",
+          "main",
+          "RETROLauncher/Roms/APPS"
+        ]
+      },
+      {
+        "name": "EpideMic/RETROLauncher@main — RETROLauncher/System/RetroarchPS2/APPS",
+        "url": "https://github.com/EpideMic/RETROLauncher/tree/main/RETROLauncher/System/RetroarchPS2/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "EpideMic/RETROLauncher",
+          "main",
+          "RETROLauncher/System/RetroarchPS2/APPS"
+        ]
+      },
+      {
+        "name": "EpideMic/RETROLauncher@main — RETROLauncher/System/RetroarchPS2/Sony PlayStation 2",
+        "url": "https://github.com/EpideMic/RETROLauncher/tree/main/RETROLauncher/System/RetroarchPS2/Sony%20PlayStation%202",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "EpideMic/RETROLauncher",
+          "main",
+          "RETROLauncher/System/RetroarchPS2/Sony PlayStation 2"
+        ]
+      },
+      {
+        "name": "EpideMic/RETROLauncher@main — RETROLauncher/System/RetroarchPS2/Sony PlayStation 2/modules",
+        "url": "https://github.com/EpideMic/RETROLauncher/tree/main/RETROLauncher/System/RetroarchPS2/Sony%20PlayStation%202/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "EpideMic/RETROLauncher",
+          "main",
+          "RETROLauncher/System/RetroarchPS2/Sony PlayStation 2/modules"
+        ]
+      },
+      {
+        "name": "EpideMic/RETROLauncher@patch-1 — RETROLauncher/Roms/APPS",
+        "url": "https://github.com/EpideMic/RETROLauncher/tree/patch-1/RETROLauncher/Roms/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "EpideMic/RETROLauncher",
+          "patch-1",
+          "RETROLauncher/Roms/APPS"
+        ]
+      },
+      {
+        "name": "EpideMic/RETROLauncher@patch-1 — RETROLauncher/System/RetroarchPS2/APPS",
+        "url": "https://github.com/EpideMic/RETROLauncher/tree/patch-1/RETROLauncher/System/RetroarchPS2/APPS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "EpideMic/RETROLauncher",
+          "patch-1",
+          "RETROLauncher/System/RetroarchPS2/APPS"
+        ]
+      },
+      {
+        "name": "EpideMic/RETROLauncher@patch-1 — RETROLauncher/System/RetroarchPS2/Sony PlayStation 2",
+        "url": "https://github.com/EpideMic/RETROLauncher/tree/patch-1/RETROLauncher/System/RetroarchPS2/Sony%20PlayStation%202",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "EpideMic/RETROLauncher",
+          "patch-1",
+          "RETROLauncher/System/RetroarchPS2/Sony PlayStation 2"
+        ]
+      },
+      {
+        "name": "EpideMic/RETROLauncher@patch-1 — RETROLauncher/System/RetroarchPS2/Sony PlayStation 2/modules",
+        "url": "https://github.com/EpideMic/RETROLauncher/tree/patch-1/RETROLauncher/System/RetroarchPS2/Sony%20PlayStation%202/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "EpideMic/RETROLauncher",
+          "patch-1",
+          "RETROLauncher/System/RetroarchPS2/Sony PlayStation 2/modules"
+        ]
+      },
+      {
         "name": "eraycep/pcsx2@fix-unsaved-breakpoints — 3rdparty/ccc",
         "url": "https://github.com/eraycep/pcsx2/tree/fix-unsaved-breakpoints/3rdparty/ccc",
         "keywords": [
@@ -829300,6 +830134,606 @@
           "FatBaldDad/PS2-EtherDrive",
           "main",
           "WebUI-Preview"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — Example/APP_RIPTOPL-OFFICIALROLLING-VERSION.ZIP/neutrino",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/Example/APP_RIPTOPL-OFFICIALROLLING-VERSION.ZIP/neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "Example/APP_RIPTOPL-OFFICIALROLLING-VERSION.ZIP/neutrino"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — labs/opltestiso/ee",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/labs/opltestiso/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "labs/opltestiso/ee"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — labs/opltestiso/iop/freeram",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/labs/opltestiso/iop/freeram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "labs/opltestiso/iop/freeram"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/bdm",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/bdm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/bdm"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/bdm/libbdm",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/bdm/libbdm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/bdm/libbdm"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/bdmassault/ilink_bd_assault",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/bdmassault/ilink_bd_assault",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/bdmassault/ilink_bd_assault"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/bdmevent",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/bdmevent",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/bdmevent"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/debug/ps2link",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/debug/ps2link",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/debug/ps2link"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/debug/udptty-ingame",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/debug/udptty-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/debug/udptty-ingame"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/ds34bt",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/ds34bt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/ds34bt"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/ds34bt/ee",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/ds34bt/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/ds34bt/ee"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/ds34bt/iop",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/ds34bt/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/ds34bt/iop"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/ds34usb",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/ds34usb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/ds34usb"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/ds34usb/ee",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/ds34usb/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/ds34usb/ee"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/ds34usb/iop",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/ds34usb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/ds34usb/iop"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/hdd/apa",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/hdd/apa",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/hdd/apa"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/hdd/atad",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/hdd/atad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/hdd/atad"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/hdd/xhdd",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/hdd/xhdd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/hdd/xhdd"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/iopcore/cdvdfsv",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/iopcore/cdvdfsv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/iopcore/cdvdfsv"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/iopcore/cdvdman",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/iopcore/cdvdman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/iopcore/cdvdman"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/iopcore/imgdrv",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/iopcore/imgdrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/iopcore/imgdrv"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/iopcore/patches/apemodpatch",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/iopcore/patches/apemodpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/iopcore/patches/apemodpatch"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/iopcore/patches/cleareffects",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/iopcore/patches/cleareffects",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/iopcore/patches/cleareffects"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/iopcore/patches/f2techioppatch",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/iopcore/patches/f2techioppatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/iopcore/patches/f2techioppatch"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/iopcore/patches/iremsndpatch",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/iopcore/patches/iremsndpatch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/iopcore/patches/iremsndpatch"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/iopcore/resetspu",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/iopcore/resetspu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/iopcore/resetspu"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/isofs",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/isofs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/isofs"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/mcemu",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/mcemu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/mcemu"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/network/httpclient",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/network/httpclient",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/network/httpclient"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/network/nbns",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/network/nbns",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/network/nbns"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/network/ps2ips",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/network/ps2ips",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/network/ps2ips"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/network/raudp",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/network/raudp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/network/raudp"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/network/smap_udpbd",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/network/smap_udpbd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/network/smap_udpbd"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/network/smap-ingame",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/network/smap-ingame",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/network/smap-ingame"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/network/smbinit",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/network/smbinit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/network/smbinit"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/network/smbman-ra",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/network/smbman-ra",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/network/smbman-ra"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/network/SMSTCPIP",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/network/SMSTCPIP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/network/SMSTCPIP"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/network/SMSUTILS",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/network/SMSUTILS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/network/SMSUTILS"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/network/udpfs_bd",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/network/udpfs_bd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/network/udpfs_bd"
+        ]
+      },
+      {
+        "name": "FatBaldDad/RiptOPL-EtherDrive@rebuild/main — modules/network/udpfs_ioman",
+        "url": "https://github.com/FatBaldDad/RiptOPL-EtherDrive/tree/rebuild/main/modules/network/udpfs_ioman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "FatBaldDad/RiptOPL-EtherDrive",
+          "rebuild/main",
+          "modules/network/udpfs_ioman"
         ]
       },
       {
