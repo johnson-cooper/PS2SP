@@ -1,0 +1,16 @@
+{
+  "repository": "Ptraaah/godhand-recompiled-android",
+  "repositoryId": "1441858188",
+  "url": "https://github.com/Ptraaah/godhand-recompiled-android",
+  "description": "God Hand (PS2, SLUS-21503) recompiled to native Android ARM64 - no game data, bring your own disc. Native GPU renderer running ARUS 1.0, the adaptive GS pipeline for recompiled PS2 games on mobile GPUs.",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:\"ps2 port\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-03T15:28:56.039Z",
+  "checkedAt": "2026-11-03T15:28:56.039Z"
+}
