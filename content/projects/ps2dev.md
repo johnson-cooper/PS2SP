@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 502
+  stars: 504
   forks: 77
   lastCommit: '2026-10-14T14:20:05Z'
 latestRelease:
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/ps2dev/ps2dev/releases/tag/v2.0.0'
 activity:
   lastChecked: '2026-09-29T00:27:10.684Z'
-  lastSynchronized: '2026-11-01T01:11:34.456Z'
+  lastSynchronized: '2026-11-04T01:23:06.427Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"966c4b18ff27e64b42dc9fa3b0309dc3d985a1bf4ec219275c61cf65dcf98782"
-    releasesEtag: W/"08c059f53db0add4e0e1386018ddf386ebb4d4c262f83e6acbc64f29754964de"
+    repoEtag: W/"a8ebe29d55e95e9d0cd4a51cf573320717847785812e0fe630c3ab8a32f406e0"
+    releasesEtag: W/"6a6d04342b05ef02ae487da525fa51bb96081fc92a822683657293aa44f42fdd"
 discovery:
   method: curated
   confidence: 100

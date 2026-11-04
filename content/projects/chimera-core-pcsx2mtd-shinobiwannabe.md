@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-02T17:26:42.913Z'
+  lastSynchronized: '2026-11-04T01:21:46.678Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"fe5488c317b194e1555b6b196d6f3612ff0abcf1da71b3c8f920cecb204cb56d"
+    releasesEtag: '"39f1d594621e2612f55b2653c074dbdf484a90058843610d03a49448d4076b72"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: ToolAssisted-run/chimera-core-pcsx2
   source: ToolAssisted-run/chimera-core-pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

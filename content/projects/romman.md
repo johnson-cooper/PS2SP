@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2025-11-22T21:21:10Z'
   url: 'https://github.com/israpps/romman/releases/tag/develop-49'
 activity:
-  lastSynchronized: '2026-11-01T01:11:57.385Z'
+  lastSynchronized: '2026-11-04T01:23:29.423Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"418837a3c5bc1ec8ae88e6298a7ec77a5fa943d1e090c28c15eff57b81ad383f"
-    releasesEtag: W/"225d855d3e3e3bcbf19827d28c8c0ac2d772b61183c459fd5c3117fb670340f4"
+    repoEtag: W/"391fb675bf5d692027fac90c70ab4e875b5c03e3a2336226ba088d9396ab8d3a"
+    releasesEtag: W/"87507189ce0f08d81905cfc955715853af05231134aae4539d7f9ee0178eb65b"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

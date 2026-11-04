@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2023-08-08T13:13:44Z'
   url: 'https://github.com/DDinghoya/HDL-Batch-installer/releases/tag/Latest'
 activity:
-  lastSynchronized: '2026-11-01T01:10:29.618Z'
+  lastSynchronized: '2026-11-04T01:22:03.113Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"705ecc3d24d5733d7644633506a86e6765b6c4d21e62bf12e97ed7ed860305f2"
-    releasesEtag: W/"514afcc60f68221826fdff58b37ef48be0f6c1efed636c7629039ce41b81d444"
+    repoEtag: W/"2dd3460ea522d7cabe6417c17ed01c5311c7eae62276279084471972bb3b540f"
+    releasesEtag: W/"aecd2e4d6122a6824ca18bade7f0bb0507fefc6c780e8f8970e28d3c0136cf4f"
 discovery:
   method: 'fork-network:israpps/HDL-Batch-installer'
   confidence: 95

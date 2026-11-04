@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-01T01:10:30.098Z'
+  lastSynchronized: '2026-11-04T01:22:03.629Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f9de76dc11aa76c120b7aeee1dce333164fd14f421e95b842c3c19f1ffd304a4"
-    releasesEtag: '"3b75f1d818d1fdb934a49305a4de4de4f2078614586fedddd81d263fe1e9f072"'
+    repoEtag: W/"e9670007f539ba452d9df63f9fa1feaff5d77dde8c82b1de3076071f2919428f"
+    releasesEtag: '"39f1d594621e2612f55b2653c074dbdf484a90058843610d03a49448d4076b72"'
 discovery:
   method: 'fork-network:israpps/HDL-Batch-installer'
   confidence: 95

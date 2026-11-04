@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/sennett-lau/re-gvs-gvzg/releases/tag/v0.3.0-alpha.1'
 activity:
   lastChecked: '2026-10-27T05:36:47.166Z'
-  lastSynchronized: '2026-11-01T01:11:51.320Z'
+  lastSynchronized: '2026-11-04T01:23:23.253Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f8a5fe240abd4d4a50ba5ed3d1cf89dc1aa1aef81eb864e652bbcbc36f7dfaee"
-    releasesEtag: W/"b65725c287a5f935864a95a7c010c71414bdfe2dc885c7764e32ef335e528cd4"
+    repoEtag: W/"beda2038c8fc5726af1dcc195989f316f078886e57788f2cbfacd2123e6908e0"
+    releasesEtag: W/"ef9349b32307a6ce4533628effeffe654a6b784b0c7144173add5c1d5e2cf8e2"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-01T01:10:31.256Z'
+  lastSynchronized: '2026-11-04T01:22:04.815Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1fee317c3f7641e7cb8f569920fe2affb29fef66f9d76eeba387baa9a56dc82e"
-    releasesEtag: '"3b75f1d818d1fdb934a49305a4de4de4f2078614586fedddd81d263fe1e9f072"'
+    repoEtag: W/"2f424a67d6a874a74c3cc3e6e0dc2c7dbbd9f0fcfe6295e283986f4751355b4f"
+    releasesEtag: '"39f1d594621e2612f55b2653c074dbdf484a90058843610d03a49448d4076b72"'
 discovery:
   method: 'fork-network:nathanialf/ico-pc'
   confidence: 100

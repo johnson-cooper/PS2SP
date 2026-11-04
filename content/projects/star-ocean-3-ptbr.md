@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-31T01:00:19Z'
+  lastCommit: '2026-11-03T06:20:26Z'
 latestRelease:
-  tag: v0.9-beta
-  name: v0.9-beta — Primeira versão (beta)
-  publishedAt: '2026-10-31T01:00:19Z'
-  url: 'https://github.com/0xdhx0/star-ocean-3-ptbr/releases/tag/v0.9-beta'
+  tag: v1.1
+  name: v1.1 — Termos revisados e Nomes Originais com a regra final
+  publishedAt: '2026-11-03T06:20:30Z'
+  url: 'https://github.com/0xdhx0/star-ocean-3-ptbr/releases/tag/v1.1'
 activity:
-  lastSynchronized: '2026-11-01T01:12:00.979Z'
+  lastSynchronized: '2026-11-04T01:23:32.671Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"11d021c7d687f13fd9aea7e81fd58232080e894ec7782725dfcb39b67ef5eeaa"
-    releasesEtag: W/"603b173513cf359912fc6e57c4bcd32317e3f0c866ad718bfc2a0de6dd9c371b"
+    repoEtag: W/"5777181cbed49d34aa3eadb17d7131726bc469714ecdad08492cf1bb181a0261"
+    releasesEtag: W/"474a8571f061c97077183d87ecfb44bed967575daa7db52d288b4c389faacf5b"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
