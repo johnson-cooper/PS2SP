@@ -145396,6 +145396,58 @@
         ]
       },
       {
+        "name": "RetroLoom/retronas — branch: docker-int-service-demo",
+        "url": "https://github.com/RetroLoom/retronas/tree/docker-int-service-demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "RetroLoom/retronas",
+          "docker-int-service-demo"
+        ]
+      },
+      {
+        "name": "RetroLoom/retronas — branch: litch-enabled",
+        "url": "https://github.com/RetroLoom/retronas/tree/litch-enabled",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "RetroLoom/retronas",
+          "litch-enabled"
+        ]
+      },
+      {
+        "name": "RetroLoom/retronas — branch: main",
+        "url": "https://github.com/RetroLoom/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "RetroLoom/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "RetroLoom/retronas — branch: ubuntu",
+        "url": "https://github.com/RetroLoom/retronas/tree/ubuntu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "RetroLoom/retronas",
+          "ubuntu"
+        ]
+      },
+      {
         "name": "retronas/retronas — branch: imgcreator",
         "url": "https://github.com/retronas/retronas/tree/imgcreator",
         "keywords": [
@@ -149387,6 +149439,32 @@
         ]
       },
       {
+        "name": "RMZK/retronas — branch: fix-rom-folders-creation",
+        "url": "https://github.com/RMZK/retronas/tree/fix-rom-folders-creation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "RMZK/retronas",
+          "fix-rom-folders-creation"
+        ]
+      },
+      {
+        "name": "RMZK/retronas — branch: main",
+        "url": "https://github.com/RMZK/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "RMZK/retronas",
+          "main"
+        ]
+      },
+      {
         "name": "rn01997/PS2-Launcher — branch: main",
         "url": "https://github.com/rn01997/PS2-Launcher/tree/main",
         "keywords": [
@@ -149864,6 +149942,19 @@
           "branch",
           "repository",
           "robhein/NetherSX2-patch",
+          "main"
+        ]
+      },
+      {
+        "name": "robhein/PSxMemCardGen2 — branch: main",
+        "url": "https://github.com/robhein/PSxMemCardGen2/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "robhein/PSxMemCardGen2",
           "main"
         ]
       },
@@ -151100,6 +151191,19 @@
           "repository",
           "SachaDev34FR/ps2",
           "libretroization"
+        ]
+      },
+      {
+        "name": "SachaEmmanuelTorres/retronas — branch: main",
+        "url": "https://github.com/SachaEmmanuelTorres/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SachaEmmanuelTorres/retronas",
+          "main"
         ]
       },
       {
@@ -157668,6 +157772,84 @@
         ]
       },
       {
+        "name": "shawnshyguy/retronas — branch: firewalld",
+        "url": "https://github.com/shawnshyguy/retronas/tree/firewalld",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shawnshyguy/retronas",
+          "firewalld"
+        ]
+      },
+      {
+        "name": "shawnshyguy/retronas — branch: imgcreator",
+        "url": "https://github.com/shawnshyguy/retronas/tree/imgcreator",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shawnshyguy/retronas",
+          "imgcreator"
+        ]
+      },
+      {
+        "name": "shawnshyguy/retronas — branch: main",
+        "url": "https://github.com/shawnshyguy/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shawnshyguy/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "shawnshyguy/retronas — branch: patch-1",
+        "url": "https://github.com/shawnshyguy/retronas/tree/patch-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shawnshyguy/retronas",
+          "patch-1"
+        ]
+      },
+      {
+        "name": "shawnshyguy/retronas — branch: rascsi",
+        "url": "https://github.com/shawnshyguy/retronas/tree/rascsi",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shawnshyguy/retronas",
+          "rascsi"
+        ]
+      },
+      {
+        "name": "shawnshyguy/retronas — branch: testing",
+        "url": "https://github.com/shawnshyguy/retronas/tree/testing",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shawnshyguy/retronas",
+          "testing"
+        ]
+      },
+      {
         "name": "shazz/ps2docs — branch: main",
         "url": "https://github.com/shazz/ps2docs/tree/main",
         "keywords": [
@@ -158591,6 +158773,19 @@
         ]
       },
       {
+        "name": "sigboe/retronas — branch: main",
+        "url": "https://github.com/sigboe/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "sigboe/retronas",
+          "main"
+        ]
+      },
+      {
         "name": "silentsudin/PS2Recomp — branch: main",
         "url": "https://github.com/silentsudin/PS2Recomp/tree/main",
         "keywords": [
@@ -158614,6 +158809,19 @@
           "repository",
           "silentsudin/PS2Recomp",
           "roadtrip"
+        ]
+      },
+      {
+        "name": "simhaonline/retronas — branch: main",
+        "url": "https://github.com/simhaonline/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "simhaonline/retronas",
+          "main"
         ]
       },
       {
@@ -159358,6 +159566,19 @@
         ]
       },
       {
+        "name": "sleeplessinva/retronas — branch: main",
+        "url": "https://github.com/sleeplessinva/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "sleeplessinva/retronas",
+          "main"
+        ]
+      },
+      {
         "name": "slimpuggamer/FreeMcTuna — branch: OpenTuna-FMCB-Installer",
         "url": "https://github.com/slimpuggamer/FreeMcTuna/tree/OpenTuna-FMCB-Installer",
         "keywords": [
@@ -160008,6 +160229,45 @@
         ]
       },
       {
+        "name": "soaresden/R3CONFIGURATOR — branch: v1.1.0",
+        "url": "https://github.com/soaresden/R3CONFIGURATOR/tree/v1.1.0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "soaresden/R3CONFIGURATOR",
+          "v1.1.0"
+        ]
+      },
+      {
+        "name": "soaresden/R3CONFIGURATOR — branch: v1.3.X",
+        "url": "https://github.com/soaresden/R3CONFIGURATOR/tree/v1.3.X",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "soaresden/R3CONFIGURATOR",
+          "v1.3.X"
+        ]
+      },
+      {
+        "name": "soaresden/RETROLauncher — branch: main",
+        "url": "https://github.com/soaresden/RETROLauncher/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "soaresden/RETROLauncher",
+          "main"
+        ]
+      },
+      {
         "name": "sobecapaklebs-dev/project-titan-magenta-edition — branch: main",
         "url": "https://github.com/sobecapaklebs-dev/project-titan-magenta-edition/tree/main",
         "keywords": [
@@ -160082,6 +160342,19 @@
           "branch",
           "repository",
           "Solom-Lorr/ps2-PFS-BatchKit-Manager",
+          "main"
+        ]
+      },
+      {
+        "name": "Solom-Lorr/retronas — branch: main",
+        "url": "https://github.com/Solom-Lorr/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Solom-Lorr/retronas",
           "main"
         ]
       },
@@ -160824,6 +161097,19 @@
           "repository",
           "soulcda/FreeDVDBoot",
           "master"
+        ]
+      },
+      {
+        "name": "sounddrill31/PSxMemCardGen2 — branch: main",
+        "url": "https://github.com/sounddrill31/PSxMemCardGen2/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "sounddrill31/PSxMemCardGen2",
+          "main"
         ]
       },
       {
@@ -167392,6 +167678,19 @@
         ]
       },
       {
+        "name": "stake2grow/retronas — branch: main",
+        "url": "https://github.com/stake2grow/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "stake2grow/retronas",
+          "main"
+        ]
+      },
+      {
         "name": "stanlapru/HDL-Batch-installer — branch: 3.7.0.1",
         "url": "https://github.com/stanlapru/HDL-Batch-installer/tree/3.7.0.1",
         "keywords": [
@@ -167818,6 +168117,19 @@
           "repository",
           "ste2425/pgen",
           "test"
+        ]
+      },
+      {
+        "name": "stopmosk/retronas — branch: main",
+        "url": "https://github.com/stopmosk/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "stopmosk/retronas",
+          "main"
         ]
       },
       {
@@ -169092,6 +169404,19 @@
           "repository",
           "t3chy3d/Open-PS2-Loader",
           "master"
+        ]
+      },
+      {
+        "name": "t3hbeowulf/retronas — branch: main",
+        "url": "https://github.com/t3hbeowulf/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "t3hbeowulf/retronas",
+          "main"
         ]
       },
       {
@@ -174893,6 +175218,45 @@
         ]
       },
       {
+        "name": "Toryalai1/retronas — branch: main",
+        "url": "https://github.com/Toryalai1/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Toryalai1/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "Toryalai1/retronas — branch: patch-1",
+        "url": "https://github.com/Toryalai1/retronas/tree/patch-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Toryalai1/retronas",
+          "patch-1"
+        ]
+      },
+      {
+        "name": "Toryalai1/retronas — branch: testing",
+        "url": "https://github.com/Toryalai1/retronas/tree/testing",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Toryalai1/retronas",
+          "testing"
+        ]
+      },
+      {
         "name": "Tpanarchist/AthenaEnv — branch: main",
         "url": "https://github.com/Tpanarchist/AthenaEnv/tree/main",
         "keywords": [
@@ -175062,6 +175426,45 @@
         ]
       },
       {
+        "name": "tribloke/retronas — branch: docker-example",
+        "url": "https://github.com/tribloke/retronas/tree/docker-example",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tribloke/retronas",
+          "docker-example"
+        ]
+      },
+      {
+        "name": "tribloke/retronas — branch: main",
+        "url": "https://github.com/tribloke/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tribloke/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "tribloke/retronas — branch: retronasd",
+        "url": "https://github.com/tribloke/retronas/tree/retronasd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tribloke/retronas",
+          "retronasd"
+        ]
+      },
+      {
         "name": "Trixarian/NetherSX2-patch — branch: main",
         "url": "https://github.com/Trixarian/NetherSX2-patch/tree/main",
         "keywords": [
@@ -175188,6 +175591,19 @@
           "branch",
           "repository",
           "UlissesRibeiro/AthenaEnv",
+          "main"
+        ]
+      },
+      {
+        "name": "umairbari/retronas — branch: main",
+        "url": "https://github.com/umairbari/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "umairbari/retronas",
           "main"
         ]
       },
@@ -1819177,6 +1819593,145 @@
         ]
       },
       {
+        "name": "soaresden/R3CONFIGURATOR@v1.1.0 — modules",
+        "url": "https://github.com/soaresden/R3CONFIGURATOR/tree/v1.1.0/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "soaresden/R3CONFIGURATOR",
+          "v1.1.0",
+          "modules"
+        ]
+      },
+      {
+        "name": "soaresden/R3CONFIGURATOR@v1.1.0 — modules/mmceman",
+        "url": "https://github.com/soaresden/R3CONFIGURATOR/tree/v1.1.0/modules/mmceman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "soaresden/R3CONFIGURATOR",
+          "v1.1.0",
+          "modules/mmceman",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "soaresden/R3CONFIGURATOR@v1.1.0 — tools",
+        "url": "https://github.com/soaresden/R3CONFIGURATOR/tree/v1.1.0/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "soaresden/R3CONFIGURATOR",
+          "v1.1.0",
+          "tools"
+        ]
+      },
+      {
+        "name": "soaresden/R3CONFIGURATOR@v1.3.X — modules",
+        "url": "https://github.com/soaresden/R3CONFIGURATOR/tree/v1.3.X/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "soaresden/R3CONFIGURATOR",
+          "v1.3.X",
+          "modules"
+        ]
+      },
+      {
+        "name": "soaresden/R3CONFIGURATOR@v1.3.X — modules/mmceman",
+        "url": "https://github.com/soaresden/R3CONFIGURATOR/tree/v1.3.X/modules/mmceman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "soaresden/R3CONFIGURATOR",
+          "v1.3.X",
+          "modules/mmceman",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "soaresden/R3CONFIGURATOR@v1.3.X — tools",
+        "url": "https://github.com/soaresden/R3CONFIGURATOR/tree/v1.3.X/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "soaresden/R3CONFIGURATOR",
+          "v1.3.X",
+          "tools"
+        ]
+      },
+      {
+        "name": "soaresden/RETROLauncher@main — To Transfer on USB or Exfat/RETROLauncher/Neutrino",
+        "url": "https://github.com/soaresden/RETROLauncher/tree/main/To%20Transfer%20on%20USB%20or%20Exfat/RETROLauncher/Neutrino",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "soaresden/RETROLauncher",
+          "main",
+          "To Transfer on USB or Exfat/RETROLauncher/Neutrino"
+        ]
+      },
+      {
+        "name": "soaresden/RETROLauncher@main — To Transfer on USB or Exfat/RETROLauncher/Neutrino/modules",
+        "url": "https://github.com/soaresden/RETROLauncher/tree/main/To%20Transfer%20on%20USB%20or%20Exfat/RETROLauncher/Neutrino/modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "soaresden/RETROLauncher",
+          "main",
+          "To Transfer on USB or Exfat/RETROLauncher/Neutrino/modules"
+        ]
+      },
+      {
+        "name": "soaresden/RETROLauncher@main — upstream/retroarch-exfat-ata",
+        "url": "https://github.com/soaresden/RETROLauncher/tree/main/upstream/retroarch-exfat-ata",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "soaresden/RETROLauncher",
+          "main",
+          "upstream/retroarch-exfat-ata"
+        ]
+      },
+      {
         "name": "sobecapaklebs-dev/project-titan-magenta-edition@main — apps/project-nes",
         "url": "https://github.com/sobecapaklebs-dev/project-titan-magenta-edition/tree/main/apps/project-nes",
         "keywords": [
@@ -2018967,6 +2019522,21 @@
         ]
       },
       {
+        "name": "tribloke/retronas@retronasd — daemon",
+        "url": "https://github.com/tribloke/retronas/tree/retronasd/daemon",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tribloke/retronas",
+          "retronasd",
+          "daemon"
+        ]
+      },
+      {
         "name": "truestory989/Open-PS2-Loader-Compatibility-list@create-pull-request/patch-wdb5han — List",
         "url": "https://github.com/truestory989/Open-PS2-Loader-Compatibility-list/tree/create-pull-request/patch-wdb5han/List",
         "keywords": [
@@ -2193007,63 +2193577,6 @@
         ]
       },
       {
-        "name": "coreylad/PSBBN-Definitive-Project@main — submodule: launcher/iop/mmceman",
-        "url": "https://github.com/ps2-mmce/mmceman",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "dirtrider735/nhddl",
-          "async-cover-art",
-          "iop/mmceman",
-          "https://github.com/ps2-mmce/mmceman.git",
-          "feature/editable-network-settings",
-          "legacy",
-          "release-candidate/integrated-ftp-20260814",
-          "rewrite",
-          "video-modes",
-          "dnunezx/nhddl-luna",
-          "luna",
-          "dnunezx/ROCKET",
-          "main",
-          "launcher/iop/mmceman",
-          "unstable",
-          "eliankeil/nhddl",
-          "NathanNeurotic/launcHER",
-          "EMBER",
-          "codex/opl-self-argv",
-          "codex/pages-favicon",
-          "codex/popstarter-replacement",
-          "docs/github-pages",
-          "docs/mobile-cursor-orbs-toggle-20261011",
-          "fix/build-version-sidecar-20261012",
-          "fix/ghpages-mobile-orbs-live-20261011",
-          "fix/nichdd-pfs-writethrough",
-          "fix/opl-apps-mass-argv0",
-          "fix/opl-db-quickboot-pfs0",
-          "fix/udpfs-nack-once",
-          "NathanNeurotic/nhddl",
-          "pcm720/nhddl",
-          "pcm720/OSDMenu",
-          "SumavisionQ5/launcHER",
-          "aleelyoshi/OSDMenu",
-          "celiocasttro/OSDMenu",
-          "coreylad/OSDMenu",
-          "higorhgon/OSDMenu",
-          "baseline-ab-test",
-          "claude/osdmenu-games-menu-tkcbok",
-          "feat/covers",
-          "feat/ember-igr",
-          "osdhub",
-          "saildot4k/OSDMenu",
-          "alex-dot/nhddl",
-          "coreylad/PSBBN-Definitive-Project",
-          "copilot/add-ps2-game-iso-downloader"
-        ]
-      },
-      {
         "name": "cscd98/pcsx2@x86-fix-comp — submodule: plutovg",
         "url": "https://github.com/sammycage/plutovg",
         "keywords": [
@@ -2194623,6 +2195136,67 @@
           "revert-3-master",
           "libtap",
           "git://github.com/mlafeldt/libtap.git"
+        ]
+      },
+      {
+        "name": "soaresden/R3CONFIGURATOR@v1.3.X — submodule: modules/mmceman",
+        "url": "https://github.com/ps2-mmce/mmceman",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "dirtrider735/nhddl",
+          "async-cover-art",
+          "iop/mmceman",
+          "https://github.com/ps2-mmce/mmceman.git",
+          "feature/editable-network-settings",
+          "legacy",
+          "release-candidate/integrated-ftp-20260814",
+          "rewrite",
+          "video-modes",
+          "dnunezx/nhddl-luna",
+          "luna",
+          "dnunezx/ROCKET",
+          "main",
+          "launcher/iop/mmceman",
+          "unstable",
+          "eliankeil/nhddl",
+          "NathanNeurotic/launcHER",
+          "EMBER",
+          "codex/opl-self-argv",
+          "codex/pages-favicon",
+          "codex/popstarter-replacement",
+          "docs/github-pages",
+          "docs/mobile-cursor-orbs-toggle-20261011",
+          "fix/build-version-sidecar-20261012",
+          "fix/ghpages-mobile-orbs-live-20261011",
+          "fix/nichdd-pfs-writethrough",
+          "fix/opl-apps-mass-argv0",
+          "fix/opl-db-quickboot-pfs0",
+          "fix/udpfs-nack-once",
+          "NathanNeurotic/nhddl",
+          "pcm720/nhddl",
+          "pcm720/OSDMenu",
+          "SumavisionQ5/launcHER",
+          "aleelyoshi/OSDMenu",
+          "celiocasttro/OSDMenu",
+          "coreylad/OSDMenu",
+          "higorhgon/OSDMenu",
+          "baseline-ab-test",
+          "claude/osdmenu-games-menu-tkcbok",
+          "feat/covers",
+          "feat/ember-igr",
+          "osdhub",
+          "saildot4k/OSDMenu",
+          "alex-dot/nhddl",
+          "coreylad/PSBBN-Definitive-Project",
+          "copilot/add-ps2-game-iso-downloader",
+          "soaresden/R3CONFIGURATOR",
+          "v1.1.0",
+          "modules/mmceman",
+          "v1.3.X"
         ]
       },
       {
