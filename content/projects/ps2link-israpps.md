@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2023-06-26T23:53:18Z'
   url: 'https://github.com/israpps/ps2link/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-31T17:45:17.491Z'
+  lastSynchronized: '2026-11-04T17:17:25.602Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"246bfdf01587295fe82d02a680fff5616e34689ded54205f07b89beca4955b41"
-    releasesEtag: W/"18579056ff7cd73212672aea11f67fa595407d0978954254fa1322104a88e607"
+    repoEtag: W/"e06108c03df78297d563ca23a541c14bb266c194795dbda90a64754c43cf7bd0"
+    releasesEtag: W/"0dc75bd77b59d8aa41c52c5ab35f55a9af04a867a14a95105e73ab0b6a8cab29"
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100

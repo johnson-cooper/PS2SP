@@ -23,20 +23,20 @@ repository:
   defaultBranch: master
   stars: 3
   forks: 0
-  lastCommit: '2026-07-28T01:34:14Z'
+  lastCommit: '2026-11-01T21:11:55Z'
 latestRelease:
-  tag: v1.0
-  name: FMCB/FHDB Installer ISR-RIP 1.0
-  publishedAt: '2026-07-28T01:34:41Z'
+  tag: latest
+  name: FMCB/FHDB Installer ISR-RIP — build d33347d1 (2026-11-01)
+  publishedAt: '2026-07-21T00:58:52Z'
   url: >-
-    https://github.com/NathanNeurotic/FMCB-Installer-Via-Any-Device/releases/tag/v1.0
+    https://github.com/NathanNeurotic/FMCB-Installer-Via-Any-Device/releases/tag/latest
 activity:
-  lastSynchronized: '2026-10-31T17:44:01.526Z'
+  lastSynchronized: '2026-11-04T17:15:51.692Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4083b4c4f8e6e563f84270c1fbe7f30ac78ce782fd4c78fcafd8d811b4e29f2c"
-    releasesEtag: W/"781324055eedd285c8736ecbdfdc19f871296291515f725c40346e480a613aff"
+    repoEtag: W/"c2060329afb0e5630340934144f288b05143bd099753a443a7bec9a8f7e61fa0"
+    releasesEtag: W/"036f34d5901e18b92c6f8be261d6a73e49cef6e8a11cecc20517d7541486f45b"
 discovery:
   method: curated-owner
   confidence: 100

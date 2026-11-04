@@ -20,20 +20,20 @@ repository:
   defaultBranch: master
   stars: 28
   forks: 8
-  lastCommit: '2024-03-17T18:46:06Z'
+  lastCommit: '2026-11-03T20:53:47Z'
 latestRelease:
   tag: latest
   name: Latest development build
-  publishedAt: '2024-03-17T18:46:06Z'
+  publishedAt: '2026-11-01T22:19:56Z'
   url: 'https://github.com/ps2dev/ps2gdb/releases/tag/latest'
 activity:
   lastChecked: '2026-09-29T00:27:11.204Z'
-  lastSynchronized: '2026-10-31T17:45:16.408Z'
+  lastSynchronized: '2026-11-04T17:17:24.177Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ba9f04e30762c4c72d4e0e4b7ebceae036ef43dfa797665440815a849468b23e"
-    releasesEtag: W/"18050076258e7a6dab5cd0853d2a9b4600bd620bb2e3f8fb3183ba176193e364"
+    repoEtag: W/"892fab060cf0b73e94c1e7f8c430fd21d3f6883e726b736e52f53f09e1d0d840"
+    releasesEtag: W/"f11ca556d7eb774d9d8516cbfd8dea88719ad4540210a752792db7bfc72d6893"
 discovery:
   method: curated
   confidence: 100

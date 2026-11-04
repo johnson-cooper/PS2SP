@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-31T18:45:56.304Z'
+  lastSynchronized: '2026-11-04T17:15:38.459Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0dea7b99fa55eed2e9563e2d297c44c27295afad82e1fa23b68a7fa703c50677"
+    releasesEtag: '"8bb1f6a6e45f3f76ecc1366244d4eaab149b813f5ed6f6df1bf4fdf27dc410ea"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: ensapra/champions-of-norrath
   source: ensapra/champions-of-norrath
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

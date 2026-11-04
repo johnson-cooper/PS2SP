@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2022-10-20T19:01:34Z'
   url: 'https://github.com/israpps/cue2pops/releases/tag/Latest'
 activity:
-  lastSynchronized: '2026-10-31T17:43:55.681Z'
+  lastSynchronized: '2026-11-04T17:15:43.342Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5d39ee028128e5727d5a0510152daef0345450d72932041a989e83e5e6791992"
-    releasesEtag: W/"a50ba776562f2486a5c8afce29f75a7de0262ed15573a8272ac1e2c8a4a1291f"
+    repoEtag: W/"10a577fc297a409c09a69bdae165a80c8ad825585219ef4113b1c7036ceffc6c"
+    releasesEtag: W/"d477f1457f88ab8755bf51c16fe4da91cbf5bfaf8719f3dee2faa7a4b587e197"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

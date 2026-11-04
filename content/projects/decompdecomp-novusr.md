@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-03T07:15:10.882Z'
+  lastSynchronized: '2026-11-04T17:15:45.180Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"fdd81f9b380aa565be254d757dd7130650d306cc460aef63a5f688f523c6a82d"
+    releasesEtag: '"8bb1f6a6e45f3f76ecc1366244d4eaab149b813f5ed6f6df1bf4fdf27dc410ea"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: n-delic/decompdecomp
   source: i12bp8/decomp.wtf
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-01T23:54:36.997Z'
+  lastSynchronized: '2026-11-04T17:16:41.342Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"41f484d68e4531be7207de36f24fd2533ed3bcd011e85d3c4edb66e358150c09"
+    releasesEtag: '"8bb1f6a6e45f3f76ecc1366244d4eaab149b813f5ed6f6df1bf4fdf27dc410ea"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: libretro/parallel-ps2
   source: libretro/parallel-ps2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

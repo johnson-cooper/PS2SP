@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-14T00:25:41Z'
   url: 'https://github.com/WinNative-Emu/ARMSX2/releases/tag/build-20261014-1c98c6c'
 activity:
-  lastSynchronized: '2026-10-31T17:43:48.596Z'
+  lastSynchronized: '2026-11-04T17:15:34.553Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2ee76225515cb0422fa7d983a619b068fc105c3148d9dfd0d4c6980abf922e62"
-    releasesEtag: W/"b93914bb47a61751ff6a13e42f557741ee4cb8d17498324aec17e59171502ba0"
+    repoEtag: W/"71cfcbce7ab474387776d6bd802913106a210cdc19bbd5f5c0f0280b24bc6bc0"
+    releasesEtag: W/"9874d8e63832acab2a8f635487df354f5a29eee48d4ad8ef2d750f96f9f63d6e"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

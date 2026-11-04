@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2025-10-08T04:30:37Z'
   url: 'https://github.com/driftywinds/PSX2/releases/tag/v1.0.4'
 activity:
-  lastSynchronized: '2026-10-31T17:45:35.036Z'
+  lastSynchronized: '2026-11-04T17:17:46.370Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"34188ae03a61c2ec8af7fa8b53fcef658eb5de813c004b402ecefa986d24c39b"
-    releasesEtag: W/"afd1b5d0ce7b688b57f3643b6ee63b210f5b166c93e42fc75126801ee6b00e67"
+    repoEtag: W/"3c3b620ae242790605a045fd22b09272d28f23c23670d0c5085b5635bb827622"
+    releasesEtag: W/"bfc356a7a111cd25f86595e9f9ef8b2b8cc5ce12e587b3bfad576d9f12ce6dd0"
 discovery:
   method: 'fork-network:izzy2lost/PSX2'
   confidence: 100
