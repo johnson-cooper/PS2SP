@@ -20,9 +20,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 112
+  stars: 115
   forks: 13
-  lastCommit: '2026-10-12T19:58:09Z'
+  lastCommit: '2026-11-04T14:34:26Z'
 latestRelease:
   tag: v3
   name: v3
@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/therealdreg/okhi/releases/tag/v3'
 activity:
   lastChecked: '2026-09-29T19:41:17.144Z'
-  lastSynchronized: '2026-10-25T22:34:09.162Z'
+  lastSynchronized: '2026-11-04T22:40:46.718Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"26cd7d731476d958fe2215947832bbda48a2792b3e147a44ce31861c873c4c07"
-    releasesEtag: W/"2dfd8b80a9f79444b92841396e02acab48c17739fd0f50d1acb2f5b12427d3c8"
+    repoEtag: W/"75f1fbac8be0608e4ddc653d3a5a8c2f5f8646b4cc8c05f4966e64d271fb2818"
+    releasesEtag: W/"2bbb068b006d5bc2c14826524cd6c5ba273aa7f894386d9727f4f5dde77b0089"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 80

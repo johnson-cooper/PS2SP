@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-10-27T16:50:27Z'
   url: 'https://github.com/enricocubas-wq/ARMSX2-NX/releases/tag/zine-maker-latest'
 activity:
-  lastSynchronized: '2026-11-04T01:40:14.557Z'
+  lastSynchronized: '2026-11-04T22:39:51.998Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2aa332f4a53746b7f56d35bc6d646563135477c57656d246ee7c5b9ced1a0201"
+    releasesEtag: W/"91cee6628d7f9c82d6ec5c8984c5a55fec47dcb9dbcdf6124af0632ab489d9cf"
 discovery:
   method: 'fork-network:PalindromicBreadLoaf/ARMSX2-NX'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: PalindromicBreadLoaf/Yadokari
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

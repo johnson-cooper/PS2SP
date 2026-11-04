@@ -21,16 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-26T18:50:21Z'
+  lastCommit: '2026-10-28T10:04:14Z'
 latestRelease:
   tag: v2.0.0
   name: v2.0.0
   publishedAt: '2026-10-26T18:50:21Z'
   url: 'https://github.com/dunjeon/Xenosaga-StoryMode/releases/tag/v2.0.0'
 activity:
-  lastSynchronized: '2026-10-26T20:09:39.841Z'
+  lastSynchronized: '2026-11-04T22:42:43.728Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"613c079b462ee7cb425c8ba821966c170433aaf253e43673ad5dc6804a5c3b82"
+    releasesEtag: W/"c42c88809e82e8fc581aa674ba135d8c826a1c31bf5f6d0acee37ba16d46e972"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -43,5 +46,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

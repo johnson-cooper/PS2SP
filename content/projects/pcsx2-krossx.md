@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2022-01-07T22:26:40Z'
   url: 'https://github.com/KrossX/pcsx2/releases/tag/v1.7.0-dev'
 activity:
-  lastSynchronized: '2026-10-25T22:34:25.596Z'
+  lastSynchronized: '2026-11-04T22:41:09.823Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b780c60b32451a0c14d24b950737c7317a434e262c3b09dc44d3d279c0d4f70c"
-    releasesEtag: W/"8cc04cb658f43ebac109d8279753314466bad5ad22c9a9dae89784b769997185"
+    repoEtag: W/"0ece137f9266b994c3eaf94752edf1f0770771486199484df72fcb60970d31ee"
+    releasesEtag: W/"2cbe60d5e62559aa575d317fb2e997fcc9c85b005092b1bb45ff6488defc0c1e"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

@@ -14,7 +14,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: MIT
 homepage: null
 source:
   provider: github
@@ -23,19 +23,23 @@ source:
   url: 'https://github.com/Rickow/HSFA'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-03T16:09:21Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.1.5
+  name: HSFA v0.1.5
+  publishedAt: '2026-11-03T16:09:22Z'
+  url: 'https://github.com/Rickow/HSFA/releases/tag/v0.1.5'
 activity:
   lastChecked: '2026-11-01T23:54:36.997Z'
+  lastSynchronized: '2026-11-04T22:40:28.747Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c4074474e6874d8a4bad4eec4a25d58a45238b723e4ddf9676e6739a6ad6e0cb"
+    releasesEtag: W/"4216d57fd726f7e47e6a348f2aeacddd7c762b73a8caf9ca3054b53bdd57e342"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80
@@ -48,5 +52,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

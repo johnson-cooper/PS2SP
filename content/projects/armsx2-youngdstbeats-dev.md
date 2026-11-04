@@ -18,7 +18,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 1
+  stars: 0
   forks: 0
   lastCommit: '2026-06-24T05:29:52Z'
 latestRelease:
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-25T22:33:34.079Z'
+  lastSynchronized: '2026-11-04T22:39:54.608Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1a44549507b945bea5f62ec04152e56088b3430c26353468be0f65b681ba5158"
-    releasesEtag: '"92252d522264dc4bde860f93a68ea45377a106a99241a7a274c2b7bc57034182"'
+    repoEtag: W/"79b3ffbf033bd012296d020cbda1567fc68383a4bfafaa18d06e3c9e57decfab"
+    releasesEtag: '"a4f168140a88f481cd5e05a9c06458170dc17a22c9e05abef5ff2db1765104a0"'
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

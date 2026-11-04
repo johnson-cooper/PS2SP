@@ -13,25 +13,25 @@ homepage: null
 source:
   provider: github
   repository: stonehamza/ps2-player
-  repositoryId: '1433406433'
+  repositoryId: '1440748269'
 repository:
   archived: false
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-25T16:36:18Z'
+  lastCommit: '2026-10-31T10:32:11Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-27T21:21:24.067Z'
+  lastSynchronized: '2026-11-04T22:41:44.199Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cf82607de70c85d5394d6c75f24a576d69dccb566658171d559ceefcc2ec6cbb"
-    releasesEtag: '"d07c796e30f535638c8c1195e1d7bb3337cbd88ac1b448751b73563c614dd6ad"'
+    repoEtag: W/"44100746e823215198b1769d45127f626975a1300f185f3bc41d4869e596378b"
+    releasesEtag: '"a4f168140a88f481cd5e05a9c06458170dc17a22c9e05abef5ff2db1765104a0"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

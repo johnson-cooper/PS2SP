@@ -23,16 +23,19 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-10-29T07:42:01Z'
+  lastCommit: '2026-11-03T23:33:11Z'
 latestRelease:
-  tag: v0.0.4
-  name: USBUtils 0.0.4
-  publishedAt: '2026-10-29T07:42:16Z'
-  url: 'https://github.com/AldySan/USBUtils_src/releases/tag/v0.0.4'
+  tag: v0.0.9
+  name: USBUtils 0.0.9
+  publishedAt: '2026-11-03T23:33:12Z'
+  url: 'https://github.com/AldySan/USBUtils_src/releases/tag/v0.0.9'
 activity:
-  lastSynchronized: '2026-10-29T10:25:26.926Z'
+  lastSynchronized: '2026-11-04T22:42:39.520Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8adaaa4036e8b24c2da2d5596de67a28224928a4ed1c97a9991c4cd008a35680"
+    releasesEtag: W/"aad498c4bff69ec654d8a6290e00fcf7d62d62431f8c92b7126b16caab66a284"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -45,5 +48,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

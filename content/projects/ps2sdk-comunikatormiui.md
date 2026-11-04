@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-01T08:10:20.320Z'
+  lastSynchronized: '2026-11-04T22:42:04.455Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b508948daa73477688bb6264b4b9914b264e08d7f9a34cb0b8135707ecbefcd6"
+    releasesEtag: '"a4f168140a88f481cd5e05a9c06458170dc17a22c9e05abef5ff2db1765104a0"'
 discovery:
   method: 'fork-network:israfilistek/ps2sdk'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: israfilistek/ps2sdk
   source: ps2dev/ps2sdk
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

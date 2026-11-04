@@ -29,9 +29,12 @@ latestRelease:
   url: >-
     https://github.com/aleph-void/ghidra-emotionengine-reloaded/releases/tag/ghidra-rare-v1.0.0
 activity:
-  lastSynchronized: '2026-10-27T16:51:40.447Z'
+  lastSynchronized: '2026-11-04T22:40:23.596Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"52e1ce19b47a0dc9ca16fcf9856280c9df62eb70e905ea55744f3c4c78482492"
+    releasesEtag: W/"7aeec805b025dad8781355ee1bb70becc56cdb071d30384e1713fbf2c405dc75"
 discovery:
   method: 'incremental:ps2sdk in:name,description,readme'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: chaoticgd/ghidra-emotionengine-reloaded
   source: chaoticgd/ghidra-emotionengine-reloaded
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

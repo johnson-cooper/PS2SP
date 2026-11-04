@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-25T22:35:23.479Z'
+  lastSynchronized: '2026-11-04T22:42:33.602Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2b8641812bfb41593fb3347587467047b9f593d7a0a99131d7e90a81efd1427d"
-    releasesEtag: '"92252d522264dc4bde860f93a68ea45377a106a99241a7a274c2b7bc57034182"'
+    repoEtag: W/"662d024e1febacf77aa7512ab648b41f1ad444c9f8e4dd28a5723dc232969303"
+    releasesEtag: '"a4f168140a88f481cd5e05a9c06458170dc17a22c9e05abef5ff2db1765104a0"'
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
