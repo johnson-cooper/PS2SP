@@ -24,16 +24,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-26T00:42:03Z'
+  lastCommit: '2026-11-04T05:17:16Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T01:43:46.634Z'
+  lastSynchronized: '2026-11-04T09:13:15.869Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"63dd34418da4241e6a236af54891f4ae29e22a3451bda6201c31c808f4c38347"
+    releasesEtag: '"c4bd51f9504671f4969901308ba412b6242c8d688035833bd4cd4af22ec05bbd"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: kira-502/dotr-decomp
   source: kira-502/dotr-decomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

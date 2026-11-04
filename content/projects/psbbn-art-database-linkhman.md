@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-17T09:22:54.879Z'
+  lastSynchronized: '2026-11-04T09:15:21.409Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c2152da04e3866a13fa6bc6d011f53d294728c952d0364aa812979e41b8716a1"
-    releasesEtag: '"cb769862e6712dfca548a1257f650e38e02b0d2a247f9ff368b7efe75bd7ead2"'
+    repoEtag: W/"3d2e0a0db7d04d4fb1a40fa581e4d6468a0d2a72a4d2854cddec05caa631b83e"
+    releasesEtag: '"c4bd51f9504671f4969901308ba412b6242c8d688035833bd4cd4af22ec05bbd"'
 discovery:
   method: 'fork-network:CosmicScale/psbbn-art-database'
   confidence: 95

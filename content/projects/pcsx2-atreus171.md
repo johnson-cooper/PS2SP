@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T00:14:45.066Z'
+  lastSynchronized: '2026-11-04T09:14:22.841Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d54013d42837b053bd94c6cf2b9befd26ee9b0b789cfa8b68980d2a4c26824c2"
+    releasesEtag: '"c4bd51f9504671f4969901308ba412b6242c8d688035833bd4cd4af22ec05bbd"'
 discovery:
   method: 'fork-network:JordanTheToaster/pcsx2'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: JordanTheToaster/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-25T00:31:44.133Z'
+  lastSynchronized: '2026-11-04T09:15:41.812Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"9b8818cd6b5e46695d4ea5a32e6d0515807dc10919e05619e63e44d0130c57f2"
+    releasesEtag: '"c4bd51f9504671f4969901308ba412b6242c8d688035833bd4cd4af22ec05bbd"'
 discovery:
   method: 'fork-network:ReyFxck/SNESstation-Decomp'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: ReyFxck/SNESstation-Decomp
   source: ReyFxck/SNESstation-Decomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

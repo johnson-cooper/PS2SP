@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T20:09:39.841Z'
+  lastSynchronized: '2026-11-04T09:14:29.917Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e9e45a603d5671d8cc6f038aeba5b00c67386dfc8da3324f0882524c7fc26c10"
+    releasesEtag: '"c4bd51f9504671f4969901308ba412b6242c8d688035833bd4cd4af22ec05bbd"'
 discovery:
   method: 'fork-network:Gabominated/pcsx2_patches'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: Gabominated/pcsx2_patches
   source: PCSX2/pcsx2_patches
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

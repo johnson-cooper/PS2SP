@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 3
   forks: 0
-  lastCommit: '2026-10-17T07:00:07Z'
+  lastCommit: '2026-10-25T13:32:36Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-17T09:22:58.615Z'
+  lastSynchronized: '2026-11-04T09:15:29.722Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a7eb9ceb1cb30c4f04760194d8150322deb7f9aa15f86570b99b67ba2f3a9841"
-    releasesEtag: '"cb769862e6712dfca548a1257f650e38e02b0d2a247f9ff368b7efe75bd7ead2"'
+    repoEtag: W/"4890db438f5f05192e6b012978897cb569bc5076c0a30baf9e906e5a454c8d11"
+    releasesEtag: '"c4bd51f9504671f4969901308ba412b6242c8d688035833bd4cd4af22ec05bbd"'
 discovery:
   method: 'incremental:ps2sdk in:name,description,readme'
   confidence: 100

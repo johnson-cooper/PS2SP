@@ -19,20 +19,20 @@ repository:
   archived: false
   defaultBranch: cps2_improvements
   stars: 3
-  forks: 1
-  lastCommit: '2026-10-13T02:23:25Z'
+  forks: 2
+  lastCommit: '2026-11-02T00:18:23Z'
 latestRelease:
   tag: '0.1'
   name: NJEMU PS2 v0.1
   publishedAt: '2026-09-02T00:30:25Z'
   url: 'https://github.com/SumavisionQ5/NJEMU-PS2/releases/tag/0.1'
 activity:
-  lastSynchronized: '2026-10-17T09:22:11.642Z'
+  lastSynchronized: '2026-11-04T09:13:58.230Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1aae01e3353e35e6f163487f9493448d2139709057fe8c713fdf00720f97f2e8"
-    releasesEtag: W/"2cea67ab05de51637454428d69b5e4776906f72decf8bd74e1535e1387870315"
+    repoEtag: W/"7b54cdcddcf621b061a911b7edc7b4f03922a7cfc1a8f24c6a3bca00a9db3066"
+    releasesEtag: W/"9e1d6223eed2b828a523c6bedd7d1642763cea867ab684118be129007beabc78"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

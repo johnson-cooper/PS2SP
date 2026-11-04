@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-21T17:39:56.992Z'
+  lastSynchronized: '2026-11-04T09:13:08.141Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8eabe6235e2b254b50aac7b8e7bb4a16410f94fdf1972c56dd6b7e28816397f0"
+    releasesEtag: '"c4bd51f9504671f4969901308ba412b6242c8d688035833bd4cd4af22ec05bbd"'
 discovery:
   method: 'fork-network:intycat/Butterscotch-MiyooCFW'
   confidence: 95
@@ -49,5 +52,4 @@ relationships:
   forkOf: intycat/Butterscotch-MiyooCFW
   source: ButterscotchRunner/Butterscotch
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

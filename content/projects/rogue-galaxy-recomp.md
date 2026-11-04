@@ -13,7 +13,7 @@ tags:
   - prerelease-only
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -22,19 +22,23 @@ source:
   url: 'https://github.com/victor-takai/rogue-galaxy-recomp'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
-  forks: 0
-  lastCommit: null
+  defaultBranch: main
+  stars: 61
+  forks: 2
+  lastCommit: '2026-11-04T02:10:31Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.1.0
+  name: Rogue Galaxy Recompiled 0.1.0
+  publishedAt: '2026-10-27T19:10:31Z'
+  url: 'https://github.com/victor-takai/rogue-galaxy-recomp/releases/tag/v0.1.0'
 activity:
   lastChecked: '2026-10-27T21:29:01.337Z'
+  lastSynchronized: '2026-11-04T09:15:36.941Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0d1c3ac0997c01dde4264faa4fd81e85bf00266d230b61ef8c39e6df5973dff4"
+    releasesEtag: W/"1bc217bdc05064e9bfa8b87e807ef8da01a0d23636508bcf2ff9f7b2ab4195ac"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -47,5 +51,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

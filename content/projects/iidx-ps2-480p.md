@@ -20,18 +20,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 3
-  forks: 0
-  lastCommit: '2026-10-17T07:49:25Z'
+  stars: 36
+  forks: 3
+  lastCommit: '2026-10-18T14:52:29Z'
 latestRelease:
-  tag: v1.0.0
-  name: v1.0.0
-  publishedAt: '2026-10-13T16:02:42Z'
-  url: 'https://github.com/blurtic2/iidx-ps2-480p/releases/tag/v1.0.0'
+  tag: v1.1.0
+  name: v1.1.0
+  publishedAt: '2026-10-18T05:43:43Z'
+  url: 'https://github.com/blurtic2/iidx-ps2-480p/releases/tag/v1.1.0'
 activity:
-  lastSynchronized: '2026-10-17T11:10:50.101Z'
+  lastSynchronized: '2026-11-04T09:13:29.825Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4c7fdcaf92a448bd2e2200db9ddb959155df8a9bd2a0210c5ec8887ea65f5d33"
+    releasesEtag: W/"acd240f2597d6d58d6d25cd4ed14d3950dc203ece5f457e063c080838047f52f"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -45,5 +48,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

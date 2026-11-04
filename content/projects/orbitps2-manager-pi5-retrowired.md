@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: '2026-09-02T00:17:06Z'
   url: 'https://github.com/RetroWired/OrbitPS2-Manager-Pi5/releases/tag/v1.3.1-pi5.1'
 activity:
-  lastSynchronized: '2026-10-17T09:22:23.792Z'
+  lastSynchronized: '2026-11-04T09:14:18.580Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f1826e9440b63a151131bc12241679ce7b3bcd11bcf6d57c9a5d2c079b694c16"
-    releasesEtag: W/"ee8342e1a21c14114970f9cc9cbdaf10179e1dae623fcdb654f4da7e4cfd046b"
+    repoEtag: W/"11875688a256b98f561a024b8d56c05ef91fae607e79081becbc989be092b010"
+    releasesEtag: W/"2a594f42428ce575ee690fc76f5e35adb7c8d75917d8485236bf48699c053e32"
 discovery:
   method: 'fork-network:Luden02/OrbitPS2-Manager'
   confidence: 95

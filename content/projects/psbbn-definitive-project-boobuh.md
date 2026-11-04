@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/Boobuh/PSBBN-Definitive-Project/releases/tag/bnupdate-ukr-v1.1.0
 activity:
-  lastSynchronized: '2026-10-17T09:22:56.807Z'
+  lastSynchronized: '2026-11-04T09:15:24.126Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7a92b970eb4c3a1cc436a285cc9ae7e5e618badc444fcb22ce3f208be93cd8a4"
-    releasesEtag: W/"6c21cd4df6926f6117cc9e4f283fdc86462235e26f38772739644e8fda595607"
+    repoEtag: W/"01abe719e12104d11cd154fcb6c6d93e06fa11bcadeb89f3bcbc8b8e8ddfc876"
+    releasesEtag: W/"d748c8a5b7b99a8d6a4de6bbfb53a06612ae5fadbcccce5088e19ff5c628eebc"
 discovery:
   method: 'fork-network:CosmicScale/PSBBN-Definitive-Project'
   confidence: 100
