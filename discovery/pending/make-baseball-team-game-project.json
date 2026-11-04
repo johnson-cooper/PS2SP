@@ -1,0 +1,16 @@
+{
+  "repository": "PrimeTimerer/Make-Baseball-Team-Game-Project",
+  "repositoryId": "1445208503",
+  "url": "https://github.com/PrimeTimerer/Make-Baseball-Team-Game-Project",
+  "description": "Native PC port of Pro Yakyuu Team wo Tsukurou! 3 (PS2, SLPM-65853) by static recompilation. No game data included: bring your own disc.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-04T08:00:34.410Z",
+  "checkedAt": "2026-11-04T08:00:34.410Z"
+}
