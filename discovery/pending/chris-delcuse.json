@@ -1,0 +1,16 @@
+{
+  "repository": "Chris-Delcuse/Chris-Delcuse",
+  "repositoryId": "1333698906",
+  "url": "https://github.com/Chris-Delcuse/Chris-Delcuse",
+  "description": "🛡 Descriptive repository of coding experience.",
+  "score": 80,
+  "evidence": [
+    "PS2-specific topic",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-04T22:12:45.517Z",
+  "checkedAt": "2026-11-04T22:12:45.517Z"
+}
