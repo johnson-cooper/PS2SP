@@ -178468,6 +178468,19 @@
         ]
       },
       {
+        "name": "velikijzhuk/PSxMemCardGen2 — branch: main",
+        "url": "https://github.com/velikijzhuk/PSxMemCardGen2/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "velikijzhuk/PSxMemCardGen2",
+          "main"
+        ]
+      },
+      {
         "name": "VelpaChallenger/mymc — branch: master",
         "url": "https://github.com/VelpaChallenger/mymc/tree/master",
         "keywords": [
@@ -178516,6 +178529,32 @@
           "branch",
           "repository",
           "velrino/ps2-covers",
+          "main"
+        ]
+      },
+      {
+        "name": "Venomtek/retronas — branch: main",
+        "url": "https://github.com/Venomtek/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Venomtek/retronas",
+          "main"
+        ]
+      },
+      {
+        "name": "versionsixnine/retronas — branch: main",
+        "url": "https://github.com/versionsixnine/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "versionsixnine/retronas",
           "main"
         ]
       },
@@ -182355,6 +182394,19 @@
         ]
       },
       {
+        "name": "vsilvalopes/PSxMemCardGen2 — branch: main",
+        "url": "https://github.com/vsilvalopes/PSxMemCardGen2/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "vsilvalopes/PSxMemCardGen2",
+          "main"
+        ]
+      },
+      {
         "name": "vswanagan/PSBBN-Definitive-English-Patch — branch: main",
         "url": "https://github.com/vswanagan/PSBBN-Definitive-English-Patch/tree/main",
         "keywords": [
@@ -182625,6 +182677,32 @@
           "repository",
           "warmenhoven/ps2",
           "parallel-gs"
+        ]
+      },
+      {
+        "name": "washigeri/retronas — branch: claude/markdown-conversation-review-3wid7m",
+        "url": "https://github.com/washigeri/retronas/tree/claude/markdown-conversation-review-3wid7m",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "washigeri/retronas",
+          "claude/markdown-conversation-review-3wid7m"
+        ]
+      },
+      {
+        "name": "washigeri/retronas — branch: main",
+        "url": "https://github.com/washigeri/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "washigeri/retronas",
+          "main"
         ]
       },
       {
@@ -183694,6 +183772,19 @@
         ]
       },
       {
+        "name": "wildfirebill-unraid/retronas — branch: main",
+        "url": "https://github.com/wildfirebill-unraid/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "wildfirebill-unraid/retronas",
+          "main"
+        ]
+      },
+      {
         "name": "WilkerSebastian/AthenaEnv — branch: main",
         "url": "https://github.com/WilkerSebastian/AthenaEnv/tree/main",
         "keywords": [
@@ -183730,6 +183821,45 @@
           "repository",
           "williamblair/ps2gdb",
           "update_build"
+        ]
+      },
+      {
+        "name": "willoucom/retronas — branch: feature/ansible_roles",
+        "url": "https://github.com/willoucom/retronas/tree/feature/ansible_roles",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "willoucom/retronas",
+          "feature/ansible_roles"
+        ]
+      },
+      {
+        "name": "willoucom/retronas — branch: feature/docker",
+        "url": "https://github.com/willoucom/retronas/tree/feature/docker",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "willoucom/retronas",
+          "feature/docker"
+        ]
+      },
+      {
+        "name": "willoucom/retronas — branch: main",
+        "url": "https://github.com/willoucom/retronas/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "willoucom/retronas",
+          "main"
         ]
       },
       {
@@ -2110678,6 +2110808,21 @@
           "williamblair/ps2gdb",
           "update_build",
           "ee"
+        ]
+      },
+      {
+        "name": "willoucom/retronas@feature/ansible_roles — ansible/roles/romdir",
+        "url": "https://github.com/willoucom/retronas/tree/feature/ansible_roles/ansible/roles/romdir",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "willoucom/retronas",
+          "feature/ansible_roles",
+          "ansible/roles/romdir"
         ]
       },
       {
