@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T11:34:08.960Z'
+  lastSynchronized: '2026-11-05T03:30:43.025Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"75f61bc3ba9b70e9131c6f32e840ab818b99a68d7bed7d6466ae7fb431314a88"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'fork-network:ps2max32/neutrino'
   confidence: 95
@@ -51,5 +54,4 @@ relationships:
   forkOf: ps2max32/neutrino
   source: ps2max32/neutrino
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

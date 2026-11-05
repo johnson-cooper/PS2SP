@@ -20,17 +20,20 @@ repository:
   defaultBranch: rombie
   stars: 0
   forks: 0
-  lastCommit: '2026-10-07T05:01:13Z'
+  lastCommit: '2026-10-13T00:39:24Z'
 latestRelease:
-  tag: rombie-engine-0.3.0
-  name: Rombie PS2 Engine 0.3.0
-  publishedAt: '2026-10-07T05:10:39Z'
+  tag: rombie-ps2-engine-2026.1.0
+  name: Rombie PS2 Engine 2026.1.0
+  publishedAt: '2026-10-13T00:42:46Z'
   url: >-
-    https://github.com/Bro-Code-Technologies/pcsx2-rombie/releases/tag/rombie-engine-0.3.0
+    https://github.com/Bro-Code-Technologies/pcsx2-rombie/releases/tag/rombie-ps2-engine-2026.1.0
 activity:
-  lastSynchronized: '2026-10-07T09:16:30.481Z'
+  lastSynchronized: '2026-11-05T03:31:05.360Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2c8ee7b52a37e45092ff0581ce97eac0c52f9f053fcb2bab1d5c43dfddb36e3c"
+    releasesEtag: W/"4567e6e20ee11634156ff5bd0eb5b25e109d9982e708b5e3457c170795fcc281"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-08T22:28:32.502Z'
+  lastSynchronized: '2026-11-05T03:31:25.707Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8e76cd599dbc84132e64f6780cae08199a32b735e024b1755d809f243af7489e"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'fork-network:asmblur/ps2cdvd'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: asmblur/ps2cdvd
   source: asmblur/ps2cdvd
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

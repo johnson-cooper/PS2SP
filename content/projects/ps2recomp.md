@@ -11,7 +11,7 @@ tags:
   - prerelease-only
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -20,19 +20,23 @@ source:
   url: 'https://github.com/ran-j/PS2Recomp'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
-  forks: 0
-  lastCommit: null
+  defaultBranch: main
+  stars: 3785
+  forks: 245
+  lastCommit: '2026-10-23T14:39:54Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.4
+  name: v0.4
+  publishedAt: '2026-04-05T02:24:01Z'
+  url: 'https://github.com/ran-j/PS2Recomp/releases/tag/v0.4'
 activity:
   lastChecked: '2026-09-29T00:28:53.209Z'
+  lastSynchronized: '2026-11-05T03:31:40.796Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c686788087c5d1b7ac94a6ac1e19c9b9c033d7a1caf0ec1924eee6137c5f1359"
+    releasesEtag: W/"a0dba12643af96a5314423782f392f363abbf6aef15f48d76cc8229d000fb3d9"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 100
@@ -48,5 +52,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

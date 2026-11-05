@@ -18,18 +18,23 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 3
-  forks: 0
-  lastCommit: '2026-10-02T04:04:36Z'
+  stars: 15
+  forks: 1
+  lastCommit: '2026-11-04T22:30:21Z'
 latestRelease:
-  tag: v0.0.55-prealpha
-  name: RIPPS2 build 55 (pre-alpha)
-  publishedAt: '2026-10-01T19:09:23Z'
-  url: 'https://github.com/akilluminati47/RIPPS2/releases/tag/v0.0.55-prealpha'
+  tag: v1.4.1-beta
+  name: >-
+    RIPPS2 v1.4.1 beta (build 141): BIBLE's settings on one page, launch keys
+    from your drives
+  publishedAt: '2026-11-04T22:29:45Z'
+  url: 'https://github.com/akilluminati47/RIPPS2/releases/tag/v1.4.1-beta'
 activity:
-  lastSynchronized: '2026-10-03T14:55:33.658Z'
+  lastSynchronized: '2026-11-05T03:32:04.387Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"42f0ec8c66080571d7a7aa90b8f43e8e81e01c19856e1696688d4a7aff864ac0"
+    releasesEtag: W/"be7d7824b6d36d3e14b6751aaa33ff3e11e3a2858be276a61a7caf7c04ecffc2"
 discovery:
   method: pending-recheck
   confidence: 100
@@ -42,5 +47,4 @@ discovery:
 verified: false
 featured: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

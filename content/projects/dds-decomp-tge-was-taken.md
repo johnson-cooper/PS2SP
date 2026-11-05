@@ -21,16 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-20T14:35:21Z'
+  lastCommit: '2026-10-20T22:17:01Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-20T15:22:35.905Z'
+  lastSynchronized: '2026-11-05T03:30:05.617Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"78e9a1cdab0c724ff4d4c6a36df2e8c059870038005eeedf7263195b59c969a6"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: Megami-Decomps/dds-decomp
   source: Megami-Decomps/dds-decomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -1,7 +1,9 @@
 ---
 name: ps2stuff
 slug: ps2stuff-ninjadynamics
-summary: "Support library containing math, matrix, and low-level utility routines for the ps2gl 3D graphics library."
+summary: >-
+  Support library containing math, matrix, and low-level utility routines for
+  the ps2gl 3D graphics library.
 categories:
   - development
   - libraries
@@ -28,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T00:44:41.508Z'
+  lastSynchronized: '2026-11-05T03:31:48.374Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2b154fbea4aed6804f420dae416fca6f5c89d58a6a740e3bdf131e36517f6c30"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'fork-network:ps2dev/ps2stuff'
   confidence: 95
@@ -44,5 +49,4 @@ relationships:
   forkOf: ps2dev/ps2stuff
   source: ps2dev/ps2stuff
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -1,7 +1,7 @@
 ---
 name: opentuna-payload
 slug: opentuna-payload-blckbearx
-summary: "Core payload for the OpenTuna save-file exploit on PlayStation 2 consoles."
+summary: Core payload for the OpenTuna save-file exploit on PlayStation 2 consoles.
 categories:
   - boot-tools
 tags:
@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T14:52:44.353Z'
+  lastSynchronized: '2026-11-05T03:30:55.775Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4bcc4842967cb4e146d56fb5faf3c86585f34ec0859ac7f234dc5a9169edca36"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'fork-network:ps2homebrew/opentuna-payload'
   confidence: 95
@@ -43,5 +46,4 @@ relationships:
   forkOf: ps2homebrew/opentuna-payload
   source: ps2homebrew/opentuna-payload
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

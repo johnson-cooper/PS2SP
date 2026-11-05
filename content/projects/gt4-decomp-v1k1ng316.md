@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-23T06:28:59.434Z'
+  lastSynchronized: '2026-11-05T03:30:20.045Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"69d2e4588baec7dab40c0bc59a04cd499fb4b3b725ac97c23e45bceb15e196bc"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'fork-network:gustavocanepa/gt4-decomp'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: gustavocanepa/gt4-decomp
   source: gustavocanepa/gt4-decomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

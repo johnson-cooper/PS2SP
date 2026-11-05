@@ -20,16 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-09-30T05:21:05Z'
+  lastCommit: '2026-10-06T11:58:58Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T10:27:58.408Z'
+  lastSynchronized: '2026-11-05T03:30:25.083Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"554139e9c2e29f0026c7cfd4b72435b3898abffc264d9ae9591bb0badeb959ef"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'fork-network:allkern/iris'
   confidence: 100
@@ -45,5 +48,4 @@ relationships:
   forkOf: allkern/iris
   source: allkern/iris
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

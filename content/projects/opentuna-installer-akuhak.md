@@ -1,7 +1,9 @@
 ---
 name: opentuna-installer
 slug: opentuna-installer-akuhak
-summary: "Automated installer for the OpenTuna exploit, enabling homebrew execution on PlayStation 2 Slim models incompatible with FreeMcBoot."
+summary: >-
+  Automated installer for the OpenTuna exploit, enabling homebrew execution on
+  PlayStation 2 Slim models incompatible with FreeMcBoot.
 categories:
   - boot-tools
   - installers
@@ -32,9 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T14:52:44.353Z'
+  lastSynchronized: '2026-11-05T03:30:55.310Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1421630c18b3dc4a83267d5b90fb0072620148cbf6be82dff5ab5f04e92c885e"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'fork-network:ps2homebrew/opentuna-installer'
   confidence: 95
@@ -48,5 +53,4 @@ relationships:
   forkOf: ps2homebrew/opentuna-installer
   source: ps2homebrew/opentuna-installer
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

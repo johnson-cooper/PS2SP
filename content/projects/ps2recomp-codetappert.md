@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T22:45:56.958Z'
+  lastSynchronized: '2026-11-05T03:31:35.395Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5c08bf4f3abfd3f4fd3b3bd5b69fc00a5b0aa2122513d503f7da97b37066fbf1"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'fork-network:Sinan-Karakaya/PS2Recomp'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: Sinan-Karakaya/PS2Recomp
   source: ran-j/PS2Recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

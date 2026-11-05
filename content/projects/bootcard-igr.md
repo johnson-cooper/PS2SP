@@ -18,7 +18,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 10
+  stars: 11
   forks: 1
   lastCommit: '2024-06-30T11:21:10Z'
 latestRelease:
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2024-06-30T11:21:52Z'
   url: 'https://github.com/JonathanDotCel/bootcard_igr/releases/tag/0.1'
 activity:
-  lastSynchronized: '2026-10-17T05:50:42.689Z'
+  lastSynchronized: '2026-11-05T03:30:01.612Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bbf91e2de794b323a763738137d6a4e8f71360f8f786399fe22998c91910af60"
-    releasesEtag: W/"c97f756f3c367b7f9f47d464e58480317111ee83849d33ea30a0c3237aea286b"
+    repoEtag: W/"378e65e2fdad7fc8d938fe506fbcec2b8bda359902f9150846d455c24d75863b"
+    releasesEtag: W/"a08acbd8cc2a37f4ee4b2d412518a7a27dcd0d1a27abde63d46b017583916a30"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

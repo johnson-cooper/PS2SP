@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: '2026-04-07T12:28:34Z'
   url: 'https://github.com/bulatorr/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-11T20:34:57.079Z'
+  lastSynchronized: '2026-11-05T03:30:46.641Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"89935b8eacafe9b149c2dba9f138440ca982976f43256a3ee40f7ef280400e7b"
+    releasesEtag: W/"76ec28c38d340e1a6790b090b052589f5fd37a7700cdff3015a8d6376d6a9b3e"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: ps2homebrew/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

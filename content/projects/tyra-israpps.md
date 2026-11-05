@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-20T05:18:56.651Z'
+  lastSynchronized: '2026-11-05T03:32:08.476Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"49875283edb7372fd8b9315e55e6da19a7d41a582b3166cfe6cdc21db150a6d9"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'fork-network:Wolf3s/tyra'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: Wolf3s/tyra
   source: h4570/tyra
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

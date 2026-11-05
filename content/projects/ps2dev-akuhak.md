@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: '2021-04-27T09:42:38Z'
   url: 'https://github.com/AKuHAK/ps2dev/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-16T16:57:57.764Z'
+  lastSynchronized: '2026-11-05T03:31:27.775Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c6b8ea3547a5f20edc25c04bf8dd29d09266540507ca44d796f6a5e16e8dffab"
+    releasesEtag: W/"c03e57d77b9767772b168964c84fadcb855b2d5bc631ec1dd8c5e7a6dcdcfd37"
 discovery:
   method: 'fork-network:ps2dev/ps2dev'
   confidence: 100
@@ -53,5 +56,4 @@ relationships:
   forkOf: ps2dev/ps2dev
   source: ps2dev/ps2dev
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

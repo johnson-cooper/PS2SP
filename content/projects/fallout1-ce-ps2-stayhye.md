@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-19T20:43:09.186Z'
+  lastSynchronized: '2026-11-05T03:30:12.534Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ea826b20eb720a485e51907b0fb3093b3bc4751f3c5dbbafeee55f6b6023428c"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: Nicolasalucin/fallout1-ce-ps2
   source: Nicolasalucin/fallout1-ce-ps2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

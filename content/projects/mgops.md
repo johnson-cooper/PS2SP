@@ -1,7 +1,9 @@
 ---
 name: MGOPS
 slug: mgops
-summary: "Metal Gear Online 1 private server emulator for Metal Gear Solid 3: Subsistence."
+summary: >-
+  Metal Gear Online 1 private server emulator for Metal Gear Solid 3:
+  Subsistence.
 categories:
   - networking
   - preservation
@@ -21,7 +23,7 @@ source:
   provider: github
   repository: curi0us/mgops
   repositoryId: '18975086'
-  url: https://github.com/curi0us/mgops
+  url: 'https://github.com/curi0us/mgops'
 repository:
   archived: false
   defaultBranch: master
@@ -35,9 +37,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-06T19:50:00Z'
-  lastSynchronized: '2026-10-06T19:50:00Z'
+  lastSynchronized: '2026-11-05T03:30:37.057Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"492022bb946ad0663b19b128d6ec5b7bd8f7744d5938903cde3fc0b97d3f6d1d"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: curated
   confidence: 100

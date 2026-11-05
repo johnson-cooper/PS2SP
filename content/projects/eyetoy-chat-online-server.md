@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-02T15:20:22.952Z'
+  lastSynchronized: '2026-11-05T03:30:11.931Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a74d9c6f7b516fd541ac41e9460a373e017d853e2e62f9e0a97a4b8a24fbff84"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -43,5 +46,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

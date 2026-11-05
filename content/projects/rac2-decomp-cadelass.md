@@ -23,16 +23,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-28T19:03:17Z'
+  lastCommit: '2026-11-05T02:40:54Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-28T19:07:21.883Z'
+  lastSynchronized: '2026-11-05T03:32:00.177Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"584f98c080cca63e73c694cb36814498485adf2cfd85f77d36cbd640d57c572b"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: OpenRAC/rac2-decomp
   source: OpenRAC/rac2-decomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

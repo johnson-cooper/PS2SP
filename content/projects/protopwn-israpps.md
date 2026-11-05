@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T17:09:08.395Z'
+  lastSynchronized: '2026-11-05T03:31:13.775Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1429d2c94424bbd0fba3fb37e07a527ac38b7e7c758f81c0ab3ce133681955a3"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'fork-network:pcm720/protopwn'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: pcm720/protopwn
   source: pcm720/protopwn
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

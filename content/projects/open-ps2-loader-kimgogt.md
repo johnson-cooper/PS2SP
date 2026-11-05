@@ -1,7 +1,9 @@
 ---
 name: Open-PS2-Loader
 slug: open-ps2-loader-kimgogt
-summary: "Community fork of Open PS2 Loader (OPL) with custom patches, interface updates, and experimental loader backends."
+summary: >-
+  Community fork of Open PS2 Loader (OPL) with custom patches, interface
+  updates, and experimental loader backends.
 categories:
   - loaders
 tags:
@@ -27,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-01T14:27:09.988Z'
+  lastSynchronized: '2026-11-05T03:30:49.780Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"56c55c5bca3e32a9c9bf5e2d5bb814c8c03971d114e90fc57277ed9e871db026"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'fork-network:RoloDeOvo/Open-PS2-Loader'
   confidence: 100
@@ -46,5 +51,4 @@ relationships:
   forkOf: RoloDeOvo/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

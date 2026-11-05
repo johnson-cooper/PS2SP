@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-03T00:44:41.508Z'
+  lastSynchronized: '2026-11-05T03:31:49.547Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"3f0b91e1763828dcb8880b6435e34b4b005429aa3c6799fb60988baf0297872b"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'fork-network:ps2dev/ps2toolchain-iop'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: ps2dev/ps2toolchain-iop
   source: ps2dev/ps2toolchain-iop
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

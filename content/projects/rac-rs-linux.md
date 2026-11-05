@@ -16,28 +16,33 @@ tags:
   - fork
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
-  repository: DeSynkro/rac-rs-linux
+  repository: DeSynkro/rac-rs-features
   repositoryId: '1426194876'
   url: 'https://github.com/DeSynkro/rac-rs-linux'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: features-0.4.1
+  stars: 8
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-29T18:37:06Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: rac-rs-features-0.4.1
+  name: rac-rs-features-0.4.1
+  publishedAt: '2026-10-29T18:35:59Z'
+  url: >-
+    https://github.com/DeSynkro/rac-rs-features/releases/tag/rac-rs-features-0.4.1
 activity:
   lastChecked: '2026-10-19T23:56:10.760Z'
+  lastSynchronized: '2026-11-05T03:31:59.655Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"446060cb1a59bf392709fc390abf4c3ab6d5faaff663798f59652eccac516181"
+    releasesEtag: W/"fa146c9c7152c51687c068abe6ea896098efea567b0a9ba59af6fac0d9d6ee8e"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85
@@ -53,5 +58,4 @@ relationships:
   forkOf: AsobiCodes/rac-rs
   source: AsobiCodes/rac-rs
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

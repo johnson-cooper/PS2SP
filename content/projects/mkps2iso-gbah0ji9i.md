@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-09T02:34:11.941Z'
+  lastSynchronized: '2026-11-05T03:30:38.249Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"9bb2e121fbd2308610c4b13320bcc759e19f8bf99677410bfdbab4e1f5907b0a"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'fork-network:N4gtan/mkps2iso'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: N4gtan/mkps2iso
   source: N4gtan/mkps2iso
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

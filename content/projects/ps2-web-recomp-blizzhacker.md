@@ -23,16 +23,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-14T02:08:47Z'
+  lastCommit: '2026-10-14T18:09:42Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-14T02:09:50.174Z'
+  lastSynchronized: '2026-11-05T03:31:23.712Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ef15564f3e27547fc5117ef461a60c2862fc6510a46d4ae3710ee23847195348"
+    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: snuri00/ps2-web-recomp
   source: snuri00/ps2-web-recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

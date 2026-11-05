@@ -19,18 +19,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
-  forks: 0
-  lastCommit: '2026-10-25T17:45:10Z'
+  stars: 6
+  forks: 2
+  lastCommit: '2026-10-26T03:09:46Z'
 latestRelease:
-  tag: v2.1.1
-  name: EmuMod 2.1.1
-  publishedAt: '2026-10-25T17:45:10Z'
-  url: 'https://github.com/Sparretro/EmuMod/releases/tag/v2.1.1'
+  tag: v2.2.0
+  name: EmuMod 2.2.0 — Nintendo DS
+  publishedAt: '2026-10-26T03:09:46Z'
+  url: 'https://github.com/Sparretro/EmuMod/releases/tag/v2.2.0'
 activity:
-  lastSynchronized: '2026-10-25T17:52:06.390Z'
+  lastSynchronized: '2026-11-05T03:30:10.838Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"9811365f21bb079292620e9e72737f34fd67aa6c56e0c25cb346d64c8d6c7cba"
+    releasesEtag: W/"c36e70c95e6b71e8282fedb7cc97c6e0f9775d4e383e3298f5a9c199b126dae2"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
