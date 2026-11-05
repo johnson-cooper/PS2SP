@@ -1,0 +1,16 @@
+{
+  "repository": "AldySan/PSGame_Viewer",
+  "repositoryId": "1446536634",
+  "url": "https://github.com/AldySan/PSGame_Viewer",
+  "description": "Cross-platform desktop viewer for PlayStation game files — PS2/PS3/PS4/PS5 PKG, ISO, exFAT and PFS images with titles, covers, trophies and file listings, all read-only and without extraction. Portable. C++17 / Qt 6.",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-05T18:58:40.172Z",
+  "checkedAt": "2026-11-05T18:58:40.172Z"
+}
