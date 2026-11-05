@@ -1,0 +1,16 @@
+{
+  "repository": "cooltrain7/Planetside-2-API-Tracker",
+  "repositoryId": "297709462",
+  "url": "https://github.com/cooltrain7/Planetside-2-API-Tracker",
+  "description": "An unofficial repository for Planetside 2 (PS2) Census API Examples, Issues, and Wiki. Collected and Maintained by members of the PS2 API Community.",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-05T02:48:15.523Z",
+  "checkedAt": "2026-11-05T02:48:15.523Z"
+}

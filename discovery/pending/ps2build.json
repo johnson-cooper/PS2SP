@@ -1,0 +1,17 @@
+{
+  "repository": "ps2build/ps2build",
+  "repositoryId": "1446247668",
+  "url": "https://github.com/ps2build/ps2build",
+  "description": null,
+  "score": 75,
+  "evidence": [
+    "README explicitly mentions PlayStation 2",
+    "README contains PS2 development/toolchain evidence",
+    "published GitHub release present"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "released-active",
+  "fork": null,
+  "discoveredAt": "2026-11-05T02:48:15.523Z",
+  "checkedAt": "2026-11-05T02:48:15.523Z"
+}
