@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2026-11-05T12:07:12Z'
   url: 'https://github.com/retro-trans/Sunrise-Eiyuutan-2/releases/tag/v0.8.0'
 activity:
-  lastSynchronized: '2026-11-05T18:58:40.172Z'
+  lastSynchronized: '2026-11-05T20:42:33.783Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6433c70ad2989f182406ec54c076cdbec929c4a53309600c701fa31899c22697"
+    releasesEtag: W/"09591bf9a46cb3aa4079c0f66a5d949d204bc26f1c7cd7babfda689ba1c56306"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

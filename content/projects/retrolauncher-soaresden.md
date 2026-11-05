@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-03T21:01:25.339Z'
+  lastSynchronized: '2026-11-05T20:42:29.470Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a6f0eaa6e150aac884ba111d02636c0802c80e508290f955c5f73bc89296894e"
-    releasesEtag: '"edb695a0b10a195de0f2bfb6f0e14e249cb89906be5a57da3395e301db7eb864"'
+    repoEtag: W/"47fb602f315ca3ebf55fbdfb4586a74b116e5a840e615649b08bdf5221a3c5b3"
+    releasesEtag: '"8f1c17d50bc300b3e22fbe68aa0266425164eefaead82d37adcbbbb8c996a965"'
 discovery:
   method: 'fork-network:Spaghetticode-Boon-Tobias/RETROLauncher'
   confidence: 100

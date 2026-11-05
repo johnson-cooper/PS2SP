@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 12
+  stars: 14
   forks: 0
   lastCommit: '2026-11-03T15:05:32Z'
 latestRelease:
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/UwUCammie/Burn3/releases/tag/v0.1.14'
 activity:
   lastChecked: '2026-10-29T17:05:16.992Z'
-  lastSynchronized: '2026-11-03T20:59:15.945Z'
+  lastSynchronized: '2026-11-05T20:40:33.765Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0b44a9d334874304b5f3f6dd6ffa2c2e6d0cce94791dcc97e352ef4bf0715917"
-    releasesEtag: W/"daa7c4ded11d825e0c27240be0ed3e0c9df31a424481425b58f3753b1a42c366"
+    repoEtag: W/"bb17c2721aa677b3e0d5a19db7bf3e613d6b1e6731d19478983b8dd0b28506c1"
+    releasesEtag: W/"214c2788f512c5ba151cc3ac3146a0277f494c2d6d1e8db76fdca5c7d1f70fdc"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
