@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2025-12-09T19:03:41Z'
   url: 'https://github.com/HowlingWolfHWC/ps2dev/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-31T12:31:01.736Z'
+  lastSynchronized: '2026-11-05T12:22:58.637Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5d753c535d1af3b1a0079c78c657bc38763efbebc81affd8422b958a2e5b066a"
-    releasesEtag: W/"100694b871d7771a991a20df509a305357fd052bb396e411ebd35a5dcb9a5404"
+    repoEtag: W/"ddd7fcaefba469758cb22e7fa6911384d98e210c1b3523dc798692b88bf0bc46"
+    releasesEtag: W/"48e2be44dde47f6dfcaa2acb98ee52ac71e5cd04033946c2ccf42a6b28201520"
 discovery:
   method: 'fork-network:ps2dev/ps2dev'
   confidence: 100

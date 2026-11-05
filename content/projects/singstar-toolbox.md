@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 36
+  stars: 38
   forks: 0
   lastCommit: '2026-10-05T08:09:19Z'
 latestRelease:
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/ravenDS/singstar-toolbox/releases/tag/v1.6.0'
 activity:
   lastChecked: '2026-09-29T09:05:43.442Z'
-  lastSynchronized: '2026-10-31T12:31:27.848Z'
+  lastSynchronized: '2026-11-05T12:23:35.461Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9e37b5899fad588f7662333c7eb209d8ab12e0c0d7828af1efaa6c704cf3e83b"
-    releasesEtag: W/"f5c429c1b186c5f8b6aca4281c0a209a9109dd623c1479e3f63efd33d3b340e7"
+    repoEtag: W/"6b1067051a98c95edc7ca08c4252bd30dc58ba5b4a1fe81ac283652813165ddf"
+    releasesEtag: W/"b58df2e05e1302ac65d91e58d713ea0f221d8e1646dc6334ac69b075c8122c68"
 discovery:
   method: 'pending-promotion:incremental:topic:ps2'
   confidence: 80

@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2025-07-28T02:56:53Z'
   url: 'https://github.com/MiKE41/Open-PS2-Loader-RetroGem/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-31T12:30:24.600Z'
+  lastSynchronized: '2026-11-05T12:22:09.672Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c5f2540c3bbee2a578d0c7ce3a0ba0c47180345eef77a1b16f07e18a0e28cab3"
-    releasesEtag: W/"85d4e438452ef78b24cd7001a7522dcd9f3f26a20242dca71b26042fe7882c24"
+    repoEtag: W/"afe259343607732f38b0912bc047db3e153d7ec17d169212b3c566ec2888eb87"
+    releasesEtag: W/"a32366ff6357c3269f36622955145e2f00a3cb8a87241b925a1768dad69927f2"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

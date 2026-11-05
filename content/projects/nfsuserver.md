@@ -35,12 +35,12 @@ latestRelease:
   url: 'https://github.com/HarpyWar/nfsuserver/releases/tag/server105'
 activity:
   lastChecked: '2026-10-06T19:50:00Z'
-  lastSynchronized: '2026-10-31T12:30:17.392Z'
+  lastSynchronized: '2026-11-05T12:22:00.111Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9d4557026fa1c9aa45242442360e5c26729acdc8005fce2f28cee7d18ab3e3b2"
-    releasesEtag: W/"6f5b2c8afd63bc3507c39dc77caac0c15765e1312a9319e2f8dc6f77b98564b0"
+    repoEtag: W/"6a8ff303f886196afaad072f0745f61979fa15befc278b5de43beb5aeb8f9c7c"
+    releasesEtag: W/"5ecacccb8416580aea5cb1feca10c2add92ae0e4cf358c54108be6dfc9cebbc8"
 discovery:
   method: curated
   confidence: 100

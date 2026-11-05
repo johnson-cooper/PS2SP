@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2026-10-24T03:57:27Z'
   url: 'https://github.com/itsveenee/SNESticleAurora/releases/tag/continuous'
 activity:
-  lastSynchronized: '2026-10-31T12:31:28.776Z'
+  lastSynchronized: '2026-11-05T12:23:36.740Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"af562bfae51322bc9f0c97aaa6105c2caabe90ca9b6cce428774f67114190c2e"
-    releasesEtag: W/"1711e668ce73ba7cb031b1f644de4d4a6e150b9867f707429dec67b538a446d7"
+    repoEtag: W/"d32abe1f1760e02d94358e5c7f92e5a07b9b8cafbf4befd5c20ebff003824a2e"
+    releasesEtag: W/"9bac01fff931b1992bc277daeeefffa8f36f365c3d96da9562ebfd0c01f1eb24"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

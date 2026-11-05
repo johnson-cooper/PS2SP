@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-31T12:30:04.228Z'
+  lastSynchronized: '2026-11-05T12:21:39.944Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"376ac26425eacbbb07426335c22a0ddd3a4cb1ad098d3ec8f210b355077a656e"
-    releasesEtag: '"964dfedc1caef83c4b1aa8bad46befef72289bce806c22a16cc8fead3d29c6dc"'
+    repoEtag: W/"70f8493baeea9b8a43af32b5be5bd3f4a1b4e1f32bf546bc6ee27b129b378d47"
+    releasesEtag: '"a265e13ba9964cb5149e04ac0bdf1bf82b2b42e69b35395c6e21fd78ae77d913"'
 discovery:
   method: 'fork-network:ps2homebrew/hdl-dump'
   confidence: 95

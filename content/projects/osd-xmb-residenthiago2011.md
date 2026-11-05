@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-06-15T07:30:12Z'
   url: 'https://github.com/residenthiago2011/OSD-XMB/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-31T12:30:30.618Z'
+  lastSynchronized: '2026-11-05T12:22:17.813Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"64a635f781c40df2ebf7199275db4d5c28f9cc496e4e024fac7bbdb34aa894b8"
-    releasesEtag: W/"70fad29fa9337a7a31d5587bd67142605e2e82e297684a233c48227527f0310f"
+    repoEtag: W/"77312f7eea873874634263f663f3a543fced4318508fd99950ca54c0ac96c6bd"
+    releasesEtag: W/"0476bc6063109acad519b904eafe8857024efc7f429c7e5ab76b643997221947"
 discovery:
   method: 'fork-network:HiroTex/OSD-XMB'
   confidence: 100

@@ -30,19 +30,19 @@ repository:
   defaultBranch: mtap-menu-redesign
   stars: 2
   forks: 0
-  lastCommit: '2026-10-28T12:49:12Z'
+  lastCommit: '2026-11-03T01:38:58Z'
 latestRelease:
   tag: rt-2.8.0
   name: OPL DualSense/DS4 BT rt-2.8.0
   publishedAt: '2026-10-21T23:06:24Z'
   url: 'https://github.com/MiguelQueiroz010/OPL-DS4RTBT/releases/tag/rt-2.8.0'
 activity:
-  lastSynchronized: '2026-10-31T12:30:27.775Z'
+  lastSynchronized: '2026-11-05T12:22:13.461Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"23b373617c2a0144b98c118e21165b49b957f4b743cb4c254d6ed498698cf17c"
-    releasesEtag: W/"861b9258c15d037adce0d983b72c9bf6b09ee013048bd50dd769e78d77818f9c"
+    repoEtag: W/"315505d333962b9e09da01530eb14a413ccc9982c55783169df88f0a5a27109a"
+    releasesEtag: W/"98783c07bc1a11a179b27ab5f63f8a9a47fc00d742e2b01186c6964e10137893"
 discovery:
   method: 'fork-network:rodrigoGalvanDev/OPL-DualSense-BT'
   confidence: 100

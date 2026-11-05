@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-09-23T20:34:07Z'
   url: 'https://github.com/vilaB/jak-project/releases/tag/v0.3.8-arm-fix6'
 activity:
-  lastSynchronized: '2026-10-31T12:30:10.114Z'
+  lastSynchronized: '2026-11-05T12:21:49.851Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8447df29681ea03a2bc70adbd21d2a0f67a3b0883cf8ddcb4ee0454f72ea3dca"
-    releasesEtag: W/"749414ef523c0914cfe600551645c945504991571b085cab635d98e98411f20a"
+    repoEtag: W/"f2144ce3a5748b5c4ad5c9f998bfb21c921554c5b46b91948799e0e09f2a7dd5"
+    releasesEtag: W/"db436ee86b2aa1e31bb8f8160eac693c3c171923cdf701f5bd4315f59c3b23d4"
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95

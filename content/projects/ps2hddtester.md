@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/ps2homebrew/PS2HDDTester/releases/tag/v1.1'
 activity:
   lastChecked: '2026-09-29T00:27:11.662Z'
-  lastSynchronized: '2026-10-31T12:31:04.395Z'
+  lastSynchronized: '2026-11-05T12:23:02.457Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"283d2aed9f7f317624cfb5e8a0cc72c95edd0509b3db3907cefcd49df8a6b02c"
-    releasesEtag: W/"60afc02637cec7ad864b6f1c8efbd0582b6b25d61ccb88860a77db43ef79cc95"
+    repoEtag: W/"68615bd37807d889ea06b44e25e31c178f5f11509a14aae858d51dd67b0f8a10"
+    releasesEtag: W/"6db570f9d20fde22f6fc8eaaa8bbc81fc6a44f92567551650a70a5dac2ac587f"
 discovery:
   method: curated
   confidence: 100

@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-10-15T22:36:24Z'
   url: 'https://github.com/dphades1572/god-of-war-coop/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-10-31T12:30:00.608Z'
+  lastSynchronized: '2026-11-05T12:21:35.079Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9aea47d243d2d8737cac2114f9d9dcdbbbb976828bee340d33965caca2add1ce"
-    releasesEtag: W/"750d21d8b0f4b422898b3aaecef1329a49fdd6a42074e962caf510093cde7c65"
+    repoEtag: W/"1697a24d75b37536f703c549c40932d846089dcf98773aedc600bb97cdfb4123"
+    releasesEtag: W/"1db77f40a3b8b16dd70141e582c8fc9ff60a0a6cb7368b02fdb4d2b81d18773f"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

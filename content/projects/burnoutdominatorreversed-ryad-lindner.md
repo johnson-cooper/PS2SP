@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-29T19:20:03Z'
+  lastCommit: '2026-11-04T13:08:03Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-31T12:29:42.577Z'
+  lastSynchronized: '2026-11-05T12:21:09.614Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9b99d019cd94a10448818efebbaf9cbc0f928cd854e69502dca09051b6563d43"
-    releasesEtag: '"964dfedc1caef83c4b1aa8bad46befef72289bce806c22a16cc8fead3d29c6dc"'
+    repoEtag: W/"8a8f96acbf5136c179f81080772d68e956d9daebe0533b101cce6563adde6160"
+    releasesEtag: '"a265e13ba9964cb5149e04ac0bdf1bf82b2b42e69b35395c6e21fd78ae77d913"'
 discovery:
   method: 'fork-network:literalynn/BurnoutDominatorReversed'
   confidence: 95

@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T02:48:15.523Z'
+  lastSynchronized: '2026-11-05T12:21:17.683Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5c3429784172999913429f163fc7b4cf74b0a505fed5ab94e1ff5075bf7a3840"
+    releasesEtag: '"a265e13ba9964cb5149e04ac0bdf1bf82b2b42e69b35395c6e21fd78ae77d913"'
 discovery:
   method: 'fork-network:Jakeschincariol/console-skill'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: Jakeschincariol/console-skill
   source: Jakeschincariol/console-skill
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/brbselling/decomp.wtf/releases/tag/v0.10.7'
 activity:
   lastChecked: '2026-10-19T14:59:02.710Z'
-  lastSynchronized: '2026-10-31T12:29:48.351Z'
+  lastSynchronized: '2026-11-05T12:21:18.338Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c5e89f7026abdc48d17679ce58d817359548e42f453f3f8c903b1677bfa30f0d"
-    releasesEtag: W/"76f1aea67c1c5b187978db92cfac06894ddd1924d240cf93f38d7e645befaded"
+    repoEtag: W/"4d806f0c4dc2309c931c37e823173f7fbf3ead4e5ba4d3fb437543d56b6bf742"
+    releasesEtag: W/"7557edd087a52fe74947d06240e2e22b7a7336b8059bfbf510658beed1b8ddde"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85

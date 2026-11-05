@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/hacan359/xerabora/releases/tag/v1.0.1'
 activity:
   lastChecked: '2026-09-29T00:27:16.548Z'
-  lastSynchronized: '2026-10-31T12:31:36.342Z'
+  lastSynchronized: '2026-11-05T12:23:47.021Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"413bf6e2397c5fff04b520d7e3995025870adfb6734f85b1985a71f954b067cd"
-    releasesEtag: W/"f088155c76e9398fbacd963293a2c93e805e7381d5baae811731543ec218a041"
+    repoEtag: W/"be7c099752f7b71b560ddbb88620285fa713d233b97fbd765152a723ee99b8d2"
+    releasesEtag: W/"65560a4c7860f8d41d8b304c333540054727ebd54d2d643a3318cddf738690e8"
 discovery:
   method: github-search
   confidence: 100

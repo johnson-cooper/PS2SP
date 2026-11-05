@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2022-02-14T22:41:11Z'
   url: 'https://github.com/jackmax/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-31T12:30:22.521Z'
+  lastSynchronized: '2026-11-05T12:22:06.551Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4a30fb27691776a660a873527556b160652c9d9944f6aae6fc7f37b2e5d649d4"
-    releasesEtag: W/"7f390bfe9b78dbcaa6c1c05dacd633fbf21a79a92d1382d15b71c1960d140fb9"
+    repoEtag: W/"3d8041dc74e150709c1501642f10e5f28a567ffa9819b8f2d816ac69bd9ea9bc"
+    releasesEtag: W/"21d32b40b57becd6cf7ca0defba720ae42100f6d17bbae2c16461fd3b9c2d28e"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

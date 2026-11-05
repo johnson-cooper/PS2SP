@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2022-06-10T19:34:38Z'
   url: 'https://github.com/AKuHAK/ps2link/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-31T12:31:05.395Z'
+  lastSynchronized: '2026-11-05T12:23:03.849Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5f0b3fdcc8606b71af7c95d8b2bc7735ebae3bdac8c2592fe36d7bd36ee7490c"
-    releasesEtag: W/"3fd9ee61332fd94c1540cfa0f5dba6639466a6a227e8c3723bde03c71823c3dc"
+    repoEtag: W/"958be4245bf852ba2beae138386ac5e6efbb5da8913489ab3ddd65cb4fe29e36"
+    releasesEtag: W/"43ac580580d3d15b8aa7b09a0375a4faa733d677c053baf46c78a34758a6ef42"
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100

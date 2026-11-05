@@ -14,7 +14,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: MIT
 homepage: null
 source:
   provider: github
@@ -23,19 +23,23 @@ source:
   url: 'https://github.com/AshMetalRaf/MIPSInit'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-02T19:19:13Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.0.1
+  name: MIPSInit v1.0.1
+  publishedAt: '2026-11-02T19:13:38Z'
+  url: 'https://github.com/AshMetalRaf/MIPSInit/releases/tag/v1.0.1'
 activity:
   lastChecked: '2026-10-31T21:53:36.436Z'
+  lastSynchronized: '2026-11-05T12:21:55.104Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"3b64794f5aff06b6fcf8d8741def59a9fedf65a72a28843e7af4288f39829a12"
+    releasesEtag: W/"44240a0b8e268a130483d7df351787ccfff52cd82aad38627455ab934dd974fa"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85
@@ -48,5 +52,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

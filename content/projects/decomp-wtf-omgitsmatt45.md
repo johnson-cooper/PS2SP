@@ -24,22 +24,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 2
   forks: 0
-  lastCommit: '2026-10-31T07:58:49Z'
+  lastCommit: '2026-11-05T08:41:11Z'
 latestRelease:
-  tag: v0.20.1
-  name: decomp.wtf v0.20.1
-  publishedAt: '2026-10-30T06:09:48Z'
-  url: 'https://github.com/OMGitsMatt45/decomp.wtf/releases/tag/v0.20.1'
+  tag: v0.23.0
+  name: decomp.wtf v0.23.0
+  publishedAt: '2026-11-04T21:59:35Z'
+  url: 'https://github.com/OMGitsMatt45/decomp.wtf/releases/tag/v0.23.0'
 activity:
   lastChecked: '2026-10-18T01:32:12.259Z'
-  lastSynchronized: '2026-10-31T12:29:49.817Z'
+  lastSynchronized: '2026-11-05T12:21:20.269Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"eac9a31c0066c1f8fdea613e30b9197d395754b1ef4771e25d060bece8e5688a"
-    releasesEtag: W/"505f222b9b2897982f8cb2c8bb1f0dc5ee78fd7135c0d63cfde3975869f9208d"
+    repoEtag: W/"f75d43953ed59828660e31a02274a3b36f6b6c65eac2e0bd636ec992e13c8b63"
+    releasesEtag: W/"456e8fe4a6698f10ab2cf56876bb565fba5b08f78061268b17b207e650fb2bfa"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

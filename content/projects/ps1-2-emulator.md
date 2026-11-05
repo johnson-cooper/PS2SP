@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/rafaelferreiram/ps1-2-emulator/releases/tag/v5.2.0'
 activity:
   lastChecked: '2026-10-05T22:55:14.648Z'
-  lastSynchronized: '2026-10-31T12:30:46.459Z'
+  lastSynchronized: '2026-11-05T12:22:39.685Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ed84eab5203cfe2345d91511d3322ba2eb24f79c94dcfbb8e3f2ac8911a03edd"
-    releasesEtag: W/"c0737fafc75012c64c174bc94db6de46b4466afc96d6dc40efed6d64d3228f30"
+    repoEtag: W/"9cc165d3ebb8ffd4c2c6a4c9a5d750eec1e2f65912b16b6c746d607894a4f640"
+    releasesEtag: W/"2f1b350fb7d0bc40bf5140c10fe829ec871e783364503b2c360bc372b2001cdd"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

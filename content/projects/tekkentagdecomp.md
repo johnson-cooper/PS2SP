@@ -23,7 +23,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
   lastCommit: '2026-10-29T16:20:44Z'
 latestRelease:
@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/adanft/TekkenTagDecomp/releases/tag/v0.1.1'
 activity:
   lastChecked: '2026-10-29T17:05:16.992Z'
-  lastSynchronized: '2026-10-31T12:31:29.796Z'
+  lastSynchronized: '2026-11-05T12:23:37.798Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"67298ad43bb42a016ca985280a0eedb359ead67714e2c1681d7411dce5e7b565"
-    releasesEtag: W/"8500f40246f3dbc6b36ff0cecf0cbb584311a7896655fdc3e5262da8943d1919"
+    repoEtag: W/"4ee5fda0141dbe701b9ec6f72f4c6380ac7dbbc15d8c8a6a10d8e54b53bbf349"
+    releasesEtag: W/"9d8f9ade24e408692c9914737ea9e735c7e0817db819bfa46e3d35f3eef3e405"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

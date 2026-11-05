@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: '2024-03-17T13:30:00Z'
   url: 'https://github.com/AKuHAK/ps2gdb/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-31T12:31:03.819Z'
+  lastSynchronized: '2026-11-05T12:23:01.687Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6bc4443a92d59c6b6c7f237f4a4c8aa1c327db35053929ca7d4049ceec323d0f"
-    releasesEtag: W/"b7aba7044af81a7430fe9f22fc14f4061a623ddb36e37743552ca0317f3470ea"
+    repoEtag: W/"2658b7b6b9473b897a2b8f4f72ebb321f1e07064b6f64bf9e89361423f83cc00"
+    releasesEtag: W/"0e679c7f3500ca3a203edd7ba447532f7a44e338b00e1caed66124c525931229"
 discovery:
   method: 'fork-network:ps2dev/ps2gdb'
   confidence: 100
