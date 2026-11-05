@@ -4993,6 +4993,18 @@
         ]
       },
       {
+        "name": "ps2/toolchain — branch: remove-msys2",
+        "url": "https://git.techwritescode.dev/ps2/toolchain/src/branch/remove-msys2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "ps2/toolchain",
+          "remove-msys2"
+        ]
+      },
+      {
         "name": "ps2/tools — branch: main",
         "url": "https://git.techwritescode.dev/ps2/tools/src/branch/main",
         "keywords": [
@@ -26171,6 +26183,48 @@
           "nested project",
           "ps2/toolchain",
           "main",
+          "iop"
+        ]
+      },
+      {
+        "name": "ps2/toolchain@remove-msys2 — docker",
+        "url": "https://git.techwritescode.dev/ps2/toolchain/src/branch/remove-msys2/docker",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/toolchain",
+          "remove-msys2",
+          "docker"
+        ]
+      },
+      {
+        "name": "ps2/toolchain@remove-msys2 — ee",
+        "url": "https://git.techwritescode.dev/ps2/toolchain/src/branch/remove-msys2/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/toolchain",
+          "remove-msys2",
+          "ee"
+        ]
+      },
+      {
+        "name": "ps2/toolchain@remove-msys2 — iop",
+        "url": "https://git.techwritescode.dev/ps2/toolchain/src/branch/remove-msys2/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "external Git",
+          "branch",
+          "nested project",
+          "ps2/toolchain",
+          "remove-msys2",
           "iop"
         ]
       },
