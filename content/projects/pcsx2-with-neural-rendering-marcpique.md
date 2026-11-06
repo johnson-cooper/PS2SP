@@ -30,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/MarcPique/PCSX2-with-Neural-Rendering/releases/tag/v0.1.1-neural
 activity:
-  lastSynchronized: '2026-11-04T17:16:54.224Z'
+  lastSynchronized: '2026-11-06T17:31:27.361Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fda3dc3cb5729d254fae7fb12b36b476b8b66553152c534063d51993ab42b2dc"
-    releasesEtag: W/"c2cce9b4c4cb08a7e5d488f8b9961adc6e252f5aa7fb85cb824563319919bf81"
+    repoEtag: W/"7c72c525cc453e11d1d88e5a286757fa2b10482a29f01da86ff8dabdcaa8aec7"
+    releasesEtag: W/"ad63eb32a3ac38935b96aa9e8ddf71ab2b4d43041965373356f39c4b7184b1f5"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 95

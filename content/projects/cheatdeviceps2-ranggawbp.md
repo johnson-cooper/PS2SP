@@ -30,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/RanggaWbp/CheatDevicePS2/releases/tag/build-20260831-080217-100-86f7883
 activity:
-  lastSynchronized: '2026-11-04T17:15:40.581Z'
+  lastSynchronized: '2026-11-06T17:30:07.945Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"200c1978b7cf4255dde61c0c3d685bc7ba944ed09d32ca15be08de1711e15897"
-    releasesEtag: W/"debdca9b67ceb3c621d5e0bedb6548fb9b0aa51139cdb5302bb7bdbb31d6902d"
+    repoEtag: W/"6c52fd30aa972a072de4e478bfa6a1c2dd4f37d6be544ac804fd69f650b6880a"
+    releasesEtag: W/"87ea3c53495b0995a1df22a9515b9c0896a82a992bd4e1b4a7b08caaa0bf30ad"
 discovery:
   method: 'fork-network:israpps/CheatDevicePS2'
   confidence: 100

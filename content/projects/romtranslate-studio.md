@@ -23,7 +23,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 34
+  stars: 39
   forks: 1
   lastCommit: '2026-11-04T15:38:21Z'
 latestRelease:
@@ -34,12 +34,12 @@ latestRelease:
     https://github.com/crimsondawnacademy-design/romtranslate-studio/releases/tag/v0.1.11
 activity:
   lastChecked: '2026-10-13T19:32:43.126Z'
-  lastSynchronized: '2026-11-04T17:17:51.948Z'
+  lastSynchronized: '2026-11-06T17:32:28.507Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d92772e877c84f085a7041200d2abd91b6e367c4051b915e255306ee0e1c64c9"
-    releasesEtag: W/"8c03632f56e0507db54cb0b12c573299c3ddde994eb1a98a29ecc4589202818c"
+    repoEtag: W/"4f51eaed38b74a0adbee2a9aba7900638950a98b89ea1631ddcca6a2cfa78909"
+    releasesEtag: W/"2f504bb1296e94b504c9e84564c1940243e80b2ff91d88bf26be5559710ced9a"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

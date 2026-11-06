@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/Smartkin/PS2ImageMaker/releases/tag/v0.4'
 activity:
   lastChecked: '2026-10-27T21:29:01.337Z'
-  lastSynchronized: '2026-11-04T17:17:24.846Z'
+  lastSynchronized: '2026-11-06T17:32:00.210Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0b3ff018c2c5c04b6df74094caed9ab6983c23dd477b7d2c0610277645e9bb58"
-    releasesEtag: W/"ce48ab2049612ceb8f13390f6c828e48e93503c02299bd159df1a5f322db6c36"
+    repoEtag: W/"51c4f8572c73c735383a767648f40d0115d20c142d4310e059ff7063d286022d"
+    releasesEtag: W/"d938455045964fe1e74ce74d556724d42936b1f5ac76bf24c9c8a28290b954ef"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
