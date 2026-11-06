@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-10-16T10:46:26Z'
   url: 'https://github.com/Chrisser73/ps2-save-tool/releases/tag/web-v0.2.2'
 activity:
-  lastSynchronized: '2026-11-04T09:14:56.406Z'
+  lastSynchronized: '2026-11-06T09:27:02.967Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c0acde7ed1688d6f43e4433e5d3bf75a60db6b55c6152c19ecee739f81f0f07f"
-    releasesEtag: W/"019ee4ca1e56132ec2ce9de12d3e32832c0f85dfafc9ae2b04c90715a02f326f"
+    repoEtag: W/"946b6a18eea3810d7ceabc5ed69c053112d59c2a207119b722b4e57a0dc02966"
+    releasesEtag: W/"4cbef6a34282a0b0ddd8c1172cea0d87c3a2592ed10cf28f2c2ccd659cf678a6"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

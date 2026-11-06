@@ -20,7 +20,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 24
+  stars: 23
   forks: 1
   lastCommit: '2025-10-23T09:44:50Z'
 latestRelease:
@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2025-10-07T16:30:59Z'
   url: 'https://github.com/StevenMXZ/PSX2/releases/tag/1.0'
 activity:
-  lastSynchronized: '2026-11-04T09:15:28.507Z'
+  lastSynchronized: '2026-11-06T09:27:32.330Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9c94bebf506b55f1d0a64bac2626439f282276e535b1b833b3174dd028a9df8a"
-    releasesEtag: W/"479ae7e43a5b3ac946cf45f36ee6efeabaf8e418d2c19181781e0c4953e77e11"
+    repoEtag: W/"7d6049977d413341c5989085601a22dbec1d77eb4c3f12a64084f2fc2c5df1d8"
+    releasesEtag: W/"559177d06c71cc238902fbc3a4684dec220198187eded5d5d725c9f46c0fb30c"
 discovery:
   method: 'fork-network:izzy2lost/PSX2'
   confidence: 100

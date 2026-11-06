@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2020-05-20T20:25:20Z'
   url: 'https://github.com/fjtrujy/ps2dev/releases/tag/v0.0.1'
 activity:
-  lastSynchronized: '2026-11-04T09:15:03.100Z'
+  lastSynchronized: '2026-11-06T09:27:08.713Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a5710f17c8b920874bafd98e61379d0bf8a3ebf4084ef2623bc339ad4c386be1"
-    releasesEtag: W/"55fdb61306081a55114313fb2443be19344a7dfdfac29a6ae049ce0620916952"
+    repoEtag: W/"0277a89dffdf0e63d8c8c2c948271e2c18af0bbd7bde535500913827dd070124"
+    releasesEtag: W/"7eacb62ac59ea5acc7bfb9658fdd826e7b84b475b9303904e273ac1718da3624"
 discovery:
   method: 'fork-network:ps2dev/ps2dev'
   confidence: 100

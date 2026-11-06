@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2024-02-20T22:21:49Z'
   url: 'https://github.com/Daniel-McCarthy/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-04T09:14:26.746Z'
+  lastSynchronized: '2026-11-06T09:26:33.056Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4424214f813226afb3fc671152a6a8966960eedcea66fb669ae6fe5f8a4a484f"
-    releasesEtag: W/"accea05e90ca7451180bfce61496fbb20a81196a2f880cf94d48463f8cf0ec42"
+    repoEtag: W/"5e6323c710b939ef9bc94cdd0e6928f79d8ac971a2723221302ab433a77adabf"
+    releasesEtag: W/"d05eb4aa3b617a810d82f84cf48af710b64f1074740e3ca66d67910ca4d53465"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95

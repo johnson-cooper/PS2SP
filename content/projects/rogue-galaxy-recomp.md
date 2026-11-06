@@ -23,22 +23,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 61
+  stars: 66
   forks: 2
-  lastCommit: '2026-11-04T02:10:31Z'
+  lastCommit: '2026-11-05T21:55:57Z'
 latestRelease:
-  tag: v0.1.0
-  name: Rogue Galaxy Recompiled 0.1.0
-  publishedAt: '2026-10-27T19:10:31Z'
-  url: 'https://github.com/victor-takai/rogue-galaxy-recomp/releases/tag/v0.1.0'
+  tag: v0.2.0
+  name: Rogue Galaxy Recompiled 0.2.0
+  publishedAt: '2026-11-04T18:44:49Z'
+  url: 'https://github.com/victor-takai/rogue-galaxy-recomp/releases/tag/v0.2.0'
 activity:
   lastChecked: '2026-10-27T21:29:01.337Z'
-  lastSynchronized: '2026-11-04T09:15:36.941Z'
+  lastSynchronized: '2026-11-06T09:27:40.289Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0d1c3ac0997c01dde4264faa4fd81e85bf00266d230b61ef8c39e6df5973dff4"
-    releasesEtag: W/"1bc217bdc05064e9bfa8b87e807ef8da01a0d23636508bcf2ff9f7b2ab4195ac"
+    repoEtag: W/"b774d98f3bfb35b58a907aeab0d059cc3240e30f3af10e8eb6b12f53fd2423b7"
+    releasesEtag: W/"17114b5a0c79aa640c50d7572d9d15d9645203ab2e367b473801fa157772284e"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
