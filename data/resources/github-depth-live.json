@@ -21259,6 +21259,32 @@
         ]
       },
       {
+        "name": "blazium-games/blazium-toolchain — branch: dependabot/go_modules/github.com/klauspost/compress-1.20.3",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/klauspost/compress-1.20.3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/klauspost/compress-1.20.3"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain — branch: dependabot/go_modules/github.com/ulikunitz/xz-0.5.17",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/ulikunitz/xz-0.5.17",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/ulikunitz/xz-0.5.17"
+        ]
+      },
+      {
         "name": "blazium-games/blazium-toolchain — branch: fix/sslcom-signer-v6",
         "url": "https://github.com/blazium-games/blazium-toolchain/tree/fix/sslcom-signer-v6",
         "keywords": [
@@ -21269,6 +21295,19 @@
           "repository",
           "blazium-games/blazium-toolchain",
           "fix/sslcom-signer-v6"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain — branch: fix/xz",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/fix/xz",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "blazium-games/blazium-toolchain",
+          "fix/xz"
         ]
       },
       {
@@ -22738,6 +22777,19 @@
           "repository",
           "brad0/libsmb2",
           "openbsd_errno"
+        ]
+      },
+      {
+        "name": "BRAGme/TomClancyModStudio — branch: claude/epic-turing-rcfccd",
+        "url": "https://github.com/BRAGme/TomClancyModStudio/tree/claude/epic-turing-rcfccd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "BRAGme/TomClancyModStudio",
+          "claude/epic-turing-rcfccd"
         ]
       },
       {
@@ -191621,6 +191673,32 @@
           "repository",
           "zoton2/PFS-BatchKit-Manager",
           "main"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1 — branch: main",
+        "url": "https://github.com/Zryuu/sly1/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Zryuu/sly1",
+          "main"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1 — branch: zryu-dev",
+        "url": "https://github.com/Zryuu/sly1/tree/zryu-dev",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Zryuu/sly1",
+          "zryu-dev"
         ]
       },
       {
@@ -493101,6 +493179,306 @@
         ]
       },
       {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/klauspost/compress-1.20.3 — guest/n64/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/klauspost/compress-1.20.3/guest/n64/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/klauspost/compress-1.20.3",
+          "guest/n64/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/klauspost/compress-1.20.3 — guest/ps1/gdir/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/klauspost/compress-1.20.3/guest/ps1/gdir/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/klauspost/compress-1.20.3",
+          "guest/ps1/gdir/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/klauspost/compress-1.20.3 — guest/ps1/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/klauspost/compress-1.20.3/guest/ps1/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/klauspost/compress-1.20.3",
+          "guest/ps1/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/klauspost/compress-1.20.3 — guest/ps2/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/klauspost/compress-1.20.3/guest/ps2/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/klauspost/compress-1.20.3",
+          "guest/ps2/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/klauspost/compress-1.20.3 — internal/app",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/klauspost/compress-1.20.3/internal/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/klauspost/compress-1.20.3",
+          "internal/app"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/klauspost/compress-1.20.3 — npm/packages/toolchain",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/klauspost/compress-1.20.3/npm/packages/toolchain",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/klauspost/compress-1.20.3",
+          "npm/packages/toolchain"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/klauspost/compress-1.20.3 — npm/packages/toolchain-linux-ia32",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/klauspost/compress-1.20.3/npm/packages/toolchain-linux-ia32",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/klauspost/compress-1.20.3",
+          "npm/packages/toolchain-linux-ia32"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/klauspost/compress-1.20.3 — npm/packages/toolchain-linux-x64",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/klauspost/compress-1.20.3/npm/packages/toolchain-linux-x64",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/klauspost/compress-1.20.3",
+          "npm/packages/toolchain-linux-x64"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/klauspost/compress-1.20.3 — npm/packages/toolchain-win32-ia32",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/klauspost/compress-1.20.3/npm/packages/toolchain-win32-ia32",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/klauspost/compress-1.20.3",
+          "npm/packages/toolchain-win32-ia32"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/klauspost/compress-1.20.3 — npm/packages/toolchain-win32-x64",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/klauspost/compress-1.20.3/npm/packages/toolchain-win32-x64",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/klauspost/compress-1.20.3",
+          "npm/packages/toolchain-win32-x64"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/ulikunitz/xz-0.5.17 — guest/n64/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/ulikunitz/xz-0.5.17/guest/n64/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/ulikunitz/xz-0.5.17",
+          "guest/n64/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/ulikunitz/xz-0.5.17 — guest/ps1/gdir/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/ulikunitz/xz-0.5.17/guest/ps1/gdir/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/ulikunitz/xz-0.5.17",
+          "guest/ps1/gdir/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/ulikunitz/xz-0.5.17 — guest/ps1/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/ulikunitz/xz-0.5.17/guest/ps1/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/ulikunitz/xz-0.5.17",
+          "guest/ps1/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/ulikunitz/xz-0.5.17 — guest/ps2/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/ulikunitz/xz-0.5.17/guest/ps2/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/ulikunitz/xz-0.5.17",
+          "guest/ps2/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/ulikunitz/xz-0.5.17 — internal/app",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/ulikunitz/xz-0.5.17/internal/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/ulikunitz/xz-0.5.17",
+          "internal/app"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/ulikunitz/xz-0.5.17 — npm/packages/toolchain",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/ulikunitz/xz-0.5.17/npm/packages/toolchain",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/ulikunitz/xz-0.5.17",
+          "npm/packages/toolchain"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/ulikunitz/xz-0.5.17 — npm/packages/toolchain-linux-ia32",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/ulikunitz/xz-0.5.17/npm/packages/toolchain-linux-ia32",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/ulikunitz/xz-0.5.17",
+          "npm/packages/toolchain-linux-ia32"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/ulikunitz/xz-0.5.17 — npm/packages/toolchain-linux-x64",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/ulikunitz/xz-0.5.17/npm/packages/toolchain-linux-x64",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/ulikunitz/xz-0.5.17",
+          "npm/packages/toolchain-linux-x64"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/ulikunitz/xz-0.5.17 — npm/packages/toolchain-win32-ia32",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/ulikunitz/xz-0.5.17/npm/packages/toolchain-win32-ia32",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/ulikunitz/xz-0.5.17",
+          "npm/packages/toolchain-win32-ia32"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@dependabot/go_modules/github.com/ulikunitz/xz-0.5.17 — npm/packages/toolchain-win32-x64",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/dependabot/go_modules/github.com/ulikunitz/xz-0.5.17/npm/packages/toolchain-win32-x64",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "dependabot/go_modules/github.com/ulikunitz/xz-0.5.17",
+          "npm/packages/toolchain-win32-x64"
+        ]
+      },
+      {
         "name": "blazium-games/blazium-toolchain@fix/sslcom-signer-v6 — guest/n64/runtime",
         "url": "https://github.com/blazium-games/blazium-toolchain/tree/fix/sslcom-signer-v6/guest/n64/runtime",
         "keywords": [
@@ -493161,6 +493539,186 @@
         ]
       },
       {
+        "name": "blazium-games/blazium-toolchain@fix/xz — guest/n64/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/fix/xz/guest/n64/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "fix/xz",
+          "guest/n64/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@fix/xz — guest/ps1/gdir/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/fix/xz/guest/ps1/gdir/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "fix/xz",
+          "guest/ps1/gdir/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@fix/xz — guest/ps1/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/fix/xz/guest/ps1/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "fix/xz",
+          "guest/ps1/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@fix/xz — guest/ps2/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/fix/xz/guest/ps2/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "fix/xz",
+          "guest/ps2/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@fix/xz — internal/app",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/fix/xz/internal/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "fix/xz",
+          "internal/app"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@fix/xz — npm/packages/toolchain",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/fix/xz/npm/packages/toolchain",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "fix/xz",
+          "npm/packages/toolchain"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@fix/xz — npm/packages/toolchain-linux-ia32",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/fix/xz/npm/packages/toolchain-linux-ia32",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "fix/xz",
+          "npm/packages/toolchain-linux-ia32"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@fix/xz — npm/packages/toolchain-linux-x64",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/fix/xz/npm/packages/toolchain-linux-x64",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "fix/xz",
+          "npm/packages/toolchain-linux-x64"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@fix/xz — npm/packages/toolchain-win32-ia32",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/fix/xz/npm/packages/toolchain-win32-ia32",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "fix/xz",
+          "npm/packages/toolchain-win32-ia32"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@fix/xz — npm/packages/toolchain-win32-x64",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/fix/xz/npm/packages/toolchain-win32-x64",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "fix/xz",
+          "npm/packages/toolchain-win32-x64"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@master — guest/gamecube/gdir/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/master/guest/gamecube/gdir/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "master",
+          "guest/gamecube/gdir/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@master — guest/n64/gdir/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/master/guest/n64/gdir/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "master",
+          "guest/n64/gdir/runtime"
+        ]
+      },
+      {
         "name": "blazium-games/blazium-toolchain@master — guest/n64/runtime",
         "url": "https://github.com/blazium-games/blazium-toolchain/tree/master/guest/n64/runtime",
         "keywords": [
@@ -493173,6 +493731,36 @@
           "blazium-games/blazium-toolchain",
           "master",
           "guest/n64/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@master — guest/nds/gdir/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/master/guest/nds/gdir/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "master",
+          "guest/nds/gdir/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@master — guest/ps1/gdir/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/master/guest/ps1/gdir/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "master",
+          "guest/ps1/gdir/runtime"
         ]
       },
       {
@@ -493203,6 +493791,81 @@
           "blazium-games/blazium-toolchain",
           "master",
           "guest/ps2/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@master — guest/ps3/gdir/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/master/guest/ps3/gdir/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "master",
+          "guest/ps3/gdir/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@master — guest/psp/gdir/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/master/guest/psp/gdir/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "master",
+          "guest/psp/gdir/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@master — guest/switch/gdir/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/master/guest/switch/gdir/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "master",
+          "guest/switch/gdir/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@master — guest/wii/gdir/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/master/guest/wii/gdir/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "master",
+          "guest/wii/gdir/runtime"
+        ]
+      },
+      {
+        "name": "blazium-games/blazium-toolchain@master — guest/wiiu/gdir/runtime",
+        "url": "https://github.com/blazium-games/blazium-toolchain/tree/master/guest/wiiu/gdir/runtime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "blazium-games/blazium-toolchain",
+          "master",
+          "guest/wiiu/gdir/runtime"
         ]
       },
       {
@@ -500808,6 +501471,156 @@
           "brad0/libsmb2",
           "openbsd_errno",
           "tests"
+        ]
+      },
+      {
+        "name": "BRAGme/TomClancyModStudio@claude/epic-turing-rcfccd — pc",
+        "url": "https://github.com/BRAGme/TomClancyModStudio/tree/claude/epic-turing-rcfccd/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BRAGme/TomClancyModStudio",
+          "claude/epic-turing-rcfccd",
+          "pc"
+        ]
+      },
+      {
+        "name": "BRAGme/TomClancyModStudio@claude/epic-turing-rcfccd — pc/mods/TarkovRvS",
+        "url": "https://github.com/BRAGme/TomClancyModStudio/tree/claude/epic-turing-rcfccd/pc/mods/TarkovRvS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BRAGme/TomClancyModStudio",
+          "claude/epic-turing-rcfccd",
+          "pc/mods/TarkovRvS"
+        ]
+      },
+      {
+        "name": "BRAGme/TomClancyModStudio@claude/epic-turing-rcfccd — pc/tcpc/games",
+        "url": "https://github.com/BRAGme/TomClancyModStudio/tree/claude/epic-turing-rcfccd/pc/tcpc/games",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BRAGme/TomClancyModStudio",
+          "claude/epic-turing-rcfccd",
+          "pc/tcpc/games"
+        ]
+      },
+      {
+        "name": "BRAGme/TomClancyModStudio@claude/epic-turing-rcfccd — pc/tools",
+        "url": "https://github.com/BRAGme/TomClancyModStudio/tree/claude/epic-turing-rcfccd/pc/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BRAGme/TomClancyModStudio",
+          "claude/epic-turing-rcfccd",
+          "pc/tools"
+        ]
+      },
+      {
+        "name": "BRAGme/TomClancyModStudio@claude/epic-turing-rcfccd — ps2",
+        "url": "https://github.com/BRAGme/TomClancyModStudio/tree/claude/epic-turing-rcfccd/ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BRAGme/TomClancyModStudio",
+          "claude/epic-turing-rcfccd",
+          "ps2"
+        ]
+      },
+      {
+        "name": "BRAGme/TomClancyModStudio@claude/epic-turing-rcfccd — ps2/research/console",
+        "url": "https://github.com/BRAGme/TomClancyModStudio/tree/claude/epic-turing-rcfccd/ps2/research/console",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BRAGme/TomClancyModStudio",
+          "claude/epic-turing-rcfccd",
+          "ps2/research/console"
+        ]
+      },
+      {
+        "name": "BRAGme/TomClancyModStudio@claude/epic-turing-rcfccd — ps2/tcps2/games",
+        "url": "https://github.com/BRAGme/TomClancyModStudio/tree/claude/epic-turing-rcfccd/ps2/tcps2/games",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BRAGme/TomClancyModStudio",
+          "claude/epic-turing-rcfccd",
+          "ps2/tcps2/games"
+        ]
+      },
+      {
+        "name": "BRAGme/TomClancyModStudio@claude/epic-turing-rcfccd — ps2/tools",
+        "url": "https://github.com/BRAGme/TomClancyModStudio/tree/claude/epic-turing-rcfccd/ps2/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BRAGme/TomClancyModStudio",
+          "claude/epic-turing-rcfccd",
+          "ps2/tools"
+        ]
+      },
+      {
+        "name": "BRAGme/TomClancyModStudio@claude/epic-turing-rcfccd — xbox",
+        "url": "https://github.com/BRAGme/TomClancyModStudio/tree/claude/epic-turing-rcfccd/xbox",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BRAGme/TomClancyModStudio",
+          "claude/epic-turing-rcfccd",
+          "xbox"
+        ]
+      },
+      {
+        "name": "BRAGme/TomClancyModStudio@claude/epic-turing-rcfccd — xbox/tcxbox/games",
+        "url": "https://github.com/BRAGme/TomClancyModStudio/tree/claude/epic-turing-rcfccd/xbox/tcxbox/games",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "BRAGme/TomClancyModStudio",
+          "claude/epic-turing-rcfccd",
+          "xbox/tcxbox/games"
         ]
       },
       {
@@ -2225342,6 +2226155,276 @@
           "Zorkats/PS2Recomp",
           "main",
           "ps2xTest"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@main — config",
+        "url": "https://github.com/Zryuu/sly1/tree/main/config",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "main",
+          "config"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@main — disc",
+        "url": "https://github.com/Zryuu/sly1/tree/main/disc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "main",
+          "disc"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@main — include/sdk",
+        "url": "https://github.com/Zryuu/sly1/tree/main/include/sdk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "main",
+          "include/sdk"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@main — include/sdk/ee",
+        "url": "https://github.com/Zryuu/sly1/tree/main/include/sdk/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "main",
+          "include/sdk/ee"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@main — reference",
+        "url": "https://github.com/Zryuu/sly1/tree/main/reference",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "main",
+          "reference"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@main — scripts",
+        "url": "https://github.com/Zryuu/sly1/tree/main/scripts",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "main",
+          "scripts"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@main — src",
+        "url": "https://github.com/Zryuu/sly1/tree/main/src",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "main",
+          "src"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@main — tools",
+        "url": "https://github.com/Zryuu/sly1/tree/main/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "main",
+          "tools"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@main — tools/codematcher",
+        "url": "https://github.com/Zryuu/sly1/tree/main/tools/codematcher",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "main",
+          "tools/codematcher"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@zryu-dev — config",
+        "url": "https://github.com/Zryuu/sly1/tree/zryu-dev/config",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "zryu-dev",
+          "config"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@zryu-dev — disc",
+        "url": "https://github.com/Zryuu/sly1/tree/zryu-dev/disc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "zryu-dev",
+          "disc"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@zryu-dev — include/sdk",
+        "url": "https://github.com/Zryuu/sly1/tree/zryu-dev/include/sdk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "zryu-dev",
+          "include/sdk"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@zryu-dev — include/sdk/ee",
+        "url": "https://github.com/Zryuu/sly1/tree/zryu-dev/include/sdk/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "zryu-dev",
+          "include/sdk/ee"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@zryu-dev — reference",
+        "url": "https://github.com/Zryuu/sly1/tree/zryu-dev/reference",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "zryu-dev",
+          "reference"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@zryu-dev — scripts",
+        "url": "https://github.com/Zryuu/sly1/tree/zryu-dev/scripts",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "zryu-dev",
+          "scripts"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@zryu-dev — src",
+        "url": "https://github.com/Zryuu/sly1/tree/zryu-dev/src",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "zryu-dev",
+          "src"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@zryu-dev — tools",
+        "url": "https://github.com/Zryuu/sly1/tree/zryu-dev/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "zryu-dev",
+          "tools"
+        ]
+      },
+      {
+        "name": "Zryuu/sly1@zryu-dev — tools/codematcher",
+        "url": "https://github.com/Zryuu/sly1/tree/zryu-dev/tools/codematcher",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zryuu/sly1",
+          "zryu-dev",
+          "tools/codematcher"
         ]
       }
     ]
