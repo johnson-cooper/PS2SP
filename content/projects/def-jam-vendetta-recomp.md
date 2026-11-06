@@ -23,22 +23,22 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 42
-  forks: 3
-  lastCommit: '2026-11-03T21:29:20Z'
+  stars: 43
+  forks: 4
+  lastCommit: '2026-11-05T23:53:51Z'
 latestRelease:
-  tag: v0.4.5
-  name: Def Jam Vendetta Recompiled 0.4.5
-  publishedAt: '2026-11-03T13:39:19Z'
-  url: 'https://github.com/jcsix694/def-jam-vendetta-recomp/releases/tag/v0.4.5'
+  tag: v0.6.1
+  name: Def Jam Vendetta Recompiled 0.6.1
+  publishedAt: '2026-11-05T13:41:51Z'
+  url: 'https://github.com/jcsix694/def-jam-vendetta-recomp/releases/tag/v0.6.1'
 activity:
   lastChecked: '2026-10-12T16:07:57.694Z'
-  lastSynchronized: '2026-11-04T01:21:49.339Z'
+  lastSynchronized: '2026-11-06T01:33:52.478Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e2c2dcdcc60882b0690e62b6b5c0108013c63fd656875f61b8ad8ce5fec21bd3"
-    releasesEtag: W/"c13292f202be3deb99eb87e914d4fc34ccce1ce2917a02e071fa23a937208399"
+    repoEtag: W/"e07892e27596a263d8470e56694f7526402a4dd5e7211f691b1a72def5d19e27"
+    releasesEtag: W/"3c2b4860c2245bf5ef502e4b3da3a21895729c02d40142672372c80b9048ff33"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

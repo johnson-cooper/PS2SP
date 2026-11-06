@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-03T06:20:26Z'
+  lastCommit: '2026-11-05T04:13:05Z'
 latestRelease:
-  tag: v1.1
-  name: v1.1 — Termos revisados e Nomes Originais com a regra final
-  publishedAt: '2026-11-03T06:20:30Z'
-  url: 'https://github.com/0xdhx0/star-ocean-3-ptbr/releases/tag/v1.1'
+  tag: v1.2
+  name: 'v1.2 — Livros Antigos em português, Aquedutos corrigidos e nomes revisados'
+  publishedAt: '2026-11-05T04:13:05Z'
+  url: 'https://github.com/0xdhx0/star-ocean-3-ptbr/releases/tag/v1.2'
 activity:
-  lastSynchronized: '2026-11-04T01:23:32.671Z'
+  lastSynchronized: '2026-11-06T01:35:49.120Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5777181cbed49d34aa3eadb17d7131726bc469714ecdad08492cf1bb181a0261"
-    releasesEtag: W/"474a8571f061c97077183d87ecfb44bed967575daa7db52d288b4c389faacf5b"
+    repoEtag: W/"e3163bbaa98cd0c4f1b8b169fae3ab5e9107b44542c34440fe1553d9dc67f747"
+    releasesEtag: W/"f80824f13da18feb051c4c6f2edf4788f6c11493462c760b119dbc25f7235400"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

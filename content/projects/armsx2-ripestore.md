@@ -28,9 +28,12 @@ latestRelease:
   url: >-
     https://github.com/RipeStore/ARMSX2/releases/tag/com.nanodata.armsx2-nightly-1.0.4-20251108-0909
 activity:
-  lastSynchronized: '2026-11-04T01:40:14.557Z'
+  lastSynchronized: '2026-11-06T01:33:42.976Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"bbea86de0dd8018009c27baeab388ce2cc5aca55b4139fcb6c5f6c8c0bc08ae0"
+    releasesEtag: W/"e2051f5b9d0ffaa572b0cf84d5a7cc90d2b5464511c5f2a8f4fc22c155930f35"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: ARMSX2/ARMSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

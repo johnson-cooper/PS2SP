@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-04T01:22:30.627Z'
+  lastSynchronized: '2026-11-06T01:34:38.328Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"05f9f7ed9e0e2da3aa028e07a410f9c27f86d9330be77ffd80c3b0099ec91c94"
-    releasesEtag: '"39f1d594621e2612f55b2653c074dbdf484a90058843610d03a49448d4076b72"'
+    repoEtag: W/"7694f62705681814bd19d081e6f792432e735d2a2a956b2d5ccf82fc201f042b"
+    releasesEtag: '"e7eac27f355057434b18eab39c140c937f39208718b77528d17bcee84846a557"'
 discovery:
   method: 'fork-network:362053534/Open-PS2-Loader'
   confidence: 100

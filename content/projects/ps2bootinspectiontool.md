@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-10-11T15:19:15Z'
   url: 'https://github.com/NamasteJasutin/PSXBootInspectionTool/releases/tag/v1.2.0'
 activity:
-  lastSynchronized: '2026-11-04T01:23:04.427Z'
+  lastSynchronized: '2026-11-06T01:35:17.511Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e37fa6135cd437de6374984a86ad95dcf1e8b5f9171631980ad8d60bee83bfe3"
-    releasesEtag: W/"adc33b8e8024f893fa426285663168ba5d5455e0fc278385acf59b10966ce313"
+    repoEtag: W/"72b8d028928b836ab6be31e267b8e86db0771c897b36ecdc8cfa021b75d57b94"
+    releasesEtag: W/"d8dfcdef1a31fbdfebe94705e643d808b87fbe0274ed92b2fe0720ed39f14a3d"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

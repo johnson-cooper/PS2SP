@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T02:48:15.523Z'
+  lastSynchronized: '2026-11-06T01:35:00.407Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0161f423a48062147ae3ac667e88c1d36040ad50c045d2278f79438bb5adc6aa"
+    releasesEtag: '"e7eac27f355057434b18eab39c140c937f39208718b77528d17bcee84846a557"'
 discovery:
   method: 'fork-network:PS2Homebrew-arcade/pcsx2x6'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: PS2Homebrew-arcade/pcsx2x6
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

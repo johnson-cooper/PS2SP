@@ -12,7 +12,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: CC0-1.0
 homepage: null
 source:
   provider: github
@@ -21,19 +21,23 @@ source:
   url: 'https://github.com/ps2build/cmake'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: master
+  stars: 1
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-05T23:14:21Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v2026.11.04
+  name: v2026.11.04
+  publishedAt: '2026-11-05T02:23:42Z'
+  url: 'https://github.com/ps2build/cmake/releases/tag/v2026.11.04'
 activity:
   lastChecked: '2026-11-05T11:30:04.104Z'
+  lastSynchronized: '2026-11-06T01:33:50.898Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d39fe84995d9b3ecb7eda9c788bc26eabf99818c4e6fb4b3f026b98f69289063"
+    releasesEtag: W/"5b3521a113dafad89153474761176aaed1c89322295e4501ec3a907f7cf72dc8"
 discovery:
   method: 'pending-promotion:starred:NathanNeurotic'
   confidence: 85
@@ -46,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.
