@@ -1,0 +1,16 @@
+{
+  "repository": "otavix010/castlevania-lament-of-innocence-pc",
+  "repositoryId": "1435747585",
+  "url": "https://github.com/otavix010/castlevania-lament-of-innocence-pc",
+  "description": "Castlevania: Lament of Innocence (PS2, NTSC-U SLUS-20733): port nativo para PC por recompilação estática (PS2Recomp). Em desenvolvimento (o port ainda vai começar).",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-11-06T15:23:40.503Z",
+  "checkedAt": "2026-11-06T15:23:40.503Z"
+}

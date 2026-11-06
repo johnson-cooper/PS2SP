@@ -1,0 +1,16 @@
+{
+  "repository": "leonhard-s/ps2-api-files",
+  "repositoryId": "471374290",
+  "url": "https://github.com/leonhard-s/ps2-api-files",
+  "description": "Automated backups of static image assets hosted on the PlanetSide 2 API.",
+  "score": 80,
+  "evidence": [
+    "PS2-specific topic",
+    "repository name explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-06T15:23:40.503Z",
+  "checkedAt": "2026-11-06T15:23:40.503Z"
+}
