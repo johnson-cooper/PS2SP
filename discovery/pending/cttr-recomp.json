@@ -1,0 +1,16 @@
+{
+  "repository": "mikayle855/CTTR-Recomp",
+  "repositoryId": "1448677402",
+  "url": "https://github.com/mikayle855/CTTR-Recomp",
+  "description": "[UNMAINTAINED - fork it and take over] Crash Tag Team Racing (PS2, PAL) natively on PC: static recompilation built on PS2Recomp. Bring your own disc.",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "archived",
+  "fork": null,
+  "discoveredAt": "2026-11-06T21:04:14.173Z",
+  "checkedAt": "2026-11-06T21:04:14.173Z"
+}
