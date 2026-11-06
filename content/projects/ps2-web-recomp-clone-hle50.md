@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-02T23:32:03.464Z'
+  lastSynchronized: '2026-11-06T23:10:01.010Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b3b2dc86757d5310ec1ceac73ea1d5de4868229960068052bdb9713e0e464980"
-    releasesEtag: '"f9d1805627afeeeb8335f78ffb35eade606e35619da6e1d8c24312d4e6777828"'
+    repoEtag: W/"86d77b788aabb0e88beac5337014b2c269f634acd9d89b0294bd1bb48e68ced5"
+    releasesEtag: '"ce4ebce7ab0f1cc79798ee16e2c0700380bb19242258ba8659c7fd65fbd1c1f6"'
 discovery:
   method: 'fork-network:snuri00/ps2-web-recomp'
   confidence: 100

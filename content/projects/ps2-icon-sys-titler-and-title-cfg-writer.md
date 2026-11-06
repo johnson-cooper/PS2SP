@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/NathanNeurotic/PS2-icon.sys-titler-and-title.cfg-writer/releases/tag/latest
 activity:
-  lastSynchronized: '2026-11-02T23:32:00.844Z'
+  lastSynchronized: '2026-11-06T23:09:58.447Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6ef855b8f2430b94fc069fc71eceec5e4846d51dfa4e3f5e6749ecd554d6e3e8"
-    releasesEtag: W/"432f0ceec7c079aca868c4f494965574d1d385010b7732475c80351f910d8149"
+    repoEtag: W/"521ae2d683e322803d28f09c04bb2705fabc25c6e85aa5e04c1f698b8b2f04c8"
+    releasesEtag: W/"e0c62c8e4c22c699fb8340107ea4418daffe2abc51f62b11d271e458d32055ae"
 discovery:
   method: curated-owner
   confidence: 100

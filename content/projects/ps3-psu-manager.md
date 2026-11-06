@@ -23,20 +23,19 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-11-01T23:46:44Z'
+  lastCommit: '2026-11-06T00:04:45Z'
 latestRelease:
-  tag: dev-v1.63-build.246.1
-  name: PS3 PSU Manager dev-v1.63-build.246.1
-  publishedAt: '2026-11-01T17:38:05Z'
-  url: >-
-    https://github.com/khant735/PS3-PSU-Manager/releases/tag/dev-v1.63-build.246.1
+  tag: tiny3d-control-7-1
+  name: Tiny3D Control tiny3d-control-7-1
+  publishedAt: '2026-11-06T00:04:46Z'
+  url: 'https://github.com/khant735/PS3-PSU-Manager/releases/tag/tiny3d-control-7-1'
 activity:
-  lastSynchronized: '2026-11-02T23:32:28.639Z'
+  lastSynchronized: '2026-11-06T23:10:27.356Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7c66aab2d24006388c8435414c2b3a83ccbfcf4305ba7afe41d5bcd17bb6afbb"
-    releasesEtag: W/"31b376d43045c35a97000aaf07e3fb27930bab8bd5878f1ee10e103e294476b0"
+    repoEtag: W/"38d512437fb60e34a6df9e42d564cd062aed366abe0a32624b1070cbf9ca285c"
+    releasesEtag: W/"97b7f3fd1722a47412ab958f151c50853d6d1443be2b16f486dfe922986296cd"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

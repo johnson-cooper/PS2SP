@@ -20,25 +20,25 @@ homepage: null
 source:
   provider: github
   repository: PS2HomeDeveloper/ps2sdk
-  repositoryId: '1398405510'
+  repositoryId: '1445549405'
 repository:
   archived: false
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-02T16:59:31Z'
+  lastCommit: '2026-11-06T09:07:14Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-02T23:32:21.086Z'
+  lastSynchronized: '2026-11-06T23:10:19.447Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"78ea2a520bc9ed5b90e1b0f8d84b741b357580a54304d8d8507bfa1b24bf3ce6"
-    releasesEtag: '"f9d1805627afeeeb8335f78ffb35eade606e35619da6e1d8c24312d4e6777828"'
+    repoEtag: W/"e228b3061d86ca04cf204ad0f49f2d56f83443a1672d9595013a96c178859c1e"
+    releasesEtag: '"ce4ebce7ab0f1cc79798ee16e2c0700380bb19242258ba8659c7fd65fbd1c1f6"'
 discovery:
   method: 'fork-network:ps2dev/ps2sdk'
   confidence: 100

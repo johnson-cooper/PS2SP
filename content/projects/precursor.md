@@ -24,7 +24,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 32
+  stars: 34
   forks: 0
   lastCommit: '2026-10-25T02:07:52Z'
 latestRelease:
@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/thebardockgames/Precursor/releases/tag/v0.2.1-beta'
 activity:
   lastChecked: '2026-10-22T15:40:02.066Z'
-  lastSynchronized: '2026-11-02T23:31:53.293Z'
+  lastSynchronized: '2026-11-06T23:09:51.550Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"37735c6e805a0b925f73c155d4fee7113372a8c2ae77b8d15c955f7143f7c805"
-    releasesEtag: W/"fc03c06cc5924a5e38f98b6c07fa777b5231ea124203e72cf0940f52750a611f"
+    repoEtag: W/"7bdf88fe40b0eab59f9ef9131640d6fe47a9b73e31bd4cbd7e790571dc56ed8f"
+    releasesEtag: W/"ccb72e3e51a03658cf1e15b209a5406cb7f4af46117aea10d2aae41b6a6d248c"
 discovery:
   method: 'pending-promotion:incremental:topic:ps2'
   confidence: 80

@@ -19,20 +19,20 @@ repository:
   defaultBranch: master
   stars: 10
   forks: 1
-  lastCommit: '2026-11-02T05:39:28Z'
+  lastCommit: '2026-11-06T02:53:30Z'
 latestRelease:
-  tag: v1.9.13-alpha
-  name: v1.9.13-alpha release 2026-11-02
-  publishedAt: '2026-11-02T05:39:28Z'
+  tag: v1.9.14-alpha
+  name: v1.9.14-alpha release 2026-11-06
+  publishedAt: '2026-11-06T02:53:30Z'
   url: >-
-    https://github.com/WhatAboutGaming/Twitch-Plays-Stuff/releases/tag/v1.9.13-alpha
+    https://github.com/WhatAboutGaming/Twitch-Plays-Stuff/releases/tag/v1.9.14-alpha
 activity:
-  lastSynchronized: '2026-11-02T23:32:41.751Z'
+  lastSynchronized: '2026-11-06T23:10:41.932Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a3f8da63e1910b8bbab5844998d310fe7fa03ae2567eaebb3140a63f7a51e119"
-    releasesEtag: W/"76ae6f7fc18b9863a48d3eb9642357968ab7f7d3beae2f8d4607591d76ebffe0"
+    repoEtag: W/"b06d13469c37498dfbe1445ef493d5d0fa05fcc68701d5cc3b2819c9006e8959"
+    releasesEtag: W/"0a645d3a00981d03d591233b38dcb44c5ee7dfbb89ef0b34ec1cee3b8e799351"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
