@@ -21,7 +21,7 @@ repository:
   archived: false
   defaultBranch: master
   stars: 83
-  forks: 36
+  forks: 35
   lastCommit: '2026-10-08T12:30:01Z'
 latestRelease:
   tag: 1.1.0
@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/ps2dev/ps2-packer/releases/tag/1.1.0'
 activity:
   lastChecked: '2026-09-29T00:27:09.228Z'
-  lastSynchronized: '2026-10-28T16:05:10.234Z'
+  lastSynchronized: '2026-11-07T16:27:49.139Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"612ed836702f2a07a844ac93502c9bb4df8be904db4ab6fe2efdda6f29c31b2f"
-    releasesEtag: W/"e9a9fc624a12f8da4e6d76ecb521ef0a5d98eff89ec8ed5d5e31fce33016e7df"
+    repoEtag: W/"cb15752e6ed175c848f7a483151cbd5d9fe2eca7e37b987b44ed3833003c84c4"
+    releasesEtag: W/"2d6e39116ced75dc05460aa3e5af98f02e6fa49a38d712c0016958b1b54f6a2d"
 discovery:
   method: curated
   confidence: 100

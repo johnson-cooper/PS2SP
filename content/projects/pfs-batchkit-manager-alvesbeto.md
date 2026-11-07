@@ -14,26 +14,26 @@ license: null
 homepage: null
 source:
   provider: github
-  repository: alvesbeto/PFS-BatchKit-Manager
+  repository: alvesbeto/PFS-EXFAT-BatchKit-Manager
   repositoryId: '1327768333'
 repository:
   archived: false
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-08-07T15:54:30Z'
+  lastCommit: '2026-11-07T03:28:55Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.3.0
+  name: PFS-BatchKit-Manager v1.3.0 (APA-Jail exFAT + OPL Latest)
+  publishedAt: '2026-11-07T03:29:23Z'
+  url: 'https://github.com/alvesbeto/PFS-EXFAT-BatchKit-Manager/releases/tag/v1.3.0'
 activity:
-  lastSynchronized: '2026-10-28T16:04:55.937Z'
+  lastSynchronized: '2026-11-07T16:27:38.322Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9ef5500a9910e4e1c904fc7645085ebae45cfca6ace5e073c59338ce30ef5d9f"
-    releasesEtag: '"84a6274a83f0dc9ad9077bd4fa5bf01cb0f02ba03d47c68dcd760c50b12de572"'
+    repoEtag: W/"bed61605986600ebd296e6cb915f24b76c266f640f83f783dfd9521ff8d0bca2"
+    releasesEtag: W/"8debb69826e8e9f8afd0dc8c00fc20a115da2defea98792255eabdac6bf78055"
 discovery:
   method: 'fork-network:GDX-X/PFS-BatchKit-Manager'
   confidence: 95

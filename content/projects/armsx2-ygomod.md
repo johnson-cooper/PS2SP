@@ -28,9 +28,12 @@ latestRelease:
   url: >-
     https://github.com/YGOmod/ARMSX2/releases/tag/come.nanodata.armsx2-nightly-1.0.7-20251126-1012
 activity:
-  lastSynchronized: '2026-11-04T01:40:14.557Z'
+  lastSynchronized: '2026-11-07T16:26:26.492Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e429b18ebc32fbdff942aff2bac679cca09053e6161bfe182b3700737a61bd5a"
+    releasesEtag: W/"98423dc5cfb6188921b94126aa5986ef26b199f68c507ef18020386efefb7fc8"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: ARMSX2/ARMSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-28T16:05:42.625Z'
+  lastSynchronized: '2026-11-07T16:28:14.406Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0cd275a9fe4e1bb031a3c5f126acf050c92ecc6a8c1b8b70501f91426235a835"
-    releasesEtag: '"84a6274a83f0dc9ad9077bd4fa5bf01cb0f02ba03d47c68dcd760c50b12de572"'
+    repoEtag: W/"e439a310bf07231bc1b0d04f115f7efd973e584082f854f0d9434039ad46f4e3"
+    releasesEtag: '"cd40c3496d49381414af8194765dadba2fe7e0fc90fa38f7f1ccc60239e10588"'
 discovery:
   method: 'fork-network:ps2wiki/sas-apps-archive'
   confidence: 95

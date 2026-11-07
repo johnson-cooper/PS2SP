@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-09T08:11:08Z'
   url: 'https://github.com/MatthewBlenk/bully-ps2-16x10/releases/tag/revision-4'
 activity:
-  lastSynchronized: '2026-10-28T16:03:35.009Z'
+  lastSynchronized: '2026-11-07T16:26:29.873Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0dccadd1130e7b75a6b39317ca68d6b1fb3293190c915080204f87989bd0505f"
-    releasesEtag: W/"87a04f47d2b5d9447b3e05fb139e088db130d5a8950a7a89ac054a02ca768d60"
+    repoEtag: W/"491bc93a20cebd6ab2677bbd35ff13007973d8d54bb6a0995855a371499e73e7"
+    releasesEtag: W/"8d822bcef2442defd14953ffb47857cbd870e1edd417462de29a562ec5ed2f53"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

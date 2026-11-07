@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-28T16:05:12.253Z'
+  lastSynchronized: '2026-11-07T16:27:50.710Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9800ad38c8e9d2be220dec5a74401041798f71baa28ec88a58baba36bc9c20c7"
-    releasesEtag: '"84a6274a83f0dc9ad9077bd4fa5bf01cb0f02ba03d47c68dcd760c50b12de572"'
+    repoEtag: W/"4604f64a0c74ba3344f77d77bd1efb9b84792ee2b073bd7b850462fbe1554c04"
+    releasesEtag: '"cd40c3496d49381414af8194765dadba2fe7e0fc90fa38f7f1ccc60239e10588"'
 discovery:
   method: 'fork-network:binkynz/ps2-usbhdl'
   confidence: 100

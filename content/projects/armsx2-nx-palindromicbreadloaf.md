@@ -17,22 +17,22 @@ source:
   repositoryId: '1270172504'
 repository:
   archived: false
-  defaultBranch: master
-  stars: 69
-  forks: 7
-  lastCommit: '2026-10-27T02:33:39Z'
+  defaultBranch: main
+  stars: 74
+  forks: 8
+  lastCommit: '2026-11-05T03:48:07Z'
 latestRelease:
   tag: v3.0.0
   name: v3.0.0
   publishedAt: '2026-08-24T18:18:41Z'
   url: 'https://github.com/PalindromicBreadLoaf/Yadokari/releases/tag/v3.0.0'
 activity:
-  lastSynchronized: '2026-10-28T16:03:28.668Z'
+  lastSynchronized: '2026-11-07T16:26:24.471Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4570c0ee9ae53d02ee868deaa49ac42b815323fc6c352f0d1fa993d379c5e3f8"
-    releasesEtag: W/"855576dcfa8cc10a079597f6edb48e558fb83e508c542f644e20f509f6ab8627"
+    repoEtag: W/"cd887b5ba01890141ac7604c9e91923c0cb0bf2e8b0d727e0f054b1fd24afdb1"
+    releasesEtag: W/"31330ad80e7d59c2835fd9c232b9c70b5e51b3cf6d18821e6b8590fc1d38c88b"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 95

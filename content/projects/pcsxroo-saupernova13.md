@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-09-14T17:08:02Z'
   url: 'https://github.com/Saupernova13/pcsxroo/releases/tag/pcsxroo-v1.0.0'
 activity:
-  lastSynchronized: '2026-10-28T16:04:55.364Z'
+  lastSynchronized: '2026-11-07T16:27:37.525Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"33452dd9defefeb135a4907589e4eb9349ff9e22f3519a3f14ee23cddcbdb1ee"
-    releasesEtag: W/"6fa3d7529c0188d9bbe48ab7ff0152177a63311c05b6fc939d45ce619c8df089"
+    repoEtag: W/"035aa0ec0a9b9724ebabad58830b94b1e2e9c415590d9a0771cebc2c57a367ca"
+    releasesEtag: W/"9722605dba6779e96732dfb2b86bebb9960d6d047c118fc86251f5efc4a542e7"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

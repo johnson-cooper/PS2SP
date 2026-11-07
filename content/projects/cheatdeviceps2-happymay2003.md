@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-28T16:03:39.556Z'
+  lastSynchronized: '2026-11-07T16:26:32.824Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ad1155705e54a69eb54dad29d2aa7732c8d8073c41183e203da50c87917e66a1"
-    releasesEtag: '"84a6274a83f0dc9ad9077bd4fa5bf01cb0f02ba03d47c68dcd760c50b12de572"'
+    repoEtag: W/"561cf65da8a10d36ff53f2b9bab795ef11914ff73cb22b06dbafb04ab5fcfc47"
+    releasesEtag: '"cd40c3496d49381414af8194765dadba2fe7e0fc90fa38f7f1ccc60239e10588"'
 discovery:
   method: 'fork-network:israpps/CheatDevicePS2'
   confidence: 100

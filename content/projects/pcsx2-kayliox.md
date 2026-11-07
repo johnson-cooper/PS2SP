@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-06-11T09:11:01Z'
   url: 'https://github.com/kayliox/pcsx2/releases/tag/v2.6.3-dev-f369c7b-sparta.1'
 activity:
-  lastSynchronized: '2026-10-28T16:04:42.880Z'
+  lastSynchronized: '2026-11-07T16:27:27.128Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f8e35cea0e4d677a58d281bb8c115054c3f4d19fbf0da9958f8c20e0b4fafc88"
-    releasesEtag: W/"7db082afd98a213fd801961ce1dcae9cc3970176dd0c2e958f22e322f9006f0d"
+    repoEtag: W/"e1d8b66d34b0d75fb090d0acbd3d927b1bf7b88c0a2accbe9cdbf23bd5caaa05"
+    releasesEtag: W/"2a7806f5645d7ef4a5a72443f5db000b122dc53eff3cc8756c13eed21a62050d"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-03T00:02:44.895Z'
+  lastSynchronized: '2026-11-07T16:26:51.168Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d63dcb8f7416f5fa63e386d5e6cfddd8710b6114724292e9aff6b3581c269002"
+    releasesEtag: '"cd40c3496d49381414af8194765dadba2fe7e0fc90fa38f7f1ccc60239e10588"'
 discovery:
   method: 'fork-network:Nenkai/GTPS2ModelTool'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: Nenkai/GTPS2ModelTool
   source: Nenkai/GTPS2ModelTool
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

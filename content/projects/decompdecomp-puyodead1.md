@@ -25,19 +25,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-27T00:29:22Z'
+  lastCommit: '2026-11-07T12:35:10Z'
 latestRelease:
-  tag: v1.0.7-alpha+puyo.7
-  name: v1.0.7-alpha+puyo.7
-  publishedAt: '2026-10-27T00:30:40Z'
-  url: 'https://github.com/Puyodead1/decompdecomp/releases/tag/v1.0.7-alpha%2Bpuyo.7'
+  tag: v1.0.9-alpha.4+puyo.17
+  name: v1.0.9-alpha.4+puyo.17
+  publishedAt: '2026-11-07T12:36:46Z'
+  url: >-
+    https://github.com/Puyodead1/decompdecomp/releases/tag/v1.0.9-alpha.4%2Bpuyo.17
 activity:
-  lastSynchronized: '2026-10-28T16:03:42.599Z'
+  lastSynchronized: '2026-11-07T16:26:38.306Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e8bf411d394fb09a6254ad1c43c9ec4fc3af6b416295c470f659d7ff9c62dde9"
-    releasesEtag: W/"b38056c7d455c0d571aa6ae4323de45e93da1801a62518e2b8b516e47a6a45a7"
+    repoEtag: W/"978a2b5d08ce9e2b85ad54ae6fe70a38055794facd60eee61828396c80c349b0"
+    releasesEtag: W/"858485f8fb0c9bf9773560656642d6bd98bb0e963c96fef4e69391b673517923"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
