@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-27T03:24:17Z'
+  lastCommit: '2026-11-07T02:58:46Z'
 latestRelease:
   tag: v2026.9.14
   name: shmupX 2026.9.14
   publishedAt: '2026-09-15T01:28:28Z'
   url: 'https://github.com/shmupX/shmupX.github.io/releases/tag/v2026.9.14'
 activity:
-  lastSynchronized: '2026-10-27T10:36:40.947Z'
+  lastSynchronized: '2026-11-07T10:11:37.655Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"93f784f884979b8e76c3f558204a8ca5c52f81e834c38d46e7e1387b4d504860"
-    releasesEtag: W/"f234047ecbe5bd178c8a15c27ea3e7dedc7afc12b97a831e7d7de6eb4433042f"
+    repoEtag: W/"755896cdab2cce81c16b4388565c55564fdfb650059d2167e6d0aa45a09c5015"
+    releasesEtag: W/"6acfc42878ccee4d5394c4cd23bae50d4fef72a89fb92da31d89755765584b48"
 discovery:
   method: pending-recheck
   confidence: 95

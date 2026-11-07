@@ -19,21 +19,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 2
   forks: 0
-  lastCommit: '2026-10-25T11:56:00Z'
+  lastCommit: '2026-10-30T16:53:10Z'
 latestRelease:
   tag: v1.0
   name: v1.0 — pendrive.zip e instalador público
   publishedAt: '2026-10-18T22:52:56Z'
   url: 'https://github.com/RodrigoRosa95/PS2-Henbox/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-10-27T10:36:20.152Z'
+  lastSynchronized: '2026-11-07T10:11:15.984Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1b0fc4105fe5c5fc574d31884429a836bc119ff3629032aa8be0d43338a4745b"
-    releasesEtag: W/"f2879e147977c2f4827c38449f8a1c641ec7c32f0d70b814f34c8a3ccdca257d"
+    repoEtag: W/"056f21411c82bdb41d4b183d7278c4e78345f4d81727133719763d33e48d956e"
+    releasesEtag: W/"a9c143a3d077ac2b36b4ba823d2ccbf279944d305e764314acb2386d60d2b937"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

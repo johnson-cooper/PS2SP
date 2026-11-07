@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-27T10:36:41.654Z'
+  lastSynchronized: '2026-11-07T10:11:38.144Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"400c4edaa5475356fb4e13dc3145ecb56f57f1cf93c8c2eb301f063085604909"
-    releasesEtag: '"2527ec6c5ed97265bdb7d9a1e2a4687a42a2c05b59874f596fef4b44cfba4c30"'
+    repoEtag: W/"c8dba524dfa63f158c631419e5b5994e6add3d5616c633faf21414ad52912da1"
+    releasesEtag: '"f5ca988cf8edc1105f5ebfd72d6c0a5ca9b98f69b067126d9a43407dc35f9f78"'
 discovery:
   method: 'fork-network:TheMrIron2/Simple-Media-System'
   confidence: 100

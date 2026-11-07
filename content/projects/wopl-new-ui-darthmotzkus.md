@@ -36,12 +36,12 @@ latestRelease:
   url: 'https://github.com/DarthMotzkus/wOPL-new-ui/releases/tag/v1.0'
 activity:
   lastChecked: '2026-09-29T00:33:20.217Z'
-  lastSynchronized: '2026-10-27T10:36:53.071Z'
+  lastSynchronized: '2026-11-07T10:11:49.480Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8ae7cede9cc54139cecf86b8dec0388678aa001674a88e4dca8e04a972954785"
-    releasesEtag: W/"4a743808700e15d117ae48e7e5e2156eae98131798f6a8080a2e613d8aea961e"
+    repoEtag: W/"a73dac90314d7d799997bd87e0ddd862c01f176e99f51f8531529dda2bf82531"
+    releasesEtag: W/"b361659cd5103efa0582fc204a9fa07542acf4814861b0a90fd8c0cd999ab8ee"
 discovery:
   method: github-maintained-fork
   confidence: 100

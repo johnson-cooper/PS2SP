@@ -19,21 +19,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 263
-  forks: 8
-  lastCommit: '2026-10-24T21:54:14Z'
+  stars: 282
+  forks: 9
+  lastCommit: '2026-11-05T23:00:58Z'
 latestRelease:
-  tag: v0.4
-  name: OpenPS2BIOS 0.4
-  publishedAt: '2026-10-24T21:54:14Z'
-  url: 'https://github.com/TamaribaEmu/OpenPS2BIOS/releases/tag/v0.4'
+  tag: v0.6
+  name: OpenPS2BIOS 0.6
+  publishedAt: '2026-11-05T23:01:14Z'
+  url: 'https://github.com/TamaribaEmu/OpenPS2BIOS/releases/tag/v0.6'
 activity:
-  lastSynchronized: '2026-10-27T10:35:46.821Z'
+  lastSynchronized: '2026-11-07T10:10:37.602Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"984f96c5d4aae4f6f3d51b1bf3fac20fad104ee07f98e224fe5d239e25bbd884"
-    releasesEtag: W/"d04b908dbae64c8bec69fa8a17e05ffca4b64a9bf142f7eb8576fb8ffa96ebda"
+    repoEtag: W/"c01e9c6852130ed7a1b641d85b044bf52cff8fe54ec83f606047863b9fc0e14f"
+    releasesEtag: W/"bdf199b7a4e9cc98745d2ef7ecd59e9a1454418ba5fb88766bd584234b6c8e16"
 discovery:
   method: 'incremental:ps2sdk in:name,description,readme'
   confidence: 100

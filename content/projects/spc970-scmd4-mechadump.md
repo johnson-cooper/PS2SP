@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-10-07T03:55:04Z'
   url: 'https://github.com/Myriachan/spc970-scmd4-mechadump/releases/tag/1.1'
 activity:
-  lastSynchronized: '2026-10-27T10:36:44.490Z'
+  lastSynchronized: '2026-11-07T10:11:41.018Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7391e42adc45713a79c2db04f39bea7e9e67086d29b216ec07a1871330ca4bdc"
-    releasesEtag: W/"88900e2c7d480f6ef9dc618f4224e81af00c5b7ff0316ef4da480f273cad540b"
+    repoEtag: W/"77130bf4c67abfc5ca922f388b4ad3948e5f2120c670dd344efde27eb50b9cd2"
+    releasesEtag: W/"262a2e70b0929180fd6b65bf57bcf94a542edc79f4fabd651cee47fd3f1d545a"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

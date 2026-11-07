@@ -22,19 +22,19 @@ repository:
   defaultBranch: master
   stars: 1
   forks: 0
-  lastCommit: '2026-10-17T03:16:02Z'
+  lastCommit: '2026-10-28T02:01:19Z'
 latestRelease:
-  tag: vr-build-2
-  name: VR build 2
-  publishedAt: '2026-10-17T03:16:02Z'
-  url: 'https://github.com/LIME99902/jak-project/releases/tag/vr-build-2'
+  tag: vr-build-6
+  name: VR build 6
+  publishedAt: '2026-10-28T02:01:20Z'
+  url: 'https://github.com/LIME99902/jak-project/releases/tag/vr-build-6'
 activity:
-  lastSynchronized: '2026-10-27T10:35:19.741Z'
+  lastSynchronized: '2026-11-07T10:10:12.798Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"dcd1294ca418452d7f665c3b43c266dea1cb4920228859678ffcf1557595d9ec"
-    releasesEtag: W/"79ce78d6ce13d404452865db6d18d60cacac5d3da15dbcfede53c43de41b92ea"
+    repoEtag: W/"f663033915b477775c421b5f969f8be633dc77b7dd643242c14752eade35592c"
+    releasesEtag: W/"a763c1d5e5b5581e5629c44bfa006f0c6ac2b0e51a274f8c13ab5fa2c251166a"
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95

@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-27T10:35:09.998Z'
+  lastSynchronized: '2026-11-07T10:10:02.903Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"241aeedaf0da97420ddd437be92a6caed8a9d79cc786bb10c266fa2e04b77792"
-    releasesEtag: '"2527ec6c5ed97265bdb7d9a1e2a4687a42a2c05b59874f596fef4b44cfba4c30"'
+    repoEtag: W/"50b96981556351af36ec226504b8754b94dd1d2778813bb2319e2ce946e61df1"
+    releasesEtag: '"f5ca988cf8edc1105f5ebfd72d6c0a5ca9b98f69b067126d9a43407dc35f9f78"'
 discovery:
   method: 'fork-network:NathanNeurotic/FreeMcTuna'
   confidence: 95

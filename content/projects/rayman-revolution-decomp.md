@@ -11,7 +11,7 @@ tags:
   - active-unreleased
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -20,10 +20,10 @@ source:
   url: 'https://github.com/everfeel/rayman-revolution-decomp'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 3
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-07T01:11:29Z'
 latestRelease:
   tag: null
   name: null
@@ -31,8 +31,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-11-03T00:02:44.895Z'
+  lastSynchronized: '2026-11-07T10:11:31.427Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5cb5be8db7d019d8dfb87b375dfe0e2edddffe9c4316702a96bcc561f1a50dd9"
+    releasesEtag: '"f5ca988cf8edc1105f5ebfd72d6c0a5ca9b98f69b067126d9a43407dc35f9f78"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 90
@@ -45,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

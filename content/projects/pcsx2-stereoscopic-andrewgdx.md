@@ -18,7 +18,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 17
+  stars: 18
   forks: 1
   lastCommit: '2026-03-06T23:31:18Z'
 latestRelease:
@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-03-06T23:31:18Z'
   url: 'https://github.com/AndrewGDX/pcsx2-stereoscopic/releases/tag/v0.1.1'
 activity:
-  lastSynchronized: '2026-10-28T06:19:41.022Z'
+  lastSynchronized: '2026-11-07T10:10:53.255Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"3033322dc4a210ab861f3d81ebb9670921654e2b26d2369ab7289256b89e9b26"
+    releasesEtag: W/"572a209f6c731e515d34758cdeb2f10af8f5eb2a50e7393e8b022d9922dd91ec"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
