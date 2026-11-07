@@ -1,0 +1,17 @@
+{
+  "repository": "leonhard-s/ps2-api-docs",
+  "repositoryId": "365673843",
+  "url": "https://github.com/leonhard-s/ps2-api-docs",
+  "description": "Unofficial OpenAPI specification and documentation provider for the PlanetSide 2 API.",
+  "score": 90,
+  "evidence": [
+    "PS2-specific topic",
+    "repository name explicitly identifies PS2",
+    "published GitHub release present"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "released-active",
+  "fork": null,
+  "discoveredAt": "2026-11-07T19:37:34.160Z",
+  "checkedAt": "2026-11-07T19:37:34.160Z"
+}
