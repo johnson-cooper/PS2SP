@@ -1,0 +1,16 @@
+{
+  "repository": "Destinity13/shadow-of-the-colossus-recomp",
+  "repositoryId": "1448035370",
+  "url": "https://github.com/Destinity13/shadow-of-the-colossus-recomp",
+  "description": "Shadow of the Colossus — Native Linux Port  The PS2 game, statically recompiled into a native Linux executable and rebuilt as an HD remaster.",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-11-07T01:13:29.437Z",
+  "checkedAt": "2026-11-07T01:13:29.437Z"
+}

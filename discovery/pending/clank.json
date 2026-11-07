@@ -1,0 +1,16 @@
+{
+  "repository": "Speedy11CZ/clank",
+  "repositoryId": "1150803731",
+  "url": "https://github.com/Speedy11CZ/clank",
+  "description": "Lightweight Medius server implementation, written in Go.",
+  "score": 80,
+  "evidence": [
+    "PS2-specific topic",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-07T01:13:29.437Z",
+  "checkedAt": "2026-11-07T01:13:29.437Z"
+}
