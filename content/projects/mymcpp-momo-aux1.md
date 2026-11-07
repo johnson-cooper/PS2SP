@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T20:41:10.749Z'
+  lastSynchronized: '2026-11-07T20:53:39.931Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2899768295ba5c6e8caccbc849e8452e1b9e95b23ca484635592f1fd69c6b16f"
-    releasesEtag: '"8f1c17d50bc300b3e22fbe68aa0266425164eefaead82d37adcbbbb8c996a965"'
+    repoEtag: W/"ede9a507dc30e5430e7c86056b49fd3f0f2d45f06aaf267542fb984e34afae64"
+    releasesEtag: '"fc619d91d08281813cd615904e974730be6c8a673783181674e17014b818210d"'
 discovery:
   method: 'fork-network:PCSX2/myMCpp'
   confidence: 100

@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T20:42:24.248Z'
+  lastSynchronized: '2026-11-07T20:54:39.157Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"30c0255a6d6d8b9a03dac7b3cb316966bddc217b7d14d7d3accba5488778b703"
-    releasesEtag: '"8f1c17d50bc300b3e22fbe68aa0266425164eefaead82d37adcbbbb8c996a965"'
+    repoEtag: W/"b89dda5df89ac9c6505f7d24f8b32ebb83dc6762746a2916e8cbb5af3b876ee7"
+    releasesEtag: '"fc619d91d08281813cd615904e974730be6c8a673783181674e17014b818210d"'
 discovery:
   method: 'fork-network:toolboc/psx-pi-smbshare'
   confidence: 95

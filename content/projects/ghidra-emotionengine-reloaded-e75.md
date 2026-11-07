@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-09T12:25:04Z'
   url: 'https://github.com/E75/ghidra-emotionengine-reloaded/releases/tag/v2.1.38'
 activity:
-  lastSynchronized: '2026-11-05T20:40:51.569Z'
+  lastSynchronized: '2026-11-07T20:53:23.677Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8802442013d1a2703d1ff081595427ff398fb0a47f5aa1eb1df764ce8c6fa097"
-    releasesEtag: W/"73aef37f4f01955669f387fdc19aa300577da330a0284cdbae3092f99b54ced5"
+    repoEtag: W/"d1b7e48a1170165027172037707098b13d42386e761bb7527fcc66f87fd8a1e9"
+    releasesEtag: W/"8ca2974a84e153fd3bcb9e384a1cb3a640e12bda2eca82529f48df92ab75b63d"
 discovery:
   method: 'fork-network:chaoticgd/ghidra-emotionengine-reloaded'
   confidence: 100

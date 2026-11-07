@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/UwUCammie/Burn3/releases/tag/v0.1.14'
 activity:
   lastChecked: '2026-10-29T17:05:16.992Z'
-  lastSynchronized: '2026-11-05T20:40:33.765Z'
+  lastSynchronized: '2026-11-07T20:53:09.323Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bb17c2721aa677b3e0d5a19db7bf3e613d6b1e6731d19478983b8dd0b28506c1"
-    releasesEtag: W/"214c2788f512c5ba151cc3ac3146a0277f494c2d6d1e8db76fdca5c7d1f70fdc"
+    repoEtag: W/"3c57490a4a15d44ad140a034709242d7ad03854879ccba1bef821d8d5ca00b54"
+    releasesEtag: W/"b71f6c38f6aca046fc964a7fbcb362e55eb020f1d412c3b3d3658394d61795f4"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

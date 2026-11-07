@@ -28,12 +28,12 @@ latestRelease:
   url: 'https://github.com/adlerosn/ps2joysrv/releases/tag/v0.0.1'
 activity:
   lastChecked: '2026-09-29T00:27:12.567Z'
-  lastSynchronized: '2026-11-05T20:42:06.489Z'
+  lastSynchronized: '2026-11-07T20:54:25.319Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7a0dc6f384852c2934a444f218603a1b3d02885c0c3d176979cf8d06375c1893"
-    releasesEtag: W/"22647f499f43fc1cebce4a3c1b13da93a619889134b48d4709c27d579dbbfeb0"
+    repoEtag: W/"a2454f27dd60319c111ef492f8d2285a5a817abd2571264ad508111e41abcb03"
+    releasesEtag: W/"a98c76e99f1b2917073dd4642fe8d7b07c381d3234af3d72c0c859835d57928a"
 discovery:
   method: github-search
   confidence: 100

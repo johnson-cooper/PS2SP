@@ -11,7 +11,7 @@ tags:
 features: []
 authors: []
 license: GPL-3.0
-homepage: null
+homepage: 'https://ambermemorydoll.github.io/ps2-play-history/'
 source:
   provider: github
   repository: ambermemorydoll/ps2-play-history
@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T20:42:01.080Z'
+  lastSynchronized: '2026-11-07T20:54:21.211Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cdecde7db60333b91a6d613942210e33daa736d70ba894f93ecf8ec68db4505d"
-    releasesEtag: '"8f1c17d50bc300b3e22fbe68aa0266425164eefaead82d37adcbbbb8c996a965"'
+    repoEtag: W/"84d58fcbbb15ce138818ed5e7d1fe3a0b6bd3ab2f5f4b3cdef1db0996f7666ac"
+    releasesEtag: '"fc619d91d08281813cd615904e974730be6c8a673783181674e17014b818210d"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

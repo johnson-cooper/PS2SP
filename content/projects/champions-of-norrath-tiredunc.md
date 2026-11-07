@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T20:40:38.194Z'
+  lastSynchronized: '2026-11-07T20:53:13.083Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"553856d3930f36dd3051bf1a080871c0d320a1d7b23da354a99b2a507c3438e9"
-    releasesEtag: '"8f1c17d50bc300b3e22fbe68aa0266425164eefaead82d37adcbbbb8c996a965"'
+    repoEtag: W/"17909526c03816176bff23d9c2578717d9f385521b2218a639ec6a3aa1873549"
+    releasesEtag: '"fc619d91d08281813cd615904e974730be6c8a673783181674e17014b818210d"'
 discovery:
   method: 'fork-network:ensapra/champions-of-norrath'
   confidence: 100

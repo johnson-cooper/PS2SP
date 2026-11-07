@@ -22,9 +22,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 56
+  stars: 58
   forks: 1
-  lastCommit: '2026-11-03T20:47:43Z'
+  lastCommit: '2026-11-07T16:53:50Z'
 latestRelease:
   tag: v1.0
   name: TimeSplitters Recomp v1.0
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/GTTeancum/Timesplitters/releases/tag/v1.0'
 activity:
   lastChecked: '2026-10-23T17:27:12.070Z'
-  lastSynchronized: '2026-11-05T20:42:35.005Z'
+  lastSynchronized: '2026-11-07T20:54:48.470Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1dcb50e846e5cb6ed4510d6f467de598e68b955c68182ba008de0761e5633968"
-    releasesEtag: W/"96f25355419af1ad28d8d5efd000378746ebf9f47a2f39f52a843b8cff37f804"
+    repoEtag: W/"f7deed9d6f1776735e455087684c2ad00f2cd86424547b7bc2982d9a0c89aaa8"
+    releasesEtag: W/"0ecf6c66d03569737dd717b62f085ddacf23bab821e4aefe0789f106515ade65"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
