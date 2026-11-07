@@ -1,0 +1,17 @@
+{
+  "repository": "Destinity13/Timeslitters-2-Native-Linux-recomp",
+  "repositoryId": "1449120748",
+  "url": "https://github.com/Destinity13/Timeslitters-2-Native-Linux-recomp",
+  "description": null,
+  "score": 85,
+  "evidence": [
+    "README explicitly mentions PlayStation 2",
+    "README contains PS2 development/toolchain evidence",
+    "README identifies PS2 homebrew"
+  ],
+  "origin": "incremental:\"PS2 homebrew\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-07T07:47:24.766Z",
+  "checkedAt": "2026-11-07T07:47:24.766Z"
+}
