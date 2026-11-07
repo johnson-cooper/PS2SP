@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-09T02:10:39.207Z'
+  lastSynchronized: '2026-11-07T02:49:15.365Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"22701841900b87c1c16d30c216c0c6eab01a8dbbc465b8f3e64d3edef9ad08bd"
-    releasesEtag: '"960319c1f91da8b8ca2384e06485d9d2d779154249a16c1c355bcc17a8bee2b6"'
+    repoEtag: W/"79a33f9b7a35516371d31e13b0fe317e9ee1ee102492ed0a65d1fbc11177fa5f"
+    releasesEtag: '"66580e2e5c97541a97f5eccf517b2285a1cf142e3029f5f841172d71e5b0149b"'
 discovery:
   method: 'fork-network:therealdreg/okhi'
   confidence: 95

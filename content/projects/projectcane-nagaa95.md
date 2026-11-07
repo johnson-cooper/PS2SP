@@ -24,18 +24,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 2
+  stars: 11
   forks: 0
-  lastCommit: '2026-10-10T20:43:33Z'
+  lastCommit: '2026-11-03T20:28:54Z'
 latestRelease:
-  tag: 0.4.0-beta.1
-  name: 0.4.0-beta.1
-  publishedAt: '2026-10-10T20:43:33Z'
-  url: 'https://github.com/NaGaa95/ProjectCane/releases/tag/0.4.0-beta.1'
+  tag: 0.5.0-v2
+  name: ProjectCane 0.5.0-v2
+  publishedAt: '2026-11-03T20:34:14Z'
+  url: 'https://github.com/NaGaa95/ProjectCane/releases/tag/0.5.0-v2'
 activity:
-  lastSynchronized: '2026-10-11T02:11:44.268Z'
+  lastSynchronized: '2026-11-07T02:50:04.354Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b3e5be952d8544b664ea53ec3239c296a583261b01862205feac138fe5a6ceda"
+    releasesEtag: W/"f43c8b9b6d4220b0799340bec6373b53d341a0ef2196e204ba824c26971e2fe9"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -52,5 +55,4 @@ relationships:
   forkOf: theclub654/ProjectCane
   source: theclub654/ProjectCane
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

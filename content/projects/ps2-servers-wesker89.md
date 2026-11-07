@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-31T01:03:27.533Z'
+  lastSynchronized: '2026-11-07T02:50:16.819Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"93d8da5f291249db487f1e98635fe86715e37d7633a061ec6ce2effc862f6a7a"
+    releasesEtag: '"66580e2e5c97541a97f5eccf517b2285a1cf142e3029f5f841172d71e5b0149b"'
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: NathanNeurotic/PS2-Servers
   source: NathanNeurotic/PS2-Servers
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

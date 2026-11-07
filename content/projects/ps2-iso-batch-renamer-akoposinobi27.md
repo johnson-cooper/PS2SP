@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-19T14:59:02.710Z'
+  lastSynchronized: '2026-11-07T02:50:14.821Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"94fbfe036b5ab8dcb0e54fa4d071aa52829944430b583c8acaafaf5572cbd5a7"
+    releasesEtag: '"66580e2e5c97541a97f5eccf517b2285a1cf142e3029f5f841172d71e5b0149b"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: L10N37/PS2-ISO-Batch-Renamer-
   source: L10N37/PS2-ISO-Batch-Renamer-
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

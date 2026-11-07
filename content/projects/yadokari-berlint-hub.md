@@ -28,9 +28,12 @@ latestRelease:
   url: >-
     https://github.com/berlint-hub/Yadokari/releases/tag/switch-nightly-41245700196-1
 activity:
-  lastSynchronized: '2026-11-04T01:40:14.557Z'
+  lastSynchronized: '2026-11-07T02:51:10.546Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7d6497ef37dbc0453bf5487182f3081f1b3baa62840c93e4c90d0a390a67f054"
+    releasesEtag: W/"b98ce9ce74a8ec46b9ad2aeb3cb7ed0ebfb38bf4a7a328445c60aca26be867be"
 discovery:
   method: 'fork-network:PalindromicBreadLoaf/ARMSX2-NX'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: PalindromicBreadLoaf/Yadokari
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

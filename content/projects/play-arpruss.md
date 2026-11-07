@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-10-01T14:34:40Z'
   url: 'https://github.com/arpruss/Play-/releases/tag/0.02'
 activity:
-  lastSynchronized: '2026-10-27T10:59:42.373Z'
+  lastSynchronized: '2026-11-07T02:49:59.772Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"be43870785d7c9b0345ed95aa1cfecf317f243a2a1fe7f9c81af271c74e6efd2"
+    releasesEtag: W/"2b8742020d976c61c15bb77826336fef42db513e401c9d5ffdbe8c60a337057b"
 discovery:
   method: 'fork-network:jpd002/Play-'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: jpd002/Play-
   source: jpd002/Play-
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

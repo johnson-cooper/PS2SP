@@ -14,8 +14,8 @@ tags:
   - fork
 features: []
 authors: []
-license: null
-homepage: null
+license: MIT
+homepage: 'https://decomp.wtf'
 source:
   provider: github
   repository: ianderse/decomp.wtf
@@ -23,10 +23,10 @@ source:
   url: 'https://github.com/ianderse/decomp.wtf'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-10-26T13:01:41Z'
 latestRelease:
   tag: null
   name: null
@@ -34,8 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-18T23:40:09.758Z'
+  lastSynchronized: '2026-11-07T02:48:42.874Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f981cb1ec0e513aad71dfd8ed6d8167a8311c887e59cec5b0d6cf60cc77c6d38"
+    releasesEtag: '"66580e2e5c97541a97f5eccf517b2285a1cf142e3029f5f841172d71e5b0149b"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75
@@ -51,5 +55,4 @@ relationships:
   forkOf: i12bp8/decomp.wtf
   source: i12bp8/decomp.wtf
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

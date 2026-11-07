@@ -20,7 +20,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 137
+  stars: 139
   forks: 10
   lastCommit: '2025-11-02T20:43:38Z'
 latestRelease:
@@ -31,12 +31,12 @@ latestRelease:
     https://github.com/sync-on-luma/xebplus-neutrino-loader-plugin/releases/tag/2.9.7
 activity:
   lastChecked: '2026-09-29T00:27:31.245Z'
-  lastSynchronized: '2026-10-09T02:11:24.838Z'
+  lastSynchronized: '2026-11-07T02:51:09.271Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0cb1dd7f8d438f23d17d71e010cad107bef823b0c778d576c7586ba3052ba7a6"
-    releasesEtag: W/"a243ef78c553027493e2242af5c73c579fef5470fa676290a2d1e0e4e8120969"
+    repoEtag: W/"4b45f9ac0c409961ad52a3ed3da5c05a72033ee8672967ce228dd954ff5aea6a"
+    releasesEtag: W/"485173f2cfa25a923a441362c17d31c4ae0bdf5b02eefa07c62aa81d05680464"
 discovery:
   method: github-search
   confidence: 100

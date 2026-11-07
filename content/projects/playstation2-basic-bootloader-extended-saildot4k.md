@@ -21,9 +21,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 20
-  forks: 0
-  lastCommit: '2026-10-08T07:13:25Z'
+  stars: 21
+  forks: 1
+  lastCommit: '2026-10-09T05:51:51Z'
 latestRelease:
   tag: v2.0.0
   name: PS2BBL Extended v2.0.0 beta
@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/saildot4k/PlayStation2-Basic-BootLoader-Extended/releases/tag/v2.0.0
 activity:
-  lastSynchronized: '2026-10-09T02:10:56.378Z'
+  lastSynchronized: '2026-11-07T02:50:02.722Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2be625a61a0f34ff5f0b9f30a295b8275b8c63d5315b26aa42fc2c57fd42dcbd"
-    releasesEtag: W/"0d5bdf77e1d42184f1e276b5bbb2de9d83bcfe05a729f01979efd4c411c84a25"
+    repoEtag: W/"93a12767a231929f20f7a9814bf4e40a081029696ad1209d612203a2e0c8c3d0"
+    releasesEtag: W/"b7a54e2ea61daefd37885b831738d67c4ffc9258591004714a8ff2d366005c7b"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

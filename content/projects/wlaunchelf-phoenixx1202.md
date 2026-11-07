@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2025-10-23T02:43:22Z'
   url: 'https://github.com/Phoenixx1202/wLaunchELF/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-09T02:11:24.425Z'
+  lastSynchronized: '2026-11-07T02:51:08.585Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"99af07a8969a49787e0900fe06885571a2ceae379f9229e588fc56d70d2da7f0"
-    releasesEtag: W/"8c9d7a8208dcfe3e4e633791894bc5984d9cff8e0e77b9e6b8854f1163933ede"
+    repoEtag: W/"9e6eaa396646144d225d0cab1a6f7cca0ca190f0c8ecd6d8768ba7b323f4fa2c"
+    releasesEtag: W/"44ae95dec995f01bbac87d15cf15842da78fe2e9507035fe515d0862d5cf5687"
 discovery:
   method: 'fork-network:ps2homebrew/wLaunchELF'
   confidence: 100
