@@ -23638,6 +23638,19 @@
         ]
       },
       {
+        "name": "bucanero/ps2vmc-tool — branch: fuse",
+        "url": "https://github.com/bucanero/ps2vmc-tool/tree/fuse",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "bucanero/ps2vmc-tool",
+          "fuse"
+        ]
+      },
+      {
         "name": "bucanero/ps2vmc-tool — branch: main",
         "url": "https://github.com/bucanero/ps2vmc-tool/tree/main",
         "keywords": [
@@ -192378,6 +192391,19 @@
         ]
       },
       {
+        "name": "YAGAMI55/udpfsd — branch: main",
+        "url": "https://github.com/YAGAMI55/udpfsd/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "YAGAMI55/udpfsd",
+          "main"
+        ]
+      },
+      {
         "name": "yagolasse/sm-recomp — branch: main",
         "url": "https://github.com/yagolasse/sm-recomp/tree/main",
         "keywords": [
@@ -192895,6 +192921,19 @@
           "repository",
           "YouKnow-sys/udpfs-server",
           "master"
+        ]
+      },
+      {
+        "name": "YouKnow-sys/udpfsd — branch: main",
+        "url": "https://github.com/YouKnow-sys/udpfsd/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "YouKnow-sys/udpfsd",
+          "main"
         ]
       },
       {
@@ -516921,6 +516960,51 @@
         ]
       },
       {
+        "name": "bucanero/ps2vmc-tool@fuse — samples",
+        "url": "https://github.com/bucanero/ps2vmc-tool/tree/fuse/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bucanero/ps2vmc-tool",
+          "fuse",
+          "samples"
+        ]
+      },
+      {
+        "name": "bucanero/ps2vmc-tool@fuse — web-ps1",
+        "url": "https://github.com/bucanero/ps2vmc-tool/tree/fuse/web-ps1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bucanero/ps2vmc-tool",
+          "fuse",
+          "web-ps1"
+        ]
+      },
+      {
+        "name": "bucanero/ps2vmc-tool@fuse — web-ps2",
+        "url": "https://github.com/bucanero/ps2vmc-tool/tree/fuse/web-ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "bucanero/ps2vmc-tool",
+          "fuse",
+          "web-ps2"
+        ]
+      },
+      {
         "name": "bucanero/ps2vmc-tool@main — samples",
         "url": "https://github.com/bucanero/ps2vmc-tool/tree/main/samples",
         "keywords": [
@@ -518718,6 +518802,21 @@
           "ButterscotchRunner/Butterscotch",
           "main",
           "src/android/frontend/app"
+        ]
+      },
+      {
+        "name": "ButterscotchRunner/Butterscotch@main — tools",
+        "url": "https://github.com/ButterscotchRunner/Butterscotch/tree/main/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ButterscotchRunner/Butterscotch",
+          "main",
+          "tools"
         ]
       },
       {
@@ -2246117,6 +2246216,21 @@
         ]
       },
       {
+        "name": "YAGAMI55/udpfsd@main — docs/wireshark",
+        "url": "https://github.com/YAGAMI55/udpfsd/tree/main/docs/wireshark",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "YAGAMI55/udpfsd",
+          "main",
+          "docs/wireshark"
+        ]
+      },
+      {
         "name": "yagolasse/sm-recomp@main — android",
         "url": "https://github.com/yagolasse/sm-recomp/tree/main/android",
         "keywords": [
@@ -2254439,6 +2254553,36 @@
           "Yotona/sly1",
           "transition",
           "tools/codematcher"
+        ]
+      },
+      {
+        "name": "YouKnow-sys/udpfsd@main — docs/wireshark",
+        "url": "https://github.com/YouKnow-sys/udpfsd/tree/main/docs/wireshark",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "YouKnow-sys/udpfsd",
+          "main",
+          "docs/wireshark"
+        ]
+      },
+      {
+        "name": "YouKnow-sys/udpfsd@main — server",
+        "url": "https://github.com/YouKnow-sys/udpfsd/tree/main/server",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "YouKnow-sys/udpfsd",
+          "main",
+          "server"
         ]
       },
       {
