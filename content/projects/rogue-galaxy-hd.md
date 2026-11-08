@@ -21,16 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-05T21:58:34Z'
+  lastCommit: '2026-11-06T01:24:43Z'
 latestRelease:
   tag: v0.1.0
   name: Rogue Galaxy HD 0.1.0
   publishedAt: '2026-11-05T21:58:35Z'
   url: 'https://github.com/mathisto/rogue-galaxy-hd/releases/tag/v0.1.0'
 activity:
-  lastSynchronized: '2026-11-06T00:33:31.672Z'
+  lastSynchronized: '2026-11-08T19:44:26.245Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"52a23bab7b14273087fec8cc83b60d6abcc14bcb7acba016db03d5c3ccf8e563"
+    releasesEtag: W/"2d7970751bf3c5ad192632b2876526bda34b4397b25b5d0cb4438a98268c3b63"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

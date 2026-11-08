@@ -21,16 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-06T16:08:30Z'
+  lastCommit: '2026-11-07T02:58:05Z'
 latestRelease:
-  tag: v0.1.0
-  name: Nook 0.1.0
-  publishedAt: '2026-11-06T16:22:11Z'
-  url: 'https://github.com/WilliamJohnDavisIII/nook/releases/tag/v0.1.0'
+  tag: v0.2.0
+  name: Nook 0.2.0
+  publishedAt: '2026-11-07T02:57:37Z'
+  url: 'https://github.com/WilliamJohnDavisIII/nook/releases/tag/v0.2.0'
 activity:
-  lastSynchronized: '2026-11-06T21:04:14.173Z'
+  lastSynchronized: '2026-11-08T19:43:14.402Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6dbd1f05d60c9e61da5c7105b4ae4f3e4f725b8c1da80185bc101a67f03da910"
+    releasesEtag: W/"c30f23f38581447a5ad366aa131edd6f270d08d40bbbef63d3bddd1cc2aaa432"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -43,5 +46,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -28,20 +28,20 @@ repository:
   defaultBranch: master
   stars: 73
   forks: 8
-  lastCommit: '2026-11-01T17:03:31Z'
+  lastCommit: '2026-11-06T02:54:10Z'
 latestRelease:
-  tag: 1.4.0
-  name: POPSLoader 1.4.0
-  publishedAt: '2026-10-28T11:55:09Z'
-  url: 'https://github.com/NathanNeurotic/POPSLoader/releases/tag/1.4.0'
+  tag: 1.4.1
+  name: POPSLoader 1.4.1
+  publishedAt: '2026-11-05T01:33:20Z'
+  url: 'https://github.com/NathanNeurotic/POPSLoader/releases/tag/1.4.1'
 activity:
   lastChecked: '2026-09-29T00:27:08.198Z'
-  lastSynchronized: '2026-11-01T19:41:38.527Z'
+  lastSynchronized: '2026-11-08T19:43:44.509Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4678fd2bacc9d4b7792ec7a2790cf582ab38ab8529f559f94ac72035e7a42948"
-    releasesEtag: W/"ab9e911c5be59ed8e2d117a6df29a8e5a51da5a34cb0d918a470df5e1db389e5"
+    repoEtag: W/"5f92182e9b23a2de1ccea6456834f8df9fe97d82563aa726b9d17ec5dac6dd30"
+    releasesEtag: W/"1a7ab89393fabbbf53b4def1e92e1d4f3aeef96731c62946264edd1ce726f42b"
 discovery:
   method: curated
   confidence: 100

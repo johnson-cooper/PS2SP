@@ -21,9 +21,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 112
-  forks: 3
-  lastCommit: '2026-10-23T21:42:07Z'
+  stars: 124
+  forks: 4
+  lastCommit: '2026-11-07T16:37:59Z'
 latestRelease:
   tag: f6dfd96
   name: DQ8Recomp f6dfd96
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/Sinan-Karakaya/DQ8-Recompiled/releases/tag/f6dfd96'
 activity:
   lastChecked: '2026-10-08T16:57:35.240Z'
-  lastSynchronized: '2026-11-01T19:40:40.749Z'
+  lastSynchronized: '2026-11-08T19:42:40.208Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"22f7bf9d61866203ace13fa6dff262cd8823f22ed078e626683e3701da84cf9e"
-    releasesEtag: W/"ac323d4df14d9cd1ea2ce3cb46b5da90e793a630140b0483edde9cd55ba7931b"
+    repoEtag: W/"5745dfb3994f1899d7e71df19dd92ab6d1445b57f197df421db5a59c45ed2f4d"
+    releasesEtag: W/"c7ade605afcf280a3ab060f8a9615d7c18497944c320ff20825f4a56260db3ef"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85

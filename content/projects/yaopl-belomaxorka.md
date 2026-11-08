@@ -36,12 +36,12 @@ latestRelease:
   publishedAt: '2026-11-01T09:27:11Z'
   url: 'https://github.com/yaopl/yaopl/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-01T19:42:26.100Z'
+  lastSynchronized: '2026-11-08T19:44:38.521Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ba745141c5cc8d182d6a94f59406f2a3970c8dbaeab2b61bf7e4baa2d9f6a625"
-    releasesEtag: W/"828daa2829d895395d3de6ca4b1f439aa0ff496113a7088b079c98e625d9400c"
+    repoEtag: W/"5bc080d3f6d1fd64c74b058b59619d04b26b70eff5b0520a6b23e72ff909979e"
+    releasesEtag: W/"f5da458121f58087f83db90e1de95e10aaa08196b0b1604c850bc41bef28bea5"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

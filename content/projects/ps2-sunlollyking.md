@@ -23,16 +23,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-29T21:22:59Z'
+  lastCommit: '2026-11-08T02:20:07Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T18:58:40.172Z'
+  lastSynchronized: '2026-11-08T19:43:58.309Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"deb02692cc9ffd161e1611e2256536b8c1920703680b56c113a9cb39ba813b03"
+    releasesEtag: '"2d77d78d9406dfdb04f6cdb831785e70ead0264c82109729acd315cd0faa00fd"'
 discovery:
   method: 'fork-network:libretro/parallel-ps2'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: libretro/parallel-ps2
   source: libretro/parallel-ps2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

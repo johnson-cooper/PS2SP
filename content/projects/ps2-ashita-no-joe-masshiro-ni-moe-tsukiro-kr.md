@@ -28,9 +28,12 @@ latestRelease:
   url: >-
     https://github.com/OldManCraveGuitars-bit/PS2-Ashita-no-Joe-Masshiro-ni-Moe-Tsukiro-Kr/releases/tag/v0.95
 activity:
-  lastSynchronized: '2026-11-08T16:20:16.333Z'
+  lastSynchronized: '2026-11-08T19:43:45.000Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c6fd9851183381129abac01f4db1f98a25c59fa2c83cdaa6e985e0c10014c022"
+    releasesEtag: W/"41a049f4a84434f369886e677f988732f92f39e4060c2d9ed71430f84a7559d2"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -45,5 +48,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

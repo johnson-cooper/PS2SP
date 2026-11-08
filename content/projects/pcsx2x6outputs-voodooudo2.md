@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-09-13T02:38:27Z'
   url: 'https://github.com/VooDooUdo2/pcsx2x6outputs/releases/tag/v0.02'
 activity:
-  lastSynchronized: '2026-11-05T02:48:15.523Z'
+  lastSynchronized: '2026-11-08T19:43:39.798Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a31bbc27d9977ef6cc32374755ab137c10af5b669d1d9b65b159f490ed1b32ca"
+    releasesEtag: W/"c57107daa15e6657abd5615e269bb6e583831505c8394248482d7ecc4f307a59"
 discovery:
   method: 'fork-network:PS2Homebrew-arcade/pcsx2x6'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: PS2Homebrew-arcade/pcsx2x6
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

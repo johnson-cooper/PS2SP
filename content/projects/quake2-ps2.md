@@ -24,7 +24,7 @@ repository:
   defaultBranch: main
   stars: 56
   forks: 14
-  lastCommit: '2026-11-01T14:18:38Z'
+  lastCommit: '2026-11-08T12:28:49Z'
 latestRelease:
   tag: v3.22
   name: Quake 2 PS2 - v3.22
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/glampert/quake2-ps2/releases/tag/v3.22'
 activity:
   lastChecked: '2026-09-29T00:27:14.376Z'
-  lastSynchronized: '2026-11-01T19:42:12.870Z'
+  lastSynchronized: '2026-11-08T19:44:22.286Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"001a55f3706b995c66cc09cea866989ef9895db9ab930f8e3f30dbd7775da14f"
-    releasesEtag: W/"a22e37d40a5549f4973cd7d106d029495d8933a81f3afd7a041d46396d96cb17"
+    repoEtag: W/"2fd0d36f795a16c7072a95612c673f9447710dd50a4703c2a52c3069bbcff1d8"
+    releasesEtag: W/"15c0d2c68de751b09fc344655751c7931efb5aedbedd19be20377fa281e0b157"
 discovery:
   method: curated
   confidence: 100

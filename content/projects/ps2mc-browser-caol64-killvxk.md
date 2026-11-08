@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-01T19:41:55.766Z'
+  lastSynchronized: '2026-11-08T19:44:04.410Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9d33d1f2951a130140daabd4ec97ee9575c851e59f584364c552e235e8699a85"
-    releasesEtag: '"77fced59e78595972d5ad73c99bf78e1bf7c3083a50bba7fc056d047e954f91c"'
+    repoEtag: W/"86dc83dee9632dff82aebdb76e0ab07f23d3164b020a47feafb6228cfd3befd5"
+    releasesEtag: '"2d77d78d9406dfdb04f6cdb831785e70ead0264c82109729acd315cd0faa00fd"'
 discovery:
   method: 'fork-network:caol64/ps2mc-browser'
   confidence: 100

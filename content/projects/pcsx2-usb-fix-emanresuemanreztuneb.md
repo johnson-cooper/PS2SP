@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-07T00:42:06Z'
   url: 'https://github.com/EmanresuEmanreztuneb/pcsx2_usb_fix/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-11-01T19:41:33.502Z'
+  lastSynchronized: '2026-11-08T19:43:38.623Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"492fb15daf22ce7cd5c7b8f6580a07195f41d1ef940ebb5b0d7cfee99a75d0d1"
-    releasesEtag: W/"56bd2b8b350ce2bcdb3e45977cf428501fea349d746963477ec7e10bb6cf94c6"
+    repoEtag: W/"f198a2b60dc76feb1323ff27270e604e8cb27eb41d45ec6db6c7ee6277b823d2"
+    releasesEtag: W/"76d662ac39b836b00f1f2405bd3104cfd4a60e23a671c6cb0728f6d568e6331e"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

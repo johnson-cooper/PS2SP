@@ -17,9 +17,9 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 490
+  stars: 492
   forks: 25
-  lastCommit: '2026-10-30T19:50:27Z'
+  lastCommit: '2026-11-06T15:15:33Z'
 latestRelease:
   tag: 0.20-alpha
   name: Iris 0.20-alpha
@@ -27,12 +27,12 @@ latestRelease:
   url: 'https://github.com/allkern/iris/releases/tag/0.20-alpha'
 activity:
   lastChecked: '2026-09-29T00:28:54.794Z'
-  lastSynchronized: '2026-11-01T19:40:56.664Z'
+  lastSynchronized: '2026-11-08T19:42:57.437Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b68037c9b02657927aeb7e368e48765884dfa54ab89a057a578dc522e7d59784"
-    releasesEtag: W/"baf0b2aaf45f5f03e85831fbd3e8f29a5e518d26eca7078c7711f90aba0d7aed"
+    repoEtag: W/"8b7b287525083a1c6cb39e46895bdf6e42a53d791a2a1e4e2e3e95ebdc4e7ae3"
+    releasesEtag: W/"4b28da8f70578890a452814b2b6b02409e089627ce0c3f5e07db9b064c97e241"
 discovery:
   method: github-search
   confidence: 100
