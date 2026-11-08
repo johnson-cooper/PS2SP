@@ -1,0 +1,16 @@
+{
+  "repository": "mostdak1ng/The-Warriors-Freecam-Android",
+  "repositoryId": "1341404352",
+  "url": "https://github.com/mostdak1ng/The-Warriors-Freecam-Android",
+  "description": "Free camera, on-screen coordinates, world pause, God mode and player carry for The Warriors (PS2), as a single .pnach that runs inside the emulator - on Android as well as desktop PCSX2.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-08T09:29:03.897Z",
+  "checkedAt": "2026-11-08T09:29:03.897Z"
+}
