@@ -19,7 +19,7 @@ source:
 repository:
   archived: false
   defaultBranch: v1.3.X
-  stars: 14
+  stars: 13
   forks: 2
   lastCommit: '2026-08-18T18:34:33Z'
 latestRelease:
@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-08-18T18:37:19Z'
   url: 'https://github.com/saildot4k/R3CONFIGURATOR/releases/tag/v1.3.2'
 activity:
-  lastSynchronized: '2026-11-03T15:10:39.078Z'
+  lastSynchronized: '2026-11-08T15:14:50.232Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"04d4918cd348a2228277a89b9406bc3a17653f1b7022767f30af6414c78ffbdf"
-    releasesEtag: W/"315cb4999aeb8e5cf07b3d5984767e05b1412846eea557caee2bca92359d68f5"
+    repoEtag: W/"2cbd8198ab4e2cc835373b19c4b8f5a698937b153a5599f0cc6e764c70c0151b"
+    releasesEtag: W/"f1c5e9d2dcfd67d7d95d3a6f4b9b02592f35ba8d96f4fc44993d28d497073dc4"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

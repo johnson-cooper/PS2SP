@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-03T15:09:17.977Z'
+  lastSynchronized: '2026-11-08T15:13:51.090Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b4e92871bc89f83e4fab5f5587206e9fc0729a63d9006c712d09fbbfabae33d6"
-    releasesEtag: '"deab86ed32521bf0446e176d22353df10f44628a8482ca1f7c8577cb92cc9d0e"'
+    repoEtag: W/"25616a6f81caa8e5a7994e5834136ff708965706fe831963f6aaafa94f29688c"
+    releasesEtag: '"92e2f2afde06cfa79fae294d94e1123ac5d56a202679866d4fecc6991c5d3df0"'
 discovery:
   method: 'fork-network:LucianoDoS/oot-ps2'
   confidence: 100

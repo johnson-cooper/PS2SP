@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: '2025-05-07T18:48:30Z'
   url: 'https://github.com/israpps/ps2sdk/releases/tag/IRX_debug'
 activity:
-  lastSynchronized: '2026-11-03T15:10:25.604Z'
+  lastSynchronized: '2026-11-08T15:14:40.102Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a7f55e92b044d604def0ae8e29fc83499325d710faa759a9642692641a33a7d7"
-    releasesEtag: W/"e53f28f1ed8dafd9d3f9c2aa5bf315afff97a409a800449dfa742ee5c46fa985"
+    repoEtag: W/"0ae20f391092a24b7e76fc0701dc58a3d78d6202a35a2748c84f56eee5e6f880"
+    releasesEtag: W/"019da015105d2d5ae99e440a264d84c887169151198289f9488bf1996e4634f3"
 discovery:
   method: 'fork-network:ps2dev/ps2sdk'
   confidence: 100

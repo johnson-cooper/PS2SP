@@ -18,7 +18,7 @@ source:
 repository:
   archived: false
   defaultBranch: wOPL-base
-  stars: 1
+  stars: 0
   forks: 0
   lastCommit: '2026-04-30T01:09:59Z'
 latestRelease:
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-03T15:10:54.348Z'
+  lastSynchronized: '2026-11-08T15:15:00.989Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"deba27a2504dcd5cae3bb762d6ad4fbbf11c30a8a3deb3ea05c9825a424e7bde"
-    releasesEtag: '"deab86ed32521bf0446e176d22353df10f44628a8482ca1f7c8577cb92cc9d0e"'
+    repoEtag: W/"cc68d963ce6fb98c9e6e0513c75806959f6619ded8ff29abff2a9382baad983a"
+    releasesEtag: '"92e2f2afde06cfa79fae294d94e1123ac5d56a202679866d4fecc6991c5d3df0"'
 discovery:
   method: curated-owner
   confidence: 100

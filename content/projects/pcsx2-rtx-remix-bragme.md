@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-09-28T16:19:15Z'
   url: 'https://github.com/BRAGme/pcsx2-rtx-remix/releases/tag/remix-preview-5'
 activity:
-  lastSynchronized: '2026-11-03T15:09:47.012Z'
+  lastSynchronized: '2026-11-08T15:14:12.005Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8ae4c1f84a42ec4a61cb1d5f3ae69d3ad15fa66b698eee55519f2394bded59c1"
-    releasesEtag: W/"cb11608c4fb3ee8d9fa0d3a0cbeab3fe569e543eb3876a7bbbf30b29eefffffa"
+    repoEtag: W/"7053bb868709f741b978cb5059b228b2465a3ee1364b01934bd4c3f4ec29dee5"
+    releasesEtag: W/"ef82af79a616f342918aa0edc1908998c8e97c4e68b0fe9c35c69c85801a8349"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

@@ -23,16 +23,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-07T22:27:36Z'
+  lastCommit: '2026-11-08T04:34:09Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.8.0
+  name: Galaxy Angel 2 PC 0.8.0
+  publishedAt: '2026-11-08T04:34:14Z'
+  url: 'https://github.com/ObeseCatLord/galaxy-angel-2-pc/releases/tag/v0.8.0'
 activity:
-  lastSynchronized: '2026-11-07T23:01:36.469Z'
+  lastSynchronized: '2026-11-08T15:13:27.875Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"63784412f1962525c4011a80c543d4a23ebeed94184ddabed829d55c573d288e"
+    releasesEtag: W/"fa734892a024900a92b9a4c8a62a5eafe847893b1db64d47cea99df0f3d8a814"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -45,5 +48,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

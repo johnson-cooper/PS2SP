@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-08T09:29:03.897Z'
+  lastSynchronized: '2026-11-08T15:14:20.106Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"87e35e17a414a8af062989d037415fc134c7cf63fb1fd1675a56df6fde362f1a"
+    releasesEtag: '"92e2f2afde06cfa79fae294d94e1123ac5d56a202679866d4fecc6991c5d3df0"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: NathanNeurotic/POPSLoader
   source: DanielSant0s/Enceladus
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
