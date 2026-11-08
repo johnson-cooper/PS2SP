@@ -1,0 +1,21 @@
+{
+  "repository": "vibewriter-hand/Awesome-REA",
+  "repositoryId": "1449869548",
+  "url": "https://github.com/vibewriter-hand/Awesome-REA",
+  "description": "Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.",
+  "score": 75,
+  "evidence": [
+    "README explicitly mentions PlayStation 2",
+    "README contains PS2 development/toolchain evidence",
+    "GitHub fork of another repository"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": {
+    "parent": "reacher-z/Awesome-REA",
+    "source": "reacher-z/Awesome-REA",
+    "aheadBy": null
+  },
+  "discoveredAt": "2026-11-08T02:43:01.487Z",
+  "checkedAt": "2026-11-08T02:43:01.487Z"
+}
