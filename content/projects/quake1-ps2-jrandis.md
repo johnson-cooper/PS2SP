@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-30T01:01:28.273Z'
+  lastSynchronized: '2026-11-08T00:37:51.494Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0a05d3bdb2a4c5f9e9ffe617e14bb50d6367a7ab2846ddb529da8fa8dfaec6d9"
-    releasesEtag: '"80399694c75a8c644d0249a64c161ba58684a2b10dc101339d615790d812c8b6"'
+    repoEtag: W/"7d229e1aec51d9da7bac87f3d08fb27a6f4c34ec20f1207d39497ab704fcb4d4"
+    releasesEtag: '"16473d649f768214514c512b7be0be3277466c8f8f99dd19d61ab7fc23e84735"'
 discovery:
   method: 'fork-network:ps2homebrew/quake1_ps2'
   confidence: 100

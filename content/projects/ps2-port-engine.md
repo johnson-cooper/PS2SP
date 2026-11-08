@@ -24,21 +24,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 10
-  forks: 6
-  lastCommit: '2026-10-28T05:51:37Z'
+  stars: 11
+  forks: 7
+  lastCommit: '2026-11-06T09:25:15Z'
 latestRelease:
   tag: v0.7.0
   name: ps2-port-engine v0.7.0
   publishedAt: '2026-10-15T11:13:33Z'
   url: 'https://github.com/danielgomesvieira2000/ps2-port-engine/releases/tag/v0.7.0'
 activity:
-  lastSynchronized: '2026-10-30T01:01:00.174Z'
+  lastSynchronized: '2026-11-08T00:37:23.834Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5a46fafd3d034333dfeca007c47ef12235464cb59872a6e9e6d7c3fae8c1a3e8"
-    releasesEtag: W/"0911660e056023330b316a1f0416c4625af06ba9ef9c641814160fdded3732cb"
+    repoEtag: W/"f6c5fb51ab3031c74dee3eb916446d9b6c006d151791948cd1d28013186466e5"
+    releasesEtag: W/"3fcf3d6fc42cb7869490398361edcc4d194e95ab72c625faafaea45a7da3385f"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 95

@@ -37,12 +37,12 @@ latestRelease:
   publishedAt: '2022-02-06T15:14:06Z'
   url: 'https://github.com/milouk/wLaunchELF_ISR/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-30T01:01:46.229Z'
+  lastSynchronized: '2026-11-08T00:38:09.159Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0e78fa4ce4ec7c54b9e2faf2e1b33408b4617925d985177b2a931761c096ec47"
-    releasesEtag: W/"66ed803de61b6a62a062067d8e32506a0a913dce6dddee4d49fe87554197c275"
+    repoEtag: W/"ff53b4d7a9c249253393f8d4036f066c5f135641b4dcc74a2d19904399f91d59"
+    releasesEtag: W/"ab14054b313387c1d8cc5dae55c71a8fda08cfab23024876b8e4ff4ec68c9ea9"
 discovery:
   method: 'fork-network:israpps/wLaunchELF_ISR'
   confidence: 95

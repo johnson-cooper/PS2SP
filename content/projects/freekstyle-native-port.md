@@ -13,7 +13,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -22,19 +22,23 @@ source:
   url: 'https://github.com/Broly1/freekstyle-native-port'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: master
+  stars: 2
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-04T15:06:55Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: '0.9'
+  name: ''
+  publishedAt: '2026-11-01T04:16:37Z'
+  url: 'https://github.com/Broly1/freekstyle-native-port/releases/tag/0.9'
 activity:
   lastChecked: '2026-11-01T15:27:55.749Z'
+  lastSynchronized: '2026-11-08T00:36:20.813Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"adf86a041f2f56da66a30ce0b37e611b50edf91241fd9c34af3b549522a55f24"
+    releasesEtag: W/"8c90c472b9dd9f239134288e2068e60c8023766d179a38f455955d3a44db793a"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80
@@ -47,5 +51,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

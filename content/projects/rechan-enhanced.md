@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/luckvice/ReChan-Enhanced/releases/tag/v1.0.0-beta5_PSP'
 activity:
   lastChecked: '2026-10-19T23:56:10.760Z'
-  lastSynchronized: '2026-10-30T01:01:30.419Z'
+  lastSynchronized: '2026-11-08T00:37:54.960Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"db0f4081039df39aa88b76b0f8d776f04c68bfe15eaad4e3e2f8b4d3e33f001e"
-    releasesEtag: W/"993fd49e44fe1ea7decf0d32695fb4be8103e603022f95a3354d13aaaa46f97f"
+    repoEtag: W/"d91ce3cba1953f90818adf8e1f4083efb7494326a746ba9f0600c48bfc551ebb"
+    releasesEtag: W/"945cc31866dfcb38d1ecc2bb77adaa0407e48c2028011f00d9ae0b9b1e4e29cc"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85

@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-11-06T17:38:12Z'
   url: 'https://github.com/ZonalRipper/PS2-ISO-Manager/releases/tag/0.1beta'
 activity:
-  lastSynchronized: '2026-11-06T21:04:14.173Z'
+  lastSynchronized: '2026-11-08T00:37:21.208Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"19cc07741e151f3257fac2d5618b1fc9b03441c0f8d3310ff8f3c0b35c0a5681"
+    releasesEtag: W/"f5b3611554a92c96747c16695174b3b2a15629a03970db73a451402b22468bbe"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -42,5 +45,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

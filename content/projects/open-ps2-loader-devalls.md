@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2024-06-04T16:32:19Z'
   url: 'https://github.com/devalls/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-30T01:00:21.746Z'
+  lastSynchronized: '2026-11-08T00:36:47.637Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e67d91bfdc80b95d2bebd1518e0fb8a8cef615fafe1d374cff44dc0c2b02a701"
-    releasesEtag: W/"7192bfaed2b33da19485ef5408e023c8d465ae7f32ffb88cfca6c14333ddeb21"
+    repoEtag: W/"010e7c99052e06f2f1b0e7bfb07c26182ccb1added5fa4b9321966caa8dd5eed"
+    releasesEtag: W/"37159ca3bfb314d400baf78b36708e99d9ede10592323384c52de1d504f8e7dc"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

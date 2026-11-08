@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-02T15:20:22.952Z'
+  lastSynchronized: '2026-11-08T00:36:32.872Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2329d893ea8babcb5e4c9efaceb645b59a8a02eec5ff5a241393759907f2bb6e"
+    releasesEtag: '"16473d649f768214514c512b7be0be3277466c8f8f99dd19d61ab7fc23e84735"'
 discovery:
   method: 'fork-network:jimmyBizMobile/jellyfin-ps2'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: jimmyBizMobile/jellyfin-ps2
   source: jimmyBizMobile/jellyfin-ps2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

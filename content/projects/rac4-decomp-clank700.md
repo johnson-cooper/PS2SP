@@ -21,16 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-29T12:11:26Z'
+  lastCommit: '2026-11-06T06:10:55Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-01T23:54:36.997Z'
+  lastSynchronized: '2026-11-08T00:37:53.813Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"3daa9fba024a1e57b2daf233f897ae9657a53577327ccdef9cc06540acd3c30f"
+    releasesEtag: '"16473d649f768214514c512b7be0be3277466c8f8f99dd19d61ab7fc23e84735"'
 discovery:
   method: 'fork-network:OpenRAC/rac-deadlocked-decomp'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: OpenRAC/rac4-decomp
   source: OpenRAC/rac4-decomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

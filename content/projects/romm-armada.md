@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-27T18:53:08Z'
+  lastCommit: '2026-11-04T07:03:20Z'
 latestRelease:
-  tag: v0.4.0
-  name: RomM Armada 0.4.0
-  publishedAt: '2026-10-27T18:53:08Z'
-  url: 'https://github.com/abduznik/romm-armada/releases/tag/v0.4.0'
+  tag: v0.4.1
+  name: RomM Armada 0.4.1
+  publishedAt: '2026-11-04T07:03:20Z'
+  url: 'https://github.com/abduznik/romm-armada/releases/tag/v0.4.1'
 activity:
-  lastSynchronized: '2026-10-30T01:01:35.060Z'
+  lastSynchronized: '2026-11-08T00:37:59.033Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d3378872a22c914b8cd1ba309d625d824975aa4ef8c37841ef29366272996784"
-    releasesEtag: W/"3a0278135bd20b8c5fd3b6e937fdffb0c84e1192b055198f607a0c6fe6facaba"
+    repoEtag: W/"10f2908cccd606728ad9d398b5ab2422e7a5768292d1de998327626e24e99459"
+    releasesEtag: W/"14c50bacbd5250afb2fcbabe74341f3ba7d4c11346f80aed372fb4c78cf4fbef"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

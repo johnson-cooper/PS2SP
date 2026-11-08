@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2024-08-15T23:08:45Z'
   url: 'https://github.com/GDX-X/Universal-PS-X-Serial-ID/releases/tag/1.1'
 activity:
-  lastSynchronized: '2026-10-30T01:01:43.378Z'
+  lastSynchronized: '2026-11-08T00:38:06.709Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ac342d151f34a09d7d6964cb9ed3c5f3bc631498263326777b9d2dca483a3aaf"
-    releasesEtag: W/"cf44034d9fda66af5e0da504a9167b9a2300e06875018c8cf20e397bdfe08db9"
+    repoEtag: W/"10245e05b2c311dbae3ef91b7db3573bda83e8b6e587478f920562d0fbf0cc95"
+    releasesEtag: W/"5bb0627bf9dc7533e1daaa54f64abcd1c9c86461e452496b3617db503eda1f72"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

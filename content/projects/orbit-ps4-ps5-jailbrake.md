@@ -22,23 +22,23 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
-  forks: 0
-  lastCommit: '2026-10-28T22:46:00Z'
+  stars: 3
+  forks: 2
+  lastCommit: '2026-11-01T15:27:59Z'
 latestRelease:
-  tag: Jailbrake
-  name: OrbitV.1
-  publishedAt: '2026-10-26T21:57:12Z'
+  tag: FIXrelease
+  name: 'Orbit V2 New Release FIX '
+  publishedAt: '2026-11-01T15:28:00Z'
   url: >-
-    https://github.com/angelicaunt/ORBIT-Ps4-Ps5-Jailbrake/releases/tag/Jailbrake
+    https://github.com/angelicaunt/ORBIT-Ps4-Ps5-Jailbrake/releases/tag/FIXrelease
 activity:
   lastChecked: '2026-10-27T00:05:09.259Z'
-  lastSynchronized: '2026-10-30T01:00:34.412Z'
+  lastSynchronized: '2026-11-08T00:36:58.480Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"020659e92ff6038ec6f2fe0b267861f63ad1459c50aa8552cbe36b67e7cefb32"
-    releasesEtag: W/"d0d580209de174c1e1c40b59a30b2ef25a46ad11cb2548a62dfbd2459b0671f6"
+    repoEtag: W/"9e372f9a21e10833fd5abe95244000191beae36ee1accaa5ad67f10850a3fa7a"
+    releasesEtag: W/"b84327359e7cf13cc33d34affe0a9bbf23099fa8035635bb51cdedfbdd11cefa"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 90

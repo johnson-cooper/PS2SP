@@ -20,16 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-30T19:16:39Z'
+  lastCommit: '2026-11-07T08:24:59Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T02:48:15.523Z'
+  lastSynchronized: '2026-11-08T00:37:10.248Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7e2b7cebd9f90036570b0afddf115c53c99e4f845c71a8d28918ca94ea3ca9d1"
+    releasesEtag: '"16473d649f768214514c512b7be0be3277466c8f8f99dd19d61ab7fc23e84735"'
 discovery:
   method: 'fork-network:PS2Homebrew-arcade/pcsx2x6'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: PS2Homebrew-arcade/pcsx2x6
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

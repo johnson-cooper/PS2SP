@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2022-04-20T01:59:04Z'
   url: 'https://github.com/israpps/ROMIMG/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-10-30T01:01:34.604Z'
+  lastSynchronized: '2026-11-08T00:37:58.640Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"30fb610c6ddafab0dfb02bbf61c8a6778ab3553b7be26b6472470b3d4b2eae5e"
-    releasesEtag: W/"a2c5e65395fcb228c52e8e94b4ce1f3ce1bd19fdbff2f382847a1aea9d75655e"
+    repoEtag: W/"2269fb0fff0c806a6142bdfd0ca485f9d3220ade5c3090bc447411e9945b92aa"
+    releasesEtag: W/"9c33aabacebbff6b623bd98e90e03d570a678166401e349af137a9cebfe555af"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
