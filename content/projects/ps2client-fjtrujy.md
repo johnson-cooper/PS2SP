@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2020-12-29T12:34:35Z'
   url: 'https://github.com/fjtrujy/ps2client/releases/tag/%22refs/tags/v1.2%22'
 activity:
-  lastSynchronized: '2026-11-01T07:33:42.143Z'
+  lastSynchronized: '2026-11-08T07:22:14.803Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"75362841c3361ff1132430fa083566bff078a13d52f71583a13e47c015407f74"
-    releasesEtag: W/"b1730523733abd02f272245eadb8bc27204d95c4452bbdd3e68c32c0a34815e3"
+    repoEtag: W/"7a9e1cceaa49d00cf9562066414fb23da3544c91bfe39ce54d755f6d1e55d54e"
+    releasesEtag: W/"f042f0d132632589b3adc4215a4ca164c4381282a8640a0724271ec9aef255fa"
 discovery:
   method: 'fork-network:ps2dev/ps2client'
   confidence: 95

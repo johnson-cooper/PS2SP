@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 3
   forks: 0
   lastCommit: '2026-11-06T13:24:54Z'
 latestRelease:
@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: '2026-11-05T19:33:19Z'
   url: 'https://github.com/AETHER-AR/aether-ar/releases/tag/v1.0.14'
 activity:
-  lastSynchronized: '2026-11-06T15:23:40.503Z'
+  lastSynchronized: '2026-11-08T07:20:49.654Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a7de75dee386e7a472d3672ed3fb183e74bfa194790c69c12b8fcc1184b3ea72"
+    releasesEtag: W/"9fb79f561b585cf624939d8d7ef11028b9988e7f86628a3e5f7f2ecb25ee0b56"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -46,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

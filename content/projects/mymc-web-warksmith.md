@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-06T07:24:38.594Z'
+  lastSynchronized: '2026-11-08T07:21:31.195Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"06fa80d7fcb9f3fe8f94663a81c6d5a2ccd3596cc6ffddcec4e9e9073e30c654"
+    releasesEtag: '"d74739b5b55bb7861259cdc7802b48f20c2b7cb51c27157df555e44d97bb176d"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: BAD-AL/mymc_web
   source: BAD-AL/mymc_web
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

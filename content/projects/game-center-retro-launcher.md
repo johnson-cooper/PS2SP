@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: '2026-09-29T02:25:06Z'
   url: 'https://github.com/2ez4gcx/game-center-retro-launcher/releases/tag/v0.2.0'
 activity:
-  lastSynchronized: '2026-11-03T15:28:56.039Z'
+  lastSynchronized: '2026-11-08T07:21:09.016Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ee5f47d2beaf08aea7ffc2187d4d40ac18b0a67390958bf258bb01969f1bd8c7"
+    releasesEtag: W/"5866dc6a12e302939cadde445d3f94d7c9bb0a186a038da770be3857b24fda90"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -47,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
