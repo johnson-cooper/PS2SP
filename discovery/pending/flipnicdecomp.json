@@ -1,0 +1,15 @@
+{
+  "repository": "MarkusMaal/FlipnicDecomp",
+  "repositoryId": "1139721370",
+  "url": "https://github.com/MarkusMaal/FlipnicDecomp",
+  "description": "Partial decompilation of Flipnic (video game) for file format and cheat code research purposes.",
+  "score": 75,
+  "evidence": [
+    "PS2-specific topic"
+  ],
+  "origin": "incremental:topic:ps2",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-08T16:20:16.333Z",
+  "checkedAt": "2026-11-08T16:20:16.333Z"
+}
