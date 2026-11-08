@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-06T23:09:29.596Z'
+  lastSynchronized: '2026-11-08T23:44:24.650Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5344e19190893be5d716c4a0019525b704f0cba20ba13330f1393cdd709a1d93"
-    releasesEtag: '"ce4ebce7ab0f1cc79798ee16e2c0700380bb19242258ba8659c7fd65fbd1c1f6"'
+    repoEtag: W/"a723f332b46b333f819562d858e5d64851b24d82542525df8727c3cd688f6511"
+    releasesEtag: '"4005231bffdbdb5a011efd68a7b178927da97ecc27946b720ce15f1d0a3adf03"'
 discovery:
   method: 'fork-network:TamaribaEmu/OpenPS2BIOS'
   confidence: 100

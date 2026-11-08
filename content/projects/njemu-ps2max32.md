@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-07T07:47:24.766Z'
+  lastSynchronized: '2026-11-08T23:44:15.464Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f6d6a7964dab4f287e3c835c874263a4da4f20e732139adaadcdadcc4a6f413d"
+    releasesEtag: '"4005231bffdbdb5a011efd68a7b178927da97ecc27946b720ce15f1d0a3adf03"'
 discovery:
   method: 'incremental:ps2sdk in:name,description,readme'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: fjtrujy/NJEMU
   source: phoe-nix/NJEMU
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

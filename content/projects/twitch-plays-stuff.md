@@ -27,12 +27,12 @@ latestRelease:
   url: >-
     https://github.com/WhatAboutGaming/Twitch-Plays-Stuff/releases/tag/v1.9.14-alpha
 activity:
-  lastSynchronized: '2026-11-06T23:10:41.932Z'
+  lastSynchronized: '2026-11-08T23:45:30.921Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b06d13469c37498dfbe1445ef493d5d0fa05fcc68701d5cc3b2819c9006e8959"
-    releasesEtag: W/"0a645d3a00981d03d591233b38dcb44c5ee7dfbb89ef0b34ec1cee3b8e799351"
+    repoEtag: W/"4bcd4226c7c9920b51f3c737b36ac5eb2555733b9e0ebda300f3bd06bbde1668"
+    releasesEtag: W/"5ddfd110f3745ac5a9ff80af22646423ee1a8235c4056b145ab2345b4892e5d8"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

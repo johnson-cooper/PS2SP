@@ -25,7 +25,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 15
+  stars: 17
   forks: 1
   lastCommit: '2026-11-02T17:00:03Z'
 latestRelease:
@@ -35,12 +35,12 @@ latestRelease:
   url: 'https://github.com/dvilelaf/battlestadium-don/releases/tag/v1.0'
 activity:
   lastChecked: '2026-11-02T15:20:22.952Z'
-  lastSynchronized: '2026-11-06T23:08:31.074Z'
+  lastSynchronized: '2026-11-08T23:43:26.814Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"761cf142b83ec93b07bc83089bc310bfe0faead4588f08348e634ff16bd96e88"
-    releasesEtag: W/"d643c592fa5252c05b389eb63704e284016d0e48a5d99415a965f2d6f00be91e"
+    repoEtag: W/"021d221e1415276316b887e81745db8ffe028375d90ba2143db3b19111c060e4"
+    releasesEtag: W/"df87990884a70019458ceca6eee8bc57e89b842cef340c9627bae8b7481cd8e1"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

@@ -16,7 +16,7 @@ license: GPL-3.0
 homepage: null
 source:
   provider: github
-  repository: mateuszklysz/rac2-decomp
+  repository: nickyyOO/rac2-decomp
   repositoryId: '1448185067'
 repository:
   archived: false
@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-06T23:10:33.172Z'
+  lastSynchronized: '2026-11-08T23:45:23.461Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"27f130b8dffcfd08a8674fe3f0afecd614fb21ec4e9a73ebb5154f6619f1c170"
-    releasesEtag: '"ce4ebce7ab0f1cc79798ee16e2c0700380bb19242258ba8659c7fd65fbd1c1f6"'
+    repoEtag: W/"353cbdb30c6c7e12d89a384ae0ba848f686897afc7a29e20909bc02fb3ef48f7"
+    releasesEtag: '"4005231bffdbdb5a011efd68a7b178927da97ecc27946b720ce15f1d0a3adf03"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

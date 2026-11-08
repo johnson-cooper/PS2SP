@@ -23,18 +23,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 8
   forks: 0
-  lastCommit: '2026-11-08T06:22:06Z'
+  lastCommit: '2026-11-08T21:49:51Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.3.0
+  name: 'Castlevania: Curse of Darkness - Native PC Port v1.3.0'
+  publishedAt: '2026-11-08T21:49:51Z'
+  url: 'https://github.com/fasipe/Castlevania-COD-QOL/releases/tag/v1.3.0'
 activity:
-  lastSynchronized: '2026-11-08T09:29:03.897Z'
+  lastSynchronized: '2026-11-08T23:43:29.767Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6652438eb158ae942c0b903aeee261fb9a3bab4d7ec68a9eb509448c4c8fefac"
+    releasesEtag: W/"4230a4414e249ffd02e0922e8b9b3d19f0a7db0293e21093bb16e5ff549584d0"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -47,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

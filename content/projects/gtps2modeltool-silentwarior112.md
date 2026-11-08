@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-06T23:08:58.006Z'
+  lastSynchronized: '2026-11-08T23:43:53.069Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2ed1bd1f06d36eab9be9049f5b368423ec2b63ddf25baffbbd315bb29c769c90"
-    releasesEtag: '"ce4ebce7ab0f1cc79798ee16e2c0700380bb19242258ba8659c7fd65fbd1c1f6"'
+    repoEtag: W/"96c3d1f6c5388bdd4a7c5d96f5175e92c30e30368ca043ca19ef6e1e1368cdac"
+    releasesEtag: '"4005231bffdbdb5a011efd68a7b178927da97ecc27946b720ce15f1d0a3adf03"'
 discovery:
   method: 'fork-network:Nenkai/GTPS2ModelTool'
   confidence: 95

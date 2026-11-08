@@ -20,7 +20,7 @@ source:
 repository:
   archived: false
   defaultBranch: feature/3d-screenshot-v2.8.2
-  stars: 0
+  stars: 1
   forks: 0
   lastCommit: '2026-09-17T12:10:09Z'
 latestRelease:
@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-09-17T12:10:09Z'
   url: 'https://github.com/429Enjoyer/pcsx2-3d-ripper/releases/tag/v2.8.2'
 activity:
-  lastSynchronized: '2026-11-06T23:09:35.091Z'
+  lastSynchronized: '2026-11-08T23:44:29.895Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"429ed1307de0981bd888543b2e363bff82eb3b98d1acba511618a38c067bcdae"
-    releasesEtag: W/"b4cf4a5589c1b1d6791106e9e1cc54ff4e53d8316f050f44075edbfe29d970be"
+    repoEtag: W/"97e372443eaf4873e43641bd77a339a36519d87af1a87ca2f61be18a4db937c0"
+    releasesEtag: W/"7600ef8b1ce915230dade79812ddf6283023c32c7f10f6c25d7dcad79dd22c50"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 95

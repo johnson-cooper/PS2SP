@@ -23,19 +23,20 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-11-06T00:04:45Z'
+  lastCommit: '2026-11-07T21:55:53Z'
 latestRelease:
-  tag: tiny3d-control-7-1
-  name: Tiny3D Control tiny3d-control-7-1
-  publishedAt: '2026-11-06T00:04:46Z'
-  url: 'https://github.com/khant735/PS3-PSU-Manager/releases/tag/tiny3d-control-7-1'
+  tag: tiny3d-verified-10-1
+  name: Verified Tiny3D tiny3d-verified-10-1
+  publishedAt: '2026-11-07T15:24:06Z'
+  url: >-
+    https://github.com/khant735/PS3-PSU-Manager/releases/tag/tiny3d-verified-10-1
 activity:
-  lastSynchronized: '2026-11-06T23:10:27.356Z'
+  lastSynchronized: '2026-11-08T23:45:17.956Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"38d512437fb60e34a6df9e42d564cd062aed366abe0a32624b1070cbf9ca285c"
-    releasesEtag: W/"97b7f3fd1722a47412ab958f151c50853d6d1443be2b16f486dfe922986296cd"
+    repoEtag: W/"18b5c371ef38a8137bb8f6d2c2ccb7f815921df118bd276451e8d2c78f069760"
+    releasesEtag: W/"99f0a300febcd080625693d88b36ea94dbe48076412a2fea1ad72c658d407b2b"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
