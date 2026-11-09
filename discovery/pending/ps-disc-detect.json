@@ -1,0 +1,16 @@
+{
+  "repository": "Tripop123/ps-disc-detect",
+  "repositoryId": "1321720193",
+  "url": "https://github.com/Tripop123/ps-disc-detect",
+  "description": "Detect PS4/PS5 optical drive discs, log profile and title IDs, and dump PS1/PS2/PS3 discs to /data.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-09T17:49:29.472Z",
+  "checkedAt": "2026-11-09T17:49:29.472Z"
+}
