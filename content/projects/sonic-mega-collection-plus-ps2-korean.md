@@ -27,12 +27,12 @@ latestRelease:
   url: >-
     https://github.com/nonunsaram/sonic-mega-collection-plus-ps2-korean/releases/tag/v1.0.0
 activity:
-  lastSynchronized: '2026-11-06T17:32:34.914Z'
+  lastSynchronized: '2026-11-09T17:31:45.258Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5b55338937f8d07304043727a46fcfc8a22a36c49ac556576f321e924642da1d"
-    releasesEtag: W/"1aef50a50f93d12287e69e73edd4fae3cd815830b33613343b3bf07f36e76f6d"
+    repoEtag: W/"43960058de3ba7cff578107f79ba49fb0c4ae9b6b077bfacc9bf8bee5b2f7e66"
+    releasesEtag: W/"9381fb4edcdc2a0699462040792268d7580b62dd435b026566530c5356d7703f"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

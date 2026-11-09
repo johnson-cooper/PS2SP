@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-06T17:30:16.809Z'
+  lastSynchronized: '2026-11-09T17:29:30.642Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9e7b228e9ae985130fc5e9f3d3a01f657efa698ab7d44ae382fbaca3a858af9b"
-    releasesEtag: '"5728c5463282b62da321618a8dc7a8180d3e7f492d10c28b3e9aeadc9676e3dd"'
+    repoEtag: W/"eaf5bc4e3b49c5dae6b7328330d9f8024acd9ae426017d3fc58cacd6746e38f7"
+    releasesEtag: '"1b07a5f20096cf9b5a1d413c9a9567ef7d1120a01238e1a61c91dfa57f6d8b7a"'
 discovery:
   method: 'fork-network:Sinan-Karakaya/DQ8-Recompiled'
   confidence: 100

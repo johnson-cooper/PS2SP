@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-07-17T23:17:37Z'
   url: 'https://github.com/Zedb0T/jak-project/releases/tag/sm64jak-v0.0.6'
 activity:
-  lastSynchronized: '2026-11-06T17:30:38.099Z'
+  lastSynchronized: '2026-11-09T17:29:52.750Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7b7995e16f1f1948f5649959ee6771501e331c5653619f0567a10fe6a4864af6"
-    releasesEtag: W/"2c72b77741de45882402da082a46153b74db09d7e2faf15fc52b3b8a8ae3e2e6"
+    repoEtag: W/"d85906fbaebab67a95418d50ed6f15a9f8f3d27d329e158f4679a93b68c536e3"
+    releasesEtag: W/"34376fab78f3e27e2d2c6a7d6f9ebfb25fa632af2f901d3101c131ccaf4ba206"
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95

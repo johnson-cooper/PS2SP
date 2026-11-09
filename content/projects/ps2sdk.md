@@ -22,7 +22,7 @@ repository:
   defaultBranch: master
   stars: 1258
   forks: 175
-  lastCommit: '2026-11-03T20:54:21Z'
+  lastCommit: '2026-11-09T13:19:55Z'
 latestRelease:
   tag: null
   name: null
@@ -30,12 +30,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-09-29T00:27:13.650Z'
-  lastSynchronized: '2026-11-06T17:32:14.028Z'
+  lastSynchronized: '2026-11-09T17:31:24.615Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4b77680ddb03a505210c7a579dd392fd39f0908139de55a57404089b1b1a5655"
-    releasesEtag: '"5728c5463282b62da321618a8dc7a8180d3e7f492d10c28b3e9aeadc9676e3dd"'
+    repoEtag: W/"9bd860c708f031c947ff437eb740bdd3a81472a21dacc480e190edea04eb98df"
+    releasesEtag: '"1b07a5f20096cf9b5a1d413c9a9567ef7d1120a01238e1a61c91dfa57f6d8b7a"'
 discovery:
   method: curated
   confidence: 100

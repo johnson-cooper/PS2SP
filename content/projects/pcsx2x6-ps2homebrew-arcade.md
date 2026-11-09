@@ -19,7 +19,7 @@ repository:
   archived: false
   defaultBranch: master
   stars: 202
-  forks: 26
+  forks: 27
   lastCommit: '2026-11-01T20:00:22Z'
 latestRelease:
   tag: v0.2.20
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-07-25T22:32:25Z'
   url: 'https://github.com/PS2Homebrew-arcade/pcsx2x6/releases/tag/v0.2.20'
 activity:
-  lastSynchronized: '2026-11-06T17:31:30.262Z'
+  lastSynchronized: '2026-11-09T17:30:42.791Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7e8bca40e71643a1cc06caf0bba6e89083bfc6c83c65605f103420b1073f9d8a"
-    releasesEtag: W/"f9cfd19eb2568cf7eb605e916d0b92b9a6febd60844abd60c6f5b0831303bd30"
+    repoEtag: W/"782ce0d755beffb7bf801679ee7f0ec77a2f19afbb2fdc85a12d3b26ad857d21"
+    releasesEtag: W/"b2fe34005814af67cd4041d32ab648949b86ef26db931b9ece1ec808464f48ef"
 discovery:
   method: 'fork-network:PS2Homebrew-arcade/pcsx2-coh'
   confidence: 95

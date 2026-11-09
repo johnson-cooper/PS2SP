@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/HAB3X/Crash-Twinsanity-Mac/releases/tag/v0.3.0'
 activity:
   lastChecked: '2026-10-11T09:18:35.593Z'
-  lastSynchronized: '2026-11-06T17:30:09.432Z'
+  lastSynchronized: '2026-11-09T17:29:24.499Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ee001f41d3ccc57221f7723845511fd7544dca33c5284f8fb449beccdfb62a84"
-    releasesEtag: W/"1139b43c7be688f03cd2182abb46354b860a921424aadab888b0353fdaae783c"
+    repoEtag: W/"2dc63f41781528f4dc315fff2f9d7a2c049a658cdacd77618482639ac4d267c9"
+    releasesEtag: W/"5aac650a5781c3d2550a0b31cba583595498cef3b2446365c80b2c6cbdf39f54"
 discovery:
   method: 'pending-promotion:incremental:ps2sdk in:name,description,readme'
   confidence: 75

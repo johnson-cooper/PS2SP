@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-08-23T17:12:57Z'
   url: 'https://github.com/SankarRealm/Butterscotch/releases/tag/0.1.9'
 activity:
-  lastSynchronized: '2026-11-06T17:30:03.376Z'
+  lastSynchronized: '2026-11-09T17:29:19.708Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4d8220c51655c184afd023b8537b63b9d850acb54c75e637b59f9752adaf411c"
-    releasesEtag: W/"3d59d03a5504a94f698576af33de34a51a45b3e0d8d95ebffa543710dc78462d"
+    repoEtag: W/"2c85b2611d835ec693b61c6e07fc4a6177390cb608c96b35ba996594d9f31d9e"
+    releasesEtag: W/"d97bce05ae2e3433a9a704e358f833465ad11da9d42ed28cec66f731c2e2e1f2"
 discovery:
   method: 'fork-network:ButterscotchRunner/Butterscotch'
   confidence: 95
