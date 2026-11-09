@@ -21,18 +21,18 @@ repository:
   forks: 0
   lastCommit: '2026-11-01T18:40:25Z'
 latestRelease:
-  tag: 3.4.5
-  name: Revenant Job System 3.4.5
-  publishedAt: '2026-11-01T18:36:35Z'
+  tag: v3.4.4
+  name: Revenant Job System 3.4.4
+  publishedAt: '2026-10-21T03:34:23Z'
   url: >-
-    https://github.com/ZodiarkDuoDecim/Final-Fantasy-XII-Revenant-Job-System/releases/tag/3.4.5
+    https://github.com/ZodiarkDuoDecim/Final-Fantasy-XII-Revenant-Job-System/releases/tag/v3.4.4
 activity:
-  lastSynchronized: '2026-11-03T06:48:19.027Z'
+  lastSynchronized: '2026-11-09T06:28:52.667Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1548b6261252b3d5a9f43ad15d6de3bba4d2d6183ea0ef5c361125624e055e59"
-    releasesEtag: W/"783571a192dbb284529b1f0ad89b0acbdb3c241f7a3adc7d1ca060bb069da546"
+    repoEtag: W/"804744880f814dfe4141f879d794d833ae502d4794da4e5a1774d4014b760a25"
+    releasesEtag: W/"4b297a66b53e79cb8d41e77dc4832481260ad3e0a31c12282c5fdc7977295c41"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

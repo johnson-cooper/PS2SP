@@ -16,7 +16,7 @@ license: GPL-3.0
 homepage: null
 source:
   provider: github
-  repository: Foxlass/PS2Recomp
+  repository: yurifoxvix/PS2Recomp
   repositoryId: '1418225455'
 repository:
   archived: false
@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-03T06:50:00.329Z'
+  lastSynchronized: '2026-11-09T06:30:35.121Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5366ed34fbf143dfb103422e4403bf38dca2493275208242bf0c8f5f26ab5417"
-    releasesEtag: '"692f2c9f61b2b2ea303277a9a51794b8b35824333ba16aff8fab37dc1c73a90d"'
+    repoEtag: W/"d855d17817a2bb528dfb42b108cb609f47e883d531c2b2ac522bb784af116523"
+    releasesEtag: '"2fe2afac4e4c51d345b0b3b79c7fb7f05cfb2cad022de484e373ed5d4899b781"'
 discovery:
   method: 'fork-network:ran-j/PS2Recomp'
   confidence: 100

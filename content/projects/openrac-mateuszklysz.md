@@ -17,7 +17,7 @@ license: null
 homepage: null
 source:
   provider: github
-  repository: mateuszklysz/OpenRAC
+  repository: nickyyOO/OpenRAC
   repositoryId: '1417547884'
   url: 'https://github.com/mateuszklysz/OpenRAC'
 repository:
@@ -25,21 +25,21 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-02T22:35:03Z'
+  lastCommit: '2026-11-08T21:55:24Z'
 latestRelease:
-  tag: launcher-dev-feature-shared-menu
-  name: v0.10.1-dev.185 (feature/shared-menu)
-  publishedAt: '2026-11-02T11:36:20Z'
+  tag: launcher-dev-feature-android-enhanced-preset
+  name: v1.0.3-dev.198 (feature/android-enhanced-preset)
+  publishedAt: '2026-11-07T07:38:30Z'
   url: >-
-    https://github.com/mateuszklysz/OpenRAC/releases/tag/launcher-dev-feature-shared-menu
+    https://github.com/nickyyOO/OpenRAC/releases/tag/launcher-dev-feature-android-enhanced-preset
 activity:
   lastChecked: '2026-10-13T19:32:43.126Z'
-  lastSynchronized: '2026-11-03T06:49:08.445Z'
+  lastSynchronized: '2026-11-09T06:29:41.684Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"dfa71405df754cd39e358eb4b6fb1befbe7da51a8bdcd7d8b579a1e1ed8fb1a7"
-    releasesEtag: W/"e32c532ebb2fff21734dbd5a415f2381a1c160f5fe9b58dd7a36d3d4fd3ecce1"
+    repoEtag: W/"f7de3fa2e6e94b5bb3de337dab6af51c54299e719ee91f961a97276aaf447660"
+    releasesEtag: W/"4dc93ad193058ade012c55a08d3d5ae36b9b9889b08123279bc08aafd4202811"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

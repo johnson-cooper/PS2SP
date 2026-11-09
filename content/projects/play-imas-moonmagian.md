@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-04-01T16:55:58Z'
   url: 'https://github.com/moonmagian/Play-imas/releases/tag/imas-release'
 activity:
-  lastSynchronized: '2026-11-03T06:49:29.734Z'
+  lastSynchronized: '2026-11-09T06:30:01.547Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cb93d29654cc9ec0289bc01008ed8fcd5566a89fa3a2116e434e20e961533f23"
-    releasesEtag: W/"eb8b52863a78ab56445da11c99a854c149bad413a10d27dfebf0de9ca6c539c4"
+    repoEtag: W/"9df0c2b885132f38f49649b928d92fd9cef5f78feef0ebe23879304796aeb1ca"
+    releasesEtag: W/"50bbc614b695542a98399c7ebcf6a62a11f3d4a11c7a111e76457a7badad7420"
 discovery:
   method: 'fork-network:jpd002/Play-'
   confidence: 100

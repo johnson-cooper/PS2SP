@@ -22,7 +22,7 @@ repository:
   defaultBranch: master
   stars: 1
   forks: 0
-  lastCommit: '2026-11-06T21:40:04Z'
+  lastCommit: '2026-11-07T20:40:48Z'
 latestRelease:
   tag: v1.0.2-h-j1-orange-demon.1
   name: v1.0.2-h-j1-orange-demon.1
@@ -30,9 +30,12 @@ latestRelease:
   url: >-
     https://github.com/Hat-Kid/jak-project/releases/tag/v1.0.2-h-j1-orange-demon.1
 activity:
-  lastSynchronized: '2026-11-07T01:13:29.437Z'
+  lastSynchronized: '2026-11-09T06:29:10.252Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"aefbcb3d13f44d42f494f4a0fc4c5f6118bb5a62f0107c1733b3776685d0af07"
+    releasesEtag: W/"1a2d45dd2bbb3f11d2f43d1b435ff3fa8e822d06dc77ff023e9ab4634a71cc24"
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: open-goal/jak-project
   source: open-goal/jak-project
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

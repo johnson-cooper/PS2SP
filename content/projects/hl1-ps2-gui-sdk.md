@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: '2026-04-24T18:27:01Z'
   url: 'https://github.com/jonnypaes/hl1-ps2-gui-sdk/releases/tag/v0.1.0'
 activity:
-  lastSynchronized: '2026-11-03T06:48:30.915Z'
+  lastSynchronized: '2026-11-09T06:29:03.934Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7ac142cc061230e4eaa44267dd0aee058d652a848e9b7a9d7a49feceb3ffcd21"
-    releasesEtag: W/"41653a7f64c4abae7a44478fecf0db0bf2f556fbaee11713dfd3f7ec0f46b28d"
+    repoEtag: W/"67febdf65db041c08518098c52bd72ef9a348129e218ab70017b08495da35822"
+    releasesEtag: W/"4a6f1026e7184d72ffa5bb58fe5e376ec690e6114e394e70962049342cc97cbb"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
