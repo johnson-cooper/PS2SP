@@ -22,7 +22,7 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 1
-  lastCommit: '2026-09-25T22:09:54Z'
+  lastCommit: '2026-11-09T05:38:25Z'
 latestRelease:
   tag: v0.5.0
   name: PS2 HDD Bootstrap Manager 0.5.0 - Kakehashi
@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/PunishedSnake/fhdb-bootstrap-manager/releases/tag/v0.5.0'
 activity:
   lastChecked: '2026-09-29T00:27:01.624Z'
-  lastSynchronized: '2026-11-08T23:43:40.675Z'
+  lastSynchronized: '2026-11-10T23:22:15.782Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0f053a7182e6e1209786fb8b68adef133fc9194bbe86bd00b58810beba785909"
-    releasesEtag: W/"99ae56d270e3d5f934d2879882155f8915aecb1ed2a6e20fdb77267890a013f3"
+    repoEtag: W/"5715b5e7853ef279de52510c82b3ed88703507013d5977c9ee5caeaad2532104"
+    releasesEtag: W/"aab2c1174f019251a284e1e1d812393be56e8c3975bd05e8717f8f059490d647"
 discovery:
   method: github-search
   confidence: 100

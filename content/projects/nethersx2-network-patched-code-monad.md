@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/code-tsao/NetherSX2-network-patched/releases/tag/v2.2n-4248-mhsrv.1
 activity:
-  lastSynchronized: '2026-11-08T23:44:11.269Z'
+  lastSynchronized: '2026-11-10T23:22:51.191Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"58dad340829dd3a634b68c4b09c4492e6058a9b5a85b86f21d6ef599a080530e"
-    releasesEtag: W/"fa40033a1b13a7ab3b3dfaed899d42671a4957e2f13b280416098a06404ac8b9"
+    repoEtag: W/"53ad261fc3088cc81911827b4d36459489bf52b36a699cc0e98073fded9cbf13"
+    releasesEtag: W/"87f7403d7f01a11b38dd0f8543a2bbf49cc0de5d6334fdca89e2d401fa2bdc2a"
 discovery:
   method: 'fork-network:Trixarian/NetherSX2-patch'
   confidence: 95

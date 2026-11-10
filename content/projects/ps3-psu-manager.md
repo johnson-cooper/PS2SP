@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/khant735/PS3-PSU-Manager/releases/tag/tiny3d-verified-10-1
 activity:
-  lastSynchronized: '2026-11-08T23:45:17.956Z'
+  lastSynchronized: '2026-11-10T23:24:10.147Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"18b5c371ef38a8137bb8f6d2c2ccb7f815921df118bd276451e8d2c78f069760"
-    releasesEtag: W/"99f0a300febcd080625693d88b36ea94dbe48076412a2fea1ad72c658d407b2b"
+    repoEtag: W/"7950779223761f001b2e97133efa2333cfb02405814035f41bc7469bd393f351"
+    releasesEtag: W/"a2555368909f6007634e658a9be55c438059160904529ef8e9a4610516df43d4"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

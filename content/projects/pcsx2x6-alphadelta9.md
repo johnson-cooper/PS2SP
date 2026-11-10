@@ -20,19 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-06-21T13:59:38Z'
+  lastCommit: '2026-11-09T18:49:38Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-08T23:44:40.487Z'
+  lastSynchronized: '2026-11-10T23:23:25.995Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e80e7092c55c809b94cda8ae282d6a55c06b772fb756080185fbf66b1445c7f0"
-    releasesEtag: '"4005231bffdbdb5a011efd68a7b178927da97ecc27946b720ce15f1d0a3adf03"'
+    repoEtag: W/"251be743ca88c92b57d30837858ab9c9f0a64561717aee03e80fd1575cde81fd"
+    releasesEtag: '"74405222f5608bc40a391e45317c4deb0dc4c37e3b74b5139d5de297e1efb3bd"'
 discovery:
   method: 'fork-network:PS2Homebrew-arcade/pcsx2x6'
   confidence: 95

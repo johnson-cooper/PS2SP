@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-10T17:18:05.976Z'
+  lastSynchronized: '2026-11-10T23:23:30.177Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e5e4377a7d08f1ecfdc2f87255fb2174ec25dc88ca375862da9a5209cfa51671"
+    releasesEtag: '"74405222f5608bc40a391e45317c4deb0dc4c37e3b74b5139d5de297e1efb3bd"'
 discovery:
   method: 'fork-network:kusha-dev-bot/Play-'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: kusha-dev-bot/Play-
   source: jpd002/Play-
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -23,8 +23,8 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 8
-  forks: 0
+  stars: 22
+  forks: 2
   lastCommit: '2026-11-08T21:49:51Z'
 latestRelease:
   tag: v1.3.0
@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2026-11-08T21:49:51Z'
   url: 'https://github.com/fasipe/Castlevania-COD-QOL/releases/tag/v1.3.0'
 activity:
-  lastSynchronized: '2026-11-08T23:43:29.767Z'
+  lastSynchronized: '2026-11-10T23:22:02.474Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6652438eb158ae942c0b903aeee261fb9a3bab4d7ec68a9eb509448c4c8fefac"
-    releasesEtag: W/"4230a4414e249ffd02e0922e8b9b3d19f0a7db0293e21093bb16e5ff549584d0"
+    repoEtag: W/"f51b597ce9eb54d22e86eb09340e001b1a1495933da80d40d7566a2176618f5e"
+    releasesEtag: W/"971dad47a67a5c5e3ddd2c25446620b124f83c6122ca940a77244e211cde3be5"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

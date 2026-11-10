@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-08T23:45:01.179Z'
+  lastSynchronized: '2026-11-10T23:23:51.191Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9e4fbc0b7f0b5f6a7c81dd26cd71b299e22ae1edf6893466a988d48fec10ca19"
-    releasesEtag: '"4005231bffdbdb5a011efd68a7b178927da97ecc27946b720ce15f1d0a3adf03"'
+    repoEtag: W/"54afc29579476ce6bd49564dabe89ea4e3768362964919eb2460224d723d75c2"
+    releasesEtag: '"74405222f5608bc40a391e45317c4deb0dc4c37e3b74b5139d5de297e1efb3bd"'
 discovery:
   method: 'fork-network:ninjadynamics/PS2Docs'
   confidence: 95

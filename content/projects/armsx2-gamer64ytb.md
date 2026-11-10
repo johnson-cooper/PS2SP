@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/Gamer64ytb/ARMSX2/releases/tag/come.nanodata.armsx2-nightly-1.0.5-20251119-1828
 activity:
-  lastSynchronized: '2026-11-08T23:43:22.954Z'
+  lastSynchronized: '2026-11-10T23:21:54.678Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e9fbb78a6647e7cd6b7f944d99d0ed26595f16f027847594499f13754e3adc36"
-    releasesEtag: W/"53f652cfb9c0c1bf2e5505cf864d69606b13e9bfe4112927675bba63890b8cc3"
+    repoEtag: W/"55b8146d001047739c1bc56bfbd53e3d40e4fa9add7fdfc3469a4442eac424d9"
+    releasesEtag: W/"0297fd3a0fbeaa6196c37ec22f094189ad56449ddd8ef19155b7c1a88c59fa37"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

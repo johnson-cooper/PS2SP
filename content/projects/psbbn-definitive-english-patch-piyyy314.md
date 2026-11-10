@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-08T23:45:19.760Z'
+  lastSynchronized: '2026-11-10T23:24:12.239Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b800b1e4e4ac53cec4fa2fdd209179f0d31b5025dbb97e9a1c8caa4cd6b0d1c7"
-    releasesEtag: '"4005231bffdbdb5a011efd68a7b178927da97ecc27946b720ce15f1d0a3adf03"'
+    repoEtag: W/"aabc05ca6e67fdc6c05f6739e7829bb6617bc81fb2585e66111b717ff61c7103"
+    releasesEtag: '"74405222f5608bc40a391e45317c4deb0dc4c37e3b74b5139d5de297e1efb3bd"'
 discovery:
   method: 'fork-network:emtee40/PSBBN-Definitive-English-Patch'
   confidence: 95

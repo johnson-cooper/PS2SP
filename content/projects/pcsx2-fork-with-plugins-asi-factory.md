@@ -20,7 +20,7 @@ repository:
   defaultBranch: master
   stars: 48
   forks: 3
-  lastCommit: '2026-11-07T04:44:25Z'
+  lastCommit: '2026-11-10T05:59:36Z'
 latestRelease:
   tag: deprecated
   name: 'PCSX2-Fork-With-Plugins Version 1 [Deprecated]'
@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/ASI-Factory/PCSX2-Fork-With-Plugins/releases/tag/deprecated
 activity:
-  lastSynchronized: '2026-11-08T23:44:33.449Z'
+  lastSynchronized: '2026-11-10T23:23:18.011Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cef051b0d153fcef7c09503797046660b4006f39e521dc1add7f5b9cd5e62f6b"
-    releasesEtag: W/"a07ac3e3c586fd54d0454aee3e198c39eaffc4a98618684a2acdf6695b428a42"
+    repoEtag: W/"df2b17c271001fea213011301b7f39c19c3f3c30710a9db1aa31f769b1455478"
+    releasesEtag: W/"266ce1a6255fe5a50af99a11717adfbdb43325c8a9d43585037a4ac3feb76b4f"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

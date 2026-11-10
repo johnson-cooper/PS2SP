@@ -20,21 +20,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 82
+  stars: 95
   forks: 2
-  lastCommit: '2026-11-08T18:37:45Z'
+  lastCommit: '2026-11-10T21:01:32Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-08T23:43:34.314Z'
+  lastSynchronized: '2026-11-10T23:22:07.977Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"42b405f23b5ea825cc7e99c8bf0e3c743a5ad1988f8c4a550e0f40210c0bb840"
-    releasesEtag: '"4005231bffdbdb5a011efd68a7b178927da97ecc27946b720ce15f1d0a3adf03"'
+    repoEtag: W/"d126a1cea85dd7cbc62367169844a045e96399df5775c022dda6039f72d93d44"
+    releasesEtag: '"74405222f5608bc40a391e45317c4deb0dc4c37e3b74b5139d5de297e1efb3bd"'
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
