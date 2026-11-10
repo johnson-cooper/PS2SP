@@ -1,0 +1,16 @@
+{
+  "repository": "1OrdinaryUser/ManiaPS2",
+  "repositoryId": "1451759806",
+  "url": "https://github.com/1OrdinaryUser/ManiaPS2",
+  "description": "a sonic Mania port for PlayStation 2 based on the RSDK decompilation",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-10T01:45:54.437Z",
+  "checkedAt": "2026-11-10T01:45:54.437Z"
+}

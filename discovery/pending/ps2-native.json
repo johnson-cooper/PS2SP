@@ -1,0 +1,16 @@
+{
+  "repository": "vinifloriano/ps2-native",
+  "repositoryId": "1450623590",
+  "url": "https://github.com/vinifloriano/ps2-native",
+  "description": null,
+  "score": 85,
+  "evidence": [
+    "repository name explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-10T01:45:54.437Z",
+  "checkedAt": "2026-11-10T01:45:54.437Z"
+}
