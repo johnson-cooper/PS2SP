@@ -25,16 +25,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-08T22:51:27Z'
+  lastCommit: '2026-11-09T00:29:49Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-09T00:05:01.022Z'
+  lastSynchronized: '2026-11-10T01:34:02.281Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"cb9da953c5a5a9beeded010278b09636d84c9c98b57d82b7e81e48c5951812c1"
+    releasesEtag: '"d76f3e553c1dd5eef60eeb0d76793c9027541520aa34488ad60fccdc0acfeba2"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -53,5 +56,4 @@ relationships:
   forkOf: victor-takai/rogue-galaxy-recomp
   source: victor-takai/rogue-galaxy-recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

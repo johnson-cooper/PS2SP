@@ -26,7 +26,7 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-27T02:54:13Z'
+  lastCommit: '2026-11-08T18:37:22Z'
 latestRelease:
   tag: v0.3.0-alpha.1
   name: v0.3.0-alpha.1 - Research Wiki and Adaptive Rendering
@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/sennett-lau/re-gvs-gvzg/releases/tag/v0.3.0-alpha.1'
 activity:
   lastChecked: '2026-10-27T05:36:47.166Z'
-  lastSynchronized: '2026-11-06T01:35:38.639Z'
+  lastSynchronized: '2026-11-10T01:33:55.497Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"14108ff5a9644bad905a88c00ce568484453c4d3a4a93f6f9ad4a88ba9c63ec7"
-    releasesEtag: W/"7bf05be7f0b60aaddc9dd3f3e0b8da46469b62a0b05288f2657e52fb03180803"
+    repoEtag: W/"f9174d1bfe9c4b33a743e81bd8b0a5e1bd574605032f082ab941dd61b283ea6b"
+    releasesEtag: W/"7d1fbcf74d53f9f8a175e7d216dccff4c7611a344bd1ea900126036688f18d84"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

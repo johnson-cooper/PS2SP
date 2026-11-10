@@ -19,7 +19,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
   lastCommit: '2026-11-08T19:25:20Z'
 latestRelease:
@@ -29,9 +29,12 @@ latestRelease:
   url: >-
     https://github.com/zencatalyst/ps2-archive-cleanser/releases/tag/v1.0.0-2026-11-09
 activity:
-  lastSynchronized: '2026-11-09T00:05:01.022Z'
+  lastSynchronized: '2026-11-10T01:33:20.508Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"244b98a4ccd4388cb31018bbd04b9d2f423fad279a44cf930d81ad9ad0ba6aed"
+    releasesEtag: W/"7f5ef631e7c5befbf083b550e44f16f72e559a381af30cce926a7b18ae09b330"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -46,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -10,7 +10,7 @@ tags:
   - emulator
 features: []
 authors: []
-license: null
+license: GPL-2.0
 homepage: null
 source:
   provider: github
@@ -21,7 +21,7 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2016-12-10T22:11:26Z'
+  lastCommit: '2026-11-06T14:17:24Z'
 latestRelease:
   tag: null
   name: null
@@ -29,12 +29,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-09-29T00:27:05.951Z'
-  lastSynchronized: '2026-11-06T01:34:25.188Z'
+  lastSynchronized: '2026-11-10T01:32:33.915Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"322c98280800fe99abbbe677a5d885db5a2b28fbe0a42e0877d61a8d1bfce581"
-    releasesEtag: '"e7eac27f355057434b18eab39c140c937f39208718b77528d17bcee84846a557"'
+    repoEtag: W/"1cab2ad65017f13e17412b126c9b5526c8019e364b905868633e7b282fc934b0"
+    releasesEtag: '"d76f3e553c1dd5eef60eeb0d76793c9027541520aa34488ad60fccdc0acfeba2"'
 discovery:
   method: curated
   confidence: 100

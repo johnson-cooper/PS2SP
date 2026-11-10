@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/ps2build/cmake/releases/tag/v2026.11.04'
 activity:
   lastChecked: '2026-11-05T11:30:04.104Z'
-  lastSynchronized: '2026-11-06T01:33:50.898Z'
+  lastSynchronized: '2026-11-10T01:31:53.967Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d39fe84995d9b3ecb7eda9c788bc26eabf99818c4e6fb4b3f026b98f69289063"
-    releasesEtag: W/"5b3521a113dafad89153474761176aaed1c89322295e4501ec3a907f7cf72dc8"
+    repoEtag: W/"459e00c159fc68e91d5021f5176847e99861ac7724cadd9d8b10288f136b0aa4"
+    releasesEtag: W/"460a856219e36b97e73b5d6f88adcfe59270ed8b81d566344a14a865156e9b6d"
 discovery:
   method: 'pending-promotion:starred:NathanNeurotic'
   confidence: 85

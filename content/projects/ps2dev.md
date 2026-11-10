@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/ps2dev/ps2dev/releases/tag/v2.0.0'
 activity:
   lastChecked: '2026-09-29T00:27:10.684Z'
-  lastSynchronized: '2026-11-06T01:35:19.714Z'
+  lastSynchronized: '2026-11-10T01:33:35.112Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1e0a0f417ed15c12ed18988f160e43dbcbeb76c2d4cbc8bfe3454bd6a58a699e"
-    releasesEtag: W/"152f3c7886d529b91f3da770d3c3b334402e258036a5cd211fd6a0fc1bfb7466"
+    repoEtag: W/"464591e2695a4433296e53274740f2c9c6a4abcdfc01d458f59dc2e43bb9976b"
+    releasesEtag: W/"5885d771735fa7410d6edcea746040a99f180f96c7a7ca92db1cdb318d9c26a2"
 discovery:
   method: curated
   confidence: 100

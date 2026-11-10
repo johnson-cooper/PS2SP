@@ -14,7 +14,7 @@ tags:
   - fork
 features: []
 authors: []
-license: null
+license: MIT
 homepage: null
 source:
   provider: github
@@ -23,10 +23,10 @@ source:
   url: 'https://github.com/starredjaco/decomp.anything'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-06T03:30:53Z'
 latestRelease:
   tag: null
   name: null
@@ -34,8 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-11-06T07:24:38.594Z'
+  lastSynchronized: '2026-11-10T01:31:55.201Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"be87c2f9a67d345c4650467c1dc87bb670f6d4f8f84bb288c3be84a7cf6e141c"
+    releasesEtag: '"d76f3e553c1dd5eef60eeb0d76793c9027541520aa34488ad60fccdc0acfeba2"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75
@@ -51,5 +55,4 @@ relationships:
   forkOf: giveen/decomp.anything
   source: giveen/decomp.anything
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

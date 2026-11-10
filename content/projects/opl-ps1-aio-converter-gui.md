@@ -30,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/shaanhomebrew-cloud/OPL-PS1-AIO-Converter-GUI/releases/tag/1.6.0
 activity:
-  lastSynchronized: '2026-11-06T01:34:42.585Z'
+  lastSynchronized: '2026-11-10T01:32:54.420Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"433825e07e1ae12a51cc8b120b9fb3f69a594db0d6fb19fe1f844bb48b77aeaa"
-    releasesEtag: W/"85b8890dc14557e5a8dcd4688387ee7eef2004bb8eff676dc4e2f54c97cdb2a8"
+    repoEtag: W/"3069bf0ea041c7b38e407d760d68e3fce7e7561b881a009b8cafacfa99c88351"
+    releasesEtag: W/"cd7ccbcb450cfb0349a6e447cd66246e67e1e422820b93ab22b1dc1b2135dc35"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

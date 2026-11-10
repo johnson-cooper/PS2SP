@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: '2016-10-26T17:56:30Z'
   url: 'https://github.com/ElPatas1/Open-PS2-Loader/releases/tag/0.9.3%2B'
 activity:
-  lastSynchronized: '2026-11-09T07:12:30.852Z'
+  lastSynchronized: '2026-11-10T01:32:45.557Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"cbe8efa6f938e1292f158c4e03e366856044dfe200b252b7fac76aff97adddcc"
+    releasesEtag: W/"d6b13f4bb4bd609eadad9d40a03902f4cc0a5f4f55dbedef0f79d44552159fa3"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: ps2homebrew/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

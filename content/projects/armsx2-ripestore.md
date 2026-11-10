@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/RipeStore/ARMSX2/releases/tag/com.nanodata.armsx2-nightly-1.0.4-20251108-0909
 activity:
-  lastSynchronized: '2026-11-06T01:33:42.976Z'
+  lastSynchronized: '2026-11-10T01:31:44.978Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bbea86de0dd8018009c27baeab388ce2cc5aca55b4139fcb6c5f6c8c0bc08ae0"
-    releasesEtag: W/"e2051f5b9d0ffaa572b0cf84d5a7cc90d2b5464511c5f2a8f4fc22c155930f35"
+    repoEtag: W/"4b76f89eeb08f0d3592535813a21aeaa0b82349721911838fb60f34f30cd2c4e"
+    releasesEtag: W/"19077f80729d25115f26f41ac784be7f8d49ea2ff0856f65a62ccb3aa1117b26"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

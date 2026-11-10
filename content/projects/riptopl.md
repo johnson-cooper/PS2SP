@@ -20,20 +20,20 @@ repository:
   defaultBranch: rebuild/main
   stars: 66
   forks: 5
-  lastCommit: '2026-11-06T00:45:36Z'
+  lastCommit: '2026-11-09T23:24:35Z'
 latestRelease:
   tag: rolling-korium
   name: Korium
-  publishedAt: '2026-11-05T20:40:32Z'
+  publishedAt: '2026-11-09T22:34:32Z'
   url: >-
     https://github.com/NathanNeurotic/Open-PS2-Loader/releases/tag/rolling-korium
 activity:
-  lastSynchronized: '2026-11-06T01:35:43.178Z'
+  lastSynchronized: '2026-11-10T01:34:00.016Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ea01f242e2c9494a1d004f81d9c933b98c29049e1e14d3062ac881f69946fae7"
-    releasesEtag: W/"160f5ac72c120e91d8ba325c93b171926fb94b97455c2f83e2c47235351e540d"
+    repoEtag: W/"39e39847afb76ddae40cd7d1870c5fbcfa391d00ecc283d44424d93b2764c623"
+    releasesEtag: W/"8164d6d5fe666f0f2a10e165b8b5f51dff1089b234c8301947be15e01af14d6d"
 discovery:
   method: curated-owner
   confidence: 100

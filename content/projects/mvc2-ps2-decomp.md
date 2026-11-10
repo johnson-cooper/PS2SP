@@ -15,15 +15,15 @@ license: null
 homepage: null
 source:
   provider: github
-  repository: g-guthrie/mvc2-ps2-decomp
+  repository: g-guthrie/mvc2-port-and-decomp
   repositoryId: '1351949679'
   url: 'https://github.com/g-guthrie/mvc2-ps2-decomp'
 repository:
   archived: false
   defaultBranch: main
-  stars: 17
-  forks: 2
-  lastCommit: '2026-11-05T22:02:57Z'
+  stars: 19
+  forks: 3
+  lastCommit: '2026-11-06T15:24:29Z'
 latestRelease:
   tag: null
   name: null
@@ -31,12 +31,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-09-29T00:29:02.962Z'
-  lastSynchronized: '2026-11-06T01:34:22.175Z'
+  lastSynchronized: '2026-11-10T01:32:30.655Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"023eade7fd66d7e7b30061d25d1dab1eaafd9687a29ee4e8c75c3ef44d85be1b"
-    releasesEtag: '"e7eac27f355057434b18eab39c140c937f39208718b77528d17bcee84846a557"'
+    repoEtag: W/"02a68ea45d64daa18e1d03d5c7527702167d1acd62b9d9aa7b9e1e7113217d5e"
+    releasesEtag: '"d76f3e553c1dd5eef60eeb0d76793c9027541520aa34488ad60fccdc0acfeba2"'
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 95

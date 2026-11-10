@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-06T01:35:35.431Z'
+  lastSynchronized: '2026-11-10T01:33:52.107Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8495438f3782690796ef9d0115f3495a0f74f66a723f176a15c6983e8c303fe3"
-    releasesEtag: '"e7eac27f355057434b18eab39c140c937f39208718b77528d17bcee84846a557"'
+    repoEtag: W/"0ccf0f4da565d27a58060c3b63a3fd089297bfad8eea4b220f8658d183e9b0b4"
+    releasesEtag: '"d76f3e553c1dd5eef60eeb0d76793c9027541520aa34488ad60fccdc0acfeba2"'
 discovery:
   method: 'fork-network:izzy2lost/PSX2'
   confidence: 100
