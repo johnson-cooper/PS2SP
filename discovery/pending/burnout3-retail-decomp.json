@@ -1,0 +1,16 @@
+{
+  "repository": "u0rhs/burnout3-retail-decomp",
+  "repositoryId": "1453242718",
+  "url": "https://github.com/u0rhs/burnout3-retail-decomp",
+  "description": "Matching decompilation of Burnout 3: Takedown (PS2, SLUS-21050). No game executable included.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-10T22:32:01.296Z",
+  "checkedAt": "2026-11-10T22:32:01.296Z"
+}

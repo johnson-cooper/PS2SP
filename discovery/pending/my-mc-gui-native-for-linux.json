@@ -1,0 +1,16 @@
+{
+  "repository": "soiderxus/my-mc-gui-native-for-linux",
+  "repositoryId": "1453222670",
+  "url": "https://github.com/soiderxus/my-mc-gui-native-for-linux",
+  "description": "A tool for managing PS2 memory card images like the ones the PCSX2 emulator uses (`Mcd001.ps2`). It imports and exports save games, and it can also create, inspect and check card images.  This is a port of Ross Ridge's mymc 2.7 from Python 2 to Python 3, with a working graphical interface on wxPython 4 and a new cross-platform 3D save icon viewer.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-10T22:32:01.296Z",
+  "checkedAt": "2026-11-10T22:32:01.296Z"
+}
