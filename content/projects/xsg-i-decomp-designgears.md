@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: decomp-work
-  stars: 1
+  stars: 3
   forks: 0
-  lastCommit: '2026-11-05T18:58:18Z'
+  lastCommit: '2026-11-09T05:21:04Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-06T09:27:51.424Z'
+  lastSynchronized: '2026-11-10T09:53:22.597Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f860044bdd97f15b14e60fc8beed50924f404623efc7385a91766662feff7651"
-    releasesEtag: '"be990f20b43a23fbb93f1d0f3c6e480ef5b6d5e3fd6a3bceb642e74683ba0c83"'
+    repoEtag: W/"085372fa57a2c06e4b551cd08014da18461c472d27549cd602a69321554e7b45"
+    releasesEtag: '"00ccd8cc63c859a8e5f93dd9e3add8fe64f4bfba64569e9b1ded7c4104df98bc"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

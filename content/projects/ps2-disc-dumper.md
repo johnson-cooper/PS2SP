@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-16T02:41:49Z'
   url: 'https://github.com/Hydrax90/PS2-Disc-Dumper/releases/tag/PS2Dumper'
 activity:
-  lastSynchronized: '2026-11-06T09:26:57.573Z'
+  lastSynchronized: '2026-11-10T09:52:30.854Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b44b50c26aba51acab5b3c24f84f0415a9e6ae6c67ad221abcbed9eeb7d5b715"
-    releasesEtag: W/"9f5171134c5a023bc6496dc491e1c1c9d64cd6e4ab1408de107360c8d16eb68b"
+    repoEtag: W/"734f6b06e6654f383feff8ea7c40dbdde032175a04542355f30f843ab9d39f24"
+    releasesEtag: W/"4c87f0f2d6394afcb96007ec02ac32bbe685a3c55d3a1bb769f50702a95a702b"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-10-26T21:37:11Z'
   url: 'https://github.com/oMrRexD/sd2cloud/releases/tag/v2.0'
 activity:
-  lastSynchronized: '2026-11-06T09:27:41.525Z'
+  lastSynchronized: '2026-11-10T09:53:13.531Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4eac54993ac2b5773c8776d8632817b1217134d1cb060c9466cf87552a39523e"
-    releasesEtag: W/"98d3ff68b95cda11ec0342b60d949c7ba87b145a52ea7889fd35d062ac7d2bfa"
+    repoEtag: W/"bf852b8560199ca32799242cab935bcfd7b5da5eb7bc1fb94dff215681e7d140"
+    releasesEtag: W/"61a22560eeb42765e17d1221bf4e43ebdebaf9a9b9ea45074feccc6d8eaed6d7"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

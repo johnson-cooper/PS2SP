@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: '2026-11-09T11:20:52Z'
   url: 'https://github.com/niw-maker/god-of-war-2-pc/releases/tag/v0.1.3-ia.2'
 activity:
-  lastSynchronized: '2026-11-09T17:49:29.472Z'
+  lastSynchronized: '2026-11-10T09:51:08.154Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d228c610d7e01ee00bce4f769e2052fae35101b6c6fb7e11ee00ae025e8a52b0"
+    releasesEtag: W/"ebd8a77406f41bcad5a2b812ebd6ccd215328e423ee31b82d1c2f6cb3fea31e9"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: otavix010/god-of-war-2-pc
   source: otavix010/god-of-war-2-pc
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

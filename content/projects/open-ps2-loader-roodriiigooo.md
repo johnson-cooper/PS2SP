@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2024-10-17T23:43:17Z'
   url: 'https://github.com/roodriiigooo/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-06T09:26:19.099Z'
+  lastSynchronized: '2026-11-10T09:51:53.947Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3fc0eb3aab0bbbd772d55581931386d902d6df048da094b9207f7180bc1649cc"
-    releasesEtag: W/"a7f2a24276dc9a4f4b5ce86855a731328c8c11c07b334c6990c7575bf259754c"
+    repoEtag: W/"056c98e5da97b2348b2a7e2f445f3ade6237442d231dae12cdc7325802e8d57f"
+    releasesEtag: W/"9b0fcc06b6e2b0e9b3f057f97261cc9e5208dfd7d072c6c250d2ab7f0a2c17df"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

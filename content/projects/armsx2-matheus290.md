@@ -13,26 +13,27 @@ license: GPL-3.0
 homepage: 'https://armsx2.net/'
 source:
   provider: github
-  repository: Matheus290/ARMSX2
+  repository: Matheus290/Unofficial-ARMSX2-RK3588
   repositoryId: '1447892021'
 repository:
   archived: false
-  defaultBranch: master
+  defaultBranch: rk3588
   stars: 0
   forks: 0
-  lastCommit: '2026-11-06T08:11:22Z'
+  lastCommit: '2026-11-09T19:20:36Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v2026.11.09
+  name: v2026.11.09
+  publishedAt: '2026-11-09T19:20:47Z'
+  url: >-
+    https://github.com/Matheus290/Unofficial-ARMSX2-RK3588/releases/tag/v2026.11.09
 activity:
-  lastSynchronized: '2026-11-06T09:25:02.960Z'
+  lastSynchronized: '2026-11-10T09:50:36.942Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"94cc023e7424bd3c875cc970f29938c1804fdb320e420d7599021bc0e17954d2"
-    releasesEtag: '"be990f20b43a23fbb93f1d0f3c6e480ef5b6d5e3fd6a3bceb642e74683ba0c83"'
+    repoEtag: W/"3862ddffb559c364059d752d67367a1ff2a8177f4939a20144e2fcde1fae266d"
+    releasesEtag: W/"9c4302cb21191d8df17d4e9254c72a1b0561424493bee86c37edb4282918eee0"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

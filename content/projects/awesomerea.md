@@ -15,8 +15,8 @@ tags:
   - fork
 features: []
 authors: []
-license: null
-homepage: null
+license: MIT
+homepage: 'https://awesomerea.org'
 source:
   provider: github
   repository: Awesome-REA/AwesomeREA
@@ -24,10 +24,10 @@ source:
   url: 'https://github.com/Awesome-REA/AwesomeREA'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-10T07:50:35Z'
 latestRelease:
   tag: null
   name: null
@@ -35,8 +35,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-11-10T08:51:34.636Z'
+  lastSynchronized: '2026-11-10T09:50:41.706Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"179cc526e7e2eb175db81b0b9002485dd9e5e5f7c785b731fcb7adc82aab9cef"
+    releasesEtag: '"00ccd8cc63c859a8e5f93dd9e3add8fe64f4bfba64569e9b1ded7c4104df98bc"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75
@@ -52,5 +56,4 @@ relationships:
   forkOf: reacher-z/Awesome-REA
   source: reacher-z/Awesome-REA
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

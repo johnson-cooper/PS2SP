@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/hadibader/Arcane/releases/tag/Arcane0.7.0'
 activity:
   lastChecked: '2026-10-15T00:53:05.330Z'
-  lastSynchronized: '2026-11-06T09:24:57.942Z'
+  lastSynchronized: '2026-11-10T09:50:31.816Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ad54101ffd7c88d0a005066aeb96772c5fcc4ab23bc4b98a1e571e1371e58a08"
-    releasesEtag: W/"c466e5fe6e2b3957dcaf181235399078f454c666c904623f65fdea1d3eb4e7d3"
+    repoEtag: W/"80b29840e3819950f60f0467a2f6533922d5586263496f634c716e1ad8705fde"
+    releasesEtag: W/"021cee5c64da2b74edba0eef788f21fb56d6d6816ec4dbdc8569d8bfe14bae62"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

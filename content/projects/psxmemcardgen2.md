@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2025-07-18T07:07:37Z'
   url: 'https://github.com/gamebitfunx/PSxMemCardGen2/releases/tag/1.2.1'
 activity:
-  lastSynchronized: '2026-11-06T09:27:34.170Z'
+  lastSynchronized: '2026-11-10T09:53:05.298Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d82cd36ecb10cae93c38328105f7ad032bd29f9f5c41265b396522c855c1d2e6"
-    releasesEtag: W/"6d77a229185c15b1dc094944449d6bbe547dcf6a8614a32fdb1f722469173650"
+    repoEtag: W/"24dc9af31c19dd89cda231e23ff766fff0d1546c93136b54c505821fa36bc981"
+    releasesEtag: W/"6a360d669c9ef44a3c8d84e7c03aa04cc227a3f80b222addac35fc6c0e15b2df"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
