@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-09T17:31:03.251Z'
+  lastSynchronized: '2026-11-10T17:52:47.637Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d5fd40e635acab8ace218c63210406b699f3f65da7bcc2a245b4b1970cf36405"
-    releasesEtag: '"1b07a5f20096cf9b5a1d413c9a9567ef7d1120a01238e1a61c91dfa57f6d8b7a"'
+    repoEtag: W/"38eea5ff68a288e3211d8aa2328340aee8adcc672f3c962419d656b42a2c44d6"
+    releasesEtag: '"fc306235fae60f40320f5c5058adc46667703b89cb98dd864151b11f789d08a8"'
 discovery:
   method: 'fork-network:Tom-Bruise/PS2-OPL-CFG-Database'
   confidence: 100

@@ -35,12 +35,12 @@ latestRelease:
   url: >-
     https://github.com/ahmedmoselhi/Open-PS2-Loader/releases/tag/v1.2.0-Beta-1938-f36e568
 activity:
-  lastSynchronized: '2026-11-09T17:30:13.086Z'
+  lastSynchronized: '2026-11-10T17:51:49.667Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"16cd5270c34890baad618cf9108f6453a4bde4e3eeca12bec8d7f7f759e1e278"
-    releasesEtag: W/"9725da182ca9af8135235b93d3b7b02660989d49ddf48a1c74030b5ee1954ad9"
+    repoEtag: W/"057aecade8ade0957d8dd05bd009aaa8338fa2ffcbf6c1d793d7a53e9a93a88a"
+    releasesEtag: W/"68d9c132654f274d76ec6c86b0edd3d6bc1e04210e583cfecedd834115c13510"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

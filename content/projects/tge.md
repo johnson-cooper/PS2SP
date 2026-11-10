@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-09T17:31:46.435Z'
+  lastSynchronized: '2026-11-10T17:53:38.304Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7aa6a0b7a49464a39d39046ad3e9efe9391a6098a78777fd4d09bf8ec76c2788"
-    releasesEtag: '"1b07a5f20096cf9b5a1d413c9a9567ef7d1120a01238e1a61c91dfa57f6d8b7a"'
+    repoEtag: W/"ada421898d5a25c6e38388afa634215ca63dbce187a8256c2f2ec954fe4b7c22"
+    releasesEtag: '"fc306235fae60f40320f5c5058adc46667703b89cb98dd864151b11f789d08a8"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100

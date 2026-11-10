@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2025-08-24T22:10:00Z'
   url: 'https://github.com/pcm720/protopwn/releases/tag/v1.0.1'
 activity:
-  lastSynchronized: '2026-11-09T17:30:52.035Z'
+  lastSynchronized: '2026-11-10T17:52:34.724Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"baaaeb68f3e0eb611ff9a273a627dd728d436cb7f5e1441f52043ef6a15a6da3"
-    releasesEtag: W/"717c6769098e6a2c6866cb4cfcda30e3a610985510adfb604f220fee3963cf91"
+    repoEtag: W/"f40333d78e062f696d538d25d80e821cb91f772cf4cb72f2a930966a2f74c68d"
+    releasesEtag: W/"ffd332e7830f2f3db40f01eb076ce60bd913f49b26e10636a315822069921831"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

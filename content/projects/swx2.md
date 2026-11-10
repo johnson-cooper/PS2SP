@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/Swairovsk-dev/SWX2/releases/tag/v1.0.8'
 activity:
   lastChecked: '2026-11-05T18:58:40.172Z'
-  lastSynchronized: '2026-11-09T17:31:45.851Z'
+  lastSynchronized: '2026-11-10T17:53:37.678Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"82ad422fb36868ae8d368b210e309b7fb5bcfae9ccc1bc873acab894ffebabe9"
-    releasesEtag: W/"f25b016709f5a8864711040849f50d15f857c5f6784496e68ffd3a3feeaa0669"
+    repoEtag: W/"fac15dcd43b3bbb9cea9c31774a4d64cadc80f77c8edcae9e49f0bd95fb899a0"
+    releasesEtag: W/"56be8e3e14dac545ce6e3fc48da19d6c94c4238a8b9974de92e7bcbf944efbbe"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85

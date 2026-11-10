@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-09-30T03:20:09Z'
   url: 'https://github.com/dnllnoe/pokeemerald-ps2/releases/tag/v0.1.0-ps2'
 activity:
-  lastSynchronized: '2026-11-09T17:30:50.877Z'
+  lastSynchronized: '2026-11-10T17:52:33.270Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8b7edc845074cad707c3f10cb7af3ec7f6b41995a95e404bf581ba1c62bdb06e"
-    releasesEtag: W/"a41bc5756c7107f88f26b4ad1d4bc578ecff4bd0a00bc155760a1c3e9bc60623"
+    repoEtag: W/"572a033b65cfef64f56da5fb25d8fc5d9b5f6620f71bf2f960ae7c7c7530bb5f"
+    releasesEtag: W/"55605883250a08f7669b60cec4c240c1b9704cc5b8528b5045247ee5c0de33bf"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
