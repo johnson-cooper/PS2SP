@@ -1,0 +1,16 @@
+{
+  "repository": "ReactorcoreGames/Audio-Folder-Unifier",
+  "repositoryId": "1452752681",
+  "url": "https://github.com/ReactorcoreGames/Audio-Folder-Unifier",
+  "description": "Make a whole folder of audio sound consistent: loudness matching that works on short SFX, plus a retro quality ladder (NES to PS2) and 13 more effects. Python + ttkbootstrap + FFmpeg, Windows exe.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-10T17:18:05.976Z",
+  "checkedAt": "2026-11-10T17:18:05.976Z"
+}
