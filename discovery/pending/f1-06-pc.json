@@ -1,0 +1,16 @@
+{
+  "repository": "KevinL50-sysadmin/F1-06-PC",
+  "repositoryId": "1454308821",
+  "url": "https://github.com/KevinL50-sysadmin/F1-06-PC",
+  "description": "Formula One 06 (PS2) statically recompiled into a native Windows PC port. Bring your own disc. Fan project.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-11-11T18:03:48.531Z",
+  "checkedAt": "2026-11-11T18:03:48.531Z"
+}
