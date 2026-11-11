@@ -1,0 +1,16 @@
+{
+  "repository": "Utogu9/Sony_-_PlayStation_2",
+  "repositoryId": "1453428795",
+  "url": "https://github.com/Utogu9/Sony_-_PlayStation_2",
+  "description": "Sony PlayStation 2 artwork and metadata for OpenCabinet-BDD.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-11T09:51:14.859Z",
+  "checkedAt": "2026-11-11T09:51:14.859Z"
+}
