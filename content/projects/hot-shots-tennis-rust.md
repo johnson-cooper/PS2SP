@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/FIZL0/opentennis/releases/tag/v1.6.2'
 activity:
   lastChecked: '2026-10-09T16:35:29.097Z'
-  lastSynchronized: '2026-11-08T15:13:32.624Z'
+  lastSynchronized: '2026-11-11T15:12:52.777Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1c2561eef336cfe981ee249d225b7c68cc441cdb1b78458bf19db42f9a7a7165"
-    releasesEtag: W/"b8ee0a2b0378301d40cabdf649401708abdff80bc3c7111dacc16d486ff45055"
+    repoEtag: W/"7e77dd671a91dda9041178464690ea12757755512bf6d171261263f765ef7cd0"
+    releasesEtag: W/"2e890e47d11104f3458c446a0976a02c25ecb9aada48d71e1d4583fd359346d6"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85

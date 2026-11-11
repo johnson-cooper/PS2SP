@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-08T15:13:09.757Z'
+  lastSynchronized: '2026-11-11T15:12:16.237Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5003929a9ffd494f038b71103447ad3992ed17f0bc6ea6dd397edc0d065b033f"
-    releasesEtag: '"92e2f2afde06cfa79fae294d94e1123ac5d56a202679866d4fecc6991c5d3df0"'
+    repoEtag: W/"c8101c366a6f5e2e357e715a5d4b58daba688c6d58fdfba6c89ab1373422b651"
+    releasesEtag: '"4429150f34678cedd74c64579b30809858d8cdb312b1ed77eb714a79c20f6fb1"'
 discovery:
   method: 'fork-network:terremoth/awesome-ps2'
   confidence: 100

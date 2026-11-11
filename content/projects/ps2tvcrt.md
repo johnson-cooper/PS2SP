@@ -22,7 +22,7 @@ repository:
   defaultBranch: main
   stars: 3
   forks: 2
-  lastCommit: '2026-11-04T22:45:10Z'
+  lastCommit: '2026-11-11T15:05:39Z'
 latestRelease:
   tag: Suite_FULL_INSTALL_MC
   name: RETROVOLT_SUITE_FULL_INSTALL
@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/Kyllemn/PS2TVCRT/releases/tag/Suite_FULL_INSTALL_MC'
 activity:
   lastChecked: '2026-10-18T18:16:42.637Z'
-  lastSynchronized: '2026-11-08T15:14:45.397Z'
+  lastSynchronized: '2026-11-11T15:14:55.369Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fd00628b294b17e3e9c4ce1874ce79641f3f6f9e943b8cdf78d36f6b3767d547"
-    releasesEtag: W/"3b068b8ed259051375cb8a817c12fe1a2f0c739a5d44fd0c746b14c00b2f0b94"
+    repoEtag: W/"ee0976d28d20a7984f2ceb0bae76a944862b6b36dfc8a16e4236b9308e8860a0"
+    releasesEtag: W/"36976a7aae8899bac4bfeca29a8ac915c4a2d59ca06dbadd7eb3e48056d7aa9f"
 discovery:
   method: 'pending-promotion:starred:NathanNeurotic'
   confidence: 70

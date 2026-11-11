@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-19T08:46:57Z'
   url: 'https://github.com/XDaoFangxiX/ARMSX2-Alpha/releases/tag/2.9.7-build.48'
 activity:
-  lastSynchronized: '2026-11-08T15:13:01.003Z'
+  lastSynchronized: '2026-11-11T15:12:02.045Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c6917d0ede0ef2fc73dbeece286a52af139ccf11bb66e0d91c6d1f7a30dd3518"
-    releasesEtag: W/"f7eeb34c37a7bd5dacd167d9c89cb69abd78380a2247b6e782fcf01c48d24f6f"
+    repoEtag: W/"7e4b835777d0e969c5d8b170912b2f37493d5a4125e7de23251059a02212e8a8"
+    releasesEtag: W/"97ed9454c4b57634d1880b786c4852178a672dc7c5285cd41cfc556d55f1c7e2"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

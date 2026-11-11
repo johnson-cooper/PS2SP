@@ -26,17 +26,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-10T01:27:15Z'
+  lastCommit: '2026-11-11T06:20:34Z'
 latestRelease:
-  tag: setup-v0.4.5
-  name: Setup v0.4.5
-  publishedAt: '2026-11-10T00:10:40Z'
+  tag: setup-v0.4.8
+  name: Setup v0.4.8
+  publishedAt: '2026-11-10T23:14:54Z'
   url: >-
-    https://github.com/ravioli-gh/transformers-armada-recomp/releases/tag/setup-v0.4.5
+    https://github.com/ravioli-gh/transformers-armada-recomp/releases/tag/setup-v0.4.8
 activity:
-  lastSynchronized: '2026-11-10T01:45:54.437Z'
+  lastSynchronized: '2026-11-11T15:15:17.993Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0390b50f524330bc09ce991550880cd0934d98ed0ea962cc85f724151bc3756a"
+    releasesEtag: W/"e8d17635b00777a165909018f267aa4a6eca366b273eac73f2e5f6a45bb984c2"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -56,5 +59,4 @@ relationships:
   forkOf: kayliox/transformers-armada-recomp
   source: kayliox/transformers-armada-recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

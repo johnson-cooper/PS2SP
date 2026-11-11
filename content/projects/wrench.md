@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/chaoticgd/wrench/releases/tag/v0.6'
 activity:
   lastChecked: '2026-09-29T09:05:43.442Z'
-  lastSynchronized: '2026-11-08T15:15:01.556Z'
+  lastSynchronized: '2026-11-11T15:15:22.784Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5195a2a07958b2f9a6de9741e32ecfb48f840c559533e3a7c441b902d705d031"
-    releasesEtag: W/"ad58947b7b1e45ef7993aade5e9d94791d85164c420025863056041b1d30b9e7"
+    repoEtag: W/"0d5cd28f4652545ba281dc94f624d287e91e38d7e06e4d460df90a64a1f63763"
+    releasesEtag: W/"c64fd9e37a10a89c347855fb6d407fb2f72d289968a7eb0c6b6a317b60db9590"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

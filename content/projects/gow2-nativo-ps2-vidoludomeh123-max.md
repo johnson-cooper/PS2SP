@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-08T15:13:29.679Z'
+  lastSynchronized: '2026-11-11T15:12:48.099Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b83db1adf2a023593ec004417987cb52ae5776082b23e1efb9d838178621f185"
-    releasesEtag: '"92e2f2afde06cfa79fae294d94e1123ac5d56a202679866d4fecc6991c5d3df0"'
+    repoEtag: W/"7e21a2b392c7dd66c573974acdf2c06f24873ab8029712e53c13c03791c59dba"
+    releasesEtag: '"4429150f34678cedd74c64579b30809858d8cdb312b1ed77eb714a79c20f6fb1"'
 discovery:
   method: 'fork-network:cxldsakeb/GoW2-nativo-PS2'
   confidence: 100

@@ -26,9 +26,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 225
-  forks: 8
-  lastCommit: '2026-11-07T22:40:46Z'
+  stars: 240
+  forks: 9
+  lastCommit: '2026-11-11T14:39:57Z'
 latestRelease:
   tag: v0.5.0
   name: >-
@@ -37,12 +37,12 @@ latestRelease:
   publishedAt: '2026-11-03T00:10:26Z'
   url: 'https://github.com/Vnnc1/gow-native-pc/releases/tag/v0.5.0'
 activity:
-  lastSynchronized: '2026-11-08T15:13:29.245Z'
+  lastSynchronized: '2026-11-11T15:12:47.394Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"91b329079e2dda4ff79ca32256fcfbfe984bc3059f4868cd3bcc132cbf530440"
-    releasesEtag: W/"82cd54f013f7f3f8ab16d934157ad47908feaf2e1cac2557f8e7900d7468e3fa"
+    repoEtag: W/"c9b2f81881801221c0499618fcd8be4e9b397de7fb4a609c2df4f8ea7ef2dc0e"
+    releasesEtag: W/"01a3035362dd313d318a898f9c6d37d8535b50be71901cb8dad56e5018abcca7"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

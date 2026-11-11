@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/Jetup13/ARMSX2/releases/tag/come.nanodata.armsx2-nightly-1.0.7-20251127-0924
 activity:
-  lastSynchronized: '2026-11-08T15:13:04.028Z'
+  lastSynchronized: '2026-11-11T15:12:06.633Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1aab41e2be9d92d4763c6c98244b4a9a67099f78270f48662715c14386fbc382"
-    releasesEtag: W/"992b214118fc06348a5de6a717b9bd46d4cfe0b8a1572f5e6ef2e85b3738b18f"
+    repoEtag: W/"39b6eb9e9c923fa84654880a6a5358291ab29a93e3d5ff622d3fe193400461f0"
+    releasesEtag: W/"429a4714a618fc5aa56eea623aeee2d87e37956f350f87ec6fb91a4200e4269f"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

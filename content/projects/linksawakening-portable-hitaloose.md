@@ -21,8 +21,8 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
-  forks: 0
+  stars: 1
+  forks: 1
   lastCommit: '2026-11-07T13:41:25Z'
 latestRelease:
   tag: null
@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-08T15:13:41.345Z'
+  lastSynchronized: '2026-11-11T15:13:07.311Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c0c2d51a6f960d6bce3d0cd3c5b0483e9966cf2eef82a301dbd85870a4b9a79c"
-    releasesEtag: '"92e2f2afde06cfa79fae294d94e1123ac5d56a202679866d4fecc6991c5d3df0"'
+    repoEtag: W/"0ca5b5329f12f01363124dfb6fe51c7930374e418840831d0ef613009f043bdd"
+    releasesEtag: '"4429150f34678cedd74c64579b30809858d8cdb312b1ed77eb714a79c20f6fb1"'
 discovery:
   method: 'fork-network:sp00nznet/linksawakening-portable'
   confidence: 95
