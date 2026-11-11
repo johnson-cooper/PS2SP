@@ -23,9 +23,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 2
   forks: 0
-  lastCommit: '2026-10-24T20:13:28Z'
+  lastCommit: '2026-11-08T00:03:50Z'
 latestRelease:
   tag: v0.9.1
   name: v0.9.1 (beta)
@@ -34,12 +34,12 @@ latestRelease:
     https://github.com/damon-daemon/nobunaga-soutenroku-puk-english/releases/tag/v0.9.1
 activity:
   lastChecked: '2026-10-20T19:35:24.428Z'
-  lastSynchronized: '2026-10-31T21:35:05.900Z'
+  lastSynchronized: '2026-11-11T21:58:58.780Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b5394edc8427a3af7c67dc87689f4f39648755cff569acc31a6a94b91b0be373"
-    releasesEtag: W/"92297b318a70bcdad3085a89c18953a4045c686effa1a4d3f64e83a60dad8390"
+    repoEtag: W/"b0c267e3309655c4a47fe700edfea07107b3b9bbc2f4e265b6982863cfb359d0"
+    releasesEtag: W/"d35815ae2fedea30c968a94f2d4f96fed3f6e8e554303a6a39005716b9fa0fb2"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

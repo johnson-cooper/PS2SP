@@ -14,26 +14,26 @@ license: GPL-3.0
 homepage: 'https://danielnuld.github.io/ps2-launcher/'
 source:
   provider: github
-  repository: danielnuld/ps2-launcher
+  repository: danielnuld/nuld
   repositoryId: '1401068325'
 repository:
   archived: false
   defaultBranch: master
-  stars: 15
+  stars: 17
   forks: 1
-  lastCommit: '2026-10-13T03:51:01Z'
+  lastCommit: '2026-11-10T06:12:55Z'
 latestRelease:
-  tag: v1.0.2
-  name: ORBIT v1.0.2
-  publishedAt: '2026-10-06T06:00:02Z'
-  url: 'https://github.com/danielnuld/ps2-launcher/releases/tag/v1.0.2'
+  tag: v1.2.12
+  name: NULD v1.2.12
+  publishedAt: '2026-11-08T08:49:19Z'
+  url: 'https://github.com/danielnuld/nuld/releases/tag/v1.2.12'
 activity:
-  lastSynchronized: '2026-10-31T21:35:44.300Z'
+  lastSynchronized: '2026-11-11T21:59:50.033Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"46ad5b9149a732b6f1190a6d03de88d6c9e602a2d988299cb20f557dabf789f9"
-    releasesEtag: W/"c9a15cbdabe5c2da85f2e49cbcff8941242b3318d92b3ab2a005ec2cc50baddf"
+    repoEtag: W/"1aa0dad2712c51e6a81bf103574a3c1048928ae9a62893d3fdaf331a13b3c4ea"
+    releasesEtag: W/"21c69a09699f5568675d0920875f34e517da2a4fca8189f7b10736f54566e57d"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

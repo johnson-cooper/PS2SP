@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-31T21:35:34.868Z'
+  lastSynchronized: '2026-11-11T21:59:38.267Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3c0a85536a01f1ae40fac86de2b37e79e85d662b57812944882004481ad33e7d"
-    releasesEtag: '"4da18e51dfb63479748d5f2062fd7c31ab13b4cfeaf582b2c6f4acdcfce67a3f"'
+    repoEtag: W/"75fc42b4feff3463169e0cd88f4ba6e71820eb2c930af7ae1480197154b26de6"
+    releasesEtag: '"5aa280d5753d4dbff4bf4150cd345cf8a7f1e277f73d42d2b759639db73dc321"'
 discovery:
   method: 'fork-network:israpps/PlayStation2-Basic-BootLoader'
   confidence: 100

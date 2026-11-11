@@ -21,16 +21,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-31T21:54:31Z'
+  lastCommit: '2026-11-01T13:54:03Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-31T21:53:36.436Z'
+  lastSynchronized: '2026-11-11T21:59:15.611Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"38f042f0ddb7c1454e8e55d9bf951021453fb21125f78462d19d9cae10333444"
+    releasesEtag: '"5aa280d5753d4dbff4bf4150cd345cf8a7f1e277f73d42d2b759639db73dc321"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: aap/osdbits
   source: aap/osdbits
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

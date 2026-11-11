@@ -23,19 +23,19 @@ repository:
   defaultBranch: ps2
   stars: 6
   forks: 1
-  lastCommit: '2026-02-16T10:46:47Z'
+  lastCommit: '2026-11-11T14:26:54Z'
 latestRelease:
   tag: 1.0.0.1
   name: PS2-PRBOOM-PLUS Release 1.0.0.1
   publishedAt: '2025-12-21T00:12:54Z'
   url: 'https://github.com/Wolf3s/prboom-plus/releases/tag/1.0.0.1'
 activity:
-  lastSynchronized: '2026-10-31T21:35:35.462Z'
+  lastSynchronized: '2026-11-11T21:59:38.985Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"761cdd1906e82c338d93e822c9ca53222daf14bfbda1be8f96c0c8b510216767"
-    releasesEtag: W/"d3490ab3a0775a6785440286ca92237699e54373170943a8cf38d643690553e4"
+    repoEtag: W/"e7f932246a56917321c8b9178e0fc3c5bdef7e4dfbd7f117de5fcd50da9f82bc"
+    releasesEtag: W/"0f00306fba776a02ba0ba1996509099b8d67742d73b37ae529827840311a59e2"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

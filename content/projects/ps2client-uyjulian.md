@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2024-07-30T02:41:13Z'
   url: 'https://github.com/uyjulian/ps2client/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-31T21:35:52.723Z'
+  lastSynchronized: '2026-11-11T22:00:03.472Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a2eb4623ffb2f229742ca9ed06ee485158d3b03553bbade589215d65a193c8f9"
-    releasesEtag: W/"8e6bd50c9274eedd8f037db4aea3e088457953a4067e96452db53bd8680a2db5"
+    repoEtag: W/"bafcd0d2d85b5751293f87082e63868ba8808c16f39139e63f30ba90d1800856"
+    releasesEtag: W/"9b5e34373fb9a79da90359eb86e1f2bd1899b939524af691092d0962aa22271b"
 discovery:
   method: 'fork-network:ps2dev/ps2client'
   confidence: 95

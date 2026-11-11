@@ -21,16 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-06T20:19:40Z'
+  lastCommit: '2026-11-06T21:38:01Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-06T21:04:14.173Z'
+  lastSynchronized: '2026-11-11T22:01:00.976Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"31a271f58c9d3747dbf52e251c60d1cf94e6de3f6489fc9db775a1a76e1d9387"
+    releasesEtag: '"5aa280d5753d4dbff4bf4150cd345cf8a7f1e277f73d42d2b759639db73dc321"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: OpokXeno/xsg-i-decomp
   source: OpokXeno/xsg-i-decomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

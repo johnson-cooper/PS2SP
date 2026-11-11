@@ -28,9 +28,12 @@ latestRelease:
   url: >-
     https://github.com/Trixarian/ARMSX2/releases/tag/come.nanodata.armsx2-nightly-1.0.5-20251120-2349
 activity:
-  lastSynchronized: '2026-11-04T01:40:14.557Z'
+  lastSynchronized: '2026-11-11T21:58:03.325Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"633b34dd4a2c160fc22052cd48a984954bb93a972ff80995aa2abfe28fad1a4a"
+    releasesEtag: W/"89f2c4cb388043b748277d59d853d1dc24504eaa49facae524328a9f04dc9ef8"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: ARMSX2/ARMSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

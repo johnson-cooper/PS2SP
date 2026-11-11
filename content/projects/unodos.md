@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 34
+  stars: 33
   forks: 0
   lastCommit: '2026-10-21T03:33:56Z'
 latestRelease:
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/hmofet/unodos/releases/tag/v3.35.0'
 activity:
   lastChecked: '2026-10-09T16:35:29.097Z'
-  lastSynchronized: '2026-10-31T21:36:27.436Z'
+  lastSynchronized: '2026-11-11T22:00:54.401Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"290985060b825401a6cc9cb23561dca125c310c52b5d2f4aa4be41ffceb1effa"
-    releasesEtag: W/"022023078c78e083ad07fa96adb163cdaa92fc009bb6d04a8c85663772d3d471"
+    repoEtag: W/"2fd5910a1ff4fde02872a1e375ee6210e6aacbdd54372e69c4eaf30abd6396e8"
+    releasesEtag: W/"3cabce38cac288f1e0304571025ba4748129df6b38764ae74a24f9032317a9f4"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 80

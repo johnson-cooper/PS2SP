@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2026-11-08T13:58:25Z'
   url: 'https://github.com/DarthKrayt333/PS2AudioStudio/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-11-08T16:20:16.333Z'
+  lastSynchronized: '2026-11-11T22:00:01.938Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"770d16f34669ee73b7c7432c062288bd153d4730123ddc25a60655addba9ecae"
+    releasesEtag: W/"286366e794fec3c0c2e5016dac62c8547ef08a8ee275ce7374e53e3e0c67d531"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

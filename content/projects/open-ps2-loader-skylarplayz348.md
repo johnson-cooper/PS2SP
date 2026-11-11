@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2026-10-13T17:39:15Z'
   url: 'https://github.com/fuzzyghosty/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-31T21:35:11.944Z'
+  lastSynchronized: '2026-11-11T21:59:07.280Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bb7bf65d531a539071969f90ea166a48f22078930bf862af8782ecdaa886c698"
-    releasesEtag: W/"edbd3dea06b41b679c1d2597db7844fe13ef4a82256c14ef6d043e218725eee0"
+    repoEtag: W/"037f384b3bf0c893c02728327a894e910053c409f32f7647341ebf341d3db4e1"
+    releasesEtag: W/"c23d2577feb77b9b2c81f2906b4670aeebc48e1bd6f5b4a86295a2844adc150b"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100
