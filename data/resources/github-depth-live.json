@@ -34220,6 +34220,19 @@
         ]
       },
       {
+        "name": "DanielSant0s/AthenaEnv — branch: dot3",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "DanielSant0s/AthenaEnv",
+          "dot3"
+        ]
+      },
+      {
         "name": "DanielSant0s/AthenaEnv — branch: main",
         "url": "https://github.com/DanielSant0s/AthenaEnv/tree/main",
         "keywords": [
@@ -186086,6 +186099,45 @@
         ]
       },
       {
+        "name": "SplaatSites/Butterscotch-rf — branch: main",
+        "url": "https://github.com/SplaatSites/Butterscotch-rf/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SplaatSites/Butterscotch-rf",
+          "main"
+        ]
+      },
+      {
+        "name": "SplaatSites/Butterscotch-rf — branch: patch-1",
+        "url": "https://github.com/SplaatSites/Butterscotch-rf/tree/patch-1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SplaatSites/Butterscotch-rf",
+          "patch-1"
+        ]
+      },
+      {
+        "name": "SplaatSites/Butterscotch-rf — branch: patch-2",
+        "url": "https://github.com/SplaatSites/Butterscotch-rf/tree/patch-2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SplaatSites/Butterscotch-rf",
+          "patch-2"
+        ]
+      },
+      {
         "name": "SPLT12/FreeDVDBoot — branch: gh-pages",
         "url": "https://github.com/SPLT12/FreeDVDBoot/tree/gh-pages",
         "keywords": [
@@ -186694,6 +186746,292 @@
           "repository",
           "Stayhye/AthenaEnv",
           "main"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: butterscotch-lib",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/butterscotch-lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "butterscotch-lib"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: bytecode-experiments",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/bytecode-experiments",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "bytecode-experiments"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: copilot/research-gml-reals-implementation",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/copilot/research-gml-reals-implementation",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "copilot/research-gml-reals-implementation"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: dup-fix",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/dup-fix",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "dup-fix"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: fancy-main",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/fancy-main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "fancy-main"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: main",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "main"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: mpl",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/mpl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "mpl"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: native-scripts-test",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/native-scripts-test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "native-scripts-test"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: preprocessor-untested",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/preprocessor-untested",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "preprocessor-untested"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: ps2-lag-input",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/ps2-lag-input",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "ps2-lag-input"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: ps2-only",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/ps2-only",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "ps2-only"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: ps3-surfaces",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/ps3-surfaces",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "ps3-surfaces"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: ps3-surfaces-power",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/ps3-surfaces-power",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "ps3-surfaces-power"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: ps3/paletted-textures",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/ps3/paletted-textures",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "ps3/paletted-textures"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: ps3/sufaces_rebased",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/ps3/sufaces_rebased",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "ps3/sufaces_rebased"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: revert-363-gm2024-rle-check",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/revert-363-gm2024-rle-check",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "revert-363-gm2024-rle-check"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: revert-401-well512a",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/revert-401-well512a",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "revert-401-well512a"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: sdl12",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/sdl12",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "sdl12"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: survey_program",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/survey_program",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "survey_program"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: undertale-lost-content-archive-edition",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/undertale-lost-content-archive-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "undertale-lost-content-archive-edition"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: video",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/video",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "video"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch — branch: vita-sdl2",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/vita-sdl2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Stayhye/Butterscotch",
+          "vita-sdl2"
         ]
       },
       {
@@ -188033,6 +188371,201 @@
           "repository",
           "Suprnova/IndustrialPark",
           "main"
+        ]
+      },
+      {
+        "name": "SuprUsr123/Butterscotch — branch: butterscotch-lib",
+        "url": "https://github.com/SuprUsr123/Butterscotch/tree/butterscotch-lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SuprUsr123/Butterscotch",
+          "butterscotch-lib"
+        ]
+      },
+      {
+        "name": "SuprUsr123/Butterscotch — branch: bytecode-experiments",
+        "url": "https://github.com/SuprUsr123/Butterscotch/tree/bytecode-experiments",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SuprUsr123/Butterscotch",
+          "bytecode-experiments"
+        ]
+      },
+      {
+        "name": "SuprUsr123/Butterscotch — branch: fancy-main",
+        "url": "https://github.com/SuprUsr123/Butterscotch/tree/fancy-main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SuprUsr123/Butterscotch",
+          "fancy-main"
+        ]
+      },
+      {
+        "name": "SuprUsr123/Butterscotch — branch: main",
+        "url": "https://github.com/SuprUsr123/Butterscotch/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SuprUsr123/Butterscotch",
+          "main"
+        ]
+      },
+      {
+        "name": "SuprUsr123/Butterscotch — branch: mpl",
+        "url": "https://github.com/SuprUsr123/Butterscotch/tree/mpl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SuprUsr123/Butterscotch",
+          "mpl"
+        ]
+      },
+      {
+        "name": "SuprUsr123/Butterscotch — branch: native-scripts-test",
+        "url": "https://github.com/SuprUsr123/Butterscotch/tree/native-scripts-test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SuprUsr123/Butterscotch",
+          "native-scripts-test"
+        ]
+      },
+      {
+        "name": "SuprUsr123/Butterscotch — branch: preprocessor-untested",
+        "url": "https://github.com/SuprUsr123/Butterscotch/tree/preprocessor-untested",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SuprUsr123/Butterscotch",
+          "preprocessor-untested"
+        ]
+      },
+      {
+        "name": "SuprUsr123/Butterscotch — branch: ps2-lag-input",
+        "url": "https://github.com/SuprUsr123/Butterscotch/tree/ps2-lag-input",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SuprUsr123/Butterscotch",
+          "ps2-lag-input"
+        ]
+      },
+      {
+        "name": "SuprUsr123/Butterscotch — branch: ps3-surfaces",
+        "url": "https://github.com/SuprUsr123/Butterscotch/tree/ps3-surfaces",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SuprUsr123/Butterscotch",
+          "ps3-surfaces"
+        ]
+      },
+      {
+        "name": "SuprUsr123/Butterscotch — branch: ps3-surfaces-power",
+        "url": "https://github.com/SuprUsr123/Butterscotch/tree/ps3-surfaces-power",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SuprUsr123/Butterscotch",
+          "ps3-surfaces-power"
+        ]
+      },
+      {
+        "name": "SuprUsr123/Butterscotch — branch: ps3/paletted-textures",
+        "url": "https://github.com/SuprUsr123/Butterscotch/tree/ps3/paletted-textures",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SuprUsr123/Butterscotch",
+          "ps3/paletted-textures"
+        ]
+      },
+      {
+        "name": "SuprUsr123/Butterscotch — branch: ps3/sufaces_rebased",
+        "url": "https://github.com/SuprUsr123/Butterscotch/tree/ps3/sufaces_rebased",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SuprUsr123/Butterscotch",
+          "ps3/sufaces_rebased"
+        ]
+      },
+      {
+        "name": "SuprUsr123/Butterscotch — branch: sdl12",
+        "url": "https://github.com/SuprUsr123/Butterscotch/tree/sdl12",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SuprUsr123/Butterscotch",
+          "sdl12"
+        ]
+      },
+      {
+        "name": "SuprUsr123/Butterscotch — branch: survey_program",
+        "url": "https://github.com/SuprUsr123/Butterscotch/tree/survey_program",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SuprUsr123/Butterscotch",
+          "survey_program"
+        ]
+      },
+      {
+        "name": "SuprUsr123/Butterscotch — branch: undertale-lost-content-archive-edition",
+        "url": "https://github.com/SuprUsr123/Butterscotch/tree/undertale-lost-content-archive-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "SuprUsr123/Butterscotch",
+          "undertale-lost-content-archive-edition"
         ]
       },
       {
@@ -190506,6 +191039,136 @@
         ]
       },
       {
+        "name": "TheSillyDoggo/Butterscotch — branch: butterscotch-lib",
+        "url": "https://github.com/TheSillyDoggo/Butterscotch/tree/butterscotch-lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "TheSillyDoggo/Butterscotch",
+          "butterscotch-lib"
+        ]
+      },
+      {
+        "name": "TheSillyDoggo/Butterscotch — branch: bytecode-experiments",
+        "url": "https://github.com/TheSillyDoggo/Butterscotch/tree/bytecode-experiments",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "TheSillyDoggo/Butterscotch",
+          "bytecode-experiments"
+        ]
+      },
+      {
+        "name": "TheSillyDoggo/Butterscotch — branch: fancy-main",
+        "url": "https://github.com/TheSillyDoggo/Butterscotch/tree/fancy-main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "TheSillyDoggo/Butterscotch",
+          "fancy-main"
+        ]
+      },
+      {
+        "name": "TheSillyDoggo/Butterscotch — branch: main",
+        "url": "https://github.com/TheSillyDoggo/Butterscotch/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "TheSillyDoggo/Butterscotch",
+          "main"
+        ]
+      },
+      {
+        "name": "TheSillyDoggo/Butterscotch — branch: native-scripts-test",
+        "url": "https://github.com/TheSillyDoggo/Butterscotch/tree/native-scripts-test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "TheSillyDoggo/Butterscotch",
+          "native-scripts-test"
+        ]
+      },
+      {
+        "name": "TheSillyDoggo/Butterscotch — branch: ps2-lag-input",
+        "url": "https://github.com/TheSillyDoggo/Butterscotch/tree/ps2-lag-input",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "TheSillyDoggo/Butterscotch",
+          "ps2-lag-input"
+        ]
+      },
+      {
+        "name": "TheSillyDoggo/Butterscotch — branch: psp-platform",
+        "url": "https://github.com/TheSillyDoggo/Butterscotch/tree/psp-platform",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "TheSillyDoggo/Butterscotch",
+          "psp-platform"
+        ]
+      },
+      {
+        "name": "TheSillyDoggo/Butterscotch — branch: psp-support",
+        "url": "https://github.com/TheSillyDoggo/Butterscotch/tree/psp-support",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "TheSillyDoggo/Butterscotch",
+          "psp-support"
+        ]
+      },
+      {
+        "name": "TheSillyDoggo/Butterscotch — branch: survey_program",
+        "url": "https://github.com/TheSillyDoggo/Butterscotch/tree/survey_program",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "TheSillyDoggo/Butterscotch",
+          "survey_program"
+        ]
+      },
+      {
+        "name": "TheSillyDoggo/Butterscotch — branch: undertale-lost-content-archive-edition",
+        "url": "https://github.com/TheSillyDoggo/Butterscotch/tree/undertale-lost-content-archive-edition",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "TheSillyDoggo/Butterscotch",
+          "undertale-lost-content-archive-edition"
+        ]
+      },
+      {
         "name": "Thesoim/ARMSX2-Gold — branch: main",
         "url": "https://github.com/Thesoim/ARMSX2-Gold/tree/main",
         "keywords": [
@@ -190740,6 +191403,19 @@
         ]
       },
       {
+        "name": "thtrandomlurker/Butterscotch — branch: main",
+        "url": "https://github.com/thtrandomlurker/Butterscotch/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "thtrandomlurker/Butterscotch",
+          "main"
+        ]
+      },
+      {
         "name": "thyagofarya/3s-decomp — branch: main",
         "url": "https://github.com/thyagofarya/3s-decomp/tree/main",
         "keywords": [
@@ -190892,6 +191568,19 @@
           "branch",
           "repository",
           "Timo-1979/PSBBN-Definitive-Project",
+          "main"
+        ]
+      },
+      {
+        "name": "TimofeyLednev/Butterscotch — branch: main",
+        "url": "https://github.com/TimofeyLednev/Butterscotch/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "TimofeyLednev/Butterscotch",
           "main"
         ]
       },
@@ -194458,6 +195147,32 @@
         ]
       },
       {
+        "name": "TopModder/Butterfork — branch: main",
+        "url": "https://github.com/TopModder/Butterfork/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "TopModder/Butterfork",
+          "main"
+        ]
+      },
+      {
+        "name": "TopModder/Butterfork — branch: Resolve_Init_Global",
+        "url": "https://github.com/TopModder/Butterfork/tree/Resolve_Init_Global",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "TopModder/Butterfork",
+          "Resolve_Init_Global"
+        ]
+      },
+      {
         "name": "torchesburn/iris — branch: master",
         "url": "https://github.com/torchesburn/iris/tree/master",
         "keywords": [
@@ -194731,6 +195446,32 @@
         ]
       },
       {
+        "name": "tronprogram/Butterscotch — branch: main",
+        "url": "https://github.com/tronprogram/Butterscotch/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tronprogram/Butterscotch",
+          "main"
+        ]
+      },
+      {
+        "name": "tronprogram/Butterscotch — branch: wii/deltarune-wtl2",
+        "url": "https://github.com/tronprogram/Butterscotch/tree/wii/deltarune-wtl2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tronprogram/Butterscotch",
+          "wii/deltarune-wtl2"
+        ]
+      },
+      {
         "name": "truestory989/Open-PS2-Loader-Compatibility-list — branch: create-pull-request/patch-wdb5han",
         "url": "https://github.com/truestory989/Open-PS2-Loader-Compatibility-list/tree/create-pull-request/patch-wdb5han",
         "keywords": [
@@ -194767,6 +195508,45 @@
           "repository",
           "truestory989/Open-PS2-Loader-Compatibility-list",
           "main"
+        ]
+      },
+      {
+        "name": "tuloxcontulox-tech/Butterscotch — branch: main",
+        "url": "https://github.com/tuloxcontulox-tech/Butterscotch/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tuloxcontulox-tech/Butterscotch",
+          "main"
+        ]
+      },
+      {
+        "name": "tuloxcontulox-tech/Butterscotch — branch: ps3-port-skeleton-4047665675831341942",
+        "url": "https://github.com/tuloxcontulox-tech/Butterscotch/tree/ps3-port-skeleton-4047665675831341942",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tuloxcontulox-tech/Butterscotch",
+          "ps3-port-skeleton-4047665675831341942"
+        ]
+      },
+      {
+        "name": "tuloxcontulox-tech/Butterscotch — branch: ps3-vs2012-project-support-2586168103517591242",
+        "url": "https://github.com/tuloxcontulox-tech/Butterscotch/tree/ps3-vs2012-project-support-2586168103517591242",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tuloxcontulox-tech/Butterscotch",
+          "ps3-vs2012-project-support-2586168103517591242"
         ]
       },
       {
@@ -204780,6 +205560,19 @@
         ]
       },
       {
+        "name": "WinG4merBR/Butterscotch — branch: main",
+        "url": "https://github.com/WinG4merBR/Butterscotch/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "WinG4merBR/Butterscotch",
+          "main"
+        ]
+      },
+      {
         "name": "Wink72/psbbn-art-database — branch: main",
         "url": "https://github.com/Wink72/psbbn-art-database/tree/main",
         "keywords": [
@@ -205036,6 +205829,45 @@
           "branch",
           "repository",
           "WizzardSK/lrps2-libretro",
+          "main"
+        ]
+      },
+      {
+        "name": "wlroots/Butterscotch — branch: cmakefix",
+        "url": "https://github.com/wlroots/Butterscotch/tree/cmakefix",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "wlroots/Butterscotch",
+          "cmakefix"
+        ]
+      },
+      {
+        "name": "wlroots/Butterscotch — branch: main",
+        "url": "https://github.com/wlroots/Butterscotch/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "wlroots/Butterscotch",
+          "main"
+        ]
+      },
+      {
+        "name": "wmjb/Butterscotch — branch: main",
+        "url": "https://github.com/wmjb/Butterscotch/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "wmjb/Butterscotch",
           "main"
         ]
       },
@@ -205768,6 +206600,19 @@
         ]
       },
       {
+        "name": "WolffsRoom/ButterscotchVita — branch: main",
+        "url": "https://github.com/WolffsRoom/ButterscotchVita/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "WolffsRoom/ButterscotchVita",
+          "main"
+        ]
+      },
+      {
         "name": "Wolverine-14/PlayStation2-Basic-BootLoader — branch: Cdstop4fdvdb",
         "url": "https://github.com/Wolverine-14/PlayStation2-Basic-BootLoader/tree/Cdstop4fdvdb",
         "keywords": [
@@ -206155,6 +207000,19 @@
           "repository",
           "wrendallas/FreeDVDBoot",
           "master"
+        ]
+      },
+      {
+        "name": "wtjwtjwtjwtj/ButterDOS — branch: main",
+        "url": "https://github.com/wtjwtjwtjwtj/ButterDOS/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "wtjwtjwtjwtj/ButterDOS",
+          "main"
         ]
       },
       {
@@ -209560,6 +210418,19 @@
           "branch",
           "repository",
           "YOUSIFABDELKADER/PCSX2",
+          "main"
+        ]
+      },
+      {
+        "name": "YT-Somedude677/Butterscotch — branch: main",
+        "url": "https://github.com/YT-Somedude677/Butterscotch/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "YT-Somedude677/Butterscotch",
           "main"
         ]
       },
@@ -685353,6 +686224,21 @@
         ]
       },
       {
+        "name": "DanielSant0s/AthenaEnv@clean-api — docs",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/clean-api/docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "clean-api",
+          "docs"
+        ]
+      },
+      {
         "name": "DanielSant0s/AthenaEnv@clean-api — ee_modules/bearssl",
         "url": "https://github.com/DanielSant0s/AthenaEnv/tree/clean-api/ee_modules/bearssl",
         "keywords": [
@@ -685365,6 +686251,21 @@
           "DanielSant0s/AthenaEnv",
           "clean-api",
           "ee_modules/bearssl"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@clean-api — ee_modules/erl",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/clean-api/ee_modules/erl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "clean-api",
+          "ee_modules/erl"
         ]
       },
       {
@@ -686399,6 +687300,426 @@
           "repository internals",
           "DanielSant0s/AthenaEnv",
           "docs-improvement",
+          "tools"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — docs",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "docs"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — ee_modules/bearssl",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/ee_modules/bearssl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "ee_modules/bearssl"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — ee_modules/erl",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/ee_modules/erl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "ee_modules/erl"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — ee_modules/loader",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/ee_modules/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "ee_modules/loader"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — ee_modules/mpeg",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/ee_modules/mpeg",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "ee_modules/mpeg"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — examples",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "examples"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — iop_modules/audsrv",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/iop_modules/audsrv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "iop_modules/audsrv"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — iop_modules/ds34bt",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/iop_modules/ds34bt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "iop_modules/ds34bt"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — iop_modules/ds34bt/ee",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/iop_modules/ds34bt/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "iop_modules/ds34bt/ee"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — iop_modules/ds34bt/iop",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/iop_modules/ds34bt/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "iop_modules/ds34bt/iop"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — iop_modules/ds34usb",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/iop_modules/ds34usb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "iop_modules/ds34usb"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — iop_modules/ds34usb/ee",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/iop_modules/ds34usb/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "iop_modules/ds34usb/ee"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — iop_modules/ds34usb/iop",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/iop_modules/ds34usb/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "iop_modules/ds34usb/iop"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — iop_modules/freeram",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/iop_modules/freeram",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "iop_modules/freeram"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — iop_modules/pademu",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/iop_modules/pademu",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "iop_modules/pademu"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — native_module_template",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/native_module_template",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "native_module_template"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — src/BearSSL",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/src/BearSSL",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "src/BearSSL"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — src/BearSSL/samples",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/src/BearSSL/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "src/BearSSL/samples"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — src/BearSSL/tools",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/src/BearSSL/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "src/BearSSL/tools"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — src/cgltf",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/src/cgltf",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "src/cgltf"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — src/cgltf/test",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/src/cgltf/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "src/cgltf/test"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — src/fast_obj",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/src/fast_obj",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "src/fast_obj"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — src/quickjs",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/src/quickjs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "src/quickjs"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — src/quickjs/examples",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/src/quickjs/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "src/quickjs/examples"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — src/readini/example",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/src/readini/example",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "src/readini/example"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — src/vu0",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/src/vu0",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "src/vu0"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — src/vu1",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/src/vu1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
+          "src/vu1"
+        ]
+      },
+      {
+        "name": "DanielSant0s/AthenaEnv@dot3 — tools",
+        "url": "https://github.com/DanielSant0s/AthenaEnv/tree/dot3/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "DanielSant0s/AthenaEnv",
+          "dot3",
           "tools"
         ]
       },
@@ -2136952,6 +2138273,111 @@
         ]
       },
       {
+        "name": "Stayhye/Butterscotch@copilot/research-gml-reals-implementation — src/android/frontend/app",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/copilot/research-gml-reals-implementation/src/android/frontend/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Stayhye/Butterscotch",
+          "copilot/research-gml-reals-implementation",
+          "src/android/frontend/app"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch@main — src/android/frontend/app",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/main/src/android/frontend/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Stayhye/Butterscotch",
+          "main",
+          "src/android/frontend/app"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch@main — tools",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/main/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Stayhye/Butterscotch",
+          "main",
+          "tools"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch@ps2-only — src/android/frontend/app",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/ps2-only/src/android/frontend/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Stayhye/Butterscotch",
+          "ps2-only",
+          "src/android/frontend/app"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch@revert-401-well512a — src/android/frontend/app",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/revert-401-well512a/src/android/frontend/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Stayhye/Butterscotch",
+          "revert-401-well512a",
+          "src/android/frontend/app"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch@video — src/android/frontend/app",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/video/src/android/frontend/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Stayhye/Butterscotch",
+          "video",
+          "src/android/frontend/app"
+        ]
+      },
+      {
+        "name": "Stayhye/Butterscotch@vita-sdl2 — src/android/frontend/app",
+        "url": "https://github.com/Stayhye/Butterscotch/tree/vita-sdl2/src/android/frontend/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Stayhye/Butterscotch",
+          "vita-sdl2",
+          "src/android/frontend/app"
+        ]
+      },
+      {
         "name": "Stayhye/OSD-XMB@main — bin/APPS",
         "url": "https://github.com/Stayhye/OSD-XMB/tree/main/bin/APPS",
         "keywords": [
@@ -2282899,6 +2284325,126 @@
         ]
       },
       {
+        "name": "tronprogram/Butterscotch@main — cmake/wii",
+        "url": "https://github.com/tronprogram/Butterscotch/tree/main/cmake/wii",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tronprogram/Butterscotch",
+          "main",
+          "cmake/wii"
+        ]
+      },
+      {
+        "name": "tronprogram/Butterscotch@main — src/android/frontend/app",
+        "url": "https://github.com/tronprogram/Butterscotch/tree/main/src/android/frontend/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tronprogram/Butterscotch",
+          "main",
+          "src/android/frontend/app"
+        ]
+      },
+      {
+        "name": "tronprogram/Butterscotch@main — tools",
+        "url": "https://github.com/tronprogram/Butterscotch/tree/main/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tronprogram/Butterscotch",
+          "main",
+          "tools"
+        ]
+      },
+      {
+        "name": "tronprogram/Butterscotch@main — tools/wii-gx-demo",
+        "url": "https://github.com/tronprogram/Butterscotch/tree/main/tools/wii-gx-demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tronprogram/Butterscotch",
+          "main",
+          "tools/wii-gx-demo"
+        ]
+      },
+      {
+        "name": "tronprogram/Butterscotch@wii/deltarune-wtl2 — cmake/wii",
+        "url": "https://github.com/tronprogram/Butterscotch/tree/wii/deltarune-wtl2/cmake/wii",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tronprogram/Butterscotch",
+          "wii/deltarune-wtl2",
+          "cmake/wii"
+        ]
+      },
+      {
+        "name": "tronprogram/Butterscotch@wii/deltarune-wtl2 — src/android/frontend/app",
+        "url": "https://github.com/tronprogram/Butterscotch/tree/wii/deltarune-wtl2/src/android/frontend/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tronprogram/Butterscotch",
+          "wii/deltarune-wtl2",
+          "src/android/frontend/app"
+        ]
+      },
+      {
+        "name": "tronprogram/Butterscotch@wii/deltarune-wtl2 — tools",
+        "url": "https://github.com/tronprogram/Butterscotch/tree/wii/deltarune-wtl2/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tronprogram/Butterscotch",
+          "wii/deltarune-wtl2",
+          "tools"
+        ]
+      },
+      {
+        "name": "tronprogram/Butterscotch@wii/deltarune-wtl2 — tools/wii-gx-demo",
+        "url": "https://github.com/tronprogram/Butterscotch/tree/wii/deltarune-wtl2/tools/wii-gx-demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tronprogram/Butterscotch",
+          "wii/deltarune-wtl2",
+          "tools/wii-gx-demo"
+        ]
+      },
+      {
         "name": "truestory989/Open-PS2-Loader-Compatibility-list@create-pull-request/patch-wdb5han — List",
         "url": "https://github.com/truestory989/Open-PS2-Loader-Compatibility-list/tree/create-pull-request/patch-wdb5han/List",
         "keywords": [
@@ -2413425,6 +2414971,51 @@
         ]
       },
       {
+        "name": "wtjwtjwtjwtj/ButterDOS@main — Butterscotch",
+        "url": "https://github.com/wtjwtjwtjwtj/ButterDOS/tree/main/Butterscotch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wtjwtjwtjwtj/ButterDOS",
+          "main",
+          "Butterscotch"
+        ]
+      },
+      {
+        "name": "wtjwtjwtjwtj/ButterDOS@main — Butterscotch/src/android/frontend/app",
+        "url": "https://github.com/wtjwtjwtjwtj/ButterDOS/tree/main/Butterscotch/src/android/frontend/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wtjwtjwtjwtj/ButterDOS",
+          "main",
+          "Butterscotch/src/android/frontend/app"
+        ]
+      },
+      {
+        "name": "wtjwtjwtjwtj/ButterDOS@main — tools",
+        "url": "https://github.com/wtjwtjwtjwtj/ButterDOS/tree/main/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "wtjwtjwtjwtj/ButterDOS",
+          "main",
+          "tools"
+        ]
+      },
+      {
         "name": "WuGambinos/sfiii-decomp@adx_xpnd — include/cri/ee",
         "url": "https://github.com/WuGambinos/sfiii-decomp/tree/adx_xpnd/include/cri/ee",
         "keywords": [
@@ -2461364,6 +2462955,21 @@
           "YouKnow-sys/udpfsd",
           "main",
           "server"
+        ]
+      },
+      {
+        "name": "YT-Somedude677/Butterscotch@main — src/android/frontend/app",
+        "url": "https://github.com/YT-Somedude677/Butterscotch/tree/main/src/android/frontend/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "YT-Somedude677/Butterscotch",
+          "main",
+          "src/android/frontend/app"
         ]
       },
       {
