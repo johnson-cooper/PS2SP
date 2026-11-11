@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-09T06:28:37.038Z'
+  lastSynchronized: '2026-11-11T06:21:05.373Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"573f7868bdba9b50f984ef85597f4772f4df956f679fd98dd224d459d84363db"
-    releasesEtag: '"2fe2afac4e4c51d345b0b3b79c7fb7f05cfb2cad022de484e373ed5d4899b781"'
+    repoEtag: W/"0234ad7df9ad2f301a6740155a084a4504fe6fc111dfbca35d47881e1e873230"
+    releasesEtag: '"9c1d5d6c02bd03431bec9aa3b1b361ec1aa0f9e1da99d100fa686668ec8ecaad"'
 discovery:
   method: 'fork-network:wtjwtjwtjwtj/ButterDOS'
   confidence: 95

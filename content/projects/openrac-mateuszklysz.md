@@ -25,21 +25,21 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-08T21:55:24Z'
+  lastCommit: '2026-11-10T23:47:41Z'
 latestRelease:
-  tag: launcher-dev-feature-android-enhanced-preset
-  name: v1.0.3-dev.198 (feature/android-enhanced-preset)
-  publishedAt: '2026-11-07T07:38:30Z'
+  tag: launcher-dev-feature-launcher-game-art
+  name: v1.0.3-dev.207 (feature/launcher-game-art)
+  publishedAt: '2026-11-09T21:22:27Z'
   url: >-
-    https://github.com/nickyyOO/OpenRAC/releases/tag/launcher-dev-feature-android-enhanced-preset
+    https://github.com/nickyyOO/OpenRAC/releases/tag/launcher-dev-feature-launcher-game-art
 activity:
   lastChecked: '2026-10-13T19:32:43.126Z'
-  lastSynchronized: '2026-11-09T06:29:41.684Z'
+  lastSynchronized: '2026-11-11T06:22:07.493Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f7de3fa2e6e94b5bb3de337dab6af51c54299e719ee91f961a97276aaf447660"
-    releasesEtag: W/"4dc93ad193058ade012c55a08d3d5ae36b9b9889b08123279bc08aafd4202811"
+    repoEtag: W/"264cd77c84b442e63c8b0a55c72568194c6f0a5694de38b32423df98fd4dc22e"
+    releasesEtag: W/"4fdf1f19f15b63a462cd5e8d69e0f2aa19da1b372887790d707568e59dbd32fb"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

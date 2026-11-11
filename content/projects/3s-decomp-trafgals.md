@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-22T05:51:05Z'
+  lastCommit: '2026-11-11T04:35:22Z'
 latestRelease:
   tag: web-data-1
   name: The disc image for the web build
   publishedAt: '2026-10-22T04:36:17Z'
   url: 'https://github.com/trafgals/3s-decomp/releases/tag/web-data-1'
 activity:
-  lastSynchronized: '2026-11-09T06:28:30.269Z'
+  lastSynchronized: '2026-11-11T06:20:58.589Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d2ea8a965090c097c31d9dadad9fc40009e2871774d55c8697a651872896c3ac"
-    releasesEtag: W/"673ac92aa666308ce7768b64675b646138920c22d5ca6cd991878359ded140cc"
+    repoEtag: W/"e4388bd197f6fe5b4bb72b3af08ab71f97a5b7526c33271a6a949b612fc27838"
+    releasesEtag: W/"ddbbd8bc371b522412ba6dd194da6d7070a81d6d48dc1989e5708e8b6e96db84"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

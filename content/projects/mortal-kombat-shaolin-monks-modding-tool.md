@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 8
+  stars: 9
   forks: 0
   lastCommit: '2026-10-23T23:21:22Z'
 latestRelease:
@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/OGmidway/Mortal-Kombat-Shaolin-Monks-Modding-Tool/releases/tag/v0.28.6
 activity:
-  lastSynchronized: '2026-11-09T06:29:24.711Z'
+  lastSynchronized: '2026-11-11T06:21:51.330Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b972303d7fd5197053e8fa39a9e2096a947d134a4a2fa62dd5605cbd045de677"
-    releasesEtag: W/"8dc6ff81b48dfd0aa83d6a55559fa2a9b0206cf0464ef20afa7b926a69afaa03"
+    repoEtag: W/"7488293bec9aa0ddc4f2b9acda87564abd222607acd041e47da8c15fe176a151"
+    releasesEtag: W/"e037b69e054a6212c0c21099befd20c1d60cf84df2a3f5c2a864c32b9c215498"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

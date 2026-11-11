@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-04-05T15:50:56Z'
   url: 'https://github.com/pcm720/nhddl/releases/tag/v1.2.2'
 activity:
-  lastSynchronized: '2026-11-09T06:29:30.965Z'
+  lastSynchronized: '2026-11-11T06:21:57.406Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e48af7acb3dd926a4168729796a5c9a7e4fcd97aeb68fac32c35eabdb65bfc0c"
-    releasesEtag: W/"dda2dc2f37d148b670094f5b2e9cb18c60031cc2d28da68d5261804792187965"
+    repoEtag: W/"7ebd93dd9262f01dd9282742370f49efff4a9c14e791bb5b510badaf31c01db6"
+    releasesEtag: W/"005d911e355a29f4042720924a8beafbbc1da54748ca20583eb5e813e053af4d"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

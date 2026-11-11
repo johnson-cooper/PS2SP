@@ -20,16 +20,19 @@ repository:
   defaultBranch: master
   stars: 1
   forks: 0
-  lastCommit: '2026-11-09T23:20:32Z'
+  lastCommit: '2026-11-10T14:46:51Z'
 latestRelease:
   tag: '1.0'
   name: '1.0'
   publishedAt: '2026-02-02T16:18:52Z'
   url: 'https://github.com/andyvand/PumpkinOS/releases/tag/1.0'
 activity:
-  lastSynchronized: '2026-11-10T01:45:54.437Z'
+  lastSynchronized: '2026-11-11T06:23:21.843Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d0e2c9372c00079bd7d5b784b076752a281908a1afa18d1b386ff8ddbf2307e4"
+    releasesEtag: W/"ee31ea05533c308fc7148f79379a7751adbac85e626a5687fd5f08fc710eae65"
 discovery:
   method: 'incremental:ps2sdk in:name,description,readme'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: migueletto/PumpkinOS
   source: migueletto/PumpkinOS
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

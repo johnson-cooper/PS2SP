@@ -32,12 +32,12 @@ latestRelease:
   url: >-
     https://github.com/Axewwnd/God-Of-War-Native-Port/releases/tag/ares-turnip-driver-test-v0.2.0
 activity:
-  lastSynchronized: '2026-11-09T06:28:59.227Z'
+  lastSynchronized: '2026-11-11T06:21:27.268Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8b239814678228f4e68793ead9cca89a189612ae6a31233f0e3f010159add8ca"
-    releasesEtag: W/"c322b8c2b8d019edfecb4c299cab59dc569df0157324c04db9fa7db0321d8203"
+    repoEtag: W/"97d845eb806c4deea66160e616d297808c1a13a0ef4b023d9555f50587f23bdf"
+    releasesEtag: W/"897cd79ed9a0e46a613f176a54720e6afc606c0f5cfc51f93c5349ca82ad8a33"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

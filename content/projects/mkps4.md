@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/ecklf/mkps4/releases/tag/v1.1.1'
 activity:
   lastChecked: '2026-10-08T22:28:32.502Z'
-  lastSynchronized: '2026-11-09T06:29:23.682Z'
+  lastSynchronized: '2026-11-11T06:21:50.330Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9a080b6680faced9eda5fd16eb97edd7fe792dcdf3bff14f00994c68394f07c0"
-    releasesEtag: W/"50dd636da800fe7d0a6ab59f7679c3d56a360e77c8cb1b1413b9469e223913cf"
+    repoEtag: W/"cee9a69118a0b435eb7144aaabc320987f9ecf6a34beab9d5fd6b07815de70f6"
+    releasesEtag: W/"57c27a208c78d7b67ac563f85c5f5d7f49f2a421d59215b90768ac0cf1ad57eb"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

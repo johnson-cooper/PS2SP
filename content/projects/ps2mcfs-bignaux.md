@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-09T06:30:31.582Z'
+  lastSynchronized: '2026-11-11T06:22:55.711Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b3931ab06537c02cc65fb0b798fd71a33e69d99375d885f5988113a68fb796d3"
-    releasesEtag: '"2fe2afac4e4c51d345b0b3b79c7fb7f05cfb2cad022de484e373ed5d4899b781"'
+    repoEtag: W/"768d4a5ee8d2c7c2bb780a1119118c56a72ef1d6e644c94a8691128c2deca1b3"
+    releasesEtag: '"9c1d5d6c02bd03431bec9aa3b1b361ec1aa0f9e1da99d100fa686668ec8ecaad"'
 discovery:
   method: 'fork-network:FranciscoDA/ps2mcfs'
   confidence: 100
