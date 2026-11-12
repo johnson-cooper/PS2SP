@@ -12,23 +12,26 @@ license: MIT
 homepage: null
 source:
   provider: github
-  repository: yymz072-beep/dsh-ps2-hanhua
+  repository: yymz072-beep/ps2-game-hanhua
   repositoryId: '1440790311'
 repository:
   archived: false
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-31T14:02:02Z'
+  lastCommit: '2026-11-03T05:03:29Z'
 latestRelease:
-  tag: v1.2.1
-  name: v1.2.1 安装说明改为首推 npm
-  publishedAt: '2026-10-31T14:02:03Z'
-  url: 'https://github.com/yymz072-beep/dsh-ps2-hanhua/releases/tag/v1.2.1'
+  tag: v1.7.0
+  name: v1.7.0 — 更名为 ps2-game-hanhua
+  publishedAt: '2026-11-03T05:03:29Z'
+  url: 'https://github.com/yymz072-beep/ps2-game-hanhua/releases/tag/v1.7.0'
 activity:
-  lastSynchronized: '2026-10-31T18:45:56.304Z'
+  lastSynchronized: '2026-11-12T11:10:21.334Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"afac8424bc0975e4580b061af66476951f37040133c3d8bd8671097f9f606482"
+    releasesEtag: W/"013c4fdb11378e93d2e7c12bbb571ab4a3160fa84f9fce871d9d73a981853a28"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -43,5 +46,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

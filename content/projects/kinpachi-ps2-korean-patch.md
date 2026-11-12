@@ -17,21 +17,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 2
   forks: 0
-  lastCommit: '2026-10-25T07:51:13Z'
+  lastCommit: '2026-10-25T16:09:43Z'
 latestRelease:
-  tag: v267
-  name: v267 — Windows 간편 한글패치
-  publishedAt: '2026-10-25T05:58:52Z'
-  url: 'https://github.com/ayaneros-eng/kinpachi-ps2-korean-patch/releases/tag/v267'
+  tag: v267-r2
+  name: v267-r2 — 패치 적용 오류 개선 · Python 자동 준비
+  publishedAt: '2026-10-25T15:54:36Z'
+  url: >-
+    https://github.com/ayaneros-eng/kinpachi-ps2-korean-patch/releases/tag/v267-r2
 activity:
-  lastSynchronized: '2026-10-25T11:30:00.370Z'
+  lastSynchronized: '2026-11-12T11:10:48.718Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"30cd98c5c35dc474857b7c27572250fec9ea51a38785ddc70ce5d0d77d2707ae"
-    releasesEtag: W/"eed635303d52927bff62a886794b74daa7441497cbd8e1f4851ae56bcb7cf94c"
+    repoEtag: W/"191d22194d5a9856457d9910ba143ae1f5980d790f0fdd4c2c805adf4ccfc454"
+    releasesEtag: W/"b7d0ca6b4bf011ef2ca53dd8ca94ba935de4426f07d95c2edc4f5dfb76a127d6"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

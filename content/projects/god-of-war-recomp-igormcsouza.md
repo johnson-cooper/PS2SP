@@ -11,7 +11,7 @@ tags:
 features: []
 authors: []
 license: GPL-3.0
-homepage: null
+homepage: 'https://igormcsouza.github.io/god-of-war-recomp/'
 source:
   provider: github
   repository: igormcsouza/god-of-war-recomp
@@ -19,21 +19,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 2
   forks: 0
-  lastCommit: '2026-10-16T11:43:29Z'
+  lastCommit: '2026-11-02T22:59:16Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.2.0
+  name: v0.2.0
+  publishedAt: '2026-11-02T22:59:47Z'
+  url: 'https://github.com/igormcsouza/god-of-war-recomp/releases/tag/v0.2.0'
 activity:
-  lastSynchronized: '2026-10-25T11:29:51.831Z'
+  lastSynchronized: '2026-11-12T11:10:33.726Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bceea2c3ee1da45f1d42be7e9c920a950884927665539439ca6e4e95cd72ddae"
-    releasesEtag: '"9e77b662133f4d4e3007923dbf3a0cbb2fd896f67c82d38c785dfb153804c449"'
+    repoEtag: W/"60a17cdff280c679a36406c3fe5aae19a52093b5999b61dbf5da8f6f51b30901"
+    releasesEtag: W/"f5158fada3325594141039f2ce93ab7edf29497bae6aab0c7214863c6420664f"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

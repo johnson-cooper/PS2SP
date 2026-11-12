@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-25T11:31:03.544Z'
+  lastSynchronized: '2026-11-12T11:12:52.808Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"494f7179323d3b960cfc886bc9f43257c7c814a0867f165c02376e6b5940d475"
-    releasesEtag: '"9e77b662133f4d4e3007923dbf3a0cbb2fd896f67c82d38c785dfb153804c449"'
+    repoEtag: W/"5c9a2da3804e0d54e152793a906514e7e0132579b5630257d9e147849a3b6f9b"
+    releasesEtag: '"952f0fb61c43dbe65d3e0d2cad8f06412f7e64d77f20ebb492a0c852b79b9381"'
 discovery:
   method: 'fork-network:tihmstar/sd2psx_firmware'
   confidence: 95

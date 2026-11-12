@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-11-09T19:11:29Z'
   url: 'https://github.com/thieffran88/4_Conexoes_PS2/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-11-10T01:45:54.437Z'
+  lastSynchronized: '2026-11-12T11:09:59.489Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ce8b9d579895435f85d330d17f44f353495fa88997b26d6a3049eff16f206371"
+    releasesEtag: W/"70d0074145a5234a4e81de81b38a14b6c779cedfdba4fbfc22a3fee07ac3f6f4"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

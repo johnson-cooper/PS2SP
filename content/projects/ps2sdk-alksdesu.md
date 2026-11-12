@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-01T01:28:31.587Z'
+  lastSynchronized: '2026-11-12T11:12:27.245Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"63a015d65b15aeec98ea885c2caaaadd98c95b0638066960ad4412918a67463e"
+    releasesEtag: '"952f0fb61c43dbe65d3e0d2cad8f06412f7e64d77f20ebb492a0c852b79b9381"'
 discovery:
   method: 'fork-network:xerpi/ps2sdk'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: xerpi/ps2sdk
   source: ps2dev/ps2sdk
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

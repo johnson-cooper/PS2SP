@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-10-25T00:23:01Z'
   url: 'https://github.com/Nicolasalucin/fallout2-ce-ps2/releases/tag/v1.0.3-ps2'
 activity:
-  lastSynchronized: '2026-10-25T11:29:46.527Z'
+  lastSynchronized: '2026-11-12T11:10:23.529Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4e7dca4911fc62da712ae7d227d6ff09362d8fa2d57c5953a90810cfb51b1506"
-    releasesEtag: W/"ca5329e6302394ea635e9b3735c8854ee172a2dc4e9a5c1f76e8292b1e58fe48"
+    repoEtag: W/"bb1d4b5e678be2d765c7f5fff1448f72b740ad4547e3761a3d7ca215c5fc1bcb"
+    releasesEtag: W/"bb517a920f91a3fc27503e4c53c026e94b5a943e5e5170a5af301eac0494d4bf"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

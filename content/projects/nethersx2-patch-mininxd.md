@@ -23,20 +23,20 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 1
-  lastCommit: '2026-10-25T04:03:40Z'
+  lastCommit: '2026-11-12T06:40:07Z'
 latestRelease:
-  tag: c6cc5160f-2.9.144-25102026
-  name: c6cc5160f-2.9.144-25102026
-  publishedAt: '2026-10-25T04:03:40Z'
+  tag: f0523f8ac-2.9.146-26102026
+  name: f0523f8ac-2.9.146-26102026
+  publishedAt: '2026-10-26T04:08:41Z'
   url: >-
-    https://github.com/mininxd/NetherSX2-patch/releases/tag/c6cc5160f-2.9.144-25102026
+    https://github.com/mininxd/NetherSX2-patch/releases/tag/f0523f8ac-2.9.146-26102026
 activity:
-  lastSynchronized: '2026-10-25T11:30:08.521Z'
+  lastSynchronized: '2026-11-12T11:11:01.956Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9b95f2152285beaef949ce2b007752a62813460d99c1054b8328ba7301e9a127"
-    releasesEtag: W/"cb24336f4fb2d2033e0b8bb0312f154b9a1ea8f5a9bc9827732324682b02f048"
+    repoEtag: W/"7f1f11162bf64f3cdc56acd4bbf4cd59e1268664d422bfc267c365c5dede4c52"
+    releasesEtag: W/"dd11937c98f4943ca8d573e4a18ad677ebe33f6ea12924ea17d565d37ff7a2e1"
 discovery:
   method: 'fork-network:Trixarian/NetherSX2-patch'
   confidence: 95

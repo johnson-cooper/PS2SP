@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-25T11:30:05.091Z'
+  lastSynchronized: '2026-11-12T11:10:56.543Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"939bee27cb858820e71b50cff31d1656a8618835a57ce08cab95bf975f08a251"
-    releasesEtag: '"9e77b662133f4d4e3007923dbf3a0cbb2fd896f67c82d38c785dfb153804c449"'
+    repoEtag: W/"12c82b934972e506d826120407690b394ab00e9677bee5441a3830d129f2aa09"
+    releasesEtag: '"952f0fb61c43dbe65d3e0d2cad8f06412f7e64d77f20ebb492a0c852b79b9381"'
 discovery:
   method: 'fork-network:K3zter/mcp2-save-splitter'
   confidence: 95
