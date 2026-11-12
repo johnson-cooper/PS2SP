@@ -23,22 +23,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 45
+  stars: 49
   forks: 1
-  lastCommit: '2026-11-02T21:12:14Z'
+  lastCommit: '2026-11-09T23:20:25Z'
 latestRelease:
-  tag: v1.0.6
-  name: Grandia III for PC v1.0.6
-  publishedAt: '2026-11-02T21:12:14Z'
-  url: 'https://github.com/GranasSabre/Grandia3-PC/releases/tag/v1.0.6'
+  tag: v1.0.7
+  name: Grandia III for PC v1.0.7
+  publishedAt: '2026-11-09T23:16:52Z'
+  url: 'https://github.com/GranasSabre/Grandia3-PC/releases/tag/v1.0.7'
 activity:
   lastChecked: '2026-10-26T14:34:04.716Z'
-  lastSynchronized: '2026-11-07T02:48:52.361Z'
+  lastSynchronized: '2026-11-12T02:59:42.098Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0f6076b6b0e11769b68e4366f99656e4d0755c43705bfbbeb73def5718586c5d"
-    releasesEtag: W/"68771ba79626d52dd30e76f5cc8a539d2a1dc8246f6e707d217ef254aa73ea3a"
+    repoEtag: W/"9feaf3cd8582a706a013e40fe80c7ff8a36d479fffb98c54867e603d3450e39e"
+    releasesEtag: W/"3fa458affe1e21126365d0ee35074d0417b58bc480711ce17f1a4da42bfac62d"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

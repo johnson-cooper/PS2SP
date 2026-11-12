@@ -12,7 +12,7 @@ tags:
 features: []
 authors: []
 license: GPL-3.0
-homepage: null
+homepage: 'https://buymeacoffee.com/srwa_en'
 source:
   provider: github
   repository: Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver
@@ -22,20 +22,20 @@ repository:
   defaultBranch: main
   stars: 2
   forks: 0
-  lastCommit: '2026-10-26T08:37:40Z'
+  lastCommit: '2026-11-08T17:46:04Z'
 latestRelease:
-  tag: RC01
-  name: RC01 – Release Candidate 1
-  publishedAt: '2026-10-26T02:57:36Z'
+  tag: RC02
+  name: RC02 – Release Candidate 2
+  publishedAt: '2026-11-08T17:35:33Z'
   url: >-
-    https://github.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/releases/tag/RC01
+    https://github.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/releases/tag/RC02
 activity:
-  lastSynchronized: '2026-11-07T02:50:55.274Z'
+  lastSynchronized: '2026-11-12T03:01:32.037Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"35c6c0bdab31f57f5b742d16018aa3e91f24a63d49c598d7c7d2b76760e5d364"
-    releasesEtag: W/"51bb25295bd328701427a3b85ac9b3f6e63fabe714be521d3cfd322b41b600a7"
+    repoEtag: W/"db1c87e082792cb2f5d9dacd41c2c16477919f430f3bb0d36cbe33a0fbbb1f67"
+    releasesEtag: W/"c24f6367a8122fd01a1eaf9a354cf6a8e689ea99f180088d56ea1ca1fa0af326"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

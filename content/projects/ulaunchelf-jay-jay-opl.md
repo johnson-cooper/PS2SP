@@ -37,12 +37,12 @@ latestRelease:
   publishedAt: '2021-07-22T12:28:02Z'
   url: 'https://github.com/Jay-Jay-OPL/uLaunchELF/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-07T02:51:05.824Z'
+  lastSynchronized: '2026-11-12T03:01:40.747Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f708897dc069cb78e2b99f92a708bd3de72ee7c09f8f6fd9eb6623d9bd606969"
-    releasesEtag: W/"5164164b5b421a560f7399750fc7b37ad18a685876d72b1779133f0bcc4a799c"
+    repoEtag: W/"242d1a3a2caf66a5b157dd8f8d7642a4cb3ae48ed7836bbcf38516c8b8f7c2cb"
+    releasesEtag: W/"a8e5beb29b8d37c735d42c8f264f4b50ca52e049326e95278d2513633f259ce3"
 discovery:
   method: 'fork-network:ps2homebrew/wLaunchELF'
   confidence: 100

@@ -22,20 +22,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-06T06:22:48Z'
+  lastCommit: '2026-11-07T15:01:52Z'
 latestRelease:
-  tag: v1.0.0
-  name: Max2Ps2 1.0.0
-  publishedAt: '2026-11-06T06:22:14Z'
-  url: 'https://github.com/ThecangShengdance/Max2Ps2/releases/tag/v1.0.0'
+  tag: v1.0.1
+  name: Max2Ps2 1.0.1
+  publishedAt: '2026-11-07T15:01:54Z'
+  url: 'https://github.com/ThecangShengdance/Max2Ps2/releases/tag/v1.0.1'
 activity:
   lastChecked: '2026-11-06T07:24:38.594Z'
-  lastSynchronized: '2026-11-07T02:49:07.061Z'
+  lastSynchronized: '2026-11-12T02:59:54.487Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2b1b643b2f4cb7b470c9a0958c0f299895ec93222e11e3b4f01006f7b4ec5a70"
-    releasesEtag: W/"1ef62f49bd31bd84ee88cfd8715d663015dcf9251c8322adb660050949b6aca4"
+    repoEtag: W/"e7d98b123a413b39d2b44706912554259c9c5084483b3fb3b727555460da50f0"
+    releasesEtag: W/"2283033057d285c73fefb48f82a82eaf436714cdf0e0213e6e1e9d7401331744"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

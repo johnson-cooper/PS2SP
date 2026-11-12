@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2026-10-15T16:30:59Z'
   url: 'https://github.com/crashbashash/DW4orge/releases/tag/v0.9.0'
 activity:
-  lastSynchronized: '2026-11-08T20:45:58.704Z'
+  lastSynchronized: '2026-11-12T02:59:36.073Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b38d5c32413ff316fb9c91c766dc96990426e2f7a8f3b6a3ed579fac5552312e"
+    releasesEtag: W/"0cdffa5c6fa3cce94445128630c2cf42efb968767432b90d2829c1ac8cd48dea"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -45,5 +48,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-11-05T17:10:35Z'
+  lastCommit: '2026-11-10T20:26:31Z'
 latestRelease:
   tag: v1.2.0-Beta-ptbr.8
   name: OPL PT-BR Mod v1.2.0-Beta-ptbr.8
   publishedAt: '2026-11-02T12:57:23Z'
   url: 'https://github.com/Chrispsz/OPL-Mod-PTBR/releases/tag/v1.2.0-Beta-ptbr.8'
 activity:
-  lastSynchronized: '2026-11-07T02:49:37.080Z'
+  lastSynchronized: '2026-11-12T03:00:22.557Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fd8589701a25e23b937de62ba348ae83f14e0655d7e8c1b25a3595f181bbef2d"
-    releasesEtag: W/"bddca5bb77612cde4fa79cf1a1087827774d3a4a08ba8c8e4a3dded820d632a0"
+    repoEtag: W/"2a57c2fe2658083977b3c7ea67b48e930fdbbfc56c695ae2bbc2aaeb528d2ddc"
+    releasesEtag: W/"6d5c26621716eb398cb72ff8489b32d11f87d9a595eb0106f22dd7217e3fa50f"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

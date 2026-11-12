@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-07T02:51:00.473Z'
+  lastSynchronized: '2026-11-12T03:01:36.483Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6346ea58cc551579516fb6c1118a786cd1c632d48f58be29b1b6927ffdd863c9"
-    releasesEtag: '"66580e2e5c97541a97f5eccf517b2285a1cf142e3029f5f841172d71e5b0149b"'
+    repoEtag: W/"336c0e5706bb013019f812df4e62afa7acd2a375713b6afbd87248d0e61166d4"
+    releasesEtag: '"11d0228c4f898bf001368b9b1148388f44d08d20cf02b468a34112616d732b89"'
 discovery:
   method: 'fork-network:h4570/tyra'
   confidence: 100

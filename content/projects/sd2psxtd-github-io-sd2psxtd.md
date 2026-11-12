@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2025-09-27T14:21:55Z'
   url: 'https://github.com/sd2psXtd/sd2psXtd.github.io/releases/tag/sc2'
 activity:
-  lastSynchronized: '2026-11-07T02:50:51.527Z'
+  lastSynchronized: '2026-11-12T03:01:28.927Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"517f63aca3d7007290d6515659a004db3cd0553930b27ae527d2dc6e53482c86"
-    releasesEtag: W/"5e7bea229a6fc8cbef378e49b720968b0e040a05ad82788e4de2bac0b30dd530"
+    repoEtag: W/"c8dcd1d70813eafccd18bdd5b6c190b18b71d4adbe0f3da04c8837e2beb5b8aa"
+    releasesEtag: W/"1258f436edb5a983b58dcd6ea42225ceab2a9d45b40bd0aea7a77498b4e29e7b"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

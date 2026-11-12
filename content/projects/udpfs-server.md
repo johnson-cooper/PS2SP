@@ -20,7 +20,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 5
+  stars: 6
   forks: 0
   lastCommit: '2026-09-12T22:12:16Z'
 latestRelease:
@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-09-12T22:09:13Z'
   url: 'https://github.com/YouKnow-sys/udpfs-server/releases/tag/v0.2.1'
 activity:
-  lastSynchronized: '2026-11-07T02:51:05.181Z'
+  lastSynchronized: '2026-11-12T03:01:40.176Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9dc532ec8de7b1fddaf80a92654de66dfe27a9a2940f3ae8c09a9174db449a38"
-    releasesEtag: W/"40d6f7a420cf40a068dc9f67abdfd49e52814a20b827c1d90b0291bfb3629a05"
+    repoEtag: W/"da0d6aa678e357d640e831e1fc89461746b8ae9a51c5d7b4175e66d4afd99392"
+    releasesEtag: W/"06a6e86a781b84328f4bea0927e266aff41077d60c520d289cedd7eaf3de7ae6"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

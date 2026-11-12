@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-11-03T03:07:48Z'
   url: 'https://github.com/Warksmith/sd2psXtd_firmware/releases/tag/v0.3'
 activity:
-  lastSynchronized: '2026-11-07T02:50:50.855Z'
+  lastSynchronized: '2026-11-12T03:01:28.382Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"65fb4cdede542fb6a4862422567cac5d57977f4ac9c1b90471e15beeca0fea43"
-    releasesEtag: W/"7ebd3b373feae6650db69bfdbcf781967651818e3a59f8b3ad463d6e194d9554"
+    repoEtag: W/"1bc61ada124df78baeacf154216aede4308f2491670594a6cb34ccf053f7ddd9"
+    releasesEtag: W/"7833036626c89737a6fd73e90e268845bc1a197c8063afbcf92c48b8f61f4e28"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

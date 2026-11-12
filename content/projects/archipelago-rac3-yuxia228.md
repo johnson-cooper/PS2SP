@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-07T02:48:25.987Z'
+  lastSynchronized: '2026-11-12T02:59:19.040Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a8f46d8632ce692b3a8fd386d78ba06e4735fbb4cd188befbabbcab9bf7d2fb3"
-    releasesEtag: '"66580e2e5c97541a97f5eccf517b2285a1cf142e3029f5f841172d71e5b0149b"'
+    repoEtag: W/"1c1071dd1d9bbf9441ae95fd84efdfae3529f8d7d361d8dbeebf163ba43f41ea"
+    releasesEtag: '"11d0228c4f898bf001368b9b1148388f44d08d20cf02b468a34112616d732b89"'
 discovery:
   method: 'fork-network:Taoshix/Archipelago-RaC3'
   confidence: 95
