@@ -688,18 +688,20 @@
     "https://git.techwritescode.dev/api/v1|ps2/ps2rig": 1
   },
   "lastRun": {
-    "at": "2026-11-05T22:33:42.943Z",
+    "at": "2026-11-12T22:36:24.161Z",
     "repositoriesScanned": 38,
     "forksSeen": 0,
-    "branchesSeen": 171,
-    "branchesChanged": 2,
-    "treesScanned": 2,
+    "branchesSeen": 1,
+    "branchesChanged": 0,
+    "treesScanned": 0,
     "reposAdded": 0,
     "forksAdded": 0,
-    "branchesAdded": 1,
-    "nestedAdded": 3,
-    "requests": 151,
-    "failedHosts": [],
+    "branchesAdded": 0,
+    "nestedAdded": 0,
+    "requests": 44,
+    "failedHosts": [
+      "https://git.wisellama.rocks"
+    ],
     "stoppedForBudget": false
   },
   "queueCursor": 9
