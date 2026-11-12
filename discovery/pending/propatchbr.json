@@ -1,0 +1,16 @@
+{
+  "repository": "jeannlucas/propatchbr",
+  "repositoryId": "1381722032",
+  "url": "https://github.com/jeannlucas/propatchbr",
+  "description": "Plataforma de venda e distribuição de patches para Winning Eleven 10 (PS2) via OPL. Next.js + Supabase + AbacatePay.",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-12T08:50:51.748Z",
+  "checkedAt": "2026-11-12T08:50:51.748Z"
+}
