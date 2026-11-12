@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-10-06T17:08:27Z'
   url: 'https://github.com/2gifts/george-decomp/releases/tag/gcc29-windows-v1'
 activity:
-  lastSynchronized: '2026-10-24T18:10:00.330Z'
+  lastSynchronized: '2026-11-12T18:56:29.279Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2c7da67168e1a7d778bbfa068e20e4bbf42d0302dcdcfc0e9c4b1d8628ee3f31"
-    releasesEtag: W/"a7cd8d7924030d9e722715d9c8688f637de50152886a3edb296ca9da53d2c54e"
+    repoEtag: W/"1016519613f3e8c09f2cefb71abfa51ac290bbdda29db2354c1ddd184b287f3f"
+    releasesEtag: W/"d8d1d4cde99fea06d0e059897ed7eaa9aec86f13e969e6df4f4074a3fff35e7e"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

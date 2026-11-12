@@ -22,21 +22,21 @@ source:
 repository:
   archived: false
   defaultBranch: psp
-  stars: 1
+  stars: 3
   forks: 0
-  lastCommit: '2026-10-18T01:18:11Z'
+  lastCommit: '2026-10-25T04:51:31Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T18:10:41.811Z'
+  lastSynchronized: '2026-11-12T18:57:40.044Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3b4c4143262d4646ace68873e4eca22e0c944d0a6e4ce9dfd2733916b2f1d757"
-    releasesEtag: '"0526fb5ca92c3b5d74e6f49d69dec9b46006cf0529ea194f9f065855748c74d0"'
+    repoEtag: W/"b5f08939454904666e59793f550e60798a60325846730e6fc127399be131feee"
+    releasesEtag: '"db0eeaf78c7cffaf6713f0d17b358b8c3fd7df257f1d689bfc9bb58c91a46e08"'
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

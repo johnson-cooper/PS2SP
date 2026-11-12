@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-02T17:26:42.913Z'
+  lastSynchronized: '2026-11-12T18:58:05.552Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"638c70d1b713fde61d4de3ec3835c5998578ea7a4549c1e5111940df75d6df50"
+    releasesEtag: '"db0eeaf78c7cffaf6713f0d17b358b8c3fd7df257f1d689bfc9bb58c91a46e08"'
 discovery:
   method: 'fork-network:SandstoneDev/PS2RC'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: SandstoneDev/PS2RC
   source: SandstoneDev/PS2RC
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

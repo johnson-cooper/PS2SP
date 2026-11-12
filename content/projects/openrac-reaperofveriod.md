@@ -14,18 +14,18 @@ tags:
 features: []
 authors: []
 license: null
-homepage: null
+homepage: 'https://openrac.dev/'
 source:
   provider: github
   repository: ReaperOfVeriod/OpenRAC
-  repositoryId: '1424296445'
+  repositoryId: '1442763651'
   url: 'https://github.com/ReaperOfVeriod/OpenRAC'
 repository:
   archived: false
-  defaultBranch: master
+  defaultBranch: develop
   stars: 0
   forks: 0
-  lastCommit: '2026-10-21T19:47:42Z'
+  lastCommit: '2026-11-03T05:15:37Z'
 latestRelease:
   tag: null
   name: null
@@ -33,12 +33,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-18T11:43:27.443Z'
-  lastSynchronized: '2026-10-24T18:10:19.890Z'
+  lastSynchronized: '2026-11-12T18:57:04.632Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"08aa4fe47401c91db266dc14d9a25da6f417ebca5d8bb15220d75ff826660b7b"
-    releasesEtag: '"0526fb5ca92c3b5d74e6f49d69dec9b46006cf0529ea194f9f065855748c74d0"'
+    repoEtag: W/"ccbd60832f49d7b43dfd18c91e7f786be3a972ea12d9c9147c37c45e72da9b52"
+    releasesEtag: '"db0eeaf78c7cffaf6713f0d17b358b8c3fd7df257f1d689bfc9bb58c91a46e08"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

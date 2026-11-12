@@ -20,19 +20,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-04T05:20:04Z'
+  lastCommit: '2026-11-09T00:43:29Z'
 latestRelease:
   tag: latest
   name: Latest Build
   publishedAt: '2026-06-29T01:25:05Z'
   url: 'https://github.com/MrWrightyLC/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-24T18:10:31.071Z'
+  lastSynchronized: '2026-11-12T18:57:20.497Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f4361349dfc98229432ca304d3011f264b6b3c34a1ac81d9691ffae47f78a473"
-    releasesEtag: W/"7e04f2ba8dc3b40019a68606e0165007666d925e73d8562e5b2fb1bf53084e24"
+    repoEtag: W/"f39026a34492091bab02c3bc92412bb6233467b4fa7c533fc77793ed07352a93"
+    releasesEtag: W/"4da70a17d48ff1530d98ae1801409f66880a6e9f1ddcc5c687831b32b4191694"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95

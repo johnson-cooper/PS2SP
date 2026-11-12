@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-03T00:02:44.895Z'
+  lastSynchronized: '2026-11-12T18:58:40.362Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"82e69bb534a75f26077fa2a80245e45ea499d8c3953184cf41b0c528f0a526f9"
+    releasesEtag: '"db0eeaf78c7cffaf6713f0d17b358b8c3fd7df257f1d689bfc9bb58c91a46e08"'
 discovery:
   method: 'fork-network:XboxEmulationHub/XBSX2'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: XboxEmulationHub/XBSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

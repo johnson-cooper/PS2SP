@@ -18,8 +18,8 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 87
-  forks: 11
+  stars: 88
+  forks: 12
   lastCommit: '2023-02-07T22:58:36Z'
 latestRelease:
   tag: v2.0
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2022-08-24T06:19:55Z'
   url: 'https://github.com/elmariolo/OPL-Server/releases/tag/v2.0'
 activity:
-  lastSynchronized: '2026-10-24T18:10:21.362Z'
+  lastSynchronized: '2026-11-12T18:57:06.937Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4e1a61c7a23289086c575f86238114593388af37f4fcb0acad11fad42378be25"
-    releasesEtag: W/"7aebae45ca533e3c6fd831b60e4c7953c21904d8af46d217f393a1f6e62d9063"
+    repoEtag: W/"b1e4607f7488e6100e68adc2948d98fffb17ead407fab635d1ffc2a2c6d712a0"
+    releasesEtag: W/"65afab4e1771d7372bf9db42bcb087668d13b456cf3ee1b32bb2d0c10898772d"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

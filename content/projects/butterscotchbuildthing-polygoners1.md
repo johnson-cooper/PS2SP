@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-04T08:00:34.410Z'
+  lastSynchronized: '2026-11-12T18:56:14.767Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"862d971aaf3f2998a51323152ea0607b8987957813eb22f81b10d8001fd38208"
+    releasesEtag: '"db0eeaf78c7cffaf6713f0d17b358b8c3fd7df257f1d689bfc9bb58c91a46e08"'
 discovery:
   method: 'fork-network:Menieldm/Butterscotch'
   confidence: 95
@@ -49,5 +52,4 @@ relationships:
   forkOf: Menieldm/Butterscotch
   source: ButterscotchRunner/Butterscotch
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

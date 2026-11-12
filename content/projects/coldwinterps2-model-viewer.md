@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/FrankoU28/ColdWinterPS2_Model_Viewer/releases/tag/v0.1'
 activity:
   lastChecked: '2026-09-29T09:05:43.442Z'
-  lastSynchronized: '2026-10-24T18:09:52.968Z'
+  lastSynchronized: '2026-11-12T18:56:17.116Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"749af23266ca14912036a3a09b8d8e9c409504b37b9cb2bddc61be28a92dda0e"
-    releasesEtag: W/"3bcbe2b03da6a40d4048ac5f0e8447b170ec0f38d17b2bbb1ef1719454e5f057"
+    repoEtag: W/"a706abaf3b85fce408e1b045fcb30cab38b2d3e0f65551f8aa1258f81cd76ae4"
+    releasesEtag: W/"beefa7f2a95379c492ee081c0e24d49b945beea4f42c21642c6c267ca7b30380"
 discovery:
   method: 'pending-promotion:incremental:topic:ps2'
   confidence: 85

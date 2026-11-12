@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-11-01T13:52:12Z'
   url: 'https://github.com/mikeferreiraz/ARMSX2/releases/tag/fliperama'
 activity:
-  lastSynchronized: '2026-11-04T01:40:14.557Z'
+  lastSynchronized: '2026-11-12T18:56:05.512Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c6ce6a0ebeba12534e2b019017b739829bb7689127053b8f7f47991740b4f749"
+    releasesEtag: W/"51812638aa4fe28d8b6ed64270f4a3630f429525e4e1117ad50b74c140524ac0"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: ARMSX2/ARMSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

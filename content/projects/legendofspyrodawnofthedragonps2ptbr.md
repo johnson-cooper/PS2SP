@@ -27,9 +27,12 @@ latestRelease:
   url: >-
     https://github.com/refresh50/LegendOfSpyroDawnOfTheDragonPS2PTBR/releases/tag/1.0
 activity:
-  lastSynchronized: '2026-11-03T00:02:44.895Z'
+  lastSynchronized: '2026-11-12T18:56:41.307Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f3ce7a9832ebe9010f4782908141675c2110d9e937ff19719a3ff5d6714692f6"
+    releasesEtag: W/"4754d9786142e1f582080bb81d5263df02480be067383de28ca8eb66ab4eec82"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -42,5 +45,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

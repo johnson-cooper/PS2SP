@@ -13,7 +13,7 @@ license: GPL-3.0
 homepage: 'https://armsx2.net/'
 source:
   provider: github
-  repository: christhepimp/ARMSX2
+  repository: Projecthop/ARMSX2
   repositoryId: '1324602933'
 repository:
   archived: false
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T18:09:44.495Z'
+  lastSynchronized: '2026-11-12T18:56:03.954Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4d3176fdd6eae9cac45b4df22095d9609ee5002301d3b3df9229339e60716eda"
-    releasesEtag: '"0526fb5ca92c3b5d74e6f49d69dec9b46006cf0529ea194f9f065855748c74d0"'
+    repoEtag: W/"e47e460d198c6a9dd366c4155a8870c5a08ca1a7c396b7496b805030c8b35972"
+    releasesEtag: '"db0eeaf78c7cffaf6713f0d17b358b8c3fd7df257f1d689bfc9bb58c91a46e08"'
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

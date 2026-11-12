@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2026-03-24T18:42:15Z'
   url: 'https://github.com/rodrigo1593-dev/Fceumm-PS2/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-24T18:09:54.855Z'
+  lastSynchronized: '2026-11-12T18:56:23.402Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c55e85c7cd16591664723fc3233d8a0fae1b0d418362bd79aeaa2355c4dfce10"
-    releasesEtag: W/"dd25830ab877ddbd8843183a6c2e2bb64734fdeb4653a6c4765810e7092638a5"
+    repoEtag: W/"19b888804c3d4d19467b29d9325aaacd928c69df984bdb1ae134322b4103d295"
+    releasesEtag: W/"c7321aa2686778e91f8c6a505240e6e99c937371ad6f0a891ce0d5e4bddb5f8e"
 discovery:
   method: 'fork-network:ps2homebrew/Fceumm-PS2'
   confidence: 100

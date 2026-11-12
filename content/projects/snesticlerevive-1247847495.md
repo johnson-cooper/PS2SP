@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2026-09-01T05:01:44Z'
   url: 'https://github.com/1247847495/SNESticleRevive/releases/tag/v1.0.7-anyi'
 activity:
-  lastSynchronized: '2026-10-24T18:11:19.224Z'
+  lastSynchronized: '2026-11-12T18:58:31.276Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"84954e1458702ea6be14262b4f70adfa6befa1bcd8f08258d79b383a5477cab5"
-    releasesEtag: W/"da81df42ab8af3023461e23b8e366adde1b4bf29068f4f4e0efb8dd5db698037"
+    repoEtag: W/"24bbd4de9715467a33cb37f92e98394eb580a8859f09baffa87e156b4f2577cd"
+    releasesEtag: W/"e0629f42da81ba376bf4ec82a420d0b40f9b72a729fa5eb576f98d2c68145901"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

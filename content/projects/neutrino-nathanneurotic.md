@@ -20,19 +20,19 @@ repository:
   defaultBranch: master
   stars: 1
   forks: 0
-  lastCommit: '2026-10-16T15:37:46Z'
+  lastCommit: '2026-11-02T15:50:44Z'
 latestRelease:
   tag: udpfs-ack-e6f1392
   name: UDPFS ACK recovery candidate e6f1392
   publishedAt: '2026-10-16T15:37:46Z'
   url: 'https://github.com/NathanNeurotic/neutrino/releases/tag/udpfs-ack-e6f1392'
 activity:
-  lastSynchronized: '2026-10-24T18:10:11.304Z'
+  lastSynchronized: '2026-11-12T18:56:46.978Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d1564e8c440367c5bcc9d8f947f04a31a881e250f761fbb31a02c63de3041815"
-    releasesEtag: W/"0ebd9fd6c566223441c2af257b776dd41d5bd96e836507ea8b656754d5e8dd0e"
+    repoEtag: W/"211c27580f81350085b8e1aadaf38f0afd83a18ae2230c51bdb6a958c6042c81"
+    releasesEtag: W/"782f2c4be9f71b8128368854826fcf0dce965cb5163a96775c627f73e6ad0b97"
 discovery:
   method: curated-owner
   confidence: 100

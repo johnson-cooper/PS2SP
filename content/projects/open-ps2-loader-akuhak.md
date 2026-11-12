@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: '2025-03-14T21:02:42Z'
   url: 'https://github.com/AKuHAK/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-25T23:33:13.930Z'
+  lastSynchronized: '2026-11-12T18:56:52.398Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5f5fedc99e0b14b0ac7e0042d1f2e73541d4e1a04602798995736919865b4d01"
+    releasesEtag: W/"da2d06adc983430a521c4b7a2f796bff3b50362cfacbf0026018d546f8c2ac69"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100
@@ -57,5 +60,4 @@ relationships:
   forkOf: ps2homebrew/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

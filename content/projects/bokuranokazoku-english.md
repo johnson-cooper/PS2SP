@@ -20,21 +20,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 4
   forks: 0
-  lastCommit: '2026-10-13T22:42:51Z'
+  lastCommit: '2026-11-07T16:39:40Z'
 latestRelease:
-  tag: v1.0
-  name: v1.0 - English translation
-  publishedAt: '2026-10-13T22:42:51Z'
-  url: 'https://github.com/itsbalanse/BokuraNoKazoku-English/releases/tag/v1.0'
+  tag: v1.1
+  name: v1.1 - Family News fixes
+  publishedAt: '2026-11-07T14:26:23Z'
+  url: 'https://github.com/itsbalanse/BokuraNoKazoku-English/releases/tag/v1.1'
 activity:
-  lastSynchronized: '2026-10-24T18:09:49.238Z'
+  lastSynchronized: '2026-11-12T18:56:11.384Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7f333926ceb9ece633d8a157a02959cf6ed7a0ef8b87302023c5e20265fbbaac"
-    releasesEtag: W/"920dbfba55d11e5ea05bc747bb55e54390533d2d24dacc84f78d20a45fcc6c7f"
+    repoEtag: W/"3627b455e59bdcc76a283e0a06d69127f8b763ae6f6f6915122ff912d5e8f89a"
+    releasesEtag: W/"17879b6e75af7f67c712b083ba25c4339bd24f76186a87399b231aba94a7a0d3"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -22,19 +22,19 @@ repository:
   defaultBranch: main
   stars: 2
   forks: 0
-  lastCommit: '2026-10-18T20:22:30Z'
+  lastCommit: '2026-10-31T14:55:18Z'
 latestRelease:
-  tag: v0.7.1
-  name: Rockport v0.7.1 · icono del juego
-  publishedAt: '2026-10-15T22:31:32Z'
-  url: 'https://github.com/pablonolascoo/nfs-mw-2005-ps2-port/releases/tag/v0.7.1'
+  tag: v0.7.2
+  name: Rockport v0.7.2 · la historia desde el principio
+  publishedAt: '2026-10-31T14:49:24Z'
+  url: 'https://github.com/pablonolascoo/nfs-mw-2005-ps2-port/releases/tag/v0.7.2'
 activity:
-  lastSynchronized: '2026-10-24T18:10:12.445Z'
+  lastSynchronized: '2026-11-12T18:56:48.283Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8e8164793834b976fb1a2c459aa234832fe2dd3fe22f9d645a651fdeb3bac8a0"
-    releasesEtag: W/"f7bf6e4a74cab04cd809ca9486ebc9e2cecc4e4f1bd47e132eb8a4613bf4bc64"
+    repoEtag: W/"57eb2b158687a59ced20bf84b7957afd53bb48b12971438d98a4866e9ecc044c"
+    releasesEtag: W/"a5dacf1f6dec787712faefd64af6a741cbd7a39c6a98ad157ffa8e043ce7c04a"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

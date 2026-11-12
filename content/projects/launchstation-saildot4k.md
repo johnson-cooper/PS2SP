@@ -22,19 +22,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-24T07:28:08Z'
+  lastCommit: '2026-11-12T07:18:21Z'
 latestRelease:
   tag: latest
-  name: Launchstation Rolling - 2026-10-24 (f434912)
+  name: Launchstation Rolling - 2026-11-12 (c8dfbc4)
   publishedAt: '2026-10-24T06:45:39Z'
   url: 'https://github.com/saildot4k/Launchstation/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-24T18:10:05.621Z'
+  lastSynchronized: '2026-11-12T18:56:40.760Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"726c9cdc9dc20d697f0ed4962247cbaf4aedc4b71d82f8496c781098b1c72eff"
-    releasesEtag: W/"414c2a0afb5434b2b8553df41b5ef825d5147063d74ea176dfc25bfad88d7930"
+    repoEtag: W/"f90403cf3a5eeca80a0fdef7091d75b188a24a4abdae8c9b20ba914d9d7e0299"
+    releasesEtag: W/"329b96c9df7df6095bf5ffd5616017fbe752c6d1a3d7f442d7b6ceae128000ca"
 discovery:
   method: 'incremental:"PS2 homebrew" in:name,description,readme'
   confidence: 100

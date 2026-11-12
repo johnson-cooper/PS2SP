@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T01:43:46.634Z'
+  lastSynchronized: '2026-11-12T18:56:20.146Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"32687ef2ff72a9bff2560c8dc580a84817ed45915c6cea304c2c768f63012504"
+    releasesEtag: '"db0eeaf78c7cffaf6713f0d17b358b8c3fd7df257f1d689bfc9bb58c91a46e08"'
 discovery:
   method: 'fork-network:jcsix694/def-jam-vendetta-recomp'
   confidence: 100
@@ -53,5 +56,4 @@ relationships:
   forkOf: jcsix694/def-jam-vendetta-recomp
   source: jcsix694/def-jam-vendetta-recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

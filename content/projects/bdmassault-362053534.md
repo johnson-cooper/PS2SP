@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-24T18:09:47.569Z'
+  lastSynchronized: '2026-11-12T18:56:09.571Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"650615ffe2f24b1920aa9980aec80a48e162cb1389e18dbe014e0238ba91be91"
-    releasesEtag: '"0526fb5ca92c3b5d74e6f49d69dec9b46006cf0529ea194f9f065855748c74d0"'
+    repoEtag: W/"7d7115d253d9dc20b2d63947f5f2ddf7971e5bcb80a2254e5ba3881991e79be8"
+    releasesEtag: '"db0eeaf78c7cffaf6713f0d17b358b8c3fd7df257f1d689bfc9bb58c91a46e08"'
 discovery:
   method: 'fork-network:israpps/BDMAssault'
   confidence: 100
