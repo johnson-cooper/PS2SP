@@ -1,0 +1,16 @@
+{
+  "repository": "constantepintob-debug/CYBER-RENT-PS2",
+  "repositoryId": "1454377583",
+  "url": "https://github.com/constantepintob-debug/CYBER-RENT-PS2",
+  "description": null,
+  "score": 85,
+  "evidence": [
+    "repository name explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-12T00:59:54.175Z",
+  "checkedAt": "2026-11-12T00:59:54.175Z"
+}

@@ -1,0 +1,16 @@
+{
+  "repository": "danielhuebert/sf-alpha-anthology-re",
+  "repositoryId": "1454565190",
+  "url": "https://github.com/danielhuebert/sf-alpha-anthology-re",
+  "description": "Reverse-engineering notes on the Street Fighter Alpha Anthology (PS2): file formats, the MW game modules, and evidence that the games (incl. Hyper Street Fighter Alpha) run as native MIPS code rather than CPS-2 emulation. No game data.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-12T00:59:54.175Z",
+  "checkedAt": "2026-11-12T00:59:54.175Z"
+}
