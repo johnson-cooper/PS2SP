@@ -1,0 +1,16 @@
+{
+  "repository": "socom-cc/reCOM",
+  "repositoryId": "861543422",
+  "url": "https://github.com/socom-cc/reCOM",
+  "description": "A project that aims to decompile SOCOM 1, SOCOM 2, and (potentially) future SOCOM games.",
+  "score": 80,
+  "evidence": [
+    "PS2-specific topic",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-11-13T23:55:51.512Z",
+  "checkedAt": "2026-11-13T23:55:51.512Z"
+}
