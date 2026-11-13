@@ -25,19 +25,19 @@ repository:
   defaultBranch: main
   stars: 7
   forks: 0
-  lastCommit: '2026-11-08T00:54:03Z'
+  lastCommit: '2026-11-13T01:27:18Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.0.9-rr.2
+  name: decompdecomp v1.0.9-rr.2 — RetroReversing fork
+  publishedAt: '2026-11-08T17:10:55Z'
+  url: 'https://github.com/RetroReversing/decompdecomp/releases/tag/v1.0.9-rr.2'
 activity:
-  lastSynchronized: '2026-11-08T07:21:01.212Z'
+  lastSynchronized: '2026-11-13T07:58:16.517Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1237da80ecd4c338cd9886f2119b4b69d0cf1845908e65525acd5b1f08abc14e"
-    releasesEtag: '"d74739b5b55bb7861259cdc7802b48f20c2b7cb51c27157df555e44d97bb176d"'
+    repoEtag: W/"5a39971f9a25f786aa96c5f2d32d4e5d2613deb67097408150cbd6699174a468"
+    releasesEtag: W/"9f2d2fca89f69f3786e65612bd4f650594d3a2454e1968fb3b4d1c1179717d9f"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-11-07T02:42:43Z'
   url: 'https://github.com/nivobi/pcsx2/releases/tag/buzzparty-2.8.2-1'
 activity:
-  lastSynchronized: '2026-11-12T17:44:42.390Z'
+  lastSynchronized: '2026-11-13T07:59:25.900Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"07b0d3a612ff4e2a52acd4d5c3e491f89b99fb984d9976fa8dfc453af383b715"
+    releasesEtag: W/"b15b7c096490c8b678c6a994193e1af457f8700fbe598b3c077f176e904747fe"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

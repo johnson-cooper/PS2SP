@@ -24,22 +24,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 220
-  forks: 40
-  lastCommit: '2026-11-07T23:46:10Z'
+  stars: 235
+  forks: 42
+  lastCommit: '2026-11-12T23:47:52Z'
 latestRelease:
-  tag: v1.0.9-alpha.5
-  name: v1.0.9-alpha.5
-  publishedAt: '2026-11-06T21:29:12Z'
-  url: 'https://github.com/n-delic/decompdecomp/releases/tag/v1.0.9-alpha.5'
+  tag: v1.0.10-alpha.1
+  name: v1.0.10-alpha.1
+  publishedAt: '2026-11-11T00:48:24Z'
+  url: 'https://github.com/n-delic/decompdecomp/releases/tag/v1.0.10-alpha.1'
 activity:
   lastChecked: '2026-10-15T23:18:28.396Z'
-  lastSynchronized: '2026-11-08T07:20:59.699Z'
+  lastSynchronized: '2026-11-13T07:58:14.486Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c3fc5d5828efceda5509c237ba1add5a2ffb45f22f39765e22f249d0c35f4320"
-    releasesEtag: W/"0ba0750ce6490c23ed56be27e1f9f0dadbbda7d513ef6ab6f56c2a1f0538e1ad"
+    repoEtag: W/"45a738da52118296591a596ea2dcec8abdfe655132a6b30b426da1badf6dfad2"
+    releasesEtag: W/"6f28f5aec4fdd925c27772b7f2ba17968be54469225215780efe287ae56880e0"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

@@ -20,20 +20,20 @@ repository:
   defaultBranch: master
   stars: 25
   forks: 9
-  lastCommit: '2026-11-07T04:30:58Z'
+  lastCommit: '2026-11-13T01:50:56Z'
 latestRelease:
-  tag: v3.0.0-rev1
-  name: v3.0.0-rev1
-  publishedAt: '2026-07-26T01:53:23Z'
+  tag: v3.0.0-rev3
+  name: Simple-Media-System v3.0.0-rev3
+  publishedAt: '2026-11-12T20:04:05Z'
   url: >-
-    https://github.com/NathanNeurotic/Simple-Media-System/releases/tag/v3.0.0-rev1
+    https://github.com/NathanNeurotic/Simple-Media-System/releases/tag/v3.0.0-rev3
 activity:
-  lastSynchronized: '2026-11-08T07:22:41.797Z'
+  lastSynchronized: '2026-11-13T08:00:32.199Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d812cd9cd9175a4e73f53b190c22af4b0ee9c3f02812c8d0db5e79ce7a93caf0"
-    releasesEtag: W/"3d58c39cd588d88992e7481d4ec56ac0e404bea0cefd716fb69856cdb6b37763"
+    repoEtag: W/"c973a1971ca112f7877c200006e5e5e712b87c101a4f83c461bc821562e3958c"
+    releasesEtag: W/"9d824190f0263f3610ee8c26a55d06676dbd4449702a7651eaf6b48e5d25ce54"
 discovery:
   method: curated-owner
   confidence: 100

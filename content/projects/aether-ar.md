@@ -21,21 +21,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 3
+  stars: 6
   forks: 0
-  lastCommit: '2026-11-06T13:24:54Z'
+  lastCommit: '2026-11-10T18:58:54Z'
 latestRelease:
-  tag: v1.0.14
-  name: AETHER AR 1.0.14
-  publishedAt: '2026-11-05T19:33:19Z'
-  url: 'https://github.com/AETHER-AR/aether-ar/releases/tag/v1.0.14'
+  tag: v1.0.16
+  name: AETHER AR 1.0.16
+  publishedAt: '2026-11-10T18:58:58Z'
+  url: 'https://github.com/AETHER-AR/aether-ar/releases/tag/v1.0.16'
 activity:
-  lastSynchronized: '2026-11-08T07:20:49.654Z'
+  lastSynchronized: '2026-11-13T07:58:02.058Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a7de75dee386e7a472d3672ed3fb183e74bfa194790c69c12b8fcc1184b3ea72"
-    releasesEtag: W/"9fb79f561b585cf624939d8d7ef11028b9988e7f86628a3e5f7f2ecb25ee0b56"
+    repoEtag: W/"7efee6014fddc18a742fb9d7a8daf849b9d74748bfc4031d9100dee63ca44d5f"
+    releasesEtag: W/"aa7568917de9eae033516736ec21648686e7eae8da8f7539f36a4c8b88a6da65"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

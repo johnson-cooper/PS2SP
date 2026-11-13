@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-09-10T12:57:27Z'
   url: 'https://github.com/Wing0195/pcsx2x6/releases/tag/UE-PCB'
 activity:
-  lastSynchronized: '2026-11-08T07:21:59.354Z'
+  lastSynchronized: '2026-11-13T07:59:32.731Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3645980be31d5df6b3257ee2e70af20b3cb4425f55f03c27ef173002c16c549c"
-    releasesEtag: W/"732e9225c2e8c920dc6df2377978d6cd39006eba02ade4ac0c00fbe8ed12d0d0"
+    repoEtag: W/"222989f40b2a49335777b466f2b19cca7a1bcbf5952d9bfb37bd1f7257882624"
+    releasesEtag: W/"6467ea2fe6f9e092964400eec928fa4dd26a46284a89cc59f93a75e1f49e5925"
 discovery:
   method: 'fork-network:PS2Homebrew-arcade/pcsx2x6'
   confidence: 95

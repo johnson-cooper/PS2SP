@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2023-10-21T21:56:30Z'
   url: 'https://github.com/citronalco/OPL-Daily-Builds/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-08T07:21:45.939Z'
+  lastSynchronized: '2026-11-13T07:59:12.824Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3631aecca6f9cdba55f2e2b178780a943cb18ce93a7a41b4d993a176ad3a14f5"
-    releasesEtag: W/"ba79a5e0640f7e0cff1b031063eb83ed5c2258b5e0af7ed0c74204e963e55a3c"
+    repoEtag: W/"3071a59b220638b6a09c189a3f50bffebeb5da1f1050797bc636f5d28324701c"
+    releasesEtag: W/"802a37a73432692f81adddbae2cff81a64df38f191e67552c3d2dba7427f44eb"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

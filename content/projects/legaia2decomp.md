@@ -9,7 +9,7 @@ tags:
   - auto-discovered
 features: []
 authors: []
-license: null
+license: MIT
 homepage: 'https://bytematch.dev/WeAreTommyBruh/Legaia2Decomp'
 source:
   provider: github
@@ -20,19 +20,19 @@ repository:
   defaultBranch: main
   stars: 5
   forks: 0
-  lastCommit: '2026-11-07T18:21:43Z'
+  lastCommit: '2026-11-12T22:01:36Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-08T07:21:23.682Z'
+  lastSynchronized: '2026-11-13T07:58:44.385Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bc4e88aef5139b5f6a55262b5ae2cf6b562917e2cd656af78dec97658ad5b75b"
-    releasesEtag: '"d74739b5b55bb7861259cdc7802b48f20c2b7cb51c27157df555e44d97bb176d"'
+    repoEtag: W/"41da0f43e3a4aa0edd576d2b3a6a41190a4fa7fe8e295da224ff37c65020ba02"
+    releasesEtag: '"ea309585b6b8442e7810a76617111cc17158ad521089cd847cf67a401c489fcb"'
 discovery:
   method: 'incremental:topic:ps2'
   confidence: 100

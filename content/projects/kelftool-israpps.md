@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2024-03-22T16:13:20Z'
   url: 'https://github.com/israpps/kelftool/releases/tag/last-tested'
 activity:
-  lastSynchronized: '2026-11-08T07:21:23.220Z'
+  lastSynchronized: '2026-11-13T07:58:43.853Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5fb9da1d12bb010f204e666a6ed305425e7ab566ef3447868412fc53e399c982"
-    releasesEtag: W/"70ad23a605046caeea610d23ce8fb8af5d1b255bd65fd577e95011c4c7d90766"
+    repoEtag: W/"fdddd5d7045fcf5e42f6a7a8b4a507bb92985a17e9634fba5a60e70107fc4a2d"
+    releasesEtag: W/"6cc789559d2bb154c4cf98449f36ed462b206415116cd9d76347b2c1e1b27d00"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

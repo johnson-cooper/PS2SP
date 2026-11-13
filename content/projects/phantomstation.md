@@ -24,20 +24,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-02T16:51:16Z'
+  lastCommit: '2026-11-10T13:27:08Z'
 latestRelease:
-  tag: v1.0.4
-  name: PhantomStation 1.0.4 — Experimental
-  publishedAt: '2026-11-02T16:51:16Z'
-  url: 'https://github.com/NovalysDev/PhantomStation/releases/tag/v1.0.4'
+  tag: v1.0.8
+  name: PhantomStation 1.0.8 — version de test
+  publishedAt: '2026-11-09T17:59:52Z'
+  url: 'https://github.com/NovalysDev/PhantomStation/releases/tag/v1.0.8'
 activity:
   lastChecked: '2026-11-02T15:20:22.952Z'
-  lastSynchronized: '2026-11-08T07:22:00.325Z'
+  lastSynchronized: '2026-11-13T07:59:33.945Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"93e860e37bbcf975c116f426126a9a87866e33bff6a0e7a83bbedc4eb42ca3b4"
-    releasesEtag: W/"54dd1d65b6b2479f13c4f7c2296588dd3f0b5a82495b170cf31553a1c2a58089"
+    repoEtag: W/"ebc414e420a8a198d0739191f49f42cd0c2b2d0bc6f9a0f9f5e272453e7dc089"
+    releasesEtag: W/"9057a5fa0e0539dd23401ced3c9e3a17b830fa6e17adb7920e306c16241c0de9"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 90
