@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/retrom-project/Play-/releases/tag/retrom-core-g83700b2c31e5-r5
 activity:
-  lastSynchronized: '2026-11-07T16:27:41.723Z'
+  lastSynchronized: '2026-11-13T16:26:17.768Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"951509b949f8d784c65fdfb101147da81942db0c59f1607c102db5321a2b8845"
-    releasesEtag: W/"915d4633501b3c6ce0a6afe48d6a677d4f4d54a8f28d77a16d2328aab22f6f4b"
+    repoEtag: W/"be2667dd57bd5124a673e3f9ae29a38a1a28abe26d823fc806fef9bbe4fad275"
+    releasesEtag: W/"6a643d1ed6b00729508a79f26971fa6d27d047b228e9112d6462472e7ccf074f"
 discovery:
   method: 'fork-network:jpd002/Play-'
   confidence: 100

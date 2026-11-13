@@ -27,12 +27,12 @@ latestRelease:
   url: 'https://github.com/sync-on-luma/PS2-widescreen-cheats/releases/tag/zip'
 activity:
   lastChecked: '2026-09-29T00:27:31.889Z'
-  lastSynchronized: '2026-11-07T16:27:54.034Z'
+  lastSynchronized: '2026-11-13T16:26:39.989Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d1ebf5090645d71ca901aa64e0649f0d6af93447f44d92f5c5f410bed485c8d8"
-    releasesEtag: W/"6cc747162647316afeb8a00aa1d405b04ef7afd0aada792e034b952abbd160cf"
+    repoEtag: W/"c0854c77d5d3ec656c10d0ccad71e64314f5ae99e55d3b515509dbe96ad02d4c"
+    releasesEtag: W/"1bf33bb7e5b474769f66bab3213307721dbf96d6449166eb14a994c44be25ba3"
 discovery:
   method: github-search
   confidence: 100

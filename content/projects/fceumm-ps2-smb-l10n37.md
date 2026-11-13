@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/L10N37/Fceumm-PS2-SMB/releases/tag/v0.3.4-smb1'
 activity:
   lastChecked: '2026-09-29T00:30:39.763Z'
-  lastSynchronized: '2026-11-07T16:26:41.915Z'
+  lastSynchronized: '2026-11-13T16:24:32.100Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"765e84127e38e397fa62d0078375428a8a787969f7c5bd37783b9237d2d16e7e"
-    releasesEtag: W/"000ca1c44e77523dffbebede0e0201c94f5e3e1a3704304775522d776d01e073"
+    repoEtag: W/"25125ed9acfcc3eac1910aeb1469603fc27cc153806e376f4d3851a2e1e35cc8"
+    releasesEtag: W/"223f5bed7832efff4f25ffe718a46e8b336ffbbdc11a879dc51daff8383b54b3"
 discovery:
   method: github-maintained-fork
   confidence: 100

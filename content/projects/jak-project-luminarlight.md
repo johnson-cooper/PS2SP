@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2023-04-01T14:29:55Z'
   url: 'https://github.com/LuminarLight/jak-project/releases/tag/funi-2023-v0.1.0'
 activity:
-  lastSynchronized: '2026-11-07T16:26:57.555Z'
+  lastSynchronized: '2026-11-13T16:24:57.861Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0402e1df0242cb016dd94e6c66bb4d8cc157327d60663c94da365e26cd24b2b7"
-    releasesEtag: W/"3943932dfa296a174a75a9c3d956c0877e08679e1be7bfe119382e3fcaf0e14a"
+    repoEtag: W/"7e39963b544ad32cd68e0ab28067341f10a523d2721497a62692695a29dbc4fe"
+    releasesEtag: W/"9fa71af82597afb0733a6c7eb509963fafc241f5d2ea801d5196d826009bf80b"
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95

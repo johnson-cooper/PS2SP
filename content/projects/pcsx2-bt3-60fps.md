@@ -34,12 +34,12 @@ latestRelease:
     https://github.com/Saupernova13/pcsx2-bt3-60fps/releases/tag/v28-meter-economy
 activity:
   lastChecked: '2026-09-29T16:39:19.086Z'
-  lastSynchronized: '2026-11-07T16:27:25.776Z'
+  lastSynchronized: '2026-11-13T16:25:47.513Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"538baf63d2ebd6c04159b83ca1a07b301e91201a96811e61c7feba85eb41c979"
-    releasesEtag: W/"a69680b8ea2bdebdac773b6db74dc4269271ad1b9cd53816346678374b32d326"
+    repoEtag: W/"30975563226eadf7a85cd0cd8074eefd904c1140141274da4acb83e25581d511"
+    releasesEtag: W/"bd6acdabdfcfc12d1a648227d1d759100ee98bb1910036ce0aa624b4304dc122"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 80

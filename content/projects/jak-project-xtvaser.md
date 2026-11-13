@@ -22,19 +22,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-03T06:00:00Z'
+  lastCommit: '2026-11-07T18:42:07Z'
 latestRelease:
   tag: v0.3.7
   name: v0.3.7
   publishedAt: '2023-07-30T22:03:25Z'
   url: 'https://github.com/xTVaser/jak-project/releases/tag/v0.3.7'
 activity:
-  lastSynchronized: '2026-11-07T16:27:01.409Z'
+  lastSynchronized: '2026-11-13T16:25:04.501Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ea500f781d576b98a3fde70572edd96368f395700d7af8f95a4cd988b60c7d37"
-    releasesEtag: W/"9ee94b282aa5e73e0b3197ab63126e01ce95ca3d3c24aa55342aa0eba169b40f"
+    repoEtag: W/"12adc13f37264169fcbc104ec43bed8531c3e2d7107161dcda6c2a1f08782f83"
+    releasesEtag: W/"266be928988f5343f149ba55be158e0e0fe04326dd0eb0c5b2004010fe8a49de"
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95

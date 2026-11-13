@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2026-10-24T15:23:56Z'
   url: 'https://github.com/Killertamagotchi/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-07T16:27:14.804Z'
+  lastSynchronized: '2026-11-13T16:25:28.118Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a28f1391bf078ce1876fe01ebe0e4844f44aac74d391be0a8c291248a430d735"
-    releasesEtag: W/"310f40d98b4061cbea64aa7fd9f86dddf92ed2feb66814b626665c50118ec0ed"
+    repoEtag: W/"421dd58b8af481547d18d794fc0aedba721352ae6f0b2d12ed82f24ff91a0919"
+    releasesEtag: W/"952153c3097124343e5095b7d2f6d4e367d601f84f5b54272f79be3eaf619fb2"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

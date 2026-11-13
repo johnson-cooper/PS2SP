@@ -19,16 +19,19 @@ repository:
   defaultBranch: ccr-a4ada9db-0j5qxl
   stars: 0
   forks: 0
-  lastCommit: '2026-11-09T07:12:39Z'
+  lastCommit: '2026-11-09T19:57:34Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.5
+  name: Mars Colony - Project Red PS2 v1.5
+  publishedAt: '2026-11-09T19:57:34Z'
+  url: 'https://github.com/thieffran88/Mars_Colony_Project_Red_PS2/releases/tag/v1.5'
 activity:
-  lastSynchronized: '2026-11-09T07:12:30.852Z'
+  lastSynchronized: '2026-11-13T16:25:16.435Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"892ec623ad57aef6026ef359e426c838928ecf69ed9700548f911dca0b484749"
+    releasesEtag: W/"4ff11e649750975a3c3167e2594701ddc7fbfcaa898d52931bcfc2f0b2038876"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -41,5 +44,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

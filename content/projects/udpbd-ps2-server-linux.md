@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-11-02T11:59:09Z'
   url: 'https://github.com/N3ruk/UDPBD-PS2-Server-Linux/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-11-07T16:28:21.153Z'
+  lastSynchronized: '2026-11-13T16:27:24.002Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4a012e9899cf8e39841006ed274c0f51a80418aa6d5d931364dd2a656fec5b0a"
-    releasesEtag: W/"889a4d81c338ba7028b471df06491f2c828cb4cc749fc12bdae91f046d34f0e9"
+    repoEtag: W/"418868357debac89aebd028c3eb6e44a4c9152f1a3e70c5321640f9c6b6176c1"
+    releasesEtag: W/"700796ae947bcac0276172669a4e41a717af945b709a71391d2fda1d38628d68"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

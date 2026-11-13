@@ -20,22 +20,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 24
+  stars: 28
   forks: 1
-  lastCommit: '2026-10-31T18:46:59Z'
+  lastCommit: '2026-11-07T21:55:47Z'
 latestRelease:
-  tag: v0.1.1-alpha
-  name: Stuntman PC 0.1.1-alpha
-  publishedAt: '2026-10-31T18:46:59Z'
-  url: 'https://github.com/LAB0ULANGE/stuntman-pc/releases/tag/v0.1.1-alpha'
+  tag: v0.2.0-alpha
+  name: Stuntman PC 0.2.0-alpha
+  publishedAt: '2026-11-07T21:55:51Z'
+  url: 'https://github.com/LAB0ULANGE/stuntman-pc/releases/tag/v0.2.0-alpha'
 activity:
   lastChecked: '2026-10-29T22:00:32.843Z'
-  lastSynchronized: '2026-11-07T16:28:18.122Z'
+  lastSynchronized: '2026-11-13T16:27:18.442Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"538822a2fb45d1a44b13962eb4f263fbc9703d942aa65383fee1e0d820b337a4"
-    releasesEtag: W/"8c6fb88ff6c3b512185ad2149b42fc1dedb39c3d8ec3a1a15fe4df1aef643645"
+    repoEtag: W/"f8e9bbb0f581e38b6caa7d39c685cd53304f76a992d94e23f18d46673b43f9a7"
+    releasesEtag: W/"146a948f342afd3d150152be54703e45195f1b24b47503be7fc369aee7d4d170"
 discovery:
   method: 'pending-promotion:incremental:"ps2 port" in:name,description,readme'
   confidence: 85

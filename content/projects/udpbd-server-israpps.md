@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2024-02-23T05:19:15Z'
   url: 'https://github.com/israpps/udpbd-server/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-07T16:28:21.635Z'
+  lastSynchronized: '2026-11-13T16:27:24.637Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ae3af87ac2410f259131fd8c42a89e77cf533e6f2c4c451dcc3f62c3d6110863"
-    releasesEtag: W/"e9b32a4cd57eefeaeb45da7428b5ce9e8cc12ad57df6ed4a630629d56222590d"
+    repoEtag: W/"f25e4f4a53b245a1f5c74339256c15fb5d96f0863bebe8e8480a012f76741616"
+    releasesEtag: W/"653eac9e0dd09a1ce1560e0da90ff65581b38afbe09e2d92868df6053fcac9a3"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

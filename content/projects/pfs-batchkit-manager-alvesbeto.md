@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-11-07T03:29:23Z'
   url: 'https://github.com/alvesbeto/PFS-EXFAT-BatchKit-Manager/releases/tag/v1.3.0'
 activity:
-  lastSynchronized: '2026-11-07T16:27:38.322Z'
+  lastSynchronized: '2026-11-13T16:26:09.656Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bed61605986600ebd296e6cb915f24b76c266f640f83f783dfd9521ff8d0bca2"
-    releasesEtag: W/"8debb69826e8e9f8afd0dc8c00fc20a115da2defea98792255eabdac6bf78055"
+    repoEtag: W/"88354684e8887f611413344d409f7d3a9d6f8954902edf4d703cf6317561c307"
+    releasesEtag: W/"58d9d18da856dc5db64ad5ad36b71fe9aa0abd4be60537767d497b2744129eba"
 discovery:
   method: 'fork-network:GDX-X/PFS-BatchKit-Manager'
   confidence: 95

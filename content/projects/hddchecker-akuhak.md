@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2022-09-04T12:32:30Z'
   url: 'https://github.com/AKuHAK/HDDChecker/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-07T16:26:52.118Z'
+  lastSynchronized: '2026-11-13T16:24:49.406Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"96a811d18bbcead074342a7dc8ee1c2dce940043fed89bd617ee89cd4ee13706"
-    releasesEtag: W/"bf41c0281a1cd7d5dc24265ccb6d9abbe286291d13a5983e4a90c8b51617adc1"
+    repoEtag: W/"2ec08713802e88a26ef9d39243b3fba296dcb742397e5af9b2d9bd7d572de304"
+    releasesEtag: W/"480de974aef7b2d4c316142bf8781bedd1793978200bda6b6434ae3ffeb23f8d"
 discovery:
   method: 'fork-network:ps2homebrew/HDDChecker'
   confidence: 100

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-08-03T10:07:21Z'
   url: 'https://github.com/Wolf3s/wOPL/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-07T16:28:23.240Z'
+  lastSynchronized: '2026-11-13T16:27:27.368Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"137673eebc04dd0d0952962f32dbe9e1e3df9c49c0f275435ec76cf545c2777b"
-    releasesEtag: W/"ab9b50d81290d583aa080f64092893178b305524cfe1f4bc9d18058db898c0e2"
+    repoEtag: W/"e2ab07128b352cd38c9979e34b6abd3f1180589d2c8f21d860dcea7f7ea74b9f"
+    releasesEtag: W/"91fe0d664fe6d94bc40f42388d347a9b67cf249f980d5aea75dd9178e7db884a"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

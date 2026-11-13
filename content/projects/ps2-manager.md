@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-05T17:12:54Z'
+  lastCommit: '2026-11-11T00:44:08Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.3.1
+  name: v0.3.1
+  publishedAt: '2026-11-11T00:17:32Z'
+  url: 'https://github.com/Chrispsz/ps2-manager/releases/tag/v0.3.1'
 activity:
-  lastSynchronized: '2026-11-07T16:27:48.732Z'
+  lastSynchronized: '2026-11-13T16:26:29.752Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"117a49c5a3984b4fcd64d4b74aa7e6347bf5ef10bbf1e5eb3d8ab15480f83a8f"
-    releasesEtag: '"cd40c3496d49381414af8194765dadba2fe7e0fc90fa38f7f1ccc60239e10588"'
+    repoEtag: W/"fad87b99da71cf0b060d4c4dd280cc65957d86f9002785f49d489664edb6a83e"
+    releasesEtag: W/"953590e097c34b9cbd187f143a35bb798df492e15e18a3c81692c6dda3505b3a"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

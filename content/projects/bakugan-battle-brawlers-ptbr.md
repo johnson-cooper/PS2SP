@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-24T22:28:53Z'
   url: 'https://github.com/AsaGeki/bakugan-battle-brawlers-ptbr/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-11-07T16:26:28.852Z'
+  lastSynchronized: '2026-11-13T16:24:10.580Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fedb807b1741cd1eb34733e2d3bb2fd79f4ae864219106f3e88cb606e9b2ed2c"
-    releasesEtag: W/"aceb25e6304d40d58dc9290e734c165a49c51f60162bf7ce75c73e1e1515a43a"
+    repoEtag: W/"e052704e70c8adcb1be8c2c6e73c1cf7a1e0025b5b513436980d5dad7049abdd"
+    releasesEtag: W/"396fdf0e35f42d77a3e4fc52789d89a8b406e9b827e291154dbff7215ab41347"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-11-03T04:41:22Z'
   url: 'https://github.com/SlimDread/pcsx2-reliquary/releases/tag/v0.0.2'
 activity:
-  lastSynchronized: '2026-11-07T16:27:33.764Z'
+  lastSynchronized: '2026-11-13T16:26:02.508Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c40149f11347e61ae27a387bb7797e00e496cbea6a27b76d5da3705ccc112284"
-    releasesEtag: W/"fc07d24a3a9f365ca2cdfea7ac91292178d5a33c7688ad7bcb7ba0b20e0f957c"
+    repoEtag: W/"234c9c98564448a6c3d2baad21d0e7245dd3954cd6078ae27fac99dc6002cd63"
+    releasesEtag: W/"cd6f301a9fbfd8a7c0426f706f06e74a5bc9e347e027b0599721024094244663"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

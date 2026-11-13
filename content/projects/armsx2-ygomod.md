@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/YGOmod/ARMSX2/releases/tag/come.nanodata.armsx2-nightly-1.0.7-20251126-1012
 activity:
-  lastSynchronized: '2026-11-07T16:26:26.492Z'
+  lastSynchronized: '2026-11-13T16:24:06.215Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e429b18ebc32fbdff942aff2bac679cca09053e6161bfe182b3700737a61bd5a"
-    releasesEtag: W/"98423dc5cfb6188921b94126aa5986ef26b199f68c507ef18020386efefb7fc8"
+    repoEtag: W/"18b8820dd56b82b319368d75359476fc3ecb35c47a22928746e9d326b242c08e"
+    releasesEtag: W/"26391e0155b51ee79ccf1ed28399ce2baab2fbd2f7c2835e29eed610492f3718"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

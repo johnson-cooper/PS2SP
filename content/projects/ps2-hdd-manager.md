@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-09-12T05:43:37Z'
   url: 'https://github.com/L10N37/PS2-HDD-Manager/releases/tag/v0.2.0'
 activity:
-  lastSynchronized: '2026-11-07T16:27:47.976Z'
+  lastSynchronized: '2026-11-13T16:26:28.246Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"35acd2e32f8e9e864abe5643396175f3213167f8b05a0af94a3d44fe99e4bc8b"
-    releasesEtag: W/"fec8bb19072b2a45966cf51c766fca1c18ecaaeb00f2720049e1cddb754d5112"
+    repoEtag: W/"244414bac0249d675d3bfe5ebef94b13cd41b735e2b29f2e722474568f57dad5"
+    releasesEtag: W/"23fa7a51ef567b223e9c0e446d9f8f6f70515ec464d55d430a50ea0159379c9f"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100
