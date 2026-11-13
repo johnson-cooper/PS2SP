@@ -23,22 +23,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 3
+  stars: 10
   forks: 0
-  lastCommit: '2026-11-04T22:20:05Z'
+  lastCommit: '2026-11-13T20:34:11Z'
 latestRelease:
-  tag: v0.1.2
-  name: Drakan PC v0.1.2
-  publishedAt: '2026-11-03T08:53:48Z'
-  url: 'https://github.com/ChristopherVR/Drakan2PC/releases/tag/v0.1.2'
+  tag: v0.1.16
+  name: Drakan PC v0.1.16
+  publishedAt: '2026-11-13T20:34:11Z'
+  url: 'https://github.com/ChristopherVR/Drakan2PC/releases/tag/v0.1.16'
 activity:
   lastChecked: '2026-10-28T13:32:49.340Z'
-  lastSynchronized: '2026-11-04T22:40:11.558Z'
+  lastSynchronized: '2026-11-13T22:38:17.415Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"66680a2095eafa671915b7b4a58eb7d9fddf3f7810827022244860d88080abb0"
-    releasesEtag: W/"b10e274e1897a9e679867998670d5b300854f8065c44297d98e0167c2a73360e"
+    repoEtag: W/"f886e2786b149fc3c097eadbf01b193f1c95affa38644643f221ed4ab94690ae"
+    releasesEtag: W/"498809501786e80f0f2a7d89aa1b4f15cefd0be1b058e9e28a4f1f7dcc2eb6bc"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

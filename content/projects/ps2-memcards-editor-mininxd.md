@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-09-13T12:23:34Z'
   url: 'https://github.com/mininxd/PS2-memcards-editor/releases/tag/v1.6.0'
 activity:
-  lastSynchronized: '2026-11-04T22:41:41.708Z'
+  lastSynchronized: '2026-11-13T22:39:45.856Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"02b66185f2ccfb7c49e0213f1ce694eb368bda79028ce80e1539a452537f8ae6"
-    releasesEtag: W/"f39c86fe35f79dca1ac89d906e4dc011612ff48d282eb0bef7178790c3ffa02f"
+    repoEtag: W/"7dff16ca6e0d4d1101acd6d80c8115f6edbccaaf3b7555b01c11eb422a4fc53e"
+    releasesEtag: W/"94c049604e49ab20f8ddcb80c864f71e44d83e3cd0c57297dd69fb2b6b640ddd"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

@@ -21,21 +21,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 18
+  stars: 27
   forks: 2
-  lastCommit: '2026-11-04T22:29:35Z'
+  lastCommit: '2026-11-13T14:21:23Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.5.0
+  name: 1.5.0
+  publishedAt: '2026-11-13T14:21:23Z'
+  url: 'https://github.com/literalynn/BurnoutDominatorReversed/releases/tag/v1.5.0'
 activity:
-  lastSynchronized: '2026-11-04T22:39:58.510Z'
+  lastSynchronized: '2026-11-13T22:38:03.786Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"594ac151149661fdfffa8eddb40a2999cf5259458d1de5104131ace405213f9d"
-    releasesEtag: '"a4f168140a88f481cd5e05a9c06458170dc17a22c9e05abef5ff2db1765104a0"'
+    repoEtag: W/"5e6f60c6b58a2819bbe8e0d0f15bb3d41e40d23fb44699fa400da3fe6bd16196"
+    releasesEtag: W/"624713a24f5c2cc4d9579a1146f2fdf6f5c824d9d04a7683abcdeeedd527be02"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

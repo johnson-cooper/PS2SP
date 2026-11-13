@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-04T22:42:19.951Z'
+  lastSynchronized: '2026-11-13T22:40:20.091Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f9f28fa34c8dc812580a9bf46874a936f47e7a6fd99f10086b2ba95813ec5834"
-    releasesEtag: '"a4f168140a88f481cd5e05a9c06458170dc17a22c9e05abef5ff2db1765104a0"'
+    repoEtag: W/"e4bd09cb96efa03660be8f20dad20161602f7d8e7e2978b36952ff36f093f3b8"
+    releasesEtag: '"d9a10ef623a84975a765c8ac5a785f6156f114902cd0f1aa04572705874ed314"'
 discovery:
   method: 'fork-network:Kyllemn/PS2TVCRT'
   confidence: 95

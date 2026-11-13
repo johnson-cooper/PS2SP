@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-04T22:40:29.929Z'
+  lastSynchronized: '2026-11-13T22:38:34.390Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"92991b2cc06656e60e8bd3ae0098f93a40c44aa29779eae08fcf7bb0d8a1d39d"
-    releasesEtag: '"a4f168140a88f481cd5e05a9c06458170dc17a22c9e05abef5ff2db1765104a0"'
+    repoEtag: W/"59361ce9b2dfa450e71ce51e5777202a2f65815be4bd34bc4083d6fc9e1742fc"
+    releasesEtag: '"d9a10ef623a84975a765c8ac5a785f6156f114902cd0f1aa04572705874ed314"'
 discovery:
   method: 'fork-network:ps2homebrew/isjpcm'
   confidence: 95

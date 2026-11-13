@@ -20,16 +20,19 @@ repository:
   defaultBranch: ps2
   stars: 0
   forks: 0
-  lastCommit: '2026-11-08T16:43:55Z'
+  lastCommit: '2026-11-13T22:09:24Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-08T20:45:58.704Z'
+  lastSynchronized: '2026-11-13T22:39:22.924Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"92541127067b747e4a8f1c77e9f440162687a525f8fd5b88ae965188dfa8be7a"
+    releasesEtag: '"d9a10ef623a84975a765c8ac5a785f6156f114902cd0f1aa04572705874ed314"'
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: perfect-dark-pc-port/perfect_dark
   source: n64decomp/perfect_dark
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

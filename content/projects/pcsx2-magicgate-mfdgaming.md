@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2025-11-23T02:34:55Z'
   url: 'https://github.com/MFDGaming/pcsx2-magicgate/releases/tag/v2.5.317'
 activity:
-  lastSynchronized: '2026-11-12T17:44:42.390Z'
+  lastSynchronized: '2026-11-13T22:39:12.177Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"03c02540915e43f7fa34b6823b7a36d9063f39124ded77d3d93331d33fc2c779"
+    releasesEtag: W/"966b89b1ba1ddd045c7f914e8cbe81c1a4d3f49e1781532e736a27e4f5b841ad"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

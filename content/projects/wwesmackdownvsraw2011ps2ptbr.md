@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-09-06T23:15:50Z'
   url: 'https://github.com/refresh50/WWESmackDownVsRaw2011PS2PTBR/releases/tag/1.0'
 activity:
-  lastSynchronized: '2026-11-04T22:42:43.142Z'
+  lastSynchronized: '2026-11-13T22:40:44.321Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5ba0a8c846b6af676450df02298d40bd3f236f70d52f6f01efd56e6cc69e9b28"
-    releasesEtag: W/"0c7539cf518998d9c549f40315b0985ff14f92e6fd7acc6d4abaabbeab2620ca"
+    repoEtag: W/"e50117bbf4fd36e1f0fc6b8c762cf7e98c2b0aa0d16a5458ebd13276e20b7b37"
+    releasesEtag: W/"5b9b0f71537c52d4a8c4484756c3f51da5ff6d9c08df28e408152ddde085a5cf"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

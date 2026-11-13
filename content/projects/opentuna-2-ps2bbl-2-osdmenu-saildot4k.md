@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2026-06-11T20:11:26Z'
   url: 'https://github.com/saildot4k/OpenTuna_2_PS2BBL_2_OSDMenu/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-04T22:40:56.466Z'
+  lastSynchronized: '2026-11-13T22:38:57.727Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5cf775a68ab38b7a3e86e95f36bde0615e5842ce5905efad5088c03ec3eacb39"
-    releasesEtag: W/"784ef1886ea157e9fff8b7cfba6b886ddf3a6d8c887d9b47fbfba0002eb0ba64"
+    repoEtag: W/"aec3f57f0e2f70b3ad3d43a85c1bb502310eae6a223cae707ab54703281969ad"
+    releasesEtag: W/"13e9f1188962df26df7b68e4a2410f352116be2a275b8f7a6c9f9eda6cb4fc1b"
 discovery:
   method: 'fork-network:NathanNeurotic/FreeMcTuna'
   confidence: 95

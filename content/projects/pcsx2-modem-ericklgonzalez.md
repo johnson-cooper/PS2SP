@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-11T18:03:48.531Z'
+  lastSynchronized: '2026-11-13T22:39:14.491Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"9e45b93c86723c9d51b2bffc2db500006d47bf346dfde04ffc8dadff02ec271d"
+    releasesEtag: '"d9a10ef623a84975a765c8ac5a785f6156f114902cd0f1aa04572705874ed314"'
 discovery:
   method: 'fork-network:ddobokki/pcsx2_modem'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: ddobokki/pcsx2_modem
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

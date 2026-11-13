@@ -20,19 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-27T18:56:57Z'
+  lastCommit: '2026-11-07T15:39:57Z'
 latestRelease:
-  tag: zine-maker-latest
-  name: Zine Maker (instaladores para Windows e Mac)
-  publishedAt: '2026-10-27T16:50:27Z'
-  url: 'https://github.com/enricocubas-wq/ARMSX2-NX/releases/tag/zine-maker-latest'
+  tag: faxina-latest
+  name: Faxina — APK mais recente
+  publishedAt: '2026-11-07T15:39:58Z'
+  url: 'https://github.com/enricocubas-wq/ARMSX2-NX/releases/tag/faxina-latest'
 activity:
-  lastSynchronized: '2026-11-04T22:39:51.998Z'
+  lastSynchronized: '2026-11-13T22:37:57.250Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2aa332f4a53746b7f56d35bc6d646563135477c57656d246ee7c5b9ced1a0201"
-    releasesEtag: W/"91cee6628d7f9c82d6ec5c8984c5a55fec47dcb9dbcdf6124af0632ab489d9cf"
+    repoEtag: W/"996c37ef0202e69aff38c78c564851ad94bf9474bc51b8c0a1370aa4be76e1d2"
+    releasesEtag: W/"4789781dc9e670f04d290ec4a19c01517e95ee63d39a797ffce5390e3a49352c"
 discovery:
   method: 'fork-network:PalindromicBreadLoaf/ARMSX2-NX'
   confidence: 95

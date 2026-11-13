@@ -19,7 +19,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
   lastCommit: '2026-10-22T01:53:49Z'
 latestRelease:
@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-21T22:01:07Z'
   url: 'https://github.com/Seugildinho/warriors-orochi-ptbr/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-11-04T22:42:40.060Z'
+  lastSynchronized: '2026-11-13T22:40:40.964Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0da9b645305befd2a74d9085fa03d2c6fa371f8977239c574212d28b0df66acd"
-    releasesEtag: W/"39b9c131edf4ab97732d8056fdce0db426cc770ad4d18054d39bc232ab238a7c"
+    repoEtag: W/"1031b0a7ed547012c51f0c4901c3df18bedc9a9427c83dcdca9f6b4fba7e7b01"
+    releasesEtag: W/"0e04be03cafff1a2bfc89a3fb966df100a85e35c8fffc96f1c5081e1f6fb4726"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

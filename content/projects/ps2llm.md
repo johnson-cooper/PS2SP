@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/wakhidnh/PS2LLM/releases/tag/FirstRelease_1B_Model-Q8-22Layers-FullDim
 activity:
-  lastSynchronized: '2026-11-04T22:41:59.209Z'
+  lastSynchronized: '2026-11-13T22:40:00.521Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cb2470a60ac73c0759273350972b3e4814ba3aef8be09e83e76d5a912e723568"
-    releasesEtag: W/"132554cd9dee4b0cbdea4b9b0a18bdc26bba62f04cf98bb50e1cf01f3b961a34"
+    repoEtag: W/"d370a8607738741272515ce4bb1f9266bd9f89dae6ae0d795a1bba52b59db00e"
+    releasesEtag: W/"8aba9718ad0788dca78a68f53550064a69de269f082e6a1ae0dc38894e4b5e93"
 discovery:
   method: pending-recheck
   confidence: 100

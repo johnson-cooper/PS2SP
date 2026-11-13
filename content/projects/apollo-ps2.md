@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 113
   forks: 5
-  lastCommit: '2026-02-02T15:18:02Z'
+  lastCommit: '2026-11-13T15:21:35Z'
 latestRelease:
   tag: v1.0.2
   name: Apollo Save Tool v1.0.2
   publishedAt: '2024-12-24T11:36:11Z'
   url: 'https://github.com/bucanero/apollo-ps2/releases/tag/v1.0.2'
 activity:
-  lastSynchronized: '2026-11-04T22:39:45.034Z'
+  lastSynchronized: '2026-11-13T22:37:49.964Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d9ef24b2f9aba70b4131e8ff6e0e109c2a6e006cc42ac169d949c961f0971e89"
-    releasesEtag: W/"2496368c9e6039e8fa1e4df010c36aa595755436c9292bb5da507f6a0b56508b"
+    repoEtag: W/"ea6a96281a1cb7e51cfe689b3fdbda2ef5c98f10562e2a594eb7557dd7cbc75c"
+    releasesEtag: W/"af31e6c2166c5df858779280194bacf4d40b3788b916a2d3d402825bcea83c21"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

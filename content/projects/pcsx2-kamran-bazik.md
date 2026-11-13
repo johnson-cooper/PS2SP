@@ -13,7 +13,7 @@ license: GPL-3.0
 homepage: 'https://pcsx2.net'
 source:
   provider: github
-  repository: Kamran-Bazik/pcsx2
+  repository: Kamran-Bazik/bzk-pcsx2
   repositoryId: '1429886894'
 repository:
   archived: false
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-04T22:41:09.185Z'
+  lastSynchronized: '2026-11-13T22:39:08.831Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8d2bd40b710199c31d7c69a06b6076d310de09612dda335789ff169350838b1b"
-    releasesEtag: '"a4f168140a88f481cd5e05a9c06458170dc17a22c9e05abef5ff2db1765104a0"'
+    repoEtag: W/"a2cbd91e5ee34ce0bf431804cb559a706bf9ea7a9fc449fdac47cfe4909f4cc3"
+    releasesEtag: '"d9a10ef623a84975a765c8ac5a785f6156f114902cd0f1aa04572705874ed314"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

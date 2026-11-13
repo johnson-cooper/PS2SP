@@ -23,19 +23,19 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-11-03T23:33:11Z'
+  lastCommit: '2026-11-11T02:38:39Z'
 latestRelease:
-  tag: v0.0.9
-  name: USBUtils 0.0.9
-  publishedAt: '2026-11-03T23:33:12Z'
-  url: 'https://github.com/AldySan/USBUtils_src/releases/tag/v0.0.9'
+  tag: v0.0.11
+  name: USBUtils 0.0.11
+  publishedAt: '2026-11-11T01:36:17Z'
+  url: 'https://github.com/AldySan/USBUtils_src/releases/tag/v0.0.11'
 activity:
-  lastSynchronized: '2026-11-04T22:42:39.520Z'
+  lastSynchronized: '2026-11-13T22:40:40.415Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8adaaa4036e8b24c2da2d5596de67a28224928a4ed1c97a9991c4cd008a35680"
-    releasesEtag: W/"aad498c4bff69ec654d8a6290e00fcf7d62d62431f8c92b7126b16caab66a284"
+    repoEtag: W/"313d870b21dc64f263685099577489be79a1905af41289ee890c0d953f3a6ea0"
+    releasesEtag: W/"59351b3e01f6a290a512f1b59f15692f55658224abf9d3e9d36b638e8b440cbd"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

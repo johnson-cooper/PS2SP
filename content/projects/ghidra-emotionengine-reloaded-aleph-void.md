@@ -29,12 +29,12 @@ latestRelease:
   url: >-
     https://github.com/aleph-void/ghidra-emotionengine-reloaded/releases/tag/ghidra-rare-v1.0.0
 activity:
-  lastSynchronized: '2026-11-04T22:40:23.596Z'
+  lastSynchronized: '2026-11-13T22:38:29.445Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"52e1ce19b47a0dc9ca16fcf9856280c9df62eb70e905ea55744f3c4c78482492"
-    releasesEtag: W/"7aeec805b025dad8781355ee1bb70becc56cdb071d30384e1713fbf2c405dc75"
+    repoEtag: W/"662f9d9d99df53cb512e924c2504a50f0b00a3fcae2a8fb15b86b51a2f84bebe"
+    releasesEtag: W/"eee60415ce0903d483cf25ccee8927d3dd114f144d1f26ca94c59b962504dd10"
 discovery:
   method: 'incremental:ps2sdk in:name,description,readme'
   confidence: 100
