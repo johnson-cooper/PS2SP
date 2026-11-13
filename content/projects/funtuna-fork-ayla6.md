@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-01-21T11:00:23Z'
   url: 'https://github.com/ayla6/Funtuna-Fork/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-08T00:36:22.347Z'
+  lastSynchronized: '2026-11-13T00:24:34.572Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2f93c4be410e3cb11d0c0960ff46b62f872fd243679a466de87e0bec3d1f3160"
-    releasesEtag: W/"750a01401cd48d72ebaa0628cf778628208f44ca830fe0d80d7e551e106d9392"
+    repoEtag: W/"fa8e7f38dab9e4ab000ba9f2860f49b8257016e164eade51d4163cfb6882cf5e"
+    releasesEtag: W/"b768258f96dedbd4e3978b25e85b4dab1ede254211a0014911b9d3c53dd73b41"
 discovery:
   method: 'fork-network:israpps/Funtuna-Fork'
   confidence: 95

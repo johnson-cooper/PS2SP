@@ -25,22 +25,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 506
-  forks: 24
-  lastCommit: '2026-11-07T02:47:38Z'
+  stars: 532
+  forks: 25
+  lastCommit: '2026-11-12T23:47:10Z'
 latestRelease:
-  tag: v0.10.5
-  name: v0.10.5
-  publishedAt: '2026-11-07T02:47:43Z'
-  url: 'https://github.com/nathanialf/ico-pc/releases/tag/v0.10.5'
+  tag: v0.11.5
+  name: v0.11.5
+  publishedAt: '2026-11-12T23:47:16Z'
+  url: 'https://github.com/nathanialf/ico-pc/releases/tag/v0.11.5'
 activity:
   lastChecked: '2026-10-06T21:53:56.790Z'
-  lastSynchronized: '2026-11-08T00:36:24.315Z'
+  lastSynchronized: '2026-11-13T00:24:36.480Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4846aec5c70dd438679ede4e50e2ba9c89db07064b850bc8c9a3fad04898521d"
-    releasesEtag: W/"d1cc1c718d8a5a945e13cc127504d84fa8b97be4ced7a03bcc1a667556c97e96"
+    repoEtag: W/"c7f3f2b88b052af4c68ed59042a32210f8cd8371a45cfecb18ecf1766c7144ec"
+    releasesEtag: W/"3cfa85b93f81841a982015bc2eb994c3a4c7954ca949a0a704e99c8394d74875"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

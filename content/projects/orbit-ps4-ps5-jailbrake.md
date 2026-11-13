@@ -22,9 +22,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 3
+  stars: 2
   forks: 2
-  lastCommit: '2026-11-01T15:27:59Z'
+  lastCommit: '2026-11-11T09:36:29Z'
 latestRelease:
   tag: FIXrelease
   name: 'Orbit V2 New Release FIX '
@@ -33,12 +33,12 @@ latestRelease:
     https://github.com/angelicaunt/ORBIT-Ps4-Ps5-Jailbrake/releases/tag/FIXrelease
 activity:
   lastChecked: '2026-10-27T00:05:09.259Z'
-  lastSynchronized: '2026-11-08T00:36:58.480Z'
+  lastSynchronized: '2026-11-13T00:25:10.390Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9e372f9a21e10833fd5abe95244000191beae36ee1accaa5ad67f10850a3fa7a"
-    releasesEtag: W/"b84327359e7cf13cc33d34affe0a9bbf23099fa8035635bb51cdedfbdd11cefa"
+    repoEtag: W/"6059a463882e61664202eb5ae2176acf7640c37b4d14a7c97751222a85ed7e20"
+    releasesEtag: W/"10c39cceadbe26ecbfd3a841bcd19b699561faf101a5d93c859f3c1b301c99e3"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 90

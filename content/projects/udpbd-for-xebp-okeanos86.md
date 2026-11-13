@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-08T20:45:58.704Z'
+  lastSynchronized: '2026-11-13T00:26:26.845Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c0666cdea7bff9d60a701c8ac5d258fa3c4edc29bfa5856a8c035ada623c5944"
+    releasesEtag: '"98b39eaf82b5aff313393cd803aefa154c085e8109a70fb42a843a28b7b06d93"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: MegaBitmap/UDPBD-for-XEBP
   source: sync-on-luma/xebplus-neutrino-loader-plugin
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

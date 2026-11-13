@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-24T05:14:16Z'
   url: 'https://github.com/riantosee/ps2toxbox/releases/tag/v0.1.0'
 activity:
-  lastSynchronized: '2026-11-08T00:37:48.048Z'
+  lastSynchronized: '2026-11-13T00:26:05.208Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"eba8310c7898acf7ef6f8ee8cdb79db1934def2d58222d254226ab3cc17c9ece"
-    releasesEtag: W/"73fc2b3cb7c33f490636dce9ddf719bb0efec9655b4691e660fd4882852743a5"
+    repoEtag: W/"91548660e2d5b9a34e965369a1d2670f9e299f518e26743ba84ef13096167e45"
+    releasesEtag: W/"3acb2b590bb18844928d1b166b08f167d3209d30d9f2c4bed62319197cca40ae"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

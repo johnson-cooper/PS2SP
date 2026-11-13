@@ -19,19 +19,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-07T07:06:10Z'
+  lastCommit: '2026-11-10T18:08:15Z'
 latestRelease:
   tag: v0.1
   name: v0.1
   publishedAt: '2026-11-07T07:06:11Z'
   url: 'https://github.com/andruxaster/ps2-linux/releases/tag/v0.1'
 activity:
-  lastSynchronized: '2026-11-08T00:37:21.740Z'
+  lastSynchronized: '2026-11-13T00:25:38.357Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"15c4aa1206af6ddaebefe74d6e8a50d642ed15060ac79778c8fa8331c4993e60"
-    releasesEtag: W/"9cb4d409c56da1465fae9a867cfee27789fed3230339e2ca4a35526dcd6de969"
+    repoEtag: W/"9f784a542f048718718b683dedb8288a7adaaecf5e9a52180bd56fd949ca9ca4"
+    releasesEtag: W/"6b57492c7f2c3804a6cc963134e1e49327cc0b42bce01bedc82c4cf08ef2f6fa"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

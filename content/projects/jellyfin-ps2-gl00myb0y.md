@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-08T00:36:32.872Z'
+  lastSynchronized: '2026-11-13T00:24:45.267Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2329d893ea8babcb5e4c9efaceb645b59a8a02eec5ff5a241393759907f2bb6e"
-    releasesEtag: '"16473d649f768214514c512b7be0be3277466c8f8f99dd19d61ab7fc23e84735"'
+    repoEtag: W/"bb773895b6d23c10969752ce4b3780812c18a3d706abbe3ca8df00b3e025665f"
+    releasesEtag: '"98b39eaf82b5aff313393cd803aefa154c085e8109a70fb42a843a28b7b06d93"'
 discovery:
   method: 'fork-network:jimmyBizMobile/jellyfin-ps2'
   confidence: 100

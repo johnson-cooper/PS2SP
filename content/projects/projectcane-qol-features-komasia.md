@@ -34,12 +34,12 @@ latestRelease:
   url: >-
     https://github.com/Komasia/ProjectCane-QOL-Features-/releases/tag/v0.5.0-beta
 activity:
-  lastSynchronized: '2026-11-08T00:37:16.047Z'
+  lastSynchronized: '2026-11-13T00:25:32.537Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2a6a17bc1a00b5ddffb79e74660b6360290e151c6f35249cb1a196f8d9bd2f45"
-    releasesEtag: W/"47520ad1198fdba44cd77e3f8a6d180d870cbdb0c6de3cde55d900aec4ab3472"
+    repoEtag: W/"e1ca4040da39dcbcb4fcd9bc4a9156343257df97eccf1bc4449d4923ae5fbb12"
+    releasesEtag: W/"cbbc5caf1d9355c7cdc281da125b9ba0d277123f164f16fbd3306eb39fe60b66"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

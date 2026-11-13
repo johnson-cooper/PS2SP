@@ -20,19 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 1
-  lastCommit: '2026-11-07T18:32:50Z'
+  lastCommit: '2026-11-08T13:39:17Z'
 latestRelease:
-  tag: v0.0.2
-  name: v0.0.2
-  publishedAt: '2026-10-02T08:50:46Z'
-  url: 'https://github.com/Radioo/pcsx2-reliquary/releases/tag/v0.0.2'
+  tag: v0.0.4
+  name: v0.0.4
+  publishedAt: '2026-11-08T14:42:42Z'
+  url: 'https://github.com/Radioo/pcsx2-reliquary/releases/tag/v0.0.4'
 activity:
-  lastSynchronized: '2026-11-08T00:37:06.897Z'
+  lastSynchronized: '2026-11-13T00:25:20.883Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c85e21c2bd24b70797800360d11e3d677681c54101f43023335d685ebec4074c"
-    releasesEtag: W/"1739f6dc9630af8aef3a91f9fe8c03d90afffe5f10b79a73384e93e1ff95d2c9"
+    repoEtag: W/"b6a3f8a3431cbdb107e277b566ac55773ff5458e6b6dd90879a04c0f211c332a"
+    releasesEtag: W/"3952b815322ca73956f6da29abe0182c496d400ba51c7034dfb645d772360a8a"
 discovery:
   method: 'fork-network:DiscoStarslayer/pcsx2-reliquary'
   confidence: 100

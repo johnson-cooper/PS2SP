@@ -20,19 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-09-22T17:07:21Z'
+  lastCommit: '2026-11-11T07:29:50Z'
 latestRelease:
   tag: android-test
   name: Android test build (2bc39be)
   publishedAt: '2026-09-09T21:20:03Z'
   url: 'https://github.com/WizzardSK/armsx2-libretro/releases/tag/android-test'
 activity:
-  lastSynchronized: '2026-11-08T00:36:01.417Z'
+  lastSynchronized: '2026-11-13T00:24:14.588Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"25e7dd54c514a68ee16a7686de5e784d96a51faa87f030d14d86dcca8fcd4931"
-    releasesEtag: W/"afe8c44b55601d6964a310c68839cdb140b28b16cf83c1239f63a3dcc21e3015"
+    repoEtag: W/"b3de690851b262469e50990c8712d9e55af4d0c689017339b79e47b4d4141f52"
+    releasesEtag: W/"7a4a6a1a80765ce89e144c84aa41659ce5726e5f46a10890e728710c4620c7fe"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100
