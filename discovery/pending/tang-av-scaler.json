@@ -1,0 +1,16 @@
+{
+  "repository": "bryfur/tang-av-scaler",
+  "repositoryId": "1431797896",
+  "url": "https://github.com/bryfur/tang-av-scaler",
+  "description": "PS2-class component video -> deinterlace, SMAA, scale -> 1080p60 HDMI on a Sipeed Tang Console 138K, with its AV board",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-13T03:36:03.837Z",
+  "checkedAt": "2026-11-13T03:36:03.837Z"
+}

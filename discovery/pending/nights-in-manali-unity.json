@@ -1,0 +1,16 @@
+{
+  "repository": "WHERESHOULDISTART/nights-in-manali-unity",
+  "repositoryId": "1455987968",
+  "url": "https://github.com/WHERESHOULDISTART/nights-in-manali-unity",
+  "description": "Nights in Manali: a first-person psychological folk-horror game in five nights, made in Unity 6 with a PS2-era look.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-13T03:36:03.837Z",
+  "checkedAt": "2026-11-13T03:36:03.837Z"
+}
