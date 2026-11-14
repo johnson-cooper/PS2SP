@@ -28,8 +28,8 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 22
-  forks: 2
+  stars: 23
+  forks: 3
   lastCommit: '2026-10-11T02:37:44Z'
 latestRelease:
   tag: v1.8
@@ -38,12 +38,12 @@ latestRelease:
   url: 'https://github.com/johnson-cooper/2004sp-ps2port/releases/tag/v1.8'
 activity:
   lastChecked: '2026-09-29T10:00:00Z'
-  lastSynchronized: '2026-11-05T03:29:52.290Z'
+  lastSynchronized: '2026-11-14T03:15:29.210Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"539f3468f3cd7bacf3742c3704b74b28eedcd3aa0e2d51f98139fe8a446b0d3f"
-    releasesEtag: W/"6943e8bd0d3854c2ee09e61f45886e65440004b61c6dadf50d17603323ba6c7e"
+    repoEtag: W/"204f48cfb7bd4c2b4e62c7b869e3f51098263037a4870988caab6c2fdf6f5610"
+    releasesEtag: W/"a5c4aaf2339e5ab24e0d300a32eb063ed43296abfdbdf23d00c18a1e39474984"
 discovery:
   method: curated
   confidence: 100

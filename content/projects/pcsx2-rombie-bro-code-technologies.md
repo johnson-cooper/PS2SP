@@ -20,7 +20,7 @@ repository:
   defaultBranch: rombie
   stars: 0
   forks: 0
-  lastCommit: '2026-10-13T00:39:24Z'
+  lastCommit: '2026-11-13T21:20:08Z'
 latestRelease:
   tag: rombie-ps2-engine-2026.1.0
   name: Rombie PS2 Engine 2026.1.0
@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/Bro-Code-Technologies/pcsx2-rombie/releases/tag/rombie-ps2-engine-2026.1.0
 activity:
-  lastSynchronized: '2026-11-05T03:31:05.360Z'
+  lastSynchronized: '2026-11-14T03:16:36.781Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2c8ee7b52a37e45092ff0581ce97eac0c52f9f053fcb2bab1d5c43dfddb36e3c"
-    releasesEtag: W/"4567e6e20ee11634156ff5bd0eb5b25e109d9982e708b5e3457c170795fcc281"
+    repoEtag: W/"8fa8ae0f5efbc8f4d467f0370df5af7a13f0974134fb661ccb0e3d588ed156c5"
+    releasesEtag: W/"5eb831d5edabadb27a32141eb780bd1d4b40fe7332b46694787e0060207e8179"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

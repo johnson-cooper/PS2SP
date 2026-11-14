@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2025-06-13T18:01:08Z'
   url: 'https://github.com/pcm720/PlayStation2-Basic-BootLoader/releases/tag/osdmenu'
 activity:
-  lastSynchronized: '2026-11-05T03:31:12.356Z'
+  lastSynchronized: '2026-11-14T03:16:44.211Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"10b33324e80988561d6901b5951909601270af7f8373ab20097f2d9e39ab0e91"
-    releasesEtag: W/"4c1e5ff7bcd267273b9d099885144501bec2cb5723f548af243fc85b2b838643"
+    repoEtag: W/"d48b437abcc31bc98df965a2b79f2ab34424bd010b48b32e7a2ca675a0ff3e77"
+    releasesEtag: W/"42d901a06461788b20e8f4f48994f14d487452d8648ba793bb84bda6d46bdd16"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

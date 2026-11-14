@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/retro-trans/Sunrise-Eiyuutan-R/releases/tag/v0.8.0'
 activity:
   lastChecked: '2026-11-03T21:16:47.802Z'
-  lastSynchronized: '2026-11-05T03:32:06.553Z'
+  lastSynchronized: '2026-11-14T03:17:35.604Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4943b708b36887ecb7e6794bd857d0e6ecbff4f0deaa1fb0d49077fddeb486e6"
-    releasesEtag: W/"a2205f12a547e2e93bd06b6712e5924ea130b03d667d09de30dee2eae2f0ac70"
+    repoEtag: W/"f3c213e67fc49afd6d3d7f0271174da7d992d74cf92385db22758abac7470d52"
+    releasesEtag: W/"9d84ee9559ca66ffd949015b7db47fb88396d2037424dc6bdd6b74a192d836e8"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

@@ -27,20 +27,20 @@ repository:
   defaultBranch: main
   stars: 4
   forks: 0
-  lastCommit: '2026-11-04T23:02:27Z'
+  lastCommit: '2026-11-11T20:45:05Z'
 latestRelease:
-  tag: v0.22.1
-  name: Odyssey Launcher 0.22.1
-  publishedAt: '2026-11-03T13:47:02Z'
-  url: 'https://github.com/GeekRhapsody/OdysseyLauncher/releases/tag/v0.22.1'
+  tag: v1.2.0
+  name: Odyssey Launcher 1.2.0
+  publishedAt: '2026-11-10T23:44:41Z'
+  url: 'https://github.com/GeekRhapsody/OdysseyLauncher/releases/tag/v1.2.0'
 activity:
   lastChecked: '2026-10-08T16:57:35.240Z'
-  lastSynchronized: '2026-11-05T03:30:45.025Z'
+  lastSynchronized: '2026-11-14T03:16:16.910Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f9615618e6219bd5470ff6d063867265153c1cfd8ff5903b074a9d96b648afb2"
-    releasesEtag: W/"bd3b69a9d947bb42230373df00d1b91b001f8c50855fbc8a5cfdcbb52c36108f"
+    repoEtag: W/"74582fdb005ed7e64af2f1933ce9cf01c6eadd3b605324d6fd749e0340f4fb30"
+    releasesEtag: W/"602c13df14f2ceb7d798e0236502d64a89cdf08a0e25e038b68fffa5d536dfcd"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

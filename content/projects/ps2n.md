@@ -14,30 +14,30 @@ tags:
   - auto-discovered
 features: []
 authors: []
-license: null
-homepage: null
+license: GPL-3.0
+homepage: 'https://luisbraganca.github.io/ps2n/'
 source:
   provider: github
   repository: luisbraganca/ps2n
-  repositoryId: '1437711930'
+  repositoryId: '1453786236'
 repository:
   archived: false
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-05T03:30:36Z'
+  lastCommit: '2026-11-14T00:20:19Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T03:31:33.673Z'
+  lastSynchronized: '2026-11-14T03:17:05.542Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ada9730d4b9d92285b3405936b50e0eec0863b7186cc65ac8d96840f1fb2b295"
-    releasesEtag: '"d0fd33205f72e666ae36b3d0b58a9c1bc940fa028f6d4d3236e413053a4ae128"'
+    repoEtag: W/"5e57246a5199aceafccc6df5015f8ca66b9d054b2a8becd7268a465c8573fa50"
+    releasesEtag: '"da75f3c1438a29a4ff9b17b9d2405560409358ebfa56c09e1268291275d476c8"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-12T22:52:52.287Z'
+  lastSynchronized: '2026-11-14T03:16:52.469Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c8cafa0f735a1bd6215d1b66c2fd01fe2c1ec16c28afddbd995b279422f0f659"
+    releasesEtag: '"da75f3c1438a29a4ff9b17b9d2405560409358ebfa56c09e1268291275d476c8"'
 discovery:
   method: 'fork-network:exoteric33/ps2-native-recomp'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: exoteric33/ps2-native-recomp
   source: exoteric33/ps2-native-recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

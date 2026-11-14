@@ -24,7 +24,7 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-04T14:42:54Z'
+  lastCommit: '2026-11-13T14:46:08Z'
 latestRelease:
   tag: watson-0.1.0-pcsx2-v2.9.97
   name: Watson 0.1.0 on PCSX2 v2.9.97
@@ -33,12 +33,12 @@ latestRelease:
     https://github.com/JeanxPereira/Watson/releases/tag/watson-0.1.0-pcsx2-v2.9.97
 activity:
   lastChecked: '2026-10-04T08:48:40.209Z'
-  lastSynchronized: '2026-11-05T03:32:12.510Z'
+  lastSynchronized: '2026-11-14T03:17:40.248Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4cedc66017b58a8670e3f68891ddeb478d2e70a3b2a6d63ca7be6f5400ccbc7c"
-    releasesEtag: W/"b729f309ec07c74e5b02912bdf832fe86d91e2824c2cfc4316964d1ed552f6ae"
+    repoEtag: W/"e7e0251df94e9d2c3a1898bce2bbc232278183231dfc663e146f601db60b8242"
+    releasesEtag: W/"4f743115b2e1c8a8cfd317aabc40a662b5624acbf77c497d94b9b0212e541cf8"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
