@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-11T19:29:49Z'
   url: 'https://github.com/vampirecat35/pcsx2/releases/tag/gcae2810ee'
 activity:
-  lastSynchronized: '2026-11-07T10:10:53.841Z'
+  lastSynchronized: '2026-11-14T10:35:51.596Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"370651e28fd607ded1c6ea3240e9352ae0a21fe0b32a8b8dd5e04ef85bdbb6e0"
-    releasesEtag: W/"e0f4a86eb0301bf86611ba1c9de08cab2b9c0456074d56b9946663cda88f60a7"
+    repoEtag: W/"3c05faa31b98f54ae650eb1434499d2a841386c6213e8781de6d1fd0aedae62c"
+    releasesEtag: W/"7f4c7dfa4ce5858ef261896b414c1ab0f51d307bf20dd65c12a1d623c53d9085"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

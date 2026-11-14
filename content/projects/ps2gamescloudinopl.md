@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-18T22:52:56Z'
   url: 'https://github.com/RodrigoRosa95/PS2-Henbox/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-11-07T10:11:15.984Z'
+  lastSynchronized: '2026-11-14T10:36:11.949Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"056f21411c82bdb41d4b183d7278c4e78345f4d81727133719763d33e48d956e"
-    releasesEtag: W/"a9c143a3d077ac2b36b4ba823d2ccbf279944d305e764314acb2386d60d2b937"
+    repoEtag: W/"8cd1e3f41292b9f8b6c4e83e7e2cc60f52bbaaba3e21a33777552ade5b857d4e"
+    releasesEtag: W/"fd965f3a644b5a0809ad902ec65ac5d88f0e026f4f467f734e162a8a2bb5df2b"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

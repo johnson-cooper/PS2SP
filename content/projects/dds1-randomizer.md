@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/Astolfothetrapgod/DDS1-Randomizer/releases/tag/v1.3.0'
 activity:
   lastChecked: '2026-09-29T00:28:35.582Z'
-  lastSynchronized: '2026-11-07T10:09:49.422Z'
+  lastSynchronized: '2026-11-14T10:34:47.212Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f6b826f41aa9c71a6343dccf2012999f765d919447423370b4f37db7767fade5"
-    releasesEtag: W/"5127684c9b0da8aef0ecde1390b1b2352fecf634435ce65b5f8f2047892e5647"
+    repoEtag: W/"a224fbe2d49ea5fca2d29246f66c23d2972bb0dd9fee5fa3bae1d4650958ef7d"
+    releasesEtag: W/"ff7e5e1ab96bef3fa944d3ab9308dfec3f07b49a14b52709a5edb614848005a4"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 90

@@ -37,12 +37,12 @@ latestRelease:
   url: 'https://github.com/mystyq/Stable-Open-PS2-Loader/releases/tag/release'
 activity:
   lastChecked: '2026-09-29T00:31:46.870Z'
-  lastSynchronized: '2026-11-07T10:11:42.701Z'
+  lastSynchronized: '2026-11-14T10:36:38.205Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e2b0919858073b5c71fb732c8c4c26934a866bf875bb970e318a0cb1fa0d9a0d"
-    releasesEtag: W/"5e2b05ff9e4a66bd5f117602489b8bf2b60e461369f98c74b83e14eb22128241"
+    repoEtag: W/"11272ba2959de370ab9ed25b4d3b6a449bca58716840cc1a76ec3e3cbf2a3d21"
+    releasesEtag: W/"d03f7a045d8a8434661aa58a882ed9ddf2195b0d79f384831f46abca88270003"
 discovery:
   method: github-maintained-fork
   confidence: 100

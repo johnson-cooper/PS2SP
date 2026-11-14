@@ -21,21 +21,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 2
+  stars: 3
   forks: 0
-  lastCommit: '2026-10-28T11:36:34Z'
+  lastCommit: '2026-11-08T12:42:29Z'
 latestRelease:
-  tag: 1.0.0
-  name: UDPFS Assault
-  publishedAt: '2026-10-23T21:58:02Z'
-  url: 'https://github.com/Okeanos86/BDMAssault/releases/tag/1.0.0'
+  tag: 1.0.1
+  name: BDM/UDPFS Assault v1.0.1
+  publishedAt: '2026-11-08T12:32:52Z'
+  url: 'https://github.com/Okeanos86/BDMAssault/releases/tag/1.0.1'
 activity:
-  lastSynchronized: '2026-11-07T10:09:41.172Z'
+  lastSynchronized: '2026-11-14T10:34:39.643Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3dd98b3f8294af31afe2430df9ec7653e3e39f2e2f9f3d1302ee83d96ecaf034"
-    releasesEtag: W/"cb663f4d80f0f5a5013d3cab9904cbaaf3e4901874eac9a3d2959161b6b1156e"
+    repoEtag: W/"72c139956230e4903a584cba72a3fc28cd763a655036b2c0a101caa12379790a"
+    releasesEtag: W/"88f695ad944ad6ec500d91119824bcc09e50eea923a2dff0bb4833cc21441dd8"
 discovery:
   method: 'fork-network:israpps/BDMAssault'
   confidence: 100

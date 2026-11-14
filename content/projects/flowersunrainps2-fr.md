@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/jabberwockyfool/FlowerSunRainPS2-FR/releases/tag/V1.0'
 activity:
   lastChecked: '2026-10-30T16:14:43.736Z'
-  lastSynchronized: '2026-11-07T10:09:55.435Z'
+  lastSynchronized: '2026-11-14T10:34:52.728Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"88ad8e3947ace354d033791ddb95871faf9636d94fea85ba37f506e8c6d8a0f1"
-    releasesEtag: W/"4beb03ffac46c6d33f1743de0ac3a93c56a4bd458a0d7f00e965e1054d229edc"
+    repoEtag: W/"8a878353353ffc64ef46a9fa469f2286f10ae74e5bc5782ef60891570812bc4b"
+    releasesEtag: W/"afff136e9bbb50aac891f675f0eed39debf86d67d0f56079dae56962904dbb07"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

@@ -36,12 +36,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-07T10:09:29.913Z'
+  lastSynchronized: '2026-11-14T10:34:29.339Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0834b610ecb0e8c54196789581a2229a72a29ab6473eb63e6730690d85eecbb4"
-    releasesEtag: '"f5ca988cf8edc1105f5ebfd72d6c0a5ca9b98f69b067126d9a43407dc35f9f78"'
+    repoEtag: W/"4c4378368ba5b1b73a0bacf665c99f5039e2daa179c199fb394f047d2f809944"
+    releasesEtag: '"83febaa07196bb889373057850dbd348d5f7544ded357423bb2914f9d0ac24ca"'
 discovery:
   method: 'fork-network:johnson-cooper/2004sp-ps2port'
   confidence: 95

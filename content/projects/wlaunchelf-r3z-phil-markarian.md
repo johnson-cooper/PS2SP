@@ -37,12 +37,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-07T10:11:47.913Z'
+  lastSynchronized: '2026-11-14T10:36:42.840Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c28012916702922afcc81ed543cb56d35337d561a2f28a08a9df952f13380fd1"
-    releasesEtag: '"f5ca988cf8edc1105f5ebfd72d6c0a5ca9b98f69b067126d9a43407dc35f9f78"'
+    repoEtag: W/"cfb5c8383f2375d4c288123b1e34c3af9bd3dc3e98e5105c64d102ed92744452"
+    releasesEtag: '"83febaa07196bb889373057850dbd348d5f7544ded357423bb2914f9d0ac24ca"'
 discovery:
   method: 'fork-network:saildot4k/wLaunchELF_R3Z'
   confidence: 100

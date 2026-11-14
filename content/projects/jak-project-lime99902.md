@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-10-28T02:01:20Z'
   url: 'https://github.com/LIME99902/jak-project/releases/tag/vr-build-6'
 activity:
-  lastSynchronized: '2026-11-07T10:10:12.798Z'
+  lastSynchronized: '2026-11-14T10:35:09.921Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f663033915b477775c421b5f969f8be633dc77b7dd643242c14752eade35592c"
-    releasesEtag: W/"a763c1d5e5b5581e5629c44bfa006f0c6ac2b0e51a274f8c13ab5fa2c251166a"
+    repoEtag: W/"74ec09041232e99149217801131003319dcc5a311676b6e57a35dbcefceb19dc"
+    releasesEtag: W/"1f7c9aed960ba34b1cd44eb86cd2d25fec081ad0497efc8408ad1b6dfc123319"
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95

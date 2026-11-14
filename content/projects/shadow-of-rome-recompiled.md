@@ -16,7 +16,7 @@ tags:
   - fork
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -25,10 +25,10 @@ source:
   url: 'https://github.com/lfdjs/shadow-of-rome-recompiled'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-10T18:35:12Z'
 latestRelease:
   tag: null
   name: null
@@ -36,8 +36,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-11-10T22:32:01.296Z'
+  lastSynchronized: '2026-11-14T10:36:33.181Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"dda7e28a2e1472ef5f5d9d18d8278bb52ec7ee42a2c2f218b26a371015dec6c3"
+    releasesEtag: '"83febaa07196bb889373057850dbd348d5f7544ded357423bb2914f9d0ac24ca"'
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -53,5 +57,4 @@ relationships:
   forkOf: Korvonordico/shadow-of-rome-recompiled
   source: Korvonordico/shadow-of-rome-recompiled
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

@@ -32,12 +32,12 @@ latestRelease:
   url: >-
     https://github.com/NathanNeurotic/FreeMcTuna/releases/tag/UMCS-OPENTUNA-4eddc244
 activity:
-  lastSynchronized: '2026-11-07T10:10:03.464Z'
+  lastSynchronized: '2026-11-14T10:34:59.871Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e4306700f30961ad7f10a4ff1e5a998edf4f79c2bb7b4649151455f7ad0b0d2f"
-    releasesEtag: W/"9c09aa0d78e29439dd8a1ee19af74c9746f08211d62a30718ee2a6f6d6456915"
+    repoEtag: W/"b81ba15c007356ef0a17ca6e8b2bf16129df1f9fe54884466d1f3d860582ecb4"
+    releasesEtag: W/"fae7793e6851f3e45e7282b0866392ae78ac7d8ab0f0ca57ed3632b613857009"
 discovery:
   method: curated-owner
   confidence: 100

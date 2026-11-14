@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 16
+  stars: 21
   forks: 0
   lastCommit: '2026-10-30T17:40:59Z'
 latestRelease:
@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/TekRantGaming/cartoon-network-racing-recompiled/releases/tag/v1.0.0
 activity:
-  lastSynchronized: '2026-11-07T10:09:45.010Z'
+  lastSynchronized: '2026-11-14T10:34:43.083Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"82eeedfc8daefa25888041f4b8ebd54fb0ac6eddf972b67abfde15107c502eea"
-    releasesEtag: W/"012653b47f91dcc0a9b0bc68176848f6885a9b5c42870381af5cc9593c0a567d"
+    repoEtag: W/"3193ad6ddad18418cb074f9b1040c433070ab2a66b62c95754f7949a4a5ceed4"
+    releasesEtag: W/"daeb40fafbc3d3e61c41bb9c1483a88232c074bc0a81ace6cac8c5f225e2dbec"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: '2016-12-29T20:02:56Z'
   url: 'https://github.com/Dr-Q/OPS2L/releases/tag/untagged-9466dde3aedcb2ad5b4d'
 activity:
-  lastSynchronized: '2026-11-09T07:12:30.852Z'
+  lastSynchronized: '2026-11-14T10:35:36.416Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"fc63c0652cf77bd11d444638330f1f1bf2122ede2d2bebd8be38facf677def5c"
+    releasesEtag: W/"42f422f520c80d1f97edf754399133a6e5fd8a1619d2dc07defed44a625a79fd"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: ps2homebrew/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

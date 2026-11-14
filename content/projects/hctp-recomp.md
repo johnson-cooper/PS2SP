@@ -23,7 +23,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 53
+  stars: 60
   forks: 2
   lastCommit: '2026-11-04T16:15:15Z'
 latestRelease:
@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/BigDaddyJRich/hctp-recomp/releases/tag/v0.3.5'
 activity:
   lastChecked: '2026-11-04T22:12:45.517Z'
-  lastSynchronized: '2026-11-07T10:10:05.551Z'
+  lastSynchronized: '2026-11-14T10:35:03.008Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3bb7c5db2893b395d1667b3275631b2779259d07808a0dcd06d7393e2c8bc5b1"
-    releasesEtag: W/"e75d6713cd35a3dfef3adaf7a3d798b37a91ab66ba58abe35993e2b5d9eb8e42"
+    repoEtag: W/"2bda5edf61941787131b79bd9412848794f310523d5e6efcf2d866ff88fe12bf"
+    releasesEtag: W/"ec721db4024e49fc68fa198f2bca1facc5971a0369af62a5caa04d9a1dd17da5"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85

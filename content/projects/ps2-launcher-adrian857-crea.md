@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-07T10:11:04.860Z'
+  lastSynchronized: '2026-11-14T10:36:01.748Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bde82e44733ec1b368c261a4916e49d5c9677506b08fcc97385daab96be3e0fb"
-    releasesEtag: '"f5ca988cf8edc1105f5ebfd72d6c0a5ca9b98f69b067126d9a43407dc35f9f78"'
+    repoEtag: W/"d258e12a390c5387b18b2dc1f6ac845d195c592eeb68ee0d9be75a7b253f15c3"
+    releasesEtag: '"83febaa07196bb889373057850dbd348d5f7544ded357423bb2914f9d0ac24ca"'
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

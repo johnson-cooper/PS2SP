@@ -14,7 +14,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: MIT
 homepage: null
 source:
   provider: github
@@ -23,19 +23,23 @@ source:
   url: 'https://github.com/Miguel0827/Crash-Tag-Team-Racing-PC'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 6
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-14T06:41:05Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.4.1
+  name: Crash Tag Team Racing PC Port v1.4.1
+  publishedAt: '2026-11-14T06:41:05Z'
+  url: 'https://github.com/Miguel0827/Crash-Tag-Team-Racing-PC/releases/tag/v1.4.1'
 activity:
   lastChecked: '2026-11-12T00:59:54.175Z'
+  lastSynchronized: '2026-11-14T10:34:45.712Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"9bbc312401e9917c44d5a37cac40ffa9dbd1fa38297e00c051fd2aaac6ea877d"
+    releasesEtag: W/"0987870a49899725c598ad69908175dd4261b5d3c521e9f25fdf354088bfb321"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -48,5 +52,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

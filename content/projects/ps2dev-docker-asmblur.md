@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-07T10:11:13.257Z'
+  lastSynchronized: '2026-11-14T10:36:09.645Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"abd0c5359b84f680e7fcabb9bf118e5c9ffdaae406d3bf0b58a1c9970feb1a17"
-    releasesEtag: '"f5ca988cf8edc1105f5ebfd72d6c0a5ca9b98f69b067126d9a43407dc35f9f78"'
+    repoEtag: W/"07495601245a9d8acfa7008d1b5da6d2e67425c7669fac4256f778b6c8c79b00"
+    releasesEtag: '"83febaa07196bb889373057850dbd348d5f7544ded357423bb2914f9d0ac24ca"'
 discovery:
   method: 'fork-network:ps2dev/ps2dev-docker'
   confidence: 95
