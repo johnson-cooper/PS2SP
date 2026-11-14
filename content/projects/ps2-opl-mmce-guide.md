@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-11-11T13:14:43Z'
   url: 'https://github.com/Darksideno1/PS2-OPL-MMCE-Guide/releases/tag/backup-v1.0.0'
 activity:
-  lastSynchronized: '2026-11-11T21:59:51.949Z'
+  lastSynchronized: '2026-11-14T21:31:37.442Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f1c77c8ec9f1a4eea51b7db0cb10ec131a88c436c45dd43f2d53d50b44aeaf4c"
-    releasesEtag: W/"eeb1788c944d953ac97055932c464aed95b0f86209aff96ef55c0d4455920138"
+    repoEtag: W/"06bf9a3dd5920e948c80f3fcc410d0f4882f1938a52d3abb671c94385ce0d43e"
+    releasesEtag: W/"7edbfe1d63b5529925f7d76a0a2aaac76170680aaa291466f25174d2bd189be4"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

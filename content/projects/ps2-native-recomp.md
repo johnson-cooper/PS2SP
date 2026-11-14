@@ -20,21 +20,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 191
-  forks: 18
-  lastCommit: '2026-11-11T21:47:37Z'
+  stars: 206
+  forks: 19
+  lastCommit: '2026-11-14T17:13:37Z'
 latestRelease:
   tag: v0.0.5
   name: v0.0.5
   publishedAt: '2026-11-09T10:28:13Z'
   url: 'https://github.com/exoteric33/ps2-native-recomp/releases/tag/v0.0.5'
 activity:
-  lastSynchronized: '2026-11-11T21:59:51.214Z'
+  lastSynchronized: '2026-11-14T21:31:36.642Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"340e0dff32530d42d86d9ec242bcf08687677d26eabee7e9ec61ca691bc26630"
-    releasesEtag: W/"a233ad51240c8019b04f69638bae12d8f3b8d2f6b37d3dd99241effae2750401"
+    repoEtag: W/"a2f4e4ec4ff66535825ca391a3ec8dc8a4ffcb0e6ec6a6954f29c11133bd4012"
+    releasesEtag: W/"fb1824f22b5ab34b5290ff8d521b00f4fb039d9d02a192907313c8fca58df86a"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

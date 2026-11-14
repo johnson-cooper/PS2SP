@@ -19,7 +19,7 @@ repository:
   defaultBranch: romlin
   stars: 0
   forks: 0
-  lastCommit: '2026-11-11T21:07:54Z'
+  lastCommit: '2026-11-11T23:07:08Z'
 latestRelease:
   tag: core-20261111-c5278f9560
   name: 'Romlin PCSX2 libretro cores, c5278f9560'
@@ -27,12 +27,12 @@ latestRelease:
   url: >-
     https://github.com/romlin-emu/parallel-ps2/releases/tag/core-20261111-c5278f9560
 activity:
-  lastSynchronized: '2026-11-11T21:59:17.530Z'
+  lastSynchronized: '2026-11-14T21:31:08.120Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d8e27c4b3f69750b976abf1a003b69a6b5bcfd27e98408af4540ebd3353c807d"
-    releasesEtag: W/"944e831a57a9615b43e6baa773dad945870df513590d335ec910889874fd748c"
+    repoEtag: W/"c400a0592603818269a53f7b5e13cc2c703a73d73a580ed7ad4922085f3f6242"
+    releasesEtag: W/"f807e5ed242b54ee938505e12856355f3aa35940a5b6b5735faa7aa404fc4a8b"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

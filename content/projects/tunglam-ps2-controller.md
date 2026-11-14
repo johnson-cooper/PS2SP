@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-10-02T07:22:06Z'
   url: 'https://github.com/Tunglam0605/TungLam-PS2-Controller/releases/tag/v0.4.1'
 activity:
-  lastSynchronized: '2026-11-11T22:00:51.173Z'
+  lastSynchronized: '2026-11-14T21:32:25.984Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b0bf28c41b270d248472ab28ce9999070ad256bfc16cf4f32caf09dce258f024"
-    releasesEtag: W/"7b5510a5e37c964f3c002309caf36b0a754f63f8f0eba44c51a00bc0bd5b1cc3"
+    repoEtag: W/"3fdd208f4bac3e77853de3d48bf91fd2124cac0e0cfe70f8de36535374f79b38"
+    releasesEtag: W/"4dde17e37eee228c9377cf7d8e359a60ee5c08339ba72ca4ce7b428fcabcdd32"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

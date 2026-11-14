@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-09-17T01:00:20Z'
   url: 'https://github.com/refresh50/ScoobyDooUnmaskedPS2PTBR/releases/tag/2.0'
 activity:
-  lastSynchronized: '2026-11-11T22:00:42.366Z'
+  lastSynchronized: '2026-11-14T21:32:19.831Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d5f10fc4b49cbc30bc2179e174cc7db4e56e0bec9fd65b09e6175aa95a9e8792"
-    releasesEtag: W/"ea8229b0949a141d3e47b9ef75f15bc76516b9fde7f3c4f90a0888c2d93e9eed"
+    repoEtag: W/"13efa942010a3fdcb5c1415d74a69eb486a739ddd68309400d498f839d61fbe4"
+    releasesEtag: W/"3055c4a95f557eaff67d1b05471f22482d1e585dd21b9d897631c6387900de85"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

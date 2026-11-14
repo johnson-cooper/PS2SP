@@ -19,8 +19,8 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 17
-  forks: 1
+  stars: 21
+  forks: 2
   lastCommit: '2026-11-10T06:12:55Z'
 latestRelease:
   tag: v1.2.12
@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-11-08T08:49:19Z'
   url: 'https://github.com/danielnuld/nuld/releases/tag/v1.2.12'
 activity:
-  lastSynchronized: '2026-11-11T21:59:50.033Z'
+  lastSynchronized: '2026-11-14T21:31:35.498Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1aa0dad2712c51e6a81bf103574a3c1048928ae9a62893d3fdaf331a13b3c4ea"
-    releasesEtag: W/"21c69a09699f5568675d0920875f34e517da2a4fca8189f7b10736f54566e57d"
+    repoEtag: W/"4841b32856d7225832f1c5866150cd5961f514f5d154defa6255463169dd6ef4"
+    releasesEtag: W/"a7ef2dee35f92e148baf93ffa195790456a50c70a6911efdc14d32d5b1e065d6"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
