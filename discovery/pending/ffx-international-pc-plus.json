@@ -1,0 +1,16 @@
+{
+  "repository": "omenhachi/ffx-international-pc-plus",
+  "repositoryId": "1457626776",
+  "url": "https://github.com/omenhachi/ffx-international-pc-plus",
+  "description": "Final Fantasy X International (PS2) as a native PC program from your own disc, with challenge runs. Our code only: no game data.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-14T14:31:42.448Z",
+  "checkedAt": "2026-11-14T14:31:42.448Z"
+}
