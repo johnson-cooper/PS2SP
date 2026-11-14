@@ -36,9 +36,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-13T23:55:51.512Z'
+  lastSynchronized: '2026-11-14T17:08:51.429Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"aefd16c45ca0a147e7e1f671fd798235a0047944c97d1859dbab00d4a7c788cf"
+    releasesEtag: '"2fec7a8f848c67e00794f6fc97017391aa2fc46fdf39e061c4323efaa1283b6a"'
 discovery:
   method: 'fork-network:Vnnc1/gow-native-pc'
   confidence: 95
@@ -54,5 +57,4 @@ relationships:
   forkOf: Vnnc1/gow-native-pc
   source: Vnnc1/gow-native-pc
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-10T17:52:43.933Z'
+  lastSynchronized: '2026-11-14T17:10:17.024Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"dd45ded61bf6d8d2bb8acc97a42d86f7b7703d02d19b19a3e475849b52c44a50"
-    releasesEtag: '"fc306235fae60f40320f5c5058adc46667703b89cb98dd864151b11f789d08a8"'
+    repoEtag: W/"548bffcb1220d304c5af1f2eb9911222827181b70682c2009faa1001d6cf3467"
+    releasesEtag: '"2fec7a8f848c67e00794f6fc97017391aa2fc46fdf39e061c4323efaa1283b6a"'
 discovery:
   method: 'fork-network:DevECoisas/PS2_Dungeon'
   confidence: 100

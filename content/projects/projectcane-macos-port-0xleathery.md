@@ -26,19 +26,20 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-29T06:23:21Z'
+  lastCommit: '2026-11-13T00:04:16Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.5.0-macos.2
+  name: Beta 0.5.0 — macOS (Apple Silicon)
+  publishedAt: '2026-11-13T00:07:07Z'
+  url: >-
+    https://github.com/0xLeathery/ProjectCane-MacOS-Port/releases/tag/v0.5.0-macos.2
 activity:
-  lastSynchronized: '2026-11-10T17:52:34.028Z'
+  lastSynchronized: '2026-11-14T17:10:07.715Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bdeda4a324f5fb4a8b7b0aeda5825f8a94d59b58d4de4a026019ca3be7d57f5a"
-    releasesEtag: '"fc306235fae60f40320f5c5058adc46667703b89cb98dd864151b11f789d08a8"'
+    repoEtag: W/"188a69a6afa24a80638b7a51aa6b5473506e39a25cfc3aba1589db77f52d9558"
+    releasesEtag: W/"706fab12bef6d13c82fd5120807a60edf6feccfd1c0377bc4725e4da15ced2e9"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

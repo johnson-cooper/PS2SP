@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-13T11:35:27.480Z'
+  lastSynchronized: '2026-11-14T17:11:10.493Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e43b0b0a1f61b2fb0dfba17b130ae23ab9c920a9a910a4af3e027bd0378f2264"
+    releasesEtag: '"2fec7a8f848c67e00794f6fc97017391aa2fc46fdf39e061c4323efaa1283b6a"'
 discovery:
   method: 'fork-network:yanm1103/War_of_the_Monsters_recomp'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: yanm1103/War_of_the_Monsters_recomp
   source: yanm1103/War_of_the_Monsters_recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

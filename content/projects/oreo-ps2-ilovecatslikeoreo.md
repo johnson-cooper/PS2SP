@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-14T14:31:42.448Z'
+  lastSynchronized: '2026-11-14T17:09:36.946Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"207298facad9c9746cd8c8b53d9200eb4b65a94d2270717cbb156737193014bd"
+    releasesEtag: '"2fec7a8f848c67e00794f6fc97017391aa2fc46fdf39e061c4323efaa1283b6a"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -45,5 +48,4 @@ relationships:
   forkOf: Leviidev/Cascade
   source: Leviidev/Cascade
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

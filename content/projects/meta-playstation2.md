@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-10-22T11:10:13Z'
   url: 'https://github.com/andreacampanella/meta-playstation2/releases/tag/1.2'
 activity:
-  lastSynchronized: '2026-11-10T17:51:35.495Z'
+  lastSynchronized: '2026-11-14T17:09:14.582Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d08cbc7d20db19d6d2be7131efc802b1f514deb9c9752c3135b97d06f7a0515c"
-    releasesEtag: W/"6d4d463db6106e0bbe06a601f33c37b52992bc8f7fd9c58f7f1ea8e9d61ffec4"
+    repoEtag: W/"96abfa7eb653471818ab8b8d50e4d986eaf1b8d788a4da170cc36fe070331a1b"
+    releasesEtag: W/"e94734780de98b7a7ba19f9682d0b6c139f9e0670fba95b82661b4a562fa070f"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

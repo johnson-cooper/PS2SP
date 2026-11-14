@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-10T17:53:42.911Z'
+  lastSynchronized: '2026-11-14T17:11:06.335Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"579ef3241d47ae347b86ad9d429f5a809612f872de6042c2561451da27a8cb1b"
-    releasesEtag: '"fc306235fae60f40320f5c5058adc46667703b89cb98dd864151b11f789d08a8"'
+    repoEtag: W/"5b50e06bfcab93d6d69d926ed6d23439ebbed1540430f851b7e900128ef00ea5"
+    releasesEtag: '"2fec7a8f848c67e00794f6fc97017391aa2fc46fdf39e061c4323efaa1283b6a"'
 discovery:
   method: 'fork-network:Venomalia/HDcube'
   confidence: 95

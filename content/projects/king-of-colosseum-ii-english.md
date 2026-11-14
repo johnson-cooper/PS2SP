@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/kactusken/King-of-Colosseum-II-English/releases/tag/v0.2'
 activity:
   lastChecked: '2026-10-17T05:53:23.162Z'
-  lastSynchronized: '2026-11-10T17:51:29.086Z'
+  lastSynchronized: '2026-11-14T17:09:09.395Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3af0c1ed259b9ceea460d0b1713451ca7ea011127b27ced7754ae8a2f91a344f"
-    releasesEtag: W/"ef85c6a77651b6fc696ae673d0009e64cd61bb9db8391aa1420757b5d76bb9ed"
+    repoEtag: W/"2e839632fb448bf80dfd9692781975dfc4e76b71b60f4c6645058f1cfc98e341"
+    releasesEtag: W/"d744501359a71047dfef1f9d65aeed04efe75129f9c1a97d9fef46298aadaac5"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/omegakatana92/Samurai-Western-Recomp/releases/tag/v0.1.0'
 activity:
   lastChecked: '2026-10-30T02:08:54.184Z'
-  lastSynchronized: '2026-11-10T17:53:30.627Z'
+  lastSynchronized: '2026-11-14T17:10:56.046Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4ad7c466f18de7e3c2c9d58dda286932c1f3ee5895a3c0a229eb279ece10968f"
-    releasesEtag: W/"36e72c09a5278892ea0fe703f7235e07e9da44feef467d992aa4233761caab6c"
+    repoEtag: W/"425b58da6367824b79ee868bb4637fa969e82ab6f40be21d1c337e6ab35b1110"
+    releasesEtag: W/"4e7d43e2a0331f30b5b10bfe585b2b3312c7256d941deee86556a8e79fbe15a0"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
