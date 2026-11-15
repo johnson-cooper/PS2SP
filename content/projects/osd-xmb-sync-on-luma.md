@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-14T17:09:38.637Z'
+  lastSynchronized: '2026-11-15T17:12:28.892Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0e651adc91153610a82079d53644f7118255b9ab49e98fbf4d0a9b560527625a"
-    releasesEtag: '"2fec7a8f848c67e00794f6fc97017391aa2fc46fdf39e061c4323efaa1283b6a"'
+    repoEtag: W/"be962b3423334056894e9d37a5ff8f88c44b59e91ed55709cb31f19abc58015e"
+    releasesEtag: '"26e929970cb0b6480ab8e1178c67baefe9e00d8c143ae6b8ec3191285ecfb0be"'
 discovery:
   method: 'fork-network:HiroTex/OSD-XMB'
   confidence: 100

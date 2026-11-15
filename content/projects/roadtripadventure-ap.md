@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/Phenra/RoadTripAdventure-AP/releases/tag/v0.3.1'
 activity:
   lastChecked: '2026-10-01T03:27:44.437Z'
-  lastSynchronized: '2026-11-14T17:10:54.254Z'
+  lastSynchronized: '2026-11-15T17:13:39.235Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9dfcc8426eb224a485f5f4e0cddc423e8523aefb0a043a2649dc888594f57373"
-    releasesEtag: W/"d1a5c6e73c14816f4146241443799c74e4fce05e40c5ca124bd0da3e02414510"
+    repoEtag: W/"56f43ade0615c813ed5def68db937508007a6f73dab4c65aa309f367f914855c"
+    releasesEtag: W/"8aa7049d7e055ed123ebb66b23fcb6324aa561cddd801335a88d204e664a9826"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

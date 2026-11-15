@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-14T17:10:52.534Z'
+  lastSynchronized: '2026-11-15T17:13:37.572Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e110cd1cda6156b630bda0c941d3e4eb734d92ade75a6bbe729ec062ebab609c"
-    releasesEtag: '"2fec7a8f848c67e00794f6fc97017391aa2fc46fdf39e061c4323efaa1283b6a"'
+    repoEtag: W/"1bf56211ec8836540fdfe08f186d0370a01403626553fa59ae9ee73578d555bd"
+    releasesEtag: '"26e929970cb0b6480ab8e1178c67baefe9e00d8c143ae6b8ec3191285ecfb0be"'
 discovery:
   method: 'fork-network:Ninjacornix/reo'
   confidence: 95

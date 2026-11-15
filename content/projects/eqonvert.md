@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/tunaria/eqonvert/releases/tag/v0.0.1'
 activity:
   lastChecked: '2026-11-13T03:36:03.837Z'
-  lastSynchronized: '2026-11-14T17:08:43.519Z'
+  lastSynchronized: '2026-11-15T17:11:36.258Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5673eba417bd26d2fe696eabf790f748173e2da272956d5c3ccf1fca23d779f2"
-    releasesEtag: W/"9303ee1c0c16653b8d5de328af444829cfbf58474688fbc43257830faaa568af"
+    repoEtag: W/"265490b5d8e63bc95dd12bcf8046a5ea6579f07062080149c172461e2f43037d"
+    releasesEtag: W/"e7e33fa318675c17487fba69ff5bfaab768ec10cbd6b28c88175fe2ed0c975be"
 discovery:
   method: 'pending-promotion:incremental:"PS2 homebrew" in:name,description,readme'
   confidence: 75

@@ -24,7 +24,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 5
+  stars: 4
   forks: 0
   lastCommit: '2026-11-14T06:41:10Z'
 latestRelease:
@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/Miguel0827/Crash-Wrath-of-Cortex-PC/releases/tag/v1.3.1'
 activity:
   lastChecked: '2026-11-12T08:50:51.748Z'
-  lastSynchronized: '2026-11-14T17:08:35.711Z'
+  lastSynchronized: '2026-11-15T17:11:29.191Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2c6360e9629028fb97757d8f0446d61a86f2399573dcbc85f066cd697adf22c3"
-    releasesEtag: W/"c39e36695978480370670bfb0944538f9c540121115074920c1badb9bb3e0b7a"
+    repoEtag: W/"edd2f91f77aaba0585257ec5497329a6423010dd1961450534c7fa6354937722"
+    releasesEtag: W/"70bcb5c471794a414e329cf5f1aed6fdf8bae05eb821809fd59251f1a409ecac"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

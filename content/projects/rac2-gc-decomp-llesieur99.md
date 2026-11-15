@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-14T17:10:51.994Z'
+  lastSynchronized: '2026-11-15T17:13:37.101Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b99ad47fae1151271db20de96e5da95909c08011c19a14098f154f650a40fe27"
-    releasesEtag: '"2fec7a8f848c67e00794f6fc97017391aa2fc46fdf39e061c4323efaa1283b6a"'
+    repoEtag: W/"d9b425b2ea0700ccf462469d9a9b53a9753d499ca6d5c05855989c147bccb8d8"
+    releasesEtag: '"26e929970cb0b6480ab8e1178c67baefe9e00d8c143ae6b8ec3191285ecfb0be"'
 discovery:
   method: 'fork-network:OpenRAC/rac2-gc-decomp'
   confidence: 95

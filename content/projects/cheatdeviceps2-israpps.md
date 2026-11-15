@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2025-01-19T19:41:43Z'
   url: 'https://github.com/israpps/CheatDevicePS2/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-14T17:08:32.813Z'
+  lastSynchronized: '2026-11-15T17:11:26.461Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c52a2f640bae54c1d4278d53d55826eeb24d3d0e43620f23174490a65da0ce36"
-    releasesEtag: W/"2811280daef872a859c1b11eb88941ed850311da7ba460663956d9db3a8e2d9d"
+    repoEtag: W/"2e2fa7a25f00735a9c232434e5bea644ddcd65a1b13c39b014cdd399df2d8992"
+    releasesEtag: W/"2718331b5f5ecd6332f3266dbf3e996f987162d798a9272c2ea07ed6bc603e6e"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

@@ -34,12 +34,12 @@ latestRelease:
   url: >-
     https://github.com/0xLeathery/ProjectCane-MacOS-Port/releases/tag/v0.5.0-macos.2
 activity:
-  lastSynchronized: '2026-11-14T17:10:07.715Z'
+  lastSynchronized: '2026-11-15T17:12:55.577Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"188a69a6afa24a80638b7a51aa6b5473506e39a25cfc3aba1589db77f52d9558"
-    releasesEtag: W/"706fab12bef6d13c82fd5120807a60edf6feccfd1c0377bc4725e4da15ced2e9"
+    repoEtag: W/"7bac5b1ea15bac1b228a7a30b97f152303d3179422f9c87ac1207dd3a4d4d557"
+    releasesEtag: W/"0d94f6565c3f751519c57245251d0e2c8922224c13456332f9ae1e0bcc0ab1bc"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

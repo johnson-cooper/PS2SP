@@ -36,12 +36,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-14T17:08:50.944Z'
+  lastSynchronized: '2026-11-15T17:11:43.090Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f7ea8349a08f12a88951a1c4967a0dc4dfaac8720becb908b66d8a3e2c3d4a3c"
-    releasesEtag: '"2fec7a8f848c67e00794f6fc97017391aa2fc46fdf39e061c4323efaa1283b6a"'
+    repoEtag: W/"2a35489d6edf06deabc12d014a5410da9afec8f2a9cb44e3e020a9828df7449f"
+    releasesEtag: '"26e929970cb0b6480ab8e1178c67baefe9e00d8c143ae6b8ec3191285ecfb0be"'
 discovery:
   method: 'fork-network:Vnnc1/gow-native-pc'
   confidence: 95
