@@ -1,0 +1,16 @@
+{
+  "repository": "CheatoOfficial/gta-san-andreas-3ds-port",
+  "repositoryId": "1458800205",
+  "url": "https://github.com/CheatoOfficial/gta-san-andreas-3ds-port",
+  "description": "Unofficial experimental port of GTA San Andreas (PS2, SLES-52541 v2.01) to the Old and New Nintendo 3DS, built on PS2RC. Not playable yet. Bring your own disc.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-11-15T17:59:08.973Z",
+  "checkedAt": "2026-11-15T17:59:08.973Z"
+}
