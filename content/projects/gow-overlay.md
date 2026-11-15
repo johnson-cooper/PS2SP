@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/BrunoAraujo99/gow_overlay/releases/tag/beta-0.6.5'
 activity:
   lastChecked: '2026-11-09T07:12:30.852Z'
-  lastSynchronized: '2026-11-10T09:51:09.533Z'
+  lastSynchronized: '2026-11-15T09:26:45.679Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c372bf0ca8bfbf444f886eea5e6203f97c2088c8376ef4642463c60cef004e02"
-    releasesEtag: W/"2542dcb50f0fce9c19a8e63eaee78c9a99e3d052c34dbbaf54d679a9622d2110"
+    repoEtag: W/"be97a6ec94e3f9a005377889bd1f2b0b7aad13268e1c7bac742408975c591732"
+    releasesEtag: W/"a71730d15eea04be32c09e29d202d8db8a2c6048cc8ea5c712cbd34e4f0092f2"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

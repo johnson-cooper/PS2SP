@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-10T09:53:07.987Z'
+  lastSynchronized: '2026-11-15T09:28:35.307Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d33e74742d2ee3522665049976e4e1233631ff78a9cf1af85a0bbb9e45f3d1c0"
-    releasesEtag: '"00ccd8cc63c859a8e5f93dd9e3add8fe64f4bfba64569e9b1ded7c4104df98bc"'
+    repoEtag: W/"4f2689abde94ed267fcb3e47bfec98d9ae8e1e958d31494ee107f17bc0f4ec58"
+    releasesEtag: '"045e43fb871b83aadee34533b922e9684305b3410b07ffc90627af62b5c4a1b6"'
 discovery:
   method: 'fork-network:OpenRAC/rac-deadlocked-decomp'
   confidence: 100

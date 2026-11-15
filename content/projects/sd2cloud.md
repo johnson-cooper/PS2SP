@@ -19,19 +19,19 @@ repository:
   defaultBranch: main
   stars: 15
   forks: 0
-  lastCommit: '2026-11-03T23:58:31Z'
+  lastCommit: '2026-11-13T17:37:36Z'
 latestRelease:
-  tag: v2.0
-  name: SD2Cloud 2.0
-  publishedAt: '2026-10-26T21:37:11Z'
-  url: 'https://github.com/oMrRexD/sd2cloud/releases/tag/v2.0'
+  tag: v2.1
+  name: SD2Cloud 2.1
+  publishedAt: '2026-11-13T17:39:11Z'
+  url: 'https://github.com/oMrRexD/sd2cloud/releases/tag/v2.1'
 activity:
-  lastSynchronized: '2026-11-10T09:53:13.531Z'
+  lastSynchronized: '2026-11-15T09:28:40.312Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bf852b8560199ca32799242cab935bcfd7b5da5eb7bc1fb94dff215681e7d140"
-    releasesEtag: W/"61a22560eeb42765e17d1221bf4e43ebdebaf9a9b9ea45074feccc6d8eaed6d7"
+    repoEtag: W/"21ff342c40574a5da054a88f145c7f6d34022ee92204caa51eca633e681bdf70"
+    releasesEtag: W/"9ae94db730468af81f09302deedfa0887ade7858569be3d224f451deac236d32"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

@@ -20,7 +20,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 36
+  stars: 37
   forks: 3
   lastCommit: '2026-10-18T14:52:29Z'
 latestRelease:
@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-10-18T05:43:43Z'
   url: 'https://github.com/blurtic2/iidx-ps2-480p/releases/tag/v1.1.0'
 activity:
-  lastSynchronized: '2026-11-10T09:51:12.620Z'
+  lastSynchronized: '2026-11-15T09:26:48.731Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f009ba945d38ce9667bb2fcfb154c0532a1447396d0b99c5b262c0ef5381a298"
-    releasesEtag: W/"666cc249f2d70b9a19e6810d3c1ca42b21b5c1cf9966da0480eb74b81c7873d8"
+    repoEtag: W/"9795fb9254e50e4a19284fc390e7e94701ccb4c3fa43d54df30254d8e40fb46c"
+    releasesEtag: W/"49f80097c8493f61032d65235034aea08f7df5cf16e00e65ce701002ffc8d75b"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

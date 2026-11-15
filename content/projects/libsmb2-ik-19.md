@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2019-05-21T01:02:26Z'
   url: 'https://github.com/ik-19/libsmb2/releases/tag/2019-05-20'
 activity:
-  lastSynchronized: '2026-11-10T09:51:31.886Z'
+  lastSynchronized: '2026-11-15T09:27:05.535Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"13800eb4954468a28e4eb2c54bafae326d8d7c65593efb9a57aaecdff6cf9cc3"
-    releasesEtag: W/"b2ffc107b10fdc9aa7a2b7c4c37963517a0b3a156e5a92aed7d34fb1f5fdd469"
+    repoEtag: W/"5819f2a82348fc2944ad79866c303c83e9fb0f91b71fe483f3c1aca83c20d872"
+    releasesEtag: W/"7ad75c1fab7f3d1ce9dabf04026b1f27127f36faabb15b7ca6d5216827b9980d"
 discovery:
   method: 'fork-network:sahlberg/libsmb2'
   confidence: 95

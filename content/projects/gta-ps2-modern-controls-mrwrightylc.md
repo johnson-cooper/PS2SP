@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-10T09:51:10.768Z'
+  lastSynchronized: '2026-11-15T09:26:47.149Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3eef19646218c8259b0edaee7780ac48d23945f83e26c288b90aa4c0437f70f8"
-    releasesEtag: '"00ccd8cc63c859a8e5f93dd9e3add8fe64f4bfba64569e9b1ded7c4104df98bc"'
+    repoEtag: W/"8c46d9e0f9e81df7bb92a3cc40c8dd10c972253c876164d1779d5c4191ad776d"
+    releasesEtag: '"045e43fb871b83aadee34533b922e9684305b3410b07ffc90627af62b5c4a1b6"'
 discovery:
   method: 'fork-network:Zeroable/GTA-PS2-Modern-Controls'
   confidence: 100

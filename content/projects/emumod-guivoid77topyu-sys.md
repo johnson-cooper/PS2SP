@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-10T09:50:58.247Z'
+  lastSynchronized: '2026-11-15T09:26:36.418Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6c18f3602fd6ec743e5debc9c3f0766fe3e104f575a71bb206d0b264b4e94385"
-    releasesEtag: '"00ccd8cc63c859a8e5f93dd9e3add8fe64f4bfba64569e9b1ded7c4104df98bc"'
+    repoEtag: W/"dceef570e842ac030c4e322baf0329a2be6ac1a5ae111c15d95501c74220e442"
+    releasesEtag: '"045e43fb871b83aadee34533b922e9684305b3410b07ffc90627af62b5c4a1b6"'
 discovery:
   method: 'fork-network:Sparretro/EmuMod'
   confidence: 100

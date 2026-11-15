@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-10T09:52:48.428Z'
+  lastSynchronized: '2026-11-15T09:28:18.050Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7ed2968b9ac224182bfcd27b50f34ec7758e20a8b03bf018fda99d32d1e5fe49"
-    releasesEtag: '"00ccd8cc63c859a8e5f93dd9e3add8fe64f4bfba64569e9b1ded7c4104df98bc"'
+    repoEtag: W/"81d37f95833c2fba583fbad234ef8f7b6031db924577fa34122e79f89500f271"
+    releasesEtag: '"045e43fb871b83aadee34533b922e9684305b3410b07ffc90627af62b5c4a1b6"'
 discovery:
   method: 'fork-network:SandstoneDev/PS2RC'
   confidence: 100

@@ -19,18 +19,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 2
+  stars: 3
   forks: 0
-  lastCommit: '2026-11-11T16:34:59Z'
+  lastCommit: '2026-11-13T08:19:29Z'
 latestRelease:
-  tag: v0.3.0-beta-specii
-  name: GT4 Spec II VR 0.3.0-beta
-  publishedAt: '2026-11-11T16:09:40Z'
-  url: 'https://github.com/SgtBilko76/gt4-vr/releases/tag/v0.3.0-beta-specii'
+  tag: v0.3.2-beta-specii
+  name: GT4 Spec II VR 0.3.2-beta
+  publishedAt: '2026-11-13T08:18:55Z'
+  url: 'https://github.com/SgtBilko76/gt4-vr/releases/tag/v0.3.2-beta-specii'
 activity:
-  lastSynchronized: '2026-11-11T18:03:48.531Z'
+  lastSynchronized: '2026-11-15T09:26:46.633Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"196b9492fa438c0373165eb7ca8fe7d3545f50d223134a77b6f7c877e9350380"
+    releasesEtag: W/"7cfc3a7d4ce28f055bc4b071cc9a15aa5890a2621aa34226eb0778c761997cdc"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

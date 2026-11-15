@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-09-22T19:13:03Z'
   url: 'https://github.com/Snake-2006/DDLC-PS2/releases/tag/v0.1.8-beta'
 activity:
-  lastSynchronized: '2026-11-10T09:50:53.365Z'
+  lastSynchronized: '2026-11-15T09:26:31.977Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"41e5882f83deecc759ec93dc32829a2cbd2c9e4f91c6b940282c82183d8699bc"
-    releasesEtag: W/"1526e04e62f3b04da76ce1983b34ea20354adb026dd3d0aeae1a6f151605bf23"
+    repoEtag: W/"2eb23abc7980fbc0949d228f4976b559e9df763dcaa187bc909fc72b56a60085"
+    releasesEtag: W/"28b2cb90db5595f0f70d038fc3f0e8c9728a420624d6a9b075d186b5c9763cd5"
 discovery:
   method: pending-recheck
   confidence: 100

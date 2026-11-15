@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-10T09:50:48.193Z'
+  lastSynchronized: '2026-11-15T09:26:27.752Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d04343b6ec32e50e303062212c20aa0e30e92725481780d4344dbe001564f49d"
-    releasesEtag: '"00ccd8cc63c859a8e5f93dd9e3add8fe64f4bfba64569e9b1ded7c4104df98bc"'
+    repoEtag: W/"1b67e6adaae7afcdd63977bbc8d8f1c53ee1473a4044f30906e96ebed0621859"
+    releasesEtag: '"045e43fb871b83aadee34533b922e9684305b3410b07ffc90627af62b5c4a1b6"'
 discovery:
   method: 'fork-network:intycat/Butterscotch-MiyooCFW'
   confidence: 95
