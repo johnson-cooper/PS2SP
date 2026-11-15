@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-14T23:23:33.165Z'
+  lastSynchronized: '2026-11-15T21:51:26.098Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e2ad557351cecd58f9226cec22e5c50a18858673b0e44fdfe32b8f72f5ffa80f"
+    releasesEtag: '"66be1702269498b0b5064a4bba6849ad5960385978d31018034a17dec1d9c73b"'
 discovery:
   method: 'fork-network:ran-j/PS2Recomp'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: ran-j/PS2Recomp
   source: ran-j/PS2Recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-04-26T17:10:29Z'
   url: 'https://github.com/Tovarichtch/pcsx2/releases/tag/0.5'
 activity:
-  lastSynchronized: '2026-11-14T21:31:19.796Z'
+  lastSynchronized: '2026-11-15T21:50:53.744Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"69fdd083179df0a3782ab52e2782c447c60b2693300d615452360f410703d28b"
-    releasesEtag: W/"f6f696cebabbfb5b160beef4d853f757ea803bf9bd522da85abed3205d7fa297"
+    repoEtag: W/"eb1f1dcdc27c01a6ae0043e5a11346297336e120bdb236f9ebecabbef4d9aab6"
+    releasesEtag: W/"b6d4002f998d7a0de27c3e3dc44c599b9dcb80d78f92de45f02110d31a1b65e9"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

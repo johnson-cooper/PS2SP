@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/Trixarian/ARMSX2/releases/tag/come.nanodata.armsx2-nightly-1.0.5-20251120-2349
 activity:
-  lastSynchronized: '2026-11-14T21:30:05.654Z'
+  lastSynchronized: '2026-11-15T21:49:44.564Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9a4696b24819f791957438ca6e635d17b55b817fd4c44564d49b35a661b4393f"
-    releasesEtag: W/"fd6f88c84c33e94f409110e4529307cf93bab2b5844613edb68e1aa4d19a3a1e"
+    repoEtag: W/"bd2a3e208494bdaed08501b65e0bd5bbdaf5299e21c040bd2a084e936442a2eb"
+    releasesEtag: W/"a69104fc71635547a56ac2851428869917298badfc97dec23fccde52398da904"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-14T21:32:12.208Z'
+  lastSynchronized: '2026-11-15T21:51:40.248Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b152ee9319c5cde111f8e05236c0abcf8d052cb3d9cf46b6bf41861a8da00ac8"
-    releasesEtag: '"612ecdedebff4deb549ee3a0d5a01b944c20236a1129193108df6f977094a190"'
+    repoEtag: W/"c7f2c6f06b18f63f5a691cf3d807fb8072a475c6bfae6586583f29c5e15cf793"
+    releasesEtag: '"66be1702269498b0b5064a4bba6849ad5960385978d31018034a17dec1d9c73b"'
 discovery:
   method: 'fork-network:RAC-Native/rac1-native-game'
   confidence: 100

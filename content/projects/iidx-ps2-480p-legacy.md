@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-31T14:57:59Z'
   url: 'https://github.com/saboten731/iidx-ps2-480p-legacy/releases/tag/v1.21'
 activity:
-  lastSynchronized: '2026-11-14T21:30:32.264Z'
+  lastSynchronized: '2026-11-15T21:50:09.285Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4708ffe79596483e1eba9335ea7bbab44150ef59c4f75d2864927f6fa22aad4c"
-    releasesEtag: W/"63a7984507578325003387b13817786dd73c15b89c97e9765484ce3e971a9c0b"
+    repoEtag: W/"a8870840992dc869427da53bdcfc6557ecc75d71e0302b2d10163239d0480946"
+    releasesEtag: W/"ff21abd5c5b765a81348f82098b86686e7688071af778f4e6cdb97058abfee3a"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-11-13T12:35:20Z'
   url: 'https://github.com/riki-rg/recompile-downhill/releases/tag/v0.1.5'
 activity:
-  lastSynchronized: '2026-11-14T21:32:15.421Z'
+  lastSynchronized: '2026-11-15T21:51:42.962Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"53e250cf38202d7154d449e99e151bef12568a37719cb13e6d92bc7649afe0e5"
-    releasesEtag: W/"1d24f64b3cbebf057e14889cb2829d6b70b4764dfa45ebd088282c6ffa63abe9"
+    repoEtag: W/"0691fad5b8727cf3ec7375b1ec4b3ef1cad74bf2b3b46dde4da856e0921e2259"
+    releasesEtag: W/"0d678d2753168c2c5ace4ee243e03b4464de5e6c0eceb5008e29fc06d47f06d6"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

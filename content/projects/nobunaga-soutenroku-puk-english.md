@@ -34,12 +34,12 @@ latestRelease:
     https://github.com/damon-daemon/nobunaga-soutenroku-puk-english/releases/tag/v0.9.1
 activity:
   lastChecked: '2026-10-20T19:35:24.428Z'
-  lastSynchronized: '2026-11-14T21:30:52.425Z'
+  lastSynchronized: '2026-11-15T21:50:28.943Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4474ae5ed1cc840ad38a00e2fcab5691ca4ab3303432c0341e8f80342edad5e5"
-    releasesEtag: W/"ec28267f6f47c33fa5053097e5b0d15c189279183afee6f4b1a7e80f2e9b887a"
+    repoEtag: W/"b309d03e011ed5657f2039df63490ca88afbfea94b1b3e0b76c434d923e909f6"
+    releasesEtag: W/"c6f9f9f3a533dace924151b11dba8d5e3030d0a89bbc3781b5f79710acc8b30f"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

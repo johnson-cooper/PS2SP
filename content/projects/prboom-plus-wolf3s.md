@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2025-12-21T00:12:54Z'
   url: 'https://github.com/Wolf3s/prboom-plus/releases/tag/1.0.0.1'
 activity:
-  lastSynchronized: '2026-11-14T21:31:26.738Z'
+  lastSynchronized: '2026-11-15T21:51:00.348Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"aee70680fb7019074d80a189a949719b40ad87847b345e1bdebdfe35bce925cd"
-    releasesEtag: W/"d797fc9cb49275ddebbfed9914acd116a4a33c546d20211279d946f72af46c31"
+    repoEtag: W/"eb1a6a712533b5cf44b4829ec957e7a3321b4344867f07222c5121b0d82cef7d"
+    releasesEtag: W/"1a002bb9ebf704f45348d0fa49f4474d85bd3bc8be2ed8f6ea0c9b4bb1c10575"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
