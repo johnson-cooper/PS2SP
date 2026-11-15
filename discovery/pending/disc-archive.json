@@ -1,0 +1,16 @@
+{
+  "repository": "YazanFattal/disc-archive",
+  "repositoryId": "1459227436",
+  "url": "https://github.com/YazanFattal/disc-archive",
+  "description": "An early-2000s cover gallery of 100 PlayStation and 100 PlayStation 2 classics.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-15T23:11:00.640Z",
+  "checkedAt": "2026-11-15T23:11:00.640Z"
+}

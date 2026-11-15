@@ -1,0 +1,16 @@
+{
+  "repository": "FloppidyDingo/PS2-Disk-Saver",
+  "repositoryId": "528288818",
+  "url": "https://github.com/FloppidyDingo/PS2-Disk-Saver",
+  "description": null,
+  "score": 85,
+  "evidence": [
+    "repository name explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-15T23:11:00.640Z",
+  "checkedAt": "2026-11-15T23:11:00.640Z"
+}
