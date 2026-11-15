@@ -19,7 +19,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
   lastCommit: '2026-11-12T22:26:38Z'
 latestRelease:
@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: '2026-11-12T22:26:38Z'
   url: 'https://github.com/meetox80/tcoaal/releases/tag/v1.1.0'
 activity:
-  lastSynchronized: '2026-11-12T22:52:52.287Z'
+  lastSynchronized: '2026-11-15T01:58:09.732Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b2dedf21e998feb4ad66ace12aaa7752948846fec9b6a6ab3ace1a3ad5c236b3"
+    releasesEtag: W/"c298653f29019fabac068574c7a90736a5cfa6f1a65b5a12949d633f18782b75"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -43,5 +46,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

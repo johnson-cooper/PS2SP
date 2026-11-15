@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2026-06-26T08:38:07Z'
   url: 'https://github.com/Pelmenc/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-10T01:32:50.840Z'
+  lastSynchronized: '2026-11-15T01:56:57.893Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9dab2bd5ded09f9454f9fdbec8b3b5c6598b499393c620d9529a4f847284a007"
-    releasesEtag: W/"9b4a1b640683233f7fd746f2f5b488b56041194ef3dee03ba64331776cdc3ac9"
+    repoEtag: W/"f0d28b7b2829914576cb901626552743107cee7e15b1521bb2068cb319cce8d3"
+    releasesEtag: W/"d0a6f1e42e18c2a7495a8e90a0d780e964d784f7148a91cd8f318bb8ee6a51a7"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-09-13T09:52:13Z'
   url: 'https://github.com/m5dev-tests/OpenROM-test/releases/tag/v2.2.0'
 activity:
-  lastSynchronized: '2026-11-10T01:32:53.865Z'
+  lastSynchronized: '2026-11-15T01:57:00.787Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d89bdf25f7eeb07bb44d8c918f41a997255e2b202b69db4e36f58d13c77c9735"
-    releasesEtag: W/"7fd4d9bad7ba9373aaba925992773c05e671fb6ad0cab88a64e6f1803a5f8f8e"
+    repoEtag: W/"e017ada1fcaddeba0947002f02620c8d66a1f6b2bfd568d157c5341bcd698c3f"
+    releasesEtag: W/"4c7398ce4123fcbb1a1844019542717c77ba9060569c1a1a45a40eb35aefb814"
 discovery:
   method: 'fork-network:M5Devs/OpenROM'
   confidence: 95

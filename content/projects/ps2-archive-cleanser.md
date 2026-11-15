@@ -29,12 +29,12 @@ latestRelease:
   url: >-
     https://github.com/zencatalyst/ps2-archive-cleanser/releases/tag/v1.0.0-2026-11-09
 activity:
-  lastSynchronized: '2026-11-10T01:33:20.508Z'
+  lastSynchronized: '2026-11-15T01:57:27.598Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"244b98a4ccd4388cb31018bbd04b9d2f423fad279a44cf930d81ad9ad0ba6aed"
-    releasesEtag: W/"7f5ef631e7c5befbf083b550e44f16f72e559a381af30cce926a7b18ae09b330"
+    repoEtag: W/"ad77f919776c264c84e0fdc3cc7a86723884993d0f818dff2bf478f3ee15c344"
+    releasesEtag: W/"e77cb35c524c54b77bca09325d673f379cac44399d14aebb2a44f0954f658e92"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

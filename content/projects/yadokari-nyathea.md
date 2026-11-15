@@ -18,18 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
-  lastCommit: '2026-11-14T06:23:40Z'
+  lastCommit: '2026-11-14T07:48:36Z'
 latestRelease:
-  tag: v1
-  name: v1
-  publishedAt: '2026-11-14T06:21:30Z'
-  url: 'https://github.com/nyathea/Yadokari/releases/tag/v1'
+  tag: null
+  name: null
+  publishedAt: null
+  url: null
 activity:
-  lastSynchronized: '2026-11-14T07:02:10.381Z'
+  lastSynchronized: '2026-11-15T01:58:19.760Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"01ba41d3cdbda5f36de24fc8a34b92673aec3776daa04527b9be99e0b5076c27"
+    releasesEtag: '"6eb95556268aca48782e82eb6581a2c2a85a5ae27d7c0770157047c9a4392407"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: PalindromicBreadLoaf/Yadokari
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

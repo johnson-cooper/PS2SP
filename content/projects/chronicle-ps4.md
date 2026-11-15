@@ -24,7 +24,7 @@ source:
 repository:
   archived: false
   defaultBranch: ps4
-  stars: 2
+  stars: 3
   forks: 0
   lastCommit: '2026-10-17T11:17:50Z'
 latestRelease:
@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/odiecay/chronicle-ps4/releases/tag/v0.1.1'
 activity:
   lastChecked: '2026-10-14T14:03:13.565Z'
-  lastSynchronized: '2026-11-10T01:31:52.033Z'
+  lastSynchronized: '2026-11-15T01:55:55.234Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3503d6436d3045b5cbe32d8d5630d6694bc4d307427fabbf388b099863a15b84"
-    releasesEtag: W/"4c4c1662fa7a7f458e00fc6c57311b629c030e23e3771e8a670a271bf1ade9d9"
+    repoEtag: W/"4f79fea77e540bfcf844c476beeb7d69d1a9d040f3e168a486fe7f6151ba360c"
+    releasesEtag: W/"76b3462038c325148890ee9ee226609201b917d4509f827dd541f7d32efd93f9"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85

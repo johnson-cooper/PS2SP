@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2023-05-01T21:44:14Z'
   url: 'https://github.com/DevECoisas/PS2_Dungeon/releases/tag/v0.4.0a'
 activity:
-  lastSynchronized: '2026-11-10T01:33:26.750Z'
+  lastSynchronized: '2026-11-15T01:57:31.703Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9d8ba509506d2eaae1b9880f24ef75729c9f5ecaa091b903b68f8d92c210ac83"
-    releasesEtag: W/"9100e7216f1e58d9b93de549383cbdf048d1113fc56f6de6c218f75dedb50626"
+    repoEtag: W/"8b906ce197b205b2dd398046431e37f415b85963cd06f866053bdd06977ef780"
+    releasesEtag: W/"7d362b9267bb950d5f932125b6c1f9e18765a21a02338a9b8ed34f00ce5c8273"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

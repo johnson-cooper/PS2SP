@@ -12,7 +12,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -21,19 +21,23 @@ source:
   url: 'https://github.com/jeddhor/GauntletDLRedone'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 15
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-14T22:21:04Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.3.2
+  name: 'Gauntlet: Dark Legacy native port 1.3.2'
+  publishedAt: '2026-11-14T02:44:33Z'
+  url: 'https://github.com/jeddhor/GauntletDLRedone/releases/tag/v1.3.2'
 activity:
   lastChecked: '2026-11-14T07:02:10.381Z'
+  lastSynchronized: '2026-11-15T01:56:09.779Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4fb38852d082b74cb09e8bac3761e350236e347bea410256c04723a15b0d64cc"
+    releasesEtag: W/"3174db281e9514939070bb3ded6b4d85aef7347b2c06bf7cc66496cded1c01ab"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -46,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

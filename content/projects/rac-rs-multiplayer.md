@@ -12,7 +12,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -21,19 +21,23 @@ source:
   url: 'https://github.com/adamlbunch/rac-rs-multiplayer'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-15T00:36:51Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.4.1.12
+  name: rac-rs-multiplayer 0.4.1.12
+  publishedAt: '2026-11-15T00:36:54Z'
+  url: 'https://github.com/adamlbunch/rac-rs-multiplayer/releases/tag/v0.4.1.12'
 activity:
   lastChecked: '2026-11-11T09:51:14.859Z'
+  lastSynchronized: '2026-11-15T01:57:55.354Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1a4626cc6de2086441039d131d0423966ebb81e309c7225f039ca372030152c3"
+    releasesEtag: W/"98b2e57a2e084f8693e3fcfdec93ddb962ab86102222770815cda39097a83a58"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -46,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

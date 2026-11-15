@@ -36,12 +36,12 @@ latestRelease:
   url: 'https://github.com/johnson-cooper/vril-engine/releases/tag/v1.1'
 activity:
   lastChecked: '2026-09-29T10:00:00Z'
-  lastSynchronized: '2026-11-10T01:32:38.653Z'
+  lastSynchronized: '2026-11-15T01:56:46.954Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"534a86b8772ed8e86092711921dcce79ef7becaa84c1f43217ebc4ed8d54ae69"
-    releasesEtag: W/"5d72b8143319cb8d858368aeace071ff2f4c9d45c36a653170aaf9d3e4131d41"
+    repoEtag: W/"84d1fa163beb332227267ddf41a49197e0434ce6787905de5c3c6814fde0c138"
+    releasesEtag: W/"f44ef1bc983bcea8af5f8047d2ca163f9171fb8b896ae1dba00951f45221efb9"
 discovery:
   method: curated
   confidence: 100

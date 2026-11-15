@@ -18,22 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: rebuild/main
-  stars: 66
-  forks: 5
-  lastCommit: '2026-11-09T23:24:35Z'
+  stars: 65
+  forks: 6
+  lastCommit: '2026-11-14T16:18:39Z'
 latestRelease:
-  tag: rolling-korium
-  name: Korium
-  publishedAt: '2026-11-09T22:34:32Z'
-  url: >-
-    https://github.com/NathanNeurotic/Open-PS2-Loader/releases/tag/rolling-korium
+  tag: rolling-ra
+  name: RetroAchievements
+  publishedAt: '2026-11-11T19:00:01Z'
+  url: 'https://github.com/NathanNeurotic/Open-PS2-Loader/releases/tag/rolling-ra'
 activity:
-  lastSynchronized: '2026-11-10T01:34:00.016Z'
+  lastSynchronized: '2026-11-15T01:58:02.012Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"39e39847afb76ddae40cd7d1870c5fbcfa391d00ecc283d44424d93b2764c623"
-    releasesEtag: W/"8164d6d5fe666f0f2a10e165b8b5f51dff1089b234c8301947be15e01af14d6d"
+    repoEtag: W/"5997293564188e3513d0117c5f5441fe1917be95e19e27a61533360a00c9cb81"
+    releasesEtag: W/"c2d350ed91705fadcc8303301f87516497a9e04926d4df73891da5b778b8f8b2"
 discovery:
   method: curated-owner
   confidence: 100

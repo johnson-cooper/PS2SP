@@ -31,12 +31,12 @@ latestRelease:
     https://github.com/DanielFergisz/RepairBox-PSX-XMB-Apps-Installer/releases/tag/1.1
 activity:
   lastChecked: '2026-09-29T00:27:50.753Z'
-  lastSynchronized: '2026-11-10T01:33:56.045Z'
+  lastSynchronized: '2026-11-15T01:57:58.223Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c73ffeb99e00b28b299c12ee2a4920072671a12fee7ee335c372554682535587"
-    releasesEtag: W/"8c8abcf3770737953efb153269362b38ef14d7ad9affa5ec441458a25041f235"
+    repoEtag: W/"8066dedfee067896d48b935a6c24b174371d590b28b204b9478d8419ada5c9e4"
+    releasesEtag: W/"693dacaca68e77660805da721a3106e4459a4ab3d32cbf3ff7eeb4ff5a99eb20"
 discovery:
   method: github-search
   confidence: 100

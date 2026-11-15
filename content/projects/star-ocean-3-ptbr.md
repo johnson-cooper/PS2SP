@@ -11,29 +11,29 @@ tags:
 features: []
 authors: []
 license: null
-homepage: null
+homepage: 'https://github.com/0xdhx0/star-ocean-3-ps2-ptbr/releases/latest'
 source:
   provider: github
-  repository: 0xdhx0/star-ocean-3-ptbr
+  repository: 0xdhx0/star-ocean-3-ps2-ptbr
   repositoryId: '1440377945'
 repository:
   archived: false
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-09T04:40:23Z'
+  lastCommit: '2026-11-14T19:04:53Z'
 latestRelease:
   tag: v1.3
   name: v1.3 — revisão completa com o japonês
   publishedAt: '2026-11-08T21:53:26Z'
-  url: 'https://github.com/0xdhx0/star-ocean-3-ptbr/releases/tag/v1.3'
+  url: 'https://github.com/0xdhx0/star-ocean-3-ps2-ptbr/releases/tag/v1.3'
 activity:
-  lastSynchronized: '2026-11-10T01:34:08.373Z'
+  lastSynchronized: '2026-11-15T01:58:09.227Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d674611fb70015fe117a3d0b10db32454ed2babef574218bcf4df6a0b0795c8b"
-    releasesEtag: W/"5a11888a7ca27040e8cac562dcc6416c127d3999ee2aec9f1dafac22afecf9da"
+    repoEtag: W/"c185af7f0c6117828411c401ca4027b68af4da796514b026985f1f7ebc30a663"
+    releasesEtag: W/"829d2b2b777996171e9a8176d6c202efe68d91bfb370e347427c7925b03feba6"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

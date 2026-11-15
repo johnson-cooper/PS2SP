@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-01-02T08:20:17Z'
   url: 'https://github.com/rustybusgaming/guitarheromix/releases/tag/ew'
 activity:
-  lastSynchronized: '2026-11-12T17:44:42.390Z'
+  lastSynchronized: '2026-11-15T01:56:12.962Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"19051fdf605ac19f29574b5066335b7c309c875a3014d354cb98dd527cab07f8"
+    releasesEtag: W/"69c812c2ffe6be596a49e441d61ef76117890876eb2ac47fad37534c2f25aa08"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
