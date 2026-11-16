@@ -1,0 +1,16 @@
+{
+  "repository": "mascajo22-code/UART_Universal_Console_Tool",
+  "repositoryId": "1459883513",
+  "url": "https://github.com/mascajo22-code/UART_Universal_Console_Tool",
+  "description": "Un outil UART universel pour faciliter le diagnostic et la réparation des consoles Sony PlayStation, de la PS2 à la PS5",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-11-16T12:03:46.707Z",
+  "checkedAt": "2026-11-16T12:03:46.707Z"
+}
