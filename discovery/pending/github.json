@@ -1,16 +1,16 @@
 {
-  "repository": "PCSX2-PlayStation-Emulator/.github",
-  "repositoryId": "1384134754",
-  "url": "https://github.com/PCSX2-PlayStation-Emulator/.github",
-  "description": "PCSX2 is a Windows emulator designed to recreate the PlayStation 2 gaming environment on modern PC hardware. It provides configurable graphics, controller, audio, and emulation settings, allowing users to tailor individual games to their system.",
+  "repository": "PlayStation-2-Firmware-Tool/.github",
+  "repositoryId": "1460523337",
+  "url": "https://github.com/PlayStation-2-Firmware-Tool/.github",
+  "description": "PlayStation 2 Firmware Tool is a desktop utility for inspecting system information, organizing firmware-related files, and preparing verified maintenance workflows for compatible PS2 hardware.",
   "score": 75,
   "evidence": [
     "repository description explicitly identifies PS2",
     "README explicitly mentions PlayStation 2"
   ],
-  "origin": "pending-recheck",
+  "origin": "incremental:ps2 in:name,description",
   "maturity": "active-unreleased",
   "fork": null,
-  "discoveredAt": "2026-09-29T00:28:55.791Z",
-  "checkedAt": "2026-10-31T18:45:56.304Z"
+  "discoveredAt": "2026-11-16T22:31:39.705Z",
+  "checkedAt": "2026-11-16T22:31:39.705Z"
 }

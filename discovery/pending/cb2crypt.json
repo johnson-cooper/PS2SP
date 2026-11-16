@@ -1,0 +1,16 @@
+{
+  "repository": "mlafeldt/CB2crypt",
+  "repositoryId": "1086586",
+  "url": "https://github.com/mlafeldt/CB2crypt",
+  "description": "App to decrypt & encrypt any cheat code for CodeBreaker PS2",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-16T22:31:39.705Z",
+  "checkedAt": "2026-11-16T22:31:39.705Z"
+}
