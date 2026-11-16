@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-11-09T13:46:47Z'
   url: 'https://github.com/RompEmu/ARMSX2/releases/tag/core-20261109-52a352aa68'
 activity:
-  lastSynchronized: '2026-11-15T09:26:18.935Z'
+  lastSynchronized: '2026-11-16T09:43:55.632Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b6d41be3246656a00b02c7adf600f467a0953e63ba00552b90a4c11de869d171"
-    releasesEtag: W/"f42f3e6e82272e5cdc2e9c8abb635003889e106efdf17daaef7982e411bf90b3"
+    repoEtag: W/"f2d197256a008c13ec3cac5cec3d9cd0c042cf090532a98149cd043324c39346"
+    releasesEtag: W/"d7f0960c375f6a01c16a027a6ca11daa5c1d7b3058b6b4cb6e66796937969bfc"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

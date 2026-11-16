@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-15T09:28:38.727Z'
+  lastSynchronized: '2026-11-16T09:46:47.646Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"90dd0a20b6d70b73745efb1d5c82432a07360ebb487d8a734b0841f54114a9f8"
-    releasesEtag: '"045e43fb871b83aadee34533b922e9684305b3410b07ffc90627af62b5c4a1b6"'
+    repoEtag: W/"7559de94636f7d1cf6debfb689f3671d6bca1b16ef060cef638af5e16bd0fc80"
+    releasesEtag: '"94ae9a01aad4edba2aa43b481d961886d303990bb45a15f4ef989d4b6bbd9d32"'
 discovery:
   method: 'fork-network:Phenra/RoadTripAdventure-AP'
   confidence: 100

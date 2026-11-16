@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-09-02T00:30:25Z'
   url: 'https://github.com/SumavisionQ5/NJEMU-PS2/releases/tag/0.1'
 activity:
-  lastSynchronized: '2026-11-15T09:27:14.176Z'
+  lastSynchronized: '2026-11-16T09:45:02.027Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2ebbd8b3ad0748f8652175bddefbf8045c40e55a31319d40d914d7c5ba9f2fe8"
-    releasesEtag: W/"5d29140d0d6d33420c39e4a20c4d04cd92be3dc42eced9acb908a2ae3334e581"
+    repoEtag: W/"b1aad98c38f56072d6b0fd58fe8e360360f9e92982f57bae3221172338be5ed0"
+    releasesEtag: W/"119fa6cc6000593ba10e2979358942a2a9c6463e2045cdf2eee3eb864d74c89d"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

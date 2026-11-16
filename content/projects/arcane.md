@@ -26,20 +26,20 @@ repository:
   defaultBranch: main
   stars: 3
   forks: 0
-  lastCommit: '2026-10-30T23:43:40Z'
+  lastCommit: '2026-11-15T23:41:37Z'
 latestRelease:
-  tag: Arcane0.7.0
-  name: 'Arcane 0.7.0 '
-  publishedAt: '2026-10-30T13:53:24Z'
-  url: 'https://github.com/hadibader/Arcane/releases/tag/Arcane0.7.0'
+  tag: Arcane1.0.4stablenexus
+  name: ''
+  publishedAt: '2026-11-15T23:38:16Z'
+  url: 'https://github.com/hadibader/Arcane/releases/tag/Arcane1.0.4stablenexus'
 activity:
   lastChecked: '2026-10-15T00:53:05.330Z'
-  lastSynchronized: '2026-11-15T09:26:13.881Z'
+  lastSynchronized: '2026-11-16T09:43:49.291Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c530ef336ab1c7d90c0d456c555811b419e7c6bbf395a75bd07b321780d663ce"
-    releasesEtag: W/"1b578ac0d3cdb1dc09f4451053a2d5a79cd9bcbd329a2a8d0d629e54ea99d441"
+    repoEtag: W/"ea3e68f213a38d7950ec0e7730b3c3c73e8df4a57825c4cacba81bc0096f0a91"
+    releasesEtag: W/"3cd702816de520868e0fe49609d30d382a4b4b1e23f969a5ad776afaa1d197c5"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-15T09:28:45.018Z'
+  lastSynchronized: '2026-11-16T09:46:53.755Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d08efecb25c51790610851eac044abdedc0a5bc14adc1b33bcf0f7db3f6417d8"
-    releasesEtag: '"045e43fb871b83aadee34533b922e9684305b3410b07ffc90627af62b5c4a1b6"'
+    repoEtag: W/"0714ede6a6bca46ed6db5729ded4c2299d7dccfb10fe38c4f91207fc80550ab8"
+    releasesEtag: '"94ae9a01aad4edba2aa43b481d961886d303990bb45a15f4ef989d4b6bbd9d32"'
 discovery:
   method: 'fork-network:ReyFxck/SNESstation-Decomp'
   confidence: 100
