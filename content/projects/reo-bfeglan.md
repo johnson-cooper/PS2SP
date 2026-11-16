@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-09T17:49:29.472Z'
+  lastSynchronized: '2026-11-16T20:31:48.932Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"37b2580694e1341ed00dee47cfd99dd6a9e94caca1467b803e6d52e5df127d3c"
+    releasesEtag: '"749f39855c08ba9933e4898e15871fa55ad80de7611f568a99148006af259a54"'
 discovery:
   method: 'fork-network:Ninjacornix/reo'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: Ninjacornix/reo
   source: sp00nznet/reo
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

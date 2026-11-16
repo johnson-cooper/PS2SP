@@ -15,26 +15,26 @@ license: MIT
 homepage: null
 source:
   provider: github
-  repository: BrendleFly/hyper-street-fighter-zero-gold
+  repository: BrendleFly/Hyper-Street-Fighter-Zero-Gold
   repositoryId: '1434603569'
 repository:
   archived: false
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-01T15:19:05Z'
+  lastCommit: '2026-11-10T03:48:40Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-07T20:53:27.627Z'
+  lastSynchronized: '2026-11-16T20:29:51.942Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2867f182eb03b2b8549787151b888027a1777d6c951e63f5e86fc392681176fd"
-    releasesEtag: '"fc619d91d08281813cd615904e974730be6c8a673783181674e17014b818210d"'
+    repoEtag: W/"731405ecab6f1cab466d161c575332f5c15edc60a66fc71e426e72dabcfbffaf"
+    releasesEtag: '"749f39855c08ba9933e4898e15871fa55ad80de7611f568a99148006af259a54"'
 discovery:
   method: pending-recheck
   confidence: 100

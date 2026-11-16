@@ -23,7 +23,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
   lastCommit: '2026-10-22T14:14:45Z'
 latestRelease:
@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-07T20:53:14.036Z'
+  lastSynchronized: '2026-11-16T20:29:32.592Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c52f513e66baffba60d1a8017b2db850a4427912256c5f76243f19ad3d4e6894"
-    releasesEtag: '"fc619d91d08281813cd615904e974730be6c8a673783181674e17014b818210d"'
+    repoEtag: W/"8c15570d70182dd4ff1660d43350f88d36442abf459ab75541cae193144b4fb2"
+    releasesEtag: '"749f39855c08ba9933e4898e15871fa55ad80de7611f568a99148006af259a54"'
 discovery:
   method: 'fork-network:Jakeschincariol/console-skill'
   confidence: 100

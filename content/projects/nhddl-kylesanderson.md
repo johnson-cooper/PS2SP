@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-07T20:53:43.531Z'
+  lastSynchronized: '2026-11-16T20:30:14.754Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ae79ca8f46546c06d6910f75e70f2083114729aed86c263bf1b235e95aa68324"
-    releasesEtag: '"fc619d91d08281813cd615904e974730be6c8a673783181674e17014b818210d"'
+    repoEtag: W/"aebf96e51019fdc7e4a5b90b878c62785cc1021f579a444b1682deefd8aa7348"
+    releasesEtag: '"749f39855c08ba9933e4898e15871fa55ad80de7611f568a99148006af259a54"'
 discovery:
   method: 'fork-network:pcm720/nhddl'
   confidence: 95

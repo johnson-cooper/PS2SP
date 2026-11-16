@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-07T20:53:55.564Z'
+  lastSynchronized: '2026-11-16T20:30:33.994Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b3dfb470df44278bdc7431c0c9be437a63241a36c878a61715f05ea978f77290"
-    releasesEtag: '"fc619d91d08281813cd615904e974730be6c8a673783181674e17014b818210d"'
+    repoEtag: W/"9513ce4c62f7d71fa7841458ebd08d1d7318c76da253972c3e31b509ffd66f9b"
+    releasesEtag: '"749f39855c08ba9933e4898e15871fa55ad80de7611f568a99148006af259a54"'
 discovery:
   method: 'fork-network:IcySon55/OPL-Theme-Editor'
   confidence: 95

@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-07T20:54:48.073Z'
+  lastSynchronized: '2026-11-16T20:31:55.462Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"092de15975a7bd63eaf2f0897e4f0d6aa02b39fa5d58b880fd6451986f57e26b"
-    releasesEtag: '"fc619d91d08281813cd615904e974730be6c8a673783181674e17014b818210d"'
+    repoEtag: W/"dc6f1ff5d613f895be39fb023fdc408a2dfc7689aeed2d72ad1244cb0291f2bc"
+    releasesEtag: '"749f39855c08ba9933e4898e15871fa55ad80de7611f568a99148006af259a54"'
 discovery:
   method: 'fork-network:Aegyptiacus11/TabStationToo'
   confidence: 100
