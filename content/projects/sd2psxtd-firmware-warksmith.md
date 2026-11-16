@@ -19,22 +19,22 @@ source:
   repositoryId: '1440747873'
 repository:
   archived: false
-  defaultBranch: game2folder-wildcards-default
+  defaultBranch: integration
   stars: 0
   forks: 0
-  lastCommit: '2026-11-03T03:11:31Z'
+  lastCommit: '2026-11-15T22:22:08Z'
 latestRelease:
-  tag: v0.3
-  name: v0.3 - GameID Defaults & Wildcards
-  publishedAt: '2026-11-03T03:07:48Z'
-  url: 'https://github.com/Warksmith/sd2psXtd_firmware/releases/tag/v0.3'
+  tag: 1.5.0-based
+  name: 1.5.0 Integration
+  publishedAt: '2026-11-15T22:22:08Z'
+  url: 'https://github.com/Warksmith/sd2psXtd_firmware/releases/tag/1.5.0-based'
 activity:
-  lastSynchronized: '2026-11-12T03:01:28.382Z'
+  lastSynchronized: '2026-11-16T02:10:46.618Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1bc61ada124df78baeacf154216aede4308f2491670594a6cb34ccf053f7ddd9"
-    releasesEtag: W/"7833036626c89737a6fd73e90e268845bc1a197c8063afbcf92c48b8f61f4e28"
+    repoEtag: W/"3f07781af702df23348c954e1c9f773bc88f19c93e035a46c77359799eba5d68"
+    releasesEtag: W/"1495691fbc5116594374dfc0ab1a0ee76c8f5ac5b84c9b00b3f96a771c86b35f"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

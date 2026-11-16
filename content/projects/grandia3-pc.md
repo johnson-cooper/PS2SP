@@ -17,28 +17,28 @@ license: MIT
 homepage: null
 source:
   provider: github
-  repository: GranasSabre/Grandia3-PC
+  repository: GranasSabre/Grandia3-OpenSkies
   repositoryId: '1428696140'
   url: 'https://github.com/GranasSabre/Grandia3-PC'
 repository:
   archived: false
   defaultBranch: main
-  stars: 49
-  forks: 1
-  lastCommit: '2026-11-09T23:20:25Z'
+  stars: 54
+  forks: 2
+  lastCommit: '2026-11-15T01:32:35Z'
 latestRelease:
-  tag: v1.0.7
-  name: Grandia III for PC v1.0.7
-  publishedAt: '2026-11-09T23:16:52Z'
-  url: 'https://github.com/GranasSabre/Grandia3-PC/releases/tag/v1.0.7'
+  tag: v1.0.8
+  name: 'Grandia III: Open Skies v1.0.8'
+  publishedAt: '2026-11-15T01:15:22Z'
+  url: 'https://github.com/GranasSabre/Grandia3-OpenSkies/releases/tag/v1.0.8'
 activity:
   lastChecked: '2026-10-26T14:34:04.716Z'
-  lastSynchronized: '2026-11-12T02:59:42.098Z'
+  lastSynchronized: '2026-11-16T02:08:37.355Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9feaf3cd8582a706a013e40fe80c7ff8a36d479fffb98c54867e603d3450e39e"
-    releasesEtag: W/"3fa458affe1e21126365d0ee35074d0417b58bc480711ce17f1a4da42bfac62d"
+    repoEtag: W/"add59fe44bfd3ff2c5166998d037cef0674b7652bd87761bd8118a2dfa5cd675"
+    releasesEtag: W/"b8f276e9c97dfea7ef3e83e45413164bc8392a0fd110f417e777663cdf4159c9"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

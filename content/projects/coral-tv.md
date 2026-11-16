@@ -20,7 +20,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
   lastCommit: '2026-11-12T23:51:40Z'
 latestRelease:
@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-13T03:36:03.837Z'
+  lastSynchronized: '2026-11-16T02:08:25.537Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5cb9306a8c621097622fdd906eca785bf13621683a5108e45413e537fa18347d"
+    releasesEtag: '"3a20890b6750489859425614789b9c50d4c9e688ae8408c91de5b2a14dadfc7c"'
 discovery:
   method: 'incremental:ps2sdk in:name,description,readme'
   confidence: 100
@@ -43,5 +46,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

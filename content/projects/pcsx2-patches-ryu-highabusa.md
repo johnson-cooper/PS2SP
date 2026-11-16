@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2024-06-28T03:33:47Z'
   url: 'https://github.com/ryu-highabusa/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-12T03:00:38.889Z'
+  lastSynchronized: '2026-11-16T02:09:50.059Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fb34a2005506a0dfff21299a4cf60afc44f6d4f07d5ce8fa449073bbafe2cf77"
-    releasesEtag: W/"e2ef2e9c12f3a942ea3112bb15491d9bed307926ee37205dc1cdac2edeee5541"
+    repoEtag: W/"60231a92a69ca5c922497a44bb4a31dd701669a594f217fc995e33a9a274f6db"
+    releasesEtag: W/"f16eac0374814d9d34a2f8b42fd7b7a6089fbca9d6fb752845f669fda6753f69"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95

@@ -21,7 +21,7 @@ repository:
   defaultBranch: master
   stars: 1
   forks: 0
-  lastCommit: '2026-11-14T22:05:50Z'
+  lastCommit: '2026-11-16T00:22:44Z'
 latestRelease:
   tag: PS2-FTP-CONNECTOR-VERSION-1-0
   name: PS2 Game Files Transfer Program Connector
@@ -29,9 +29,12 @@ latestRelease:
   url: >-
     https://github.com/R3BU1LD/PS2-Game-File-Transfer-Connector/releases/tag/PS2-FTP-CONNECTOR-VERSION-1-0
 activity:
-  lastSynchronized: '2026-11-14T23:23:33.165Z'
+  lastSynchronized: '2026-11-16T02:10:12.086Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"662025d217d51c2552413f322bf53dd16113c65db77efd69cda05da85c4b994d"
+    releasesEtag: W/"7734b4abd963139b11c737b612657fed33b29d3025a18af0edd860766cf7bcfd"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -45,5 +48,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

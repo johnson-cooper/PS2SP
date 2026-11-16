@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/saildot4k/PlayStation2-Basic-BootLoader-Extended/releases/tag/v2.0.0
 activity:
-  lastSynchronized: '2026-11-12T03:00:49.293Z'
+  lastSynchronized: '2026-11-16T02:10:01.487Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"93a757b7678538245c5d09d600a42b063d29133c5ed59f2811daf81c70277d0c"
-    releasesEtag: W/"7a8286ade51b99a249b6f8217652d313154519307afd18e364fa7a55c16c01e4"
+    repoEtag: W/"3135b650590cb751e253061fa6a4e2071b8797aa59508b117caa5d10424253e3"
+    releasesEtag: W/"6d9f8b71f38ce87b252cbe2d9bab58b6db09188fac606371dd25bd0a5f5a0b59"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

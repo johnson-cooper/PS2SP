@@ -16,7 +16,7 @@ license: MIT
 homepage: null
 source:
   provider: github
-  repository: AfsanXD/ps2-web-recomp
+  repository: 3xcal/ps2-web-recomp
   repositoryId: '1416892408'
 repository:
   archived: false
@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-12T03:01:00.878Z'
+  lastSynchronized: '2026-11-16T02:10:15.719Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8569cc44b3271cebe6487a06163e0174fdf7e841628e2b1d6cc22fd8eadbb33f"
-    releasesEtag: '"11d0228c4f898bf001368b9b1148388f44d08d20cf02b468a34112616d732b89"'
+    repoEtag: W/"eb51d142bcc2fe4715278c83c5994782043ed97b49a1528068cc6e1a05ccbb6f"
+    releasesEtag: '"3a20890b6750489859425614789b9c50d4c9e688ae8408c91de5b2a14dadfc7c"'
 discovery:
   method: 'fork-network:snuri00/ps2-web-recomp'
   confidence: 100

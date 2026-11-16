@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-12T03:00:19.561Z'
+  lastSynchronized: '2026-11-16T02:09:25.939Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"728acd35def57ba2044b7c12486677231e1fa788fd2d82c26a84e567dd50357d"
-    releasesEtag: '"11d0228c4f898bf001368b9b1148388f44d08d20cf02b468a34112616d732b89"'
+    repoEtag: W/"aa6f64e26fb482403b54859684f0ce2e8f9f37a6353bafd97914c681000a5230"
+    releasesEtag: '"3a20890b6750489859425614789b9c50d4c9e688ae8408c91de5b2a14dadfc7c"'
 discovery:
   method: 'fork-network:ps2homebrew/opentuna-installer'
   confidence: 95

@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-14T23:23:33.165Z'
+  lastSynchronized: '2026-11-16T02:08:26.518Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f7741eaf15465b13acbda5d3c315dc49059f443df50bbf1a57f72b4aa831cd5a"
+    releasesEtag: '"3a20890b6750489859425614789b9c50d4c9e688ae8408c91de5b2a14dadfc7c"'
 discovery:
   method: 'fork-network:nekomancer01/DarkSoulsPS2'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: nekomancer01/DarkSoulsPS2
   source: nekomancer01/DarkSoulsPS2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

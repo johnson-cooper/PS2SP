@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-12T03:00:19.003Z'
+  lastSynchronized: '2026-11-16T02:09:25.479Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a90ca4ad7e11e2c36af3efd148cebbfc16572c00365dc7d11e079e030fc556b2"
-    releasesEtag: '"11d0228c4f898bf001368b9b1148388f44d08d20cf02b468a34112616d732b89"'
+    repoEtag: W/"28785e8d14c3247e10cdae25b09641a20671ede8c2f3e32b39c386562a61b27e"
+    releasesEtag: '"3a20890b6750489859425614789b9c50d4c9e688ae8408c91de5b2a14dadfc7c"'
 discovery:
   method: 'fork-network:Gageformer/Open-Source-Pops'
   confidence: 100
