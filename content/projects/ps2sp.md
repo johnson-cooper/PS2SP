@@ -14,7 +14,7 @@ tags:
 features: []
 authors: []
 license: null
-homepage: null
+homepage: 'https://nathanneurotic.github.io/PS2SP/'
 source:
   provider: github
   repository: NathanNeurotic/PS2SP
@@ -24,19 +24,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-09-29T05:10:45Z'
+  lastCommit: '2026-11-17T04:13:25Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T13:09:33.015Z'
+  lastSynchronized: '2026-11-17T13:28:40.453Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e60016034b4491be9dd9477ecff335d9a5b308106bda15febc5b34cada832746"
-    releasesEtag: '"c986126542e0b5d1a30f2419f360b2edf077fb2694e04957eb80442520a691c2"'
+    repoEtag: W/"eae5829fe9d07f62b5610940314028181060f24276438ec90424efc0b7245a74"
+    releasesEtag: '"a3f289ff4b9de0de548252c38e0c583574e046acd86a3fa9ee49ea46fb04353b"'
 discovery:
   method: curated-owner
   confidence: 100

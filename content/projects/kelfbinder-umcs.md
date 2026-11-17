@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 7
+  stars: 8
   forks: 1
   lastCommit: '2025-08-22T19:39:20Z'
 latestRelease:
@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2025-04-07T03:12:06Z'
   url: 'https://github.com/NathanNeurotic/KELFbinder-UMCS/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-26T13:08:14.927Z'
+  lastSynchronized: '2026-11-17T13:27:12.948Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d6bd4a3fb3c6cdfd3588db33041a3c7ea18fe24c9751ea55875537537fd4c1e6"
-    releasesEtag: W/"2c851ef8d5eaaa06930f8187ac77d8565375b3151e9afe2b9cf1081f44ea2028"
+    repoEtag: W/"fa544dc4ed8d0714dc8290be41affcf7cc68d952238a44a4788ba11d1f237aa4"
+    releasesEtag: W/"3faedd23c583a79aba1af49b501a3772f21086ed868d7e9cc20895c26a41d06a"
 discovery:
   method: curated-owner
   confidence: 100

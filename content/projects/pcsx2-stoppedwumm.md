@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-08-20T18:50:41Z'
   url: 'https://github.com/Stoppedwumm/pcsx2/releases/tag/v2.7.528'
 activity:
-  lastSynchronized: '2026-10-26T13:09:01.891Z'
+  lastSynchronized: '2026-11-17T13:28:02.187Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8ff86da428e7ad41180e42503f2c9780565c4f0a95a7584243b75e8711017e33"
-    releasesEtag: W/"9c4aa2eab755277d98ca545d5634a42b3108fcfd2579d37e232522bb9759bbac"
+    repoEtag: W/"fc293605888ff95f0e2586fcc66a26a7e4587571699ea6c0b818495cd1a286f3"
+    releasesEtag: W/"947559d236b48a2de0f3bc90b744beab405c995e6424e4f0397faea5b388dd31"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

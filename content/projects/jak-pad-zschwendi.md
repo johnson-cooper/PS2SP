@@ -15,7 +15,7 @@ tags:
 features: []
 authors: []
 license: ISC
-homepage: null
+homepage: 'https://github.com/zschwendi/dark-eco'
 source:
   provider: github
   repository: zschwendi/jak-pad
@@ -23,21 +23,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 0
+  stars: 1
   forks: 0
-  lastCommit: '2026-08-17T22:58:20Z'
+  lastCommit: '2026-11-15T08:32:34Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T13:08:08.247Z'
+  lastSynchronized: '2026-11-17T13:27:05.459Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d5780f9acb7531990a60494377246ed272e15af61f4ec25ced907648ce1718a3"
-    releasesEtag: '"c986126542e0b5d1a30f2419f360b2edf077fb2694e04957eb80442520a691c2"'
+    repoEtag: W/"b1d61d1a5cc7649905aa482574f59aabb462b156bad7167e421f1cf988704041"
+    releasesEtag: '"a3f289ff4b9de0de548252c38e0c583574e046acd86a3fa9ee49ea46fb04353b"'
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95

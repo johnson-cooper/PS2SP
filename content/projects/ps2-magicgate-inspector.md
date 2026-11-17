@@ -22,7 +22,7 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-09-25T22:08:32Z'
+  lastCommit: '2026-11-09T18:40:00Z'
 latestRelease:
   tag: 0.4.1-Drebin
   name: 0.4.1 - Drebin
@@ -31,12 +31,12 @@ latestRelease:
     https://github.com/PunishedSnake/ps2-magicgate-inspector/releases/tag/0.4.1-Drebin
 activity:
   lastChecked: '2026-09-29T00:27:46.347Z'
-  lastSynchronized: '2026-10-26T13:09:13.374Z'
+  lastSynchronized: '2026-11-17T13:28:18.618Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e39f94a99dd51746e549591ec2fcce6895d6d88ec208535d6fd826ab1fa0ed95"
-    releasesEtag: W/"86c799b26d59e8db315212bc77dd8334da8b90a2c78b5780cf5041fcd7fc5e47"
+    repoEtag: W/"95a6a4d40395a98d7d3d22b589ff5c321363f22a75097c397255dcd5d64f16c4"
+    releasesEtag: W/"5e77c5eb20d61e33c35112f6d17967dee08407c28208601ac1762a9c94e72681"
 discovery:
   method: github-search
   confidence: 100

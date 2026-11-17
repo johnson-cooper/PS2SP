@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-13T03:36:03.837Z'
+  lastSynchronized: '2026-11-17T13:27:48.588Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7a0eae121cd862f11e281014863fc81ba15c29c3354d52b305b3bbdc88b323f6"
+    releasesEtag: '"a3f289ff4b9de0de548252c38e0c583574e046acd86a3fa9ee49ea46fb04353b"'
 discovery:
   method: 'fork-network:Iarm-t/sotc-vibe-pc'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: Iarm-t/PC-ShadowOfTheColossus-PS2
   source: LightVelox/sotc-vibe-pc
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

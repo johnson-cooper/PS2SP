@@ -12,7 +12,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -21,19 +21,23 @@ source:
   url: 'https://github.com/Cyb3rMeth0d/PlayVault-PS5'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 2
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-08T15:13:18Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: Homebrew
+  name: Play Vault V1.0.0
+  publishedAt: '2026-11-08T15:13:19Z'
+  url: 'https://github.com/Cyb3rMeth0d/PlayVault-PS5/releases/tag/Homebrew'
 activity:
   lastChecked: '2026-11-08T16:20:16.333Z'
+  lastSynchronized: '2026-11-17T13:28:12.047Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"45c30ebf18ebd74f55b2a146b50bb1fc603f410907d6273e0ae40002eac95e10"
+    releasesEtag: W/"35ea9ead9ac019feba5fbd240b2eb7349026f2b349adda0f779dafe50f62faa5"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -46,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

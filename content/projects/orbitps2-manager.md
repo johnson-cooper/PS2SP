@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 128
-  forks: 11
-  lastCommit: '2026-10-22T10:58:22Z'
+  stars: 136
+  forks: 12
+  lastCommit: '2026-11-14T19:01:00Z'
 latestRelease:
-  tag: v1.3.1
-  name: Release v1.3.1 - Rebranding!
-  publishedAt: '2026-08-28T19:08:15Z'
-  url: 'https://github.com/Luden02/OrbitPS2-Manager/releases/tag/v1.3.1'
+  tag: v1.4.0
+  name: v1.4.0 - Luna & Ember Support
+  publishedAt: '2026-11-14T19:01:00Z'
+  url: 'https://github.com/Luden02/OrbitPS2-Manager/releases/tag/v1.4.0'
 activity:
-  lastSynchronized: '2026-10-26T13:08:49.198Z'
+  lastSynchronized: '2026-11-17T13:27:46.896Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"23011f1b22012902ec0c49e9f0ca688a9e79e7e67ef27a1adc2ea9b772094c07"
-    releasesEtag: W/"5bd7d543845880622a2b4359c96af3ea712c9cf16deb98061b98c62fd79f3396"
+    repoEtag: W/"d338b8979229a85dd85f2f0663788cd26e1d013c0d49e8acedeec95a22773a0e"
+    releasesEtag: W/"1c0f8a755dd96a89852e8ec8a696ec7ef2070f6329deba66efd939c07d4f46d8"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

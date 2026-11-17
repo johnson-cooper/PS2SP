@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-10-10T21:36:46Z'
   url: 'https://github.com/MexrlDev/AudioC0rePS2/releases/tag/V.1.0'
 activity:
-  lastSynchronized: '2026-10-26T13:07:46.861Z'
+  lastSynchronized: '2026-11-17T13:26:41.266Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7cb21dcb7c921aadb1353fd0ebde6e2ac33d3e9d03db9c42c92c173c9db52334"
-    releasesEtag: W/"19d842b53e2d4a27e01c15baa3f602c7bf79b0cfdfdc9e0d4bd4b98ca14af3e8"
+    repoEtag: W/"e126a96ef8ab23b9b86c5fbde87b436759d44dc5fb24a6d817ec37c89e272996"
+    releasesEtag: W/"590b6067ff275d78f7f0b52fbf72ea00da0d04a788278e27d4d7e0f86bb9d3ee"
 discovery:
   method: 'incremental:"PS2 homebrew" in:name,description,readme'
   confidence: 100

@@ -22,19 +22,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-10-20T00:22:45Z'
+  lastCommit: '2026-11-11T18:54:55Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T13:08:09.613Z'
+  lastSynchronized: '2026-11-17T13:27:06.706Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e2d9bf13bdeaca29d1c20a046a7c55105b39189887cb4afe20e4d413786c98c0"
-    releasesEtag: '"c986126542e0b5d1a30f2419f360b2edf077fb2694e04957eb80442520a691c2"'
+    repoEtag: W/"a0dd39fb2dfc5729ea0f286f95bfb936d6cc866b66b157f2dea1c1ad8f97d45a"
+    releasesEtag: '"a3f289ff4b9de0de548252c38e0c583574e046acd86a3fa9ee49ea46fb04353b"'
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95

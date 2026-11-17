@@ -27,16 +27,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-01T22:55:43Z'
+  lastCommit: '2026-11-06T02:55:56Z'
 latestRelease:
   tag: latest
-  name: v1.2.0-Beta-2279-97598a4
-  publishedAt: '2026-11-01T22:55:44Z'
+  name: v1.2.0-Beta-2284-0092b6d
+  publishedAt: '2026-11-06T02:55:58Z'
   url: 'https://github.com/lttsd/Open-PS2-Loaderxmb/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-01T23:54:36.997Z'
+  lastSynchronized: '2026-11-17T13:27:43.220Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1502659a9f993e81149c5b5fc0b1cf174523cfad0f558d30b4a0bc8feb2def8f"
+    releasesEtag: W/"c3e433a8685ff2144d870a3e5b383767344f60c2bf968dbc753a27551eef58c4"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: ps2homebrew/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

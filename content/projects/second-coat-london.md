@@ -19,19 +19,23 @@ source:
   url: 'https://github.com/SecondCoat/second-coat-london'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 11
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-17T01:35:49Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.4.2
+  name: 0.4.2
+  publishedAt: '2026-11-17T01:13:58Z'
+  url: 'https://github.com/SecondCoat/second-coat-london/releases/tag/v0.4.2'
 activity:
   lastChecked: '2026-10-26T14:34:04.716Z'
+  lastSynchronized: '2026-11-17T13:28:53.441Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a68e699339109bd4939c4b4d6f2aefe3ea9538cc4197350c4923bbe8bfe5b528"
+    releasesEtag: W/"59e3cd2415037f2fba33f5f3b1910153d4546eb238a0fd16c6a4f8ea768b623f"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -44,5 +48,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

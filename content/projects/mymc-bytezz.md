@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2023-04-21T01:08:17Z'
   url: 'https://github.com/Bytezz/mymc/releases/tag/v2.7-AppImage'
 activity:
-  lastSynchronized: '2026-10-26T13:08:26.507Z'
+  lastSynchronized: '2026-11-17T13:27:25.259Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"20db811d89e090b3e203eb2d552e36ff715050cc0f56556ceba89c3de10ed59e"
-    releasesEtag: W/"abd0124815fe6fa4610ec0da77848cd6c855a1beffc978a13fdc22417c913024"
+    repoEtag: W/"914752b04538808c208576064893dd91c4dbf495a2b4db31054fb066bee85265"
+    releasesEtag: W/"9748a91eb4393f7e21079c6fdf3f3ab54f6312238ebb513d187836343b957f70"
 discovery:
   method: 'fork-network:ps2dev/mymc'
   confidence: 100

@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-09-22T19:23:21Z'
   url: 'https://github.com/RetroXR/Play-/releases/tag/retroxr-play-libretro-v2'
 activity:
-  lastSynchronized: '2026-10-27T10:59:42.373Z'
+  lastSynchronized: '2026-11-17T13:28:09.571Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"bac869977f7cbe2e1645faf0229f66590cc825140e8b6e59d5309e9b3c01aa4f"
+    releasesEtag: W/"33b840e9d5397398980faf810f36cc6727e3e873235871b498f8e054759efc61"
 discovery:
   method: 'fork-network:jpd002/Play-'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: jpd002/Play-
   source: jpd002/Play-
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

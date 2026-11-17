@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-09-06T01:09:16Z'
   url: 'https://github.com/bucanero/ps2vmc-tool/releases/tag/v2.0.0'
 activity:
-  lastSynchronized: '2026-10-26T13:09:36.374Z'
+  lastSynchronized: '2026-11-17T13:28:43.319Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bc9c7d0d007cd986666800d78a64aced083aa6c06458f46f67cca02d45ffca31"
-    releasesEtag: W/"e50a61a75722fb1bcf10a5f8c69a26cdbd891d27e40099333bdb10e49c1d4a99"
+    repoEtag: W/"8c13c802d9c207bb0449acddec504a818349c2edce9c0191cbc490c7da53f233"
+    releasesEtag: W/"48d1e32ad1447682b71a3d1ee2e30f40ed47af4778e3645c1e758f0ddaf68713"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

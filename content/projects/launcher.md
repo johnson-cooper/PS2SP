@@ -26,22 +26,22 @@ source:
 repository:
   archived: false
   defaultBranch: EMBER
-  stars: 6
+  stars: 7
   forks: 1
-  lastCommit: '2026-10-22T04:01:41Z'
+  lastCommit: '2026-11-14T16:30:40Z'
 latestRelease:
-  tag: nightly
-  name: launcHER nightly
-  publishedAt: '2026-10-22T04:01:43Z'
-  url: 'https://github.com/NathanNeurotic/launcHER/releases/tag/nightly'
+  tag: v1.0
+  name: launcHER Stable 1.0
+  publishedAt: '2026-11-11T22:08:05Z'
+  url: 'https://github.com/NathanNeurotic/launcHER/releases/tag/v1.0'
 activity:
   lastChecked: '2026-09-29T00:27:04.651Z'
-  lastSynchronized: '2026-10-26T13:08:15.872Z'
+  lastSynchronized: '2026-11-17T13:27:13.489Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0899ea3d5fe5bbd8bbf62ebd6ec9058ed156c7010597879d1a4535779c88c5c5"
-    releasesEtag: W/"6af3b6fdb37ad52309a69bcc085b6ce6ffcc775e434bf385bb826f3df54faeff"
+    repoEtag: W/"e9113e65e7f259443f029d728e26c41ced7c6301f8c9c4808e7a3d5ee78f6b9f"
+    releasesEtag: W/"4aa6f922aefe241e71b19e1264f6cf6739ebbf03d32aa043eff944dfbb176d3b"
 discovery:
   method: curated
   confidence: 100

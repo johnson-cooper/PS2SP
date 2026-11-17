@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T13:09:38.033Z'
+  lastSynchronized: '2026-11-17T13:28:44.550Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3854171a3e4745580218b62e5de6710d9cca58170e9e09902c155ca341f6b2e4"
-    releasesEtag: '"c986126542e0b5d1a30f2419f360b2edf077fb2694e04957eb80442520a691c2"'
+    repoEtag: W/"128b18ce1fe0d3c9c80a8f0384eec47d0c1113cfb4ac60afb09620646c214d70"
+    releasesEtag: '"a3f289ff4b9de0de548252c38e0c583574e046acd86a3fa9ee49ea46fb04353b"'
 discovery:
   method: 'fork-network:AkikoKumagara/PSBBN-DEP-ArchLinux'
   confidence: 95

@@ -24,9 +24,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 2
   forks: 0
-  lastCommit: '2026-10-23T06:11:46Z'
+  lastCommit: '2026-10-27T16:18:29Z'
 latestRelease:
   tag: v0.0.1-alpha
   name: WWE Crush Hour PC - alpha 0.0.1
@@ -35,12 +35,12 @@ latestRelease:
     https://github.com/KaikoClanworth1/wwe-crush-hour-pc/releases/tag/v0.0.1-alpha
 activity:
   lastChecked: '2026-10-23T06:28:59.434Z'
-  lastSynchronized: '2026-10-26T13:09:58.274Z'
+  lastSynchronized: '2026-11-17T13:29:06.450Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5eab7961954438a815bd3ea514ff59f251849a2bee7008fb9e467155bcfd4168"
-    releasesEtag: W/"c41be74690e498bc014b653d260b07b56bd094c6e49bea7ab91370a073ee418e"
+    repoEtag: W/"4981b30575b8b50f119fd36aad420cdbeef79d6fe3b44f150655183e908410e0"
+    releasesEtag: W/"97a80d0f081e288e6d1410403783c8e9c43a7fc4c22bbb5324023e0d423bbc24"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

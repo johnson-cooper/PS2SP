@@ -16,7 +16,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: MIT
 homepage: null
 source:
   provider: github
@@ -25,19 +25,24 @@ source:
   url: 'https://github.com/gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 8
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-16T15:07:48Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.1-nx
+  name: Project Veronica NX v1.1
+  publishedAt: '2026-11-16T15:08:04Z'
+  url: >-
+    https://github.com/gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT/releases/tag/v1.1-nx
 activity:
   lastChecked: '2026-11-13T23:55:51.512Z'
+  lastSynchronized: '2026-11-17T13:28:51.264Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"fd0dfed1e12c3883919de344f5455e83f00f97abbdfbdf3c710e85fda651ab22"
+    releasesEtag: W/"41731afc9831bede380e10f579ad6db90d1b0e1f9c45a82b7fc4fab4bcebc417"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80
@@ -50,5 +55,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

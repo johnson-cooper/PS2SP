@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T13:07:52.479Z'
+  lastSynchronized: '2026-11-17T13:26:47.060Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ea66a76f2604278646334dcbfdd01db4741a0966e8a5b1f7cfd1cbbdb6315a05"
-    releasesEtag: '"c986126542e0b5d1a30f2419f360b2edf077fb2694e04957eb80442520a691c2"'
+    repoEtag: W/"343018c7e16a1e5bd3fff6a789e0ea4694b6b2cf080af69e4bf304b6da90e955"
+    releasesEtag: '"a3f289ff4b9de0de548252c38e0c583574e046acd86a3fa9ee49ea46fb04353b"'
 discovery:
   method: 'fork-network:NiV-L-A/CLPS2C-Compiler'
   confidence: 100

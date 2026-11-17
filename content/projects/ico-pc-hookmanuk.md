@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: '2026-11-12T17:30:11Z'
   url: 'https://github.com/hookmanuk/ico-pc/releases/tag/v0.11.4-vr-0.1'
 activity:
-  lastSynchronized: '2026-11-12T22:52:52.287Z'
+  lastSynchronized: '2026-11-17T13:27:04.917Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2419ca8e4996f58c9292ca23864b54c2450bffc1c7b73e6ec682db4004b87c2d"
+    releasesEtag: W/"1d3b8921201d9e56a181742dda79a74a145259681e7f3aac59a48f8fa475c04e"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -54,5 +57,4 @@ relationships:
   forkOf: nathanialf/ico-pc
   source: nathanialf/ico-pc
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -17,21 +17,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 2724
-  forks: 398
-  lastCommit: '2026-10-24T13:32:31Z'
+  stars: 2735
+  forks: 410
+  lastCommit: '2026-10-26T15:17:40Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-26T13:09:04.639Z'
+  lastSynchronized: '2026-11-17T13:28:11.002Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"706e7bad64285401bfe93da4dbf8638a087282bbe39c01a07a75943a44cef20b"
-    releasesEtag: '"c986126542e0b5d1a30f2419f360b2edf077fb2694e04957eb80442520a691c2"'
+    repoEtag: W/"a0278d0fe0f732fe9ea1df185e20f97ff9cb2fee716f19565bd7cedbd8de1818"
+    releasesEtag: '"a3f289ff4b9de0de548252c38e0c583574e046acd86a3fa9ee49ea46fb04353b"'
 discovery:
   method: 'incremental:topic:playstation-2'
   confidence: 100

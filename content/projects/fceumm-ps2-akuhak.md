@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2021-08-15T08:16:56Z'
   url: 'https://github.com/AKuHAK/Fceumm-PS2/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-26T13:07:55.808Z'
+  lastSynchronized: '2026-11-17T13:26:52.954Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a092a466d1edb949e49bdea9054d9d564ca4d8a696a0a26e47a076c34ba2bf11"
-    releasesEtag: W/"31261d00a80213bff95bc3679291bc8b70a5355ffd667d16600c5da6ad0a14c6"
+    repoEtag: W/"567fafc0eb53daf6afca4e42cd6f30bf7f9d2a623189517c333b6e9ea78ccbc2"
+    releasesEtag: W/"e0dd219eb139754d84de1f72ba93841c7da35d7998b40fb21602e477b357f267"
 discovery:
   method: 'fork-network:ps2homebrew/Fceumm-PS2'
   confidence: 100

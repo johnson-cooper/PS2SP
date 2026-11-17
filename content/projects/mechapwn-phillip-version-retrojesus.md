@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-28T13:32:49.340Z'
+  lastSynchronized: '2026-11-17T13:27:22.805Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f6b06c478a34b6ddc983987a0dfcd74c4f34c02d34a9955a93b810c9cfa7a741"
+    releasesEtag: '"a3f289ff4b9de0de548252c38e0c583574e046acd86a3fa9ee49ea46fb04353b"'
 discovery:
   method: 'fork-network:amxcs/MechaPwn-v2-unofficial'
   confidence: 95
@@ -48,5 +51,4 @@ relationships:
   forkOf: amxcs/MechaPwn-v2-unofficial
   source: MechaResearch/MechaPwn
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
