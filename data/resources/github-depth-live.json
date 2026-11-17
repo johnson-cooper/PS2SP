@@ -76379,6 +76379,58 @@
         ]
       },
       {
+        "name": "fjtrujy/ps2_drivers — branch: feature/universal-boot",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers — branch: fix/generic-hdd-pfs-bootstrap",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers — branch: fix/r3z-ata-exfat-bootstrap",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers — branch: fix/wle-hdd-bootstrap",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap"
+        ]
+      },
+      {
         "name": "fjtrujy/ps2_drivers — branch: main",
         "url": "https://github.com/fjtrujy/ps2_drivers/tree/main",
         "keywords": [
@@ -1298183,6 +1298235,1611 @@
         ]
       },
       {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — cacheio",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/cacheio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "cacheio"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — cacheio/ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/cacheio/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "cacheio/ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — cacheio/iop",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/cacheio/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "cacheio/iop"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/alldrivers_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/alldrivers_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/alldrivers_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/alldrivers_verbose_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/alldrivers_verbose_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/alldrivers_verbose_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/ata_bdm_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/ata_bdm_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/ata_bdm_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/basic_elf_loader",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/basic_elf_loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/basic_elf_loader"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/cacheio_compare_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/cacheio_compare_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/cacheio_compare_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/filesystem_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/filesystem_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/filesystem_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/hdd_boot_smoke",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/hdd_boot_smoke",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/hdd_boot_smoke"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/hdd_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/hdd_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/hdd_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/irximg_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/irximg_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/irximg_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/listdir_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/listdir_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/listdir_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/mtap_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/mtap_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/mtap_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/network_ee_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/network_ee_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/network_ee_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/network_iop_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/network_iop_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/network_iop_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/poweroff_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/poweroff_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/poweroff_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/select_test_ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/select_test_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/select_test_ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/select_test_iop",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/select_test_iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/select_test_iop"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/showiopinfo_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/showiopinfo_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/showiopinfo_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/tcp_burst_client_ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/tcp_burst_client_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/tcp_burst_client_ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/tcp_server_ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/tcp_server_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/tcp_server_ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/udp_echo_server_ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/udp_echo_server_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/udp_echo_server_ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — samples/wav_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/samples/wav_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "samples/wav_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — tools",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "tools"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@feature/universal-boot — tools/irximg_bootstrap",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/feature/universal-boot/tools/irximg_bootstrap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "feature/universal-boot",
+          "tools/irximg_bootstrap"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — cacheio",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/cacheio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "cacheio"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — cacheio/ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/cacheio/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "cacheio/ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — cacheio/iop",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/cacheio/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "cacheio/iop"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/alldrivers_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/alldrivers_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/alldrivers_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/alldrivers_verbose_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/alldrivers_verbose_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/alldrivers_verbose_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/ata_bdm_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/ata_bdm_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/ata_bdm_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/basic_elf_loader",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/basic_elf_loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/basic_elf_loader"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/cacheio_compare_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/cacheio_compare_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/cacheio_compare_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/filesystem_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/filesystem_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/filesystem_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/hdd_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/hdd_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/hdd_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/irximg_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/irximg_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/irximg_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/listdir_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/listdir_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/listdir_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/mtap_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/mtap_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/mtap_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/network_ee_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/network_ee_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/network_ee_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/network_iop_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/network_iop_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/network_iop_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/poweroff_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/poweroff_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/poweroff_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/select_test_ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/select_test_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/select_test_ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/select_test_iop",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/select_test_iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/select_test_iop"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/showiopinfo_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/showiopinfo_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/showiopinfo_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/tcp_burst_client_ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/tcp_burst_client_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/tcp_burst_client_ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/tcp_server_ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/tcp_server_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/tcp_server_ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/udp_echo_server_ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/udp_echo_server_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/udp_echo_server_ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — samples/wav_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/samples/wav_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "samples/wav_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — tools",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "tools"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/generic-hdd-pfs-bootstrap — tools/irximg_bootstrap",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/generic-hdd-pfs-bootstrap/tools/irximg_bootstrap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/generic-hdd-pfs-bootstrap",
+          "tools/irximg_bootstrap"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — cacheio",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/cacheio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "cacheio"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — cacheio/ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/cacheio/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "cacheio/ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — cacheio/iop",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/cacheio/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "cacheio/iop"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/alldrivers_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/alldrivers_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/alldrivers_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/alldrivers_verbose_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/alldrivers_verbose_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/alldrivers_verbose_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/ata_bdm_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/ata_bdm_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/ata_bdm_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/basic_elf_loader",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/basic_elf_loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/basic_elf_loader"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/cacheio_compare_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/cacheio_compare_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/cacheio_compare_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/filesystem_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/filesystem_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/filesystem_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/hdd_boot_smoke",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/hdd_boot_smoke",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/hdd_boot_smoke"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/hdd_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/hdd_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/hdd_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/irximg_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/irximg_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/irximg_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/listdir_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/listdir_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/listdir_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/mtap_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/mtap_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/mtap_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/network_ee_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/network_ee_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/network_ee_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/network_iop_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/network_iop_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/network_iop_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/poweroff_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/poweroff_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/poweroff_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/select_test_ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/select_test_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/select_test_ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/select_test_iop",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/select_test_iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/select_test_iop"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/showiopinfo_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/showiopinfo_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/showiopinfo_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/tcp_burst_client_ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/tcp_burst_client_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/tcp_burst_client_ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/tcp_server_ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/tcp_server_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/tcp_server_ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/udp_echo_server_ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/udp_echo_server_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/udp_echo_server_ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — samples/wav_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/samples/wav_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "samples/wav_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — tools",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "tools"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/r3z-ata-exfat-bootstrap — tools/irximg_bootstrap",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/r3z-ata-exfat-bootstrap/tools/irximg_bootstrap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/r3z-ata-exfat-bootstrap",
+          "tools/irximg_bootstrap"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — cacheio",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/cacheio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "cacheio"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — cacheio/ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/cacheio/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "cacheio/ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — cacheio/iop",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/cacheio/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "cacheio/iop"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/alldrivers_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/alldrivers_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/alldrivers_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/alldrivers_verbose_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/alldrivers_verbose_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/alldrivers_verbose_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/ata_bdm_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/ata_bdm_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/ata_bdm_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/basic_elf_loader",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/basic_elf_loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/basic_elf_loader"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/cacheio_compare_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/cacheio_compare_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/cacheio_compare_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/filesystem_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/filesystem_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/filesystem_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/hdd_boot_smoke",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/hdd_boot_smoke",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/hdd_boot_smoke"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/hdd_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/hdd_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/hdd_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/irximg_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/irximg_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/irximg_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/listdir_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/listdir_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/listdir_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/mtap_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/mtap_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/mtap_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/network_ee_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/network_ee_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/network_ee_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/network_iop_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/network_iop_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/network_iop_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/poweroff_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/poweroff_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/poweroff_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/select_test_ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/select_test_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/select_test_ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/select_test_iop",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/select_test_iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/select_test_iop"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/showiopinfo_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/showiopinfo_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/showiopinfo_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/tcp_burst_client_ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/tcp_burst_client_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/tcp_burst_client_ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/tcp_server_ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/tcp_server_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/tcp_server_ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/udp_echo_server_ee",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/udp_echo_server_ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/udp_echo_server_ee"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — samples/wav_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/samples/wav_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "samples/wav_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — tools",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "tools"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@fix/wle-hdd-bootstrap — tools/irximg_bootstrap",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/fix/wle-hdd-bootstrap/tools/irximg_bootstrap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "fix/wle-hdd-bootstrap",
+          "tools/irximg_bootstrap"
+        ]
+      },
+      {
         "name": "fjtrujy/ps2_drivers@main — samples",
         "url": "https://github.com/fjtrujy/ps2_drivers/tree/main/samples",
         "keywords": [
@@ -1298573,6 +1300230,21 @@
         ]
       },
       {
+        "name": "fjtrujy/ps2_drivers@njemu — samples/ata_bdm_sample",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/njemu/samples/ata_bdm_sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "njemu",
+          "samples/ata_bdm_sample"
+        ]
+      },
+      {
         "name": "fjtrujy/ps2_drivers@njemu — samples/basic_elf_loader",
         "url": "https://github.com/fjtrujy/ps2_drivers/tree/njemu/samples/basic_elf_loader",
         "keywords": [
@@ -1298615,6 +1300287,21 @@
           "fjtrujy/ps2_drivers",
           "njemu",
           "samples/filesystem_sample"
+        ]
+      },
+      {
+        "name": "fjtrujy/ps2_drivers@njemu — samples/hdd_boot_smoke",
+        "url": "https://github.com/fjtrujy/ps2_drivers/tree/njemu/samples/hdd_boot_smoke",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "fjtrujy/ps2_drivers",
+          "njemu",
+          "samples/hdd_boot_smoke"
         ]
       },
       {
