@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2024-12-19T03:36:33Z'
   url: 'https://github.com/KrahJohlito/ps2dev/releases/tag/2023-test'
 activity:
-  lastSynchronized: '2026-11-14T03:17:00.962Z'
+  lastSynchronized: '2026-11-17T03:56:23.607Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ef6d26d65446ac81772dfa2a0c0881c5e552953fabd18feef97ef8b74072fb23"
-    releasesEtag: W/"63fe0582370113beead9fa46d45672299b9f135f0537a5695a27a80df9a79d44"
+    repoEtag: W/"0985bf72b7bb171bb4c649f486ea505c24b7e090ce96d627a5beafc7294224a5"
+    releasesEtag: W/"c99ebd2dcad694ba739373b8c9544efa1527834ef2fe6cd80500777f65c58dd8"
 discovery:
   method: 'fork-network:ps2dev/ps2dev'
   confidence: 100

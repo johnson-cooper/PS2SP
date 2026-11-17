@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/Mansive/ARMSX2/releases/tag/come.nanodata.armsx2-nightly-1.0.8-20260530-0037
 activity:
-  lastSynchronized: '2026-11-14T03:15:31.995Z'
+  lastSynchronized: '2026-11-17T03:54:34.681Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b6a08ca6feec17ecaaf2415b358a7962d0213efd09607dae83c8f6e96591f947"
-    releasesEtag: W/"608a7812ae46862243ef1ce0aa94b8a532a0573e646b8a3f576e784a8af82d99"
+    repoEtag: W/"1baafdc5e73e5c5d68ed7929a377acc4bb4cdeef1421db8aece851f71cb81ec8"
+    releasesEtag: W/"824593954d3c1e14a30e50dbd8b11319ad49d8c537c2efaabfcf818326426bbd"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 95

@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-14T03:17:04.278Z'
+  lastSynchronized: '2026-11-17T03:56:27.858Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bf4542b07f04eee10192212963fb0661ae7b02fc83c60ca0d1d7cfe066e536d3"
-    releasesEtag: '"da75f3c1438a29a4ff9b17b9d2405560409358ebfa56c09e1268291275d476c8"'
+    repoEtag: W/"0f9ad1efc5bfd47c594c8b9f7a4e3066b87d861f3299b2d14d394ffb1d3ba5d8"
+    releasesEtag: '"3f89c379fb58370027d6c5f33107efe5538d1fbb8aedbdc644262c86a3929b77"'
 discovery:
   method: 'fork-network:ps2homebrew/PS2HDDTester'
   confidence: 100

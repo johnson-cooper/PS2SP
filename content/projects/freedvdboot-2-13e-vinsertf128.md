@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-09-07T18:26:06Z'
   url: 'https://github.com/VINSERTF128/FreeDVDBoot-2.13E/releases/tag/1.1'
 activity:
-  lastSynchronized: '2026-11-14T03:15:47.470Z'
+  lastSynchronized: '2026-11-17T03:54:51.410Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2764fd06d740eed91e69406e05cde87fdb3c012788647d06ada21d5edcd1406a"
-    releasesEtag: W/"5123bff4f6e16d1eac368ecc058bc15d0c96e665e75ca3237514decd8bcbe83c"
+    repoEtag: W/"b074cb2c5fa98665567990f96952fe31a0a41341230da34d48c9e21e412ed50b"
+    releasesEtag: W/"3d57eee4a024a39bd6bda764cd9642c9e9d68fd1950f40779458fac1c3bff150"
 discovery:
   method: 'fork-network:CTurt/FreeDVDBoot'
   confidence: 100

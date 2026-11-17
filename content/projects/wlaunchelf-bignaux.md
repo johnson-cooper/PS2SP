@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2021-04-07T21:40:01Z'
   url: 'https://github.com/bignaux/wLaunchELF/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-14T03:17:41.129Z'
+  lastSynchronized: '2026-11-17T03:57:10.701Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"40ada57dfbfd99ea1bc7e7368146a15f12d6763a5395b9a1df463e769549f485"
-    releasesEtag: W/"7a0660213713b355d3d18e797e36259c13522abc71000948d3613ae81f435f3a"
+    repoEtag: W/"3f25834017decd75064e1e728d14a5002b2877ef05900fbc6507a5b7c7a219a5"
+    releasesEtag: W/"d315a2b062c7daca8ba92581829bf7cf186c3b96fd5d236e85b37e3ec40ef6f9"
 discovery:
   method: 'fork-network:ps2homebrew/wLaunchELF'
   confidence: 100

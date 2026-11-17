@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-14T03:16:09.898Z'
+  lastSynchronized: '2026-11-17T03:55:19.708Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d3ccd70b733f2a6a52e4dd826974cabb1aaa148e155f2059a45cef8025e823f7"
-    releasesEtag: '"da75f3c1438a29a4ff9b17b9d2405560409358ebfa56c09e1268291275d476c8"'
+    repoEtag: W/"7514c87b4b693be7bdd74a26c2a5e2b1dae3acc9a08b5ea550600affcee8c360"
+    releasesEtag: '"3f89c379fb58370027d6c5f33107efe5538d1fbb8aedbdc644262c86a3929b77"'
 discovery:
   method: 'fork-network:N4gtan/mkps2iso'
   confidence: 100
