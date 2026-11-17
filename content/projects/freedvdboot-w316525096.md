@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-13T22:38:25.730Z'
+  lastSynchronized: '2026-11-17T22:24:46.912Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"99b279695834a21da252ebb453682d39143114d32a5ac6d31e693824f8800c94"
-    releasesEtag: '"d9a10ef623a84975a765c8ac5a785f6156f114902cd0f1aa04572705874ed314"'
+    repoEtag: W/"6b1aa23b7d88a5e5643f689dc6520471f9e562369975f0f77789128c5036eef6"
+    releasesEtag: '"fc520538c967f54c4a3d6837852406fd509eec0e276045baa93d6e9d4ba93ace"'
 discovery:
   method: 'fork-network:CTurt/FreeDVDBoot'
   confidence: 100

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-13T22:38:26.307Z'
+  lastSynchronized: '2026-11-17T22:24:47.513Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"648514805205ece24533dffa7ccc83a029b69848ef2a834be55010ae9667b48c"
-    releasesEtag: '"d9a10ef623a84975a765c8ac5a785f6156f114902cd0f1aa04572705874ed314"'
+    repoEtag: W/"a356babf9f4dd0e52bfa264d2c814eae80bffb28ca8c07526d6b95aac7997a60"
+    releasesEtag: '"fc520538c967f54c4a3d6837852406fd509eec0e276045baa93d6e9d4ba93ace"'
 discovery:
   method: 'fork-network:projectZEUS01010101/FreeMcBoot_1.8_MOD'
   confidence: 95

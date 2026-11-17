@@ -21,7 +21,7 @@ repository:
   defaultBranch: master
   stars: 1
   forks: 0
-  lastCommit: '2026-11-13T20:14:47Z'
+  lastCommit: '2026-11-14T18:40:39Z'
 latestRelease:
   tag: Version_1.0_x64
   name: PS2_HDD_CREATOR_v1.0_Win64
@@ -29,9 +29,12 @@ latestRelease:
   url: >-
     https://github.com/R3BU1LD/PS2-HDD-CREATOR-2TB-Support/releases/tag/Version_1.0_x64
 activity:
-  lastSynchronized: '2026-11-13T23:55:51.512Z'
+  lastSynchronized: '2026-11-17T22:26:12.117Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"cd8c83690916df00d6f8968099a09abef379c6e9180ef6bb369faed9ba69d432"
+    releasesEtag: W/"378502ef15a0685f87bb69e85061f9e636009c0b40dacdfe4e26941e2de1435d"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -45,5 +48,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

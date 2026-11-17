@@ -22,20 +22,20 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-11-09T09:59:35Z'
+  lastCommit: '2026-11-17T05:03:53Z'
 latestRelease:
-  tag: v1.3.9-amiga2
-  name: ClassiCube 1.3.9 for AmigaOS 3.x
-  publishedAt: '2026-11-09T09:59:35Z'
-  url: 'https://github.com/DalsinAI/amigaclassicube/releases/tag/v1.3.9-amiga2'
+  tag: v1.3.9-amigaos3-rc1
+  name: 'ClassiCube 1.3.9-amigaos3 for AmigaOS 3.x, RC1'
+  publishedAt: '2026-11-17T03:10:05Z'
+  url: 'https://github.com/DalsinAI/amigaclassicube/releases/tag/v1.3.9-amigaos3-rc1'
 activity:
   lastChecked: '2026-11-06T00:33:31.672Z'
-  lastSynchronized: '2026-11-13T22:37:49.347Z'
+  lastSynchronized: '2026-11-17T22:24:07.548Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3388191a9bfc19d825504ad9f6cd9c9057ed1bf930a7b3c6498fd882753306e3"
-    releasesEtag: W/"ed20faa68bb548195a15b4e1dc369d2ace7342d45931276f34d784b5c95eab37"
+    repoEtag: W/"48764a17e1402ce8b56304f076d62e9cb8e7f74baabfcbc46e100858c3282043"
+    releasesEtag: W/"d4fdb2785646006317ff227946b086fae652b025726e77d0f570a757ca20ad3a"
 discovery:
   method: 'pending-promotion:incremental:"ps2 port" in:name,description,readme'
   confidence: 75

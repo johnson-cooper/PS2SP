@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2026-10-21T12:25:50Z'
   url: 'https://github.com/anmolverma5/urban-reign-wasm/releases/tag/v0.1.0-alpha.1'
 activity:
-  lastSynchronized: '2026-11-13T22:40:39.782Z'
+  lastSynchronized: '2026-11-17T22:27:08.873Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9b264e99869b68611568c52b80ad8f1963c00c5dd33952b4846e46b045833c8a"
-    releasesEtag: W/"1e73305eb12ad4b302e2a45709e5646bae87ec62b2d575d446f553331eac54b8"
+    repoEtag: W/"135b3d5dd41639d05b1b219d710432ecff0b699fd0278380dd53d7002d61683d"
+    releasesEtag: W/"a39d4e75f2821ff513b2adeeaadf6080ea5377027fa74268c45cecdbab3015e9"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

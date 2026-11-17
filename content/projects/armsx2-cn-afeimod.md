@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-06-26T05:03:09Z'
   url: 'https://github.com/afeimod/ARMSX2-CN/releases/tag/Refresh-UI-CN-MOD1'
 activity:
-  lastSynchronized: '2026-11-13T22:37:52.587Z'
+  lastSynchronized: '2026-11-17T22:24:10.435Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2b5bc666623572342f5c30617d8094cbc4c4bf48c9baac8870cc37e42463b89a"
-    releasesEtag: W/"db0c5b8c2dd4240decbc5702a97dd2b4e15861b9187be21769165752a7c61542"
+    repoEtag: W/"1add73fddde3acb67ac803ecd32d52afc48bde7e20b487b1f076a6c3d10b3ae4"
+    releasesEtag: W/"20adda2ba76e514bde7c3de653c83c45a65e6c74a20d0d5d5eda8ea398a42cb7"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

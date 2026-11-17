@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-11-07T15:39:58Z'
   url: 'https://github.com/enricocubas-wq/ARMSX2-NX/releases/tag/faxina-latest'
 activity:
-  lastSynchronized: '2026-11-13T22:37:57.250Z'
+  lastSynchronized: '2026-11-17T22:24:16.097Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"996c37ef0202e69aff38c78c564851ad94bf9474bc51b8c0a1370aa4be76e1d2"
-    releasesEtag: W/"4789781dc9e670f04d290ec4a19c01517e95ee63d39a797ffce5390e3a49352c"
+    repoEtag: W/"b767c6d66a872d29feb17e714032eae8624dc5e103dd88197dcada0bbe833945"
+    releasesEtag: W/"489d7167300c8d442d502538e313a042ef695865af626ea960d3f52044d4f0d9"
 discovery:
   method: 'fork-network:PalindromicBreadLoaf/ARMSX2-NX'
   confidence: 95

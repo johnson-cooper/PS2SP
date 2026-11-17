@@ -19,23 +19,26 @@ license: null
 homepage: null
 source:
   provider: github
-  repository: RDU800/malisx-pc
+  repository: RDU800/Ani-driver
   repositoryId: '1457406040'
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
-  lastCommit: '2026-11-14T06:04:43Z'
+  lastCommit: '2026-11-17T01:23:58Z'
 latestRelease:
-  tag: build-3
-  name: malisx-pc build 3
-  publishedAt: '2026-11-14T06:04:43Z'
-  url: 'https://github.com/RDU800/malisx-pc/releases/tag/build-3'
+  tag: ani-driver-build-4-run31
+  name: ani-driver build 4
+  publishedAt: '2026-11-17T01:23:58Z'
+  url: 'https://github.com/RDU800/Ani-driver/releases/tag/ani-driver-build-4-run31'
 activity:
-  lastSynchronized: '2026-11-14T07:02:10.381Z'
+  lastSynchronized: '2026-11-17T22:25:06.853Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"eb548e4a1ccc6298fd85965348ffbd7aa6c0117514c83a81e9d10bc8a2ae67c9"
+    releasesEtag: W/"df0443dcc3bb15f2cc1ebe293de421e2aeb6a0c9ba44e962875c82507dd514f8"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -52,5 +55,4 @@ relationships:
   forkOf: bmdhacks/malisx2
   source: bmdhacks/malisx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

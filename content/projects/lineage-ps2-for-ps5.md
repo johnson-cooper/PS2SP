@@ -17,7 +17,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 4
   forks: 0
   lastCommit: '2026-11-17T01:53:51Z'
 latestRelease:
@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-11-17T00:47:41Z'
   url: 'https://github.com/lineage-shell/lineage-ps2-for-ps5/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-11-17T13:53:37.544Z'
+  lastSynchronized: '2026-11-17T22:25:05.808Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d6e888b7f051f23c2265aea4cef5145563b11c443469b3e6a9124cb22fc96dc0"
+    releasesEtag: W/"25ca71af7920423c34428990b201b02f519e5d88f3c1c526070e5e41fc72e3b4"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -43,5 +46,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-11-11T01:36:17Z'
   url: 'https://github.com/AldySan/USBUtils_src/releases/tag/v0.0.11'
 activity:
-  lastSynchronized: '2026-11-13T22:40:40.415Z'
+  lastSynchronized: '2026-11-17T22:27:09.479Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"313d870b21dc64f263685099577489be79a1905af41289ee890c0d953f3a6ea0"
-    releasesEtag: W/"59351b3e01f6a290a512f1b59f15692f55658224abf9d3e9d36b638e8b440cbd"
+    repoEtag: W/"ae158da8631b7cb5a853870b4e67ec61a82a2657f39740b3ef43674c953029b5"
+    releasesEtag: W/"9052c3952440367a4f4e48227e5d803c4116766a6bda72ac6f2ab282d303a742"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

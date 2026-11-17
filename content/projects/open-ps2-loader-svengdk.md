@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2024-05-16T14:12:38Z'
   url: 'https://github.com/SvenGDK/Open-PS2-Loader/releases/tag/v1-MOD-2024-05-16'
 activity:
-  lastSynchronized: '2026-11-13T22:38:56.571Z'
+  lastSynchronized: '2026-11-17T22:25:22.511Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"aa1c5f85f7e203867af29c854e990721b0886bab7df49b9333931a66105260cf"
-    releasesEtag: W/"3953416a1400f8a0929b397cb07d45b84d44fee084291f136adef0e21239d810"
+    repoEtag: W/"a48ab4a8fa7e6af778249c6e00ad52f95f1d3ebfec9fe6113446c3d5de3f67e5"
+    releasesEtag: W/"2ec68338a6200e2d8a8ed8422f8b6e858aa2f02ce8f1c2963e0d79c2a7803bac"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

@@ -18,18 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 0
+  stars: 1
   forks: 0
-  lastCommit: '2026-11-14T18:37:19Z'
+  lastCommit: '2026-11-14T21:48:53Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: panvk-roaa-test1
+  name: PanVK ROAA auto-detect test 1
+  publishedAt: '2026-11-14T21:49:07Z'
+  url: 'https://github.com/faux123/ARMSX2/releases/tag/panvk-roaa-test1'
 activity:
-  lastSynchronized: '2026-11-14T19:29:01.311Z'
+  lastSynchronized: '2026-11-17T22:24:13.123Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f7a72a8113d74156b25dd1c42e5e61f87b69c66eec2aab46b88b9a883f0f92ba"
+    releasesEtag: W/"8d18659184b4d084fd34fd3fd5ac7c0b8b2096617e9ed9ce6d39a8a101ebbade"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: ARMSX2/ARMSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

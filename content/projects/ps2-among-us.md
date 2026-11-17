@@ -19,19 +19,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-13T20:59:25Z'
+  lastCommit: '2026-11-14T01:27:55Z'
 latestRelease:
   tag: Amongusps2
   name: '#Among Us Port Demo ps2'
   publishedAt: '2026-11-05T20:16:40Z'
   url: 'https://github.com/mrgamer456-ciber/Ps2-among-us/releases/tag/Amongusps2'
 activity:
-  lastSynchronized: '2026-11-13T22:39:34.938Z'
+  lastSynchronized: '2026-11-17T22:26:01.483Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6d873095a75d933eef85d7173f237845aa96efc81aae8d050917dae001ca10c0"
-    releasesEtag: W/"280123e735b4a7626d682b518a90a22dd4a01433d65054f77a93ef5e905e272a"
+    repoEtag: W/"ba7bfa48342c50c3d1884f31385f4246ae24c01d91175cdaf3484008ab176d2f"
+    releasesEtag: W/"c866b0fe1f7e5cd5c6a14b48d8a06e2f652d11b633fdfddf941f85d96add73c3"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

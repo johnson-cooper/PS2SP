@@ -26,20 +26,20 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-11-13T17:31:14Z'
+  lastCommit: '2026-11-17T11:53:56Z'
 latestRelease:
-  tag: v0.1.10
-  name: HSFA v0.1.10
-  publishedAt: '2026-11-13T17:42:18Z'
-  url: 'https://github.com/Rickow/HSFA/releases/tag/v0.1.10'
+  tag: v0.1.12
+  name: HSFA v0.1.12
+  publishedAt: '2026-11-17T12:04:27Z'
+  url: 'https://github.com/Rickow/HSFA/releases/tag/v0.1.12'
 activity:
   lastChecked: '2026-11-01T23:54:36.997Z'
-  lastSynchronized: '2026-11-13T22:38:33.307Z'
+  lastSynchronized: '2026-11-17T22:24:54.616Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f87111e66eb54635fc75c134a0c73729406c3446bb6a815e91defd3fd3200aec"
-    releasesEtag: W/"4ed1df24fe3c6214047fb4a255014c6115eef77f759adbf9002b103e77f0667f"
+    repoEtag: W/"ac3dca666920c50cfa6e75368ed9eb79fb8fe5c4b11b0f266c8cbb63a119be4a"
+    releasesEtag: W/"c0de3fece8b6dca37b31828d486fd1742db160345aa3e89067c6cad1ca29204a"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

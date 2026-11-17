@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2026-11-01T22:51:48Z'
   url: 'https://github.com/rickgaiser/ps2link/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-13T22:39:59.401Z'
+  lastSynchronized: '2026-11-17T22:26:28.314Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e2c947c55d08524748f6de4e60bc8cc80e00787e9f80b26ab0c6cf567b9e6f12"
-    releasesEtag: W/"308377dd5275a37662372c804c730d1d3f3330a8151cf02dac746a25db992fe6"
+    repoEtag: W/"04cc7bcb6c2c7e8e0b8ec316acc7f7b3aaf1b21a4883ad44cc60fa16f1d6839c"
+    releasesEtag: W/"d25e8e72aef53157d19dbbd2509c98352af4750a6f25f21e6be3238676b1b123"
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100

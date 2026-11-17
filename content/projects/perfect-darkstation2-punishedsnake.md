@@ -20,19 +20,20 @@ repository:
   defaultBranch: ps2
   stars: 0
   forks: 0
-  lastCommit: '2026-11-13T22:09:24Z'
+  lastCommit: '2026-11-15T21:43:27Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: tools-spu2bank-v1
+  name: SPU2 sound bank tool (tools-spu2bank-v1)
+  publishedAt: '2026-11-14T22:42:13Z'
+  url: >-
+    https://github.com/PunishedSnake/perfect-darkstation2/releases/tag/tools-spu2bank-v1
 activity:
-  lastSynchronized: '2026-11-13T22:39:22.924Z'
+  lastSynchronized: '2026-11-17T22:25:48.574Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"92541127067b747e4a8f1c77e9f440162687a525f8fd5b88ae965188dfa8be7a"
-    releasesEtag: '"d9a10ef623a84975a765c8ac5a785f6156f114902cd0f1aa04572705874ed314"'
+    repoEtag: W/"b19dff65437e4dd8a701a42b634a97314188860a47a3f16cad463304a801c9b3"
+    releasesEtag: W/"e8d82e5000d8d97b5d32c9ce8aa8c9161ea5c401d9021a0ec1abf7c13761786d"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

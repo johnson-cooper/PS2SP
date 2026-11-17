@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-08T10:12:25Z'
   url: 'https://github.com/pareidolico/pcsx2-win8/releases/tag/win81-2026.10.08'
 activity:
-  lastSynchronized: '2026-11-13T22:39:21.788Z'
+  lastSynchronized: '2026-11-17T22:25:47.338Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d21e594f3ee34c8cb0947f88b14af5b3d656cb117e0d5c7d0f3250a8658ca9ce"
-    releasesEtag: W/"189a6769209517d00388a51985b8df5e4e7ac43e2f08a59fed9c0a00b5c41f7c"
+    repoEtag: W/"4ebc3f497a865632a939e00768970604c67385e05a7cac87edc010159bd0ba9d"
+    releasesEtag: W/"cf1d50454444a2ff86c574d633b6c2d8a6b3f493303988b3e066d3c2f2f93fc2"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
