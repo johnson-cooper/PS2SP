@@ -1,0 +1,16 @@
+{
+  "repository": "Tzeentchnet/SDF_Macross",
+  "repositoryId": "1459840580",
+  "url": "https://github.com/Tzeentchnet/SDF_Macross",
+  "description": "Vulkan PC static recompilation research for Chou Jikuu Yousai Macross (PS2)",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-17T13:53:37.544Z",
+  "checkedAt": "2026-11-17T13:53:37.544Z"
+}
