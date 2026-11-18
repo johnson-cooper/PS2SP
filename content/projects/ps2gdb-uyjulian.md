@@ -24,19 +24,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2024-03-31T00:00:04Z'
+  lastCommit: '2026-11-17T02:22:15Z'
 latestRelease:
   tag: latest
   name: Latest development build
-  publishedAt: '2024-03-31T00:00:05Z'
+  publishedAt: '2026-11-17T02:22:17Z'
   url: 'https://github.com/uyjulian/ps2gdb/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-22T04:47:29.744Z'
+  lastSynchronized: '2026-11-18T04:23:17.730Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e11ddef3f6b29b70a710ca9530b04f510d210ef2f3741fa251d2100b8ec9d177"
-    releasesEtag: W/"3740ebdb182c2711372f8c27c4569f25b106580f8eb5e6402a8a917da7faeb8f"
+    repoEtag: W/"616eb3be64a5643835fe747d5de2320bd22a30ded59626ec2d7c5c8dd26ba7aa"
+    releasesEtag: W/"3c3ec3d22d6adb4d54cc7f25c8be49cc4860826748919f8baf2b049c755f0689"
 discovery:
   method: 'fork-network:ps2dev/ps2gdb'
   confidence: 100

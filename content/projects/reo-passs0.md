@@ -26,16 +26,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-13T09:24:54Z'
+  lastCommit: '2026-11-14T00:58:45Z'
 latestRelease:
-  tag: v1.0.20-mac.1
-  name: 'RE: Outbreak — macOS Native App Compiler (v1.0.20-mac.1)'
-  publishedAt: '2026-11-13T09:24:55Z'
-  url: 'https://github.com/passs0/reo/releases/tag/v1.0.20-mac.1'
+  tag: v1.0.20-mac.2
+  name: 'RE: Outbreak — macOS Native App Compiler (v1.0.20-mac.2)'
+  publishedAt: '2026-11-14T00:58:45Z'
+  url: 'https://github.com/passs0/reo/releases/tag/v1.0.20-mac.2'
 activity:
-  lastSynchronized: '2026-11-13T11:35:27.480Z'
+  lastSynchronized: '2026-11-18T04:23:38.569Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"770e61be0f924431caa91fd96ea7440812751a310cfbd7baa5a037b90f3eb773"
+    releasesEtag: W/"55178538e5c8200f4dfb5e70dfaf21a966cf088ad1df14ec99504b4426813858"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -53,5 +56,4 @@ relationships:
   forkOf: Ninjacornix/reo
   source: sp00nznet/reo
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

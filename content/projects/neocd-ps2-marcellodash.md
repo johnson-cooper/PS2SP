@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T04:46:41.161Z'
+  lastSynchronized: '2026-11-18T04:22:18.569Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d31c940b0bd6034e106b84db18d34b984e0f30557d61f2d7ec2987dbf3e79c05"
-    releasesEtag: '"deefb0b6baa7aad8d6bdfa3b27a3918a956a353607ae307757d8194d5608b9cd"'
+    repoEtag: W/"b86396eb61e7b6b9cc284730bb7690c7cbd0de440f067c0ca78c9e5456bf9643"
+    releasesEtag: '"c3e8f26b776617a9ce91a8855c669f4e52a2d8010737f4308ca803aaa6579177"'
 discovery:
   method: 'fork-network:obiot/NeoCD-PS2'
   confidence: 100

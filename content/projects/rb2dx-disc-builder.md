@@ -16,26 +16,26 @@ homepage: null
 source:
   provider: github
   repository: PhayMo/rb2dx-disc-builder
-  repositoryId: '1367671277'
+  repositoryId: '1453304286'
 repository:
   archived: false
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-09-23T00:27:45Z'
+  lastCommit: '2026-11-10T23:29:06Z'
 latestRelease:
-  tag: v1.2
-  name: RB2DX Disc Builder 1.2
-  publishedAt: '2026-09-12T20:40:43Z'
-  url: 'https://github.com/PhayMo/rb2dx-disc-builder/releases/tag/v1.2'
+  tag: v2.0
+  name: 2.0 release
+  publishedAt: '2026-11-10T23:29:06Z'
+  url: 'https://github.com/PhayMo/rb2dx-disc-builder/releases/tag/v2.0'
 activity:
   lastChecked: '2026-09-29T00:28:57.326Z'
-  lastSynchronized: '2026-10-22T04:47:48.988Z'
+  lastSynchronized: '2026-11-18T04:23:37.492Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f7dff87f842a55e10d67466a98b875f5d927fe95608aaa63ecde1109f8c5dc3b"
-    releasesEtag: W/"4b60bc2a9b2dea9bad136ae4d1a094ae7adf1efc207376840d4570bd1aa0c644"
+    repoEtag: W/"ebb28267c5e4defa9aed6140c09525b6720d48f87e75835f5a01e35638555e36"
+    releasesEtag: W/"b68ab7b6726cad8066f69f5ba0b0f210080088029cf90ac6d35f61509960cddf"
 discovery:
   method: github-search
   confidence: 100

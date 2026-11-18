@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T04:47:26.340Z'
+  lastSynchronized: '2026-11-18T04:23:13.271Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"079c11078e358dd82cde932420ae5e0fb6d8f57e6589139694c21800bdff2fa7"
-    releasesEtag: '"deefb0b6baa7aad8d6bdfa3b27a3918a956a353607ae307757d8194d5608b9cd"'
+    repoEtag: W/"c42b74c4af524c7222bb1e636fc61b0db96e4f78e532707a46c1e929793685eb"
+    releasesEtag: '"c3e8f26b776617a9ce91a8855c669f4e52a2d8010737f4308ca803aaa6579177"'
 discovery:
   method: 'fork-network:hkmodd/ps2-recomp-Agent-SKILL'
   confidence: 100

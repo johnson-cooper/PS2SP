@@ -25,16 +25,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-27T19:57:54Z'
+  lastCommit: '2026-11-05T15:09:52Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-27T21:29:01.337Z'
+  lastSynchronized: '2026-11-18T04:21:59.581Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"498ccc4a92145783f592e4a1857665210f4cfc363d56404fb304f4a5801ca5e7"
+    releasesEtag: '"c3e8f26b776617a9ce91a8855c669f4e52a2d8010737f4308ca803aaa6579177"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: GranasSabre/Grandia3-PC
   source: GranasSabre/Grandia3-PC
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

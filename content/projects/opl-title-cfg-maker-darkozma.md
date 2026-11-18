@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T04:46:54.324Z'
+  lastSynchronized: '2026-11-18T04:22:34.276Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c72b92cfe8e74fea8ef966dc5ff2fdff1eb449157f1584409f37b364edb4b809"
-    releasesEtag: '"deefb0b6baa7aad8d6bdfa3b27a3918a956a353607ae307757d8194d5608b9cd"'
+    repoEtag: W/"28ce040ab55b6f3ee7a6c72b7dd822124b0016243c3d6226fb8862e53b8965e7"
+    releasesEtag: '"c3e8f26b776617a9ce91a8855c669f4e52a2d8010737f4308ca803aaa6579177"'
 discovery:
   method: 'fork-network:israpps/opl-Title.cfg-maker'
   confidence: 95

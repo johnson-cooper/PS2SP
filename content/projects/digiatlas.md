@@ -22,16 +22,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-08T17:58:42Z'
+  lastCommit: '2026-11-13T21:27:00Z'
 latestRelease:
-  tag: v0.5.0
-  name: DigiAtlas v0.5.0
-  publishedAt: '2026-11-08T00:22:44Z'
-  url: 'https://github.com/crashbashash/DigiAtlas/releases/tag/v0.5.0'
+  tag: v0.5.2
+  name: DigiAtlas v0.5.2
+  publishedAt: '2026-11-13T21:34:42Z'
+  url: 'https://github.com/crashbashash/DigiAtlas/releases/tag/v0.5.2'
 activity:
-  lastSynchronized: '2026-11-08T20:45:58.704Z'
+  lastSynchronized: '2026-11-18T04:21:48.711Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2bef6e7b0bb990a417f49d662130dbb3b89d60feb185df0a5bf0f15d0415cb65"
+    releasesEtag: W/"7015732a932085f51645f1d091c4ec59b045cc28acb48a13f47f73da856ae63a"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -45,5 +48,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

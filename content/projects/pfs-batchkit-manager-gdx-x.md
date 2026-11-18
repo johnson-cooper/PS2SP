@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 268
-  forks: 21
-  lastCommit: '2026-10-16T18:37:19Z'
+  stars: 267
+  forks: 22
+  lastCommit: '2026-11-03T22:45:36Z'
 latestRelease:
   tag: 1.2.0
   name: PFS BatchKit Manager v1.2.0
   publishedAt: '2025-01-25T15:46:07Z'
   url: 'https://github.com/GDX-X/PFS-BatchKit-Manager/releases/tag/1.2.0'
 activity:
-  lastSynchronized: '2026-10-22T04:47:13.210Z'
+  lastSynchronized: '2026-11-18T04:22:56.437Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e0341c9e5903adff5429d2179e509cd7c2a360bf2a2be17e26ae9800005e8d51"
-    releasesEtag: W/"103d38404facc6e8b839f934f07b13681c26c6d016092fef768b75304dc9b2c8"
+    repoEtag: W/"045effe55c00a9bcdb21650a443d59a23b2ba82598ae79512ca0e6b853166ec8"
+    releasesEtag: W/"1c85b87ce715aa30a487f9511b7be44da312680f3011d3372d58e07d0407de40"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

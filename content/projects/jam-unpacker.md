@@ -21,19 +21,23 @@ source:
   url: 'https://github.com/HunterStanton/JAM-Unpacker'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: master
+  stars: 3
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-03T18:17:10Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: latest
+  name: Latest build
+  publishedAt: '2026-11-03T18:17:10Z'
+  url: 'https://github.com/HunterStanton/JAM-Unpacker/releases/tag/latest'
 activity:
   lastChecked: '2026-11-03T21:16:47.802Z'
+  lastSynchronized: '2026-11-18T04:22:08.371Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6f7bd531f39c18b5e5d64d724dc95e44e0597caff21f94813c9574dd6f991a9b"
+    releasesEtag: W/"623bd60f6150efc44d9c7546c58d598c5737cc2473cc2993f236dab02b16b234"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 90
@@ -46,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T04:47:24.036Z'
+  lastSynchronized: '2026-11-18T04:23:10.609Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e2b8676311b8258cb1d2e24285d16748be0b9ad0075b50f9ec585c59e184890c"
-    releasesEtag: '"deefb0b6baa7aad8d6bdfa3b27a3918a956a353607ae307757d8194d5608b9cd"'
+    repoEtag: W/"cf4aa324a3145014068be6a3e6ee9eab739c1a7f2dcef1da786c02049e1b100a"
+    releasesEtag: '"c3e8f26b776617a9ce91a8855c669f4e52a2d8010737f4308ca803aaa6579177"'
 discovery:
   method: 'fork-network:Zero1UP/PS2-Memory-Card-Formatter'
   confidence: 100

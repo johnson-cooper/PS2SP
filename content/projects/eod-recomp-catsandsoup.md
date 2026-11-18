@@ -21,21 +21,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 7
   forks: 0
-  lastCommit: '2026-10-20T13:07:03Z'
+  lastCommit: '2026-11-17T11:06:07Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.0
+  name: Eve of Destruction Remaster 1.0
+  publishedAt: '2026-11-08T12:28:29Z'
+  url: 'https://github.com/catsandsoup/eod-recomp/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-10-22T04:46:17.595Z'
+  lastSynchronized: '2026-11-18T04:21:53.394Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cb55d8a82db133e827bb7ae44c866b3e26d77da886901797c1579ef6a333ddbd"
-    releasesEtag: '"deefb0b6baa7aad8d6bdfa3b27a3918a956a353607ae307757d8194d5608b9cd"'
+    repoEtag: W/"7b48d8a1ace839da141e970cddd4a486c5fafc980322b508dccf46c5be540f31"
+    releasesEtag: W/"87f365625073d71723f3215c52649f0358467a90021bbaee08b40566383bb169"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

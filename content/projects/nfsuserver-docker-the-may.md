@@ -35,9 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-31T13:53:53.172Z'
+  lastSynchronized: '2026-11-18T04:22:21.611Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"808ba20ba8cff6a3f9bef0d9bbdd84dd369bb8182e602ae4e4391797ab1e975c"
+    releasesEtag: '"c3e8f26b776617a9ce91a8855c669f4e52a2d8010737f4308ca803aaa6579177"'
 discovery:
   method: 'fork-network:HarpyWar/nfsuserver'
   confidence: 95
@@ -52,5 +55,4 @@ relationships:
   forkOf: HarpyWar/nfsuserver
   source: HarpyWar/nfsuserver
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

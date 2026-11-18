@@ -24,22 +24,22 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 0
+  stars: 1
   forks: 0
-  lastCommit: '2026-10-16T20:06:23Z'
+  lastCommit: '2026-10-22T13:19:49Z'
 latestRelease:
-  tag: v0.4.1-android.2
-  name: ProjectCane Android 0.4.1-android.2
-  publishedAt: '2026-10-16T17:42:16Z'
+  tag: v0.5.0-android.1
+  name: ProjectCane Android 0.5.0-android.1
+  publishedAt: '2026-10-22T13:19:49Z'
   url: >-
-    https://github.com/Slopinator99/ProjectCane-Android/releases/tag/v0.4.1-android.2
+    https://github.com/Slopinator99/ProjectCane-Android/releases/tag/v0.5.0-android.1
 activity:
-  lastSynchronized: '2026-10-22T04:47:13.868Z'
+  lastSynchronized: '2026-11-18T04:23:01.859Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3356ff86d47d55417ce2db537c8ce7ddfb43a553add103a4bd51da07c0725360"
-    releasesEtag: W/"732b4087f985145ad41ca6d5775e5e900299638615ac48b594de2061284529c6"
+    repoEtag: W/"6e88d67019e1a6846a52f8154164c95f5c7915f3dcb547f5ac1b537eca5a8893"
+    releasesEtag: W/"54f2cd1ee1e37af5e806ee9221c4e5293b6ec9932362ed9b1f5456653feaaa81"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

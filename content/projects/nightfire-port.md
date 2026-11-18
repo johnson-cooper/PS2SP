@@ -23,9 +23,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 6
+  stars: 10
   forks: 1
-  lastCommit: '2026-10-19T22:56:18Z'
+  lastCommit: '2026-11-01T19:21:07Z'
 latestRelease:
   tag: v0.5
   name: v0.5
@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/Jeffsteelflex/nightfire-port/releases/tag/v0.5'
 activity:
   lastChecked: '2026-10-12T23:13:49.874Z'
-  lastSynchronized: '2026-10-22T04:46:44.616Z'
+  lastSynchronized: '2026-11-18T04:22:22.156Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bcb103c277374b1b74de99ff7507478f3f1d594dba2235ff90507907e8fc4afd"
-    releasesEtag: W/"08d6b91b36f10d497bc655439a17acf4fb6db9abf34d82874cbff28d7c507c86"
+    repoEtag: W/"b6361e10483784d5da98cd4dfff298e10be2936eb8a1d845a89742442fa262b4"
+    releasesEtag: W/"f1b26a52715b6673156eeebeb8b767161e8f419bee16c97f6dabc24bacc49d2f"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-04T01:40:14.557Z'
+  lastSynchronized: '2026-11-18T04:21:36.025Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b08c10596f3bf9d471d4fc33f988aaa81e93abc2442879b2f444d2b6bfddc7a4"
+    releasesEtag: '"c3e8f26b776617a9ce91a8855c669f4e52a2d8010737f4308ca803aaa6579177"'
 discovery:
   method: 'fork-network:PalindromicBreadLoaf/ARMSX2-NX'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: PalindromicBreadLoaf/Yadokari
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

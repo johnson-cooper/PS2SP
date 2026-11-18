@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T04:46:30.757Z'
+  lastSynchronized: '2026-11-18T04:22:08.868Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fcb81da97b4b63b7b9f490a5c1b0b5e7acbb55bf16aceca32b8c693bdbeecb08"
-    releasesEtag: '"deefb0b6baa7aad8d6bdfa3b27a3918a956a353607ae307757d8194d5608b9cd"'
+    repoEtag: W/"a2a354080b2951f96a1eaaf25348fa03fdbda5fecf8bb433f53f405553f9cd11"
+    releasesEtag: '"c3e8f26b776617a9ce91a8855c669f4e52a2d8010737f4308ca803aaa6579177"'
 discovery:
   method: 'fork-network:israpps/KELFBinder'
   confidence: 100

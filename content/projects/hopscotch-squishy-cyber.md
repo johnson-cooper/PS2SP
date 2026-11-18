@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-06-20T05:59:05Z'
   url: 'https://github.com/Squishy-cyber/Hopscotch/releases/tag/Beta'
 activity:
-  lastSynchronized: '2026-10-22T04:46:25.218Z'
+  lastSynchronized: '2026-11-18T04:22:01.461Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"623d7df4911b467c5e21dd12ad1c2df0401949cefcc3781f7cf457018e072080"
-    releasesEtag: W/"be642061d8b0ac29cd8e53c9d1346ffb7eb700ee6addf909609faf12b21bc7b6"
+    repoEtag: W/"4dedbcfa449cd381f4c0c670a560e92ecae9899e8195e0cfeed5ae78e255b5c7"
+    releasesEtag: W/"fde72e27d40e5f50c8408bbd5eca03442b4a318d073dfcc40357ee1e4ea9e175"
 discovery:
   method: 'fork-network:Un1q32/Butterscotch'
   confidence: 100

@@ -24,21 +24,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 8
+  stars: 10
   forks: 0
-  lastCommit: '2026-10-12T14:37:50Z'
+  lastCommit: '2026-11-15T23:52:38Z'
 latestRelease:
-  tag: v0.1.0
-  name: Ottsel v0.1.0
-  publishedAt: '2026-10-12T14:03:00Z'
-  url: 'https://github.com/chrissotraidis/ottsel/releases/tag/v0.1.0'
+  tag: v0.1.1
+  name: Ottsel v0.1.1
+  publishedAt: '2026-11-15T23:49:49Z'
+  url: 'https://github.com/chrissotraidis/ottsel/releases/tag/v0.1.1'
 activity:
-  lastSynchronized: '2026-10-22T04:46:56.190Z'
+  lastSynchronized: '2026-11-18T04:22:36.289Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7c09bc29e53448db451e9e762a4afdc86b5f332de80b9b67b9c4a89a5a3d48f9"
-    releasesEtag: W/"a21106168669f4b34c00377e28bbdd44d16703e924d048308c47a1378d9cb5a4"
+    repoEtag: W/"3759295f6818d4b07e584aec3904753cde6d99d2d6836227f1afef17aa34f4bc"
+    releasesEtag: W/"f4ade17860f98408c2c5a25be4a6dd16f351653bedbb6b7c0a90aeffdccc2d7d"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

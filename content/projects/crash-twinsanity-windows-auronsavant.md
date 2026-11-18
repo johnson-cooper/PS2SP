@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-25T10:09:09.591Z'
+  lastSynchronized: '2026-11-18T04:21:47.190Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1665f0685636d85e888b8b3b3757bb1f5f00ef60526f41a21f2bcd0e9ba59cd1"
+    releasesEtag: '"c3e8f26b776617a9ce91a8855c669f4e52a2d8010737f4308ca803aaa6579177"'
 discovery:
   method: 'fork-network:GioPixelGH/Crash-Twinsanity-Windows'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: GioPixelGH/Crash-Twinsanity-Windows
   source: GioPixelGH/Crash-Twinsanity-Windows
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

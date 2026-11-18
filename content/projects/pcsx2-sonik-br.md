@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2025-12-04T00:07:30Z'
   url: 'https://github.com/sonik-br/pcsx2/releases/tag/FlightStick'
 activity:
-  lastSynchronized: '2026-11-12T17:44:42.390Z'
+  lastSynchronized: '2026-11-18T04:22:51.174Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"52af4c31176447cd74cee5298d67fc3e5838f52079cf2b7f8f5d4d68033dfe00"
+    releasesEtag: W/"20f3de59450f526a2f7291ac603c2e6bc209966525499836eaa90f17f8811914"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

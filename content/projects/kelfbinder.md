@@ -18,7 +18,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 70
+  stars: 69
   forks: 5
   lastCommit: '2026-04-01T18:25:46Z'
 latestRelease:
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2023-08-05T00:17:44Z'
   url: 'https://github.com/israpps/KELFBinder/releases/tag/v1.1.1'
 activity:
-  lastSynchronized: '2026-10-22T04:46:31.480Z'
+  lastSynchronized: '2026-11-18T04:22:09.498Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fc801e7a9e8e624f3de23cf8526d64eb23581bc5811754bbb1db566e97b133be"
-    releasesEtag: W/"44b7adf36848588183433b17bce4de939e14c50bf19f5e5f1b394c0a22e6fe88"
+    repoEtag: W/"8ae55496efce130eab1addee9eb79088ac41ad7f393e96ecb6bb86aa3b1b9aaa"
+    releasesEtag: W/"f58608e9fce7cd9f8002a65253e71004344d2edcb5821cdec3407ce05dd8294e"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

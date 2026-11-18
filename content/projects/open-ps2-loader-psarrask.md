@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-25T23:33:13.930Z'
+  lastSynchronized: '2026-11-18T04:22:29.273Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"be7a4348d7fbc8071deac22e5ce8a69e3fb113d3c84b50372c355e29865f8d31"
+    releasesEtag: '"c3e8f26b776617a9ce91a8855c669f4e52a2d8010737f4308ca803aaa6579177"'
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: ps2homebrew/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

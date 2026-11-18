@@ -23,22 +23,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 6
   forks: 0
-  lastCommit: '2026-10-22T01:04:07Z'
+  lastCommit: '2026-11-05T10:10:36Z'
 latestRelease:
-  tag: v0.1.29
-  name: ACE English 0.1.29
-  publishedAt: '2026-10-21T19:50:18Z'
-  url: 'https://github.com/retro-trans/ACE/releases/tag/v0.1.29'
+  tag: v0.9.0
+  name: Another Century's Episode — English Patch 0.9.0
+  publishedAt: '2026-11-05T09:56:37Z'
+  url: 'https://github.com/retro-trans/ACE/releases/tag/v0.9.0'
 activity:
   lastChecked: '2026-10-14T18:54:17.306Z'
-  lastSynchronized: '2026-10-22T04:45:57.732Z'
+  lastSynchronized: '2026-11-18T04:21:29.852Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"da4cd5bdccd857859f66e8ad28332c24db80bf8f7175aaaecc2c42bdc1924fbd"
-    releasesEtag: W/"00edbf887f90dc8be5a77298666d7e3e916f5e428c6e1785dd0b03774b526697"
+    repoEtag: W/"12e13cdbd071cf9722f1842521e6a3a2c6475d0156cc958096922ac6e890bcd8"
+    releasesEtag: W/"9489e6a876e0e61d7b8f5b06a3b1b84b680087a7cff8d85fcc60d7262872450f"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

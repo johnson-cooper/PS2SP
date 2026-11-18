@@ -26,19 +26,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-16T02:41:08Z'
+  lastCommit: '2026-11-03T21:30:39Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: windows-32bit-test1
+  name: Crash Twinsanity for 32 bit Windows (test 1)
+  publishedAt: '2026-11-03T21:30:39Z'
+  url: >-
+    https://github.com/Gabriel-TwoBits/Crash-Twinsanity-Windows/releases/tag/windows-32bit-test1
 activity:
-  lastSynchronized: '2026-10-22T04:46:12.709Z'
+  lastSynchronized: '2026-11-18T04:21:47.732Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"911e36a8d169b2c1e3b365b0769df4e734253903b9c9ca914b09b3b723fd613e"
-    releasesEtag: '"deefb0b6baa7aad8d6bdfa3b27a3918a956a353607ae307757d8194d5608b9cd"'
+    repoEtag: W/"98d20a20155c1af3cffe792ddbc2d6686a0a4459cd0be40d6a47d3df5f995e09"
+    releasesEtag: W/"f08fdc559b0032f49ea31f5fa08477dd1557be99903d4e668ff30c20c7fcfaf6"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

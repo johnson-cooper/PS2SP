@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-16T22:31:39.705Z'
+  lastSynchronized: '2026-11-18T04:21:31.484Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b4317cbaab08abe1760263fc8061b24880c86ff5dc43b8f4b034e5487ba7f62b"
+    releasesEtag: '"c3e8f26b776617a9ce91a8855c669f4e52a2d8010737f4308ca803aaa6579177"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: ARMSX2/ARMSX2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-22T04:47:34.715Z'
+  lastSynchronized: '2026-11-18T04:23:23.461Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"60e6f97215d30dea48cd674128ea531b23c552fccebd824f204193852272e6f0"
-    releasesEtag: '"deefb0b6baa7aad8d6bdfa3b27a3918a956a353607ae307757d8194d5608b9cd"'
+    repoEtag: W/"2d2fb93e1bfabd6efc76184594b736dd0fc48f3aa918cb857351a17a1e7c0317"
+    releasesEtag: '"c3e8f26b776617a9ce91a8855c669f4e52a2d8010737f4308ca803aaa6579177"'
 discovery:
   method: 'fork-network:ran-j/PS2Recomp'
   confidence: 100

@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-11T02:16:15.383Z'
+  lastSynchronized: '2026-11-18T04:22:58.139Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"084392cdfd8634ae8afd2ca9a84a434172d0b64ebfa961a16c7779652e2a2f87"
+    releasesEtag: '"c3e8f26b776617a9ce91a8855c669f4e52a2d8010737f4308ca803aaa6579177"'
 discovery:
   method: 'fork-network:jpd002/Play-'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: jpd002/Play-
   source: jpd002/Play-
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

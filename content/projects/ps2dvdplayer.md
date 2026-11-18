@@ -21,16 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-23T23:14:17Z'
+  lastCommit: '2026-10-30T22:53:30Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.1.0
+  name: PS2DVDPlayer v0.1.0
+  publishedAt: '2026-10-30T22:52:03Z'
+  url: 'https://github.com/VeroSilvaa/PS2DVDPlayer/releases/tag/v0.1.0'
 activity:
-  lastSynchronized: '2026-10-23T23:30:39.239Z'
+  lastSynchronized: '2026-11-18T04:23:16.642Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2b60e17de21fdc992b9b338dc972ba46c0349ae2ed5a3d49445c3d6ae8b3d1b2"
+    releasesEtag: W/"ce81f4f6f5d98ac100a5672610359af789eeeadbfa124a2d8afe586964de1376"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -43,5 +46,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

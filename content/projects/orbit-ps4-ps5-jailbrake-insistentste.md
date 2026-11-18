@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-09T17:49:29.472Z'
+  lastSynchronized: '2026-11-18T04:22:35.307Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"eb71c4f738164637f43abe2b4f8ca26bd4e460c40d4980f7392fc2aaef512396"
+    releasesEtag: '"c3e8f26b776617a9ce91a8855c669f4e52a2d8010737f4308ca803aaa6579177"'
 discovery:
   method: 'fork-network:angelicaunt/ORBIT-Ps4-Ps5-Jailbrake'
   confidence: 95
@@ -51,5 +54,4 @@ relationships:
   forkOf: angelicaunt/ORBIT-Ps4-Ps5-Jailbrake
   source: angelicaunt/ORBIT-Ps4-Ps5-Jailbrake
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

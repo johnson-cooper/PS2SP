@@ -17,21 +17,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 15880
-  forks: 2340
-  lastCommit: '2026-10-22T00:02:38Z'
+  stars: 16095
+  forks: 2453
+  lastCommit: '2026-11-17T00:01:27Z'
 latestRelease:
-  tag: v2.9.138
-  name: v2.9.138
-  publishedAt: '2026-10-21T21:33:48Z'
-  url: 'https://github.com/PCSX2/pcsx2/releases/tag/v2.9.138'
+  tag: v2.9.181
+  name: v2.9.181
+  publishedAt: '2026-11-16T22:15:09Z'
+  url: 'https://github.com/PCSX2/pcsx2/releases/tag/v2.9.181'
 activity:
-  lastSynchronized: '2026-10-22T04:47:11.259Z'
+  lastSynchronized: '2026-11-18T04:22:53.874Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"65849a14f7aea04be2ffa349845b94f71ef990210673f9962719ed3b719c5a62"
-    releasesEtag: W/"45080a85876270723927bbe6e4500f550dfa159590d277e4ba301e8ea3189a2c"
+    repoEtag: W/"2213b13b7b89200f0b872be60f7243924c26c996d7971a377eb26ed773eb08d1"
+    releasesEtag: W/"bf6bc014eadc2e5fdf93495a73186bbc8226345486d3e4151d9e2e7014a17339"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

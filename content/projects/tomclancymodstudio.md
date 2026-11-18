@@ -23,7 +23,7 @@ repository:
   defaultBranch: master
   stars: 3
   forks: 0
-  lastCommit: '2026-10-18T05:40:41Z'
+  lastCommit: '2026-11-03T08:09:58Z'
 latestRelease:
   tag: v1.01
   name: Tom Clancy PS2 Mod Studio 1.01
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/BRAGme/TomClancyModStudio/releases/tag/v1.01'
 activity:
   lastChecked: '2026-09-29T00:28:31.965Z'
-  lastSynchronized: '2026-10-22T04:47:58.675Z'
+  lastSynchronized: '2026-11-18T04:23:48.129Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8d60684cef8c9bdccb83e1edb0ea11d6adcee9b4cee3c89a148dd8082461db12"
-    releasesEtag: W/"4042372717697796daae06f1feca1ad2181ec2d11e4c6dcfe613182bb238752a"
+    repoEtag: W/"c5c37e1e7db87c0dac417078d004f0195c336b785a80d48625365051c91ed8ed"
+    releasesEtag: W/"443b91f3222fbdd7ca7bef511a5586e2319364b8fcecde4776c4f0240d91f9bd"
 discovery:
   method: github-search
   confidence: 100

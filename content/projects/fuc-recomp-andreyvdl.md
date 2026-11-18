@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-01T23:54:36.997Z'
+  lastSynchronized: '2026-11-18T04:21:58.541Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"3baf6e630060fe79abdccfac91eb281521ff4cca9f9c7b86a554d0a754c8a941"
+    releasesEtag: '"c3e8f26b776617a9ce91a8855c669f4e52a2d8010737f4308ca803aaa6579177"'
 discovery:
   method: 'fork-network:elprogramadorloco-arch/fuc-recomp'
   confidence: 95
@@ -52,5 +55,4 @@ relationships:
   forkOf: elprogramadorloco-arch/fuc-recomp
   source: elprogramadorloco-arch/fuc-recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.
