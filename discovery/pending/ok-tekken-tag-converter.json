@@ -1,0 +1,16 @@
+{
+  "repository": "openkumite/ok_tekken_tag_converter",
+  "repositoryId": "1462600013",
+  "url": "https://github.com/openkumite/ok_tekken_tag_converter",
+  "description": "Converts your own Tekken Tag Tournament disc (PlayStation 2, USA v2.00) into a pack for OpenKumite: fighters, arenas, motions, pictures and sounds",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-18T13:27:32.696Z",
+  "checkedAt": "2026-11-18T13:27:32.696Z"
+}

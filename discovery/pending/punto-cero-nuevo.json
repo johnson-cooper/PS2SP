@@ -1,0 +1,16 @@
+{
+  "repository": "leonardomanrique58-max/Punto-cero-nuevo-",
+  "repositoryId": "1462448525",
+  "url": "https://github.com/leonardomanrique58-max/Punto-cero-nuevo-",
+  "description": "Proyecto Punto Cero para PlayStation 2",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-18T13:27:32.696Z",
+  "checkedAt": "2026-11-18T13:27:32.696Z"
+}
