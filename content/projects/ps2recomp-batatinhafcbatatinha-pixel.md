@@ -23,20 +23,20 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-11-15T20:28:16Z'
+  lastCommit: '2026-11-18T13:06:41Z'
 latestRelease:
-  tag: v2026.11.15.2
-  name: PS2Recomp v2026.11.15.2
-  publishedAt: '2026-11-15T20:28:17Z'
+  tag: v2026.11.18.7
+  name: PS2Recomp v2026.11.18.7
+  publishedAt: '2026-11-18T13:06:42Z'
   url: >-
-    https://github.com/batatinhafcbatatinha-pixel/PS2Recomp/releases/tag/v2026.11.15.2
+    https://github.com/batatinhafcbatatinha-pixel/PS2Recomp/releases/tag/v2026.11.18.7
 activity:
-  lastSynchronized: '2026-11-17T13:28:31.330Z'
+  lastSynchronized: '2026-11-18T14:01:08.586Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f2faaf7db3331197217bed7e8f4de4bff5a192557622b2fccf21ed4e93e135bf"
-    releasesEtag: W/"93851f9e130f309728d58ecb18321c6c98a72ba1e6f608643143a71c82f3ceca"
+    repoEtag: W/"baf141de11002c6d5c19571d192052091098711e13537944f73bc28193cd1067"
+    releasesEtag: W/"aaf3549d956a3bda4e75d9058b292439b6d3bfc6a250ea9e1481e84fae3c93cb"
 discovery:
   method: 'fork-network:ran-j/PS2Recomp'
   confidence: 100

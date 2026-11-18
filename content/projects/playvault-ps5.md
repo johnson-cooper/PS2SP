@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/Cyb3rMeth0d/PlayVault-PS5/releases/tag/Homebrew'
 activity:
   lastChecked: '2026-11-08T16:20:16.333Z'
-  lastSynchronized: '2026-11-17T13:28:12.047Z'
+  lastSynchronized: '2026-11-18T14:00:44.593Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"45c30ebf18ebd74f55b2a146b50bb1fc603f410907d6273e0ae40002eac95e10"
-    releasesEtag: W/"35ea9ead9ac019feba5fbd240b2eb7349026f2b349adda0f779dafe50f62faa5"
+    repoEtag: W/"1ec788b50c44149da79081632d9992db0906e8a48f6d8bc90a05aeac64ab7e6e"
+    releasesEtag: W/"2e262efb94b2f7a28d6f60fa23f6980d48108a836dea63a888013bd8e6c68649"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

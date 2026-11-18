@@ -20,19 +20,19 @@ repository:
   defaultBranch: retroxr
   stars: 0
   forks: 0
-  lastCommit: '2026-09-22T19:05:35Z'
+  lastCommit: '2026-11-17T14:07:11Z'
 latestRelease:
-  tag: retroxr-play-libretro-v2
-  name: retroXR Play! (libretro) retroxr-play-libretro-v2
-  publishedAt: '2026-09-22T19:23:21Z'
-  url: 'https://github.com/RetroXR/Play-/releases/tag/retroxr-play-libretro-v2'
+  tag: retroxr-play-libretro-v4
+  name: retroXR Play! (libretro) retroxr-play-libretro-v4
+  publishedAt: '2026-11-17T17:26:47Z'
+  url: 'https://github.com/RetroXR/Play-/releases/tag/retroxr-play-libretro-v4'
 activity:
-  lastSynchronized: '2026-11-17T13:28:09.571Z'
+  lastSynchronized: '2026-11-18T14:00:40.889Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bac869977f7cbe2e1645faf0229f66590cc825140e8b6e59d5309e9b3c01aa4f"
-    releasesEtag: W/"33b840e9d5397398980faf810f36cc6727e3e873235871b498f8e054759efc61"
+    repoEtag: W/"0d63d468e663cdd39c5c2ff0035b1a84cd9244544254b5355aedd173d01f07e9"
+    releasesEtag: W/"411e380f7bbe75ddefd0f86b3990a7e56fd2cb5f35559ba6d7406f2ed57263e4"
 discovery:
   method: 'fork-network:jpd002/Play-'
   confidence: 100

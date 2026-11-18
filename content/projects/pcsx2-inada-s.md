@@ -20,19 +20,19 @@ repository:
   defaultBranch: zdxsv-master
   stars: 2
   forks: 0
-  lastCommit: '2026-11-17T10:43:37Z'
+  lastCommit: '2026-11-18T13:42:48Z'
 latestRelease:
   tag: zdxsv-1.0.4
   name: zdxsv-1.0.4
   publishedAt: '2026-11-17T10:43:37Z'
   url: 'https://github.com/inada-s/pcsx2/releases/tag/zdxsv-1.0.4'
 activity:
-  lastSynchronized: '2026-11-17T13:27:53.115Z'
+  lastSynchronized: '2026-11-18T14:00:19.606Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"58e3e84b5fa06666657c36ba86e872247688d3a0f651c01bb6fa5c79ff58533b"
-    releasesEtag: W/"3ed59ee5345ba322ba5c52a5261319f4bc5063b241e3c51b6b02657b763649b2"
+    repoEtag: W/"37daafe07912062c86f5e63a521eef02c1612e9310c58a576b44366ded6e93b8"
+    releasesEtag: W/"d817d7c3f0313a51f92417849cae4c9b5d27fe87b4a78365edb26e57b4b3ffb4"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

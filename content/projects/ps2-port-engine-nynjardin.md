@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-17T13:28:19.861Z'
+  lastSynchronized: '2026-11-18T14:00:54.155Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"baa2afc01ffa608fc16b5e7674d5871c7b2557d03a03ccf728e6ce35c3b7dd13"
-    releasesEtag: '"a3f289ff4b9de0de548252c38e0c583574e046acd86a3fa9ee49ea46fb04353b"'
+    repoEtag: W/"3cd4395f1f988a4a316de30cdb765730662be2cdba7927003e863af5de7261b3"
+    releasesEtag: '"7b57c945769b0052d09a38056ad83fb8284a286035bb544614b5aec8767447e2"'
 discovery:
   method: 'fork-network:danielgomesvieira2000/ps2-port-engine'
   confidence: 100

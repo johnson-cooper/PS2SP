@@ -12,7 +12,7 @@ tags:
 features: []
 authors: []
 license: null
-homepage: null
+homepage: 'https://claude.ai/artifact/A43iaLJa7c3rmTvdhSnJW6'
 source:
   provider: github
   repository: RyukiSTZ/tales-of-destiny-dc-ptbr
@@ -20,19 +20,23 @@ source:
   url: 'https://github.com/RyukiSTZ/tales-of-destiny-dc-ptbr'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-17T04:35:15Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.1
+  name: Tradução PT-BR v1.1
+  publishedAt: '2026-11-17T03:59:34Z'
+  url: 'https://github.com/RyukiSTZ/tales-of-destiny-dc-ptbr/releases/tag/v1.1'
 activity:
   lastChecked: '2026-11-17T13:53:37.544Z'
+  lastSynchronized: '2026-11-18T14:01:46.503Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5b6ac532a06b6a2ce5939ba627a2e8d5b614f4b11dc5bed128ed14ed32914d5c"
+    releasesEtag: W/"50634fa8f2ca3de378044dd6d48feafc88a380a14c19fddfd02c184180970330"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80
@@ -45,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

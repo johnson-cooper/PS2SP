@@ -33,12 +33,12 @@ latestRelease:
     https://github.com/johanderohan/suikoden-iii-traduccion-es/releases/tag/v1.0.3
 activity:
   lastChecked: '2026-11-07T07:47:24.766Z'
-  lastSynchronized: '2026-11-17T13:28:57.534Z'
+  lastSynchronized: '2026-11-18T14:01:44.191Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3b550b3a7ce90e4fb83ab564378f2316a77110c06e80cb38b560f557e3e014f9"
-    releasesEtag: W/"cb44de079895d0bd67aefec1f3f7eba82c07d60c3f054c3eef94270e501420e5"
+    repoEtag: W/"cc1e0669e7d968527e6f3d02448dc51e91c52166376a8358faabf3f464b4a045"
+    releasesEtag: W/"49f7b2a408191fa7fbc91aba594f02c0df408c90ba905152382bec4ed449c7e0"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85

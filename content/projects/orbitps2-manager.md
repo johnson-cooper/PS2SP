@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-11-14T19:01:00Z'
   url: 'https://github.com/Luden02/OrbitPS2-Manager/releases/tag/v1.4.0'
 activity:
-  lastSynchronized: '2026-11-17T13:27:46.896Z'
+  lastSynchronized: '2026-11-18T14:00:10.075Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d338b8979229a85dd85f2f0663788cd26e1d013c0d49e8acedeec95a22773a0e"
-    releasesEtag: W/"1c0f8a755dd96a89852e8ec8a696ec7ef2070f6329deba66efd939c07d4f46d8"
+    repoEtag: W/"c9aa79a190fd14bf04cbd1810cc392d73511570630971db750c3f8314b15f470"
+    releasesEtag: W/"a28255745bae9afccbad84faf8af13d1579b9be9b5e28cffc07202d51f4c2a6d"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

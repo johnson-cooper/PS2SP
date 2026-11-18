@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/Hayden1204/ClassiClient/releases/tag/1.0.3'
 activity:
   lastChecked: '2026-11-09T00:05:01.022Z'
-  lastSynchronized: '2026-11-17T13:26:46.043Z'
+  lastSynchronized: '2026-11-18T13:58:49.778Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4553fcd7e3dcaf8bc691f5d49367d5bee6566c9dd6da0283a89762d64f209e3f"
-    releasesEtag: W/"4abe5696a1970be3c0bde59b12e27b8a04c14f50dd033503b99c88aa9d02fb6b"
+    repoEtag: W/"780bb9c543af5b141b8d6c5425710c26d79c6f370dcc1f362df0c7532fc4ccf0"
+    releasesEtag: W/"0bf4b710fff40ce68e72b7d9b733884477317998d04b8010461d46724a0d917b"
 discovery:
   method: 'pending-promotion:incremental:"ps2 port" in:name,description,readme'
   confidence: 85

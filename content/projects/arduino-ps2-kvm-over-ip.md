@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/Adrak2006/arduino-ps2-kvm-over-ip/releases/tag/v1.0'
 activity:
   lastChecked: '2026-10-22T15:40:02.066Z'
-  lastSynchronized: '2026-11-17T13:26:31.460Z'
+  lastSynchronized: '2026-11-18T13:58:31.154Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d3e99f4bc6a0bd25df84b739141edff5237e68e300164287d87e885dd83b7cf8"
-    releasesEtag: W/"c8168c1383ccb01fcdcfdf19140604cdea23e1041d18638bd9693b42f56d2ccb"
+    repoEtag: W/"01e304934413f65e7b92a619bc6f40a30979a92025c52558a298391da441feb9"
+    releasesEtag: W/"f9430f3637d4a8ba0977699e57d0f6880639d36779803d9ca09e12219ed93778"
 discovery:
   method: 'pending-promotion:incremental:topic:ps2'
   confidence: 90

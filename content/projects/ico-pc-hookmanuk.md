@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2026-11-12T17:30:11Z'
   url: 'https://github.com/hookmanuk/ico-pc/releases/tag/v0.11.4-vr-0.1'
 activity:
-  lastSynchronized: '2026-11-17T13:27:04.917Z'
+  lastSynchronized: '2026-11-18T13:59:15.014Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2419ca8e4996f58c9292ca23864b54c2450bffc1c7b73e6ec682db4004b87c2d"
-    releasesEtag: W/"1d3b8921201d9e56a181742dda79a74a145259681e7f3aac59a48f8fa475c04e"
+    repoEtag: W/"4b084aa2ad4b2d483866e556ee29ebbd205d76eac198bbe714ce97f0a7b2df4b"
+    releasesEtag: W/"18a3b80e79bbbc1929e63fd399f17f95217cf3f0d3b2d39bc8a53d4969c95f83"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

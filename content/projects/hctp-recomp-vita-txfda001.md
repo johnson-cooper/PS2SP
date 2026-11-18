@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-17T22:40:05.664Z'
+  lastSynchronized: '2026-11-18T13:59:09.964Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"29f75eadadb3392329977a52ec0d7707ac7ee0bfaa1c648eccc211591ddf5edc"
+    releasesEtag: '"7b57c945769b0052d09a38056ad83fb8284a286035bb544614b5aec8767447e2"'
 discovery:
   method: 'fork-network:BigDaddyJRich/hctp-recomp'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: BigDaddyJRich/hctp-recomp
   source: BigDaddyJRich/hctp-recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

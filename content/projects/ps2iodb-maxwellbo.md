@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-17T13:28:27.844Z'
+  lastSynchronized: '2026-11-18T14:01:04.355Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cc25448f5d7cede7d22a233750484e6c464da7fc8acb8944793154a4fc65cbe7"
-    releasesEtag: '"a3f289ff4b9de0de548252c38e0c583574e046acd86a3fa9ee49ea46fb04353b"'
+    repoEtag: W/"972b9d2e32e5b12b6c3320fb3f3be87cca4ac615a8f9f781a045cb1bae9583f0"
+    releasesEtag: '"7b57c945769b0052d09a38056ad83fb8284a286035bb544614b5aec8767447e2"'
 discovery:
   method: 'fork-network:Issung/PS2IODB'
   confidence: 100

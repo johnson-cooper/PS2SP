@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-11-10T06:29:37Z'
   url: 'https://github.com/andruxaster/NeoGeoCD-ps2/releases/tag/v0.1'
 activity:
-  lastSynchronized: '2026-11-17T13:27:26.676Z'
+  lastSynchronized: '2026-11-18T13:59:42.233Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"64edd9cacd588b324a6229655e88825306065e08bc994ed5de0cdc239ac72e3e"
-    releasesEtag: W/"2dafab15f54a1ff9e1b0f636476001404f7a57114dd6853be0f4ea3f3c4c2121"
+    repoEtag: W/"e6776417180c32eeb87e3eaf372799e69fa6305a8cd7f158104ea886cd6fefd5"
+    releasesEtag: W/"7f9631464957c60d8153040147b129bce2de00417cd3a829abe2aa133efea154"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

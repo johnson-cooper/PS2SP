@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-17T13:27:48.588Z'
+  lastSynchronized: '2026-11-18T14:00:12.469Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7a0eae121cd862f11e281014863fc81ba15c29c3354d52b305b3bbdc88b323f6"
-    releasesEtag: '"a3f289ff4b9de0de548252c38e0c583574e046acd86a3fa9ee49ea46fb04353b"'
+    repoEtag: W/"8c5564ecf2ad6b10c88f8ffafa62c97b03d85c9f5f04a4cef483a1ca08ef21a7"
+    releasesEtag: '"7b57c945769b0052d09a38056ad83fb8284a286035bb544614b5aec8767447e2"'
 discovery:
   method: 'fork-network:Iarm-t/sotc-vibe-pc'
   confidence: 100

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-17T13:28:58.084Z'
+  lastSynchronized: '2026-11-18T14:01:44.953Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0a5e777f7d170c0528b612b8f49a08daa3a2f063863bb3d1bfa85734a7761a31"
-    releasesEtag: '"a3f289ff4b9de0de548252c38e0c583574e046acd86a3fa9ee49ea46fb04353b"'
+    repoEtag: W/"2c34ff27fca004fb0e81895edc685127794e765d2223a90d3c16c410557dba03"
+    releasesEtag: '"7b57c945769b0052d09a38056ad83fb8284a286035bb544614b5aec8767447e2"'
 discovery:
   method: 'fork-network:TabStationToo/TabStationToo'
   confidence: 100

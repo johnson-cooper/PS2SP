@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-17T13:27:47.486Z'
+  lastSynchronized: '2026-11-18T14:00:10.928Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"292ed1edec667349ac41bbd798fd91281b733cb2b7c7ada8d49e9b57f3b44b3a"
-    releasesEtag: '"a3f289ff4b9de0de548252c38e0c583574e046acd86a3fa9ee49ea46fb04353b"'
+    repoEtag: W/"534e96b1d8d1d6c95378a98bb33aaa744e9b5f49bddfaee7aef00a08f5fc3202"
+    releasesEtag: '"7b57c945769b0052d09a38056ad83fb8284a286035bb544614b5aec8767447e2"'
 discovery:
   method: 'fork-network:Arntzen-Software/parallel-gs'
   confidence: 100

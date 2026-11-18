@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/SecondCoat/second-coat-london/releases/tag/v0.4.2'
 activity:
   lastChecked: '2026-10-26T14:34:04.716Z'
-  lastSynchronized: '2026-11-17T13:28:53.441Z'
+  lastSynchronized: '2026-11-18T14:01:38.860Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a68e699339109bd4939c4b4d6f2aefe3ea9538cc4197350c4923bbe8bfe5b528"
-    releasesEtag: W/"59e3cd2415037f2fba33f5f3b1910153d4546eb238a0fd16c6a4f8ea768b623f"
+    repoEtag: W/"6a4ef2278af7c2e548260f1b5077b7bb7c737dfb7a5596f92d64723bd1b75c6c"
+    releasesEtag: W/"923c2a3c960237149d910d38d8eae0235f5aada15f154fefa3f5cbddc86e60fb"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
