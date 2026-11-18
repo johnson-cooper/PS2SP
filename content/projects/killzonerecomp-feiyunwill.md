@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-15T21:50:16.892Z'
+  lastSynchronized: '2026-11-18T21:57:41.422Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e5db64aa2247b03f5b407e39c9079a6d969a930821119b880420b96dd554af81"
-    releasesEtag: '"66be1702269498b0b5064a4bba6849ad5960385978d31018034a17dec1d9c73b"'
+    repoEtag: W/"fbfe636174fefa9591b66cb00858219e1d11cc7dc3eab6dc5ae28682ffb92c65"
+    releasesEtag: '"14b478a178cff058017e7578a3c66e4c99096af34ad595b236c62ac7bd49f6ae"'
 discovery:
   method: 'fork-network:drakolordx7/KillzoneRecomp'
   confidence: 100

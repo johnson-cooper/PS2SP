@@ -23,19 +23,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-13T12:34:59Z'
+  lastCommit: '2026-11-18T01:38:11Z'
 latestRelease:
   tag: v0.1.5
   name: v0.1.5 — Stage 04 Recursive ISO Index
   publishedAt: '2026-11-13T12:35:20Z'
   url: 'https://github.com/riki-rg/recompile-downhill/releases/tag/v0.1.5'
 activity:
-  lastSynchronized: '2026-11-15T21:51:42.962Z'
+  lastSynchronized: '2026-11-18T21:59:17.553Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0691fad5b8727cf3ec7375b1ec4b3ef1cad74bf2b3b46dde4da856e0921e2259"
-    releasesEtag: W/"0d678d2753168c2c5ace4ee243e03b4464de5e6c0eceb5008e29fc06d47f06d6"
+    repoEtag: W/"9335764a983f98d171aaf75fec46677138b2080793628d7f1d50a59a09a20bd9"
+    releasesEtag: W/"71d001652ac4777c2e173a864c3cdb42a5eef5f8d8464b853edcbc8bb658b9c8"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

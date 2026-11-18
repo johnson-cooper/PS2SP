@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-15T21:49:50.499Z'
+  lastSynchronized: '2026-11-18T21:57:11.048Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a45a2ebfe90e3ae2bd648132b3d2afb59d2cb2cd9d931a676baf6ef6df94af3e"
-    releasesEtag: '"66be1702269498b0b5064a4bba6849ad5960385978d31018034a17dec1d9c73b"'
+    repoEtag: W/"f944004be5dd0372919e1444af06ebf996f2103b24f74a35b9d1a2939de7c290"
+    releasesEtag: '"14b478a178cff058017e7578a3c66e4c99096af34ad595b236c62ac7bd49f6ae"'
 discovery:
   method: 'fork-network:Jakeschincariol/console-skill'
   confidence: 100

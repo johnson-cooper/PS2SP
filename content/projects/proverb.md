@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-07-25T21:33:55Z'
   url: 'https://github.com/PS2Homebrew-arcade/proverb/releases/tag/v1.0.4'
 activity:
-  lastSynchronized: '2026-11-15T21:51:01.841Z'
+  lastSynchronized: '2026-11-18T21:58:32.491Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f9d95708d2183d79e6e1762bfbf4e429398aae46ed5bfbb95f29c3f18a08ea61"
-    releasesEtag: W/"9522533253cbbdf6038765d4d41d9152d61bcbe6c401382c528f489bdcbbbe2b"
+    repoEtag: W/"718dd00733461b487d13ab0798425dce25fcb49d3962c6b0c6085f0729769ff3"
+    releasesEtag: W/"07d787fc253c425feb91436f36a230381b40d349f0400cd091b14bbce35a3678"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

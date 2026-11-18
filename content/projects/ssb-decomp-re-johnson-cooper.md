@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-09-30T08:09:50Z'
   url: 'https://github.com/johnson-cooper/ssb-decomp-re/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-11-15T21:51:50.538Z'
+  lastSynchronized: '2026-11-18T21:59:26.492Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"68e0ae887c8d8cf6e93d2062bf58d27a635c84432fc0135aef41a441d5eb541f"
-    releasesEtag: W/"babf03f7005be70161b34cf47ca695e0a52d45ab8fedf658a8f3f6ccabf48e94"
+    repoEtag: W/"aa5b5830805783b90a28d4b9990376359ac97b53d92e48e8f78d84430570f50f"
+    releasesEtag: W/"a44057449dc129c4a36597175a2c3b99074c2970f3c91df1c591a55336d629ef"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

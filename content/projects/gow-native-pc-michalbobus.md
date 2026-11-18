@@ -29,19 +29,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-13T00:06:26Z'
+  lastCommit: '2026-11-17T23:27:46Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-15T21:50:03.413Z'
+  lastSynchronized: '2026-11-18T21:57:27.134Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a520611d00ebc16bca783015c13e8e7ec06516306f88ed385c9122ff407853d0"
-    releasesEtag: '"66be1702269498b0b5064a4bba6849ad5960385978d31018034a17dec1d9c73b"'
+    repoEtag: W/"266158141bc9d6c4ae14546433a7ca2b68e1125a4ccb340ab8e031ef09b06aa8"
+    releasesEtag: '"14b478a178cff058017e7578a3c66e4c99096af34ad595b236c62ac7bd49f6ae"'
 discovery:
   method: 'fork-network:Vnnc1/gow-native-pc'
   confidence: 95

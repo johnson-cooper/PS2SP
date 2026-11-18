@@ -24,16 +24,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-17T12:53:40Z'
+  lastCommit: '2026-11-18T12:19:58Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-17T13:53:37.544Z'
+  lastSynchronized: '2026-11-18T21:57:25.012Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1e656b278dbe5616a079fffa76ab14593a2acd96109044f362040f17498016ae"
+    releasesEtag: '"14b478a178cff058017e7578a3c66e4c99096af34ad595b236c62ac7bd49f6ae"'
 discovery:
   method: 'incremental:"PS2 homebrew" in:name,description,readme'
   confidence: 95
@@ -46,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

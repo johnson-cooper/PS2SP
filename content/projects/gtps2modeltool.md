@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/Nenkai/GTPS2ModelTool/releases/tag/1.1.1'
 activity:
   lastChecked: '2026-10-20T15:22:35.905Z'
-  lastSynchronized: '2026-11-15T21:50:05.316Z'
+  lastSynchronized: '2026-11-18T21:57:29.151Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"10ee59d6572f751603a2a8154ec4e042eba8e4aed843e21a93efe760c52c34ae"
-    releasesEtag: W/"671aacc4c5fa879f01d48b2b042f549d1cb60bb8d283a9ccf24438821bfb270c"
+    repoEtag: W/"6badd17cf94cc5f3b996350a6a9e09745a73faaef09046f19b6af29a26596b54"
+    releasesEtag: W/"1dbc846dd239703f65d6ec7b0239007a84b66b970f8efb598338d013143b28f5"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

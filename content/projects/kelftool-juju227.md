@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-15T21:50:16.424Z'
+  lastSynchronized: '2026-11-18T21:57:40.908Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fbdf578e77f355070ffdc40795f86315007bd6c66e6adad75e4c317fcf36508c"
-    releasesEtag: '"66be1702269498b0b5064a4bba6849ad5960385978d31018034a17dec1d9c73b"'
+    repoEtag: W/"ed5c76934e85c2443f7e6dab4de2138c3f6a3ee9413174d760ad7310ad59dacb"
+    releasesEtag: '"14b478a178cff058017e7578a3c66e4c99096af34ad595b236c62ac7bd49f6ae"'
 discovery:
   method: 'fork-network:grimdoomer/kelftool'
   confidence: 95

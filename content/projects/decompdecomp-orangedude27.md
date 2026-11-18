@@ -25,19 +25,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-13T22:18:30Z'
+  lastCommit: '2026-11-16T05:18:33Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-15T21:49:53.726Z'
+  lastSynchronized: '2026-11-18T21:57:14.915Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6bee5f6f9561caff07b1dff5f1d40b5ba5e7ffe966e12686f32e85a4345cd757"
-    releasesEtag: '"66be1702269498b0b5064a4bba6849ad5960385978d31018034a17dec1d9c73b"'
+    repoEtag: W/"2e13955fe179e2230a45bbc1d36ed4c7e7b36030c10027ed8edee02f2782dd31"
+    releasesEtag: '"14b478a178cff058017e7578a3c66e4c99096af34ad595b236c62ac7bd49f6ae"'
 discovery:
   method: 'fork-network:n-delic/decomp.wtf'
   confidence: 95
