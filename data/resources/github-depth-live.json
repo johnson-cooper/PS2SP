@@ -85778,6 +85778,19 @@
         ]
       },
       {
+        "name": "gomgo-github/Open-PS2-Loader-gal — branch: gh-pages",
+        "url": "https://github.com/gomgo-github/Open-PS2-Loader-gal/tree/gh-pages",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "gomgo-github/Open-PS2-Loader-gal",
+          "gh-pages"
+        ]
+      },
+      {
         "name": "gomgo-github/Open-PS2-Loader-gal — branch: master",
         "url": "https://github.com/gomgo-github/Open-PS2-Loader-gal/tree/master",
         "keywords": [
@@ -216502,6 +216515,19 @@
           "branch",
           "repository",
           "Tatsh/resonance",
+          "master"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength — branch: master",
+        "url": "https://github.com/Tatsh/wavelength/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Tatsh/wavelength",
           "master"
         ]
       },
@@ -1372625,6 +1372651,21 @@
         ]
       },
       {
+        "name": "glampert/quake2-ps2@main — src/tools/host",
+        "url": "https://github.com/glampert/quake2-ps2/tree/main/src/tools/host",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "glampert/quake2-ps2",
+          "main",
+          "src/tools/host"
+        ]
+      },
+      {
         "name": "glampert/quake2-ps2@main — src/tools/miniz",
         "url": "https://github.com/glampert/quake2-ps2/tree/main/src/tools/miniz",
         "keywords": [
@@ -1372637,6 +1372678,23 @@
           "glampert/quake2-ps2",
           "main",
           "src/tools/miniz",
+          "gitlink",
+          "submodule"
+        ]
+      },
+      {
+        "name": "glampert/quake2-ps2@main — src/tools/oxide-vcl",
+        "url": "https://github.com/glampert/quake2-ps2/tree/main/src/tools/oxide-vcl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "glampert/quake2-ps2",
+          "main",
+          "src/tools/oxide-vcl",
           "gitlink",
           "submodule"
         ]
@@ -2629838,6 +2629896,486 @@
         ]
       },
       {
+        "name": "Tatsh/wavelength@master — .yarn/plugins",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/.yarn/plugins",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          ".yarn/plugins"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — 3rdparty",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/3rdparty",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "3rdparty"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — 3rdparty/gzip-1.2.4",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/3rdparty/gzip-1.2.4",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "3rdparty/gzip-1.2.4"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — sce/ee",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/sce/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "sce/ee"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — sce/ee/sample",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/sce/ee/sample",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "sce/ee/sample"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — sce/iop",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/sce/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "sce/iop"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/app",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/app",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/app"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/dmadebug",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/dmadebug",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/dmadebug"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/game",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/game"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/gfx",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/gfx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/gfx"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/gs",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/gs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/gs"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/iop",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/iop"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/math",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/math",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/math"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/memcard",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/memcard",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/memcard"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/met",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/met",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/met"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/mid",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/mid",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/mid"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/msg",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/msg",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/msg"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/netflow",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/netflow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/netflow"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/os",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/os",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/os"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/rnd",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/rnd",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/rnd"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/script",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/script",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/script"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/synth",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/synth",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/synth"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — src/ui",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/src/ui",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "src/ui"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — tools",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — tools/ark",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/tools/ark",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "tools/ark"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — tools/build-image",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/tools/build-image",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "tools/build-image"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — tools/common",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/tools/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "tools/common"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — tools/demo-song",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/tools/demo-song",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "tools/demo-song"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — tools/extract-image",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/tools/extract-image",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "tools/extract-image"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — tools/name-irx",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/tools/name-irx",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "tools/name-irx"
+        ]
+      },
+      {
+        "name": "Tatsh/wavelength@master — tools/synthedit",
+        "url": "https://github.com/Tatsh/wavelength/tree/master/tools/synthedit",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Tatsh/wavelength",
+          "master",
+          "tools/synthedit"
+        ]
+      },
+      {
         "name": "tc17/Fceumm-PS2@master — libcdvd",
         "url": "https://github.com/tc17/Fceumm-PS2/tree/master/libcdvd",
         "keywords": [
@@ -3039077,6 +3039615,45 @@
         ]
       },
       {
+        "name": "glampert/quake2-ps2@main — submodule: src/tools/miniz",
+        "url": "https://github.com/richgel999/miniz",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "allkern/iris",
+          "iop-cached",
+          "deps/miniz",
+          "https://github.com/richgel999/miniz",
+          "glampert/quake2-ps2",
+          "main",
+          "src/tools/miniz",
+          "https://github.com/richgel999/miniz.git",
+          "ioncodes/iris",
+          "KornelHajto/iris",
+          "Link4Electronics/iris",
+          "Quake-Backup/quake2-for-ps2",
+          "master"
+        ]
+      },
+      {
+        "name": "glampert/quake2-ps2@main — submodule: src/tools/oxide-vcl",
+        "url": "https://github.com/glampert/oxide-vcl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "submodule",
+          "nested repository",
+          "glampert/quake2-ps2",
+          "main",
+          "src/tools/oxide-vcl",
+          "https://github.com/glampert/oxide-vcl.git"
+        ]
+      },
+      {
         "name": "glampert/vclpp@main — submodule: external/parse-utils",
         "url": "https://github.com/glampert/parse-utils",
         "keywords": [
@@ -3041234,30 +3041811,6 @@
           "vendor/pbgl",
           "https://github.com/fgsfdsfgs/pbgl.git",
           "xbox-og"
-        ]
-      },
-      {
-        "name": "Quake-Backup/quake2-for-ps2@master — submodule: src/tools/miniz",
-        "url": "https://github.com/richgel999/miniz",
-        "keywords": [
-          "PS2",
-          "PlayStation 2",
-          "GitHub",
-          "submodule",
-          "nested repository",
-          "allkern/iris",
-          "iop-cached",
-          "deps/miniz",
-          "https://github.com/richgel999/miniz",
-          "glampert/quake2-ps2",
-          "main",
-          "src/tools/miniz",
-          "https://github.com/richgel999/miniz.git",
-          "ioncodes/iris",
-          "KornelHajto/iris",
-          "Link4Electronics/iris",
-          "Quake-Backup/quake2-for-ps2",
-          "master"
         ]
       },
       {
