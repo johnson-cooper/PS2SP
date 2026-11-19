@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-18T21:57:23.531Z'
+  lastSynchronized: '2026-11-19T21:34:52.995Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cc0b00cdb19f4b7e5c0f673fca1abd7c3fe75c48b54657561c97e369117addad"
-    releasesEtag: '"14b478a178cff058017e7578a3c66e4c99096af34ad595b236c62ac7bd49f6ae"'
+    repoEtag: W/"207d4f9eaf63b97f56737a96e0840f356eeed5082749ef324850548332c2743e"
+    releasesEtag: '"caa7d183434892016d9ea4cc625ad2bd81f29e8e398336b6be37a46180bc2fc5"'
 discovery:
   method: 'fork-network:chaoticgd/ghidra-emotionengine-reloaded'
   confidence: 100

@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-11-11T22:02:37Z'
   url: 'https://github.com/NathanNeurotic/ssb-decomp-re/releases/tag/nightly-1faddc0'
 activity:
-  lastSynchronized: '2026-11-18T21:59:27.144Z'
+  lastSynchronized: '2026-11-19T21:37:12.226Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b69bcecddb0242c1706d99967e2faa0e282b972bf3871a8144f3829f7dc39f97"
-    releasesEtag: W/"296e3c87ecf4ea27d49a448aa24b25ef7990efcbfff3214acbe190a6936ef6cf"
+    repoEtag: W/"fb0cf43e11870f0bdd923fb90af69925465ad116dc1b6b67cf3079cea931f02a"
+    releasesEtag: W/"b55c82276f195ac57c8b66427c92f5fbda942a418ab8cac47ac49ce8e0243295"
 discovery:
   method: 'fork-network:johnson-cooper/ssb-decomp-re'
   confidence: 100

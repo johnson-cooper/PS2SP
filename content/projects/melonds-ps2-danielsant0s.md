@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2023-06-02T10:29:41Z'
   url: 'https://github.com/DanielSant0s/melonDS-PS2/releases/tag/PS2Alpha0.3'
 activity:
-  lastSynchronized: '2026-11-18T21:57:46.505Z'
+  lastSynchronized: '2026-11-19T21:35:20.549Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b7b32755862b204a64df89b04c96364a7b4a79565f82245645a0309369279b1d"
-    releasesEtag: W/"6aa8fdb6af7a73ae6a04f656a6edc496869539ccace833e92b5b8d562a1e20c1"
+    repoEtag: W/"c2a0f23507eace823e88c5efd0fd6fdb8cd68b362cba2156708346381296ced0"
+    releasesEtag: W/"a1742c51b55d31f8ecec9f32dfcd605b77efff198f05a9dc7aed18b3faab637c"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

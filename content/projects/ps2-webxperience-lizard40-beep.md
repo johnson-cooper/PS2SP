@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-18T21:58:49.307Z'
+  lastSynchronized: '2026-11-19T21:36:29.490Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"13844390aa70d5d3bab348bf943c6a7c272b399d1092b8c28a960fe9e55e1e41"
-    releasesEtag: '"14b478a178cff058017e7578a3c66e4c99096af34ad595b236c62ac7bd49f6ae"'
+    repoEtag: W/"38c82143d1ace20d12aba58eeab30fd789acafbd6c6e56f2cda1e83be2c5974e"
+    releasesEtag: '"caa7d183434892016d9ea4cc625ad2bd81f29e8e398336b6be37a46180bc2fc5"'
 discovery:
   method: 'fork-network:Quincunx33/PS2-WebXperience'
   confidence: 100

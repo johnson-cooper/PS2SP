@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/hmofet/unodos/releases/tag/v3.35.0'
 activity:
   lastChecked: '2026-10-09T16:35:29.097Z'
-  lastSynchronized: '2026-11-18T21:59:31.785Z'
+  lastSynchronized: '2026-11-19T21:37:17.536Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ea9faab42a062bc07723039f89aadd2c141a075dfc05972310b3e1b6c22c1d3a"
-    releasesEtag: W/"e20328ae7963390a9c44044f4993aad233c8b7d7a43ad38373f1fd32f9f999c8"
+    repoEtag: W/"19b7d4150f75f709eac9e42a34912dd1b40c5d97166debee9c17e1a34ee92013"
+    releasesEtag: W/"e74c89c460c32714435a43fd947093ae31aea6d0ff1b6cb2613895bbec282eba"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 80

@@ -23,7 +23,7 @@ repository:
   defaultBranch: main
   stars: 321
   forks: 7
-  lastCommit: '2026-11-16T22:37:49Z'
+  lastCommit: '2026-11-19T13:41:37Z'
 latestRelease:
   tag: v4.1.0
   name: OpenROM v4.1.0
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/M5Devs/OpenROM/releases/tag/v4.1.0'
 activity:
   lastChecked: '2026-09-29T00:28:24.384Z'
-  lastSynchronized: '2026-11-18T21:58:06.474Z'
+  lastSynchronized: '2026-11-19T21:35:42.282Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bac7167631334ae7dfda643a49d665bd35223c2e403089da04147683ecaf2c3c"
-    releasesEtag: W/"e84e424651a540360d3078937fa66985bcb92d66bbb627ae2b219d17f4c1a1b7"
+    repoEtag: W/"4c3ac34f74174744bdf8d9fe0824977ea49d1361ff0f1102bc3ce917ea461b78"
+    releasesEtag: W/"d110de472dc71365f1301ec21101f261ea345ba808e59278b4910fe6db387997"
 discovery:
   method: github-search
   confidence: 100
