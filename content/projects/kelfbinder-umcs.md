@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2025-04-07T03:12:06Z'
   url: 'https://github.com/NathanNeurotic/KELFbinder-UMCS/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-18T13:59:24.528Z'
+  lastSynchronized: '2026-11-19T13:07:29.474Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ecac1392e02d2d1b2857cd2468f7c054ee4e45edf315b3c49441a81a1e11b1e6"
-    releasesEtag: W/"3d26e4607c9a38151b8303e029e137edf71aba28651a77203ccfe938a98b315d"
+    repoEtag: W/"2c62a8006b0d603167b28617a634da0c99744840d767599d829041629b9a8223"
+    releasesEtag: W/"889f1c7bf92038d84240e18efb1dee20615231d41d42781e0c218a489f46956e"
 discovery:
   method: curated-owner
   confidence: 100

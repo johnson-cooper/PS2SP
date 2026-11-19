@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-08-13T04:09:59Z'
   url: 'https://github.com/refresh50/MidnightClub3DUBRemixPS2PTBR/releases/tag/V3.0'
 activity:
-  lastSynchronized: '2026-11-18T13:59:37.416Z'
+  lastSynchronized: '2026-11-19T13:07:39.825Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"48be077eb1e684586f441b1f936ee39ebacb13c70f1a316412b610cc6358d7fd"
-    releasesEtag: W/"62f0f33d79279682f649fef4d08c6f85bf4438c6727f723410327fd032fad192"
+    repoEtag: W/"211bef829203daece45c140ba063ed18ed656ad9e2c655bab4228e78945b8dcc"
+    releasesEtag: W/"4d5e61b332af795fb3130e1816f909390a7a5015648551e03306db5392d5aed8"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

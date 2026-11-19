@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-18T13:59:47.788Z'
+  lastSynchronized: '2026-11-19T13:07:48.113Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"58cf5ddb341ac91b1c3794764d17832d5a3ca0eff1cb8a2a05d517e9f6a17a7c"
-    releasesEtag: '"7b57c945769b0052d09a38056ad83fb8284a286035bb544614b5aec8767447e2"'
+    repoEtag: W/"77c7e79a8f3011a4d40376d521defd077dd9ae4dad0487c499d8fc0fb5def958"
+    releasesEtag: '"c0c458a23f97f1899cefc645c39e8be3a82be231c97070fce8b3880bc5f8fe53"'
 discovery:
   method: 'fork-network:HarpyWar/nfsuserver'
   confidence: 95

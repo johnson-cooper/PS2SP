@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/RyukiSTZ/tales-of-destiny-dc-ptbr/releases/tag/v1.1'
 activity:
   lastChecked: '2026-11-17T13:53:37.544Z'
-  lastSynchronized: '2026-11-18T14:01:46.503Z'
+  lastSynchronized: '2026-11-19T13:09:18.309Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5b6ac532a06b6a2ce5939ba627a2e8d5b614f4b11dc5bed128ed14ed32914d5c"
-    releasesEtag: W/"50634fa8f2ca3de378044dd6d48feafc88a380a14c19fddfd02c184180970330"
+    repoEtag: W/"f7903e28c43c13d9a517b7dd7e47eeabdc82dff64ec5b43c78a42704e18c4023"
+    releasesEtag: W/"b24ae07946045abe134dbb19e71f93c34126679ab1e817eee7fd2ba2ad3f80ed"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-11-01T01:01:07Z'
   url: 'https://github.com/Warksmith/LUNA/releases/tag/v0.1'
 activity:
-  lastSynchronized: '2026-11-18T13:59:35.719Z'
+  lastSynchronized: '2026-11-19T13:07:38.555Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"97ce7f5f7a24481d25eb7a21854d9897c092663e1eb59de83ebafefa9a1fef1f"
-    releasesEtag: W/"7d828a902e54b2ab69f065273733ae03650068a6aa7545d1a25570ead8ab7bbb"
+    repoEtag: W/"38aa00f5b2cecbb1847cfd649692aea7df52e89c86c6bb864bf6f45338b3af33"
+    releasesEtag: W/"334da53f59a1b652a22140d9a180699c9c4878b4d918ad378802d53d72af18d2"
 discovery:
   method: 'incremental:"PS2 homebrew" in:name,description,readme'
   confidence: 100

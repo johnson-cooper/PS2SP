@@ -18,8 +18,8 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 235
-  forks: 9
+  stars: 237
+  forks: 10
   lastCommit: '2026-11-06T13:42:10Z'
 latestRelease:
   tag: null
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-18T13:59:06.511Z'
+  lastSynchronized: '2026-11-19T13:07:14.631Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5bc94781c84a7eae41534248288e01d4b258bb1974652ea76c765dde2ff5ab17"
-    releasesEtag: '"7b57c945769b0052d09a38056ad83fb8284a286035bb544614b5aec8767447e2"'
+    repoEtag: W/"b9499d22a6754435a112a280642704550169330766f42b45722dcf15b2cee510"
+    releasesEtag: '"c0c458a23f97f1899cefc645c39e8be3a82be231c97070fce8b3880bc5f8fe53"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

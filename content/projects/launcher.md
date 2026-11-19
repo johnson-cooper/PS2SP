@@ -36,12 +36,12 @@ latestRelease:
   url: 'https://github.com/NathanNeurotic/launcHER/releases/tag/v1.0'
 activity:
   lastChecked: '2026-09-29T00:27:04.651Z'
-  lastSynchronized: '2026-11-18T13:59:25.353Z'
+  lastSynchronized: '2026-11-19T13:07:30.175Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bcc3428dde625ccef456a7a2d21951f164a8bd1a32d975b3295f5d1839b33499"
-    releasesEtag: W/"12b9b9d0c2512ec5dd6b9560cbae943c6d12cfa3fb988b3df061a59daee61072"
+    repoEtag: W/"fef67080e3b2b959678f9d700d07f245785e9ea920c213ad5006d0b0325ec769"
+    releasesEtag: W/"351f1f2cd36160ba03acb18bebb66e5e8624eeb53737eabb57577b701d007258"
 discovery:
   method: curated
   confidence: 100

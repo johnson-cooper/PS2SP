@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-11-10T14:49:42Z'
   url: 'https://github.com/PS2HomeDeveloper/Granny-PS2/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-11-18T13:59:08.625Z'
+  lastSynchronized: '2026-11-19T13:07:16.275Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"39ac2a00ee28c5f63975324d5cde17902b3c00af9382842bacfe7fd958f8ac03"
-    releasesEtag: W/"d3ba934d394490826c603ab89d1da0e2cdcd86613f32a05529dfa7bfb74c937f"
+    repoEtag: W/"c9ceb643e93a9019904aaa5e56edbee9cfded0cf1b04e5eb2174ba2ae192525d"
+    releasesEtag: W/"308c38fde16b09914eeb633dda37bfa7c15296ca4adf9859971d60ac3318d397"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

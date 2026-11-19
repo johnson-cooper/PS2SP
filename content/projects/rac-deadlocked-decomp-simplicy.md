@@ -32,12 +32,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-10-22T00:14:45.066Z'
-  lastSynchronized: '2026-11-18T14:01:32.333Z'
+  lastSynchronized: '2026-11-19T13:09:07.907Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7be17214c2d79482a0996c8373e593e905186343f34518dddd83e59af94bcc90"
-    releasesEtag: '"7b57c945769b0052d09a38056ad83fb8284a286035bb544614b5aec8767447e2"'
+    repoEtag: W/"812b9e41c3ba4c5db796828a3131edd04d7a0097e9484cdb0b59893bd2433e86"
+    releasesEtag: '"c0c458a23f97f1899cefc645c39e8be3a82be231c97070fce8b3880bc5f8fe53"'
 discovery:
   method: 'pending-promotion:fork-network:Lynder063/rac-deadlocked-decomp'
   confidence: 85

@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-18T13:59:09.964Z'
+  lastSynchronized: '2026-11-19T13:07:17.358Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"29f75eadadb3392329977a52ec0d7707ac7ee0bfaa1c648eccc211591ddf5edc"
-    releasesEtag: '"7b57c945769b0052d09a38056ad83fb8284a286035bb544614b5aec8767447e2"'
+    repoEtag: W/"357419cb74b57c7fde81477f87204f2e31cb03258ac7c7a9899843ed91b34496"
+    releasesEtag: '"c0c458a23f97f1899cefc645c39e8be3a82be231c97070fce8b3880bc5f8fe53"'
 discovery:
   method: 'fork-network:BigDaddyJRich/hctp-recomp'
   confidence: 100

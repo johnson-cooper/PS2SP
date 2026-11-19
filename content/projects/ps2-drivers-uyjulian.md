@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-18T14:00:51.567Z'
+  lastSynchronized: '2026-11-19T13:08:37.176Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4ef6a415555bdcbb455f5197cc4b3ce8406de0ab188e37a491b0dbd7a286b7ff"
-    releasesEtag: '"7b57c945769b0052d09a38056ad83fb8284a286035bb544614b5aec8767447e2"'
+    repoEtag: W/"f303bc1837b0fb641316b79772c3e3f7199e5d3f505b33ff46046345ffa7651d"
+    releasesEtag: '"c0c458a23f97f1899cefc645c39e8be3a82be231c97070fce8b3880bc5f8fe53"'
 discovery:
   method: 'fork-network:fjtrujy/ps2_drivers'
   confidence: 100

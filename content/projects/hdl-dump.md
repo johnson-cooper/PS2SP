@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/ps2homebrew/hdl-dump/releases/tag/v47'
 activity:
   lastChecked: '2026-09-29T00:27:03.794Z'
-  lastSynchronized: '2026-11-18T13:59:14.118Z'
+  lastSynchronized: '2026-11-19T13:07:21.113Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b418f4170cf6f1f02644055fa7c03ca40c2fc29077b77b62e86f75acde62b565"
-    releasesEtag: W/"840ee9c003b90d89852a930ed35775cec792754b2d1e014714e52b8feccfbfef"
+    repoEtag: W/"b869aa0469bf22a0f227d50c5c4825ba7125ae325b2cee419f96396e31274f24"
+    releasesEtag: W/"b6488f6f559e1a1a3ac7533093f1b2b37eafc438020693c532b79567426a5e71"
 discovery:
   method: curated
   confidence: 100

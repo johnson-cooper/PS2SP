@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/batatinhafcbatatinha-pixel/PS2Recomp/releases/tag/v2026.11.18.7
 activity:
-  lastSynchronized: '2026-11-18T14:01:08.586Z'
+  lastSynchronized: '2026-11-19T13:08:50.305Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"baf141de11002c6d5c19571d192052091098711e13537944f73bc28193cd1067"
-    releasesEtag: W/"aaf3549d956a3bda4e75d9058b292439b6d3bfc6a250ea9e1481e84fae3c93cb"
+    repoEtag: W/"9d4a144ecdc7e979f29beaebef858545c67c399e919346813f616b90eb1cb536"
+    releasesEtag: W/"9dfa738aec96d2e04a882c79f1cf6a4cbcbd62301853b07e95f6cf359643f540"
 discovery:
   method: 'fork-network:ran-j/PS2Recomp'
   confidence: 100

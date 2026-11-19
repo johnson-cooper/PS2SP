@@ -26,7 +26,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 10
+  stars: 12
   forks: 0
   lastCommit: '2026-11-16T15:07:48Z'
 latestRelease:
@@ -37,12 +37,12 @@ latestRelease:
     https://github.com/gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT/releases/tag/v1.1-nx
 activity:
   lastChecked: '2026-11-13T23:55:51.512Z'
-  lastSynchronized: '2026-11-18T14:01:35.694Z'
+  lastSynchronized: '2026-11-19T13:09:10.318Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ab1e3de7ff5e36da7a56860d4bfa2a840389e21332cee5644fdbcf8fa180416f"
-    releasesEtag: W/"49ba974ee05593ab5c044fca11b6f48e567ba75dfb6fed42db970a0b2bc21f2a"
+    repoEtag: W/"a481e0f4b8a40716997b3143795e7732d139515600244b7dc9f7cd60a8ea84cc"
+    releasesEtag: W/"b6c26f5061fc716b502e63ee757c1d4a7445210bcf6f69f76d583d54b8743a3d"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

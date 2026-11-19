@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: '2026-10-29T20:49:17Z'
   url: 'https://github.com/lcsmcm/re-adventures-billy-mandy/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-11-18T14:01:34.531Z'
+  lastSynchronized: '2026-11-19T13:09:09.718Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4a1b5a78bed837eea2cb91f2f37b93cf523bad5b0db656ebf6cb86436ccf4ff0"
-    releasesEtag: W/"f634a64ebd37d9068a484b5f7eb86117c42a65aa170114c5d5e412ad8ddb98c4"
+    repoEtag: W/"79b4819e428a36dc931d16c10928e66edd4a233e0ba4b3424ccf5e5cb2c3231b"
+    releasesEtag: W/"ba326ebca8efc94e6b6e7711989fb5c8ac533a51d6eac47e9727bc9680c832ea"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

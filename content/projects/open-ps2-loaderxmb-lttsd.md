@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2026-11-06T02:55:58Z'
   url: 'https://github.com/lttsd/Open-PS2-Loaderxmb/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-18T14:00:05.330Z'
+  lastSynchronized: '2026-11-19T13:08:00.933Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e280e2a1d7fd81d4120646557ae960994ac8cd59eb2ba7479d7b840ee03a52f4"
-    releasesEtag: W/"519fec51ec849c2909fde878784761c2cad5bb86236ea3b824751bb3b13d3e8d"
+    repoEtag: W/"69fef9295916764291df58eaa6f56484141756890315fa8be92ffff9e3f8f29d"
+    releasesEtag: W/"e8ee12a515d94fe187c1179c041207af769c01da19094649b0d36fca690d1220"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-11-17T17:26:47Z'
   url: 'https://github.com/RetroXR/Play-/releases/tag/retroxr-play-libretro-v4'
 activity:
-  lastSynchronized: '2026-11-18T14:00:40.889Z'
+  lastSynchronized: '2026-11-19T13:08:28.947Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0d63d468e663cdd39c5c2ff0035b1a84cd9244544254b5355aedd173d01f07e9"
-    releasesEtag: W/"411e380f7bbe75ddefd0f86b3990a7e56fd2cb5f35559ba6d7406f2ed57263e4"
+    repoEtag: W/"ad91c1e019daf9bcf1140e568447d4042a5a3429558c5664e01736ca1fd5e0e0"
+    releasesEtag: W/"273c1b2ce28b726b955e3a1c028f7a0a64aaaa1cff0fa0b88dcdcabc70192ec1"
 discovery:
   method: 'fork-network:jpd002/Play-'
   confidence: 100

@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-18T13:59:36.585Z'
+  lastSynchronized: '2026-11-19T13:07:39.223Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e7f436cea247f5673c3b8417d512e3ba0bb8d2702d017d72f9d8139076b52bce"
-    releasesEtag: '"7b57c945769b0052d09a38056ad83fb8284a286035bb544614b5aec8767447e2"'
+    repoEtag: W/"c6538a04efd6f2c262d25b1042cfda51a419e26df2543ebb2eb02c70b1b1c1bc"
+    releasesEtag: '"c0c458a23f97f1899cefc645c39e8be3a82be231c97070fce8b3880bc5f8fe53"'
 discovery:
   method: 'fork-network:amxcs/MechaPwn-v2-unofficial'
   confidence: 95
