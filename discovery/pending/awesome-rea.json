@@ -1,17 +1,17 @@
 {
-  "repository": "reacher-z/Awesome-REA",
-  "repositoryId": "1421473933",
-  "url": "https://github.com/reacher-z/Awesome-REA",
-  "description": "Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.",
-  "score": 75,
+  "repository": "yibie/awesome-rea",
+  "repositoryId": "1416422569",
+  "url": "https://github.com/yibie/awesome-rea",
+  "description": "A curated list of AI-assisted reverse engineering: decompilation, recompilation and native ports, with how each project verifies correctness",
+  "score": 85,
   "evidence": [
     "README explicitly mentions PlayStation 2",
     "README contains PS2 development/toolchain evidence",
-    "published GitHub release present"
+    "README identifies PS2 homebrew"
   ],
-  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
-  "maturity": "released-active",
+  "origin": "incremental:\"PS2 homebrew\" in:name,description,readme",
+  "maturity": "active-unreleased",
   "fork": null,
-  "discoveredAt": "2026-11-16T22:31:39.705Z",
-  "checkedAt": "2026-11-16T22:31:39.705Z"
+  "discoveredAt": "2026-11-19T12:10:19.958Z",
+  "checkedAt": "2026-11-19T12:10:19.958Z"
 }
