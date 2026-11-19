@@ -19,17 +19,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-18T07:35:04Z'
+  lastCommit: '2026-11-19T01:42:52Z'
 latestRelease:
-  tag: v0.5.2
-  name: PS2 Classics Package Studio v0.5.2
-  publishedAt: '2026-11-18T07:35:04Z'
+  tag: v0.7.0
+  name: PS1 and PS2 Classics Package Studio v0.7.0
+  publishedAt: '2026-11-19T01:42:22Z'
   url: >-
-    https://github.com/Laudadio93/ps2-classics-package-studio/releases/tag/v0.5.2
+    https://github.com/Laudadio93/ps2-classics-package-studio/releases/tag/v0.7.0
 activity:
-  lastSynchronized: '2026-11-18T13:27:32.696Z'
+  lastSynchronized: '2026-11-19T03:29:37.623Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b98bd887a6da358131f48ac98948ecf7115560101417f2466877eb40b5914a62"
+    releasesEtag: W/"a82a52d762386587930d9e2cc46bd27cef7182ab08374eb7c57c8adf7af08e5f"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

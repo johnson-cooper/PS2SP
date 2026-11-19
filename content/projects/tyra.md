@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/h4570/tyra/releases/tag/v2.7.3'
 activity:
   lastChecked: '2026-09-29T00:27:15.340Z'
-  lastSynchronized: '2026-11-17T03:57:06.311Z'
+  lastSynchronized: '2026-11-19T03:30:43.838Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a7dea6fea6161dd827d9956b3499530a9735b57bcd90f41c4df04e316bb6c414"
-    releasesEtag: W/"0f81fce93bf2186d651392871fe098727dadfa8a5e3bd55047bf39a8c435b10d"
+    repoEtag: W/"a4a2bb51086dc9b0ad84d5c1546273199ba5d00fba896dbb40d01ccbf5eaa220"
+    releasesEtag: W/"0d8d4ca4c7d5fa100c65d827efad2d3e84426d59f3bc3a041d0549a8f1b8f861"
 discovery:
   method: curated
   confidence: 100

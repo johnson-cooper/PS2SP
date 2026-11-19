@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-11-12T07:16:49Z'
   url: 'https://github.com/sahlberg/Launchstation/releases/tag/build-1157'
 activity:
-  lastSynchronized: '2026-11-17T03:55:11.373Z'
+  lastSynchronized: '2026-11-19T03:28:39.892Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6a52214563e746d3ec93b6ccbfcf57b2bf6d4153a34a719dd95ff5c3e8427eb0"
-    releasesEtag: W/"53d6b569ee5bd20fdc1da955561e31be746e809d694acffda51e3c277fa6dd62"
+    repoEtag: W/"1e0f7cfa2eecbe3bf0e25bdb24f884c892c766188aa84ca05247324809f4903b"
+    releasesEtag: W/"8355757d77e81fea5a70e5318760d13e1347d222af80a19c494fbb9d68f9b23f"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

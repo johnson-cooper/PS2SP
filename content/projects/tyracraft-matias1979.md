@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-17T03:57:07.446Z'
+  lastSynchronized: '2026-11-19T03:30:45.026Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"afaccb20fc9a3eea66c87eebbd6ee9bcad9538008f0d1dd9ad56eb932e51c179"
-    releasesEtag: '"3f89c379fb58370027d6c5f33107efe5538d1fbb8aedbdc644262c86a3929b77"'
+    repoEtag: W/"9c58374ed9f340453fe7935812681574a4053de3e87f751a47ece421f7442a7e"
+    releasesEtag: '"5439eddf41757a3450423ee500ca4e4ae360a247e876f1c1b434042b8a82a5b8"'
 discovery:
   method: 'fork-network:Wellinator/tyracraft'
   confidence: 100

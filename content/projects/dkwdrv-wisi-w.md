@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2022-05-26T19:21:15Z'
   url: 'https://github.com/wisi-w/DKWDRV/releases/tag/1.7.2'
 activity:
-  lastSynchronized: '2026-11-17T03:54:46.932Z'
+  lastSynchronized: '2026-11-19T03:28:08.117Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b8505c41e2ee3583b719ddc1077c00ede6bb567f1dfb2185788d4699f3441704"
-    releasesEtag: W/"c8b3c28aeabd4dfac6ae79e58a1f831becda466668d338ced1f4459a6218b3df"
+    repoEtag: W/"9f90e801782067ee9193a2e4049e517b1bed8ee2bf44dc36c8adbee434b3b86c"
+    releasesEtag: W/"b2e26a220d94030422179db1b3465a89caf287744c96cc51dcd8a4c9fc1b3f88"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 95

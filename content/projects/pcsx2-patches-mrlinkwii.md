@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-07-03T20:16:49Z'
   url: 'https://github.com/Mrlinkwii/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-17T03:55:52.831Z'
+  lastSynchronized: '2026-11-19T03:29:20.876Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c896b4ca099b292e69b122bf254f5a6aebd71ecd92ae47886e366f7d1beaeece"
-    releasesEtag: W/"2676eabab2381508428d887c6c8bbaa95982f0cd87a56719fc785c2642a6678e"
+    repoEtag: W/"59374ce7760603efe0631b7745b965d6ff0f69804aa397d13baf44c54c8599db"
+    releasesEtag: W/"5befcaa8b0fdaaabe0057cc232ff5e0f923ee9c3b3ab8d36ac6ac546faf4afef"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95

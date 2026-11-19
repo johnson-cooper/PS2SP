@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2025-04-28T12:06:02Z'
   url: 'https://github.com/calos9999/Funtuna-Fork/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-17T03:54:55.199Z'
+  lastSynchronized: '2026-11-19T03:28:19.342Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f9604faae16f4a754eb5436849f0ef487941637400decd92dbef424be13c3f56"
-    releasesEtag: W/"63804cf075fd9ca61f2611d47134b263cdd91d29c06a359b5a8d6b96bb48963d"
+    repoEtag: W/"ee64a5c87dcd56bb622f1ea4c26fa9a2510a0c96e4305747d2d395e2d09738de"
+    releasesEtag: W/"6641f848cd43d5287ff38a7f13638f4fa958b2015562e48522356f5c2028cefe"
 discovery:
   method: 'fork-network:israpps/Funtuna-Fork'
   confidence: 100

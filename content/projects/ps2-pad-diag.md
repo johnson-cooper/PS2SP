@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-11-03T17:49:32Z'
   url: 'https://github.com/FSMaker77/PS2-Pad-Diag/releases/tag/v2.0'
 activity:
-  lastSynchronized: '2026-11-17T03:56:15.602Z'
+  lastSynchronized: '2026-11-19T03:29:46.466Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"955c0ea6c339ab3f5cc13ece9457ea36a61a54e26bd72acf145bae7793fb46c7"
-    releasesEtag: W/"4cc82a918ca96cc50077fa07164d96263170f222df582c5e8a8d79682198851a"
+    repoEtag: W/"aec6343a293a24b7c5de3b713436add4cba134b9ab85d3a2cbf7923361c34652"
+    releasesEtag: W/"a94a4d7c05d9578d0a9e42686c1b6911563335f974f4568f59c9bd30bba6d5d2"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

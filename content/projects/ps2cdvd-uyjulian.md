@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-17T03:56:20.677Z'
+  lastSynchronized: '2026-11-19T03:29:52.080Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3dc77b3b156b9d5c89967fa88290ad600349ebdd7b162d602817b4955fb01fb2"
-    releasesEtag: '"3f89c379fb58370027d6c5f33107efe5538d1fbb8aedbdc644262c86a3929b77"'
+    repoEtag: W/"0d566c6e15a446d3eb9a82b1cbbd3598ea5a06dfa1f152d219cfb9492150d31e"
+    releasesEtag: '"5439eddf41757a3450423ee500ca4e4ae360a247e876f1c1b434042b8a82a5b8"'
 discovery:
   method: 'fork-network:asmblur/ps2cdvd'
   confidence: 95

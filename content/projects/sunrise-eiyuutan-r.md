@@ -23,7 +23,7 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-11-03T15:55:33Z'
+  lastCommit: '2026-11-17T08:16:05Z'
 latestRelease:
   tag: v0.8.0
   name: Sunrise Eiyuutan R English — v0.8.0
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/retro-trans/Sunrise-Eiyuutan-R/releases/tag/v0.8.0'
 activity:
   lastChecked: '2026-11-03T21:16:47.802Z'
-  lastSynchronized: '2026-11-17T03:57:04.201Z'
+  lastSynchronized: '2026-11-19T03:30:41.317Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ee9aff6fdab2aec168c818d03a947993e468ce7b6ed2fab3d19bcbe500b7a8c3"
-    releasesEtag: W/"05f16da071393dba37850f930d708ad82d47b7a3ee5218f553fb3e7c5c0cc595"
+    repoEtag: W/"575e0b104129b5517cb09b94df8666ac0453521693bd38949691876d44d019fa"
+    releasesEtag: W/"d65b009ddc70cc835c3c9453b2d0e2d96c6342771e8143f710d6c46a95f8e270"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

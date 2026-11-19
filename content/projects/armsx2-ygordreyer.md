@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-21T18:55:54Z'
   url: 'https://github.com/ygordreyer/ARMSX2/releases/tag/pr802-gsdumps-20261021'
 activity:
-  lastSynchronized: '2026-11-17T03:54:38.773Z'
+  lastSynchronized: '2026-11-19T03:27:57.639Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"557465a3ee95f67f15f58075ee7575ea738bc0bd930b62cf58e9b648094b5a30"
-    releasesEtag: W/"5db80fcaa46225c2b72ab056fbd67fafa371c8304be50727b97552fc4880a4f9"
+    repoEtag: W/"a9887284951d54e1cb70a801da3d7bf1bb0aa0cc269d8aa11a6632645789d733"
+    releasesEtag: W/"1afcb20d752bc85cdda5bfac986a0d4787ce21cd18a46f56fadd075a562c011c"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

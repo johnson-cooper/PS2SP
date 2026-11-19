@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-04-03T15:36:00Z'
   url: 'https://github.com/ceilingtilefan/Butterscotch-360/releases/tag/v0.1'
 activity:
-  lastSynchronized: '2026-11-17T03:54:41.916Z'
+  lastSynchronized: '2026-11-19T03:28:01.973Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ba19201ec1f0b859a76b9515834f8b54e1e02df62311c4b6b9f50bd265f0587e"
-    releasesEtag: W/"39db7b50fe0abb65b78d33040929efccc59c92cba173a9ed8e39047451d6d208"
+    repoEtag: W/"91227725e5a733a202ee2200911f03a5c6e4d7724ba53d68d70fa9df09303273"
+    releasesEtag: W/"47733bc32655e7620323374d2d0cab7f4acdd4c5fa8094399861d21689593823"
 discovery:
   method: 'fork-network:ButterscotchRunner/Butterscotch'
   confidence: 100
