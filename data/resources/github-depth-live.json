@@ -158019,6 +158019,19 @@
         ]
       },
       {
+        "name": "ohabibo/chaindive-english-patch — branch: main",
+        "url": "https://github.com/ohabibo/chaindive-english-patch/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ohabibo/chaindive-english-patch",
+          "main"
+        ]
+      },
+      {
         "name": "ohlawdie/FreeDVDBoot — branch: master",
         "url": "https://github.com/ohlawdie/FreeDVDBoot/tree/master",
         "keywords": [
@@ -166170,6 +166183,58 @@
         ]
       },
       {
+        "name": "platypet2217-star/rac2-gc-decomp-pal — branch: feature/registrar-identidad-pal",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/feature/registrar-identidad-pal",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "feature/registrar-identidad-pal"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal — branch: master",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "master"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal — branch: RAC2",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal — branch: RAC2-docs",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2-docs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2-docs"
+        ]
+      },
+      {
         "name": "playstation2-development/gsKit — branch: master",
         "url": "https://github.com/playstation2-development/gsKit/tree/master",
         "keywords": [
@@ -166309,6 +166374,19 @@
           "branch",
           "repository",
           "Pomsky2011/Butterscotch-AGB-NTR",
+          "main"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc — branch: main",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pooljarvis326-sketch/ico-pc",
           "main"
         ]
       },
@@ -216350,6 +216428,32 @@
         ]
       },
       {
+        "name": "strangeliu/libsmb2 — branch: master",
+        "url": "https://github.com/strangeliu/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "strangeliu/libsmb2",
+          "master"
+        ]
+      },
+      {
+        "name": "strangeliu/libsmb2 — branch: resourceProvider",
+        "url": "https://github.com/strangeliu/libsmb2/tree/resourceProvider",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "strangeliu/libsmb2",
+          "resourceProvider"
+        ]
+      },
+      {
         "name": "StrawFox64/libsmb2 — branch: master",
         "url": "https://github.com/StrawFox64/libsmb2/tree/master",
         "keywords": [
@@ -222057,6 +222161,214 @@
         ]
       },
       {
+        "name": "tingv/libsmb2 — branch: builtin-ntlmssp",
+        "url": "https://github.com/tingv/libsmb2/tree/builtin-ntlmssp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tingv/libsmb2",
+          "builtin-ntlmssp"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2 — branch: cmake-is-broken",
+        "url": "https://github.com/tingv/libsmb2/tree/cmake-is-broken",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tingv/libsmb2",
+          "cmake-is-broken"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2 — branch: dce-unfragment-ioctl",
+        "url": "https://github.com/tingv/libsmb2/tree/dce-unfragment-ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tingv/libsmb2",
+          "dce-unfragment-ioctl"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2 — branch: dcerpc",
+        "url": "https://github.com/tingv/libsmb2/tree/dcerpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tingv/libsmb2",
+          "dcerpc"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2 — branch: endianness-tests",
+        "url": "https://github.com/tingv/libsmb2/tree/endianness-tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tingv/libsmb2",
+          "endianness-tests"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2 — branch: ioctl",
+        "url": "https://github.com/tingv/libsmb2/tree/ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tingv/libsmb2",
+          "ioctl"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2 — branch: master",
+        "url": "https://github.com/tingv/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tingv/libsmb2",
+          "master"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2 — branch: ps2",
+        "url": "https://github.com/tingv/libsmb2/tree/ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tingv/libsmb2",
+          "ps2"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2 — branch: ps2ips",
+        "url": "https://github.com/tingv/libsmb2/tree/ps2ips",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tingv/libsmb2",
+          "ps2ips"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2 — branch: server-socket-test",
+        "url": "https://github.com/tingv/libsmb2/tree/server-socket-test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tingv/libsmb2",
+          "server-socket-test"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2 — branch: small",
+        "url": "https://github.com/tingv/libsmb2/tree/small",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tingv/libsmb2",
+          "small"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2 — branch: smb311",
+        "url": "https://github.com/tingv/libsmb2/tree/smb311",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tingv/libsmb2",
+          "smb311"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2 — branch: sp2",
+        "url": "https://github.com/tingv/libsmb2/tree/sp2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tingv/libsmb2",
+          "sp2"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2 — branch: super-small",
+        "url": "https://github.com/tingv/libsmb2/tree/super-small",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tingv/libsmb2",
+          "super-small"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2 — branch: test",
+        "url": "https://github.com/tingv/libsmb2/tree/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tingv/libsmb2",
+          "test"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2 — branch: test-merge",
+        "url": "https://github.com/tingv/libsmb2/tree/test-merge",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tingv/libsmb2",
+          "test-merge"
+        ]
+      },
+      {
         "name": "TiredEyesThomas/FreeDVDBoot — branch: gh-pages",
         "url": "https://github.com/TiredEyesThomas/FreeDVDBoot/tree/gh-pages",
         "keywords": [
@@ -226516,6 +226828,32 @@
         ]
       },
       {
+        "name": "tryggvil/libsmb2 — branch: master",
+        "url": "https://github.com/tryggvil/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tryggvil/libsmb2",
+          "master"
+        ]
+      },
+      {
+        "name": "tryggvil/libsmb2 — branch: notify_change_client",
+        "url": "https://github.com/tryggvil/libsmb2/tree/notify_change_client",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "tryggvil/libsmb2",
+          "notify_change_client"
+        ]
+      },
+      {
         "name": "tuloxcontulox-tech/Butterscotch — branch: main",
         "url": "https://github.com/tuloxcontulox-tech/Butterscotch/tree/main",
         "keywords": [
@@ -226733,6 +227071,19 @@
           "branch",
           "repository",
           "txntixnz/ARMSX2-for-iOS-16",
+          "master"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2 — branch: master",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ufodriverr/pcsx2",
           "master"
         ]
       },
@@ -2214461,6 +2214812,606 @@
         ]
       },
       {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@feature/registrar-identidad-pal — candidates/sdk",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/feature/registrar-identidad-pal/candidates/sdk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "feature/registrar-identidad-pal",
+          "candidates/sdk"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@feature/registrar-identidad-pal — ports",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/feature/registrar-identidad-pal/ports",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "feature/registrar-identidad-pal",
+          "ports"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@feature/registrar-identidad-pal — ports/pal-functional",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/feature/registrar-identidad-pal/ports/pal-functional",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "feature/registrar-identidad-pal",
+          "ports/pal-functional"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@feature/registrar-identidad-pal — ports/pal-functional/src/game",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/feature/registrar-identidad-pal/ports/pal-functional/src/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "feature/registrar-identidad-pal",
+          "ports/pal-functional/src/game"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@feature/registrar-identidad-pal — ports/pal-functional/tools",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/feature/registrar-identidad-pal/ports/pal-functional/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "feature/registrar-identidad-pal",
+          "ports/pal-functional/tools"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@feature/registrar-identidad-pal — scripts",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/feature/registrar-identidad-pal/scripts",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "feature/registrar-identidad-pal",
+          "scripts"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@feature/registrar-identidad-pal — src/libgcc",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/feature/registrar-identidad-pal/src/libgcc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "feature/registrar-identidad-pal",
+          "src/libgcc"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@feature/registrar-identidad-pal — src/sdk",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/feature/registrar-identidad-pal/src/sdk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "feature/registrar-identidad-pal",
+          "src/sdk"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@feature/registrar-identidad-pal — toolchain",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/feature/registrar-identidad-pal/toolchain",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "feature/registrar-identidad-pal",
+          "toolchain"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@master — nonmatching",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/master/nonmatching",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "master",
+          "nonmatching"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@master — nonmatching/game",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/master/nonmatching/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "master",
+          "nonmatching/game"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@master — ports",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/master/ports",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "master",
+          "ports"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@master — ports/pal-functional",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/master/ports/pal-functional",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "master",
+          "ports/pal-functional"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@master — ports/pal-functional/src/game",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/master/ports/pal-functional/src/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "master",
+          "ports/pal-functional/src/game"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@master — ports/pal-functional/tools",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/master/ports/pal-functional/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "master",
+          "ports/pal-functional/tools"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@master — src/game",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/master/src/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "master",
+          "src/game"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@master — symbol_addrs",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/master/symbol_addrs",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "master",
+          "symbol_addrs"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@master — toolchain",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/master/toolchain",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "master",
+          "toolchain"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@master — tools",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@master — tools/compiler",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/master/tools/compiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "master",
+          "tools/compiler"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@master — tools/compiler/sdk",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/master/tools/compiler/sdk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "master",
+          "tools/compiler/sdk"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2 — candidates/sdk",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2/candidates/sdk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2",
+          "candidates/sdk"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2 — ports",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2/ports",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2",
+          "ports"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2 — ports/pal-functional",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2/ports/pal-functional",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2",
+          "ports/pal-functional"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2 — ports/pal-functional/src/game",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2/ports/pal-functional/src/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2",
+          "ports/pal-functional/src/game"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2 — ports/pal-functional/tools",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2/ports/pal-functional/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2",
+          "ports/pal-functional/tools"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2 — scripts",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2/scripts",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2",
+          "scripts"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2 — src/libgcc",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2/src/libgcc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2",
+          "src/libgcc"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2 — src/sdk",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2/src/sdk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2",
+          "src/sdk"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2 — toolchain",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2/toolchain",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2",
+          "toolchain"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2-docs — candidates/sdk",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2-docs/candidates/sdk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2-docs",
+          "candidates/sdk"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2-docs — nonmatching",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2-docs/nonmatching",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2-docs",
+          "nonmatching"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2-docs — ports",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2-docs/ports",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2-docs",
+          "ports"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2-docs — ports/pal-functional",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2-docs/ports/pal-functional",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2-docs",
+          "ports/pal-functional"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2-docs — ports/pal-functional/src/game",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2-docs/ports/pal-functional/src/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2-docs",
+          "ports/pal-functional/src/game"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2-docs — ports/pal-functional/tools",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2-docs/ports/pal-functional/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2-docs",
+          "ports/pal-functional/tools"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2-docs — scripts",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2-docs/scripts",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2-docs",
+          "scripts"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2-docs — src/libgcc",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2-docs/src/libgcc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2-docs",
+          "src/libgcc"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2-docs — src/sdk",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2-docs/src/sdk",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2-docs",
+          "src/sdk"
+        ]
+      },
+      {
+        "name": "platypet2217-star/rac2-gc-decomp-pal@RAC2-docs — toolchain",
+        "url": "https://github.com/platypet2217-star/rac2-gc-decomp-pal/tree/RAC2-docs/toolchain",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "platypet2217-star/rac2-gc-decomp-pal",
+          "RAC2-docs",
+          "toolchain"
+        ]
+      },
+      {
         "name": "playstation2-development/gsKit@master — ee",
         "url": "https://github.com/playstation2-development/gsKit/tree/master/ee",
         "keywords": [
@@ -2215013,6 +2215964,291 @@
           "pompom454/sly1",
           "main",
           "tools/codematcher"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/audio",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/audio",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/audio"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/config",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/config",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/config"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/data",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/data",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/data"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/fmv",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/fmv",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/fmv"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/game",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/game"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/input",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/input",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/input"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/math",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/math",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/math"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/null",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/null",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/null"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/platform",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/platform",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/platform"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/render",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/render",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/render"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/render/tools",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/render/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/render/tools"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/rhi",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/rhi",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/rhi"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/save",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/save",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/save"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/shaders",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/shaders",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/shaders"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/shaders/test",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/shaders/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/shaders/test"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/test",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/test"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — port/ui",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/port/ui",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "port/ui"
+        ]
+      },
+      {
+        "name": "pooljarvis326-sketch/ico-pc@main — tools",
+        "url": "https://github.com/pooljarvis326-sketch/ico-pc/tree/main/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pooljarvis326-sketch/ico-pc",
+          "main",
+          "tools"
         ]
       },
       {
@@ -2631094,6 +2632330,171 @@
         ]
       },
       {
+        "name": "strangeliu/libsmb2@master — cmake/Modules",
+        "url": "https://github.com/strangeliu/libsmb2/tree/master/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "strangeliu/libsmb2",
+          "master",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "strangeliu/libsmb2@master — examples",
+        "url": "https://github.com/strangeliu/libsmb2/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "strangeliu/libsmb2",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "strangeliu/libsmb2@master — examples/picow",
+        "url": "https://github.com/strangeliu/libsmb2/tree/master/examples/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "strangeliu/libsmb2",
+          "master",
+          "examples/picow"
+        ]
+      },
+      {
+        "name": "strangeliu/libsmb2@master — include/picow",
+        "url": "https://github.com/strangeliu/libsmb2/tree/master/include/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "strangeliu/libsmb2",
+          "master",
+          "include/picow"
+        ]
+      },
+      {
+        "name": "strangeliu/libsmb2@master — lib",
+        "url": "https://github.com/strangeliu/libsmb2/tree/master/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "strangeliu/libsmb2",
+          "master",
+          "lib"
+        ]
+      },
+      {
+        "name": "strangeliu/libsmb2@master — tests",
+        "url": "https://github.com/strangeliu/libsmb2/tree/master/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "strangeliu/libsmb2",
+          "master",
+          "tests"
+        ]
+      },
+      {
+        "name": "strangeliu/libsmb2@resourceProvider — cmake/Modules",
+        "url": "https://github.com/strangeliu/libsmb2/tree/resourceProvider/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "strangeliu/libsmb2",
+          "resourceProvider",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "strangeliu/libsmb2@resourceProvider — examples",
+        "url": "https://github.com/strangeliu/libsmb2/tree/resourceProvider/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "strangeliu/libsmb2",
+          "resourceProvider",
+          "examples"
+        ]
+      },
+      {
+        "name": "strangeliu/libsmb2@resourceProvider — examples/picow",
+        "url": "https://github.com/strangeliu/libsmb2/tree/resourceProvider/examples/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "strangeliu/libsmb2",
+          "resourceProvider",
+          "examples/picow"
+        ]
+      },
+      {
+        "name": "strangeliu/libsmb2@resourceProvider — include/picow",
+        "url": "https://github.com/strangeliu/libsmb2/tree/resourceProvider/include/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "strangeliu/libsmb2",
+          "resourceProvider",
+          "include/picow"
+        ]
+      },
+      {
+        "name": "strangeliu/libsmb2@resourceProvider — lib",
+        "url": "https://github.com/strangeliu/libsmb2/tree/resourceProvider/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "strangeliu/libsmb2",
+          "resourceProvider",
+          "lib"
+        ]
+      },
+      {
         "name": "strikersix23/pcsx2@imgbot — 3rdparty/ccc",
         "url": "https://github.com/strikersix23/pcsx2/tree/imgbot/3rdparty/ccc",
         "keywords": [
@@ -2732845,6 +2734246,891 @@
         ]
       },
       {
+        "name": "tingv/libsmb2@builtin-ntlmssp — cmake/Modules",
+        "url": "https://github.com/tingv/libsmb2/tree/builtin-ntlmssp/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "builtin-ntlmssp",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@builtin-ntlmssp — examples",
+        "url": "https://github.com/tingv/libsmb2/tree/builtin-ntlmssp/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "builtin-ntlmssp",
+          "examples"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@builtin-ntlmssp — lib",
+        "url": "https://github.com/tingv/libsmb2/tree/builtin-ntlmssp/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "builtin-ntlmssp",
+          "lib"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@cmake-is-broken — cmake/Modules",
+        "url": "https://github.com/tingv/libsmb2/tree/cmake-is-broken/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "cmake-is-broken",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@cmake-is-broken — examples",
+        "url": "https://github.com/tingv/libsmb2/tree/cmake-is-broken/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "cmake-is-broken",
+          "examples"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@cmake-is-broken — examples/picow",
+        "url": "https://github.com/tingv/libsmb2/tree/cmake-is-broken/examples/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "cmake-is-broken",
+          "examples/picow"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@cmake-is-broken — include/picow",
+        "url": "https://github.com/tingv/libsmb2/tree/cmake-is-broken/include/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "cmake-is-broken",
+          "include/picow"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@cmake-is-broken — lib",
+        "url": "https://github.com/tingv/libsmb2/tree/cmake-is-broken/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "cmake-is-broken",
+          "lib"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@cmake-is-broken — tests",
+        "url": "https://github.com/tingv/libsmb2/tree/cmake-is-broken/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "cmake-is-broken",
+          "tests"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@dce-unfragment-ioctl — cmake/Modules",
+        "url": "https://github.com/tingv/libsmb2/tree/dce-unfragment-ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "dce-unfragment-ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@dce-unfragment-ioctl — examples",
+        "url": "https://github.com/tingv/libsmb2/tree/dce-unfragment-ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "dce-unfragment-ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@dce-unfragment-ioctl — lib",
+        "url": "https://github.com/tingv/libsmb2/tree/dce-unfragment-ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "dce-unfragment-ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@dcerpc — cmake/Modules",
+        "url": "https://github.com/tingv/libsmb2/tree/dcerpc/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "dcerpc",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@dcerpc — examples",
+        "url": "https://github.com/tingv/libsmb2/tree/dcerpc/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "dcerpc",
+          "examples"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@dcerpc — lib",
+        "url": "https://github.com/tingv/libsmb2/tree/dcerpc/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "dcerpc",
+          "lib"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@endianness-tests — cmake/Modules",
+        "url": "https://github.com/tingv/libsmb2/tree/endianness-tests/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "endianness-tests",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@endianness-tests — examples",
+        "url": "https://github.com/tingv/libsmb2/tree/endianness-tests/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "endianness-tests",
+          "examples"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@endianness-tests — lib",
+        "url": "https://github.com/tingv/libsmb2/tree/endianness-tests/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "endianness-tests",
+          "lib"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@ioctl — cmake/Modules",
+        "url": "https://github.com/tingv/libsmb2/tree/ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@ioctl — examples",
+        "url": "https://github.com/tingv/libsmb2/tree/ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@ioctl — lib",
+        "url": "https://github.com/tingv/libsmb2/tree/ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@master — cmake/Modules",
+        "url": "https://github.com/tingv/libsmb2/tree/master/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "master",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@master — examples",
+        "url": "https://github.com/tingv/libsmb2/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@master — examples/picow",
+        "url": "https://github.com/tingv/libsmb2/tree/master/examples/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "master",
+          "examples/picow"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@master — include/picow",
+        "url": "https://github.com/tingv/libsmb2/tree/master/include/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "master",
+          "include/picow"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@master — lib",
+        "url": "https://github.com/tingv/libsmb2/tree/master/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "master",
+          "lib"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@master — tests",
+        "url": "https://github.com/tingv/libsmb2/tree/master/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "master",
+          "tests"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@ps2 — cmake/Modules",
+        "url": "https://github.com/tingv/libsmb2/tree/ps2/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "ps2",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@ps2 — examples",
+        "url": "https://github.com/tingv/libsmb2/tree/ps2/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "ps2",
+          "examples"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@ps2 — lib",
+        "url": "https://github.com/tingv/libsmb2/tree/ps2/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "ps2",
+          "lib"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@ps2ips — cmake/Modules",
+        "url": "https://github.com/tingv/libsmb2/tree/ps2ips/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "ps2ips",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@ps2ips — examples",
+        "url": "https://github.com/tingv/libsmb2/tree/ps2ips/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "ps2ips",
+          "examples"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@ps2ips — lib",
+        "url": "https://github.com/tingv/libsmb2/tree/ps2ips/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "ps2ips",
+          "lib"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@server-socket-test — cmake/Modules",
+        "url": "https://github.com/tingv/libsmb2/tree/server-socket-test/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "server-socket-test",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@server-socket-test — examples",
+        "url": "https://github.com/tingv/libsmb2/tree/server-socket-test/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "server-socket-test",
+          "examples"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@server-socket-test — examples/picow",
+        "url": "https://github.com/tingv/libsmb2/tree/server-socket-test/examples/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "server-socket-test",
+          "examples/picow"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@server-socket-test — include/picow",
+        "url": "https://github.com/tingv/libsmb2/tree/server-socket-test/include/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "server-socket-test",
+          "include/picow"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@server-socket-test — lib",
+        "url": "https://github.com/tingv/libsmb2/tree/server-socket-test/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "server-socket-test",
+          "lib"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@small — cmake/Modules",
+        "url": "https://github.com/tingv/libsmb2/tree/small/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "small",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@small — examples",
+        "url": "https://github.com/tingv/libsmb2/tree/small/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "small",
+          "examples"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@small — lib",
+        "url": "https://github.com/tingv/libsmb2/tree/small/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "small",
+          "lib"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@smb311 — cmake/Modules",
+        "url": "https://github.com/tingv/libsmb2/tree/smb311/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "smb311",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@smb311 — examples",
+        "url": "https://github.com/tingv/libsmb2/tree/smb311/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "smb311",
+          "examples"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@smb311 — lib",
+        "url": "https://github.com/tingv/libsmb2/tree/smb311/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "smb311",
+          "lib"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@sp2 — cmake/Modules",
+        "url": "https://github.com/tingv/libsmb2/tree/sp2/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "sp2",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@sp2 — examples",
+        "url": "https://github.com/tingv/libsmb2/tree/sp2/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "sp2",
+          "examples"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@sp2 — lib",
+        "url": "https://github.com/tingv/libsmb2/tree/sp2/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "sp2",
+          "lib"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@super-small — cmake/Modules",
+        "url": "https://github.com/tingv/libsmb2/tree/super-small/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "super-small",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@super-small — examples",
+        "url": "https://github.com/tingv/libsmb2/tree/super-small/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "super-small",
+          "examples"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@super-small — lib",
+        "url": "https://github.com/tingv/libsmb2/tree/super-small/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "super-small",
+          "lib"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@test — cmake/Modules",
+        "url": "https://github.com/tingv/libsmb2/tree/test/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "test",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@test — examples",
+        "url": "https://github.com/tingv/libsmb2/tree/test/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "test",
+          "examples"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@test — lib",
+        "url": "https://github.com/tingv/libsmb2/tree/test/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "test",
+          "lib"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@test-merge — cmake/Modules",
+        "url": "https://github.com/tingv/libsmb2/tree/test-merge/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "test-merge",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@test-merge — examples",
+        "url": "https://github.com/tingv/libsmb2/tree/test-merge/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "test-merge",
+          "examples"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@test-merge — examples/picow",
+        "url": "https://github.com/tingv/libsmb2/tree/test-merge/examples/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "test-merge",
+          "examples/picow"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@test-merge — include/picow",
+        "url": "https://github.com/tingv/libsmb2/tree/test-merge/include/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "test-merge",
+          "include/picow"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@test-merge — lib",
+        "url": "https://github.com/tingv/libsmb2/tree/test-merge/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "test-merge",
+          "lib"
+        ]
+      },
+      {
+        "name": "tingv/libsmb2@test-merge — tests",
+        "url": "https://github.com/tingv/libsmb2/tree/test-merge/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tingv/libsmb2",
+          "test-merge",
+          "tests"
+        ]
+      },
+      {
         "name": "TJnotJT/pcsx2@dx12-remoe-var — 3rdparty/ccc",
         "url": "https://github.com/TJnotJT/pcsx2/tree/dx12-remoe-var/3rdparty/ccc",
         "keywords": [
@@ -2820535,6 +2822821,186 @@
         ]
       },
       {
+        "name": "tryggvil/libsmb2@master — cmake/Modules",
+        "url": "https://github.com/tryggvil/libsmb2/tree/master/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tryggvil/libsmb2",
+          "master",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tryggvil/libsmb2@master — examples",
+        "url": "https://github.com/tryggvil/libsmb2/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tryggvil/libsmb2",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "tryggvil/libsmb2@master — examples/picow",
+        "url": "https://github.com/tryggvil/libsmb2/tree/master/examples/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tryggvil/libsmb2",
+          "master",
+          "examples/picow"
+        ]
+      },
+      {
+        "name": "tryggvil/libsmb2@master — include/picow",
+        "url": "https://github.com/tryggvil/libsmb2/tree/master/include/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tryggvil/libsmb2",
+          "master",
+          "include/picow"
+        ]
+      },
+      {
+        "name": "tryggvil/libsmb2@master — lib",
+        "url": "https://github.com/tryggvil/libsmb2/tree/master/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tryggvil/libsmb2",
+          "master",
+          "lib"
+        ]
+      },
+      {
+        "name": "tryggvil/libsmb2@master — tests",
+        "url": "https://github.com/tryggvil/libsmb2/tree/master/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tryggvil/libsmb2",
+          "master",
+          "tests"
+        ]
+      },
+      {
+        "name": "tryggvil/libsmb2@notify_change_client — cmake/Modules",
+        "url": "https://github.com/tryggvil/libsmb2/tree/notify_change_client/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tryggvil/libsmb2",
+          "notify_change_client",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "tryggvil/libsmb2@notify_change_client — examples",
+        "url": "https://github.com/tryggvil/libsmb2/tree/notify_change_client/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tryggvil/libsmb2",
+          "notify_change_client",
+          "examples"
+        ]
+      },
+      {
+        "name": "tryggvil/libsmb2@notify_change_client — examples/picow",
+        "url": "https://github.com/tryggvil/libsmb2/tree/notify_change_client/examples/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tryggvil/libsmb2",
+          "notify_change_client",
+          "examples/picow"
+        ]
+      },
+      {
+        "name": "tryggvil/libsmb2@notify_change_client — include/picow",
+        "url": "https://github.com/tryggvil/libsmb2/tree/notify_change_client/include/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tryggvil/libsmb2",
+          "notify_change_client",
+          "include/picow"
+        ]
+      },
+      {
+        "name": "tryggvil/libsmb2@notify_change_client — lib",
+        "url": "https://github.com/tryggvil/libsmb2/tree/notify_change_client/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tryggvil/libsmb2",
+          "notify_change_client",
+          "lib"
+        ]
+      },
+      {
+        "name": "tryggvil/libsmb2@notify_change_client — tests",
+        "url": "https://github.com/tryggvil/libsmb2/tree/notify_change_client/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "tryggvil/libsmb2",
+          "notify_change_client",
+          "tests"
+        ]
+      },
+      {
         "name": "Tunglam0605/TungLam-PS2-Controller@main — examples",
         "url": "https://github.com/Tunglam0605/TungLam-PS2-Controller/tree/main/examples",
         "keywords": [
@@ -2821762,6 +2824228,606 @@
           "tweeks024/Open-PS2-Loader",
           "parental-locked-games",
           "pc/opl2iso"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/ccc",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/ccc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/ccc"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/cpuinfo",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/cpuinfo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/cpuinfo"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/cubeb",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/cubeb",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/cubeb"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/d3d12memalloc",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/d3d12memalloc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/d3d12memalloc"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/demangler",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/demangler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/demangler"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/discord-rpc",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/discord-rpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/discord-rpc"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/fast_float",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/fast_float",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/fast_float"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/fmt",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/fmt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/fmt"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/freesurround",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/freesurround",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/freesurround"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/glad",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/glad",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/glad"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/googletest",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/googletest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/googletest"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/googletest/googlemock",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/googletest/googlemock",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/googletest/googlemock"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/imgui",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/imgui",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/imgui"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/libchdr",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/libchdr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/libchdr"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/libzip",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/libzip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/libzip"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/libzip/lib",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/libzip/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/libzip/lib"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/lzma",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/lzma",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/lzma"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/rainterface",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/rainterface",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/rainterface"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/rapidjson",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/rapidjson",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/rapidjson"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/rcheevos",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/rcheevos",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/rcheevos"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/simpleini",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/simpleini",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/simpleini"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/soundtouch",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/soundtouch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/soundtouch"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/vixl",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/vixl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/vixl"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/vulkan",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/vulkan",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/vulkan"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/winpixeventruntime",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/winpixeventruntime",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/winpixeventruntime"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/winwil",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/winwil",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/winwil"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — 3rdparty/zydis",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/3rdparty/zydis",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "3rdparty/zydis"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — common",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "common"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — pcsx2",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/pcsx2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "pcsx2"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — pcsx2-gsrunner",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/pcsx2-gsrunner",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "pcsx2-gsrunner"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — pcsx2-qt",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/pcsx2-qt",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "pcsx2-qt"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — pcsx2-qt/Tools",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/pcsx2-qt/Tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "pcsx2-qt/Tools"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — pcsx2/GS",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/pcsx2/GS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "pcsx2/GS"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — pcsx2/ps2/Iop",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/pcsx2/ps2/Iop",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "pcsx2/ps2/Iop"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — tests/ctest",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/tests/ctest",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "tests/ctest"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — tests/ctest/common",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/tests/ctest/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "tests/ctest/common"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — tests/ctest/core",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/tests/ctest/core",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "tests/ctest/core"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — tests/ctest/core/GS",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/tests/ctest/core/GS",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "tests/ctest/core/GS"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — tools",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "tools"
+        ]
+      },
+      {
+        "name": "ufodriverr/pcsx2@master — updater",
+        "url": "https://github.com/ufodriverr/pcsx2/tree/master/updater",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ufodriverr/pcsx2",
+          "master",
+          "updater"
         ]
       },
       {
