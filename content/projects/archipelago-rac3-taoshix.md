@@ -22,19 +22,19 @@ repository:
   defaultBranch: main
   stars: 18
   forks: 1
-  lastCommit: '2026-11-15T19:00:37Z'
+  lastCommit: '2026-11-20T15:36:39Z'
 latestRelease:
-  tag: v0.7.0
-  name: RaC3 APWorld v0.7.0
-  publishedAt: '2026-10-29T20:30:35Z'
-  url: 'https://github.com/Taoshix/Archipelago-RaC3/releases/tag/v0.7.0'
+  tag: v0.7.5
+  name: RaC3 APWorld v0.7.5
+  publishedAt: '2026-11-19T23:44:43Z'
+  url: 'https://github.com/Taoshix/Archipelago-RaC3/releases/tag/v0.7.5'
 activity:
-  lastSynchronized: '2026-11-16T20:29:13.023Z'
+  lastSynchronized: '2026-11-20T20:19:30.652Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a2ff391fbbb2102d4cb60c74b3e0ef8fd2fa55279dc037bfff0e72bf25d74a40"
-    releasesEtag: W/"0e0fbc9397d25d58c6d62759b17c5b2fe4fdcf7947862062e3629dd286f3f210"
+    repoEtag: W/"3f6bdd164ad261e6a9f59909b8ca89ac6181801aa6594a3fbb0bbf14d46661bb"
+    releasesEtag: W/"1075c774fe3fd5601e75323ef6273d928b7c6a71e200a79bfa9cdfc0011c33cd"
 discovery:
   method: 'incremental:topic:ps2'
   confidence: 95

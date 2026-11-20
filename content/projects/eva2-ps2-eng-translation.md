@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-09-30T04:33:08Z'
   url: 'https://github.com/basilrum/eva2_ps2_eng_translation/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-11-16T20:29:41.055Z'
+  lastSynchronized: '2026-11-20T20:19:56.748Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1ae31f06bd66f07635a1efcd487553b38072d53750843a120b0ed1e0679d3b34"
-    releasesEtag: W/"16afad63d6b3a2ac7a57f0c2a8e9fe2a4387eaf770d63dc302c7676f2e7e4a3c"
+    repoEtag: W/"7f01b3d965cf82ff30b862a4f8d900f78e32ee3f6f3db5140a821d5bc872850d"
+    releasesEtag: W/"bcd43985047b3881fa101c396e2c89906babe5d4d140c866ef6c0c30317b579b"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

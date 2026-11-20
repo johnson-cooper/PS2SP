@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-08-05T16:24:04Z'
   url: 'https://github.com/ReaverTeknoGods/pcsx2x6/releases/tag/pcsx2x6-windows'
 activity:
-  lastSynchronized: '2026-11-16T20:30:53.944Z'
+  lastSynchronized: '2026-11-20T20:21:07.286Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"405a818a996a57600cbffee96642e4faecb42168bcfa155f5525a0f78e1dfec4"
-    releasesEtag: W/"b24967e09cf4832ae8cce97d14ace096fddfabe9e7a0ab933fc954fbfa2f4f70"
+    repoEtag: W/"75c9c5222d0ad8f7a1db93c37dbe7126d79e935dd6abbef8c099e67cca1233f5"
+    releasesEtag: W/"d43ccd03b98616d4bef812cd369f82241ac2aaf14993bd6dfa12ec2866cf4d87"
 discovery:
   method: 'fork-network:PS2Homebrew-arcade/pcsx2x6'
   confidence: 95

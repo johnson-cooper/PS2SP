@@ -22,19 +22,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-05T13:06:28Z'
+  lastCommit: '2026-11-17T08:17:43Z'
 latestRelease:
   tag: v0.8.0
   name: Sunrise Eiyuutan 2 English — v0.8.0
   publishedAt: '2026-11-05T12:07:12Z'
   url: 'https://github.com/retro-trans/Sunrise-Eiyuutan-2/releases/tag/v0.8.0'
 activity:
-  lastSynchronized: '2026-11-16T20:31:54.950Z'
+  lastSynchronized: '2026-11-20T20:22:01.614Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5953b5ffc7029d0308f9a9c92a21db75ae2d0574c7045edab3be482f553f3285"
-    releasesEtag: W/"c30e4ad68c7d76c862750e0b7a1b3563bafb722daebfeaf2a1b29eaa42e34e58"
+    repoEtag: W/"7fba443952c0450b2341a8f4af09cde4dc18f1e5356190a08c0ee07f11b6192b"
+    releasesEtag: W/"9d6632793440000c2d2c3ffbab1d396df78d01ab1117be253aa32961d5bb0cd7"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

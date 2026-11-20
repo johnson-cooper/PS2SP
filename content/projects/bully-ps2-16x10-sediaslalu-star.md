@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-16T20:29:24.762Z'
+  lastSynchronized: '2026-11-20T20:19:41.143Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"430456b9383cca362b552d1c29b6ef9dab42a30cdbe4372fff4894a7ba74be07"
-    releasesEtag: '"749f39855c08ba9933e4898e15871fa55ad80de7611f568a99148006af259a54"'
+    repoEtag: W/"c2a326a817c771f017b3e6865e204b19e396025c3de5b48067cd2082575d4ad3"
+    releasesEtag: '"f2bc2d03e7a08ccfa28f077e7aa68a03aa4d9440a837b8c34d76f4505f5cf9e8"'
 discovery:
   method: 'fork-network:MatthewBlenk/bully-ps2-16x10'
   confidence: 100

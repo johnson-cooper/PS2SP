@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-16T20:29:24.154Z'
+  lastSynchronized: '2026-11-20T20:19:40.676Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5fb6dade180d37cfedf4c20597b7c395f0de27055bd5e6e242f59fa304d90554"
-    releasesEtag: '"749f39855c08ba9933e4898e15871fa55ad80de7611f568a99148006af259a54"'
+    repoEtag: W/"563e626240e9c13610ef54dd812460373a0c151434795990e862ca5787c57bb6"
+    releasesEtag: '"f2bc2d03e7a08ccfa28f077e7aa68a03aa4d9440a837b8c34d76f4505f5cf9e8"'
 discovery:
   method: 'fork-network:NathanNeurotic/POPSLoader'
   confidence: 95

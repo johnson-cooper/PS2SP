@@ -27,19 +27,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-05-13T15:20:20Z'
+  lastCommit: '2026-11-17T02:36:30Z'
 latestRelease:
   tag: latest
   name: Development build
-  publishedAt: '2026-05-13T15:20:22Z'
+  publishedAt: '2026-11-17T02:36:32Z'
   url: 'https://github.com/uyjulian/ps2link/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-16T20:31:22.896Z'
+  lastSynchronized: '2026-11-20T20:21:33.437Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d86d1a7efd917b9fc6049fa2f9d88e064d51fff54a3eed86a44c3f213162fa35"
-    releasesEtag: W/"e1bbc24d9e4bbebd30283bbdb9803640169ba33852123cfcd713a0598ab0bf4e"
+    repoEtag: W/"9f48e125588cba798f50311a1b29d2563cd1504d17e9a0993c38f8d9a0a19cf8"
+    releasesEtag: W/"53e5ba509d289adec3d499b9359aa887c3afc9e5bcfd43c03bbd71d9b6db68fa"
 discovery:
   method: 'fork-network:ps2dev/ps2link'
   confidence: 100

@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-09-24T05:38:42Z'
   url: 'https://github.com/Rider-UwU-Black/R2Engine/releases/tag/v0.1.0'
 activity:
-  lastSynchronized: '2026-11-16T20:31:43.910Z'
+  lastSynchronized: '2026-11-20T20:21:52.302Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"22a16b96fe618a85614f96edab4c28ff1f9c193618a9a2c7d393780db2e2ec52"
-    releasesEtag: W/"1f9c763dbb1fe9143a3cd29db115f58f483e4bfaa7607928a750ca56ccf1b189"
+    repoEtag: W/"5c6a4606b98a6558e377bde3a1f41d1a484fd640563fe5e66e0b3fc0efc29962"
+    releasesEtag: W/"d849b7acf4d0c5cdd532b2106a21de8d0b055c52034372b3867a6fb30dbbcbd7"
 discovery:
   method: pending-recheck
   confidence: 100

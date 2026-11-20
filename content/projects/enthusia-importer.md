@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-10-25T03:40:25Z'
   url: 'https://github.com/ravenDS/enthusia-importer/releases/tag/v1.1.0'
 activity:
-  lastSynchronized: '2026-11-16T20:29:40.483Z'
+  lastSynchronized: '2026-11-20T20:19:56.140Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c6c8ac3f3330e17f78a494225327c398be4c685c7bb633295723961d4afdcd08"
-    releasesEtag: W/"045c4c84f8ef394844f5060a6857e61316ba2faf0838a58d86277453a309b910"
+    repoEtag: W/"63d4379fbad83a7f215bf12b1bd4ef306cafcf040ad4df070bb4347e1e7cfd34"
+    releasesEtag: W/"a785f243215a43bf2e74f855f6f78259541a8945b1b4afaced6544a6b140b30d"
 discovery:
   method: 'incremental:topic:playstation2'
   confidence: 100

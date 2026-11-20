@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2026-11-17T10:31:17Z'
   url: 'https://github.com/Tzeentchnet/Macross-SDF-Blender/releases/tag/v0.1.0'
 activity:
-  lastSynchronized: '2026-11-17T13:53:37.544Z'
+  lastSynchronized: '2026-11-20T20:20:21.809Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"74e8f8ca057bcdb70d0ff67225b9110aa6f75588436cffa41c3088f206761d3c"
+    releasesEtag: W/"a273b82b197d0048fc39a6da69ae17b50daf1a077dc9a760659b7d85a4126aab"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

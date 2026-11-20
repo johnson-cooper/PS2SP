@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-11-10T16:15:29Z'
   url: 'https://github.com/thieffran88/Jogo_das_Boias_PS2/releases/tag/v1.1.0'
 activity:
-  lastSynchronized: '2026-11-16T20:29:59.102Z'
+  lastSynchronized: '2026-11-20T20:20:15.444Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"28ebb39c63effef1b745b36e07d833b75daad95c4d87659fded96bbc7b0ea14d"
-    releasesEtag: W/"748ae988d3bf07602b88e49a9ca7a97d89a23339af2631d897c2671f4a006058"
+    repoEtag: W/"0e75922615bf8f3144690b928e8fb7d1074e8c6b4f99e41fdc0d9a4b0110dc2a"
+    releasesEtag: W/"20f807a3aa0f282cffdad9df6fc1e367695d3038e489cf25618ec2ab87ad7e23"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/pepasjc/GameSync/releases/tag/0.5.4'
 activity:
   lastChecked: '2026-09-29T11:01:59.784Z'
-  lastSynchronized: '2026-11-16T20:29:45.930Z'
+  lastSynchronized: '2026-11-20T20:20:01.238Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d124f2c9dfda98dd52d0721b0eeadc007091029692ecf530a94327282d9ebd2d"
-    releasesEtag: W/"f0c183fd60b3798725b2556bded7affd9006442c148bbd233d71d08b6ce559a6"
+    repoEtag: W/"30fc4b9d0e6613377920c87adba9aebda69d43640623845197571ba8e6ac06a3"
+    releasesEtag: W/"edcdb553ed41c9171b20e460555dee5177b66fc058418d46ceb892dbacb14a56"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 90

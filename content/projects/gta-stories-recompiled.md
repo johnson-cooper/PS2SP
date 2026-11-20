@@ -14,7 +14,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -23,19 +23,23 @@ source:
   url: 'https://github.com/batinium/gta-stories-recompiled'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 42
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-19T16:51:01Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.3.1
+  name: GTA Stories Recompiled v0.3.1
+  publishedAt: '2026-11-19T16:36:48Z'
+  url: 'https://github.com/batinium/gta-stories-recompiled/releases/tag/v0.3.1'
 activity:
   lastChecked: '2026-11-19T20:58:49.736Z'
+  lastSynchronized: '2026-11-20T20:20:07.291Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"dafebe31d6025438c96c625e04d0143c688b3014efb834bb527957c0ddc3f95f"
+    releasesEtag: W/"66068dde9fdb84987661466006e68b285e83c2a56777eef15acebcbdfeef9c90"
 discovery:
   method: 'pending-promotion:incremental:topic:ps2'
   confidence: 85
@@ -47,5 +51,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

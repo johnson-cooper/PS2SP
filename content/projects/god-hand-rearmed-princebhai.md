@@ -17,7 +17,7 @@ tags:
   - fork
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -26,10 +26,10 @@ source:
   url: 'https://github.com/PRinceBhai/God-Hand-Rearmed'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-20T17:58:38Z'
 latestRelease:
   tag: null
   name: null
@@ -37,8 +37,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-11-20T18:50:24.323Z'
+  lastSynchronized: '2026-11-20T20:20:03.364Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"995daabecb2e9f918d228ca87cb029a846a10ad16b59534b69688c145884db54"
+    releasesEtag: '"f2bc2d03e7a08ccfa28f077e7aa68a03aa4d9440a837b8c34d76f4505f5cf9e8"'
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -54,5 +58,4 @@ relationships:
   forkOf: God-Hand-Rearmed/God-Hand-Rearmed
   source: LasVola/godhand-recomp
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

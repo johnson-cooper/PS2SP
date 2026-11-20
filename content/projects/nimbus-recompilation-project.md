@@ -24,23 +24,23 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 23
+  stars: 31
   forks: 0
-  lastCommit: '2026-11-15T19:35:26Z'
+  lastCommit: '2026-11-20T17:59:12Z'
 latestRelease:
-  tag: alpha-2.1
-  name: TNRP Alpha 2.1 — The Nimbus Recompilation Project
-  publishedAt: '2026-11-14T13:17:17Z'
+  tag: alpha-2.2.2
+  name: TNRP Alpha 2.2.2
+  publishedAt: '2026-11-20T17:21:40Z'
   url: >-
-    https://github.com/thebabyhippo303/nimbus-recompilation-project/releases/tag/alpha-2.1
+    https://github.com/thebabyhippo303/nimbus-recompilation-project/releases/tag/alpha-2.2.2
 activity:
   lastChecked: '2026-11-10T01:45:54.437Z'
-  lastSynchronized: '2026-11-16T20:30:15.342Z'
+  lastSynchronized: '2026-11-20T20:20:31.959Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6518d29a9720cf9527c728fc284919ba8443882b44274485bf651e27782b8c86"
-    releasesEtag: W/"e3968b5012ec026aeb53ca04b8b85f9b31a36808d8c7c2ec134416089a5f690a"
+    repoEtag: W/"57926d3766642ddc97e1254ea6b1fd8cdf6a1edb8c9550403aaf0c8d3aa09cc4"
+    releasesEtag: W/"cc7fedf278f09d80544e7cf1fcab8ff1f20ef4286c38c371afd88fc69cbaec44"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

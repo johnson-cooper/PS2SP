@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/nivobi/buzz-party/releases/tag/v1.0.0'
 activity:
   lastChecked: '2026-11-09T00:05:01.022Z'
-  lastSynchronized: '2026-11-16T20:29:30.666Z'
+  lastSynchronized: '2026-11-20T20:19:46.693Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6607b07bcc948be91f33651d43b80c27278baf9bb660cde2eb9f056226b852f6"
-    releasesEtag: W/"26357944a4f82b26421d02588c5a07b935b594f79efad2d555ceffca6f29da11"
+    repoEtag: W/"28f77f96eda09f2dc95e918f913051b50e73e075c3446543f237aad26ad40bad"
+    releasesEtag: W/"d051826556f64aa75050bea4ed9e174b61be1a7e4260f657e61a179ea57a29da"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

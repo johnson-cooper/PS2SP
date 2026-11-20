@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/Ajspeed12/EA-NASCAR-Asset-Toolkit/releases/tag/v1.0.0'
 activity:
   lastChecked: '2026-11-07T23:01:36.469Z'
-  lastSynchronized: '2026-11-16T20:29:39.858Z'
+  lastSynchronized: '2026-11-20T20:19:55.525Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6cab4afbf9f777bff5666e1734eb2d9a7bf0c160a56c00bcb244582989ae02cb"
-    releasesEtag: W/"f21ce0d3e89b8677402dd976217b706786f986a1e1bc540948433965700aba63"
+    repoEtag: W/"828ae136defebf46193d0f4d0570e4a1863640ebc63d8fccf6d0748ac4c8b647"
+    releasesEtag: W/"ecf45aa103dd6568be4fb5c37e3161c3bd3520c16ae3a1b76ba4e84843e97515"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85

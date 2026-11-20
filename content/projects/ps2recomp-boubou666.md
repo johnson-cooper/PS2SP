@@ -20,22 +20,22 @@ source:
   repositoryId: '1427370995'
 repository:
   archived: false
-  defaultBranch: main
+  defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-06T22:09:00Z'
+  lastCommit: '2026-11-18T09:11:42Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-16T20:31:24.568Z'
+  lastSynchronized: '2026-11-20T20:21:34.899Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"79c581bcba0d150f7983634daf1ccf551c936ae8917d6b460113fcb4f9a99a88"
-    releasesEtag: '"749f39855c08ba9933e4898e15871fa55ad80de7611f568a99148006af259a54"'
+    repoEtag: W/"61777e7400eb35ecd1071839be1cc9f72517727315d872f4b88e4ec1764896bf"
+    releasesEtag: '"f2bc2d03e7a08ccfa28f077e7aa68a03aa4d9440a837b8c34d76f4505f5cf9e8"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
