@@ -25,7 +25,7 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-19T02:56:14Z'
+  lastCommit: '2026-11-20T02:42:47Z'
 latestRelease:
   tag: raw-2026-11
   name: Raw listings 2026-11
@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/rflpazini/retroheat/releases/tag/raw-2026-11'
 activity:
   lastChecked: '2026-09-29T11:01:59.784Z'
-  lastSynchronized: '2026-11-19T03:30:37.109Z'
+  lastSynchronized: '2026-11-20T03:17:48.252Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"68af856c5f364d122370f97689df52214fc754965496deca5ab27dc5734d406b"
-    releasesEtag: W/"55bc1d1dd4be4a260d94ed051f91f808e28dd34a605618df1d523faf45445c37"
+    repoEtag: W/"e9ec9012814037cd4ac35ba55047c68a08ee737d65b388310c36f6aab37063c8"
+    releasesEtag: W/"6f75e4d99e766195f4c9f908045f11d60d14b1174cc8caba3e1165309904ac89"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

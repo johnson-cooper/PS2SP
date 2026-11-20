@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 710
+  stars: 711
   forks: 53
   lastCommit: '2026-10-19T13:34:04Z'
 latestRelease:
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/h4570/tyra/releases/tag/v2.7.3'
 activity:
   lastChecked: '2026-09-29T00:27:15.340Z'
-  lastSynchronized: '2026-11-19T03:30:43.838Z'
+  lastSynchronized: '2026-11-20T03:17:53.667Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a4a2bb51086dc9b0ad84d5c1546273199ba5d00fba896dbb40d01ccbf5eaa220"
-    releasesEtag: W/"0d8d4ca4c7d5fa100c65d827efad2d3e84426d59f3bc3a041d0549a8f1b8f861"
+    repoEtag: W/"84eed58581dc575af74797331b8a31c71cef48f2037f785ce81233ea376b2bf4"
+    releasesEtag: W/"86d000e10e7e28dfa9f3344d499c3248c68cfd7b6ade6fe8439ebd54d261b170"
 discovery:
   method: curated
   confidence: 100

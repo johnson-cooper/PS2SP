@@ -35,12 +35,12 @@ latestRelease:
   url: 'https://github.com/GeekRhapsody/OdysseyLauncher/releases/tag/v1.2.0'
 activity:
   lastChecked: '2026-10-08T16:57:35.240Z'
-  lastSynchronized: '2026-11-19T03:28:57.583Z'
+  lastSynchronized: '2026-11-20T03:16:29.332Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"564a8fa47c9df0927b41cb8ae2d15f176ca0a71576bb95a711c725a79a6e65c6"
-    releasesEtag: W/"d18b2dd339fc26950c9140d0d683026044fe77a5c60c5974e905a68671f28081"
+    repoEtag: W/"c11aa313881e56e8246a1fcabe0622563ae0a035301c0c0d348c63905f5c00e5"
+    releasesEtag: W/"3939ee16bda14ce57a8a1c8d70410c0e2685e864c9879286328d8c9a53dd8884"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

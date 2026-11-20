@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-19T03:27:49.263Z'
+  lastSynchronized: '2026-11-20T03:15:36.681Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"21600fe7ba3e6b83d4f88e0390604e4a75c97c3dc9ef3690e6a1f4fb72586858"
-    releasesEtag: '"5439eddf41757a3450423ee500ca4e4ae360a247e876f1c1b434042b8a82a5b8"'
+    repoEtag: W/"118b08bad023ce932c88b0fd23d77d618ea8c888a7b64dea6ed00875159f8a35"
+    releasesEtag: '"04ae66d0652f8e32f85ee09b36048410b2b52f52a85660eea8f274a40dd5e3c9"'
 discovery:
   method: 'fork-network:chewi/apascan'
   confidence: 100

@@ -33,12 +33,12 @@ latestRelease:
     https://github.com/JeanxPereira/Watson/releases/tag/watson-0.1.0-pcsx2-v2.9.97
 activity:
   lastChecked: '2026-10-04T08:48:40.209Z'
-  lastSynchronized: '2026-11-19T03:30:47.591Z'
+  lastSynchronized: '2026-11-20T03:17:56.582Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"de64d8254cfa335894691e9a34f8165720bca13b900ff75778a301e0fa43832c"
-    releasesEtag: W/"ab2cfbc5cf6aecdb540e53af172fbe23c9e9fdd76b7852fab465bc488cca208f"
+    repoEtag: W/"2a479c584e54677232d0292aa720a83698d0364c7d9e3374b68f40a46c617982"
+    releasesEtag: W/"4d1b64a1184535aba127c353622102a32e8044e31273fe3a0c7c7bccf92f68b4"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

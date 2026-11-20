@@ -20,7 +20,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 41
+  stars: 43
   forks: 7
   lastCommit: '2026-11-17T05:12:59Z'
 latestRelease:
@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/RompEmu/RomP/releases/tag/v0.22.0'
 activity:
   lastChecked: '2026-10-03T14:55:33.658Z'
-  lastSynchronized: '2026-11-19T03:30:39.445Z'
+  lastSynchronized: '2026-11-20T03:17:50.141Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"90d58121b3ae76fbb43264b860bfc848cebf39670b77a386846267c210161db2"
-    releasesEtag: W/"e9fbc76b0125cb119e946c7fdfd7e0ea38d49d6e6d5233712683bd7807f4734b"
+    repoEtag: W/"59aba9c4461736e911e5c7ee107eb8d07d506b06db7de1792300e9d339d61bde"
+    releasesEtag: W/"a29bd4f1f7a005a2af915113a39b4c1ec5b7c28e5a43fc49aaba990cf13e0979"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 90

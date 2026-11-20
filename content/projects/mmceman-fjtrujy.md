@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-03-06T23:44:30Z'
   url: 'https://github.com/fjtrujy/mmceman/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-19T03:28:49.407Z'
+  lastSynchronized: '2026-11-20T03:16:22.753Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8be0239459bf13fc946ca8876805ab0a69b72c344e243614c0a91a028ebaf334"
-    releasesEtag: W/"c29b91a19f72163ab6cb44fd8861d27803b4dad5ea2b1dc2c9169929cdaa3b53"
+    repoEtag: W/"e606b9a5fb72c663174fd6af0bdd4c6d870a1b1d1fb460a93ca873ff440a1e8d"
+    releasesEtag: W/"b3743e2d607bd2cec9089573df2d6af1e8bd8ed03c6b6e61edff6a44c20e15ec"
 discovery:
   method: 'fork-network:ps2-mmce/mmceman'
   confidence: 100

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-19T03:27:53.723Z'
+  lastSynchronized: '2026-11-20T03:15:40.396Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9cfb522e8896d6a8019b4885765214c1ce1d7cafe3cf4884b2547cdb71816514"
-    releasesEtag: '"5439eddf41757a3450423ee500ca4e4ae360a247e876f1c1b434042b8a82a5b8"'
+    repoEtag: W/"a3dd53a3db9d8a7fbded7b3dbe4c7f7370bb56c7803d73302f034cda91251cf2"
+    releasesEtag: '"04ae66d0652f8e32f85ee09b36048410b2b52f52a85660eea8f274a40dd5e3c9"'
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

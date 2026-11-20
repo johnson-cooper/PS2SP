@@ -29,12 +29,12 @@ latestRelease:
   url: >-
     https://github.com/officialjuicedesigns/OPL-Evolution/releases/tag/v0.27.0-alpha
 activity:
-  lastSynchronized: '2026-11-19T03:29:12.065Z'
+  lastSynchronized: '2026-11-20T03:16:40.756Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0230bae7f40cfb72fdc34f58feb2214133b7cf3e320afad68c90c2ca85c31557"
-    releasesEtag: W/"0bf0651a080354d99193c26a5fa6e8ea861d9d3d1a379bdff184698ca62088e9"
+    repoEtag: W/"8077bc6f8c420702bf4b50231b0fdf5102eb229fca2eb32bec6cb0004e7e387e"
+    releasesEtag: W/"aaa9f5da96bcc9c1802a0acc6c0f66ddec7318e3776eb52b28db605f17080dba"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

@@ -19,20 +19,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-19T01:42:52Z'
+  lastCommit: '2026-11-19T20:39:19Z'
 latestRelease:
-  tag: v0.7.0
-  name: PS1 and PS2 Classics Package Studio v0.7.0
-  publishedAt: '2026-11-19T01:42:22Z'
+  tag: ps3-studio-2026.11
+  name: PS3 Package Studio for Windows
+  publishedAt: '2026-11-19T20:37:39Z'
   url: >-
-    https://github.com/Laudadio93/ps2-classics-package-studio/releases/tag/v0.7.0
+    https://github.com/Laudadio93/ps2-classics-package-studio/releases/tag/ps3-studio-2026.11
 activity:
-  lastSynchronized: '2026-11-19T03:29:37.623Z'
+  lastSynchronized: '2026-11-20T03:17:01.476Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b98bd887a6da358131f48ac98948ecf7115560101417f2466877eb40b5914a62"
-    releasesEtag: W/"a82a52d762386587930d9e2cc46bd27cef7182ab08374eb7c57c8adf7af08e5f"
+    repoEtag: W/"652c50c70cb82e08d59e2c3d0f58c68011af84aa1799ae6bd197c1174989001c"
+    releasesEtag: W/"af98ecb1a59039ff9211031a6455c506dd442b7c855a34a14dd4557897e95667"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -37,12 +37,12 @@ latestRelease:
     https://github.com/DeSynkro/rac-rs-features/releases/tag/rac-rs-features-0.4.1
 activity:
   lastChecked: '2026-10-19T23:56:10.760Z'
-  lastSynchronized: '2026-11-19T03:30:34.058Z'
+  lastSynchronized: '2026-11-20T03:17:45.677Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5d81cff7ae436b7d201bb3982a09fd29175967b6afc1dd83798c31325c3259e9"
-    releasesEtag: W/"97bffe52438c07af807e5db54a1270f606466a2360c0d9333cebadfd7b711421"
+    repoEtag: W/"53b12d8ee94b72e51f5d2b735a3505919581ccad62c9bff8b126e8b7dbaffe64"
+    releasesEtag: W/"1d868b787e8492556c6935e379426b67675818d58da2e1acac4201f1fc4c1af3"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85

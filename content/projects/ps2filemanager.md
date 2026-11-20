@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: '2026-10-21T23:40:31Z'
   url: 'https://github.com/VeroSilvaa/PS2FileManager/releases/tag/v0.5.0'
 activity:
-  lastSynchronized: '2026-11-19T03:29:57.104Z'
+  lastSynchronized: '2026-11-20T03:17:17.425Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c355dac059d7d47fa3068aacbc2a5586e715a067b5d21d8594edd2a2166a4497"
-    releasesEtag: W/"33b3525d95c61c67c14d15a966bb8afe5250a70ef0139bcb949a2a6015a551bd"
+    repoEtag: W/"9b94b57fe7bd45512fee45b153a666a0e635f4242c0765620232eb8ee35ba61e"
+    releasesEtag: W/"5ca0d828c481ddfb0d87dd4f5c3f4aac8604d96a33629014b176c42219c39fe4"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

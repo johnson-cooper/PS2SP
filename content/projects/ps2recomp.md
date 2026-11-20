@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 3885
+  stars: 3889
   forks: 256
   lastCommit: '2026-10-23T14:39:54Z'
 latestRelease:
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/ran-j/PS2Recomp/releases/tag/v0.4'
 activity:
   lastChecked: '2026-09-29T00:28:53.209Z'
-  lastSynchronized: '2026-11-19T03:30:10.568Z'
+  lastSynchronized: '2026-11-20T03:17:28.244Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e5355b14ca9039168a32916345e8b311b5749846c277375575a3d86ff8f8af92"
-    releasesEtag: W/"fecbf3450dab9108b6d213b66fd604a27fd0a57318500b8370cabd6c95da8942"
+    repoEtag: W/"e62eab35f947afea2e1847cb70ba969e1b98a8a351f0f20ad6a4460883c62909"
+    releasesEtag: W/"c200a1e082822cd8606705a3106ad0dbb9b327741c6407e94954fb68fcaa697c"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 100

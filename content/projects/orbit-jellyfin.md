@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-11-06T06:08:19Z'
   url: 'https://github.com/danielnuld/nuld-jellyfin/releases/tag/v0.16'
 activity:
-  lastSynchronized: '2026-11-19T03:29:12.683Z'
+  lastSynchronized: '2026-11-20T03:16:41.181Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e0a229e47f00868304437e57d7cafa67f0bd0d742fe1118b8b80616343f37c13"
-    releasesEtag: W/"af8b9c1015c4250186365e2660a7c25d1ef862bc4e261ee692f994a5bc0c3df6"
+    repoEtag: W/"f47757ce05a05cc7a40fb1f8a21a8bf9e3e6734d8c9fb066fc9c5ef51465a145"
+    releasesEtag: W/"fdc2ad5b6d18760199a975ffc41b5e5a9db07aa2b8964864f623f151383d3bc0"
 discovery:
   method: 'incremental:ps2sdk in:name,description,readme'
   confidence: 100
