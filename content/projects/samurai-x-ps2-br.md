@@ -17,21 +17,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
-  lastCommit: '2026-11-04T15:08:36Z'
+  lastCommit: '2026-11-16T01:27:28Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: Patch
+  name: Patch 1.0
+  publishedAt: '2026-11-16T01:09:36Z'
+  url: 'https://github.com/GScNine/Samurai-X-PS2-BR/releases/tag/Patch'
 activity:
-  lastSynchronized: '2026-11-12T11:12:51.438Z'
+  lastSynchronized: '2026-11-20T11:51:16.099Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"eb98b2bc325f8188df0c5c3c1c1951145f1affb253bfa2ae8c913934b0d3604d"
-    releasesEtag: '"952f0fb61c43dbe65d3e0d2cad8f06412f7e64d77f20ebb492a0c852b79b9381"'
+    repoEtag: W/"ef90f93963af284dbcf199db4a22c3a25155d6ab0260b5f6db069b29162464b4"
+    releasesEtag: W/"120f5040aff85de82181bcafcecb2b8bef1a4085b9ce04c16b098661b8ea7531"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

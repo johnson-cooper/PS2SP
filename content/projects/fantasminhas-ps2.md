@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-11-09T20:13:01Z'
   url: 'https://github.com/thieffran88/Fantasminhas_PS2/releases/tag/v1.1.0'
 activity:
-  lastSynchronized: '2026-11-12T11:10:24.321Z'
+  lastSynchronized: '2026-11-20T11:49:19.565Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"615f681eed0bc669bd1a6ab6e372f7837938c16ab01ecceb9c1f83fccab22afd"
-    releasesEtag: W/"b5657d27bb60182a4a136c4777d9af2fb727b50a9b858f4bbe1b488d66cea7a9"
+    repoEtag: W/"9f6a79581876300e2110d116dfad1c17f83b13af203a882ff3fab168783a9a05"
+    releasesEtag: W/"a6cf156447101b55586118dc45c6f5b89133fb097c6b7a9fee7458766789ceee"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

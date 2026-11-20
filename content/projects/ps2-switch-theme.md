@@ -27,12 +27,12 @@ latestRelease:
   url: 'https://github.com/Chardelyce/PS2-Switch-theme/releases/tag/v1.01'
 activity:
   lastChecked: '2026-09-29T00:27:38.981Z'
-  lastSynchronized: '2026-11-12T11:12:10.111Z'
+  lastSynchronized: '2026-11-20T11:50:43.768Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"67a83df523b8b01d0f365d339d2cde2107c32631af3052a1ff9a5d77a91b2d6e"
-    releasesEtag: W/"028212f1cb2477565f159185cdf72ef18b827ff3d5ffddc8b0df86e1597b77fc"
+    repoEtag: W/"67eaa9e24653a06748b12bc650bc464c93cc30744dadf755cc890de1fb6f54e7"
+    releasesEtag: W/"e12f90de67a7d3833f92db77ee5e15584307a1adc2dfc972cb48f0fded33b8b8"
 discovery:
   method: github-search
   confidence: 100

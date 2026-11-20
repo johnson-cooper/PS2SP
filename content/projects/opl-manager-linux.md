@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/CamiloFerreira/opl-manager-linux/releases/tag/v0.8.0'
 activity:
   lastChecked: '2026-11-03T00:02:44.895Z'
-  lastSynchronized: '2026-11-12T11:11:24.181Z'
+  lastSynchronized: '2026-11-20T11:50:05.467Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"dec5ee68820e9ce2637ef16489813c844167adda53d54bc78696a18ecb099c10"
-    releasesEtag: W/"025150cdfe5b52b1d5e1e303e31877ec2e6a0971c4f86b93360d45d3ed15cb2f"
+    repoEtag: W/"6bd2a1cff3ca0f902402db96582f41fe5d2eb3b4eedee12b796b130b8c4926e7"
+    releasesEtag: W/"de758f1b68a5ac07a137935ebe7aa4637444cf13d90ccf812c12c905f946f319"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

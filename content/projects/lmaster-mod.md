@@ -22,20 +22,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-08T06:21:08Z'
+  lastCommit: '2026-11-19T18:11:36Z'
 latestRelease:
-  tag: v0.4.0
-  name: LMASTER Mod 0.4.0
-  publishedAt: '2026-11-07T14:16:37Z'
-  url: 'https://github.com/NexxusDrakoMultimedia/LMASTER-Mod/releases/tag/v0.4.0'
+  tag: v0.6.0
+  name: LMASTER Mod 0.6.0
+  publishedAt: '2026-11-19T17:57:11Z'
+  url: 'https://github.com/NexxusDrakoMultimedia/LMASTER-Mod/releases/tag/v0.6.0'
 activity:
   lastChecked: '2026-10-24T07:36:20.803Z'
-  lastSynchronized: '2026-11-12T11:10:53.160Z'
+  lastSynchronized: '2026-11-20T11:49:41.891Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"38663ff886b29762be48d6ce83409cd3ac9e646a68ca229f731472d8df4075a6"
-    releasesEtag: W/"255252abc47c7abc1a802ea0b4cc569949f78e769dc0a6d9cf947d83f1b57a97"
+    repoEtag: W/"2fe483bf79b7ee08cff637ffbc0698cd321b5ae8bc2c249b31c3ace3394f0f31"
+    releasesEtag: W/"8562f07f703016732c8948c3753beafe44af21492a11d8bb10dd19584ac18657"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 3
   forks: 1
-  lastCommit: '2026-10-31T13:00:14Z'
+  lastCommit: '2026-11-17T14:22:16Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-12T11:12:52.199Z'
+  lastSynchronized: '2026-11-20T11:51:16.600Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1466601827a651a278d06d85716ecd5ef70d112b53c3eba8f4d2d6e03f20554b"
-    releasesEtag: '"952f0fb61c43dbe65d3e0d2cad8f06412f7e64d77f20ebb492a0c852b79b9381"'
+    repoEtag: W/"07421e5382bbd32c9a8335c90e05864910a28ebc8364c11804da52651e9a4f5b"
+    releasesEtag: '"a908ec342d9a023473918e50a86083a4ebc47b646bcf8ffdf1812bac058b42ed"'
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

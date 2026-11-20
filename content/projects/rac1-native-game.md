@@ -21,24 +21,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 100
-  forks: 6
-  lastCommit: '2026-11-12T10:03:33Z'
+  stars: 103
+  forks: 7
+  lastCommit: '2026-11-19T02:06:38Z'
 latestRelease:
-  tag: v0.7.0
-  name: >-
-    rac1-native 0.7.0: the Platinum disc, data discs, the 1.02 fixes, Cut
-    Content, water reflections and new options
-  publishedAt: '2026-11-04T21:10:20Z'
-  url: 'https://github.com/RAC-Native/rac1-native-game/releases/tag/v0.7.0'
+  tag: v0.8.3
+  name: 'rac1-native 0.8.3: a Windows hotfix'
+  publishedAt: '2026-11-16T21:34:34Z'
+  url: 'https://github.com/RAC-Native/rac1-native-game/releases/tag/v0.8.3'
 activity:
   lastChecked: '2026-10-12T16:07:57.694Z'
-  lastSynchronized: '2026-11-12T11:12:44.919Z'
+  lastSynchronized: '2026-11-20T11:51:09.781Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"156e78227f30c23a5b70f397aba43eec3fbe26c9d817918fa8ea2e6c6840b0f2"
-    releasesEtag: W/"a72b758f9ded59189b07d14f36c9dffcf071f8ae9faabddf25e3b2a12f51eb7f"
+    repoEtag: W/"96ea1a72748602e4620b6aa208a6d50db02c25bbcb04ef8cf6a6b43b3f740c46"
+    releasesEtag: W/"fe0cd80e0f549a88080eaa09c2b558d76732608e3fba7d6ce18cc21946894c1f"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

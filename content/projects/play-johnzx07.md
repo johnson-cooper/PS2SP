@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-09-12T03:24:13Z'
   url: 'https://github.com/Johnzx07/Play-/releases/tag/ios26-jit-v4'
 activity:
-  lastSynchronized: '2026-11-12T11:11:49.970Z'
+  lastSynchronized: '2026-11-20T11:50:28.527Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fe0c89d8a613074e255b0f44db5f72cf9cffde5bd6a19f44a0edcfd8dbc7c2b4"
-    releasesEtag: W/"faa8a65bc2a069d9da3ee8493ddb28e8abc33fcadce1b1b0b2ab65c335fddec4"
+    repoEtag: W/"da0b279ef0cbe10c9aec48dce8f25f287bc4d345430cabd1a2125d12b6bf249b"
+    releasesEtag: W/"90cc6d33ec8098d577c23ab987577d3a435a2f11e5e9fda0c112fef99325b05c"
 discovery:
   method: 'fork-network:jpd002/Play-'
   confidence: 100

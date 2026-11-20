@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2024-04-15T08:05:03Z'
   url: 'https://github.com/ruoshuixuelabi/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-12T11:11:40.657Z'
+  lastSynchronized: '2026-11-20T11:50:20.338Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"dc2e6e705526b1bcd6c084f0c4b071ca12d506c97fbf0bb5275b9a464081b687"
-    releasesEtag: W/"2742bdc34f3c1df20f5c9bbef512c6dc1f91964de54dd2fe5a4c53c86ea9dfe6"
+    repoEtag: W/"e066487fb783ed80b8922f513b75a85d2f6a27796ea8854fb4e23d8db3e183a6"
+    releasesEtag: W/"adf7b524a9ca2b960b020203930f7afd98b99e86980208dddc3d6a9d202e64a9"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95

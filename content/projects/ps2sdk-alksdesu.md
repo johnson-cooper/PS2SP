@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-12T11:12:27.245Z'
+  lastSynchronized: '2026-11-20T11:50:56.038Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"63a015d65b15aeec98ea885c2caaaadd98c95b0638066960ad4412918a67463e"
-    releasesEtag: '"952f0fb61c43dbe65d3e0d2cad8f06412f7e64d77f20ebb492a0c852b79b9381"'
+    repoEtag: W/"97ad63fbf1168e7bfc90ac7398735670df1168646c5c62dfa263540ab5f7e7b3"
+    releasesEtag: '"a908ec342d9a023473918e50a86083a4ebc47b646bcf8ffdf1812bac058b42ed"'
 discovery:
   method: 'fork-network:xerpi/ps2sdk'
   confidence: 100

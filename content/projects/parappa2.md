@@ -21,10 +21,10 @@ source:
   url: 'https://github.com/doggywatty/parappa2'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-15T00:08:19Z'
 latestRelease:
   tag: null
   name: null
@@ -32,8 +32,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-11-15T03:05:44.201Z'
+  lastSynchronized: '2026-11-20T11:50:10.229Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"834b925cf676ede0be8308fbb0e8867d78253356b687e828ea98f7faae489701"
+    releasesEtag: '"a908ec342d9a023473918e50a86083a4ebc47b646bcf8ffdf1812bac058b42ed"'
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -49,5 +53,4 @@ relationships:
   forkOf: parappadev/parappa2
   source: parappadev/parappa2
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

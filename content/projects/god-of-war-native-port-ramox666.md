@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-12T11:10:33.049Z'
+  lastSynchronized: '2026-11-20T11:49:26.759Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"96342e2f1bb2b7c90fae764e323fa7ef7dec6f888ecde85c380d7083c68d6afb"
-    releasesEtag: '"952f0fb61c43dbe65d3e0d2cad8f06412f7e64d77f20ebb492a0c852b79b9381"'
+    repoEtag: W/"46b74c7af2544bc13af073571014854a875cf125c3f0eaed82d517fa8341d113"
+    releasesEtag: '"a908ec342d9a023473918e50a86083a4ebc47b646bcf8ffdf1812bac058b42ed"'
 discovery:
   method: 'fork-network:Waffle565/God-Of-War-Native-Port'
   confidence: 100

@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2022-08-14T19:10:32Z'
   url: 'https://github.com/AKuHAK/wLaunchELF-history/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-12T11:13:08.028Z'
+  lastSynchronized: '2026-11-20T11:51:27.802Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1fa92716155693d96103022b33c0fad8a64d5e7e1a160c699e1fcc764bb5614b"
-    releasesEtag: W/"0a4ea63fdc49449e09213742e5009d31aba3d3dd1996988d03254d018f49c3cd"
+    repoEtag: W/"4b19f11085664f5bccff43a208e76fbf416baddff9101058d132b71fe5503608"
+    releasesEtag: W/"af9d2a26c47efd5b8acd3722260da9175df84a90cf28e6de50b38a2ae666c17f"
 discovery:
   method: 'fork-network:ps2homebrew/wLaunchELF'
   confidence: 100

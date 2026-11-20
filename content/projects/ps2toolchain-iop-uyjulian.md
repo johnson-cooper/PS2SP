@@ -24,19 +24,19 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-07-23T20:29:33Z'
+  lastCommit: '2026-11-17T02:21:06Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-12T11:12:33.826Z'
+  lastSynchronized: '2026-11-20T11:51:01.220Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"70388300f6534794ed57b5cf1c55aba1a1695a5600c84b3925ea489e7bad8f3c"
-    releasesEtag: '"952f0fb61c43dbe65d3e0d2cad8f06412f7e64d77f20ebb492a0c852b79b9381"'
+    repoEtag: W/"810d57c598149b74b7ac8e1e7c6575a7e8e4f8ed931717312f4db94c24aeee55"
+    releasesEtag: '"a908ec342d9a023473918e50a86083a4ebc47b646bcf8ffdf1812bac058b42ed"'
 discovery:
   method: 'fork-network:ps2dev/ps2toolchain-iop'
   confidence: 95

@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/ryosama/itadaki-street-3-ps2-english-translation/releases/tag/v13
 activity:
-  lastSynchronized: '2026-11-12T11:10:41.016Z'
+  lastSynchronized: '2026-11-20T11:49:33.046Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7adb82679ef2925b9f0b7a40f13ae3bc5c858cc5664a64211975ec53622ac8bf"
-    releasesEtag: W/"0aa69baa132e5be08690463887154e662c8b1efaae2b967c479f23311138c219"
+    repoEtag: W/"85337af0578933d9c9d8451c65d2f685749863505940ba52840cf7b40fc8e27c"
+    releasesEtag: W/"8a18524489439be9220827397bac94369f1fbb6093cbb8a24c70e0a1ce410a54"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

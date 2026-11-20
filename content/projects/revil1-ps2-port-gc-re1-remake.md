@@ -18,26 +18,26 @@ license: null
 homepage: null
 source:
   provider: github
-  repository: Liradantas123/Revil1-PS2-port-GC-RE1-remake
+  repository: Liradantas123/RE1-remake-PS2
   repositoryId: '1450394824'
 repository:
   archived: false
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-08T21:26:56Z'
+  lastCommit: '2026-11-13T05:25:55Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-12T11:12:50.174Z'
+  lastSynchronized: '2026-11-20T11:51:14.766Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b76b0c99789b4c4d743b8186483ce0501fbcefd621bd48cb2c0c6b86a1a9434d"
-    releasesEtag: '"952f0fb61c43dbe65d3e0d2cad8f06412f7e64d77f20ebb492a0c852b79b9381"'
+    repoEtag: W/"b5aef4d4b2481c60b4e380b64dfb11de959fc131b576bb594248f0ffb451ac7a"
+    releasesEtag: '"a908ec342d9a023473918e50a86083a4ebc47b646bcf8ffdf1812bac058b42ed"'
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
