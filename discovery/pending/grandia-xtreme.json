@@ -1,0 +1,16 @@
+{
+  "repository": "gekoii/grandia_xtreme",
+  "repositoryId": "1459511085",
+  "url": "https://github.com/gekoii/grandia_xtreme",
+  "description": "Grandia Xtreme (PS2) decompilation and a native Windows port. Bring your own disc.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-20T10:30:42.731Z",
+  "checkedAt": "2026-11-20T10:30:42.731Z"
+}

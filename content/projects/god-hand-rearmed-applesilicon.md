@@ -1,0 +1,58 @@
+---
+name: God-Hand-Rearmed-AppleSilicon
+slug: god-hand-rearmed-applesilicon
+summary: >-
+  God Hand: Rearmed (Project Kamite) is an unofficial native PC port of the PS2
+  cult classic, built by static recompilation. No game data included. Play your
+  own damn copy!
+categories:
+  - preservation
+  - development
+  - ports
+  - games
+tags:
+  - auto-discovered
+  - pending-promoted
+  - active-unreleased
+  - fork
+features: []
+authors: []
+license: null
+homepage: null
+source:
+  provider: github
+  repository: Tzeentchnet/God-Hand-Rearmed-AppleSilicon
+  repositoryId: '1465221159'
+  url: 'https://github.com/Tzeentchnet/God-Hand-Rearmed-AppleSilicon'
+repository:
+  archived: false
+  defaultBranch: null
+  stars: 0
+  forks: 0
+  lastCommit: null
+latestRelease:
+  tag: null
+  name: null
+  publishedAt: null
+  url: null
+activity:
+  lastChecked: '2026-11-20T10:30:42.731Z'
+automation:
+  sync: true
+discovery:
+  method: 'pending-promotion:incremental:ps2 in:name,description'
+  confidence: 85
+  evidence:
+    - repository description explicitly identifies PS2
+    - README explicitly mentions PlayStation 2
+    - GitHub fork of another repository
+  maturity: active-unreleased
+verified: false
+featured: false
+hidden: false
+relationships:
+  forkOf: God-Hand-Rearmed/God-Hand-Rearmed
+  source: LasVola/godhand-recomp
+---
+
+Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.
