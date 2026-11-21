@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2021-07-22T12:14:12Z'
   url: 'https://github.com/Jay-Jay-OPL/ps2client/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-16T02:10:19.652Z'
+  lastSynchronized: '2026-11-21T02:16:15.488Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6e7bd7472a7ff2da6118d06fb778aca607915c392d3993ce6fedbb694236139f"
-    releasesEtag: W/"980b2c7a64bffaf61ac02d852dd942264c3c5b11be848c99e07a8598497ab357"
+    repoEtag: W/"1fd1ab48eadb6e74577d39bcdad6c6c681d26f125e7e439b0b6278d6cd8c5b64"
+    releasesEtag: W/"603a1ffdc38342cd207fcb81ed95691bb649126505630acccf1e7bf825ff7e1e"
 discovery:
   method: 'fork-network:ps2dev/ps2client'
   confidence: 95

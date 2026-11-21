@@ -13,10 +13,10 @@ tags:
 features: []
 authors: []
 license: null
-homepage: null
+homepage: 'https://thesparda.github.io/Suikoden-4-Editor/web/'
 source:
   provider: github
-  repository: TheSparda/Suikoden-4-Save-Editor
+  repository: TheSparda/Suikoden-4-Editor
   repositoryId: '1330493013'
   url: 'https://github.com/TheSparda/Suikoden-4-Save-Editor'
 repository:
@@ -24,20 +24,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-15T21:27:57Z'
+  lastCommit: '2026-11-19T18:12:24Z'
 latestRelease:
   tag: v1.6.5
   name: v1.6.5 — Verification pass + slot-attribute fix
   publishedAt: '2026-09-05T18:44:15Z'
-  url: 'https://github.com/TheSparda/Suikoden-4-Save-Editor/releases/tag/v1.6.5'
+  url: 'https://github.com/TheSparda/Suikoden-4-Editor/releases/tag/v1.6.5'
 activity:
   lastChecked: '2026-11-15T23:11:00.640Z'
-  lastSynchronized: '2026-11-16T02:10:50.733Z'
+  lastSynchronized: '2026-11-21T02:16:43.048Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7bc7fd52789110f3955274439c004a99a2199fc746bcceed470cf328dedf1874"
-    releasesEtag: W/"aedd613e88026aa700e8266204c53f6a513cb75cb787ad68f7762070b9d7043a"
+    repoEtag: W/"8707ff47b2dee06e1d701ad852cfb0c2b0a8aeac0d8d88987eacea9700ca35f3"
+    releasesEtag: W/"bc39e824abb8214774ed9c3a8bed8c4e727ca3bf41cf9b84aa0fe53a198668ef"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

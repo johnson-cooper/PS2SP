@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-01T14:34:40Z'
   url: 'https://github.com/arpruss/Play-/releases/tag/0.02'
 activity:
-  lastSynchronized: '2026-11-16T02:09:55.276Z'
+  lastSynchronized: '2026-11-21T02:15:55.520Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ebfa9227e7bdd5758fcc34ac47eb351408f811527266c6ad7e11d409f05edec4"
-    releasesEtag: W/"696c6c77a59991b0369f981bf932c6e144771097e6cb15421359b1e93a3b4a8a"
+    repoEtag: W/"5da59366ddcdfe8bac64d7871322d5697600a5a2af994d591722ed118cb00882"
+    releasesEtag: W/"aca3bf287b8332ae6ebffdf0b46b60dc2961e2e233f64249a09e124859719f02"
 discovery:
   method: 'fork-network:jpd002/Play-'
   confidence: 100

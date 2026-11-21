@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2021-05-09T19:47:10Z'
   url: 'https://github.com/AKuHAK/ps2client/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-16T02:10:18.694Z'
+  lastSynchronized: '2026-11-21T02:16:14.912Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"60195e284ce944b5eb01ee16b1e8be131165bde667802c5a4f49016c732a1307"
-    releasesEtag: W/"cfd6988b20c9cf0d79b0e0ce1da7c0b5c847853c10d24d42c02bf02209a5aa4e"
+    repoEtag: W/"4a46eed353698b74d8fd8b8e37148c1963a17c0e9e3f9e6c5181ef11afc2bad8"
+    releasesEtag: W/"8d9eb96c6e46a3ea3b02c6798f7ff82dd51a685ffeaba4854fce94fe01962937"
 discovery:
   method: 'fork-network:BoGanon/ps2client'
   confidence: 95

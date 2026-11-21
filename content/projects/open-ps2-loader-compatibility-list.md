@@ -19,7 +19,7 @@ repository:
   archived: false
   defaultBranch: main
   stars: 12
-  forks: 19
+  forks: 20
   lastCommit: '2023-01-06T02:42:46Z'
 latestRelease:
   tag: null
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-16T02:09:06.565Z'
+  lastSynchronized: '2026-11-21T02:15:18.756Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"27851b1746dd7f177df918b6090b8073a92c362e323408e72fab039d266e973c"
-    releasesEtag: '"3a20890b6750489859425614789b9c50d4c9e688ae8408c91de5b2a14dadfc7c"'
+    repoEtag: W/"8bafc9be9830e27e30eb5c5389ed702b771ae831e78d4a28c68281553663f1c8"
+    releasesEtag: '"26a98d4f3a17f260a722119c5c8a029570aecd32e9919635f4f0b4f4eb57ee8d"'
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100

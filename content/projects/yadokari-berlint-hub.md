@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/berlint-hub/Yadokari/releases/tag/switch-nightly-41245700196-1
 activity:
-  lastSynchronized: '2026-11-16T02:11:04.275Z'
+  lastSynchronized: '2026-11-21T02:16:54.870Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"96914bdb52755aedb3a017e48083f45d65796e3e0daf1abda0d12880c12585ad"
-    releasesEtag: W/"b44ff386fb55446cb399acc2cbb5c274a161589466b7b331d0942cc942f3caca"
+    repoEtag: W/"5cb7ec808e5ff004b55da195b01db99e75eb913afd7c3e2f7a0b1c91f666c75f"
+    releasesEtag: W/"8989826f316fa58248f6930f4f8685b782c1485613f5c844f35c85388d3e4a54"
 discovery:
   method: 'fork-network:PalindromicBreadLoaf/ARMSX2-NX'
   confidence: 95

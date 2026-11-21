@@ -23,22 +23,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 54
+  stars: 57
   forks: 2
-  lastCommit: '2026-11-15T01:32:35Z'
+  lastCommit: '2026-11-21T01:49:45Z'
 latestRelease:
-  tag: v1.0.8
-  name: 'Grandia III: Open Skies v1.0.8'
-  publishedAt: '2026-11-15T01:15:22Z'
-  url: 'https://github.com/GranasSabre/Grandia3-OpenSkies/releases/tag/v1.0.8'
+  tag: v1.0.9
+  name: 'v1.0.9: EXP/gold multiplier, camera speed, update window'
+  publishedAt: '2026-11-21T01:47:46Z'
+  url: 'https://github.com/GranasSabre/Grandia3-OpenSkies/releases/tag/v1.0.9'
 activity:
   lastChecked: '2026-10-26T14:34:04.716Z'
-  lastSynchronized: '2026-11-16T02:08:37.355Z'
+  lastSynchronized: '2026-11-21T02:14:55.907Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"add59fe44bfd3ff2c5166998d037cef0674b7652bd87761bd8118a2dfa5cd675"
-    releasesEtag: W/"b8f276e9c97dfea7ef3e83e45413164bc8392a0fd110f417e777663cdf4159c9"
+    repoEtag: W/"0601530cb325494f623449cb191ea923a7158906643401db2bc16002b3944d0f"
+    releasesEtag: W/"e3cb0660e15528cedd5a922b27e9c68db5dff0989c022c5232ad00a49e21d788"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

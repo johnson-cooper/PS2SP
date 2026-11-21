@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/ffgriever-pl/PS2-ECC-Memory-Card-Converter/releases/tag/v1.0.1
 activity:
-  lastSynchronized: '2026-11-16T02:10:10.353Z'
+  lastSynchronized: '2026-11-21T02:16:07.799Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6985066f19dd0c7d807ea8d230d927d6667755c2d67c211a87cb97e419be8bfb"
-    releasesEtag: W/"5eb10a90db8a9601ae9c14300b1e6523e50a0b0de1a77c58f13017a8577ebc34"
+    repoEtag: W/"b61abff5c3310f605c3743c95d05407bcb2775b68b15f9495b0af94246d5e00e"
+    releasesEtag: W/"822ccc3fa6cf8c4ba734b38f36ddc376d32ba48cfb7fa04a4307b003e97418f0"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

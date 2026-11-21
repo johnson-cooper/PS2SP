@@ -30,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/releases/tag/RC02
 activity:
-  lastSynchronized: '2026-11-16T02:10:51.300Z'
+  lastSynchronized: '2026-11-21T02:16:43.481Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"00e139d4957f55bd60bcc2c2c89e19b35d5547b38b0a779ec4a89662b1f74861"
-    releasesEtag: W/"79147e1e118f526789b1a9c274698e50569bdf959efd536231a0e801aa8160db"
+    repoEtag: W/"38b7d7be42e2e096102f74231ed8a46a5354e0e06cf8b6d18dd86559a236f527"
+    releasesEtag: W/"d8ddf39107dc95ec2f814a583c8a0a86878fdc931dea1ad08ba08a3381ebc9d8"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
