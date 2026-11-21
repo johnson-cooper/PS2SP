@@ -1,7 +1,7 @@
 {
-  "repository": "alertedhalo/ps2-emulator",
-  "repositoryId": "1445412789",
-  "url": "https://github.com/alertedhalo/ps2-emulator",
+  "repository": "mousslmal5-devaloper/PS2-Emulator",
+  "repositoryId": "1466536755",
+  "url": "https://github.com/mousslmal5-devaloper/PS2-Emulator",
   "description": null,
   "score": 85,
   "evidence": [
@@ -11,6 +11,6 @@
   "origin": "incremental:ps2 in:name,description",
   "maturity": "active-unreleased",
   "fork": null,
-  "discoveredAt": "2026-11-04T16:35:23.052Z",
-  "checkedAt": "2026-11-04T16:35:23.052Z"
+  "discoveredAt": "2026-11-21T16:24:35.870Z",
+  "checkedAt": "2026-11-21T16:24:35.870Z"
 }

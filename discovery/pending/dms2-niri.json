@@ -1,0 +1,16 @@
+{
+  "repository": "aubree-lat/DMS2-niri",
+  "repositoryId": "1466692105",
+  "url": "https://github.com/aubree-lat/DMS2-niri",
+  "description": "a playstation 2 bios inspired look for dankmaterialshell on niri",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-21T16:24:35.870Z",
+  "checkedAt": "2026-11-21T16:24:35.870Z"
+}
