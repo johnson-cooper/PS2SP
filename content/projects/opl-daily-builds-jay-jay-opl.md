@@ -25,7 +25,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 118
+  stars: 117
   forks: 18
   lastCommit: '2024-08-10T15:49:35Z'
 latestRelease:
@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2022-01-02T22:46:10Z'
   url: 'https://github.com/Jay-Jay-OPL/OPL-Daily-Builds/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-10T23:23:07.959Z'
+  lastSynchronized: '2026-11-21T23:17:16.465Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"777a75f9b20f5af5737c187db348ffb5a16055434c121d4995c35ffc912da273"
-    releasesEtag: W/"4c5f520bdcaade183e152a0bb5af98d52ac34559a76bdf10137a81f5e529bd02"
+    repoEtag: W/"9d4fc5d3b008e1d838d8a1510f2e7a912a6f14d8ed6583c9ad017420c0e0f401"
+    releasesEtag: W/"1f7ff7f21988473a530c196016e5256ad9efcaa49f40bb4f9e93ddf695f3c887"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

@@ -24,16 +24,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-11T03:14:53Z'
+  lastCommit: '2026-11-16T00:43:53Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-11T09:51:14.859Z'
+  lastSynchronized: '2026-11-21T23:18:03.268Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a9ddbd25d339073d0b7c47b80906f731e974c75115462d85bc36c233b1119dd5"
+    releasesEtag: '"5eff475b42f948220d589ff51c528ecf667d80367b86cd901dbacb7d75c3869e"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: ps2dev/ps2sdk
   source: ps2dev/ps2sdk
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

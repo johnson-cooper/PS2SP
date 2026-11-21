@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-10T23:23:41.600Z'
+  lastSynchronized: '2026-11-21T23:17:46.690Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2aac079f79952c1f561c63e75714adf382d206853a2b4eb8019045a2eb68afc8"
-    releasesEtag: '"74405222f5608bc40a391e45317c4deb0dc4c37e3b74b5139d5de297e1efb3bd"'
+    repoEtag: W/"88aa6ffcffad74bd5417be5fc85e596f37ce99dc16cf046cf1abdcf2767084c1"
+    releasesEtag: '"5eff475b42f948220d589ff51c528ecf667d80367b86cd901dbacb7d75c3869e"'
 discovery:
   method: 'fork-network:m4x10187/ps2-modchip-files'
   confidence: 100

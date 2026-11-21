@@ -23,21 +23,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 22
+  stars: 34
   forks: 2
-  lastCommit: '2026-11-08T21:49:51Z'
+  lastCommit: '2026-11-17T04:31:34Z'
 latestRelease:
-  tag: v1.3.0
-  name: 'Castlevania: Curse of Darkness - Native PC Port v1.3.0'
-  publishedAt: '2026-11-08T21:49:51Z'
-  url: 'https://github.com/fasipe/Castlevania-COD-QOL/releases/tag/v1.3.0'
+  tag: v1.6.1
+  name: v1.6.1
+  publishedAt: '2026-11-17T04:31:34Z'
+  url: 'https://github.com/fasipe/Castlevania-COD-QOL/releases/tag/v1.6.1'
 activity:
-  lastSynchronized: '2026-11-10T23:22:02.474Z'
+  lastSynchronized: '2026-11-21T23:16:19.626Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f51b597ce9eb54d22e86eb09340e001b1a1495933da80d40d7566a2176618f5e"
-    releasesEtag: W/"971dad47a67a5c5e3ddd2c25446620b124f83c6122ca940a77244e211cde3be5"
+    repoEtag: W/"a9e11fbe4862a53e3dc75603a72e40ff2bb69d2fe801b20dc1010660eb6a3828"
+    releasesEtag: W/"2e57de16e3e7c29c94be3ac6f0e1b55f51a65b16351b9ad8f3bbc75eb2aa69c2"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2024-06-06T18:12:27Z'
   url: 'https://github.com/MayanKoyote/KELFBinder/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-10T23:22:40.426Z'
+  lastSynchronized: '2026-11-21T23:16:51.054Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2dfc2471e02aa5acfbd9acc56c475214d8afa5a8aa3b9adabf9683dd3ca1fbdb"
-    releasesEtag: W/"941bff93d6436eea4830dde63199d4abe57608e4a7a1720e8668aca55c0498c6"
+    repoEtag: W/"2b473500c7f2aa2bbe565944f4793bfd93a411167ee8a0af1a8983a4138a16bb"
+    releasesEtag: W/"fa0862bdae0c7322a35f1ad637ef4088bec1550e2b37dc7041a12cf2425929b1"
 discovery:
   method: 'fork-network:israpps/KELFBinder'
   confidence: 100

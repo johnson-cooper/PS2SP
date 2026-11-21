@@ -23,16 +23,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-13T16:39:43Z'
+  lastCommit: '2026-11-20T02:29:28Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-13T18:46:35.249Z'
+  lastSynchronized: '2026-11-21T23:16:58.025Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a1c88c25ef0c385599ee7b40d35ec18bb3cca28114dfb5fef6616b3538238df2"
+    releasesEtag: '"5eff475b42f948220d589ff51c528ecf667d80367b86cd901dbacb7d75c3869e"'
 discovery:
   method: 'incremental:ps2sdk in:name,description,readme'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: sahlberg/libsmb2
   source: sahlberg/libsmb2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

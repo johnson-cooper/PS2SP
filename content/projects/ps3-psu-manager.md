@@ -23,20 +23,20 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-11-07T21:55:53Z'
+  lastCommit: '2026-11-15T16:21:47Z'
 latestRelease:
-  tag: tiny3d-verified-10-1
-  name: Verified Tiny3D tiny3d-verified-10-1
-  publishedAt: '2026-11-07T15:24:06Z'
+  tag: stage6v-phase2-run-61
+  name: Stage 6V Phase 2 diagnostic run 61
+  publishedAt: '2026-11-15T16:21:48Z'
   url: >-
-    https://github.com/khant735/PS3-PSU-Manager/releases/tag/tiny3d-verified-10-1
+    https://github.com/khant735/PS3-PSU-Manager/releases/tag/stage6v-phase2-run-61
 activity:
-  lastSynchronized: '2026-11-10T23:24:10.147Z'
+  lastSynchronized: '2026-11-21T23:18:12.899Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7950779223761f001b2e97133efa2333cfb02405814035f41bc7469bd393f351"
-    releasesEtag: W/"a2555368909f6007634e658a9be55c438059160904529ef8e9a4610516df43d4"
+    repoEtag: W/"1b2fbb03bc25ce4a02d58d6e99fc039517185f2c7682eff53e8fb89995f324a2"
+    releasesEtag: W/"b043b01725a84cfd7dceef7b09337efd270a6d31c37972b52958fbb9b29af5b6"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

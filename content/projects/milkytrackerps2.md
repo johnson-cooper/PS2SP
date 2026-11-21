@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2024-05-19T20:03:07Z'
   url: 'https://github.com/TheMorc/MilkyTrackerPS2/releases/tag/1.04'
 activity:
-  lastSynchronized: '2026-11-10T23:22:49.505Z'
+  lastSynchronized: '2026-11-21T23:16:58.912Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"80f3b9795cd35c436e86db1b93815a68b7508fc6a67d3e73c6f8a36a3de80578"
-    releasesEtag: W/"3da8f527e5035e37c337b7342ca40c0bc3071bb69eb0f7ad662f3ad33e040958"
+    repoEtag: W/"0c92f9c22fe00767c649d98d8edf6ee608c14b479be8c5b17eef088158efa4cd"
+    releasesEtag: W/"f98a16eb3a5ccd1ac67d89f248b8b33a833a0cb26c9b37d3b26958218f704dea"
 discovery:
   method: pending-recheck
   confidence: 100

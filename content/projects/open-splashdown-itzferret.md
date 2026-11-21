@@ -22,18 +22,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
-  lastCommit: '2026-11-13T07:56:08Z'
+  lastCommit: '2026-11-13T13:55:10Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.1-test1
+  name: PC port test build 1
+  publishedAt: '2026-11-13T13:55:10Z'
+  url: 'https://github.com/ItZFerret/open-splashdown/releases/tag/v0.1-test1'
 activity:
-  lastSynchronized: '2026-11-13T11:35:27.480Z'
+  lastSynchronized: '2026-11-21T23:17:13.699Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0f1307ef4faf34bd303b646508913a39e7fc33b6177d50f4fab4934f944ab976"
+    releasesEtag: W/"583607bdd620fd1b3e424ac4387627be7904409f8c149aeef1c15a492f6884a6"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: CoastRedWood/splashdown
   source: CoastRedWood/splashdown
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

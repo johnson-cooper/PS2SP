@@ -13,7 +13,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: MIT
 homepage: null
 source:
   provider: github
@@ -22,19 +22,23 @@ source:
   url: 'https://github.com/Miguel0827/Ratatouille-PC'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 4
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-14T06:41:16Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.1.1
+  name: Ratatouille PC v1.1.1
+  publishedAt: '2026-11-14T06:41:16Z'
+  url: 'https://github.com/Miguel0827/Ratatouille-PC/releases/tag/v1.1.1'
 activity:
   lastChecked: '2026-11-13T03:36:03.837Z'
+  lastSynchronized: '2026-11-21T23:18:19.119Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6957585d5ccb5b95ad6fe404ae11e10f1ee9f64f5c8c1d0793775b3d2e48cb03"
+    releasesEtag: W/"c38aef0247a759fd94f55f432533c5429ba5b74265637d59bb62fca82d038cac"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -47,5 +51,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

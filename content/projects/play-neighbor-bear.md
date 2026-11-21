@@ -28,9 +28,12 @@ latestRelease:
   url: >-
     https://github.com/neighbor-bear/Play-/releases/tag/%E6%B5%8B%E8%AF%95%E7%89%88
 activity:
-  lastSynchronized: '2026-11-11T02:16:15.383Z'
+  lastSynchronized: '2026-11-21T23:17:37.433Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"04a73d137a2d4715092260a011687ffd0ad31ee8f624e0f57889e86ed066199e"
+    releasesEtag: W/"9df735b383185c75a99bef1805f018bdeff599a43f225cbfd46ac020870d5741"
 discovery:
   method: 'fork-network:jpd002/Play-'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: jpd002/Play-
   source: jpd002/Play-
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

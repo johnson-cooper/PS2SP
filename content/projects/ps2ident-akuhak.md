@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2026-10-18T19:46:51Z'
   url: 'https://github.com/AKuHAK/PS2Ident/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-10T23:23:53.009Z'
+  lastSynchronized: '2026-11-21T23:17:57.943Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"002f65cfb3ef93e2f1c4aed969f886e2dd29093c45b1fc264c61b2c0ec715a13"
-    releasesEtag: W/"d9f51dc58c7870fe4360e5b48c7bc6dcedd4453eed96e707a67ba9b1470f7ac5"
+    repoEtag: W/"8ab1c67d05cdd57675df5cd1111bfba38a4670e19078e8528cd65ea59d48e859"
+    releasesEtag: W/"c9c5193b5437428f67c62a01247417bc5fc3f97bb8ce57f106c75a0a097a2f9d"
 discovery:
   method: 'fork-network:ps2homebrew/PS2Ident'
   confidence: 100

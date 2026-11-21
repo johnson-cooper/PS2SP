@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-15T17:59:08.973Z'
+  lastSynchronized: '2026-11-21T23:18:27.629Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a772a09822d9764a3507cb33df9968c1562b43b4f3ce4aae470fd436f8718f3c"
+    releasesEtag: '"5eff475b42f948220d589ff51c528ecf667d80367b86cd901dbacb7d75c3869e"'
 discovery:
   method: 'fork-network:WhatAboutGaming/Twitch-Plays-Stuff'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: WhatAboutGaming/Twitch-Plays-Stuff
   source: WhatAboutGaming/Twitch-Plays-Stuff
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

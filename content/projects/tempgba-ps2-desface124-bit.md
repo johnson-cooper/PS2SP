@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-17T13:53:37.544Z'
+  lastSynchronized: '2026-11-21T23:18:24.674Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"9b11c4fdc10ff601888cb1f588dcdb1c3bdfe14d69e15e6400f10507fd916b1f"
+    releasesEtag: '"5eff475b42f948220d589ff51c528ecf667d80367b86cd901dbacb7d75c3869e"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: andymcca/TempGBA-PS2
   source: rickvdwetering/TempGBA
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

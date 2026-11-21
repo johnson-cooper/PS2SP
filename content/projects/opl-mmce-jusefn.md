@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2025-02-27T08:32:55Z'
   url: 'https://github.com/jusefn/opl-mmce/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-10T23:23:09.305Z'
+  lastSynchronized: '2026-11-21T23:17:17.936Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"48d1521fedef8271ba7578380cd49934feadc0ae02da6f761e4e5bfd21216e0e"
-    releasesEtag: W/"3a6224aeb2f41954fb36808afb4f86fa488b51f09b4e75d891ff767202d0e783"
+    repoEtag: W/"b70a2bbd36164173a045dafd2654d77609a2b2c8b27a193e5ce0d8d7c73cad3f"
+    releasesEtag: W/"098e3b33b231982c9e7f7236c2dddd41403277d2994e6ece69f1cfa8f8cdf082"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

@@ -22,19 +22,23 @@ source:
   url: 'https://github.com/retro-trans/Gundam-Climax-UC'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 1
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-17T08:15:08Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.8.1
+  name: Gundam Climax U.C. English — v0.8.1
+  publishedAt: '2026-11-16T11:34:42Z'
+  url: 'https://github.com/retro-trans/Gundam-Climax-UC/releases/tag/v0.8.1'
 activity:
   lastChecked: '2026-11-12T08:50:51.748Z'
+  lastSynchronized: '2026-11-21T23:16:43.027Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c6aab0d773a0c881ab5a3ef38a1695c4f543bb546fc2b58a9a978cdf6a20cf23"
+    releasesEtag: W/"cf06509b8ac8a5eab79d0810955427c66149e549daf6d3b56b1fd6cdb280454d"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -47,5 +51,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

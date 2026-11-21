@@ -19,19 +19,23 @@ source:
   url: 'https://github.com/ZloiKILLER/nfshp2-port-win'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
-  forks: 0
-  lastCommit: null
+  defaultBranch: main
+  stars: 82
+  forks: 4
+  lastCommit: '2026-11-17T21:51:36Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: '0.14'
+  name: '0.14'
+  publishedAt: '2026-11-17T21:51:36Z'
+  url: 'https://github.com/ZloiKILLER/nfshp2-port-win/releases/tag/0.14'
 activity:
   lastChecked: '2026-11-13T18:46:35.249Z'
+  lastSynchronized: '2026-11-21T23:17:03.927Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5cfcb335d81b6708ace42fda381ab85c18632e434156dbe54223b82af343845c"
+    releasesEtag: W/"3d6c3e446e71f94f57f800f49c99d2bfe31a8824c3d98a10c3de72403d2850bc"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -44,5 +48,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

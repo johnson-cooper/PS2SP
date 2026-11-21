@@ -25,22 +25,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 18
-  forks: 1
-  lastCommit: '2026-11-02T17:00:03Z'
+  stars: 23
+  forks: 2
+  lastCommit: '2026-11-16T15:39:14Z'
 latestRelease:
-  tag: v1.0
-  name: Battle Stadium D.O.N for PC 1.0
-  publishedAt: '2026-11-02T13:30:52Z'
-  url: 'https://github.com/dvilelaf/battlestadium-don/releases/tag/v1.0'
+  tag: v1.1
+  name: Battle Stadium D.O.N for PC 1.1
+  publishedAt: '2026-11-16T15:39:32Z'
+  url: 'https://github.com/dvilelaf/battlestadium-don/releases/tag/v1.1'
 activity:
   lastChecked: '2026-11-02T15:20:22.952Z'
-  lastSynchronized: '2026-11-10T23:21:58.926Z'
+  lastSynchronized: '2026-11-21T23:16:16.667Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d8d12a8049a4b63772faa5dc55fa45c7815285c541960b6f96464d4344f4ef1d"
-    releasesEtag: W/"a11d3ec442b0edfd349263ced097873c4f0e77b6440f624214042ab04d3787ce"
+    repoEtag: W/"9d3dbc43656b1c6d8022314841170f8e9e86fb18969c8fe3346e94a8e5ebc207"
+    releasesEtag: W/"073b3ec31b06b107e2543a4da48c5e8970fa348904eac581995aea8fbfe7a999"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

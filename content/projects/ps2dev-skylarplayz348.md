@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2025-07-11T23:15:06Z'
   url: 'https://github.com/fuzzyghosty/ps2dev/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-10T23:23:50.648Z'
+  lastSynchronized: '2026-11-21T23:17:55.469Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e9bb857ef7bfc8ed41b28da782581294353c873d8bd41dc54954866ff6d26db4"
-    releasesEtag: W/"adaa86892568fbf7df573e57363754f7fcb2c7a2cf9c508f54d73a3aec7553b7"
+    repoEtag: W/"c2bc7b8167bd4123d6beb888979d84172a935b233e4e2e164862f8403a0611f5"
+    releasesEtag: W/"de40900c72537eed2e9e72d6ef227e9257a61b3a84caa84f1ec8607641ccbb6e"
 discovery:
   method: 'fork-network:ps2dev/ps2dev'
   confidence: 100
