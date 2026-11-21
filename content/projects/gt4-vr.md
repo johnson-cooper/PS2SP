@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 3
   forks: 0
-  lastCommit: '2026-11-13T08:19:29Z'
+  lastCommit: '2026-11-17T18:40:03Z'
 latestRelease:
   tag: v0.3.2-beta-specii
   name: GT4 Spec II VR 0.3.2-beta
   publishedAt: '2026-11-13T08:18:55Z'
   url: 'https://github.com/SgtBilko76/gt4-vr/releases/tag/v0.3.2-beta-specii'
 activity:
-  lastSynchronized: '2026-11-16T09:44:30.423Z'
+  lastSynchronized: '2026-11-21T09:53:29.509Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fec7920abe718a5e450cbb0f84061d85eab04567ac3ae66c301c893924542f87"
-    releasesEtag: W/"ffbbae5a37d83d501adc14d149cf3e6bba876cbc7691eac96ba09d8a05f89a1c"
+    repoEtag: W/"6332c554df21473ed263a8224f4c8d46463d772a0a9879bf028df311d57dca96"
+    releasesEtag: W/"c20c04bb9dff4562d0126b39b274cb083e0e7cb6d8c2af54aa2ac1546caec935"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

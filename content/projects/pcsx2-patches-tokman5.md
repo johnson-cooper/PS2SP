@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-06-17T08:21:07Z'
   url: 'https://github.com/Tokman5/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-16T09:45:39.745Z'
+  lastSynchronized: '2026-11-21T09:54:21.190Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0ddf94526c44f84e9d027bb23def454cee3d742f2133d8630306963d48b61446"
-    releasesEtag: W/"bebed12f127d75588086f657c1bab8bec1d8186f1db7062aa6490e3c189b21b6"
+    repoEtag: W/"1d7fd75a1e593c4d4ad6ea6f18ff500ace358a601d999c7b6d54d524050cf99e"
+    releasesEtag: W/"65f07675961277df0067cf4dc87278fd36b9a8fa522f5dcbc3aa678c7dea8ba5"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95

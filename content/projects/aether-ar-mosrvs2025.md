@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-19T02:49:39.009Z'
+  lastSynchronized: '2026-11-21T09:52:56.982Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"84e0407b51c59bf99332ab1730e657925185b2b1832b59851414b008fe898962"
+    releasesEtag: '"acc2dfa1507605c36b62df13cb3d5125a73ada5d832ec7ef65c5a1968664006f"'
 discovery:
   method: 'fork-network:AETHER-AR/aether-ar'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: AETHER-AR/aether-ar
   source: AETHER-AR/aether-ar
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

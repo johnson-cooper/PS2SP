@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/retrom-project/Butterscotch/releases/tag/retrom-core-g0c94bfb05e3c-r1
 activity:
-  lastSynchronized: '2026-11-16T09:44:07.586Z'
+  lastSynchronized: '2026-11-21T09:53:11.847Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5ec70d718b7c539f7941aee88c2b9f641de83e506c86b6526e1ffc1311c3d6c9"
-    releasesEtag: W/"91ff7ccf97d50a6b73623bf4c9cf424f8efabbc88a904cd8aaf2ca445231f747"
+    repoEtag: W/"f2465dae2b8e57e441ce3f79a1adab15c355ead74ad1a9767faa9489011cc51e"
+    releasesEtag: W/"1ed7fb496c60ff2f1cd720c7a243f4e80adb58add0abe1986a5bfe2cb3610a82"
 discovery:
   method: 'fork-network:ButterscotchRunner/Butterscotch'
   confidence: 95

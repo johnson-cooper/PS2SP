@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-01-14T07:25:44Z'
   url: 'https://github.com/Aelthien/pcsx2-rtx-remix/releases/tag/0.0.1'
 activity:
-  lastSynchronized: '2026-11-16T09:45:41.714Z'
+  lastSynchronized: '2026-11-21T09:54:22.749Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8435272a58a403b048963d793ea164a4f2875fd46b35d48cd5f7ecf479071fbf"
-    releasesEtag: W/"0c8298d779ef3ad307e3b0a2cd7d1419b047631f0477c9d3df0b17a218d2a179"
+    repoEtag: W/"cb8e8805612301d92c35315dd592b6c5a721965e9a5c0a8cf9c2b29fd9405a05"
+    releasesEtag: W/"82d2ca7d4fb8d48ea0d68fb17f8881fef521f66fa3599116b5f5c4d2f5f3d2d1"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

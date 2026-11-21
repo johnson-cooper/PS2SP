@@ -33,9 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-20T10:30:42.731Z'
+  lastSynchronized: '2026-11-21T09:53:12.803Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8ddbf1f99000930020cf90959148c123bfba6175fa985d23a90f0f375010c2fd"
+    releasesEtag: '"acc2dfa1507605c36b62df13cb3d5125a73ada5d832ec7ef65c5a1968664006f"'
 discovery:
   method: 'fork-network:fasipe/Castlevania-COD-QOL'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: fasipe/Castlevania-COD-QOL
   source: fasipe/Castlevania-COD-QOL
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-11-12T10:06:23Z'
   url: 'https://github.com/iPSX2/iPSX2/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-11-16T09:44:35.510Z'
+  lastSynchronized: '2026-11-21T09:53:33.091Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ec5fb03b1c44eccd16d59b830452361b23761fccb8b3d77abb140fd002c86342"
-    releasesEtag: W/"80ad7a1499bbb31dfaa78c800c3594da1baa4f7ce069cdb03c365ce020ecf215"
+    repoEtag: W/"1cf394966167ff16905b77da50e277506f43d548c25ca3576b03449514c98f3e"
+    releasesEtag: W/"a9e5e57692f2d4615de3573c46745f6029abc5b666b2ce61e6876fe86e2d7c39"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -20,19 +20,19 @@ repository:
   defaultBranch: romp
   stars: 2
   forks: 0
-  lastCommit: '2026-11-09T13:46:47Z'
+  lastCommit: '2026-11-16T13:19:48Z'
 latestRelease:
   tag: core-20261109-52a352aa68
   name: 'ARMSX2 libretro core, 52a352aa68'
   publishedAt: '2026-11-09T13:46:47Z'
   url: 'https://github.com/RompEmu/ARMSX2/releases/tag/core-20261109-52a352aa68'
 activity:
-  lastSynchronized: '2026-11-16T09:43:55.632Z'
+  lastSynchronized: '2026-11-21T09:53:02.977Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f2d197256a008c13ec3cac5cec3d9cd0c042cf090532a98149cd043324c39346"
-    releasesEtag: W/"d7f0960c375f6a01c16a027a6ca11daa5c1d7b3058b6b4cb6e66796937969bfc"
+    repoEtag: W/"27880bc45450b4fc7d385b1f793e759c23356e378bf8a9659947383d7d905ac8"
+    releasesEtag: W/"7ca4f3917e03025842fadd9d985677ee73993f5f2105540e9d30bc6eec4b469c"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

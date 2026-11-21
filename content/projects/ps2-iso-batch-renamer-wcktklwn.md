@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-11-06T06:19:42Z'
   url: 'https://github.com/wcktklwn/PS2-ISO-Batch-Renamer-/releases/tag/v4.1.0'
 activity:
-  lastSynchronized: '2026-11-16T09:46:04.353Z'
+  lastSynchronized: '2026-11-21T09:54:39.268Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6289ad651b6a47edeb75f80c5d26054e374324069da418354c0b207073131c9c"
-    releasesEtag: W/"af6d873d6cbb524998ee8808db439b15a7ae1e2f1f1ec88cc0a25d57882020d5"
+    repoEtag: W/"ebc667da9f2358479b406ab8570e5afdf7289914e7432b6dcb73566678a743f1"
+    releasesEtag: W/"da8cefb6e1aa0f5203413876138703ec1c87cbd46585a0212c122313dd3ecd38"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

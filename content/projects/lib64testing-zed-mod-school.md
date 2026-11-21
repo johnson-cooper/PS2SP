@@ -30,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/Zed-Mod-School/lib64testing/releases/tag/v0.0.5-mario-v4-updated-collision-2.0
 activity:
-  lastSynchronized: '2026-11-16T09:44:47.556Z'
+  lastSynchronized: '2026-11-21T09:53:42.848Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5678e89d0b24469d975091b7946efaa75005e740ffeeda933771ba93cdc56830"
-    releasesEtag: W/"c2083c37657461cb9a386ebb0b129001e727d011ab686505a03fe7e2b106288c"
+    repoEtag: W/"553e3dd2f10b02dee0b0bcd44bf62caec557004a06592a791532d9ec6139d72d"
+    releasesEtag: W/"2bfb92531abe645f08be74f2611f023b59817d1ccc53b947ae505e78e91f95e2"
 discovery:
   method: 'fork-network:Zed-Mod-School/mod-base-test-1'
   confidence: 95

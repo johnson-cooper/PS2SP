@@ -17,22 +17,22 @@ source:
   repositoryId: '1433686584'
 repository:
   archived: false
-  defaultBranch: decomp-work
+  defaultBranch: pc-port
   stars: 3
   forks: 0
-  lastCommit: '2026-11-09T05:21:04Z'
+  lastCommit: '2026-11-20T22:12:59Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.1.9
+  name: v0.1.9
+  publishedAt: '2026-11-20T22:17:27Z'
+  url: 'https://github.com/designgears/xsg-i-decomp/releases/tag/v0.1.9'
 activity:
-  lastSynchronized: '2026-11-16T09:47:00.892Z'
+  lastSynchronized: '2026-11-21T09:55:19.489Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"af4c0c1a74849d5139b3fc86947fb59ef0ccae50f0949444849c584c9e14f5e4"
-    releasesEtag: '"94ae9a01aad4edba2aa43b481d961886d303990bb45a15f4ef989d4b6bbd9d32"'
+    repoEtag: W/"a81334c37a3ee010ea14698510aaf0d767cfc1cc6ce7ccee18aa821da9756026"
+    releasesEtag: W/"06363d367b3864727391d80acc3302b62f42466a1cff0982c46a7d605fe63deb"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
