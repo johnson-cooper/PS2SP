@@ -23,19 +23,19 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-11-15T16:17:41Z'
+  lastCommit: '2026-11-21T06:27:09Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-15T17:13:05.298Z'
+  lastSynchronized: '2026-11-21T17:33:39.899Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ecbf5ff09e58186fc0ee3ded2b324850c40d6c74792c1bf9acc635cdcbb319ac"
-    releasesEtag: '"26e929970cb0b6480ab8e1178c67baefe9e00d8c143ae6b8ec3191285ecfb0be"'
+    repoEtag: W/"297b1ff6030beac33f5c9a37b9cf5da2c4599e8ecc3c0e85759eb4c2fd72b491"
+    releasesEtag: '"f1943bfb5f2a778c0d86faa584621b1de8b68ad47697d957f92887d7d9717618"'
 discovery:
   method: 'fork-network:exoteric33/ps2-native-recomp'
   confidence: 100

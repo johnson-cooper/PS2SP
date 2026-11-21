@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-15T17:12:47.902Z'
+  lastSynchronized: '2026-11-21T17:33:23.870Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"933fc38213eb2222fc248b234df2c3e770b2e1e3c9977487cfb5d424bf0ba6c6"
-    releasesEtag: '"26e929970cb0b6480ab8e1178c67baefe9e00d8c143ae6b8ec3191285ecfb0be"'
+    repoEtag: W/"a19d405ad85df84e28639e8a93c4ce2ffc6cc8b4413d34b35ce375422cb62fe6"
+    releasesEtag: '"f1943bfb5f2a778c0d86faa584621b1de8b68ad47697d957f92887d7d9717618"'
 discovery:
   method: 'fork-network:jpd002/Play-'
   confidence: 100

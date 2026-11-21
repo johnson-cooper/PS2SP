@@ -20,19 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-15T02:38:30Z'
+  lastCommit: '2026-11-16T00:04:22Z'
 latestRelease:
   tag: 1.0.0
   name: ARMSX2 NASCAR EDITION!
   publishedAt: '2026-11-12T03:08:55Z'
   url: 'https://github.com/RoadDawg1997/ARMSX2-NASCAR-EDITION/releases/tag/1.0.0'
 activity:
-  lastSynchronized: '2026-11-15T17:11:20.304Z'
+  lastSynchronized: '2026-11-21T17:32:08.755Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2a45de76b2ac2107f1c70a49f6b71fee2f1eec6eb0a109e1645434100e95ab29"
-    releasesEtag: W/"f422494016d3068bf3dac6e4c7871331d6e484351c0b793514c0cb7cb1321f58"
+    repoEtag: W/"aca75dbdd5aeb5ebf15783e3c834ceb106f6e95bcc69b92c80457cbce2633239"
+    releasesEtag: W/"186a6e9abf4d09dbf4cf26c4fd6f1dc68c2582147cfa6e6a158f4914d64607dd"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

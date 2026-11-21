@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-15T17:11:50.702Z'
+  lastSynchronized: '2026-11-21T17:32:34.381Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c921f965153c4627ebd46a1c2ca255a48e361c763c41b8c730a1b977adf6d336"
-    releasesEtag: '"26e929970cb0b6480ab8e1178c67baefe9e00d8c143ae6b8ec3191285ecfb0be"'
+    repoEtag: W/"037c1bfcc6fa862e88d23b349eb4840ead91b80176117f1345516546ded18d04"
+    releasesEtag: '"f1943bfb5f2a778c0d86faa584621b1de8b68ad47697d957f92887d7d9717618"'
 discovery:
   method: 'fork-network:blurtic2/iidx-ps2-480p'
   confidence: 100

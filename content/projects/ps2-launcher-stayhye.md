@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-15T17:13:04.265Z'
+  lastSynchronized: '2026-11-21T17:33:38.997Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c5276a833b550cde77a345f201379ab9dca01453109e8f1e1d5c6dcebf42f46e"
-    releasesEtag: '"26e929970cb0b6480ab8e1178c67baefe9e00d8c143ae6b8ec3191285ecfb0be"'
+    repoEtag: W/"42358150e58a5a15b075b0c0d9fb8383031b4f0e2681abed25dda367be7bdd89"
+    releasesEtag: '"f1943bfb5f2a778c0d86faa584621b1de8b68ad47697d957f92887d7d9717618"'
 discovery:
   method: 'fork-network:Irfanlesnar/PS2-Launcher'
   confidence: 100

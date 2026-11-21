@@ -27,19 +27,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-06T17:12:45Z'
+  lastCommit: '2026-11-17T22:37:01Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-15T17:13:09.657Z'
+  lastSynchronized: '2026-11-21T17:33:43.629Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b4a102e270ea17e719e55b4c45e5a706616bdbf9df2b44c184dc75f3c1491003"
-    releasesEtag: '"26e929970cb0b6480ab8e1178c67baefe9e00d8c143ae6b8ec3191285ecfb0be"'
+    repoEtag: W/"59fb9cb88f5a0e92484b4584f1c8893dee2f99c3545c54e69683c2c0ab2918ca"
+    releasesEtag: '"f1943bfb5f2a778c0d86faa584621b1de8b68ad47697d957f92887d7d9717618"'
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-15T17:11:30.665Z'
+  lastSynchronized: '2026-11-21T17:32:17.700Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2c60f5e718b50e695bee7b8d00288ebe6a14b5442a2a2d2c3e296217b0c8dbeb"
-    releasesEtag: '"26e929970cb0b6480ab8e1178c67baefe9e00d8c143ae6b8ec3191285ecfb0be"'
+    repoEtag: W/"4b404b54d457833013fbf58dfd039921976588fa2389031eadf622d5cf402757"
+    releasesEtag: '"f1943bfb5f2a778c0d86faa584621b1de8b68ad47697d957f92887d7d9717618"'
 discovery:
   method: 'fork-network:valenvivaldi/decomp.wtf'
   confidence: 100

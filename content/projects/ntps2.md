@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/ShyavanS/NTPS2/releases/tag/v1.2.1'
 activity:
   lastChecked: '2026-09-29T00:27:35.011Z'
-  lastSynchronized: '2026-11-15T17:12:14.246Z'
+  lastSynchronized: '2026-11-21T17:32:53.734Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"24abb3ca843009935f823c8295d9ac88da03a3f6c2038f7fb869b366a16e8089"
-    releasesEtag: W/"ee740fbbc3e0ae72ce8ab21754cc37ff99c0735a013c48fe3a2f6afab2add649"
+    repoEtag: W/"e06b7b89e2cc261afeab616316bd4def8d270c28559dc283c3d5f305597a91e9"
+    releasesEtag: W/"e78087aea06912acae70f9701962b3aeaf58bff22d83e095cf0544dd4fbc35d8"
 discovery:
   method: github-search
   confidence: 100
