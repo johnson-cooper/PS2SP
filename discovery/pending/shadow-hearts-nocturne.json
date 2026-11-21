@@ -1,0 +1,16 @@
+{
+  "repository": "NfgOdin/Shadow-Hearts-Nocturne",
+  "repositoryId": "1463668519",
+  "url": "https://github.com/NfgOdin/Shadow-Hearts-Nocturne",
+  "description": "A PC port of the PS2 Game \"Shadow Hearts - Covenant\". Able to run both discs from your legally accuired .iso backup.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-21T08:46:04.198Z",
+  "checkedAt": "2026-11-21T08:46:04.198Z"
+}
