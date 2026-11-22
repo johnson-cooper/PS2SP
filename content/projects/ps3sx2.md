@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/akyelufukhan/PS3SX2/releases/tag/v1.0.0'
 activity:
   lastChecked: '2026-10-22T15:40:02.066Z'
-  lastSynchronized: '2026-11-08T19:44:20.039Z'
+  lastSynchronized: '2026-11-22T19:42:41.363Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"87f33892e9ab178982fa9fdf48381afbed8334db879dd713166fe522762e38d0"
-    releasesEtag: W/"7b47d941836b91c7bf3ab50bd2429bb55ad5444f36b1bc7cfc324e6eb91d2902"
+    repoEtag: W/"4c909dda9b49c1bf31c5bbc43dd1631d2a8d11987f74527335b195511813b5ba"
+    releasesEtag: W/"be4cdc19779a38cbf2639cf26fecafe6791e0cf11fa0abfbb1f8ced69eeaad40"
 discovery:
   method: 'pending-promotion:incremental:topic:ps2'
   confidence: 80

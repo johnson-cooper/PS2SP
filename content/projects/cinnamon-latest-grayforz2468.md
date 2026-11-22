@@ -23,21 +23,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 27
-  forks: 2
-  lastCommit: '2026-11-08T01:30:23Z'
+  stars: 37
+  forks: 5
+  lastCommit: '2026-11-22T17:59:41Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.04
+  name: Cinnamon Launcher v1.04
+  publishedAt: '2026-11-22T04:15:01Z'
+  url: >-
+    https://github.com/Project-Sunshine-Native/cinnamon-runner/releases/tag/v1.04
 activity:
-  lastSynchronized: '2026-11-08T19:42:34.946Z'
+  lastSynchronized: '2026-11-22T19:40:44.040Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"061d370eb2d916d9208559a37c0c98314b7dd49d3715c34b7345228ab4cad9d0"
-    releasesEtag: '"2d77d78d9406dfdb04f6cdb831785e70ead0264c82109729acd315cd0faa00fd"'
+    repoEtag: W/"c060cc0be91af19edce54dfdd37873f46347630bad4d208662073d152c8fb7c5"
+    releasesEtag: W/"9f181acf392ebd507f6ed0fe457b5c428188a994274f422a696dc99e99cff2ae"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

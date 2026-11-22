@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-08T19:44:20.935Z'
+  lastSynchronized: '2026-11-22T19:42:43.323Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c1c13d465c72047d2ca0603afa29a7246661f28bd42fc0e7c85f4b470c04d33b"
-    releasesEtag: '"2d77d78d9406dfdb04f6cdb831785e70ead0264c82109729acd315cd0faa00fd"'
+    repoEtag: W/"cfb607d52175471754130df42860004ac7039bdc88ec714e23b48f724e5a4637"
+    releasesEtag: '"be8fef597ef8ce9597d3a28fb7d1db390e9074e959ad675a9c1e6fdb15755086"'
 discovery:
   method: 'fork-network:bucanero/psbbn-art-database'
   confidence: 95

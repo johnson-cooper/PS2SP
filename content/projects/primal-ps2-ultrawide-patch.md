@@ -16,24 +16,27 @@ license: null
 homepage: null
 source:
   provider: github
-  repository: ShivainKhera/primal-ps2-ultrawide-patch
+  repository: Sevastopol2269/primal-ps2-ultrawide-patch
   repositoryId: '1461257909'
 repository:
   archived: false
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-17T11:05:41Z'
+  lastCommit: '2026-11-17T16:21:46Z'
 latestRelease:
   tag: v1.0.0
   name: Widescreen (Hor+/Vert+ FOV) + 60 FPS (FMV fix)
   publishedAt: '2026-11-17T10:45:10Z'
   url: >-
-    https://github.com/ShivainKhera/primal-ps2-ultrawide-patch/releases/tag/v1.0.0
+    https://github.com/Sevastopol2269/primal-ps2-ultrawide-patch/releases/tag/v1.0.0
 activity:
-  lastSynchronized: '2026-11-17T13:53:37.544Z'
+  lastSynchronized: '2026-11-22T19:42:04.326Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"dd579ecb2861d6fde97224915eb98aa61a81fbec71906921869316912b1daa64"
+    releasesEtag: W/"88e7f78a3d95cad537a33784bc5ec5de85744b18326fe09fc4be7350047714b4"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -47,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

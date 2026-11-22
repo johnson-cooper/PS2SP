@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 5
   forks: 0
   lastCommit: '2026-11-14T14:09:52Z'
 latestRelease:
@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: '2026-11-14T13:12:18Z'
   url: 'https://github.com/Solid7s/nfshp2-macos/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-11-14T14:31:42.448Z'
+  lastSynchronized: '2026-11-22T19:41:24.620Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"fc052d1715388a174f215cb506d26bdc0fa23fd563f9b14f14b811f64b4f448a"
+    releasesEtag: W/"66abb429fc05c1702c21f62e809a39246e4db1cff05d66d925e70b2aa817983d"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -51,5 +54,4 @@ relationships:
   forkOf: ZloiKILLER/nfshp2-port-win
   source: ZloiKILLER/nfshp2-port-win
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

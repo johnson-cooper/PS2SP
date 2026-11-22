@@ -20,28 +20,28 @@ license: GPL-3.0
 homepage: null
 source:
   provider: github
-  repository: kc-anderson/kamite
+  repository: God-Hand-Rearmed/God-Hand-Rearmed
   repositoryId: '1429373816'
   url: 'https://github.com/kris-c-anderson/kamite'
 repository:
   archived: false
   defaultBranch: main
-  stars: 23
-  forks: 0
-  lastCommit: '2026-11-08T19:36:22Z'
+  stars: 189
+  forks: 4
+  lastCommit: '2026-11-22T16:14:30Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.6.9.4
+  name: 'GHR [v0.6.9.4 - Beta]'
+  publishedAt: '2026-11-22T16:11:29Z'
+  url: 'https://github.com/God-Hand-Rearmed/God-Hand-Rearmed/releases/tag/v0.6.9.4'
 activity:
   lastChecked: '2026-10-25T10:09:09.591Z'
-  lastSynchronized: '2026-11-08T19:43:01.900Z'
+  lastSynchronized: '2026-11-22T19:41:13.530Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c71083ae2c07f4564168b89ac26f010766a49a38fff00f437e8599dbd8da37c8"
-    releasesEtag: '"2d77d78d9406dfdb04f6cdb831785e70ead0264c82109729acd315cd0faa00fd"'
+    repoEtag: W/"c76df8365bf9965920557f3bdc809422f5501afd6fe11e7abe46c9b791db9479"
+    releasesEtag: W/"69d68ee223b0bd49abf1e7caf677a3cfe02231aa49fd3da7d8cc3ea868894856"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2026-10-14T17:57:58Z'
   url: 'https://github.com/BuechlerA/OpenCE-PS2/releases/tag/build-14'
 activity:
-  lastSynchronized: '2026-11-08T19:43:23.347Z'
+  lastSynchronized: '2026-11-22T19:41:36.745Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9498d5adf872f1fda93ede8d96cd7a8e84322d1b6fcb383069d50b93af70b370"
-    releasesEtag: W/"5e79a34524af342fb9a744f3155dff1f4060f116241605247aa3e3cf9c60c4e6"
+    repoEtag: W/"a6faef3b11d8cea8a6630374133de6ef57723fbc60b7e7954a06dd433519b492"
+    releasesEtag: W/"c9249781bc230f05591d212b6a43fedfa97df0aaa9ca46aabe51e67ba4cb1449"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

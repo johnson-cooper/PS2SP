@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/Suicideboyy/DiscForge-CHD/releases/tag/v2.7.0'
 activity:
   lastChecked: '2026-09-29T16:39:19.086Z'
-  lastSynchronized: '2026-11-08T19:42:39.246Z'
+  lastSynchronized: '2026-11-22T19:40:49.276Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c66d6708dad4c87a3b8c10d0f22649bfcc1e73b80afc1e5ea132f376f5e11b1b"
-    releasesEtag: W/"e3a0ef6d7b8b847b8eea8c77d440d81d46aa59523d77a5bc0ba14347ff5cff31"
+    repoEtag: W/"ef54996c8caf758d228fd80b53cc3b44d22dffdc648b9f6258889285e05df11d"
+    releasesEtag: W/"c136aa954a0ee036d2b04b64c674fa3f1291c6ab4c5bd5ca50a3b91dbb1669ba"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

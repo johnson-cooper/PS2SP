@@ -20,20 +20,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-08T11:29:07Z'
+  lastCommit: '2026-11-12T19:08:49Z'
 latestRelease:
-  tag: v0.95
-  name: v0.95 · 내일의 죠 PS2 한국어 패치
-  publishedAt: '2026-11-08T10:59:06Z'
+  tag: v1.1
+  name: v1.1 · 내일의 죠 PS2 비공식 한글화 정식버전
+  publishedAt: '2026-11-12T19:08:46Z'
   url: >-
-    https://github.com/OldManCraveGuitars-bit/PS2-Ashita-no-Joe-Masshiro-ni-Moe-Tsukiro-Kr/releases/tag/v0.95
+    https://github.com/OldManCraveGuitars-bit/PS2-Ashita-no-Joe-Masshiro-ni-Moe-Tsukiro-Kr/releases/tag/v1.1
 activity:
-  lastSynchronized: '2026-11-08T19:43:45.000Z'
+  lastSynchronized: '2026-11-22T19:42:04.743Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c6fd9851183381129abac01f4db1f98a25c59fa2c83cdaa6e985e0c10014c022"
-    releasesEtag: W/"41a049f4a84434f369886e677f988732f92f39e4060c2d9ed71430f84a7559d2"
+    repoEtag: W/"1e2372439c17fc106e31dbb69518bf821c78ae3fd1af3c38c409d16d768cd926"
+    releasesEtag: W/"c7161b4ba4c54b0b6c200c33f0b05b1fc6b24c0fcf35562daa119ef65bd421cb"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

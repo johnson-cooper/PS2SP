@@ -22,18 +22,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
-  lastCommit: '2026-11-15T20:33:43Z'
+  lastCommit: '2026-11-20T20:09:05Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-15T23:11:00.640Z'
+  lastSynchronized: '2026-11-22T19:41:27.484Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"3ea15f95401435dce6fdfa8ea3372a0eb9127db3dd7636a42eb6aa98254c7a2e"
+    releasesEtag: '"be8fef597ef8ce9597d3a28fb7d1db390e9074e959ad675a9c1e6fdb15755086"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: MatteoTurri/open-bn
   source: MatteoTurri/open-bn
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

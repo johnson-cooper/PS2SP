@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-11-05T21:58:35Z'
   url: 'https://github.com/mathisto/rogue-galaxy-hd/releases/tag/v0.1.0'
 activity:
-  lastSynchronized: '2026-11-08T19:44:26.245Z'
+  lastSynchronized: '2026-11-22T19:42:48.728Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"52a23bab7b14273087fec8cc83b60d6abcc14bcb7acba016db03d5c3ccf8e563"
-    releasesEtag: W/"2d7970751bf3c5ad192632b2876526bda34b4397b25b5d0cb4438a98268c3b63"
+    repoEtag: W/"50a3691eb760dbce9202c7d3977aedebf8a042e57d5b21191787ceb9ba060f71"
+    releasesEtag: W/"0aa1c32a1031258c4e6529bc1fc0c45c08f9a7e924a28605bc67c01dfe534964"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

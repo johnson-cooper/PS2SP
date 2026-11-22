@@ -23,22 +23,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 32
+  stars: 48
   forks: 0
-  lastCommit: '2026-11-08T19:20:08Z'
+  lastCommit: '2026-11-18T18:59:36Z'
 latestRelease:
-  tag: v0.4.0
-  name: TMB_Recomp 0.4.0
-  publishedAt: '2026-11-06T00:14:32Z'
-  url: 'https://github.com/TheBozos/TMB_Recomp/releases/tag/v0.4.0'
+  tag: v0.6.0
+  name: TMB_Recomp 0.6.0
+  publishedAt: '2026-11-11T12:20:47Z'
+  url: 'https://github.com/TheBozos/TMB_Recomp/releases/tag/v0.6.0'
 activity:
   lastChecked: '2026-11-02T15:20:22.952Z'
-  lastSynchronized: '2026-11-08T19:44:31.287Z'
+  lastSynchronized: '2026-11-22T19:42:55.015Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6e92f1076e0237b9820789e41670316f57699d8b6b26b9a1e7573fccef20703f"
-    releasesEtag: W/"82a71732e40a91438d384a86ffdfff83b4f19c20cecf65edf661c3dceb31a7db"
+    repoEtag: W/"50eb36aa80d2b7f941a09b46895e44b97ddf19fe96f419cefe720d5c44e106de"
+    releasesEtag: W/"aa17044c299b70a35d39eaa171cd4b8e4600bdaa3bbe09592191158e371d9584"
 discovery:
   method: 'pending-promotion:incremental:topic:ps2'
   confidence: 85

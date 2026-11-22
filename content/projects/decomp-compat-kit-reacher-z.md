@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-13T18:46:35.249Z'
+  lastSynchronized: '2026-11-22T19:40:45.821Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"3f44a78949df4da1a8a9f62752984ead3b1b4a57e402a00386a31582e4b6707d"
+    releasesEtag: '"be8fef597ef8ce9597d3a28fb7d1db390e9074e959ad675a9c1e6fdb15755086"'
 discovery:
   method: 'fork-network:LinuxJessi/decomp-compat-kit'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: LinuxJessi/decomp-compat-kit
   source: LinuxJessi/decomp-compat-kit
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

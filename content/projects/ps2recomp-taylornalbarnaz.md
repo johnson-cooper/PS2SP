@@ -22,7 +22,7 @@ repository:
   archived: false
   defaultBranch: main
   stars: 1
-  forks: 2
+  forks: 1
   lastCommit: '2026-10-20T17:21:10Z'
 latestRelease:
   tag: null
@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-08T19:44:09.456Z'
+  lastSynchronized: '2026-11-22T19:42:30.842Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"870c972bfc1650f26d98e6812de12af5bf850c8cabd1753f03c587fc08f317e2"
-    releasesEtag: '"2d77d78d9406dfdb04f6cdb831785e70ead0264c82109729acd315cd0faa00fd"'
+    repoEtag: W/"9840b715d2bd0c5867c653f871718a9ec7e990f2d968d9011812b6eed15798a3"
+    releasesEtag: '"be8fef597ef8ce9597d3a28fb7d1db390e9074e959ad675a9c1e6fdb15755086"'
 discovery:
   method: 'fork-network:ran-j/PS2Recomp'
   confidence: 100

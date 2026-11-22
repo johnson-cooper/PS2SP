@@ -23,7 +23,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 4
+  stars: 5
   forks: 0
   lastCommit: '2026-10-28T19:33:00Z'
 latestRelease:
@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/Stellarznith/ACE3-Chinese-Patch/releases/tag/v1.0.0'
 activity:
   lastChecked: '2026-10-28T19:07:21.883Z'
-  lastSynchronized: '2026-11-08T19:42:23.563Z'
+  lastSynchronized: '2026-11-22T19:40:31.539Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"61afb34dc702eeb505022bc22824111c0be70db64ca8180de2e7a6588781dac7"
-    releasesEtag: W/"6c69bcf5dad6914353d05fa1b331a577952a51b4477c815db21c05247cecfdb0"
+    repoEtag: W/"a5e15b64a3d7c4ad824d278e5fb5e2746fe63da6f4a8c5ead5ea1e77fe3bbfea"
+    releasesEtag: W/"a09c00f20aaf7cae1c0fa73b07cce976a35526e411c886b9c78f7f91cc46f5f2"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

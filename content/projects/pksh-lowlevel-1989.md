@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-08T19:43:42.062Z'
+  lastSynchronized: '2026-11-22T19:41:59.499Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"56f64e877a8db17d623fc7e450b2971047ef43e22688d3da3053b5e2ff215328"
-    releasesEtag: '"2d77d78d9406dfdb04f6cdb831785e70ead0264c82109729acd315cd0faa00fd"'
+    repoEtag: W/"f1c9310c7e439aec5a0aee4f71d3ac2090796091906295696e52b6c93c17ea89"
+    releasesEtag: '"be8fef597ef8ce9597d3a28fb7d1db390e9074e959ad675a9c1e6fdb15755086"'
 discovery:
   method: 'fork-network:ps2homebrew/pksh'
   confidence: 95

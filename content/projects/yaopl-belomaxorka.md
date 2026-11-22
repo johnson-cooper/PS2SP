@@ -28,7 +28,7 @@ repository:
   archived: false
   defaultBranch: master
   stars: 2
-  forks: 0
+  forks: 1
   lastCommit: '2026-11-01T09:05:30Z'
 latestRelease:
   tag: latest
@@ -36,12 +36,12 @@ latestRelease:
   publishedAt: '2026-11-01T09:27:11Z'
   url: 'https://github.com/yaopl/yaopl/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-08T19:44:38.521Z'
+  lastSynchronized: '2026-11-22T19:43:02.063Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5bc080d3f6d1fd64c74b058b59619d04b26b70eff5b0520a6b23e72ff909979e"
-    releasesEtag: W/"f5da458121f58087f83db90e1de95e10aaa08196b0b1604c850bc41bef28bea5"
+    repoEtag: W/"18b715254fd306de65f8604be53732129e45cc7208f91066b722f323cdb78d36"
+    releasesEtag: W/"ec1bf2f795113ac622903453876bc97b788547e0ac550063249c86dd8f210c6d"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
