@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/NexxusDrakoMultimedia/LMASTER-Mod/releases/tag/v0.6.0'
 activity:
   lastChecked: '2026-10-24T07:36:20.803Z'
-  lastSynchronized: '2026-11-20T11:49:41.891Z'
+  lastSynchronized: '2026-11-22T11:32:57.773Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2fe483bf79b7ee08cff637ffbc0698cd321b5ae8bc2c249b31c3ace3394f0f31"
-    releasesEtag: W/"8562f07f703016732c8948c3753beafe44af21492a11d8bb10dd19584ac18657"
+    repoEtag: W/"8b5e17b34e0c59177c36eccb9ecef32ac4d1f752368a556dbba100e85a3d3b22"
+    releasesEtag: W/"34379fc9cab8854b3030049ee4a167f7ceb8dfb0e797999743eaa8adb27679fc"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

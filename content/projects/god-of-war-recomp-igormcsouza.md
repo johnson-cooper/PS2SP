@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-11-02T22:59:47Z'
   url: 'https://github.com/igormcsouza/god-of-war-recomp/releases/tag/v0.2.0'
 activity:
-  lastSynchronized: '2026-11-20T11:49:27.265Z'
+  lastSynchronized: '2026-11-22T11:32:45.314Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9036e0a6322244de2e1d0989804416b0562ef8de8f669082c3e5ea36b3341055"
-    releasesEtag: W/"6e10adb94d16861bb6a9325284c5fe1dcd7cded2616269860a58f0167077bcf6"
+    repoEtag: W/"8965964b6a8efb30e0d098b46d702cba95f9b8a22b718a5fc8b189b21ead42fa"
+    releasesEtag: W/"3c84c3a5aab48f366159f9c00494bb19b91b64c6404666ca13d827608d3ce5fd"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

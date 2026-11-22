@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T21:54:17.097Z'
+  lastSynchronized: '2026-11-22T11:33:38.810Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"328cee9973bfa4b12c3c00ad29abebf7c27208f612b7c256b24754c8854bbc2b"
+    releasesEtag: '"b9425337d6a4d0a060d320bb652f68751ea6401e7f16b64e1b6c57830abfcf54"'
 discovery:
   method: 'fork-network:ReaverTeknoGods/Play-'
   confidence: 100
@@ -46,5 +49,4 @@ relationships:
   forkOf: ReaverTeknoGods/Play-
   source: jpd002/Play-
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -20,7 +20,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 2
   forks: 0
   lastCommit: '2026-10-31T16:36:45Z'
 latestRelease:
@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-10-31T16:36:46Z'
   url: 'https://github.com/wraphs/pocket-ps2-server/releases/tag/v1.0.1'
 activity:
-  lastSynchronized: '2026-11-20T11:50:32.859Z'
+  lastSynchronized: '2026-11-22T11:33:43.222Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a71971fae205248e3509cc41bfa60734a8ac2a233a8ef3f3b0d9b979ce820c64"
-    releasesEtag: W/"e12d78c1e86c057bc33a53f4ab012a4e026fecf7ee109d5a64d861492298dc71"
+    repoEtag: W/"24d9902c847f03cd2c42ae77bc18c6c5185e7352750a8dac25bf7d4dc237f3ae"
+    releasesEtag: W/"68e83346b0c9e78658308b18d831ced43658be4375a79965034f18ce7cd375a8"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

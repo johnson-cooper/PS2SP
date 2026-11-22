@@ -15,26 +15,26 @@ license: GPL-3.0
 homepage: null
 source:
   provider: github
-  repository: johnatan28/ghostcomp
+  repository: johnatan28/ZarathosRecomp
   repositoryId: '1464960107'
 repository:
   archived: false
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-20T05:14:37Z'
+  lastCommit: '2026-11-20T13:23:19Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-20T11:49:25.894Z'
+  lastSynchronized: '2026-11-22T11:32:44.072Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9dbba5ddee49d12d0ca815ceeefe8f409d162d03cb2e1230b4623df3b73ee3f7"
-    releasesEtag: '"a908ec342d9a023473918e50a86083a4ebc47b646bcf8ffdf1812bac058b42ed"'
+    repoEtag: W/"9d86c711daf4b233d84e85bc57fdd5c4cd4c17cf7793f25f108768a00e0517e1"
+    releasesEtag: '"b9425337d6a4d0a060d320bb652f68751ea6401e7f16b64e1b6c57830abfcf54"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

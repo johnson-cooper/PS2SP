@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-11-20T06:28:36Z'
   url: 'https://github.com/IVazharov/loadout-ps2/releases/tag/v0.11.2'
 activity:
-  lastSynchronized: '2026-11-20T11:49:42.424Z'
+  lastSynchronized: '2026-11-22T11:32:58.191Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4ac9de73a3fcf48b5547454355e827c2d3aad450a6d874ed5b3b814534bcb7ea"
-    releasesEtag: W/"45c5eac7e8f450f1ebf7481369155a8dc43f6dc5dd991a658f26a70ffd0cbe52"
+    repoEtag: W/"6ba24020c157fc738348c645ca0444c68a51774ce13acee3380416341abcc235"
+    releasesEtag: W/"ff65e75d7be722a99202ee752a234d49310465d8f73dc253993577cf42bb6c4c"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

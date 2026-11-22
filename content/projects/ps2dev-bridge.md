@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/Brook-sys/ps2dev-bridge/releases/tag/v0.1.0'
 activity:
   lastChecked: '2026-10-22T22:45:56.958Z'
-  lastSynchronized: '2026-11-20T11:50:46.700Z'
+  lastSynchronized: '2026-11-22T11:33:55.022Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2b2076ae91e08fb77f6d60896a052ae6346c5ab44dde9da0ce193bae0c789ed5"
-    releasesEtag: W/"884f3ac73fcf9561a558eff78b81438dd90140a18bb55214f0235b01a5a21eae"
+    repoEtag: W/"1d9b1fded110c82f17d30e9b77cc70aadc24158723aaa26a1c5b19ac7e212d08"
+    releasesEtag: W/"142c8662411161314c4798052c5def072741344ae3878d389a306aff6346b0c2"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 75

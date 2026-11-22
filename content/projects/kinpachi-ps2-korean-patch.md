@@ -27,12 +27,12 @@ latestRelease:
   url: >-
     https://github.com/ayaneros-eng/kinpachi-ps2-korean-patch/releases/tag/v267-r2
 activity:
-  lastSynchronized: '2026-11-20T11:49:38.635Z'
+  lastSynchronized: '2026-11-22T11:32:55.071Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"bfd6c42dab9e44f70f83060a6ccd5cb97814e96d81f1a180e4979f514e0bc482"
-    releasesEtag: W/"d0714fe4397ff95dd0b6330f47439ae70d0e44dea8a0378355bca1772fd6fbdf"
+    repoEtag: W/"c8f96b62418047ec1209ef396d779ab78eacc63219f0af783e3b3a5c6d98b903"
+    releasesEtag: W/"7fd8acfd24663fc8ae6a73f827f191f66eb8d3fb35b6df207bc7ca1d1659b948"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

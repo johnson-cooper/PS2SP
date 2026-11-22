@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-20T11:50:33.968Z'
+  lastSynchronized: '2026-11-22T11:33:44.058Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1677660e81b6b9a0b407b1bd7d633fe8975ac2b1b72700e34fc2dd6f4783dbf9"
-    releasesEtag: '"a908ec342d9a023473918e50a86083a4ebc47b646bcf8ffdf1812bac058b42ed"'
+    repoEtag: W/"f76bcadbe4d89e5b8388fcf6881f8c7eae2ea5aafd183dfeac4927f743830be5"
+    releasesEtag: '"b9425337d6a4d0a060d320bb652f68751ea6401e7f16b64e1b6c57830abfcf54"'
 discovery:
   method: 'fork-network:theclub654/ProjectCane'
   confidence: 95

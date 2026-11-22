@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-11-16T01:09:36Z'
   url: 'https://github.com/GScNine/Samurai-X-PS2-BR/releases/tag/Patch'
 activity:
-  lastSynchronized: '2026-11-20T11:51:16.099Z'
+  lastSynchronized: '2026-11-22T11:34:20.740Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ef90f93963af284dbcf199db4a22c3a25155d6ab0260b5f6db069b29162464b4"
-    releasesEtag: W/"120f5040aff85de82181bcafcecb2b8bef1a4085b9ce04c16b098661b8ea7531"
+    repoEtag: W/"46e7119b30b70e431f7807f303c410139512ac8422040d7a510eb1035ecbd736"
+    releasesEtag: W/"3a60392786e9a237150728adec1cfb3a22ce02c05c42e42f233711b458497d56"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

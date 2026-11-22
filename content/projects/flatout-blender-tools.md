@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-08-31T19:35:38Z'
   url: 'https://github.com/ravenDS/flatout-blender-tools/releases/tag/v1.8.0'
 activity:
-  lastSynchronized: '2026-11-20T11:49:20.978Z'
+  lastSynchronized: '2026-11-22T11:32:39.397Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1601bec182dcfaf2bcacd703c5a3a33834b1ccd6ee5e7998df746649c4939d28"
-    releasesEtag: W/"1ac558faca53891a0e877c75f3cf193d4c2faa1670aae0a07d9e18caa350cb49"
+    repoEtag: W/"9b0c667583bbc4a564343fc6f962bf4e0a94a0f3d0a9e0625c70e3f0ef81aa4e"
+    releasesEtag: W/"519e5368ed0be3c0181529917ae93d2aaec5a091a09b3296321bb2e1eb405a81"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

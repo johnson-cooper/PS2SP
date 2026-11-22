@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: '2021-07-22T12:27:18Z'
   url: 'https://github.com/danielb7390/OPL-Daily-Builds/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-21T08:46:04.198Z'
+  lastSynchronized: '2026-11-22T11:33:18.461Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"0bd11c2bea4d2beeea3fffbe18ca77f83d4aa4722a65b966f6b802259425d89f"
+    releasesEtag: W/"390328c9d2f3f0a8f37a67a6f2d99eee5c1f483bfb1e9c73640a7b9240ea19f9"
 discovery:
   method: 'fork-network:Jay-Jay-OPL/OPL-Daily-Builds'
   confidence: 100
@@ -54,5 +57,4 @@ relationships:
   forkOf: Jay-Jay-OPL/OPL-Daily-Builds
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

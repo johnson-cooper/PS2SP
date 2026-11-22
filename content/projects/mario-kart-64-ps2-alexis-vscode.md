@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: '2026-10-13T21:40:22Z'
   url: 'https://github.com/Alexis-VsCode/mario-kart-64-ps2/releases/tag/v1.3.0'
 activity:
-  lastSynchronized: '2026-11-20T11:49:43.602Z'
+  lastSynchronized: '2026-11-22T11:32:59.157Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0eaef2adcffae1025aa9dffa722821cc07b6492bac8fc6c3bf5b95a619ca635c"
-    releasesEtag: W/"858aea7ee047aa75496cfd5c231f12c5c7bfa199bb056ea8749f3c7933712ba1"
+    repoEtag: W/"7430908877390fa5d1b65bf4ab44ba06431b111ccc94a3e3b4548dbe6c49484b"
+    releasesEtag: W/"ff333838051b690af56b8f5ef2e99365028c9317a0ded993221f99862a3c0c87"
 discovery:
   method: 'fork-network:anthoo582/mario-kart-64-ps2'
   confidence: 100

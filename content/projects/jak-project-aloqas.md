@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-20T11:49:33.649Z'
+  lastSynchronized: '2026-11-22T11:32:50.665Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7fdef13ae3b70aef157c00c8669f6ddad6c5155935740672f54e361247339579"
-    releasesEtag: '"a908ec342d9a023473918e50a86083a4ebc47b646bcf8ffdf1812bac058b42ed"'
+    repoEtag: W/"a72e160392745364537fb8c4679d54091443d748293280296d140c3cd56b84ea"
+    releasesEtag: '"b9425337d6a4d0a060d320bb652f68751ea6401e7f16b64e1b6c57830abfcf54"'
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95

@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-11-03T05:03:29Z'
   url: 'https://github.com/yymz072-beep/ps2-game-hanhua/releases/tag/v1.7.0'
 activity:
-  lastSynchronized: '2026-11-20T11:49:17.523Z'
+  lastSynchronized: '2026-11-22T11:32:36.703Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"760cebbad7f43cb242f5de9107145844c73a2655a18c433657b3429e619eca4d"
-    releasesEtag: W/"777bbc0fcd22eb4544754dcd903196ac1d9da34395d0c8fc18b094999fdd0869"
+    repoEtag: W/"634735b0218d062b7993d9bb45da41eaa2a1ecae5e8db294e27d02004c32fa3f"
+    releasesEtag: W/"948386f589265d9278d93a695ecbbec90689505a971ba4f8140fdcc8ea5216d1"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

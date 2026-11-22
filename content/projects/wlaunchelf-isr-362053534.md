@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-20T11:51:28.347Z'
+  lastSynchronized: '2026-11-22T11:34:31.687Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1edae6b099c576efa7ae5cc87261226595049704a7334220a9824ab1464bb39f"
-    releasesEtag: '"a908ec342d9a023473918e50a86083a4ebc47b646bcf8ffdf1812bac058b42ed"'
+    repoEtag: W/"7484a11209bc23a8368d413ec6b5bf5c42de304af5ca80e18db3c0af3663cc9c"
+    releasesEtag: '"b9425337d6a4d0a060d320bb652f68751ea6401e7f16b64e1b6c57830abfcf54"'
 discovery:
   method: 'fork-network:israpps/wLaunchELF_ISR'
   confidence: 100

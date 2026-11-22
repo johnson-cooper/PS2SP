@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2026-10-09T12:25:09Z'
   url: 'https://github.com/E75/ccc/releases/tag/v2.1'
 activity:
-  lastSynchronized: '2026-11-20T11:49:13.409Z'
+  lastSynchronized: '2026-11-22T11:32:33.097Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c0d934af9ac49556040c1e039d7ba87bdfa69cdda3f2e9dfbb400bf3e558c082"
-    releasesEtag: W/"c18464ff7a12e25262b8fc024ea9cca5bd08b0a0b9a9cca1c7d6cb34caddf291"
+    repoEtag: W/"ff220a7db7153d4e359bfcb7274fac53d083ec262f90dc9911bc2dc112474e50"
+    releasesEtag: W/"e8660189f808b044ec39a572d7f474063a8a7a45d835c428cd4980664908680f"
 discovery:
   method: 'fork-network:chaoticgd/ccc'
   confidence: 95

@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/helworks/helengine-demo-disc/releases/tag/v1.0.0'
 activity:
   lastChecked: '2026-09-29T00:29:21.569Z'
-  lastSynchronized: '2026-11-20T11:49:30.956Z'
+  lastSynchronized: '2026-11-22T11:32:48.419Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e202f0ad9bdc01682e07366bb4b53da7ab235f5fb5682d3f79e7d3966b7ae832"
-    releasesEtag: W/"e54ad7133fdb1321488f93365cae54bc2128b27cb43ced483478f239f70fe27d"
+    repoEtag: W/"2ee923c53dbcd28c81cbd5ee9a9b081711ec7d7aba22e5ede755015f745ae912"
+    releasesEtag: W/"5c574fc4d015d44bce1ca2511791df641253acbf1c78173f2f1c026c9e581eee"
 discovery:
   method: 'pending-promotion:github-related-owner'
   confidence: 85

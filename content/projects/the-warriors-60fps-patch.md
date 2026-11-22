@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/mostdak1ng/The-Warriors-60FPS-Patch/releases/tag/v1.0.0'
 activity:
   lastChecked: '2026-11-08T09:29:03.897Z'
-  lastSynchronized: '2026-11-20T11:51:22.628Z'
+  lastSynchronized: '2026-11-22T11:34:26.551Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ca426dea1d9d1612ca31b4aefee333898f1a55314b3f9be39957f19be88bf467"
-    releasesEtag: W/"67f37f0f8e237dbdd5eb0139a035ad25713c6ab55971c09bf991f06e42be7d88"
+    repoEtag: W/"2dc76fff0e776408d4945d8550a3edc15d36b392b60696ed52baaf1a5437368d"
+    releasesEtag: W/"5d6bb734b3356e1c3f81e95ed20da556a1957b1aaa4dac77838fe7a90ba5b206"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

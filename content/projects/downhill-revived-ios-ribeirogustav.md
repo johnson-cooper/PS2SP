@@ -24,7 +24,7 @@ repository:
   defaultBranch: main
   stars: 3
   forks: 1
-  lastCommit: '2026-11-19T21:46:29Z'
+  lastCommit: '2026-11-21T02:44:05Z'
 latestRelease:
   tag: ios-v0.7.16
   name: Downhill Revived for iOS v0.7.16
@@ -32,12 +32,12 @@ latestRelease:
   url: >-
     https://github.com/ribeirogustav/downhill-revived-ios/releases/tag/ios-v0.7.16
 activity:
-  lastSynchronized: '2026-11-20T11:49:16.987Z'
+  lastSynchronized: '2026-11-22T11:32:36.184Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"25f795dc6b38f527971f317e5b1f75d12311c656e4322bf8a39ffd532596a5cd"
-    releasesEtag: W/"0b78b304a4080cdf722c313f9795a3f4c4a04b99f2d240e459aecbf417b424ce"
+    repoEtag: W/"d96a42d7b9df849e3e2cd83aa16f6dd30c5414d2f23f806ed35c69ef65305e13"
+    releasesEtag: W/"04c7e6cd8366313af15b00ef92b0c12b4841f3f7b0c6042a84d41efc7432ba31"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

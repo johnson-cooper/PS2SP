@@ -21,9 +21,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 103
+  stars: 104
   forks: 7
-  lastCommit: '2026-11-19T02:06:38Z'
+  lastCommit: '2026-11-22T10:50:12Z'
 latestRelease:
   tag: v0.8.3
   name: 'rac1-native 0.8.3: a Windows hotfix'
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/RAC-Native/rac1-native-game/releases/tag/v0.8.3'
 activity:
   lastChecked: '2026-10-12T16:07:57.694Z'
-  lastSynchronized: '2026-11-20T11:51:09.781Z'
+  lastSynchronized: '2026-11-22T11:34:15.941Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"96ea1a72748602e4620b6aa208a6d50db02c25bbcb04ef8cf6a6b43b3f740c46"
-    releasesEtag: W/"fe0cd80e0f549a88080eaa09c2b558d76732608e3fba7d6ce18cc21946894c1f"
+    repoEtag: W/"4887e79c67c430d8a4e8426186d0e5321d81583ce499d156be258fcd6f171d58"
+    releasesEtag: W/"0b2277828eb2766cde606f5e5f37f070e82838cee1e67a9999738c36d716d60c"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
