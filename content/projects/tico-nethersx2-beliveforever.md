@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-20T03:17:52.153Z'
+  lastSynchronized: '2026-11-22T03:17:45.967Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0a8c3ddbb571f1a6b04be49a54a2cd37fb36b91fe98df9cdd3c0b7fc5601e404"
-    releasesEtag: '"04ae66d0652f8e32f85ee09b36048410b2b52f52a85660eea8f274a40dd5e3c9"'
+    repoEtag: W/"97ae145955f7c53f70be4b700d5c2d2455c813713ae5c6b890fb07abe9283790"
+    releasesEtag: '"0343964b28fb2eda143511ab450b2bffb6215822f235192fb1be4cc3a8b0fb1f"'
 discovery:
   method: 'fork-network:ticohq/tico-NetherSX2'
   confidence: 100

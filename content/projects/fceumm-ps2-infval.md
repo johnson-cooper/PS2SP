@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2018-04-26T16:09:25Z'
   url: 'https://github.com/infval/Fceumm-PS2/releases/tag/v0.3.3'
 activity:
-  lastSynchronized: '2026-11-20T03:15:56.795Z'
+  lastSynchronized: '2026-11-22T03:15:42.426Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0f2abd8b4385a4d4c5a434e29dd5f0fb999b303800d70611a803b819f35d0f4f"
-    releasesEtag: W/"847c03f0efd6a074b851cb037c98b22a351aacde9f973235e738db3497af4d9b"
+    repoEtag: W/"218948333f8fecfc7a22af11b11e1f861d63594fa901fafb1294fb2f30532de0"
+    releasesEtag: W/"4833f6465868af3b67aaafbf67fec89cdbf9dbaf9b26f88447b7e20a9ce7086b"
 discovery:
   method: 'fork-network:ps2homebrew/Fceumm-PS2'
   confidence: 100

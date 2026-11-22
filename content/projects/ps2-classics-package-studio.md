@@ -27,12 +27,12 @@ latestRelease:
   url: >-
     https://github.com/Laudadio93/ps2-classics-package-studio/releases/tag/ps3-studio-2026.11
 activity:
-  lastSynchronized: '2026-11-20T03:17:01.476Z'
+  lastSynchronized: '2026-11-22T03:16:53.706Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"652c50c70cb82e08d59e2c3d0f58c68011af84aa1799ae6bd197c1174989001c"
-    releasesEtag: W/"af98ecb1a59039ff9211031a6455c506dd442b7c855a34a14dd4557897e95667"
+    repoEtag: W/"7db8af41d666b4bdeb2c172abcdbfcf1b6c417ef0d10afcb8ef1fe605209383e"
+    releasesEtag: W/"695795acbe8e0e5e62d418bda4cbab16110a14fd67da8b10d557efffa9c22214"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

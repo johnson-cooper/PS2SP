@@ -38,12 +38,12 @@ latestRelease:
   url: 'https://github.com/johnson-cooper/2004sp-ps2port/releases/tag/v1.8'
 activity:
   lastChecked: '2026-09-29T10:00:00Z'
-  lastSynchronized: '2026-11-20T03:15:36.192Z'
+  lastSynchronized: '2026-11-22T03:15:20.971Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7df349f3501c0cec3a6974e6800e4fe53dae89661660814d3486e2b5bef3758c"
-    releasesEtag: W/"49d0c4cfcf55af98bc6ee6ca4a9dd608e39458dbaf34024d6f72be36fc10a4af"
+    repoEtag: W/"0a1a3530e60240f334b3eba1960a0ef2d2a885ab73713aa5fc0a58143462f12d"
+    releasesEtag: W/"846d633c9fb759ddbbe437b88251469be0bdf5f2cab317f151c7404315be8499"
 discovery:
   method: curated
   confidence: 100

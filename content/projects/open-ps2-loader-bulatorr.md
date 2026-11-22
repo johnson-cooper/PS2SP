@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2026-04-07T12:28:34Z'
   url: 'https://github.com/bulatorr/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-20T03:16:30.974Z'
+  lastSynchronized: '2026-11-22T03:16:21.095Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"46a4bcc9d657bb475510fe932bcfea2802edda6af8450970a0c78f08f4df1dbc"
-    releasesEtag: W/"7b6b186b9119bb5eef8472582ea45fa241483b1ae39a5ae3e84f113df514d02a"
+    repoEtag: W/"90e1ed5afadb60f1ef6c750a28726f3b29ef133d13ca3694b908ae080e8f0974"
+    releasesEtag: W/"40ce532e8f8ac837a0fbdae88140627b06ed7ee186f4308a96724af4bcf86c31"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

@@ -27,7 +27,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 211
+  stars: 214
   forks: 6
   lastCommit: '2026-11-13T02:13:50Z'
 latestRelease:
@@ -37,12 +37,12 @@ latestRelease:
   url: 'https://github.com/danielalves96/gow-pc-port/releases/tag/launcher-v0.4.0'
 activity:
   lastChecked: '2026-11-18T03:52:09.394Z'
-  lastSynchronized: '2026-11-20T03:16:01.839Z'
+  lastSynchronized: '2026-11-22T03:15:47.768Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e24e213c49a12251527494f354fa336e9e0c0e9cbb13617c24b3d3414f09f65e"
-    releasesEtag: W/"acd6c6adab3f9a787e6ad862c231d9ecafdd1235893587c48154594fe45509f4"
+    repoEtag: W/"8d909e99094da8613357a98ea68952f05e4c1f1e7aa0124f5990ad6e94a168ea"
+    releasesEtag: W/"78aab90751f45b7c776f460b527cca608ad86a11e3c703e56e40c7003ce413a9"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85

@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-11-19T22:56:11Z'
   url: 'https://github.com/calcification/cave-ps2-240p/releases/tag/v0.1.0-beta.1'
 activity:
-  lastSynchronized: '2026-11-20T03:15:48.098Z'
+  lastSynchronized: '2026-11-22T03:15:33.247Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e713a634b1b59480c1131e5f3fd7d2b674d63df12c80f9873790b4b5c39e1385"
-    releasesEtag: W/"3c00144b44caa4c12c6e9eae91d158bb68789daeeb69f4aa684f444bb33ca402"
+    repoEtag: W/"1c26e03a650db9ba7e462b6e143531bac24df4d0196e2a2657fb084f2a0d1613"
+    releasesEtag: W/"60200c16753c60edc4a71afe13d7c2b1a18b4f890a1c07988bd65e9b5f16a866"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

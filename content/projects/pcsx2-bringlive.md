@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-20T03:16:43.268Z'
+  lastSynchronized: '2026-11-22T03:16:35.070Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"86893e7c102e65bf49acdc91bf46f6dda4d66fb54e9e55cd42d4c050c1f1365d"
-    releasesEtag: '"04ae66d0652f8e32f85ee09b36048410b2b52f52a85660eea8f274a40dd5e3c9"'
+    repoEtag: W/"7781bb3762c16e36b3c757d730d6740e37b20cb15c289e3a859175ce3a3af5e2"
+    releasesEtag: '"0343964b28fb2eda143511ab450b2bffb6215822f235192fb1be4cc3a8b0fb1f"'
 discovery:
   method: 'fork-network:ps2homebrew/pcsx2'
   confidence: 100

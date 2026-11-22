@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-20T03:17:00.317Z'
+  lastSynchronized: '2026-11-22T03:16:52.711Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"356f46c8e201e2ef2f1d6623727d02a53f1956046312116ea15489d0dc168482"
-    releasesEtag: '"04ae66d0652f8e32f85ee09b36048410b2b52f52a85660eea8f274a40dd5e3c9"'
+    repoEtag: W/"ded20f3bc85cb59e01c9f10c1581f26684dc6996ebbc6f486dc572d29a30338b"
+    releasesEtag: '"0343964b28fb2eda143511ab450b2bffb6215822f235192fb1be4cc3a8b0fb1f"'
 discovery:
   method: 'fork-network:pcm720/protopwn'
   confidence: 100

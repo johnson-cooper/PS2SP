@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2025-01-07T21:50:05Z'
   url: 'https://github.com/ps2homebrew/kelftool/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-20T03:16:13.792Z'
+  lastSynchronized: '2026-11-22T03:16:02.550Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"69129b21d046a489ea50b3f2ae275cc1ab0121de1b019c56c5603776f811a329"
-    releasesEtag: W/"0ceba1d23dcddac1c069ef34085a3c9c9da741a4a4a32ce76643bcdb41f0a4d0"
+    repoEtag: W/"9f3853bd02a7e7ccf72c887190c4d06d0f04764eebf3087d405ccbfc40ba86b4"
+    releasesEtag: W/"b8b6900c1811f749ec715b1aba197e4ff1645a29b4031f7ad0f6e399b9d2dab9"
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100

@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-26T03:09:46Z'
   url: 'https://github.com/Sparretro/EmuMod/releases/tag/v2.2.0'
 activity:
-  lastSynchronized: '2026-11-20T03:15:54.533Z'
+  lastSynchronized: '2026-11-22T03:15:39.907Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fa39b8b7ceabf75d3fae7ee76b3d2badeb5dbe29cbfc250ada94e439b985035e"
-    releasesEtag: W/"9a386955b2f4f54f6c2053e72d3595a10c91abee49da375ac0d41c60ef07bc27"
+    repoEtag: W/"fe2099a7f2b74325d40d7770b2f88556a29310c37487265e914ed3d5816780fb"
+    releasesEtag: W/"4b7b51042dcde6ae6e3280d6167f766e9aaa7a3bcdd516d488608f09f7387b40"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
