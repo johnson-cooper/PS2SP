@@ -1,0 +1,16 @@
+{
+  "repository": "Drill23/video-game-for-all",
+  "repositoryId": "1467811274",
+  "url": "https://github.com/Drill23/video-game-for-all",
+  "description": "VIDEO GAME FOR ALL (VGFA) — Plataforma Web Multi-Console (Atari 2600 a PS2) com Celular como Controle via QR Code, Bluetooth, Streaming de Disco P2P/HTTP Range e WebGPU/WASM",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-22T18:03:17.818Z",
+  "checkedAt": "2026-11-22T18:03:17.818Z"
+}

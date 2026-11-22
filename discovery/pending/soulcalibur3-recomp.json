@@ -8,9 +8,9 @@
     "PS2-specific topic",
     "repository description explicitly identifies PS2"
   ],
-  "origin": "incremental:ps2 in:name,description",
+  "origin": "pending-recheck",
   "maturity": "active-wip",
   "fork": null,
   "discoveredAt": "2026-10-31T18:45:56.304Z",
-  "checkedAt": "2026-10-31T18:45:56.304Z"
+  "checkedAt": "2026-11-22T18:03:17.818Z"
 }
