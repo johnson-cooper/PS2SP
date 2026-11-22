@@ -171266,6 +171266,214 @@
         ]
       },
       {
+        "name": "Orphx/libsmb2 — branch: builtin-ntlmssp",
+        "url": "https://github.com/Orphx/libsmb2/tree/builtin-ntlmssp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Orphx/libsmb2",
+          "builtin-ntlmssp"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2 — branch: chaining",
+        "url": "https://github.com/Orphx/libsmb2/tree/chaining",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Orphx/libsmb2",
+          "chaining"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2 — branch: dce-unfragment-ioctl",
+        "url": "https://github.com/Orphx/libsmb2/tree/dce-unfragment-ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Orphx/libsmb2",
+          "dce-unfragment-ioctl"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2 — branch: dcerpc",
+        "url": "https://github.com/Orphx/libsmb2/tree/dcerpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Orphx/libsmb2",
+          "dcerpc"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2 — branch: endianness-tests",
+        "url": "https://github.com/Orphx/libsmb2/tree/endianness-tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Orphx/libsmb2",
+          "endianness-tests"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2 — branch: ioctl",
+        "url": "https://github.com/Orphx/libsmb2/tree/ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Orphx/libsmb2",
+          "ioctl"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2 — branch: master",
+        "url": "https://github.com/Orphx/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Orphx/libsmb2",
+          "master"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2 — branch: ps2",
+        "url": "https://github.com/Orphx/libsmb2/tree/ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Orphx/libsmb2",
+          "ps2"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2 — branch: ps2ips",
+        "url": "https://github.com/Orphx/libsmb2/tree/ps2ips",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Orphx/libsmb2",
+          "ps2ips"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2 — branch: rpm",
+        "url": "https://github.com/Orphx/libsmb2/tree/rpm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Orphx/libsmb2",
+          "rpm"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2 — branch: share-enum",
+        "url": "https://github.com/Orphx/libsmb2/tree/share-enum",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Orphx/libsmb2",
+          "share-enum"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2 — branch: small",
+        "url": "https://github.com/Orphx/libsmb2/tree/small",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Orphx/libsmb2",
+          "small"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2 — branch: smb311",
+        "url": "https://github.com/Orphx/libsmb2/tree/smb311",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Orphx/libsmb2",
+          "smb311"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2 — branch: sp2",
+        "url": "https://github.com/Orphx/libsmb2/tree/sp2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Orphx/libsmb2",
+          "sp2"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2 — branch: super-small",
+        "url": "https://github.com/Orphx/libsmb2/tree/super-small",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Orphx/libsmb2",
+          "super-small"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2 — branch: test",
+        "url": "https://github.com/Orphx/libsmb2/tree/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Orphx/libsmb2",
+          "test"
+        ]
+      },
+      {
         "name": "otterside/psx-pi-smbshare — branch: master",
         "url": "https://github.com/otterside/psx-pi-smbshare/tree/master",
         "keywords": [
@@ -172787,6 +172995,214 @@
         ]
       },
       {
+        "name": "pdj9na/libsmb2 — branch: builtin-ntlmssp",
+        "url": "https://github.com/pdj9na/libsmb2/tree/builtin-ntlmssp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pdj9na/libsmb2",
+          "builtin-ntlmssp"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2 — branch: chaining",
+        "url": "https://github.com/pdj9na/libsmb2/tree/chaining",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pdj9na/libsmb2",
+          "chaining"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2 — branch: dce-unfragment-ioctl",
+        "url": "https://github.com/pdj9na/libsmb2/tree/dce-unfragment-ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pdj9na/libsmb2",
+          "dce-unfragment-ioctl"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2 — branch: dcerpc",
+        "url": "https://github.com/pdj9na/libsmb2/tree/dcerpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pdj9na/libsmb2",
+          "dcerpc"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2 — branch: endianness-tests",
+        "url": "https://github.com/pdj9na/libsmb2/tree/endianness-tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pdj9na/libsmb2",
+          "endianness-tests"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2 — branch: ioctl",
+        "url": "https://github.com/pdj9na/libsmb2/tree/ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pdj9na/libsmb2",
+          "ioctl"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2 — branch: master",
+        "url": "https://github.com/pdj9na/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pdj9na/libsmb2",
+          "master"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2 — branch: ps2",
+        "url": "https://github.com/pdj9na/libsmb2/tree/ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pdj9na/libsmb2",
+          "ps2"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2 — branch: ps2ips",
+        "url": "https://github.com/pdj9na/libsmb2/tree/ps2ips",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pdj9na/libsmb2",
+          "ps2ips"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2 — branch: rpm",
+        "url": "https://github.com/pdj9na/libsmb2/tree/rpm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pdj9na/libsmb2",
+          "rpm"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2 — branch: share-enum",
+        "url": "https://github.com/pdj9na/libsmb2/tree/share-enum",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pdj9na/libsmb2",
+          "share-enum"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2 — branch: small",
+        "url": "https://github.com/pdj9na/libsmb2/tree/small",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pdj9na/libsmb2",
+          "small"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2 — branch: smb311",
+        "url": "https://github.com/pdj9na/libsmb2/tree/smb311",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pdj9na/libsmb2",
+          "smb311"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2 — branch: sp2",
+        "url": "https://github.com/pdj9na/libsmb2/tree/sp2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pdj9na/libsmb2",
+          "sp2"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2 — branch: super-small",
+        "url": "https://github.com/pdj9na/libsmb2/tree/super-small",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pdj9na/libsmb2",
+          "super-small"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2 — branch: test",
+        "url": "https://github.com/pdj9na/libsmb2/tree/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pdj9na/libsmb2",
+          "test"
+        ]
+      },
+      {
         "name": "Pedrocasf/wLaunchELF-DHCP — branch: master",
         "url": "https://github.com/Pedrocasf/wLaunchELF-DHCP/tree/master",
         "keywords": [
@@ -173866,6 +174282,123 @@
         ]
       },
       {
+        "name": "pietermessely/libsmb2 — branch: builtin-ntlmssp",
+        "url": "https://github.com/pietermessely/libsmb2/tree/builtin-ntlmssp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pietermessely/libsmb2",
+          "builtin-ntlmssp"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2 — branch: chaining",
+        "url": "https://github.com/pietermessely/libsmb2/tree/chaining",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pietermessely/libsmb2",
+          "chaining"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2 — branch: dce-unfragment-ioctl",
+        "url": "https://github.com/pietermessely/libsmb2/tree/dce-unfragment-ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pietermessely/libsmb2",
+          "dce-unfragment-ioctl"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2 — branch: dcerpc",
+        "url": "https://github.com/pietermessely/libsmb2/tree/dcerpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pietermessely/libsmb2",
+          "dcerpc"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2 — branch: endianness-tests",
+        "url": "https://github.com/pietermessely/libsmb2/tree/endianness-tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pietermessely/libsmb2",
+          "endianness-tests"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2 — branch: ioctl",
+        "url": "https://github.com/pietermessely/libsmb2/tree/ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pietermessely/libsmb2",
+          "ioctl"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2 — branch: master",
+        "url": "https://github.com/pietermessely/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pietermessely/libsmb2",
+          "master"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2 — branch: rpm",
+        "url": "https://github.com/pietermessely/libsmb2/tree/rpm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pietermessely/libsmb2",
+          "rpm"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2 — branch: share-enum",
+        "url": "https://github.com/pietermessely/libsmb2/tree/share-enum",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "pietermessely/libsmb2",
+          "share-enum"
+        ]
+      },
+      {
         "name": "pingumen96/pcsx2 — branch: 0.9.8",
         "url": "https://github.com/pingumen96/pcsx2/tree/0.9.8",
         "keywords": [
@@ -174838,6 +175371,32 @@
           "repository",
           "PoliPyc/xebplus-neutrino-loader-plugin",
           "main"
+        ]
+      },
+      {
+        "name": "polluks/libsmb2 — branch: master",
+        "url": "https://github.com/polluks/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "polluks/libsmb2",
+          "master"
+        ]
+      },
+      {
+        "name": "polluks2/libsmb2 — branch: master",
+        "url": "https://github.com/polluks2/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "polluks2/libsmb2",
+          "master"
         ]
       },
       {
@@ -199918,6 +200477,136 @@
         ]
       },
       {
+        "name": "rhyskoedijk/libsmb2 — branch: builtin-ntlmssp",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/builtin-ntlmssp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "rhyskoedijk/libsmb2",
+          "builtin-ntlmssp"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2 — branch: chaining",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/chaining",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "rhyskoedijk/libsmb2",
+          "chaining"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2 — branch: dce-unfragment-ioctl",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/dce-unfragment-ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "rhyskoedijk/libsmb2",
+          "dce-unfragment-ioctl"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2 — branch: dcerpc",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/dcerpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "rhyskoedijk/libsmb2",
+          "dcerpc"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2 — branch: endianness-tests",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/endianness-tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "rhyskoedijk/libsmb2",
+          "endianness-tests"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2 — branch: ioctl",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "rhyskoedijk/libsmb2",
+          "ioctl"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2 — branch: master",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "rhyskoedijk/libsmb2",
+          "master"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2 — branch: rpm",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/rpm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "rhyskoedijk/libsmb2",
+          "rpm"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2 — branch: share-enum",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/share-enum",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "rhyskoedijk/libsmb2",
+          "share-enum"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2 — branch: switch",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/switch",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "rhyskoedijk/libsmb2",
+          "switch"
+        ]
+      },
+      {
         "name": "Rian6/caduceus — branch: main",
         "url": "https://github.com/Rian6/caduceus/tree/main",
         "keywords": [
@@ -204702,6 +205391,19 @@
         ]
       },
       {
+        "name": "roland0807/ps2-modchip-files — branch: main",
+        "url": "https://github.com/roland0807/ps2-modchip-files/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "roland0807/ps2-modchip-files",
+          "main"
+        ]
+      },
+      {
         "name": "rolo4157/ps2-covers — branch: main",
         "url": "https://github.com/rolo4157/ps2-covers/tree/main",
         "keywords": [
@@ -205635,6 +206337,110 @@
           "repository",
           "SaelSykes/OSD-XMB",
           "main"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2 — branch: builtin-ntlmssp",
+        "url": "https://github.com/safecat2018/libsmb2/tree/builtin-ntlmssp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "safecat2018/libsmb2",
+          "builtin-ntlmssp"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2 — branch: chaining",
+        "url": "https://github.com/safecat2018/libsmb2/tree/chaining",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "safecat2018/libsmb2",
+          "chaining"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2 — branch: dce-unfragment-ioctl",
+        "url": "https://github.com/safecat2018/libsmb2/tree/dce-unfragment-ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "safecat2018/libsmb2",
+          "dce-unfragment-ioctl"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2 — branch: dcerpc",
+        "url": "https://github.com/safecat2018/libsmb2/tree/dcerpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "safecat2018/libsmb2",
+          "dcerpc"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2 — branch: ioctl",
+        "url": "https://github.com/safecat2018/libsmb2/tree/ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "safecat2018/libsmb2",
+          "ioctl"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2 — branch: master",
+        "url": "https://github.com/safecat2018/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "safecat2018/libsmb2",
+          "master"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2 — branch: rpm",
+        "url": "https://github.com/safecat2018/libsmb2/tree/rpm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "safecat2018/libsmb2",
+          "rpm"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2 — branch: share-enum",
+        "url": "https://github.com/safecat2018/libsmb2/tree/share-enum",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "safecat2018/libsmb2",
+          "share-enum"
         ]
       },
       {
@@ -208420,6 +209226,19 @@
         ]
       },
       {
+        "name": "saildot4k/ps2-modchip-files — branch: main",
+        "url": "https://github.com/saildot4k/ps2-modchip-files/tree/main",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "saildot4k/ps2-modchip-files",
+          "main"
+        ]
+      },
+      {
         "name": "saildot4k/R3CONFIGURATOR — branch: v1.1.0",
         "url": "https://github.com/saildot4k/R3CONFIGURATOR/tree/v1.1.0",
         "keywords": [
@@ -208611,6 +209430,19 @@
           "branch",
           "repository",
           "Salamaide/FreeDVDBoot",
+          "master"
+        ]
+      },
+      {
+        "name": "salass00/libsmb2 — branch: master",
+        "url": "https://github.com/salass00/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "salass00/libsmb2",
           "master"
         ]
       },
@@ -209288,6 +210120,110 @@
           "repository",
           "sashkinbro/EmuCoreX",
           "main"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2 — branch: builtin-ntlmssp",
+        "url": "https://github.com/satashi2009/libsmb2/tree/builtin-ntlmssp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "satashi2009/libsmb2",
+          "builtin-ntlmssp"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2 — branch: chaining",
+        "url": "https://github.com/satashi2009/libsmb2/tree/chaining",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "satashi2009/libsmb2",
+          "chaining"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2 — branch: dce-unfragment-ioctl",
+        "url": "https://github.com/satashi2009/libsmb2/tree/dce-unfragment-ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "satashi2009/libsmb2",
+          "dce-unfragment-ioctl"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2 — branch: dcerpc",
+        "url": "https://github.com/satashi2009/libsmb2/tree/dcerpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "satashi2009/libsmb2",
+          "dcerpc"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2 — branch: ioctl",
+        "url": "https://github.com/satashi2009/libsmb2/tree/ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "satashi2009/libsmb2",
+          "ioctl"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2 — branch: master",
+        "url": "https://github.com/satashi2009/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "satashi2009/libsmb2",
+          "master"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2 — branch: rpm",
+        "url": "https://github.com/satashi2009/libsmb2/tree/rpm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "satashi2009/libsmb2",
+          "rpm"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2 — branch: share-enum",
+        "url": "https://github.com/satashi2009/libsmb2/tree/share-enum",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "satashi2009/libsmb2",
+          "share-enum"
         ]
       },
       {
@@ -211748,6 +212684,123 @@
         ]
       },
       {
+        "name": "servomekanism/libsmb2 — branch: builtin-ntlmssp",
+        "url": "https://github.com/servomekanism/libsmb2/tree/builtin-ntlmssp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "servomekanism/libsmb2",
+          "builtin-ntlmssp"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2 — branch: chaining",
+        "url": "https://github.com/servomekanism/libsmb2/tree/chaining",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "servomekanism/libsmb2",
+          "chaining"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2 — branch: dce-unfragment-ioctl",
+        "url": "https://github.com/servomekanism/libsmb2/tree/dce-unfragment-ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "servomekanism/libsmb2",
+          "dce-unfragment-ioctl"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2 — branch: dcerpc",
+        "url": "https://github.com/servomekanism/libsmb2/tree/dcerpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "servomekanism/libsmb2",
+          "dcerpc"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2 — branch: endianness-tests",
+        "url": "https://github.com/servomekanism/libsmb2/tree/endianness-tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "servomekanism/libsmb2",
+          "endianness-tests"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2 — branch: ioctl",
+        "url": "https://github.com/servomekanism/libsmb2/tree/ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "servomekanism/libsmb2",
+          "ioctl"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2 — branch: master",
+        "url": "https://github.com/servomekanism/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "servomekanism/libsmb2",
+          "master"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2 — branch: rpm",
+        "url": "https://github.com/servomekanism/libsmb2/tree/rpm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "servomekanism/libsmb2",
+          "rpm"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2 — branch: share-enum",
+        "url": "https://github.com/servomekanism/libsmb2/tree/share-enum",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "servomekanism/libsmb2",
+          "share-enum"
+        ]
+      },
+      {
         "name": "sevdestruct/pcsx2 — branch: 0.9.8",
         "url": "https://github.com/sevdestruct/pcsx2/tree/0.9.8",
         "keywords": [
@@ -212200,6 +213253,214 @@
           "repository",
           "shadyproject/PlayStation2-Basic-BootLoader",
           "main"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2 — branch: builtin-ntlmssp",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/builtin-ntlmssp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shalvenlaw/libsmb2",
+          "builtin-ntlmssp"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2 — branch: chaining",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/chaining",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shalvenlaw/libsmb2",
+          "chaining"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2 — branch: dce-unfragment-ioctl",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/dce-unfragment-ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shalvenlaw/libsmb2",
+          "dce-unfragment-ioctl"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2 — branch: dcerpc",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/dcerpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shalvenlaw/libsmb2",
+          "dcerpc"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2 — branch: endianness-tests",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/endianness-tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shalvenlaw/libsmb2",
+          "endianness-tests"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2 — branch: ioctl",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shalvenlaw/libsmb2",
+          "ioctl"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2 — branch: master",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shalvenlaw/libsmb2",
+          "master"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2 — branch: ps2",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/ps2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shalvenlaw/libsmb2",
+          "ps2"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2 — branch: ps2ips",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/ps2ips",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shalvenlaw/libsmb2",
+          "ps2ips"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2 — branch: rpm",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/rpm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shalvenlaw/libsmb2",
+          "rpm"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2 — branch: share-enum",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/share-enum",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shalvenlaw/libsmb2",
+          "share-enum"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2 — branch: small",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/small",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shalvenlaw/libsmb2",
+          "small"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2 — branch: smb311",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/smb311",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shalvenlaw/libsmb2",
+          "smb311"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2 — branch: sp2",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/sp2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shalvenlaw/libsmb2",
+          "sp2"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2 — branch: super-small",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/super-small",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shalvenlaw/libsmb2",
+          "super-small"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2 — branch: test",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "shalvenlaw/libsmb2",
+          "test"
         ]
       },
       {
@@ -213802,6 +215063,19 @@
         ]
       },
       {
+        "name": "simo5/libsmb2 — branch: master",
+        "url": "https://github.com/simo5/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "simo5/libsmb2",
+          "master"
+        ]
+      },
+      {
         "name": "simohsam32-cpu/Open-PS2-Loader — branch: copilot/apply-missing-labels-and-comments",
         "url": "https://github.com/simohsam32-cpu/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments",
         "keywords": [
@@ -214569,6 +215843,45 @@
         ]
       },
       {
+        "name": "skbehera1984/libsmb2 — branch: Coral-SMB2",
+        "url": "https://github.com/skbehera1984/libsmb2/tree/Coral-SMB2",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "skbehera1984/libsmb2",
+          "Coral-SMB2"
+        ]
+      },
+      {
+        "name": "skbehera1984/libsmb2 — branch: Datolite",
+        "url": "https://github.com/skbehera1984/libsmb2/tree/Datolite",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "skbehera1984/libsmb2",
+          "Datolite"
+        ]
+      },
+      {
+        "name": "skbehera1984/libsmb2 — branch: master",
+        "url": "https://github.com/skbehera1984/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "skbehera1984/libsmb2",
+          "master"
+        ]
+      },
+      {
         "name": "ske2004/Butterscotch — branch: main",
         "url": "https://github.com/ske2004/Butterscotch/tree/main",
         "keywords": [
@@ -214683,6 +215996,110 @@
           "repository",
           "SleepTheGod/TonyHawksProStrcpy",
           "main"
+        ]
+      },
+      {
+        "name": "slevengood/libsmb2 — branch: builtin-ntlmssp",
+        "url": "https://github.com/slevengood/libsmb2/tree/builtin-ntlmssp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "slevengood/libsmb2",
+          "builtin-ntlmssp"
+        ]
+      },
+      {
+        "name": "slevengood/libsmb2 — branch: chaining",
+        "url": "https://github.com/slevengood/libsmb2/tree/chaining",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "slevengood/libsmb2",
+          "chaining"
+        ]
+      },
+      {
+        "name": "slevengood/libsmb2 — branch: dce-unfragment-ioctl",
+        "url": "https://github.com/slevengood/libsmb2/tree/dce-unfragment-ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "slevengood/libsmb2",
+          "dce-unfragment-ioctl"
+        ]
+      },
+      {
+        "name": "slevengood/libsmb2 — branch: dcerpc",
+        "url": "https://github.com/slevengood/libsmb2/tree/dcerpc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "slevengood/libsmb2",
+          "dcerpc"
+        ]
+      },
+      {
+        "name": "slevengood/libsmb2 — branch: ioctl",
+        "url": "https://github.com/slevengood/libsmb2/tree/ioctl",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "slevengood/libsmb2",
+          "ioctl"
+        ]
+      },
+      {
+        "name": "slevengood/libsmb2 — branch: master",
+        "url": "https://github.com/slevengood/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "slevengood/libsmb2",
+          "master"
+        ]
+      },
+      {
+        "name": "slevengood/libsmb2 — branch: rpm",
+        "url": "https://github.com/slevengood/libsmb2/tree/rpm",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "slevengood/libsmb2",
+          "rpm"
+        ]
+      },
+      {
+        "name": "slevengood/libsmb2 — branch: share-enum",
+        "url": "https://github.com/slevengood/libsmb2/tree/share-enum",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "slevengood/libsmb2",
+          "share-enum"
         ]
       },
       {
@@ -215635,6 +217052,19 @@
         ]
       },
       {
+        "name": "solidusex/libsmb2 — branch: master",
+        "url": "https://github.com/solidusex/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "solidusex/libsmb2",
+          "master"
+        ]
+      },
+      {
         "name": "Solom-Lorr/ps2-neutrino — branch: master",
         "url": "https://github.com/Solom-Lorr/ps2-neutrino/tree/master",
         "keywords": [
@@ -216386,6 +217816,19 @@
           "repository",
           "SomeoneIsWorking/pcsx2",
           "sw-c-scanline-fix"
+        ]
+      },
+      {
+        "name": "songqiying/libsmb2 — branch: master",
+        "url": "https://github.com/songqiying/libsmb2/tree/master",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "songqiying/libsmb2",
+          "master"
         ]
       },
       {
@@ -2165712,6 +2167155,666 @@
         ]
       },
       {
+        "name": "Orphx/libsmb2@builtin-ntlmssp — cmake/Modules",
+        "url": "https://github.com/Orphx/libsmb2/tree/builtin-ntlmssp/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "builtin-ntlmssp",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@builtin-ntlmssp — examples",
+        "url": "https://github.com/Orphx/libsmb2/tree/builtin-ntlmssp/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "builtin-ntlmssp",
+          "examples"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@builtin-ntlmssp — lib",
+        "url": "https://github.com/Orphx/libsmb2/tree/builtin-ntlmssp/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "builtin-ntlmssp",
+          "lib"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@chaining — examples",
+        "url": "https://github.com/Orphx/libsmb2/tree/chaining/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "chaining",
+          "examples"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@dce-unfragment-ioctl — cmake/Modules",
+        "url": "https://github.com/Orphx/libsmb2/tree/dce-unfragment-ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "dce-unfragment-ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@dce-unfragment-ioctl — examples",
+        "url": "https://github.com/Orphx/libsmb2/tree/dce-unfragment-ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "dce-unfragment-ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@dce-unfragment-ioctl — lib",
+        "url": "https://github.com/Orphx/libsmb2/tree/dce-unfragment-ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "dce-unfragment-ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@dcerpc — cmake/Modules",
+        "url": "https://github.com/Orphx/libsmb2/tree/dcerpc/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "dcerpc",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@dcerpc — examples",
+        "url": "https://github.com/Orphx/libsmb2/tree/dcerpc/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "dcerpc",
+          "examples"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@dcerpc — lib",
+        "url": "https://github.com/Orphx/libsmb2/tree/dcerpc/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "dcerpc",
+          "lib"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@endianness-tests — cmake/Modules",
+        "url": "https://github.com/Orphx/libsmb2/tree/endianness-tests/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "endianness-tests",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@endianness-tests — examples",
+        "url": "https://github.com/Orphx/libsmb2/tree/endianness-tests/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "endianness-tests",
+          "examples"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@endianness-tests — lib",
+        "url": "https://github.com/Orphx/libsmb2/tree/endianness-tests/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "endianness-tests",
+          "lib"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@ioctl — cmake/Modules",
+        "url": "https://github.com/Orphx/libsmb2/tree/ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@ioctl — examples",
+        "url": "https://github.com/Orphx/libsmb2/tree/ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@ioctl — lib",
+        "url": "https://github.com/Orphx/libsmb2/tree/ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@master — cmake/Modules",
+        "url": "https://github.com/Orphx/libsmb2/tree/master/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "master",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@master — examples",
+        "url": "https://github.com/Orphx/libsmb2/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@master — lib",
+        "url": "https://github.com/Orphx/libsmb2/tree/master/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "master",
+          "lib"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@ps2 — cmake/Modules",
+        "url": "https://github.com/Orphx/libsmb2/tree/ps2/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "ps2",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@ps2 — examples",
+        "url": "https://github.com/Orphx/libsmb2/tree/ps2/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "ps2",
+          "examples"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@ps2 — lib",
+        "url": "https://github.com/Orphx/libsmb2/tree/ps2/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "ps2",
+          "lib"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@ps2ips — cmake/Modules",
+        "url": "https://github.com/Orphx/libsmb2/tree/ps2ips/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "ps2ips",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@ps2ips — examples",
+        "url": "https://github.com/Orphx/libsmb2/tree/ps2ips/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "ps2ips",
+          "examples"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@ps2ips — lib",
+        "url": "https://github.com/Orphx/libsmb2/tree/ps2ips/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "ps2ips",
+          "lib"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@rpm — examples",
+        "url": "https://github.com/Orphx/libsmb2/tree/rpm/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "rpm",
+          "examples"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@share-enum — cmake/Modules",
+        "url": "https://github.com/Orphx/libsmb2/tree/share-enum/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "share-enum",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@share-enum — examples",
+        "url": "https://github.com/Orphx/libsmb2/tree/share-enum/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "share-enum",
+          "examples"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@share-enum — lib",
+        "url": "https://github.com/Orphx/libsmb2/tree/share-enum/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "share-enum",
+          "lib"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@small — cmake/Modules",
+        "url": "https://github.com/Orphx/libsmb2/tree/small/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "small",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@small — examples",
+        "url": "https://github.com/Orphx/libsmb2/tree/small/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "small",
+          "examples"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@small — lib",
+        "url": "https://github.com/Orphx/libsmb2/tree/small/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "small",
+          "lib"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@smb311 — cmake/Modules",
+        "url": "https://github.com/Orphx/libsmb2/tree/smb311/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "smb311",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@smb311 — examples",
+        "url": "https://github.com/Orphx/libsmb2/tree/smb311/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "smb311",
+          "examples"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@smb311 — lib",
+        "url": "https://github.com/Orphx/libsmb2/tree/smb311/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "smb311",
+          "lib"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@sp2 — cmake/Modules",
+        "url": "https://github.com/Orphx/libsmb2/tree/sp2/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "sp2",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@sp2 — examples",
+        "url": "https://github.com/Orphx/libsmb2/tree/sp2/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "sp2",
+          "examples"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@sp2 — lib",
+        "url": "https://github.com/Orphx/libsmb2/tree/sp2/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "sp2",
+          "lib"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@super-small — cmake/Modules",
+        "url": "https://github.com/Orphx/libsmb2/tree/super-small/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "super-small",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@super-small — examples",
+        "url": "https://github.com/Orphx/libsmb2/tree/super-small/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "super-small",
+          "examples"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@super-small — lib",
+        "url": "https://github.com/Orphx/libsmb2/tree/super-small/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "super-small",
+          "lib"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@test — cmake/Modules",
+        "url": "https://github.com/Orphx/libsmb2/tree/test/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "test",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@test — examples",
+        "url": "https://github.com/Orphx/libsmb2/tree/test/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "test",
+          "examples"
+        ]
+      },
+      {
+        "name": "Orphx/libsmb2@test — lib",
+        "url": "https://github.com/Orphx/libsmb2/tree/test/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Orphx/libsmb2",
+          "test",
+          "lib"
+        ]
+      },
+      {
         "name": "ovidijusr/udpbd-vexfat@master — vexfatbd",
         "url": "https://github.com/ovidijusr/udpbd-vexfat/tree/master/vexfatbd",
         "keywords": [
@@ -2205130,6 +2207233,666 @@
         ]
       },
       {
+        "name": "pdj9na/libsmb2@builtin-ntlmssp — cmake/Modules",
+        "url": "https://github.com/pdj9na/libsmb2/tree/builtin-ntlmssp/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "builtin-ntlmssp",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@builtin-ntlmssp — examples",
+        "url": "https://github.com/pdj9na/libsmb2/tree/builtin-ntlmssp/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "builtin-ntlmssp",
+          "examples"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@builtin-ntlmssp — lib",
+        "url": "https://github.com/pdj9na/libsmb2/tree/builtin-ntlmssp/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "builtin-ntlmssp",
+          "lib"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@chaining — examples",
+        "url": "https://github.com/pdj9na/libsmb2/tree/chaining/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "chaining",
+          "examples"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@dce-unfragment-ioctl — cmake/Modules",
+        "url": "https://github.com/pdj9na/libsmb2/tree/dce-unfragment-ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "dce-unfragment-ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@dce-unfragment-ioctl — examples",
+        "url": "https://github.com/pdj9na/libsmb2/tree/dce-unfragment-ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "dce-unfragment-ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@dce-unfragment-ioctl — lib",
+        "url": "https://github.com/pdj9na/libsmb2/tree/dce-unfragment-ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "dce-unfragment-ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@dcerpc — cmake/Modules",
+        "url": "https://github.com/pdj9na/libsmb2/tree/dcerpc/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "dcerpc",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@dcerpc — examples",
+        "url": "https://github.com/pdj9na/libsmb2/tree/dcerpc/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "dcerpc",
+          "examples"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@dcerpc — lib",
+        "url": "https://github.com/pdj9na/libsmb2/tree/dcerpc/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "dcerpc",
+          "lib"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@endianness-tests — cmake/Modules",
+        "url": "https://github.com/pdj9na/libsmb2/tree/endianness-tests/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "endianness-tests",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@endianness-tests — examples",
+        "url": "https://github.com/pdj9na/libsmb2/tree/endianness-tests/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "endianness-tests",
+          "examples"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@endianness-tests — lib",
+        "url": "https://github.com/pdj9na/libsmb2/tree/endianness-tests/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "endianness-tests",
+          "lib"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@ioctl — cmake/Modules",
+        "url": "https://github.com/pdj9na/libsmb2/tree/ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@ioctl — examples",
+        "url": "https://github.com/pdj9na/libsmb2/tree/ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@ioctl — lib",
+        "url": "https://github.com/pdj9na/libsmb2/tree/ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@master — cmake/Modules",
+        "url": "https://github.com/pdj9na/libsmb2/tree/master/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "master",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@master — examples",
+        "url": "https://github.com/pdj9na/libsmb2/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@master — lib",
+        "url": "https://github.com/pdj9na/libsmb2/tree/master/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "master",
+          "lib"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@ps2 — cmake/Modules",
+        "url": "https://github.com/pdj9na/libsmb2/tree/ps2/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "ps2",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@ps2 — examples",
+        "url": "https://github.com/pdj9na/libsmb2/tree/ps2/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "ps2",
+          "examples"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@ps2 — lib",
+        "url": "https://github.com/pdj9na/libsmb2/tree/ps2/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "ps2",
+          "lib"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@ps2ips — cmake/Modules",
+        "url": "https://github.com/pdj9na/libsmb2/tree/ps2ips/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "ps2ips",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@ps2ips — examples",
+        "url": "https://github.com/pdj9na/libsmb2/tree/ps2ips/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "ps2ips",
+          "examples"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@ps2ips — lib",
+        "url": "https://github.com/pdj9na/libsmb2/tree/ps2ips/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "ps2ips",
+          "lib"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@rpm — examples",
+        "url": "https://github.com/pdj9na/libsmb2/tree/rpm/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "rpm",
+          "examples"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@share-enum — cmake/Modules",
+        "url": "https://github.com/pdj9na/libsmb2/tree/share-enum/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "share-enum",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@share-enum — examples",
+        "url": "https://github.com/pdj9na/libsmb2/tree/share-enum/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "share-enum",
+          "examples"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@share-enum — lib",
+        "url": "https://github.com/pdj9na/libsmb2/tree/share-enum/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "share-enum",
+          "lib"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@small — cmake/Modules",
+        "url": "https://github.com/pdj9na/libsmb2/tree/small/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "small",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@small — examples",
+        "url": "https://github.com/pdj9na/libsmb2/tree/small/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "small",
+          "examples"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@small — lib",
+        "url": "https://github.com/pdj9na/libsmb2/tree/small/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "small",
+          "lib"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@smb311 — cmake/Modules",
+        "url": "https://github.com/pdj9na/libsmb2/tree/smb311/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "smb311",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@smb311 — examples",
+        "url": "https://github.com/pdj9na/libsmb2/tree/smb311/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "smb311",
+          "examples"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@smb311 — lib",
+        "url": "https://github.com/pdj9na/libsmb2/tree/smb311/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "smb311",
+          "lib"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@sp2 — cmake/Modules",
+        "url": "https://github.com/pdj9na/libsmb2/tree/sp2/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "sp2",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@sp2 — examples",
+        "url": "https://github.com/pdj9na/libsmb2/tree/sp2/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "sp2",
+          "examples"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@sp2 — lib",
+        "url": "https://github.com/pdj9na/libsmb2/tree/sp2/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "sp2",
+          "lib"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@super-small — cmake/Modules",
+        "url": "https://github.com/pdj9na/libsmb2/tree/super-small/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "super-small",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@super-small — examples",
+        "url": "https://github.com/pdj9na/libsmb2/tree/super-small/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "super-small",
+          "examples"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@super-small — lib",
+        "url": "https://github.com/pdj9na/libsmb2/tree/super-small/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "super-small",
+          "lib"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@test — cmake/Modules",
+        "url": "https://github.com/pdj9na/libsmb2/tree/test/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "test",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@test — examples",
+        "url": "https://github.com/pdj9na/libsmb2/tree/test/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "test",
+          "examples"
+        ]
+      },
+      {
+        "name": "pdj9na/libsmb2@test — lib",
+        "url": "https://github.com/pdj9na/libsmb2/tree/test/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pdj9na/libsmb2",
+          "test",
+          "lib"
+        ]
+      },
+      {
         "name": "Pedrocasf/wLaunchELF-DHCP@master — AllowDVDV",
         "url": "https://github.com/Pedrocasf/wLaunchELF-DHCP/tree/master/AllowDVDV",
         "keywords": [
@@ -2218419,6 +2221182,351 @@
           "phy1um/pfsshell",
           "master",
           "subprojects/pfs"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@builtin-ntlmssp — cmake/Modules",
+        "url": "https://github.com/pietermessely/libsmb2/tree/builtin-ntlmssp/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "builtin-ntlmssp",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@builtin-ntlmssp — examples",
+        "url": "https://github.com/pietermessely/libsmb2/tree/builtin-ntlmssp/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "builtin-ntlmssp",
+          "examples"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@builtin-ntlmssp — lib",
+        "url": "https://github.com/pietermessely/libsmb2/tree/builtin-ntlmssp/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "builtin-ntlmssp",
+          "lib"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@chaining — examples",
+        "url": "https://github.com/pietermessely/libsmb2/tree/chaining/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "chaining",
+          "examples"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@dce-unfragment-ioctl — cmake/Modules",
+        "url": "https://github.com/pietermessely/libsmb2/tree/dce-unfragment-ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "dce-unfragment-ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@dce-unfragment-ioctl — examples",
+        "url": "https://github.com/pietermessely/libsmb2/tree/dce-unfragment-ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "dce-unfragment-ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@dce-unfragment-ioctl — lib",
+        "url": "https://github.com/pietermessely/libsmb2/tree/dce-unfragment-ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "dce-unfragment-ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@dcerpc — cmake/Modules",
+        "url": "https://github.com/pietermessely/libsmb2/tree/dcerpc/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "dcerpc",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@dcerpc — examples",
+        "url": "https://github.com/pietermessely/libsmb2/tree/dcerpc/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "dcerpc",
+          "examples"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@dcerpc — lib",
+        "url": "https://github.com/pietermessely/libsmb2/tree/dcerpc/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "dcerpc",
+          "lib"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@endianness-tests — cmake/Modules",
+        "url": "https://github.com/pietermessely/libsmb2/tree/endianness-tests/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "endianness-tests",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@endianness-tests — examples",
+        "url": "https://github.com/pietermessely/libsmb2/tree/endianness-tests/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "endianness-tests",
+          "examples"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@endianness-tests — lib",
+        "url": "https://github.com/pietermessely/libsmb2/tree/endianness-tests/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "endianness-tests",
+          "lib"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@ioctl — cmake/Modules",
+        "url": "https://github.com/pietermessely/libsmb2/tree/ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@ioctl — examples",
+        "url": "https://github.com/pietermessely/libsmb2/tree/ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@ioctl — lib",
+        "url": "https://github.com/pietermessely/libsmb2/tree/ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@master — cmake/Modules",
+        "url": "https://github.com/pietermessely/libsmb2/tree/master/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "master",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@master — examples",
+        "url": "https://github.com/pietermessely/libsmb2/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@master — lib",
+        "url": "https://github.com/pietermessely/libsmb2/tree/master/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "master",
+          "lib"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@rpm — examples",
+        "url": "https://github.com/pietermessely/libsmb2/tree/rpm/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "rpm",
+          "examples"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@share-enum — cmake/Modules",
+        "url": "https://github.com/pietermessely/libsmb2/tree/share-enum/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "share-enum",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@share-enum — examples",
+        "url": "https://github.com/pietermessely/libsmb2/tree/share-enum/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "share-enum",
+          "examples"
+        ]
+      },
+      {
+        "name": "pietermessely/libsmb2@share-enum — lib",
+        "url": "https://github.com/pietermessely/libsmb2/tree/share-enum/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "pietermessely/libsmb2",
+          "share-enum",
+          "lib"
         ]
       },
       {
@@ -2239348,6 +2242456,156 @@
           "PoliPyc/xebplus-neutrino-loader-plugin",
           "main",
           "XEBPLUS/APPS/neutrinoLauncher/modules"
+        ]
+      },
+      {
+        "name": "polluks/libsmb2@master — cmake/Modules",
+        "url": "https://github.com/polluks/libsmb2/tree/master/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "polluks/libsmb2",
+          "master",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "polluks/libsmb2@master — examples",
+        "url": "https://github.com/polluks/libsmb2/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "polluks/libsmb2",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "polluks/libsmb2@master — examples/picow",
+        "url": "https://github.com/polluks/libsmb2/tree/master/examples/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "polluks/libsmb2",
+          "master",
+          "examples/picow"
+        ]
+      },
+      {
+        "name": "polluks/libsmb2@master — include/picow",
+        "url": "https://github.com/polluks/libsmb2/tree/master/include/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "polluks/libsmb2",
+          "master",
+          "include/picow"
+        ]
+      },
+      {
+        "name": "polluks/libsmb2@master — lib",
+        "url": "https://github.com/polluks/libsmb2/tree/master/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "polluks/libsmb2",
+          "master",
+          "lib"
+        ]
+      },
+      {
+        "name": "polluks2/libsmb2@master — cmake/Modules",
+        "url": "https://github.com/polluks2/libsmb2/tree/master/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "polluks2/libsmb2",
+          "master",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "polluks2/libsmb2@master — examples",
+        "url": "https://github.com/polluks2/libsmb2/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "polluks2/libsmb2",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "polluks2/libsmb2@master — examples/picow",
+        "url": "https://github.com/polluks2/libsmb2/tree/master/examples/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "polluks2/libsmb2",
+          "master",
+          "examples/picow"
+        ]
+      },
+      {
+        "name": "polluks2/libsmb2@master — include/picow",
+        "url": "https://github.com/polluks2/libsmb2/tree/master/include/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "polluks2/libsmb2",
+          "master",
+          "include/picow"
+        ]
+      },
+      {
+        "name": "polluks2/libsmb2@master — lib",
+        "url": "https://github.com/polluks2/libsmb2/tree/master/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "polluks2/libsmb2",
+          "master",
+          "lib"
         ]
       },
       {
@@ -2384873,6 +2388131,396 @@
         ]
       },
       {
+        "name": "rhyskoedijk/libsmb2@builtin-ntlmssp — cmake/Modules",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/builtin-ntlmssp/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "builtin-ntlmssp",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@builtin-ntlmssp — examples",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/builtin-ntlmssp/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "builtin-ntlmssp",
+          "examples"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@builtin-ntlmssp — lib",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/builtin-ntlmssp/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "builtin-ntlmssp",
+          "lib"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@chaining — examples",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/chaining/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "chaining",
+          "examples"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@dce-unfragment-ioctl — cmake/Modules",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/dce-unfragment-ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "dce-unfragment-ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@dce-unfragment-ioctl — examples",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/dce-unfragment-ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "dce-unfragment-ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@dce-unfragment-ioctl — lib",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/dce-unfragment-ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "dce-unfragment-ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@dcerpc — cmake/Modules",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/dcerpc/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "dcerpc",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@dcerpc — examples",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/dcerpc/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "dcerpc",
+          "examples"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@dcerpc — lib",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/dcerpc/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "dcerpc",
+          "lib"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@endianness-tests — cmake/Modules",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/endianness-tests/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "endianness-tests",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@endianness-tests — examples",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/endianness-tests/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "endianness-tests",
+          "examples"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@endianness-tests — lib",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/endianness-tests/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "endianness-tests",
+          "lib"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@ioctl — cmake/Modules",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@ioctl — examples",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@ioctl — lib",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@master — cmake/Modules",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/master/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "master",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@master — examples",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@master — lib",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/master/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "master",
+          "lib"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@rpm — examples",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/rpm/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "rpm",
+          "examples"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@share-enum — cmake/Modules",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/share-enum/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "share-enum",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@share-enum — examples",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/share-enum/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "share-enum",
+          "examples"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@share-enum — lib",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/share-enum/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "share-enum",
+          "lib"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@switch — cmake/Modules",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/switch/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "switch",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@switch — examples",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/switch/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "switch",
+          "examples"
+        ]
+      },
+      {
+        "name": "rhyskoedijk/libsmb2@switch — lib",
+        "url": "https://github.com/rhyskoedijk/libsmb2/tree/switch/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhyskoedijk/libsmb2",
+          "switch",
+          "lib"
+        ]
+      },
+      {
         "name": "Rian6/caduceus-opl@main — integrations/caduceus",
         "url": "https://github.com/Rian6/caduceus-opl/tree/main/integrations/caduceus",
         "keywords": [
@@ -2419034,6 +2422682,66 @@
         ]
       },
       {
+        "name": "roland0807/ps2-modchip-files@main — Hex Code/Magic Ice/ice_0_94_with_pcb_and_tools",
+        "url": "https://github.com/roland0807/ps2-modchip-files/tree/main/Hex%20Code/Magic%20Ice/ice_0_94_with_pcb_and_tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "roland0807/ps2-modchip-files",
+          "main",
+          "Hex Code/Magic Ice/ice_0_94_with_pcb_and_tools"
+        ]
+      },
+      {
+        "name": "roland0807/ps2-modchip-files@main — Hex Code/Magic Ice/ice0.90",
+        "url": "https://github.com/roland0807/ps2-modchip-files/tree/main/Hex%20Code/Magic%20Ice/ice0.90",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "roland0807/ps2-modchip-files",
+          "main",
+          "Hex Code/Magic Ice/ice0.90"
+        ]
+      },
+      {
+        "name": "roland0807/ps2-modchip-files@main — Hex Code/Magic Ice/ice0.91f2/src",
+        "url": "https://github.com/roland0807/ps2-modchip-files/tree/main/Hex%20Code/Magic%20Ice/ice0.91f2/src",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "roland0807/ps2-modchip-files",
+          "main",
+          "Hex Code/Magic Ice/ice0.91f2/src"
+        ]
+      },
+      {
+        "name": "roland0807/ps2-modchip-files@main — Hex Code/Magic Ice/ice0.91f3+/src",
+        "url": "https://github.com/roland0807/ps2-modchip-files/tree/main/Hex%20Code/Magic%20Ice/ice0.91f3%2B/src",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "roland0807/ps2-modchip-files",
+          "main",
+          "Hex Code/Magic Ice/ice0.91f3+/src"
+        ]
+      },
+      {
         "name": "RoloDeOvo/Open-PS2-Loader@El_Patas/lang_czechlng-deleted-1446596645251 — ee_core",
         "url": "https://github.com/RoloDeOvo/Open-PS2-Loader/tree/El_Patas/lang_czechlng-deleted-1446596645251/ee_core",
         "keywords": [
@@ -2438148,6 +2441856,306 @@
           "SaelSykes/OSD-XMB",
           "main",
           "bin/APPS/neutrino/modules"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@builtin-ntlmssp — cmake/Modules",
+        "url": "https://github.com/safecat2018/libsmb2/tree/builtin-ntlmssp/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "builtin-ntlmssp",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@builtin-ntlmssp — examples",
+        "url": "https://github.com/safecat2018/libsmb2/tree/builtin-ntlmssp/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "builtin-ntlmssp",
+          "examples"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@builtin-ntlmssp — lib",
+        "url": "https://github.com/safecat2018/libsmb2/tree/builtin-ntlmssp/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "builtin-ntlmssp",
+          "lib"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@chaining — examples",
+        "url": "https://github.com/safecat2018/libsmb2/tree/chaining/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "chaining",
+          "examples"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@dce-unfragment-ioctl — cmake/Modules",
+        "url": "https://github.com/safecat2018/libsmb2/tree/dce-unfragment-ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "dce-unfragment-ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@dce-unfragment-ioctl — examples",
+        "url": "https://github.com/safecat2018/libsmb2/tree/dce-unfragment-ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "dce-unfragment-ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@dce-unfragment-ioctl — lib",
+        "url": "https://github.com/safecat2018/libsmb2/tree/dce-unfragment-ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "dce-unfragment-ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@dcerpc — cmake/Modules",
+        "url": "https://github.com/safecat2018/libsmb2/tree/dcerpc/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "dcerpc",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@dcerpc — examples",
+        "url": "https://github.com/safecat2018/libsmb2/tree/dcerpc/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "dcerpc",
+          "examples"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@dcerpc — lib",
+        "url": "https://github.com/safecat2018/libsmb2/tree/dcerpc/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "dcerpc",
+          "lib"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@ioctl — cmake/Modules",
+        "url": "https://github.com/safecat2018/libsmb2/tree/ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@ioctl — examples",
+        "url": "https://github.com/safecat2018/libsmb2/tree/ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@ioctl — lib",
+        "url": "https://github.com/safecat2018/libsmb2/tree/ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@master — cmake/Modules",
+        "url": "https://github.com/safecat2018/libsmb2/tree/master/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "master",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@master — examples",
+        "url": "https://github.com/safecat2018/libsmb2/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@master — lib",
+        "url": "https://github.com/safecat2018/libsmb2/tree/master/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "master",
+          "lib"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@rpm — examples",
+        "url": "https://github.com/safecat2018/libsmb2/tree/rpm/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "rpm",
+          "examples"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@share-enum — cmake/Modules",
+        "url": "https://github.com/safecat2018/libsmb2/tree/share-enum/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "share-enum",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@share-enum — examples",
+        "url": "https://github.com/safecat2018/libsmb2/tree/share-enum/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "share-enum",
+          "examples"
+        ]
+      },
+      {
+        "name": "safecat2018/libsmb2@share-enum — lib",
+        "url": "https://github.com/safecat2018/libsmb2/tree/share-enum/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "safecat2018/libsmb2",
+          "share-enum",
+          "lib"
         ]
       },
       {
@@ -2459288,6 +2463296,96 @@
         ]
       },
       {
+        "name": "saildot4k/ps2-modchip-files@main — Hex Code/DMS3",
+        "url": "https://github.com/saildot4k/ps2-modchip-files/tree/main/Hex%20Code/DMS3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "saildot4k/ps2-modchip-files",
+          "main",
+          "Hex Code/DMS3"
+        ]
+      },
+      {
+        "name": "saildot4k/ps2-modchip-files@main — Hex Code/H2O",
+        "url": "https://github.com/saildot4k/ps2-modchip-files/tree/main/Hex%20Code/H2O",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "saildot4k/ps2-modchip-files",
+          "main",
+          "Hex Code/H2O"
+        ]
+      },
+      {
+        "name": "saildot4k/ps2-modchip-files@main — Hex Code/Magic Ice/ice_0_94_with_pcb_and_tools",
+        "url": "https://github.com/saildot4k/ps2-modchip-files/tree/main/Hex%20Code/Magic%20Ice/ice_0_94_with_pcb_and_tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "saildot4k/ps2-modchip-files",
+          "main",
+          "Hex Code/Magic Ice/ice_0_94_with_pcb_and_tools"
+        ]
+      },
+      {
+        "name": "saildot4k/ps2-modchip-files@main — Hex Code/Magic Ice/ice0.90",
+        "url": "https://github.com/saildot4k/ps2-modchip-files/tree/main/Hex%20Code/Magic%20Ice/ice0.90",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "saildot4k/ps2-modchip-files",
+          "main",
+          "Hex Code/Magic Ice/ice0.90"
+        ]
+      },
+      {
+        "name": "saildot4k/ps2-modchip-files@main — Hex Code/Magic Ice/ice0.91f2/src",
+        "url": "https://github.com/saildot4k/ps2-modchip-files/tree/main/Hex%20Code/Magic%20Ice/ice0.91f2/src",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "saildot4k/ps2-modchip-files",
+          "main",
+          "Hex Code/Magic Ice/ice0.91f2/src"
+        ]
+      },
+      {
+        "name": "saildot4k/ps2-modchip-files@main — Hex Code/Magic Ice/ice0.91f3+/src",
+        "url": "https://github.com/saildot4k/ps2-modchip-files/tree/main/Hex%20Code/Magic%20Ice/ice0.91f3%2B/src",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "saildot4k/ps2-modchip-files",
+          "main",
+          "Hex Code/Magic Ice/ice0.91f3+/src"
+        ]
+      },
+      {
         "name": "saildot4k/udpfsd@main — docs/wireshark",
         "url": "https://github.com/saildot4k/udpfsd/tree/main/docs/wireshark",
         "keywords": [
@@ -2459900,6 +2463998,96 @@
           "Sailelw/pcsx2",
           "master",
           "updater"
+        ]
+      },
+      {
+        "name": "salass00/libsmb2@master — cmake/Modules",
+        "url": "https://github.com/salass00/libsmb2/tree/master/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "salass00/libsmb2",
+          "master",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "salass00/libsmb2@master — examples",
+        "url": "https://github.com/salass00/libsmb2/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "salass00/libsmb2",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "salass00/libsmb2@master — examples/picow",
+        "url": "https://github.com/salass00/libsmb2/tree/master/examples/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "salass00/libsmb2",
+          "master",
+          "examples/picow"
+        ]
+      },
+      {
+        "name": "salass00/libsmb2@master — include/picow",
+        "url": "https://github.com/salass00/libsmb2/tree/master/include/picow",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "salass00/libsmb2",
+          "master",
+          "include/picow"
+        ]
+      },
+      {
+        "name": "salass00/libsmb2@master — lib",
+        "url": "https://github.com/salass00/libsmb2/tree/master/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "salass00/libsmb2",
+          "master",
+          "lib"
+        ]
+      },
+      {
+        "name": "salass00/libsmb2@master — tests",
+        "url": "https://github.com/salass00/libsmb2/tree/master/tests",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "salass00/libsmb2",
+          "master",
+          "tests"
         ]
       },
       {
@@ -2478001,6 +2482189,306 @@
           "sashaantipov2012/ButterscotchPM",
           "main",
           "src/android/frontend/app"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@builtin-ntlmssp — cmake/Modules",
+        "url": "https://github.com/satashi2009/libsmb2/tree/builtin-ntlmssp/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "builtin-ntlmssp",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@builtin-ntlmssp — examples",
+        "url": "https://github.com/satashi2009/libsmb2/tree/builtin-ntlmssp/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "builtin-ntlmssp",
+          "examples"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@builtin-ntlmssp — lib",
+        "url": "https://github.com/satashi2009/libsmb2/tree/builtin-ntlmssp/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "builtin-ntlmssp",
+          "lib"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@chaining — examples",
+        "url": "https://github.com/satashi2009/libsmb2/tree/chaining/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "chaining",
+          "examples"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@dce-unfragment-ioctl — cmake/Modules",
+        "url": "https://github.com/satashi2009/libsmb2/tree/dce-unfragment-ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "dce-unfragment-ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@dce-unfragment-ioctl — examples",
+        "url": "https://github.com/satashi2009/libsmb2/tree/dce-unfragment-ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "dce-unfragment-ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@dce-unfragment-ioctl — lib",
+        "url": "https://github.com/satashi2009/libsmb2/tree/dce-unfragment-ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "dce-unfragment-ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@dcerpc — cmake/Modules",
+        "url": "https://github.com/satashi2009/libsmb2/tree/dcerpc/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "dcerpc",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@dcerpc — examples",
+        "url": "https://github.com/satashi2009/libsmb2/tree/dcerpc/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "dcerpc",
+          "examples"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@dcerpc — lib",
+        "url": "https://github.com/satashi2009/libsmb2/tree/dcerpc/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "dcerpc",
+          "lib"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@ioctl — cmake/Modules",
+        "url": "https://github.com/satashi2009/libsmb2/tree/ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@ioctl — examples",
+        "url": "https://github.com/satashi2009/libsmb2/tree/ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@ioctl — lib",
+        "url": "https://github.com/satashi2009/libsmb2/tree/ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@master — cmake/Modules",
+        "url": "https://github.com/satashi2009/libsmb2/tree/master/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "master",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@master — examples",
+        "url": "https://github.com/satashi2009/libsmb2/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@master — lib",
+        "url": "https://github.com/satashi2009/libsmb2/tree/master/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "master",
+          "lib"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@rpm — examples",
+        "url": "https://github.com/satashi2009/libsmb2/tree/rpm/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "rpm",
+          "examples"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@share-enum — cmake/Modules",
+        "url": "https://github.com/satashi2009/libsmb2/tree/share-enum/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "share-enum",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@share-enum — examples",
+        "url": "https://github.com/satashi2009/libsmb2/tree/share-enum/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "share-enum",
+          "examples"
+        ]
+      },
+      {
+        "name": "satashi2009/libsmb2@share-enum — lib",
+        "url": "https://github.com/satashi2009/libsmb2/tree/share-enum/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "satashi2009/libsmb2",
+          "share-enum",
+          "lib"
         ]
       },
       {
@@ -2499642,6 +2504130,351 @@
         ]
       },
       {
+        "name": "servomekanism/libsmb2@builtin-ntlmssp — cmake/Modules",
+        "url": "https://github.com/servomekanism/libsmb2/tree/builtin-ntlmssp/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "builtin-ntlmssp",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@builtin-ntlmssp — examples",
+        "url": "https://github.com/servomekanism/libsmb2/tree/builtin-ntlmssp/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "builtin-ntlmssp",
+          "examples"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@builtin-ntlmssp — lib",
+        "url": "https://github.com/servomekanism/libsmb2/tree/builtin-ntlmssp/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "builtin-ntlmssp",
+          "lib"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@chaining — examples",
+        "url": "https://github.com/servomekanism/libsmb2/tree/chaining/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "chaining",
+          "examples"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@dce-unfragment-ioctl — cmake/Modules",
+        "url": "https://github.com/servomekanism/libsmb2/tree/dce-unfragment-ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "dce-unfragment-ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@dce-unfragment-ioctl — examples",
+        "url": "https://github.com/servomekanism/libsmb2/tree/dce-unfragment-ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "dce-unfragment-ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@dce-unfragment-ioctl — lib",
+        "url": "https://github.com/servomekanism/libsmb2/tree/dce-unfragment-ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "dce-unfragment-ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@dcerpc — cmake/Modules",
+        "url": "https://github.com/servomekanism/libsmb2/tree/dcerpc/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "dcerpc",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@dcerpc — examples",
+        "url": "https://github.com/servomekanism/libsmb2/tree/dcerpc/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "dcerpc",
+          "examples"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@dcerpc — lib",
+        "url": "https://github.com/servomekanism/libsmb2/tree/dcerpc/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "dcerpc",
+          "lib"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@endianness-tests — cmake/Modules",
+        "url": "https://github.com/servomekanism/libsmb2/tree/endianness-tests/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "endianness-tests",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@endianness-tests — examples",
+        "url": "https://github.com/servomekanism/libsmb2/tree/endianness-tests/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "endianness-tests",
+          "examples"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@endianness-tests — lib",
+        "url": "https://github.com/servomekanism/libsmb2/tree/endianness-tests/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "endianness-tests",
+          "lib"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@ioctl — cmake/Modules",
+        "url": "https://github.com/servomekanism/libsmb2/tree/ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@ioctl — examples",
+        "url": "https://github.com/servomekanism/libsmb2/tree/ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@ioctl — lib",
+        "url": "https://github.com/servomekanism/libsmb2/tree/ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@master — cmake/Modules",
+        "url": "https://github.com/servomekanism/libsmb2/tree/master/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "master",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@master — examples",
+        "url": "https://github.com/servomekanism/libsmb2/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@master — lib",
+        "url": "https://github.com/servomekanism/libsmb2/tree/master/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "master",
+          "lib"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@rpm — examples",
+        "url": "https://github.com/servomekanism/libsmb2/tree/rpm/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "rpm",
+          "examples"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@share-enum — cmake/Modules",
+        "url": "https://github.com/servomekanism/libsmb2/tree/share-enum/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "share-enum",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@share-enum — examples",
+        "url": "https://github.com/servomekanism/libsmb2/tree/share-enum/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "share-enum",
+          "examples"
+        ]
+      },
+      {
+        "name": "servomekanism/libsmb2@share-enum — lib",
+        "url": "https://github.com/servomekanism/libsmb2/tree/share-enum/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "servomekanism/libsmb2",
+          "share-enum",
+          "lib"
+        ]
+      },
+      {
         "name": "sevdestruct/pcsx2@0.9.8 — 3rdparty",
         "url": "https://github.com/sevdestruct/pcsx2/tree/0.9.8/3rdparty",
         "keywords": [
@@ -2516285,6 +2521118,381 @@
           "shadyproject/PlayStation2-Basic-BootLoader",
           "main",
           "embed"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@builtin-ntlmssp — cmake/Modules",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/builtin-ntlmssp/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "builtin-ntlmssp",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@builtin-ntlmssp — examples",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/builtin-ntlmssp/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "builtin-ntlmssp",
+          "examples"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@builtin-ntlmssp — lib",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/builtin-ntlmssp/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "builtin-ntlmssp",
+          "lib"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@chaining — examples",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/chaining/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "chaining",
+          "examples"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@dce-unfragment-ioctl — cmake/Modules",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/dce-unfragment-ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "dce-unfragment-ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@dce-unfragment-ioctl — examples",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/dce-unfragment-ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "dce-unfragment-ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@dce-unfragment-ioctl — lib",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/dce-unfragment-ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "dce-unfragment-ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@dcerpc — cmake/Modules",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/dcerpc/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "dcerpc",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@dcerpc — examples",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/dcerpc/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "dcerpc",
+          "examples"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@dcerpc — lib",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/dcerpc/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "dcerpc",
+          "lib"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@endianness-tests — cmake/Modules",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/endianness-tests/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "endianness-tests",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@endianness-tests — examples",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/endianness-tests/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "endianness-tests",
+          "examples"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@endianness-tests — lib",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/endianness-tests/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "endianness-tests",
+          "lib"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@ioctl — cmake/Modules",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/ioctl/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "ioctl",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@ioctl — examples",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/ioctl/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "ioctl",
+          "examples"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@ioctl — lib",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/ioctl/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "ioctl",
+          "lib"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@master — cmake/Modules",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/master/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "master",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@master — examples",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/master/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "master",
+          "examples"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@master — lib",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/master/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "master",
+          "lib"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@ps2 — cmake/Modules",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/ps2/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "ps2",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@ps2 — examples",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/ps2/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "ps2",
+          "examples"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@ps2 — lib",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/ps2/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "ps2",
+          "lib"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@ps2ips — cmake/Modules",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/ps2ips/cmake/Modules",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "ps2ips",
+          "cmake/Modules"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@ps2ips — examples",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/ps2ips/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "ps2ips",
+          "examples"
+        ]
+      },
+      {
+        "name": "shalvenlaw/libsmb2@ps2ips — lib",
+        "url": "https://github.com/shalvenlaw/libsmb2/tree/ps2ips/lib",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "shalvenlaw/libsmb2",
+          "ps2ips",
+          "lib"
         ]
       },
       {
