@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/suckbluefrog/ARMSX2-LINUX-FOR-BATOCERA/releases/tag/MacOSv2.6.0
 activity:
-  lastSynchronized: '2026-11-19T21:34:28.193Z'
+  lastSynchronized: '2026-11-23T21:25:13.256Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"89f1b50c447616900c4573b82a7572e62425cfef52a05fc0b02630a8e8a8f7a1"
-    releasesEtag: W/"e4d5b638d7e3fb8849a383163cd8e05b761f51ea49b9ae39261d48954bbda55b"
+    repoEtag: W/"5b5ba1035deea82064d0acbfe6137e37bc0ecd09df0fa2b3682b8da064b8fefe"
+    releasesEtag: W/"ec6a3ac92943ce145d398ed5336e09878da33cb6f3eb0e624bd6dcb1e8058bd6"
 discovery:
   method: 'fork-network:MaSieS4Fun/ARMSX2'
   confidence: 95

@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-11-21T08:26:49Z'
   url: 'https://github.com/devin-thomas/guilty-gear-x/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-11-21T08:46:04.198Z'
+  lastSynchronized: '2026-11-23T21:25:46.021Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6514db0db31e92be7cf4e7104820c8cd3b69608ff50f855921c3d5955fbe5ab8"
+    releasesEtag: W/"8885ab5d682b55bad76b532fa64aa132363110bfee095b3d1485689725353821"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -43,5 +46,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

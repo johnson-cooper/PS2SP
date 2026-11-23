@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-28T16:00:30Z'
   url: 'https://github.com/ilyalissoboi/pcsx2/releases/tag/v2.9.147-sc1'
 activity:
-  lastSynchronized: '2026-11-19T21:35:53.642Z'
+  lastSynchronized: '2026-11-23T21:26:40.397Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1668a4eed5fbd0640be45789848904a328159e5509856dd3fa3fd6c2259439c7"
-    releasesEtag: W/"f1ec602e5fe348f70572cebb15491bc6affc12b2f8fb893832a200b94c9e69d3"
+    repoEtag: W/"6c3b1e01acf6dfd6686f9df635bd4f03af0bb3e9828c080b14e92ada286c4a03"
+    releasesEtag: W/"e97a91d2c9de42598dc89d77cf1f0659118d534f67a90ab5035889455670e416"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

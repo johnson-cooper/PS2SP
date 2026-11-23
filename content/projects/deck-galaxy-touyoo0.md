@@ -25,19 +25,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-19T21:33:43Z'
+  lastCommit: '2026-11-23T19:57:11Z'
 latestRelease:
-  tag: v0.10.0
-  name: 0.10.0
-  publishedAt: '2026-11-18T20:11:23Z'
-  url: 'https://github.com/touyoo0/deck-galaxy/releases/tag/v0.10.0'
+  tag: v0.12.6
+  name: 0.12.6
+  publishedAt: '2026-11-23T19:58:00Z'
+  url: 'https://github.com/touyoo0/deck-galaxy/releases/tag/v0.12.6'
 activity:
-  lastSynchronized: '2026-11-19T21:34:40.402Z'
+  lastSynchronized: '2026-11-23T21:25:26.011Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8a7e60751ba822252def41439eb3e2c58745f125e83076f7f04eff63a412f0c6"
-    releasesEtag: W/"1c5be184edb63f33e9e0ba90172f48cc73fc7f77e6f6a80d333d3c11ac12c3f4"
+    repoEtag: W/"bea258b0cd005b763ace60967fc047210b180918d2c4ba360615a481221715b6"
+    releasesEtag: W/"fdca8ec3de265f454cec2fab6c4c6593d4deb86ce33c3353b1f9c4a786b9d447"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

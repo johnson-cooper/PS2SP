@@ -22,19 +22,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-18T12:23:26Z'
+  lastCommit: '2026-11-20T20:58:13Z'
 latestRelease:
-  tag: v1.0.1
-  name: PS2AudioStudio-v1.0.1
-  publishedAt: '2026-11-18T12:23:26Z'
-  url: 'https://github.com/DarthKrayt333/PS2AudioStudio/releases/tag/v1.0.1'
+  tag: v1.0.2
+  name: PS2AudioStudio-v1.0.2
+  publishedAt: '2026-11-20T20:40:10Z'
+  url: 'https://github.com/DarthKrayt333/PS2AudioStudio/releases/tag/v1.0.2'
 activity:
-  lastSynchronized: '2026-11-19T21:36:30.054Z'
+  lastSynchronized: '2026-11-23T21:27:21.299Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c25bc64c773f1df292ad16ed1a6abe9cc131d7202b32d784ff08b08f5d70ea1b"
-    releasesEtag: W/"b934aada6dbbe55e77a3395cabcbef42101a7da4ad15c6352a28ac87d1c3cfd5"
+    repoEtag: W/"5ce8cfe399773356bbc6f3f8785c26cf898999e02352fd192525108d8a50ccf4"
+    releasesEtag: W/"10316f84b79a0de00cb1f42ba4f028bf363d3447100c65772d182634fc4c5338"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-19T21:37:12.838Z'
+  lastSynchronized: '2026-11-23T21:28:01.881Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e5b3315be6b110a1b00198e9129837d705c5cafe6e6939b8c12db52fcd882285"
-    releasesEtag: '"caa7d183434892016d9ea4cc625ad2bd81f29e8e398336b6be37a46180bc2fc5"'
+    repoEtag: W/"880ddd5536030dcadab52e018defd0e01ea39841a60dd83eaf4ea8efc24567f9"
+    releasesEtag: '"6e65b14bdb08620358be0d4901cc82f759a4b9eab636320fe66bc13ccedb04ad"'
 discovery:
   method: 'fork-network:developersu/Tihwin'
   confidence: 95

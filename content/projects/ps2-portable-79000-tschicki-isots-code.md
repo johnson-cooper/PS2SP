@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-23T08:14:50.675Z'
+  lastSynchronized: '2026-11-23T21:27:11.729Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"801e60989d21589aae1cf759d4227e8e58f50c21883e8fdda8320fda2439a668"
+    releasesEtag: '"6e65b14bdb08620358be0d4901cc82f759a4b9eab636320fe66bc13ccedb04ad"'
 discovery:
   method: 'fork-network:tschicki/PS2-Portable'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: tschicki/PS2-Portable
   source: tschicki/PS2-Portable
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -19,21 +19,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 23
-  forks: 4
-  lastCommit: '2026-11-18T06:42:54Z'
+  stars: 24
+  forks: 5
+  lastCommit: '2026-11-19T21:41:34Z'
 latestRelease:
-  tag: v1.2.14
-  name: NULD v1.2.14
-  publishedAt: '2026-11-18T06:42:40Z'
-  url: 'https://github.com/danielnuld/nuld/releases/tag/v1.2.14'
+  tag: v1.3
+  name: NULD v1.3
+  publishedAt: '2026-11-19T21:41:10Z'
+  url: 'https://github.com/danielnuld/nuld/releases/tag/v1.3'
 activity:
-  lastSynchronized: '2026-11-19T21:36:19.176Z'
+  lastSynchronized: '2026-11-23T21:27:09.149Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fb6a4fdac07cf2bb93fa3862da65cd8938f68f1f949fedc373ff5e5bed85f4a7"
-    releasesEtag: W/"a2c967c9c96d965a308d4324aa4aa39007b246b6493f485bb88194a11c071ed3"
+    repoEtag: W/"a8c68a3d8f0c7a00f9a753b34d4044be23e176a5639a9b8ad0230a0a4507e5d3"
+    releasesEtag: W/"a20113497ac568e32d9366f45fb5f13da724a4ad160e53dfa235e7b186c9a998"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

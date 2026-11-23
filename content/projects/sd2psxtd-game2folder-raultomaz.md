@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-19T21:37:07.999Z'
+  lastSynchronized: '2026-11-23T21:27:57.230Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fdf448b4f471159c962e22dc2956ec7068a118ff5d2dddaac3cd6bb41bf42356"
-    releasesEtag: '"caa7d183434892016d9ea4cc625ad2bd81f29e8e398336b6be37a46180bc2fc5"'
+    repoEtag: W/"16af409c917841f9eb3f00feb800432d96206e33461d76535605db5a3ed8b63d"
+    releasesEtag: '"6e65b14bdb08620358be0d4901cc82f759a4b9eab636320fe66bc13ccedb04ad"'
 discovery:
   method: 'fork-network:lucaslealdev/sd2psXtd-game2folder'
   confidence: 95

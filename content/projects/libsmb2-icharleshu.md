@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2026-08-01T00:27:17Z'
   url: 'https://github.com/iCharlesHu/libsmb2/releases/tag/2026.7'
 activity:
-  lastSynchronized: '2026-11-19T21:35:16.219Z'
+  lastSynchronized: '2026-11-23T21:26:02.495Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"04e7c361265ead53cfb9d6e73e31444cd2c0241a0db1b14b59f53dd679cc505f"
-    releasesEtag: W/"a954f6ec67bf44027077d16dd518e4f39b62892a36c3a56be9f9f51017394fba"
+    repoEtag: W/"41ab6e59518b26f93394386f79af4740ff621a828203421fb850e308cfa83078"
+    releasesEtag: W/"b47d044a0e5061318c293f8b0cf88dcecd1618e0e083dd15fbeffaa941bb9bf1"
 discovery:
   method: 'fork-network:sahlberg/libsmb2'
   confidence: 100

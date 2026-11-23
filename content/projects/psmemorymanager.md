@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/gabrieltsants/PSMemoryManager/releases/tag/v0.1.2'
 activity:
   lastChecked: '2026-11-05T18:58:40.172Z'
-  lastSynchronized: '2026-11-19T21:36:53.243Z'
+  lastSynchronized: '2026-11-23T21:27:43.367Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2d829788ce784155131c8c0f631ef4d76b4a398715c95bbc7fe75265cf50f4cf"
-    releasesEtag: W/"8544de8d9011a0fb7a240ab9690a33c0acb0bb78fc4e4c08ea03dc91943a542e"
+    repoEtag: W/"77aea3e40bb976ea9f60a0e8b5e73214a5a1e0387674a7ebdfa5e06c5dcc3f44"
+    releasesEtag: W/"df4f4c9e8f46e7875c217167016d1ffb34837b5e6354a1a6928e9b4b57ced575"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85
