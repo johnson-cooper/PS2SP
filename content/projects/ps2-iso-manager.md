@@ -17,21 +17,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 3
   forks: 0
-  lastCommit: '2026-11-12T17:07:08Z'
+  lastCommit: '2026-11-19T14:35:06Z'
 latestRelease:
   tag: OfficialRelease
   name: v1.0
   publishedAt: '2026-11-12T16:15:00Z'
   url: 'https://github.com/ZonalRipper/PS2-ISO-Manager/releases/tag/OfficialRelease'
 activity:
-  lastSynchronized: '2026-11-13T00:25:37.910Z'
+  lastSynchronized: '2026-11-23T00:55:24.862Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7d2ce12bbcfb570fa49a7b222d345299e40bcbeea46dff1bfb6f02c3982ab849"
-    releasesEtag: W/"666511f72772a622aaa23fd017d2ebaa77b6f0393f6fbcd5e79041ca9d48565a"
+    repoEtag: W/"7a96671808e2b261da71a4d794c199f63e335fade29bb7faab2e7289da01f87a"
+    releasesEtag: W/"a05787c6b56dc96f3924cc61a6d02cc02ec69d6ab12c9b32f9936bf6b78cc4d2"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

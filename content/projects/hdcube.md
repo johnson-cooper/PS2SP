@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/Venomalia/HDcube/releases/tag/4.0'
 activity:
   lastChecked: '2026-10-19T14:59:02.710Z'
-  lastSynchronized: '2026-11-13T00:24:35.961Z'
+  lastSynchronized: '2026-11-23T00:54:13.914Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"584252a7e7631abf41dd2f39eca32c80a292d0397cf6e59b51abfe1cff3c9246"
-    releasesEtag: W/"c87935cb285b0214c968400e84a7c27a6a684fd5f71f8fd04b10574005aef460"
+    repoEtag: W/"a3b16dedd890e1874e6fdca60d7d07efabe068d5cdd6536b8e9c9f4bcac7e075"
+    releasesEtag: W/"904629d7f7db1ad490a0b6b7cf89987db68548fcc44d867fcdf3980c95b5f5ca"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 90

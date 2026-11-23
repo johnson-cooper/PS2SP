@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-09-09T21:20:03Z'
   url: 'https://github.com/WizzardSK/armsx2-libretro/releases/tag/android-test'
 activity:
-  lastSynchronized: '2026-11-13T00:24:14.588Z'
+  lastSynchronized: '2026-11-23T00:53:50.164Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b3de690851b262469e50990c8712d9e55af4d0c689017339b79e47b4d4141f52"
-    releasesEtag: W/"7a4a6a1a80765ce89e144c84aa41659ce5726e5f46a10890e728710c4620c7fe"
+    repoEtag: W/"4940a390d1066ec166ae523724bbb60fa6dfcc893f8b1a1535f9fdffe4faa9b3"
+    releasesEtag: W/"6c47be6cd96badb2a21928c1b4e1de048ce5db546d78e7febaf03cc07dc7023b"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

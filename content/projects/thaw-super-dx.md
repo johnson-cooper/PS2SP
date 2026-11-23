@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
   lastCommit: '2026-11-12T13:54:31Z'
 latestRelease:
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/SirTobyGirl/Thaw-Super-DX/releases/tag/v0.1.0'
 activity:
   lastChecked: '2026-11-12T00:59:54.175Z'
-  lastSynchronized: '2026-11-13T00:26:22.045Z'
+  lastSynchronized: '2026-11-23T00:56:13.666Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"eeb20727e4427620543f0aa0c2dde568f7363e915dcf354abe2de1dcdcd94cdd"
-    releasesEtag: W/"680b021305fcd99e1d9b05aa64174500c3e1adda7f2ddc418a8b7d7137b5b5e0"
+    repoEtag: W/"ba112b36518c4e9ec13eb40ee6d2edf3ee4d8369a40625c5e55981383bc78622"
+    releasesEtag: W/"e90cf57e587886f7380272331efb461dbc7c70eb95f1ed31a75261dcebdc9f31"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

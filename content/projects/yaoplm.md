@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: '2026-10-23T06:27:35Z'
   url: 'https://github.com/belomaxorka/yaoplm/releases/tag/v0.1.0'
 activity:
-  lastSynchronized: '2026-11-13T00:26:33.509Z'
+  lastSynchronized: '2026-11-23T00:56:25.771Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"dfba524ccc480d154a2240728ac8149bff755250a01140cf17e0e8e39438ebe3"
-    releasesEtag: W/"af1220bf70ad9e23cee99d850c917150a7fb6b3f1b91aabb11d3344874d90a64"
+    repoEtag: W/"f3b6796adc1919bb2eb4036e4cff9dd33d04b3994303da4ee01ab1b437bda4c3"
+    releasesEtag: W/"e935ad16bf1ea862bc9b3112afe7fb75c89b1a744a024f78bc0062b1825eddb2"
 discovery:
   method: pending-recheck
   confidence: 100

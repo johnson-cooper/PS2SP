@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-18T14:47:56Z'
+  lastCommit: '2026-11-14T02:11:53Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-13T00:24:35.442Z'
+  lastSynchronized: '2026-11-23T00:54:12.874Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d7301f12d406720ee6fab219b6bdbd90f6831dbf80a844e899af97aa345e114f"
-    releasesEtag: '"98b39eaf82b5aff313393cd803aefa154c085e8109a70fb42a843a28b7b06d93"'
+    repoEtag: W/"0cd79b9f43f24aa1ffa1a7348b8a98c0b0781114dd422156cc7850f7dd1b9c1b"
+    releasesEtag: '"c8fdb0ff9b1b306d443ac14d219293cd8f1f6440506ec7a56074c5ca01740e56"'
 discovery:
   method: 'fork-network:chaoticgd/ghidra-emotionengine-reloaded'
   confidence: 100

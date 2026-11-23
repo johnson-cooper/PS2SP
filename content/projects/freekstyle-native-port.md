@@ -23,22 +23,22 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 2
-  forks: 0
-  lastCommit: '2026-11-04T15:06:55Z'
+  stars: 5
+  forks: 1
+  lastCommit: '2026-11-22T06:06:22Z'
 latestRelease:
-  tag: '0.9'
-  name: ''
-  publishedAt: '2026-11-01T04:16:37Z'
-  url: 'https://github.com/Broly1/freekstyle-native-port/releases/tag/0.9'
+  tag: null
+  name: null
+  publishedAt: null
+  url: null
 activity:
   lastChecked: '2026-11-01T15:27:55.749Z'
-  lastSynchronized: '2026-11-13T00:24:33.025Z'
+  lastSynchronized: '2026-11-23T00:54:10.206Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"36caad144ab4349ac57791928f39567f1bf75938ce949d8818c9b1023021b7e3"
-    releasesEtag: W/"205f7cd8aaeb07395bae663e73f74bb12ea547e0c8c96e783f9b3d2b97c8aba2"
+    repoEtag: W/"406b06958b2426ed5cfd6e99d3a515606a1f7121506f0f66740428bf232c4222"
+    releasesEtag: '"c8fdb0ff9b1b306d443ac14d219293cd8f1f6440506ec7a56074c5ca01740e56"'
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

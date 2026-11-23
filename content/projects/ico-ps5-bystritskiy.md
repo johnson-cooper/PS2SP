@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2026-11-03T16:02:43Z'
   url: 'https://github.com/bystritskiy/ico-ps5/releases/tag/1.000.000'
 activity:
-  lastSynchronized: '2026-11-13T00:24:37.058Z'
+  lastSynchronized: '2026-11-23T00:54:15.062Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"568aed185cfe8e4ac290539aa771a470c68b2c218e0e0079effe55db9775ad7b"
-    releasesEtag: W/"c733261b6fdf982ae685f70e7dbf7c3dc13a04f2f4963cc212c9845cf69aa408"
+    repoEtag: W/"87411a38cb366bcdda78679292b06ae921c3412d9fb4cfbc3e22d8c176627bc0"
+    releasesEtag: W/"cd30b98a241345643b3851d7fcf0fb177651033ab581bc06c3b1fe52ffa64e7f"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

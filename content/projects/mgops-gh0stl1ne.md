@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-14T07:02:10.381Z'
+  lastSynchronized: '2026-11-23T00:54:33.736Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"040677077d25faf894cbadbf659aba14e62e67e260b9c7cf61139630e9e880d6"
+    releasesEtag: '"c8fdb0ff9b1b306d443ac14d219293cd8f1f6440506ec7a56074c5ca01740e56"'
 discovery:
   method: 'fork-network:FogNo23/mgops'
   confidence: 95
@@ -51,5 +54,4 @@ relationships:
   forkOf: FogNo23/mgops
   source: curi0us/mgops
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

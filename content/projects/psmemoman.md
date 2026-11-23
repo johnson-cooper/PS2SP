@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
   lastCommit: '2026-11-11T21:18:24Z'
 latestRelease:
@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: '2026-11-11T21:18:14Z'
   url: 'https://github.com/frankyfife/psmemoman/releases/tag/v1.1.0'
 activity:
-  lastSynchronized: '2026-11-13T00:26:06.150Z'
+  lastSynchronized: '2026-11-23T00:55:57.606Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"16df9b9f40e93731745f6c317accdfabf87c2d1f2f74673a2cdd973926ed0360"
-    releasesEtag: W/"6dce50e8a63aa805d5d7d31ff7779386be3aadaadf9015d1e168671c402fe28f"
+    repoEtag: W/"f46f028a0a600a0a7fee666b5b6a82ac9f41079d38d154a9f43a9034c7506325"
+    releasesEtag: W/"0721bdc15f618b85e5ea4057bb198007295738ceae7b6a070c8b14ee0950ae51"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

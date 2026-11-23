@@ -24,7 +24,7 @@ repository:
   archived: false
   defaultBranch: main
   stars: 19
-  forks: 0
+  forks: 1
   lastCommit: '2026-10-05T17:52:00Z'
 latestRelease:
   tag: null
@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-13T00:26:05.631Z'
+  lastSynchronized: '2026-11-23T00:55:57.002Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"35937715f937c4932a2a3d7719e1ac66aac81741ef347a8d355202bde17350ef"
-    releasesEtag: '"98b39eaf82b5aff313393cd803aefa154c085e8109a70fb42a843a28b7b06d93"'
+    repoEtag: W/"892f1b1f65f3bfa91473d5a52fe56a3bb5e4f1a44118da7dd94b7c902be38520"
+    releasesEtag: '"c8fdb0ff9b1b306d443ac14d219293cd8f1f6440506ec7a56074c5ca01740e56"'
 discovery:
   method: 'fork-network:libretro/ps2'
   confidence: 95

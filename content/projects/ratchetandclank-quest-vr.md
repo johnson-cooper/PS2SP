@@ -22,23 +22,23 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 11
+  stars: 14
   forks: 0
-  lastCommit: '2026-11-12T20:44:56Z'
+  lastCommit: '2026-11-19T03:44:14Z'
 latestRelease:
-  tag: v0.1.25
-  name: Ratchet & Clank VR 0.1.25
-  publishedAt: '2026-11-12T20:45:22Z'
+  tag: v0.1.26
+  name: Ratchet & Clank VR 0.1.26
+  publishedAt: '2026-11-19T03:44:33Z'
   url: >-
-    https://github.com/moistman42069/RatchetAndClank-Quest-VR/releases/tag/v0.1.25
+    https://github.com/moistman42069/RatchetAndClank-Quest-VR/releases/tag/v0.1.26
 activity:
   lastChecked: '2026-11-02T06:50:33.516Z'
-  lastSynchronized: '2026-11-13T00:26:12.618Z'
+  lastSynchronized: '2026-11-23T00:56:04.878Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a35660be8f7b1005202c191b26a75f4f3a770dbcb7b61fd7b94ed9d1ebf45882"
-    releasesEtag: W/"06b991a0fe066d4f270ef375b952bb07aa3a8b6c579522c22bbcba156579b1f1"
+    repoEtag: W/"68d098e4af22293f5fde9ab28896e2254e08422cf19e9d4b756971b6a9af4a19"
+    releasesEtag: W/"38b8206e305631b8edbe0ff2eb0d1664ef879dd195a6906b561da94f0745f1a7"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

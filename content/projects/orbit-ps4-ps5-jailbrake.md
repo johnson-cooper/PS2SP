@@ -33,12 +33,12 @@ latestRelease:
     https://github.com/angelicaunt/ORBIT-Ps4-Ps5-Jailbrake/releases/tag/FIXrelease
 activity:
   lastChecked: '2026-10-27T00:05:09.259Z'
-  lastSynchronized: '2026-11-13T00:25:10.390Z'
+  lastSynchronized: '2026-11-23T00:54:54.763Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6059a463882e61664202eb5ae2176acf7640c37b4d14a7c97751222a85ed7e20"
-    releasesEtag: W/"10c39cceadbe26ecbfd3a841bcd19b699561faf101a5d93c859f3c1b301c99e3"
+    repoEtag: W/"da0e371f5f120baa74f3f9142b4e4fc1e9eea3b19a4ecd6494b64c69a66e8dcc"
+    releasesEtag: W/"9d8440ec42cc4b4df74ca9053df3b79df65df63e5fd71012f732157e4183392b"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 90

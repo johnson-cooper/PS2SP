@@ -22,16 +22,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-14T18:00:14Z'
+  lastCommit: '2026-11-15T14:42:24Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: development
+  name: NJEMU Development · 3.0.0-pre.1208+gafaaea30 (afaaea30)
+  publishedAt: '2026-11-14T20:08:18Z'
+  url: 'https://github.com/FENGLIN2000/NJEMU/releases/tag/development'
 activity:
-  lastSynchronized: '2026-11-14T19:29:01.311Z'
+  lastSynchronized: '2026-11-23T00:54:39.727Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"362f1b27ad4f031664019eba024056bd2d921c38dba611612422a45aa3c21501"
+    releasesEtag: W/"88604fa080cdfb93dda72e170fd70730a8d8fbdd033640d289d36ffa4f47ad41"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: fjtrujy/NJEMU
   source: phoe-nix/NJEMU
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

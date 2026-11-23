@@ -23,16 +23,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-13T01:01:55Z'
+  lastCommit: '2026-11-14T09:34:22Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-13T03:36:03.837Z'
+  lastSynchronized: '2026-11-23T00:56:02.648Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e497652490c89a4ab15d62cf9fe921a2b460fa03f82352c9d1ce5a8b8d0edf25"
+    releasesEtag: '"c8fdb0ff9b1b306d443ac14d219293cd8f1f6440506ec7a56074c5ca01740e56"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: RAC-Native/rac1-native-game
   source: RAC-Native/rac1-native-game
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

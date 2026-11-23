@@ -20,19 +20,19 @@ repository:
   defaultBranch: main
   stars: 5
   forks: 0
-  lastCommit: '2026-03-27T00:56:34Z'
+  lastCommit: '2026-11-17T23:41:42Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.0.0
+  name: TM2 Toolkit
+  publishedAt: '2026-11-17T23:41:42Z'
+  url: 'https://github.com/CosmicScale/TM2Toolkit/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-11-13T00:26:23.807Z'
+  lastSynchronized: '2026-11-23T00:56:15.574Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"43f861d0717e188ccd4443b0e6f9464a076432d2f81f121d83aa2425f6acca44"
-    releasesEtag: '"98b39eaf82b5aff313393cd803aefa154c085e8109a70fb42a843a28b7b06d93"'
+    repoEtag: W/"3ac83a62434306207e4b06bd7b344e85573e4d33e7d9e97fb1eb98fcd1a2fc35"
+    releasesEtag: W/"aa01effcf42c8f5f0f7b30fcbebc1d78cceaa50a75e23d870fff3378f850807b"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
