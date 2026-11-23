@@ -39,6 +39,7 @@ const runStartedAt = new Date().toISOString();
 let requestCount = 0;
 let searchRequestCount = 0;
 let stoppedForRateLimit = false;
+let deferredByGitHub = false;
 let lastSearchAt = 0;
 let published = 0;
 let queued = 0;
@@ -51,6 +52,8 @@ class DiscoveryBudgetStop extends Error {
     this.name = "DiscoveryBudgetStop";
   }
 }
+
+class DiscoveryApiUnavailable extends Error {}
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -89,24 +92,44 @@ function rateReserve(resource) {
   return resource === "search" ? searchReserve : coreReserve;
 }
 
-async function github(endpoint) {
-  if (requestCount >= maxApiRequests) {
-    throw new DiscoveryBudgetStop(`Discovery request budget reached (${maxApiRequests}); progress has been preserved for a later run.`);
-  }
+async function fetchGitHub(endpoint, isSearch) {
+  let failure;
+  for (const delay of [0, 1_000, 2_000]) {
+    if (requestCount >= maxApiRequests) {
+      throw new DiscoveryBudgetStop(`Discovery request budget reached (${maxApiRequests}); progress has been preserved for a later run.`);
+    }
 
-  const isSearch = endpoint.startsWith("/search/");
-  if (isSearch && searchDelayMs > 0) {
-    const wait = searchDelayMs - (Date.now() - lastSearchAt);
+    if (delay) console.warn(`::warning::GitHub request failed (${failure}); retrying ${endpoint}.`);
+    const searchWait = isSearch ? searchDelayMs - (Date.now() - lastSearchAt) : 0;
+    const wait = Math.max(delay, searchWait);
     if (wait > 0) await sleep(wait);
+
+    requestCount++;
+    if (isSearch) {
+      searchRequestCount++;
+      lastSearchAt = Date.now();
+    }
+
+    let response;
+    try {
+      response = await fetch(`https://api.github.com${endpoint}`, { headers, signal: AbortSignal.timeout(15_000) });
+    } catch (error) {
+      if (!(error instanceof TypeError) && error.name !== "TimeoutError") throw error;
+      failure = error.cause?.code ?? error.message;
+      continue;
+    }
+
+    if (![500, 502, 503, 504].includes(response.status)) return response;
+    failure = `HTTP ${response.status}`;
+    await response.body?.cancel();
   }
 
-  requestCount++;
-  if (isSearch) {
-    searchRequestCount++;
-    lastSearchAt = Date.now();
-  }
+  throw new DiscoveryApiUnavailable(`GitHub request still failing (${failure}) for ${endpoint}; saved progress and will retry the unfinished scan on a later run.`);
+}
 
-  const response = await fetch(`https://api.github.com${endpoint}`, { headers });
+async function github(endpoint) {
+  const isSearch = endpoint.startsWith("/search/");
+  const response = await fetchGitHub(endpoint, isSearch);
   const resource = response.headers.get("x-ratelimit-resource") ?? (isSearch ? "search" : "core");
   const remainingRaw = response.headers.get("x-ratelimit-remaining");
   const remaining = remainingRaw == null ? null : Number.parseInt(remainingRaw, 10);
@@ -586,11 +609,15 @@ async function seedForkNetworks() {
   }
 
   let rootsProcessed = 0;
+  state.forks.queue = queue;
   while (queue.length > 0 && rootsProcessed < forkNetworkRootsPerRun) {
-    const root = queue.shift();
+    const root = queue[0];
     const rootKey = String(root).toLowerCase();
-    queued.delete(rootKey);
-    if (scanned.has(rootKey)) continue;
+    if (scanned.has(rootKey)) {
+      queue.shift();
+      queued.delete(rootKey);
+      continue;
+    }
 
     rootsProcessed++;
     let discoveredFromRoot = 0;
@@ -617,13 +644,13 @@ async function seedForkNetworks() {
       if (forks.length < 100) break;
     }
 
+    queue.shift();
+    queued.delete(rootKey);
     scanned.add(rootKey);
-    state.forks.queue = queue;
     state.forks.scannedRepositories = [...scanned].slice(-20000);
     console.log(`fork network ${root}: ${discoveredFromRoot} fork(s) discovered`);
   }
 
-  state.forks.queue = queue;
   state.forks.scannedRepositories = [...scanned].slice(-20000);
   console.log(`fork discovery: ${rootsProcessed} root(s) scanned, ${queue.length} queued for later runs`);
 }
@@ -777,6 +804,9 @@ try {
   if (error instanceof DiscoveryBudgetStop) {
     stoppedForRateLimit = true;
     console.warn(`::warning::${error.message}`);
+  } else if (error instanceof DiscoveryApiUnavailable) {
+    deferredByGitHub = true;
+    console.warn(`::warning::${error.message}`);
   } else {
     throw error;
   }
@@ -790,9 +820,10 @@ try {
     queued,
     ignored,
     rechecked,
-    stoppedForRateLimit
+    stoppedForRateLimit,
+    deferredByGitHub
   };
   await fs.writeFile(stateFile, JSON.stringify(state, null, 2) + "\n", "utf8");
 }
 
-console.log(`Discovery complete: ${published} published, ${queued} queued/updated, ${rechecked} pending rechecked, ${ignored} ignored, ${requestCount} GitHub requests (${searchRequestCount} search)${stoppedForRateLimit ? "; stopped early and saved progress" : ""}. Fork queue ${state.forks.queue.length}. Bootstrap ${state.bootstrap.complete ? "complete" : `next month ${state.bootstrap.nextMonth}`}.`);
+console.log(`Discovery complete: ${published} published, ${queued} queued/updated, ${rechecked} pending rechecked, ${ignored} ignored, ${requestCount} GitHub requests (${searchRequestCount} search)${stoppedForRateLimit || deferredByGitHub ? "; stopped early and saved progress" : ""}. Fork queue ${state.forks.queue.length}. Bootstrap ${state.bootstrap.complete ? "complete" : `next month ${state.bootstrap.nextMonth}`}.`);
