@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/hadibader/Arcane/releases/tag/Arcane1.0.4stablenexus'
 activity:
   lastChecked: '2026-10-15T00:53:05.330Z'
-  lastSynchronized: '2026-11-21T09:52:58.379Z'
+  lastSynchronized: '2026-11-23T09:05:33.177Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"afa811d2889ec6a92a12f15de097c1e2a1710e87def49d34d65e9fb2fa25987f"
-    releasesEtag: W/"15013c0782cd6e5fd2177ba281672883268b8bfd757f57c56d690eb6352e1faf"
+    repoEtag: W/"2831b62c351e7559d8bcaeab72893ba91dcbd1a6258031e0ee1157e16107c144"
+    releasesEtag: W/"4dbc35099cf282070807a7088bb3390963f70bdfcb8207865fdc791d682e3d26"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

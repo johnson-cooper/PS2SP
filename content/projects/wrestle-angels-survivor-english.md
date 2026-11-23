@@ -32,12 +32,12 @@ latestRelease:
     https://github.com/kactusken/Wrestle-Angels-Survivor-English/releases/tag/v0.1
 activity:
   lastChecked: '2026-10-26T14:34:04.716Z'
-  lastSynchronized: '2026-11-21T09:55:19.001Z'
+  lastSynchronized: '2026-11-23T09:08:26.974Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5cb66a54468e1914fb75313344305dd2a02d42acdb2cac976cc3b08f21836fdf"
-    releasesEtag: W/"ae06fd11a4f17a7e719f4e12f05f056993b5ffad54217e65c1459126158ebc27"
+    repoEtag: W/"d0d01fa2108e8170018b9116574f1c258c74f00708003e2130c64ffc98343c22"
+    releasesEtag: W/"cfcfa7e8d2d3a65b982602137ea96da23324f135da103a2a453bc9bda4ef4137"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

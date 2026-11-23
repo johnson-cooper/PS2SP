@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T09:52:56.982Z'
+  lastSynchronized: '2026-11-23T09:05:31.442Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"84e0407b51c59bf99332ab1730e657925185b2b1832b59851414b008fe898962"
-    releasesEtag: '"acc2dfa1507605c36b62df13cb3d5125a73ada5d832ec7ef65c5a1968664006f"'
+    repoEtag: W/"01a688e9ef8b2b4e12e9e4ba3da6eeb5664c32fe8915fc6e95c11128ed1cdbee"
+    releasesEtag: '"4b1936b832eb100b4d032ffeff0fab4b0b465a077892df76bb0807351967be69"'
 discovery:
   method: 'fork-network:AETHER-AR/aether-ar'
   confidence: 100

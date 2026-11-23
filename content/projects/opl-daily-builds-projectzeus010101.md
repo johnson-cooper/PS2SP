@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T09:54:07.970Z'
+  lastSynchronized: '2026-11-23T09:06:57.015Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b8de6bbe8f87a969e04c1e3ef10c8e214971c33ad6fc7fd789fa28042ee8835c"
-    releasesEtag: '"acc2dfa1507605c36b62df13cb3d5125a73ada5d832ec7ef65c5a1968664006f"'
+    repoEtag: W/"93293a8df2ae223a4006106e5ead9733a32d65c82ba6d1920bef1c9dea3e4c23"
+    releasesEtag: '"4b1936b832eb100b4d032ffeff0fab4b0b465a077892df76bb0807351967be69"'
 discovery:
   method: 'fork-network:Jay-Jay-OPL/OPL-Daily-Builds'
   confidence: 95

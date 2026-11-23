@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T09:53:49.543Z'
+  lastSynchronized: '2026-11-23T09:06:34.224Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"55d787342613f8a48af5e549252150891cf0a55f2197026ec51bc37ef897429d"
-    releasesEtag: '"acc2dfa1507605c36b62df13cb3d5125a73ada5d832ec7ef65c5a1968664006f"'
+    repoEtag: W/"8453eca559eb6520b02baaa45e935e7f836320a90760641a4a71652a3e64f5ba"
+    releasesEtag: '"4b1936b832eb100b4d032ffeff0fab4b0b465a077892df76bb0807351967be69"'
 discovery:
   method: 'fork-network:hitaloose/linksawakening-portable'
   confidence: 95

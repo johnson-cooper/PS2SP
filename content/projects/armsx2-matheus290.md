@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/Matheus290/Unofficial-ARMSX2-RK3588/releases/tag/v2026.11.09
 activity:
-  lastSynchronized: '2026-11-21T09:53:01.968Z'
+  lastSynchronized: '2026-11-23T09:05:37.265Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"832a563683ac2d6292f975d6debf0c3217f05194ff679dd0a7dd679cdbb4735c"
-    releasesEtag: W/"a27b9ff91d9ba41d6f3bafb7843d4ec485b8c8ce8aeafd9aeb80b17faa23987c"
+    repoEtag: W/"3f6691e8090f453af5723339d57059b6b84127a8da7675c4db61452831feb771"
+    releasesEtag: W/"ada93fd84f6c8f9617fc2d6ae525fada8f6c5ac1155790a663a16ab12806d4b0"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

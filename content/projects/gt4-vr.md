@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-11-13T08:18:55Z'
   url: 'https://github.com/SgtBilko76/gt4-vr/releases/tag/v0.3.2-beta-specii'
 activity:
-  lastSynchronized: '2026-11-21T09:53:29.509Z'
+  lastSynchronized: '2026-11-23T09:06:09.309Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6332c554df21473ed263a8224f4c8d46463d772a0a9879bf028df311d57dca96"
-    releasesEtag: W/"c20c04bb9dff4562d0126b39b274cb083e0e7cb6d8c2af54aa2ac1546caec935"
+    repoEtag: W/"51ea5d9213b173405d5739798f9ebbfa2c035770e32a7e9efe3194f964cd3d4a"
+    releasesEtag: W/"3043f19d8b9183b4085d589015083ba2917eb41b49336fcb0a19cff7104f37a0"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

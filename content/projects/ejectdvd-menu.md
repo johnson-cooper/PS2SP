@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-11-16T05:49:55Z'
   url: 'https://github.com/BarkhelicTriangle/ejectdvd_menu/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-11-21T09:53:19.887Z'
+  lastSynchronized: '2026-11-23T09:05:57.810Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"377455bfcfd6d80eceaa333d4960d8e099d667581ae156545bf3ef443ce6a0f5"
-    releasesEtag: W/"6f5e447d34ed4f3ae284c95a1c68557cfc2fa62dec60502401ca441811740c9e"
+    repoEtag: W/"5b502b2d70fb2de9d71f3b7d5ede4cfcff77029c13edbf8358840dba7da6a8d9"
+    releasesEtag: W/"bada0cd01c63cd9144d52cede7a7ffcc6ece504062fac675b7b258597b54d8fc"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

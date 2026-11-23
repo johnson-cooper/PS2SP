@@ -20,7 +20,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 3
+  stars: 4
   forks: 0
   lastCommit: '2026-11-13T02:06:58Z'
 latestRelease:
@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-11-12T10:06:23Z'
   url: 'https://github.com/iPSX2/iPSX2/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-11-21T09:53:33.091Z'
+  lastSynchronized: '2026-11-23T09:06:14.015Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1cf394966167ff16905b77da50e277506f43d548c25ca3576b03449514c98f3e"
-    releasesEtag: W/"a9e5e57692f2d4615de3573c46745f6029abc5b666b2ce61e6876fe86e2d7c39"
+    repoEtag: W/"cc3dc3cb8e82784b40ed9999fc7cdf572139eddef7aae251329ef274d73c5b27"
+    releasesEtag: W/"627e21d7ab794963f1062fdd10fbe8ab1b75bd767037386c7389453e8a0dabc6"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T09:53:12.803Z'
+  lastSynchronized: '2026-11-23T09:05:49.758Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8ddbf1f99000930020cf90959148c123bfba6175fa985d23a90f0f375010c2fd"
-    releasesEtag: '"acc2dfa1507605c36b62df13cb3d5125a73ada5d832ec7ef65c5a1968664006f"'
+    repoEtag: W/"df5251eb18595de4276eedc026fdd38446e8245ad91c7c6d34dd7f3f2fd5e6fd"
+    releasesEtag: '"4b1936b832eb100b4d032ffeff0fab4b0b465a077892df76bb0807351967be69"'
 discovery:
   method: 'fork-network:fasipe/Castlevania-COD-QOL'
   confidence: 100
