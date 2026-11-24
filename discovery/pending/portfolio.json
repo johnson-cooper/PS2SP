@@ -1,0 +1,16 @@
+{
+  "repository": "posaune0423/portfolio",
+  "repositoryId": "1181896121",
+  "url": "https://github.com/posaune0423/portfolio",
+  "description": "A personal portfolio site inspired by the PlayStation 2 startup and browser UX.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-24T16:27:14.977Z",
+  "checkedAt": "2026-11-24T16:27:14.977Z"
+}
