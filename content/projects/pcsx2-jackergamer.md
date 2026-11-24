@@ -17,23 +17,22 @@ source:
   repositoryId: '1270585481'
 repository:
   archived: false
-  defaultBranch: input-enhancements
+  defaultBranch: main
   stars: 0
   forks: 1
-  lastCommit: '2026-07-15T18:37:07Z'
+  lastCommit: '2026-11-24T04:54:11Z'
 latestRelease:
-  tag: input-enhancements-20260716-462be68eb
-  name: PCSX2 input enhancements build 462be68eb
-  publishedAt: '2026-07-15T18:14:21Z'
-  url: >-
-    https://github.com/JackerGamer/PCSX2/releases/tag/input-enhancements-20260716-462be68eb
+  tag: main-20261122-707e1d32b
+  name: PCSX2 main build 707e1d32b
+  publishedAt: '2026-11-22T09:08:23Z'
+  url: 'https://github.com/JackerGamer/PCSX2/releases/tag/main-20261122-707e1d32b'
 activity:
-  lastSynchronized: '2026-11-11T06:22:15.952Z'
+  lastSynchronized: '2026-11-24T06:05:23.600Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3915ec57d38af5c4fd71cab3b5fa7fa88ff5e6701ca0c7041a0df1ba83f4f3a8"
-    releasesEtag: W/"600205bf6042433d2abaad9865bfbb306f02fdc47624f079f5b82204c0729773"
+    repoEtag: W/"0b0c17ca1b4a2e116e1bbc0c90c221f02001f8192060a20b480b1f8841d53202"
+    releasesEtag: W/"b666a51842b678f59bca1c477249fdb49b0271f8f055f58f867d11221f453bf2"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

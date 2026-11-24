@@ -21,19 +21,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-11T03:37:18Z'
+  lastCommit: '2026-11-11T14:50:37Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v2.1.39-vu.1
+  name: ''
+  publishedAt: '2026-11-11T14:51:06Z'
+  url: >-
+    https://github.com/Metroynome/ghidra-emotionengine-reloaded/releases/tag/v2.1.39-vu.1
 activity:
-  lastSynchronized: '2026-11-11T06:21:26.710Z'
+  lastSynchronized: '2026-11-24T06:04:16.290Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7359478ba4f8cdcc36d521e4a6ba97a75b49cd7491ea86eb4608ab8f586dc2ca"
-    releasesEtag: '"9c1d5d6c02bd03431bec9aa3b1b361ec1aa0f9e1da99d100fa686668ec8ecaad"'
+    repoEtag: W/"26e959b649d73db869c5623f823c018dc627baff9cb9a2b13e131c63ff7f8715"
+    releasesEtag: W/"e5ba7488c037c5cc1b51f7723d3109af685241c107ce409a60743035679ea228"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

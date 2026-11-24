@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-12T08:50:51.748Z'
+  lastSynchronized: '2026-11-24T06:05:35.527Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2aa2f9488ad73f90e6da5113e09895ca25fa9336695881a86b1853b21bba0ea3"
+    releasesEtag: '"1225e3926759f2117b9a830704182986e371cb3e544c44a80269ecddea7b4787"'
 discovery:
   method: 'fork-network:AndrewGDX/pcsx2-stereoscopic'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: AndrewGDX/pcsx2-stereoscopic
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

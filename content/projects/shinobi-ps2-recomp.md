@@ -20,21 +20,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 36
-  forks: 0
-  lastCommit: '2026-11-11T00:20:40Z'
+  stars: 69
+  forks: 1
+  lastCommit: '2026-11-22T23:53:14Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.7.1
+  name: 'v0.7.1: Round HUD in Widescreen, European Languages Start Normally Again'
+  publishedAt: '2026-11-22T23:53:45Z'
+  url: 'https://github.com/TheRealAfsan/Shinobi-PS2-Recomp/releases/tag/v0.7.1'
 activity:
-  lastSynchronized: '2026-11-11T06:23:28.580Z'
+  lastSynchronized: '2026-11-24T06:07:03.737Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"573e0db7795f441700325efcf597c64c3a01eaebe218d6a7705df3b9515dbc1b"
-    releasesEtag: '"9c1d5d6c02bd03431bec9aa3b1b361ec1aa0f9e1da99d100fa686668ec8ecaad"'
+    repoEtag: W/"40df05211e90d09c6d45e4015c1699f87a3062e58331eb162f682e811eb3a176"
+    releasesEtag: W/"2e7b75d5cb573363d8be290063560885fa003b30795de1bf7278db9ba379351a"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

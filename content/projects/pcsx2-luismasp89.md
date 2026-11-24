@@ -22,19 +22,19 @@ repository:
   defaultBranch: filter2d
   stars: 0
   forks: 0
-  lastCommit: '2026-11-10T16:46:16Z'
+  lastCommit: '2026-11-23T13:05:14Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-11T06:22:16.815Z'
+  lastSynchronized: '2026-11-24T06:05:25.457Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"503d63702e9c129121eae42f7ab08c60e0dba996f9a2f8e28df815c61f041207"
-    releasesEtag: '"9c1d5d6c02bd03431bec9aa3b1b361ec1aa0f9e1da99d100fa686668ec8ecaad"'
+    repoEtag: W/"a0b150b584a2de40d07d84a4870868860f41edfdb575beaedf1824f312460d4d"
+    releasesEtag: '"1225e3926759f2117b9a830704182986e371cb3e544c44a80269ecddea7b4787"'
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 95

@@ -27,12 +27,12 @@ latestRelease:
   url: >-
     https://github.com/ZodiarkDuoDecim/Final-Fantasy-XII-Revenant-Job-System/releases/tag/v3.4.4
 activity:
-  lastSynchronized: '2026-11-11T06:21:20.531Z'
+  lastSynchronized: '2026-11-24T06:04:08.015Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"41977e02db3234cca617d2322723c2beb8e86efe6b46cd94466db3dcc87ee606"
-    releasesEtag: W/"d517bf1eea6eefb8879c8567b78d8360131fc717d5af94e6c87255f299881f59"
+    repoEtag: W/"b76c0161bbd9a54db10bd75f5e8bbcd94b06fe95da69e1518b8400ce21040b1a"
+    releasesEtag: W/"86f4d708222fd9f7fd7c79add85129cf659c29455b96c1be71c4f50ea6de33b4"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

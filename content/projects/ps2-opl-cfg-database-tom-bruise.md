@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2020-03-29T23:33:56Z'
   url: 'https://github.com/Tom-Bruise/PS2-OPL-CFG-Database/releases/tag/v1.1-tb'
 activity:
-  lastSynchronized: '2026-11-11T06:22:40.115Z'
+  lastSynchronized: '2026-11-24T06:06:00.777Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2d580b368bd6dfd1b7f42f51b97310b6084fc08f08e058f146946aee87edf2aa"
-    releasesEtag: W/"3bef8232694af2f5919d8847ce2bcd946585c19c0de0eac7973acb4606a46100"
+    repoEtag: W/"4d4ade78c4c90c3ce9214946b656620b17518e33af433581ca782df98875cd0d"
+    releasesEtag: W/"4e17d836b29a3c7c42813afab2368b01ef7841ee010ea42ce0e54851fd021352"
 discovery:
   method: 'fork-network:VTSTech/PS2-OPL-CFG'
   confidence: 100

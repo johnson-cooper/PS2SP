@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-18T13:27:32.696Z'
+  lastSynchronized: '2026-11-24T06:06:05.196Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"8129814e49d85f34aabfaca8e45a53c58c3b3245872f763f99799ef1899ad601"
+    releasesEtag: '"1225e3926759f2117b9a830704182986e371cb3e544c44a80269ecddea7b4787"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95
@@ -40,5 +43,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

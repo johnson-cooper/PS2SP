@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-11-12T21:53:29Z'
   url: 'https://github.com/Daniel-Leite-hub/ArTonelico_PTBR/releases/tag/v0.9.0-beta'
 activity:
-  lastSynchronized: '2026-11-14T23:23:33.165Z'
+  lastSynchronized: '2026-11-24T06:03:44.040Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"556c636b8100d6be9c271914d8a661f473d6fdd7f1c9e46f611e570797aea541"
+    releasesEtag: W/"a748b3e90dc1920e0128130927e9718662093d9127582d913d4f9a004f9cf785"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
@@ -41,5 +44,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-11-23T18:53:56Z'
   url: 'https://github.com/portretrogames/tekker3portps2/releases/tag/V60'
 activity:
-  lastSynchronized: '2026-11-24T01:20:59.707Z'
+  lastSynchronized: '2026-11-24T06:07:11.852Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"3606ca2d78764072cb28d7ee707a901197607884b2c3e9794fc57e40f6ad8541"
+    releasesEtag: W/"5881b286c38f6f0a0384a6e31952a244e9a9ace5d3710603945e3b6811104cf4"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
@@ -43,5 +46,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -20,19 +20,19 @@ repository:
   defaultBranch: master
   stars: 1
   forks: 0
-  lastCommit: '2026-11-10T14:46:51Z'
+  lastCommit: '2026-11-12T13:43:25Z'
 latestRelease:
   tag: '1.0'
   name: '1.0'
   publishedAt: '2026-02-02T16:18:52Z'
   url: 'https://github.com/andyvand/PumpkinOS/releases/tag/1.0'
 activity:
-  lastSynchronized: '2026-11-11T06:23:21.843Z'
+  lastSynchronized: '2026-11-24T06:06:55.314Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d0e2c9372c00079bd7d5b784b076752a281908a1afa18d1b386ff8ddbf2307e4"
-    releasesEtag: W/"ee31ea05533c308fc7148f79379a7751adbac85e626a5687fd5f08fc710eae65"
+    repoEtag: W/"a84504550cc191eb89472cd2921d0133eb9b412c8177f2927d87d1ce87cede28"
+    releasesEtag: W/"fe249ddb877e364da831b96647cc4e86209ab5138bbf2596f8ba05267653d1a7"
 discovery:
   method: 'incremental:ps2sdk in:name,description,readme'
   confidence: 100

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-11T06:22:29.824Z'
+  lastSynchronized: '2026-11-24T06:05:47.238Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9b42add2822c34e80329f4b7646490cb4db3c0f0112a71103d20e23137f79367"
-    releasesEtag: '"9c1d5d6c02bd03431bec9aa3b1b361ec1aa0f9e1da99d100fa686668ec8ecaad"'
+    repoEtag: W/"d0c3b6c5b2392d69a109f5d27318785244ff38b370455a22ded24bf332fb8445"
+    releasesEtag: '"1225e3926759f2117b9a830704182986e371cb3e544c44a80269ecddea7b4787"'
 discovery:
   method: 'fork-network:SildurFX/Play-'
   confidence: 100

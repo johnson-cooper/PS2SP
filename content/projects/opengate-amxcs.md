@@ -22,18 +22,21 @@ source:
 repository:
   archived: false
   defaultBranch: opengate
-  stars: 6
+  stars: 10
   forks: 1
-  lastCommit: '2026-11-22T14:17:58Z'
+  lastCommit: '2026-11-22T20:37:57Z'
 latestRelease:
   tag: 1.5.0-opengate
   name: OpenGate 1.5.0
   publishedAt: '2026-11-14T14:09:42Z'
   url: 'https://github.com/amxcs/OpenGate/releases/tag/1.5.0-opengate'
 activity:
-  lastSynchronized: '2026-11-22T18:03:17.818Z'
+  lastSynchronized: '2026-11-24T06:05:10.840Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b2d312ade7755b53cedb16f62671d324df6a80b8fc596d2ff79d2593ff14baf1"
+    releasesEtag: W/"5a266af3e7c52c8c8f0f8a7010d49e4b01f143fbc9714654f35603f6af2483fe"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: sd2psXtd/firmware
   source: sd2psx/firmware
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

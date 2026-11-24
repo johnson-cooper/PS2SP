@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-11T06:22:08.479Z'
+  lastSynchronized: '2026-11-24T06:05:12.929Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ee1bdcd967c1e5a084b2801a33a005acde6062e2a43df85a48406cb92f81e236"
-    releasesEtag: '"9c1d5d6c02bd03431bec9aa3b1b361ec1aa0f9e1da99d100fa686668ec8ecaad"'
+    repoEtag: W/"6963e5f540c7fdcdac9d4744609c0bd0f936002b326ab7fbc6d8e2f67ee41a28"
+    releasesEtag: '"1225e3926759f2117b9a830704182986e371cb3e544c44a80269ecddea7b4787"'
 discovery:
   method: 'fork-network:RoloDeOvo/Open-PS2-Loader'
   confidence: 100

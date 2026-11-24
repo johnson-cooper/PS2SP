@@ -23,21 +23,21 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-11-10T22:13:28Z'
+  lastCommit: '2026-11-23T21:38:20Z'
 latestRelease:
-  tag: v0.9.0
-  name: v0.9.0 (beta)
-  publishedAt: '2026-11-10T22:13:28Z'
+  tag: v0.9.2
+  name: v0.9.2 (beta)
+  publishedAt: '2026-11-12T01:52:03Z'
   url: >-
-    https://github.com/damon-daemon/taiko-risshiden-4-english/releases/tag/v0.9.0
+    https://github.com/damon-daemon/taiko-risshiden-4-english/releases/tag/v0.9.2
 activity:
   lastChecked: '2026-11-10T22:32:01.296Z'
-  lastSynchronized: '2026-11-11T06:23:33.167Z'
+  lastSynchronized: '2026-11-24T06:07:10.415Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c31e0a0d5c13e6dff56e659c7b985cc15f271e0e750e72159d3421685df388e1"
-    releasesEtag: W/"e13c5e324998670be77035ea98ddafabcaa7efe15dd4bb5f0a938bed14980905"
+    repoEtag: W/"d68bc6206e4188218322ac9694f54162b692fac90c393bd14d3b9836bb1dfe6d"
+    releasesEtag: W/"7944839b001b304d558ba575c66efa32990c2015d4433f72eeb1117ef33a706a"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

@@ -25,21 +25,21 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-10T23:47:41Z'
+  lastCommit: '2026-11-24T00:26:35Z'
 latestRelease:
-  tag: launcher-dev-feature-launcher-game-art
-  name: v1.0.3-dev.207 (feature/launcher-game-art)
-  publishedAt: '2026-11-09T21:22:27Z'
+  tag: launcher-dev-feature-editor-new-planet
+  name: v1.1.1-dev.236 (feature/editor-new-planet)
+  publishedAt: '2026-11-20T13:26:55Z'
   url: >-
-    https://github.com/nickyyOO/OpenRAC/releases/tag/launcher-dev-feature-launcher-game-art
+    https://github.com/nickyyOO/OpenRAC/releases/tag/launcher-dev-feature-editor-new-planet
 activity:
   lastChecked: '2026-10-13T19:32:43.126Z'
-  lastSynchronized: '2026-11-11T06:22:07.493Z'
+  lastSynchronized: '2026-11-24T06:05:11.636Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"264cd77c84b442e63c8b0a55c72568194c6f0a5694de38b32423df98fd4dc22e"
-    releasesEtag: W/"4fdf1f19f15b63a462cd5e8d69e0f2aa19da1b372887790d707568e59dbd32fb"
+    repoEtag: W/"b21b8ab8657631dee7b327d371422d53af483fb4c5b372696196c1292910d759"
+    releasesEtag: W/"b103f41ac89515fe9d9ef50d043d8c515aa3cb746e3b78150d8f6abdefed2103"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

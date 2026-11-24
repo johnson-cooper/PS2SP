@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-09-17T02:10:35Z'
   url: 'https://github.com/refresh50/DBZBudokaiTenkaichi3PS2PTBR/releases/tag/1.0'
 activity:
-  lastSynchronized: '2026-11-11T06:21:12.805Z'
+  lastSynchronized: '2026-11-24T06:03:57.556Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7b18c4f6133c4182d2e5165bfd3d159be93b02d44155ca736879cf9492c7761a"
-    releasesEtag: W/"bd60cc798730c415a9c0ffa208d7fe5f34daada2a0c5be5f1826106c43a0f511"
+    repoEtag: W/"ce388ce82be59e34380412bbf0890a49e8c91405d0e071b033b80b7f8c68c3bd"
+    releasesEtag: W/"354d817ae8fe45218e946e5363729548a07ff6d25e842c9b3c0225da8058377c"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
