@@ -1,0 +1,16 @@
+{
+  "repository": "durankeeley/ps2-picocontroller",
+  "repositoryId": "1469475216",
+  "url": "https://github.com/durankeeley/ps2-picocontroller",
+  "description": "Using a Raspberry Pi Pico W to build a compatibility layer to modern controllers ",
+  "score": 85,
+  "evidence": [
+    "repository name explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"ps2 port\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-24T01:20:59.707Z",
+  "checkedAt": "2026-11-24T01:20:59.707Z"
+}
