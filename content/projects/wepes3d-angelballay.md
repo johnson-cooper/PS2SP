@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T17:34:19.899Z'
+  lastSynchronized: '2026-11-24T17:48:05.660Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"431b85ec86e94d0a5753f81fd285d8ded652deb36be5de5d3bfdb27350c06120"
-    releasesEtag: '"f1943bfb5f2a778c0d86faa584621b1de8b68ad47697d957f92887d7d9717618"'
+    repoEtag: W/"1a9344506c2762cf8612593286ba12e77d9f428c174c19bcc88e8cbfd961c700"
+    releasesEtag: '"5ac5c7b45b819dfd7b86689a99c92eb57767a2a65c23758534a6505685e4576b"'
 discovery:
   method: 'fork-network:FVitor7/wepes3d'
   confidence: 100

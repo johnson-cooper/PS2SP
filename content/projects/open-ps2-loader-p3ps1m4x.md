@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T17:33:02.944Z'
+  lastSynchronized: '2026-11-24T17:46:14.890Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d2ddbd1a4ab9fb96967d0582dafc2f00767c84b41825c211b9d8ac4d8628e379"
-    releasesEtag: '"f1943bfb5f2a778c0d86faa584621b1de8b68ad47697d957f92887d7d9717618"'
+    repoEtag: W/"4278a2d99ec40f289bb86c715cc005b43fa7668f8930301559d517fd4a6ff6c2"
+    releasesEtag: '"5ac5c7b45b819dfd7b86689a99c92eb57767a2a65c23758534a6505685e4576b"'
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

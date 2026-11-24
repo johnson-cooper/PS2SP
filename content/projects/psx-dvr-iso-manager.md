@@ -22,7 +22,7 @@ repository:
   defaultBranch: main
   stars: 8
   forks: 1
-  lastCommit: '2026-11-18T23:21:54Z'
+  lastCommit: '2026-11-23T22:49:43Z'
 latestRelease:
   tag: '1.2'
   name: PSX DVR ISO MANAGER 1.2
@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/adamix95-lab/PSX_DVR_ISO_MANAGER/releases/tag/1.2'
 activity:
   lastChecked: '2026-11-08T02:43:01.487Z'
-  lastSynchronized: '2026-11-21T17:34:04.823Z'
+  lastSynchronized: '2026-11-24T17:47:43.939Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"87f8fd7aa3910af6d19a431ab6ae12942508440bed4da02e634ba62319775e50"
-    releasesEtag: W/"f9606d97e6483d172702793cfb3e787fabd0fa5af0d792b176ce6f1d397ec2b1"
+    repoEtag: W/"6d97bfed0611c363bb0d2ac1656f242d9d03f38cb5309b5f4cca97daf396fb1d"
+    releasesEtag: W/"2da6d6a33a66fd1198bcb4d93567addc865d8a420888d9bd2d95d8cf6961c675"
 discovery:
   method: 'pending-promotion:incremental:ps2sdk in:name,description,readme'
   confidence: 75

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-06-18T10:22:59Z'
   url: 'https://github.com/aderumier/pcsx2x6/releases/tag/test'
 activity:
-  lastSynchronized: '2026-11-21T17:33:20.707Z'
+  lastSynchronized: '2026-11-24T17:46:42.480Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"020ae181b1ed69ffe026ea7e7f49c0ae6b27d0b43d41beb7d022d415b0dafc10"
-    releasesEtag: W/"9881ac2add55c71bfa9aa19cc5b57f36f8dff9414429f9b953379b48adff69fe"
+    repoEtag: W/"8a6a44d11bbb9d3b7238ffc2c25808dd80ce4997b202ba23223dfaf45c7261f8"
+    releasesEtag: W/"5e2b072a163e3b5c23ad5107f7fae64150f6d1bcfaa4ae094b6196c2b7dc2724"
 discovery:
   method: 'fork-network:PS2Homebrew-arcade/pcsx2x6'
   confidence: 95

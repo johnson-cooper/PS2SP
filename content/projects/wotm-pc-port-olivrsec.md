@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T17:34:23.387Z'
+  lastSynchronized: '2026-11-24T17:48:11.578Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7a6d681975a671639fbdc4b90d7663da9925e0ccec7dc9d18ab70fb6e964f562"
-    releasesEtag: '"f1943bfb5f2a778c0d86faa584621b1de8b68ad47697d957f92887d7d9717618"'
+    repoEtag: W/"aa5ca0e1634259557807edae30143db90227d17c2bca9a7ad773c96a075d83c6"
+    releasesEtag: '"5ac5c7b45b819dfd7b86689a99c92eb57767a2a65c23758534a6505685e4576b"'
 discovery:
   method: 'fork-network:yanm1103/War_of_the_Monsters_recomp'
   confidence: 95

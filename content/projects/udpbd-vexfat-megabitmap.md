@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T17:34:18.495Z'
+  lastSynchronized: '2026-11-24T17:48:02.900Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a9cf622c6be085c628ffa0555411b4ca85db1ccdf04d5c637d205fa12b253a1d"
-    releasesEtag: '"f1943bfb5f2a778c0d86faa584621b1de8b68ad47697d957f92887d7d9717618"'
+    repoEtag: W/"f4c7514cb692355562ec19ca2a58641fa1be14543ce71097608f5d4bb4ff4f9a"
+    releasesEtag: '"5ac5c7b45b819dfd7b86689a99c92eb57767a2a65c23758534a6505685e4576b"'
 discovery:
   method: 'fork-network:awaken1ng/udpbd-vexfat'
   confidence: 95

@@ -19,19 +19,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-21T11:18:12Z'
+  lastCommit: '2026-11-23T19:01:51Z'
 latestRelease:
   tag: v0.17
   name: Super Mario World PS2 v0.17
   publishedAt: '2026-11-21T00:26:17Z'
   url: 'https://github.com/portretrogames/smw-ps2/releases/tag/v0.17'
 activity:
-  lastSynchronized: '2026-11-21T17:34:13.687Z'
+  lastSynchronized: '2026-11-24T17:47:56.304Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6c4aceeb6d6a1380560720c450a35158ea9ff631f07ef9556293d665da612569"
-    releasesEtag: W/"d2037861947cafc63ecb4524d4ee34a0b902902110d8633ecb3e3790321b0140"
+    repoEtag: W/"cecafdd43f60dd00aaab6cc34fbcc7ee1118ceb904f21ac2dbd07426ac11e088"
+    releasesEtag: W/"71eef5dce507d73fd0daac778ac54dd06b2b01025785ea31d2a2b8ecb14997e5"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T17:34:24.396Z'
+  lastSynchronized: '2026-11-24T17:48:12.896Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"761fec8bde0b2e6bc6452b3a26b8414c4f4d7290be368eb38b1f974fe12f7564"
-    releasesEtag: '"f1943bfb5f2a778c0d86faa584621b1de8b68ad47697d957f92887d7d9717618"'
+    repoEtag: W/"a58515b8fd06692bfcea3e982e859263852fe54a61a886d98a96a4438585ed61"
+    releasesEtag: '"5ac5c7b45b819dfd7b86689a99c92eb57767a2a65c23758534a6505685e4576b"'
 discovery:
   method: 'fork-network:XboxEmulationHub/XBSX2'
   confidence: 100

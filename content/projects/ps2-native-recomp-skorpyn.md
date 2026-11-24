@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T17:33:39.431Z'
+  lastSynchronized: '2026-11-24T17:47:08.931Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1dc4bd5fda058e870cc85b65dca141b030a0335455df58712d1358cecb27ebae"
-    releasesEtag: '"f1943bfb5f2a778c0d86faa584621b1de8b68ad47697d957f92887d7d9717618"'
+    repoEtag: W/"eb1e3e4c26a65da0270e594cb66c3cd96c6714f6b3e9211fb2a98cccfcd6dccc"
+    releasesEtag: '"5ac5c7b45b819dfd7b86689a99c92eb57767a2a65c23758534a6505685e4576b"'
 discovery:
   method: 'fork-network:exoteric33/ps2-native-recomp'
   confidence: 100

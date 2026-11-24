@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T17:33:13.679Z'
+  lastSynchronized: '2026-11-24T17:46:30.511Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5155064dcb4c78befe44d90c2231e190ebc13e33002acaeffecdd40b806af222"
-    releasesEtag: '"f1943bfb5f2a778c0d86faa584621b1de8b68ad47697d957f92887d7d9717618"'
+    repoEtag: W/"b8975f5da0ae78a76eb57315b841c90377690c4b2b21e80e276c53a763695c13"
+    releasesEtag: '"5ac5c7b45b819dfd7b86689a99c92eb57767a2a65c23758534a6505685e4576b"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100
