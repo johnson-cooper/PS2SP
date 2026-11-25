@@ -1,0 +1,16 @@
+{
+  "repository": "HikikoMarmy/Aries_Reborn",
+  "repositoryId": "1472243574",
+  "url": "https://github.com/HikikoMarmy/Aries_Reborn",
+  "description": "Experimental replacement server for various network games on the Playstation 2.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-11-25T20:12:12.988Z",
+  "checkedAt": "2026-11-25T20:12:12.988Z"
+}
