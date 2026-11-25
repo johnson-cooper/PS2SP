@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-17T22:27:06.038Z'
+  lastSynchronized: '2026-11-25T22:35:32.924Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d56d17c61c00badac9b32f298a88dddc04b97505cdd3cdb46405891a60966e4a"
-    releasesEtag: '"fc520538c967f54c4a3d6837852406fd509eec0e276045baa93d6e9d4ba93ace"'
+    repoEtag: W/"f6153ee5a1542f760216966db50a02f882afa3723080f9655d35908c0140b374"
+    releasesEtag: '"bd19fda27fbea3e90c592115e5e6a3616d7cd84491d4bee2ae1e97d97a4a32cf"'
 discovery:
   method: 'fork-network:Smartkin/twinsanity-reversed'
   confidence: 100

@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-17T22:25:27.184Z'
+  lastSynchronized: '2026-11-25T22:34:00.815Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f32abeec8fdd01908320bcd1da93a56475121e13987d32d15682a06901e4351e"
-    releasesEtag: '"fc520538c967f54c4a3d6837852406fd509eec0e276045baa93d6e9d4ba93ace"'
+    repoEtag: W/"e242a69acbd1a626c485a16e10d18534afe147eae539574d312efc7563a2d5fe"
+    releasesEtag: '"bd19fda27fbea3e90c592115e5e6a3616d7cd84491d4bee2ae1e97d97a4a32cf"'
 discovery:
   method: 'fork-network:pcm720/OSDMenu'
   confidence: 95

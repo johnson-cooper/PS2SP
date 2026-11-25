@@ -18,7 +18,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 23
+  stars: 24
   forks: 4
   lastCommit: '2026-09-22T06:28:33Z'
 latestRelease:
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-06-27T13:39:48Z'
   url: 'https://github.com/GorGylka/Server2PS2/releases/tag/3'
 activity:
-  lastSynchronized: '2026-11-17T22:27:01.133Z'
+  lastSynchronized: '2026-11-25T22:35:28.074Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0be54abe26a30149fd9bdc1e34aa04e5104d8f1c6e3f0cd65e6772f04865ad59"
-    releasesEtag: W/"13c483e85395248716e00e4c0dfb430479544975892ab30f611df05baea7395c"
+    repoEtag: W/"50dc54ea125bcaff918e1789c9c1fa5e035b495abf0d8ea3d9a033e8afb7f0da"
+    releasesEtag: W/"36e5a8ccc53b71d1574388f4804f40fc8f1af2055cbd5bc9a6b2577447a973e3"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

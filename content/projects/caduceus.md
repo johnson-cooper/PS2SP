@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/Rian6/caduceus/releases/tag/v1.2.1'
 activity:
   lastChecked: '2026-09-29T00:28:21.949Z'
-  lastSynchronized: '2026-11-17T22:24:26.723Z'
+  lastSynchronized: '2026-11-25T22:33:00.579Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1ba96b57270e1d7f6a73b399bd380bbd62a225f35e38fb14160ed7c11962dea5"
-    releasesEtag: W/"d4edbf4b51e1bbb4306b7e52624ff0e24e5afe4633487bcf1d56c527cb94def1"
+    repoEtag: W/"65682e26eca054ce0e04f752c7ab443ad412097c8af8a84c3b5cdb3ca24f5080"
+    releasesEtag: W/"5b1b7152fb93ac864eda57a1e02e03b21197f67e9716b945c9de95dcfa17333d"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 90

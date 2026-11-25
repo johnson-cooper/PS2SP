@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-03-16T07:48:22Z'
   url: 'https://github.com/wildfirebill-sony-ps2/pcsx2/releases/tag/v2.6.3'
 activity:
-  lastSynchronized: '2026-11-17T22:25:46.572Z'
+  lastSynchronized: '2026-11-25T22:34:18.817Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"838e819e63c78b30adaba1282000a041fdbe9b26eb056eed2ecadd137e6cdfc6"
-    releasesEtag: W/"b7334de777111d5fb956bdf67c5d1b1cec3a4256fbbeecf7f51771dcec60fcd7"
+    repoEtag: W/"b97b8c31955480f5a122bb143b4db1663a2e8d94d74603935957e1cfee270d34"
+    releasesEtag: W/"d2ae259d3e8226a13ea8f62c464dfe4fb777b44838271cedfeb0b3d54c715435"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

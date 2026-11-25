@@ -24,9 +24,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 7
   forks: 0
-  lastCommit: '2026-11-17T11:53:56Z'
+  lastCommit: '2026-11-24T16:21:06Z'
 latestRelease:
   tag: v0.1.12
   name: HSFA v0.1.12
@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/Rickow/HSFA/releases/tag/v0.1.12'
 activity:
   lastChecked: '2026-11-01T23:54:36.997Z'
-  lastSynchronized: '2026-11-17T22:24:54.616Z'
+  lastSynchronized: '2026-11-25T22:33:28.049Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ac3dca666920c50cfa6e75368ed9eb79fb8fe5c4b11b0f266c8cbb63a119be4a"
-    releasesEtag: W/"c0de3fece8b6dca37b31828d486fd1742db160345aa3e89067c6cad1ca29204a"
+    repoEtag: W/"8875fc8d1909b9d92460c94a471b0ed53719587bbb261ee1bf94a2211b28fc7e"
+    releasesEtag: W/"8bef5c838138c0f858e97f15d28e5dd06776651f365ffa5b45ad486955d8aac0"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

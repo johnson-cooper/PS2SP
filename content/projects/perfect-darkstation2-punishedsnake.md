@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/PunishedSnake/perfect-darkstation2/releases/tag/tools-spu2bank-v1
 activity:
-  lastSynchronized: '2026-11-17T22:25:48.574Z'
+  lastSynchronized: '2026-11-25T22:34:20.476Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b19dff65437e4dd8a701a42b634a97314188860a47a3f16cad463304a801c9b3"
-    releasesEtag: W/"e8d82e5000d8d97b5d32c9ce8aa8c9161ea5c401d9021a0ec1abf7c13761786d"
+    repoEtag: W/"b91125f33515b82bc26edf8244fb242954a38b241482e12e804e6af9216d5539"
+    releasesEtag: W/"7d490c34ea958f958fda2b9d497bc16c4d758b68438ceca78979e8ab8fdfc5d5"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100

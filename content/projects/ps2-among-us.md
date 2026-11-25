@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-11-05T20:16:40Z'
   url: 'https://github.com/mrgamer456-ciber/Ps2-among-us/releases/tag/Amongusps2'
 activity:
-  lastSynchronized: '2026-11-17T22:26:01.483Z'
+  lastSynchronized: '2026-11-25T22:34:33.485Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ba7bfa48342c50c3d1884f31385f4246ae24c01d91175cdaf3484008ab176d2f"
-    releasesEtag: W/"c866b0fe1f7e5cd5c6a14b48d8a06e2f652d11b633fdfddf941f85d96add73c3"
+    repoEtag: W/"115230afb36f4eecb04e465bb6b7e5a995206732b78ea68748d483a7ed93c0ba"
+    releasesEtag: W/"29718a353dff4926ba79053f04c1fba26bcbe225819709a8be73917df0b32490"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

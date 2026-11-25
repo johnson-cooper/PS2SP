@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-11-14T21:49:07Z'
   url: 'https://github.com/faux123/ARMSX2/releases/tag/panvk-roaa-test1'
 activity:
-  lastSynchronized: '2026-11-17T22:24:13.123Z'
+  lastSynchronized: '2026-11-25T22:32:47.926Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f7a72a8113d74156b25dd1c42e5e61f87b69c66eec2aab46b88b9a883f0f92ba"
-    releasesEtag: W/"8d18659184b4d084fd34fd3fd5ac7c0b8b2096617e9ed9ce6d39a8a101ebbade"
+    repoEtag: W/"3743f4f1f5c1ca04214365dceae48c865e4a7c909e8edf50960f46fabca32b2b"
+    releasesEtag: W/"c46e3d8f236b5a7ed688fecc755404098f7cc678fd5ac589f0b0d254f25707e5"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

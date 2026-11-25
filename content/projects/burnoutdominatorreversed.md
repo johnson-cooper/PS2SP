@@ -21,21 +21,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 32
+  stars: 35
   forks: 2
-  lastCommit: '2026-11-17T18:32:26Z'
+  lastCommit: '2026-11-19T18:02:24Z'
 latestRelease:
-  tag: v1.6.0
-  name: 1.6.0
-  publishedAt: '2026-11-17T18:32:26Z'
-  url: 'https://github.com/literalynn/BurnoutDominatorReversed/releases/tag/v1.6.0'
+  tag: v1.6.1
+  name: 1.6.1
+  publishedAt: '2026-11-19T18:02:24Z'
+  url: 'https://github.com/literalynn/BurnoutDominatorReversed/releases/tag/v1.6.1'
 activity:
-  lastSynchronized: '2026-11-17T22:24:24.352Z'
+  lastSynchronized: '2026-11-25T22:32:58.338Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6e9b22266903ffc18265e398736351719daa88c42b898c9bb73cde2849f4da4f"
-    releasesEtag: W/"cb6dae4a316c76ae894ac02da23e66f6efa0560737cd5e08f30826b82b21502e"
+    repoEtag: W/"0cbba128ae5ad3b1103a596f753af9bd6b752735694a99d8bbcb204b2dcd0ecc"
+    releasesEtag: W/"b0b25c5d3a76280b697dd378b6029386011cbffca1a6be0c0c0b7d90f0e96e42"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

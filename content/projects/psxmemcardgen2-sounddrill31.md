@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-17T22:26:53.532Z'
+  lastSynchronized: '2026-11-25T22:35:20.539Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"def5f64934c76c8420c86eceeccf5c06253fe2fb6bd87ff337d4d7a1f48954e6"
-    releasesEtag: '"fc520538c967f54c4a3d6837852406fd509eec0e276045baa93d6e9d4ba93ace"'
+    repoEtag: W/"0835ded44b86f62a1318e4b834a14d36cbbf17a9e948cca1925d46fa4f48c611"
+    releasesEtag: '"bd19fda27fbea3e90c592115e5e6a3616d7cd84491d4bee2ae1e97d97a4a32cf"'
 discovery:
   method: 'fork-network:gamebitfunx/PSxMemCardGen2'
   confidence: 100

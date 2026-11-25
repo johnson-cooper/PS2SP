@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/gdavidss/bomberman-land-3-ptbr/releases/tag/v1.0'
 activity:
   lastChecked: '2026-11-16T22:31:39.705Z'
-  lastSynchronized: '2026-11-17T22:24:22.793Z'
+  lastSynchronized: '2026-11-25T22:32:56.754Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"35b41f8cda0bb7d64ee99ea18d98b12b759613bdff7a3d070d16f2544a84283e"
-    releasesEtag: W/"96cd45a56f02e85d6afc83ab3ef785346725ca95b5723df0c51dae3b3b20454b"
+    repoEtag: W/"d6319752558f761eeba7cb47852e08f256fef113dc51df2f0790947e99655e52"
+    releasesEtag: W/"29304989b5ae9061c34ff10195e36e284263922183da54dda2e29a7848ec1768"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2022-01-26T13:35:45Z'
   url: 'https://github.com/AKuHAK/PS1VModeNeg/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-17T22:26:00.856Z'
+  lastSynchronized: '2026-11-25T22:34:32.910Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a2588293fd9254a5a7af15023c0fa020945aaad9bb7cdbaeeb837e8da048d4b5"
-    releasesEtag: W/"f500ff54fbb858b226343b8177d1809e768827d407557003c35148a56bb6d3f0"
+    repoEtag: W/"9ac400c6f08c3404421c7c86b7267d552e7625ffa6cc3a2c70c7e819af3b69f3"
+    releasesEtag: W/"573bcc2e6d4144d4a5ac37b659acad593672bee12c42145b3859020ccb88c9ba"
 discovery:
   method: 'fork-network:ps2homebrew/PS1VModeNeg'
   confidence: 100

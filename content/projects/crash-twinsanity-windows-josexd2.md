@@ -19,26 +19,27 @@ license: null
 homepage: 'https://github.com/GioPixelGH/Crash-Twinsanity-Windows/releases/latest'
 source:
   provider: github
-  repository: JoseXD2/Crash-Twinsanity-Android
+  repository: Lumi-Porting-Stuff/Crash-Twinsanity-Android
   repositoryId: '1437062127'
 repository:
   archived: false
   defaultBranch: android
-  stars: 0
+  stars: 1
   forks: 0
-  lastCommit: '2026-10-30T14:08:34Z'
+  lastCommit: '2026-11-24T13:45:14Z'
 latestRelease:
   tag: v0.1.0
   name: Crash Twinsanity Android – test build (Mali)
   publishedAt: '2026-10-30T12:09:10Z'
-  url: 'https://github.com/JoseXD2/Crash-Twinsanity-Android/releases/tag/v0.1.0'
+  url: >-
+    https://github.com/Lumi-Porting-Stuff/Crash-Twinsanity-Android/releases/tag/v0.1.0
 activity:
-  lastSynchronized: '2026-11-17T22:24:31.949Z'
+  lastSynchronized: '2026-11-25T22:33:05.733Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cb4bff8131b0876f543351e04dc774d8ffe6967a734fd67c7f1a334af93b3b17"
-    releasesEtag: W/"77c53e112a90df03a64c1c880f32fce261298d4936abb79f24661488c04228f9"
+    repoEtag: W/"c89fffd85fc036b220f78947c466c2bec5fc999d03fd8cc930a139e404f5d882"
+    releasesEtag: W/"6149ceac21e454351669d27b43f190b9d5d116037714af4329de701997c1c5c9"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

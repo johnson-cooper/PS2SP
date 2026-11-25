@@ -22,16 +22,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-21T21:39:40Z'
+  lastCommit: '2026-11-25T22:30:26Z'
 latestRelease:
-  tag: arabic-v1.3.1
-  name: NULD Arabic Edition — TEa.G3
-  publishedAt: '2026-11-21T20:10:56Z'
-  url: 'https://github.com/TEaG3/newday/releases/tag/arabic-v1.3.1'
+  tag: arabic-v1.3.6
+  name: TEa.G3 PS2 — النسخة العربية
+  publishedAt: '2026-11-25T13:04:56Z'
+  url: 'https://github.com/TEaG3/newday/releases/tag/arabic-v1.3.6'
 activity:
-  lastSynchronized: '2026-11-21T21:54:17.097Z'
+  lastSynchronized: '2026-11-25T22:33:42.737Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2a5f5c37a195bc689a8b9b9325b6c5ea48ad704708a6a776a619dad89c92ae29"
+    releasesEtag: W/"6c00534ef3b8e00456c781f8c6f6e86da18085c82a622b6f06e5524b8722cfa2"
 discovery:
   method: 'incremental:ps2sdk in:name,description,readme'
   confidence: 100
@@ -50,5 +53,4 @@ relationships:
   forkOf: danielnuld/nuld
   source: danielnuld/nuld
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

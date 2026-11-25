@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-17T22:25:25.089Z'
+  lastSynchronized: '2026-11-25T22:33:58.920Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"91bf5c9e34cd927d1b787a21a833222c880761612a4a7c02c0d326a6220b17c9"
-    releasesEtag: '"fc520538c967f54c4a3d6837852406fd509eec0e276045baa93d6e9d4ba93ace"'
+    repoEtag: W/"91037d0fe52bfceae26e8cb5cfff287c5f1c1233bb986b5f8bc0fdc3dc62a112"
+    releasesEtag: '"bd19fda27fbea3e90c592115e5e6a3616d7cd84491d4bee2ae1e97d97a4a32cf"'
 discovery:
   method: 'fork-network:PS2-Widescreen/OPL-Widescreen-Cheats'
   confidence: 95

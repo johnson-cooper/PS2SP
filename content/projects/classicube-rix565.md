@@ -23,7 +23,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 5
+  stars: 6
   forks: 0
   lastCommit: '2026-11-15T01:06:21Z'
 latestRelease:
@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/Rix565/ClassiCube/releases/tag/v0.2'
 activity:
   lastChecked: '2026-11-13T23:55:51.512Z'
-  lastSynchronized: '2026-11-17T22:24:30.269Z'
+  lastSynchronized: '2026-11-25T22:33:03.773Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cd818ff4ea55b69f24c3ed5ac4ff36afbbcbeb2d60d6a5b5a79fe74ed4408ae0"
-    releasesEtag: W/"42f48828279cc069dc106f99658c65d8262ce52c28b91f8e9ad4f0f2145eaed5"
+    repoEtag: W/"ddc8bd57f64299c2510673b9ef5342654692c6a66525cc2d05ae94900e39b302"
+    releasesEtag: W/"3fb73917fcc7ef29c1f4d02686ba33b97915e458b11202f28fa13bc326db83f5"
 discovery:
   method: 'pending-promotion:incremental:"ps2 port" in:name,description,readme'
   confidence: 85

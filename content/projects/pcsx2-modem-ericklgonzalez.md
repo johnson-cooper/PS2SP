@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-17T22:25:39.786Z'
+  lastSynchronized: '2026-11-25T22:34:12.319Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e5ee6b340c54848142bfd946b780b96ac371fc9bdeafce2bbceede9a986eca2d"
-    releasesEtag: '"fc520538c967f54c4a3d6837852406fd509eec0e276045baa93d6e9d4ba93ace"'
+    repoEtag: W/"575d3f2db94f8ce5bd043ed36f7c38167c276cc9b12812705a288b1d6bc84af4"
+    releasesEtag: '"bd19fda27fbea3e90c592115e5e6a3616d7cd84491d4bee2ae1e97d97a4a32cf"'
 discovery:
   method: 'fork-network:ddobokki/pcsx2_modem'
   confidence: 95

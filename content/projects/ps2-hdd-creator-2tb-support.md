@@ -29,12 +29,12 @@ latestRelease:
   url: >-
     https://github.com/R3BU1LD/PS2-HDD-CREATOR-2TB-Support/releases/tag/Version_1.0_x64
 activity:
-  lastSynchronized: '2026-11-17T22:26:12.117Z'
+  lastSynchronized: '2026-11-25T22:34:42.421Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cd8c83690916df00d6f8968099a09abef379c6e9180ef6bb369faed9ba69d432"
-    releasesEtag: W/"378502ef15a0685f87bb69e85061f9e636009c0b40dacdfe4e26941e2de1435d"
+    repoEtag: W/"1f3cf1e3b8c142581b87f7924f834b843aee3eac5cf53f86af41a117b6a3baba"
+    releasesEtag: W/"27f10b7252d6bb30b80b6c5891b2e269704c78cf6e53f42d16368ff1ceb1bce2"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
