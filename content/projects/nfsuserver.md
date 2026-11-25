@@ -25,8 +25,8 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 129
-  forks: 30
+  stars: 131
+  forks: 31
   lastCommit: '2025-12-15T23:04:07Z'
 latestRelease:
   tag: server105
@@ -35,12 +35,12 @@ latestRelease:
   url: 'https://github.com/HarpyWar/nfsuserver/releases/tag/server105'
 activity:
   lastChecked: '2026-10-06T19:50:00Z'
-  lastSynchronized: '2026-11-05T12:22:00.111Z'
+  lastSynchronized: '2026-11-25T12:56:39.761Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6a8ff303f886196afaad072f0745f61979fa15befc278b5de43beb5aeb8f9c7c"
-    releasesEtag: W/"5ecacccb8416580aea5cb1feca10c2add92ae0e4cf358c54108be6dfc9cebbc8"
+    repoEtag: W/"426411e1abbb6d8903f7b7a275fdc92b6b769d3d64524f47d2162f895ab62aa3"
+    releasesEtag: W/"ec15999d47b07ad15d93843ef432d22f50365d28cb95644a226dbc936259ff53"
 discovery:
   method: curated
   confidence: 100

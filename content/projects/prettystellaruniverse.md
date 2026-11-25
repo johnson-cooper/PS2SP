@@ -22,20 +22,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-23T22:51:43Z'
+  lastCommit: '2026-11-21T16:44:07Z'
 latestRelease:
-  tag: v0.1.1
-  name: prettystellaruniverse v0.1.1
-  publishedAt: '2026-10-23T22:52:59Z'
-  url: 'https://github.com/PSChuze/prettystellaruniverse/releases/tag/v0.1.1'
+  tag: v0.1.2
+  name: prettystellaruniverse v0.1.2
+  publishedAt: '2026-11-12T23:50:43Z'
+  url: 'https://github.com/PSChuze/prettystellaruniverse/releases/tag/v0.1.2'
 activity:
   lastChecked: '2026-10-23T06:28:59.434Z'
-  lastSynchronized: '2026-11-05T12:22:37.752Z'
+  lastSynchronized: '2026-11-25T12:57:33.014Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"db0a647d656233b0d9dbbbecd14bf337841282594328f17322f80aae84a3387b"
-    releasesEtag: W/"b601f9b47cda88d73b575989930297e42689ea26701aa8f334d59dcaa72ee07f"
+    repoEtag: W/"0f092ab85baa6d0de1f89045d6149c3f8abd96f316aec942b1c1295e1c1c8e95"
+    releasesEtag: W/"0237817b0a7be84bfffaa05d49b811ffddf4ff368aa5f8fe4c23c369e7578e85"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

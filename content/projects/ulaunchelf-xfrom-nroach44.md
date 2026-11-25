@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2023-11-25T05:28:17Z'
   url: 'https://github.com/nroach44/uLaunchELF_XFROM/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-05T12:23:41.655Z'
+  lastSynchronized: '2026-11-25T12:58:46.797Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e7693100b77fa1ae11993ca8645d0c9ce73a250cf266807c5640f095ffe08a05"
-    releasesEtag: W/"7e05d2d9859e3e264d1f7421b640f45d96212af3c40354e9cb494a3f1cf8acdd"
+    repoEtag: W/"521a3a76b6327854f7fbcc1d3bb4d79df080b110e14febbfbc9ef206b6611965"
+    releasesEtag: W/"e0ba6299681b3834083f05a7659cbb6f8e03b280beafeead4a25535a83d5b6ea"
 discovery:
   method: 'fork-network:xfwcfw/uLaunchELF'
   confidence: 95

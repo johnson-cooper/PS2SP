@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T12:21:20.988Z'
+  lastSynchronized: '2026-11-25T12:55:53.853Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"82716965e782e7c63132e437b1e6c3e60d9f23e80cd122255fbdbe07eb2847b9"
-    releasesEtag: '"a265e13ba9964cb5149e04ac0bdf1bf82b2b42e69b35395c6e21fd78ae77d913"'
+    repoEtag: W/"52ec618c2eda68bf35c6124848c8246c1b53342d94c8449b1894e52df7eae301"
+    releasesEtag: '"952d112940193fc284a4a141c569cf911c7e67981f382acfe4f6132ffdf8939d"'
 discovery:
   method: 'fork-network:skuza-oss/downhill-revived'
   confidence: 100

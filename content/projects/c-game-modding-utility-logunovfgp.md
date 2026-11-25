@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T12:21:14.239Z'
+  lastSynchronized: '2026-11-25T12:55:44.928Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"db1546382c088f8b780d19fe104d7be8d3ca66013cb30b4bad908a69ed23df4a"
-    releasesEtag: '"a265e13ba9964cb5149e04ac0bdf1bf82b2b42e69b35395c6e21fd78ae77d913"'
+    repoEtag: W/"80344e28f7c8362c3e359c1c7bf79b568d21f8a736f63f43164d6624ad394924"
+    releasesEtag: '"952d112940193fc284a4a141c569cf911c7e67981f382acfe4f6132ffdf8939d"'
 discovery:
   method: 'fork-network:C0mposer/C-Game-Modding-Utility'
   confidence: 95

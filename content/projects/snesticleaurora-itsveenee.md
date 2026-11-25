@@ -23,21 +23,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 26
-  forks: 3
-  lastCommit: '2026-10-24T03:57:27Z'
+  stars: 30
+  forks: 4
+  lastCommit: '2026-11-19T00:25:58Z'
 latestRelease:
   tag: continuous
   name: Continuous Build
-  publishedAt: '2026-10-24T03:57:27Z'
+  publishedAt: '2026-11-19T00:25:58Z'
   url: 'https://github.com/itsveenee/SNESticleAurora/releases/tag/continuous'
 activity:
-  lastSynchronized: '2026-11-05T12:23:36.740Z'
+  lastSynchronized: '2026-11-25T12:58:40.407Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d32abe1f1760e02d94358e5c7f92e5a07b9b8cafbf4befd5c20ebff003824a2e"
-    releasesEtag: W/"9bac01fff931b1992bc277daeeefffa8f36f365c3d96da9562ebfd0c01f1eb24"
+    repoEtag: W/"7695abcc2a57c849cc83fdd0407529ef3e8da2ac0631b3e5982bfe16228c8950"
+    releasesEtag: W/"d68489573d7b379994ee6b1d05300fb8cdfae34d2306c40be4cfa67744e57260"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

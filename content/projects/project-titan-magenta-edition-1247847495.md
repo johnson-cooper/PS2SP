@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T12:22:38.458Z'
+  lastSynchronized: '2026-11-25T12:57:33.658Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b9c5fcafbb00ae9724f9ffcf32bd943157b2e77205ca323f7a42d2cac4b610ed"
-    releasesEtag: '"a265e13ba9964cb5149e04ac0bdf1bf82b2b42e69b35395c6e21fd78ae77d913"'
+    repoEtag: W/"32538324b636c39fbda7bbed24efa769f10eb380f8fa929deae02b5eae018c9f"
+    releasesEtag: '"952d112940193fc284a4a141c569cf911c7e67981f382acfe4f6132ffdf8939d"'
 discovery:
   method: 'fork-network:sobecapaklebs-dev/project-titan-magenta-edition'
   confidence: 100

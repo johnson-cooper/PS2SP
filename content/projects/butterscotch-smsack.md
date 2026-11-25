@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-11T09:51:14.859Z'
+  lastSynchronized: '2026-11-25T12:55:41.862Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"1b45abba13f7e39b7623ead9bb26539def89ea03cc4d38e8448b7a22fa0360be"
+    releasesEtag: '"952d112940193fc284a4a141c569cf911c7e67981f382acfe4f6132ffdf8939d"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: GlitchedCode/Butterscotch
   source: ButterscotchRunner/Butterscotch
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

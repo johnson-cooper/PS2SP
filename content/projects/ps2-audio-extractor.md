@@ -20,8 +20,8 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
-  forks: 0
+  stars: 2
+  forks: 1
   lastCommit: '2026-09-28T22:33:34Z'
 latestRelease:
   tag: v0.1.0
@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/4574130823/PS2-Audio-Extractor/releases/tag/v0.1.0'
 activity:
   lastChecked: '2026-09-29T00:28:28.294Z'
-  lastSynchronized: '2026-11-05T12:22:40.232Z'
+  lastSynchronized: '2026-11-25T12:57:35.634Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f7cef56fca902ee0e006904d8641104846579d942eb43302aecbc3c87df46692"
-    releasesEtag: W/"6a2a7e2b1d5d536092641a8776d38ef9ecc09891797573178ffba6bcac7effb6"
+    repoEtag: W/"e2f72571e6b239b36a40d7390d0f90316d97ad6ceafb9f8c7b72c08200e8e510"
+    releasesEtag: W/"e9d11676a9c7b69e4f19b63d52b56f4e4ea0bf61b36d72055a6a19c44511d657"
 discovery:
   method: github-search
   confidence: 100

@@ -30,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/OpenGOAL-Unofficial-Mods/jak-project/releases/tag/0.000000000000000000000000000000004
 activity:
-  lastSynchronized: '2026-11-05T12:21:47.437Z'
+  lastSynchronized: '2026-11-25T12:56:22.968Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2fb86fbb573a862c830a657dc9f2a18710803029bb35a64385ccfcf419ab7561"
-    releasesEtag: W/"867c4c1eea361019a9c149af47f0d6967d9c1b552dcc14e5b1cbc92d8d577e9a"
+    repoEtag: W/"010380b181b92eaff16ff087fdb288f5b5f107d34baa22e35d93c406b747c9a4"
+    releasesEtag: W/"b3a6d11d0bec4cb05b04e6153941e33cce893d85794e1fde410c00b1e60e0b00"
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95

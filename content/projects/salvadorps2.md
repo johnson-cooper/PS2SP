@@ -28,12 +28,12 @@ latestRelease:
   url: 'https://github.com/hitchhikr/salvadorPS2/releases/tag/v1.1'
 activity:
   lastChecked: '2026-09-29T00:28:49.251Z'
-  lastSynchronized: '2026-11-05T12:23:33.652Z'
+  lastSynchronized: '2026-11-25T12:58:37.012Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1e67a599b2d1c7da016ac5675c194bbbfc30dce1610d32032fe54a72b8c57e8a"
-    releasesEtag: W/"5cd1fdcf4a205703c04cb3433fa993913a75affe7aa435e26caf18742db9b564"
+    repoEtag: W/"4c370e10438d01030a4dc1bb9ffed82151cf4c28f96c8e8b35d5bf16394acc77"
+    releasesEtag: W/"86c63ac1b376bcdeefd21deb04bebe549a769887f1ea17db091ad7b20a32dd3d"
 discovery:
   method: github-search
   confidence: 95

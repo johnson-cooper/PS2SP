@@ -25,7 +25,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 54
+  stars: 66
   forks: 0
   lastCommit: '2026-10-31T23:18:56Z'
 latestRelease:
@@ -35,12 +35,12 @@ latestRelease:
   url: 'https://github.com/N900x4/HauntingGround-Recomp-Project/releases/tag/v0.2'
 activity:
   lastChecked: '2026-11-04T22:12:45.517Z'
-  lastSynchronized: '2026-11-05T12:21:38.149Z'
+  lastSynchronized: '2026-11-25T12:56:14.493Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"536258c5d5c6f5a16cfb25b73fc7d1530ba796514a9903bdf1ca364a20e9c297"
-    releasesEtag: W/"8ccf46002cca13b530bac0dbd4c7abfaa02fd22494533d01a17266b2509884d9"
+    repoEtag: W/"8b1696905f55c04d7aa9e446ce6f525adc2c710f5ff9a63faaf16c10b01ffb3a"
+    releasesEtag: W/"a8755927951c07e0eb0c84f99437b2e3cdba6a376a70f20647b0d79b3849fd04"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85

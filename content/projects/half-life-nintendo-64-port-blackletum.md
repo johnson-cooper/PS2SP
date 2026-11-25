@@ -23,16 +23,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-13T11:18:30Z'
+  lastCommit: '2026-11-24T09:32:19Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-13T11:35:27.480Z'
+  lastSynchronized: '2026-11-25T12:56:13.855Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"64e3bdcefdfb4d42443755d32704c142c6b2a35b90ba8ea9164329de65ea8843"
+    releasesEtag: '"952d112940193fc284a4a141c569cf911c7e67981f382acfe4f6132ffdf8939d"'
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: ToxyCola/Half-Life-Nintendo-64-Port
   source: ToxyCola/Half-Life-Nintendo-64-Port
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/AshMetalRaf/MIPSInit/releases/tag/v1.0.1'
 activity:
   lastChecked: '2026-10-31T21:53:36.436Z'
-  lastSynchronized: '2026-11-05T12:21:55.104Z'
+  lastSynchronized: '2026-11-25T12:56:33.915Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3b64794f5aff06b6fcf8d8741def59a9fedf65a72a28843e7af4288f39829a12"
-    releasesEtag: W/"44240a0b8e268a130483d7df351787ccfff52cd82aad38627455ab934dd974fa"
+    repoEtag: W/"46171fd8bf4224652a658903ad638b67318c05fed7fa4f9294cad48413db89ec"
+    releasesEtag: W/"e3df7f5df3fdbe85c0cf1a411677eb9ab2fbd01795700db29aec68bf58ac1858"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85

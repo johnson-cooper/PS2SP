@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-24T04:59:15.384Z'
+  lastSynchronized: '2026-11-25T12:56:37.933Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"85aff7ec67980f4c9d747ae74b83211d3af5433014fc01c665e26d3f8d1e2fff"
+    releasesEtag: '"952d112940193fc284a4a141c569cf911c7e67981f382acfe4f6132ffdf8939d"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -45,5 +48,4 @@ relationships:
   forkOf: NetBSD/src
   source: NetBSD/src
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

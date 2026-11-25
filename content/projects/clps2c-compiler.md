@@ -21,7 +21,7 @@ repository:
   archived: false
   defaultBranch: master
   stars: 18
-  forks: 1
+  forks: 2
   lastCommit: '2025-12-12T10:37:39Z'
 latestRelease:
   tag: CLPS2C-Compiler-1.0.5
@@ -30,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/NiV-L-A/CLPS2C-Compiler/releases/tag/CLPS2C-Compiler-1.0.5
 activity:
-  lastSynchronized: '2026-11-05T12:21:15.835Z'
+  lastSynchronized: '2026-11-25T12:55:47.084Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3175f2ded08d6bc791624303a13f600ca64c93d0ce5938e3d40a2b918556276e"
-    releasesEtag: W/"5106b738d692e93494f30dec16dd26cb62662b3f18a937b61451cd330d8d29be"
+    repoEtag: W/"64406c09c1716949d344191fa56a753dccbaa79aa28dbb60c6dad5d1383e78a4"
+    releasesEtag: W/"a257597521c19150bc6a1cab1bea23bbbf824a5e8e3b753c5e643769f22228c9"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

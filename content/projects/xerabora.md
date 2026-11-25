@@ -22,22 +22,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 57
+  stars: 62
   forks: 3
-  lastCommit: '2026-10-26T14:46:06Z'
+  lastCommit: '2026-11-22T08:11:00Z'
 latestRelease:
-  tag: v1.0.1
-  name: v1.0.1
-  publishedAt: '2026-10-26T15:24:06Z'
-  url: 'https://github.com/hacan359/xerabora/releases/tag/v1.0.1'
+  tag: v2.2.0
+  name: v2.2.0
+  publishedAt: '2026-11-22T08:13:00Z'
+  url: 'https://github.com/hacan359/xerabora/releases/tag/v2.2.0'
 activity:
   lastChecked: '2026-09-29T00:27:16.548Z'
-  lastSynchronized: '2026-11-05T12:23:47.021Z'
+  lastSynchronized: '2026-11-25T12:58:53.512Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"be7c099752f7b71b560ddbb88620285fa713d233b97fbd765152a723ee99b8d2"
-    releasesEtag: W/"65560a4c7860f8d41d8b304c333540054727ebd54d2d643a3318cddf738690e8"
+    repoEtag: W/"911c604d67bf423b269858da74092de5af10f0e45a27695bfe3eed3fd5e15c88"
+    releasesEtag: W/"0fd5ee89c7d36a83b7ec0279feb59a5d85544613706d4189ee388552c69996e0"
 discovery:
   method: github-search
   confidence: 100

@@ -21,18 +21,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 5
+  stars: 9
   forks: 0
-  lastCommit: '2026-11-05T23:16:06Z'
+  lastCommit: '2026-11-07T01:52:59Z'
 latestRelease:
-  tag: v0.2.1
-  name: v0.2.1 — mid-fight crash fix (New 3DS only)
-  publishedAt: '2026-11-05T23:16:21Z'
-  url: 'https://github.com/yaboimanguy-a11y/mvc2-3ds/releases/tag/v0.2.1'
+  tag: v1.0.1
+  name: MvC2 3DS v1.0.1 (bugfix)
+  publishedAt: '2026-11-07T01:52:59Z'
+  url: 'https://github.com/yaboimanguy-a11y/mvc2-3ds/releases/tag/v1.0.1'
 activity:
-  lastSynchronized: '2026-11-06T00:33:31.672Z'
+  lastSynchronized: '2026-11-25T12:56:35.195Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"e0e434057bdef651a80f083e40c07dd2de6be3e8687a86e95363a95ca586e095"
+    releasesEtag: W/"ef31b3093953ae9c30f991c173062b35e1313376b96ae37d412cf95fc8df8120"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -49,5 +52,4 @@ relationships:
   forkOf: g-guthrie/mvc2-ps2-decomp
   source: g-guthrie/mvc2-ps2-decomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

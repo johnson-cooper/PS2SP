@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T12:21:09.614Z'
+  lastSynchronized: '2026-11-25T12:55:39.162Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8a8f96acbf5136c179f81080772d68e956d9daebe0533b101cce6563adde6160"
-    releasesEtag: '"a265e13ba9964cb5149e04ac0bdf1bf82b2b42e69b35395c6e21fd78ae77d913"'
+    repoEtag: W/"c35347b3ba5c395829ad5580048bb8d11fbde8ffe8e3f38c17f56dfaa41ff8f9"
+    releasesEtag: '"952d112940193fc284a4a141c569cf911c7e67981f382acfe4f6132ffdf8939d"'
 discovery:
   method: 'fork-network:literalynn/BurnoutDominatorReversed'
   confidence: 95

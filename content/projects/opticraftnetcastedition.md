@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 2
+  stars: 3
   forks: 0
   lastCommit: '2026-11-02T16:24:47Z'
 latestRelease:
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/ballslober12/OptiCraftNetcastEdition/releases/tag/1.8'
 activity:
   lastChecked: '2026-11-01T19:54:13.519Z'
-  lastSynchronized: '2026-11-05T12:22:15.897Z'
+  lastSynchronized: '2026-11-25T12:56:59.995Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"78e7f090f9523356d4aa8a75262e50429da6353ca1557885f5462c4ce9706ec4"
-    releasesEtag: W/"91b4295e35c82c347c903eaf7fa780f12009cb23c8bdc74031ee48f29e0281b4"
+    repoEtag: W/"45144fff5b65f65916e9cac57c582874f843805b17d8e4a69a7eb270a9efa8c0"
+    releasesEtag: W/"575d9c1df6cc95132c80490f65647a9c5832f5bbde184bcf00e16aa04c065b7d"
 discovery:
   method: 'pending-promotion:incremental:ps2sdk in:name,description,readme'
   confidence: 75

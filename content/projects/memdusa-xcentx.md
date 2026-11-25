@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T12:21:53.613Z'
+  lastSynchronized: '2026-11-25T12:56:32.124Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"165216372f500021232d84c81f903b3246363b3554f73580cd0cd586c6b0e082"
-    releasesEtag: '"a265e13ba9964cb5149e04ac0bdf1bf82b2b42e69b35395c6e21fd78ae77d913"'
+    repoEtag: W/"dd93fbf3bb6d4d1358d6678f86dc7a07b7a4196a15bcf3e6f29680548283dab8"
+    releasesEtag: '"952d112940193fc284a4a141c569cf911c7e67981f382acfe4f6132ffdf8939d"'
 discovery:
   method: 'fork-network:PSRewired/Memdusa'
   confidence: 95

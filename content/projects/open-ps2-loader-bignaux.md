@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2023-03-01T09:11:03Z'
   url: 'https://github.com/bignaux/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-05T12:22:01.730Z'
+  lastSynchronized: '2026-11-25T12:56:41.242Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"dedaccf85a15b991d82c42e2139b8e5fd3f141966530548e426b012d167df20a"
-    releasesEtag: W/"d60a6163c9905b8f70fa2dd9c8bc57d9d8dfb8bf90174d8f2ae591e3301f8416"
+    repoEtag: W/"47d69c2c60cf07667107ee76f1e18acb05b1e1e20b0114734c24a589ba25f048"
+    releasesEtag: W/"60a555d065a8928ddfc487405acf6739285b49e94239dd3957cc57c338ed7b26"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

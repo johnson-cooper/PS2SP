@@ -20,7 +20,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 4
+  stars: 5
   forks: 0
   lastCommit: '2026-08-04T18:46:55Z'
 latestRelease:
@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-08-04T18:46:16Z'
   url: 'https://github.com/PeanutNeko/pcsx2x6-imas/releases/tag/v0.2.20-imas'
 activity:
-  lastSynchronized: '2026-11-05T12:22:31.841Z'
+  lastSynchronized: '2026-11-25T12:57:20.877Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7971ff70d35be2299181528d936fdbf0d047ca908b33aa3a027298f1f9386b30"
-    releasesEtag: W/"928f61926855709672e8fe4223eb0f252060234921f37d01ce2af16d538a5381"
+    repoEtag: W/"7bea711f5e099b086e146d878d0ad00bff74ef7eeb671c713d2e3fbe6b8796f3"
+    releasesEtag: W/"af5ac558333fc1c90faa46c370e2524a56d11a144f19a12780b2ed5cddee1afd"
 discovery:
   method: 'fork-network:PS2Homebrew-arcade/pcsx2x6'
   confidence: 95

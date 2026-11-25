@@ -19,7 +19,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 2
+  stars: 4
   forks: 0
   lastCommit: '2026-10-19T12:18:25Z'
 latestRelease:
@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-19T12:18:25Z'
   url: 'https://github.com/damagedarchitect/batocera-pi5-ps2/releases/tag/v1.0.4'
 activity:
-  lastSynchronized: '2026-11-05T12:21:08.546Z'
+  lastSynchronized: '2026-11-25T12:55:37.825Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2cb3f0ec22826c5c95dc8874dee0dd4d278cfdb99987bafd5655eae181c8477f"
-    releasesEtag: W/"151e52ea5ba97543c63be0e7f3b971d466252c8f5544a1a3ee069ae417da7a06"
+    repoEtag: W/"5c02d7038f88040bc9c888724e64e73b010df480ee35c83bd610e2008323225b"
+    releasesEtag: W/"33c3419ea4ffa9947766852ced00510e281f8b6eea35b4e387289cd8b989c22d"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-05T10:30:46Z'
+  lastCommit: '2026-11-23T03:48:05Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T12:23:28.329Z'
+  lastSynchronized: '2026-11-25T12:58:30.269Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"64343744b6f48bcfd4009b69af51eb7561789a954cf588488a7a1778797b0c6d"
-    releasesEtag: '"a265e13ba9964cb5149e04ac0bdf1bf82b2b42e69b35395c6e21fd78ae77d913"'
+    repoEtag: W/"b84f7f51656d4ca1a494970b0fbd361c93ee77fd0c677ff2bd6bf268b4951c0f"
+    releasesEtag: '"952d112940193fc284a4a141c569cf911c7e67981f382acfe4f6132ffdf8939d"'
 discovery:
   method: 'fork-network:OpenRAC/rac-deadlocked-decomp'
   confidence: 100

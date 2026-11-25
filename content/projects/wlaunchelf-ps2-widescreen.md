@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T12:23:43.888Z'
+  lastSynchronized: '2026-11-25T12:58:49.379Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0e2b8e29d119e64a30cf441a71860c1c82b4c619aff503d1094ee41009303c6f"
-    releasesEtag: '"a265e13ba9964cb5149e04ac0bdf1bf82b2b42e69b35395c6e21fd78ae77d913"'
+    repoEtag: W/"e31776da6e2fb972ff1851969d7f31e8dc06acb97a7e091f1a04e909776d8820"
+    releasesEtag: '"952d112940193fc284a4a141c569cf911c7e67981f382acfe4f6132ffdf8939d"'
 discovery:
   method: 'fork-network:sahlberg/wLaunchELF'
   confidence: 100

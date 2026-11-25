@@ -21,7 +21,7 @@ source:
   repository: hkmodd/RESWIII-PS2recomp
   repositoryId: '1192190925'
 repository:
-  archived: false
+  archived: true
   defaultBranch: main
   stars: 0
   forks: 0
@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T12:23:30.834Z'
+  lastSynchronized: '2026-11-25T12:58:32.973Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c13925c8a763f28397fffa12efded2875c7fd0bf8a6f76046af22d18942d6955"
-    releasesEtag: '"a265e13ba9964cb5149e04ac0bdf1bf82b2b42e69b35395c6e21fd78ae77d913"'
+    repoEtag: W/"301e447fc33c843c7db0993dd290d84cfd8abc007d3222041d87ccdaf982a411"
+    releasesEtag: '"952d112940193fc284a4a141c569cf911c7e67981f382acfe4f6132ffdf8939d"'
 discovery:
   method: 'fork-network:ran-j/PS2Recomp'
   confidence: 100

@@ -18,8 +18,8 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 130
-  forks: 21
+  stars: 134
+  forks: 24
   lastCommit: '2026-11-01T21:57:20Z'
 latestRelease:
   tag: v2.0.9.2
@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-20T15:04:47Z'
   url: 'https://github.com/XboxEmulationHub/XBSX2/releases/tag/v2.0.9.2'
 activity:
-  lastSynchronized: '2026-11-05T12:23:46.497Z'
+  lastSynchronized: '2026-11-25T12:58:52.802Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7c4810709909660283627bcb263231179fed8ee9ccbade49debbaf97cef9af76"
-    releasesEtag: W/"40e560ad8e4ee5188835d0cc71b486bbf69e5d527819ff8430aacfd9fdb513c4"
+    repoEtag: W/"b0774a435b859b16f7f907985c3759646e26309ffb44e8a8326624d58927d62b"
+    releasesEtag: W/"ecc0ac8d228d23b9970c1cbae975e9e616b9f092fd0372c9dff68b011bee8098"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

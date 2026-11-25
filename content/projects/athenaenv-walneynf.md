@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T12:21:07.194Z'
+  lastSynchronized: '2026-11-25T12:55:36.446Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f395d671eb3613d469101b4e8b3f063b102c95bd81b921dfefd46be5b5d60cbb"
-    releasesEtag: '"a265e13ba9964cb5149e04ac0bdf1bf82b2b42e69b35395c6e21fd78ae77d913"'
+    repoEtag: W/"b714b8c2cd5253f4d507bd87748e8db9fb4647fce89769630e330ced79e0e5dc"
+    releasesEtag: '"952d112940193fc284a4a141c569cf911c7e67981f382acfe4f6132ffdf8939d"'
 discovery:
   method: 'fork-network:DanielSant0s/AthenaEnv'
   confidence: 100

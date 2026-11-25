@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-05T12:23:26.864Z'
+  lastSynchronized: '2026-11-25T12:58:27.495Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"47a57ce1c1f274be2b189b5b8e0131f13a900d19bcaef2f0db5e154c3c0b3ac0"
-    releasesEtag: '"a265e13ba9964cb5149e04ac0bdf1bf82b2b42e69b35395c6e21fd78ae77d913"'
+    repoEtag: W/"092428bc6c8b97bb99ecdc4cde518d7e4783ae983559a802ea8257c449529ea3"
+    releasesEtag: '"952d112940193fc284a4a141c569cf911c7e67981f382acfe4f6132ffdf8939d"'
 discovery:
   method: 'fork-network:libretro/quake2-for-ps2'
   confidence: 100

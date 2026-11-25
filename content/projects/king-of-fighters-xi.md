@@ -15,7 +15,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: GPL-2.0
 homepage: null
 source:
   provider: github
@@ -24,19 +24,23 @@ source:
   url: 'https://github.com/omegakatana92/King-of-Fighters-XI'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
+  defaultBranch: main
+  stars: 4
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-05T16:31:43Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.0.0
+  name: The King of Fighters XI release v1.0.0
+  publishedAt: '2026-11-05T16:31:44Z'
+  url: 'https://github.com/omegakatana92/King-of-Fighters-XI/releases/tag/v1.0.0'
 activity:
   lastChecked: '2026-11-05T18:58:40.172Z'
+  lastSynchronized: '2026-11-25T12:56:28.087Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5945971e7480e116f4561f25066ce3ef5c7d670f7816d6af0c981e6aa920718a"
+    releasesEtag: W/"e6489051f74115a2aa2c36c69aeb2831234d62acc5218fbaf294bb20e73054c8"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
@@ -49,5 +53,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

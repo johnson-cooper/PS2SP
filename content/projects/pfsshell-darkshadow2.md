@@ -33,12 +33,12 @@ latestRelease:
   publishedAt: '2022-08-04T05:59:16Z'
   url: 'https://github.com/Darkshadow2/pfsshell/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-05T12:22:33.948Z'
+  lastSynchronized: '2026-11-25T12:57:23.646Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e3ba4c4aacad043e8cd2cb888b30a271999b49893958c748c35b229aec75c80b"
-    releasesEtag: W/"ed650024b4a1de507ba36cd2e23b32b4d6e87e93f45b5e11a1a0818a7c4bfac3"
+    repoEtag: W/"a53de8baf449f0439c72c30f7951a618296d9200abf124e6d2ae6d68613fe1a5"
+    releasesEtag: W/"7d9bc41ef0da8e182168d1da0f77db19d110cb3dcb554c327178c28d4cbe1380"
 discovery:
   method: 'fork-network:ps2homebrew/pfsshell'
   confidence: 95

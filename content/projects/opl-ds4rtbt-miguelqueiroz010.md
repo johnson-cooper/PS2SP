@@ -37,12 +37,12 @@ latestRelease:
   publishedAt: '2026-10-21T23:06:24Z'
   url: 'https://github.com/MiguelQueiroz010/OPL-DS4RTBT/releases/tag/rt-2.8.0'
 activity:
-  lastSynchronized: '2026-11-05T12:22:13.461Z'
+  lastSynchronized: '2026-11-25T12:56:57.425Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"315505d333962b9e09da01530eb14a413ccc9982c55783169df88f0a5a27109a"
-    releasesEtag: W/"98783c07bc1a11a179b27ab5f63f8a9a47fc00d742e2b01186c6964e10137893"
+    repoEtag: W/"3e4e1610f925f24a790c9f79fa0c6abcc799f648886832db3632f551e1fa5898"
+    releasesEtag: W/"f9dc2bd972031efcdf7e1a31d327e6be7e36a611abeea2ecef4c0a42d162deb9"
 discovery:
   method: 'fork-network:rodrigoGalvanDev/OPL-DualSense-BT'
   confidence: 100

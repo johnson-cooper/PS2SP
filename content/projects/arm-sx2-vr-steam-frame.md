@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/SPD13/arm-sx2-vr-steam-frame/releases/tag/v0.1.0'
 activity:
   lastChecked: '2026-10-17T05:53:23.162Z'
-  lastSynchronized: '2026-11-05T12:21:03.062Z'
+  lastSynchronized: '2026-11-25T12:55:32.014Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f61a81ae5017b72b10a79372ef32982d50e950a18d6c608e49b0b1fd17b8523b"
-    releasesEtag: W/"c00d56df84522967af52c7aff0a00cf07227c04dae168fc3026d509ccc1f98cb"
+    repoEtag: W/"46d9c6eac439015540c6c89c8465872fc8c087d62aa4aea05ab8f1777c009faa"
+    releasesEtag: W/"9aa711af04fac5fe2b87dd16b5f9ef1f240d439b4d282618412727c1b93e15ab"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
