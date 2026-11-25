@@ -1,0 +1,16 @@
+{
+  "repository": "dead-game-entrepreneurs/rei-nation",
+  "repositoryId": "1470964527",
+  "url": "https://github.com/dead-game-entrepreneurs/rei-nation",
+  "description": "Go revival server for EA Nation online services on PlayStation 2",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:\"PlayStation 2\" in:name,description,readme",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-25T01:05:51.309Z",
+  "checkedAt": "2026-11-25T01:05:51.309Z"
+}
