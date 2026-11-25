@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-10-19T10:31:44Z'
   url: 'https://github.com/Darksideno1/PS2-Game-Catalog/releases/tag/v0.1.0-beta'
 activity:
-  lastSynchronized: '2026-11-21T02:16:08.753Z'
+  lastSynchronized: '2026-11-25T02:30:53.327Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8b571bdb957ca671eef269f4166e7fd9f437129cc247e7c06526ff17a97d4467"
-    releasesEtag: W/"59b0d7b49945fbac7cf3c6490a97250c8eae85d0361fef3c961b62ae9e87452a"
+    repoEtag: W/"dd36a6929715ca9ea4bc506411d8a21ca928e85b2c401f216b2e43199d159523"
+    releasesEtag: W/"c1a40cf03b1479f407efea5e30b7e1d8906d2285f12105cc3380c84c114359da"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

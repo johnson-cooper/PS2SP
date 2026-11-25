@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T16:24:35.870Z'
+  lastSynchronized: '2026-11-25T02:29:07.317Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c9ed2bb21774a80d4e3e56d402c4643f39ca33fe3307c0967460dfd3905a7f9a"
+    releasesEtag: '"ad1a1ec552bf400ecf3a617d2c9aa1202b8cfcc5dd53e2a67ba715368e1da051"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: SONICMAN69/Bebop-PS2-English
   source: SONICMAN69/Bebop-PS2-English
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

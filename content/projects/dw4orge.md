@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-10-15T16:30:59Z'
   url: 'https://github.com/crashbashash/DW4orge/releases/tag/v0.9.0'
 activity:
-  lastSynchronized: '2026-11-21T02:14:50.449Z'
+  lastSynchronized: '2026-11-25T02:29:20.624Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"40d9f428143ea9c450ce921d189e2d4af9b88c262206ce867574808a19655156"
-    releasesEtag: W/"025140dfa6dea39dac21c973e16c235b0840a38409189f06ec9b64ae402a2521"
+    repoEtag: W/"feee8bcdace3f7f5670f94a6280a2389f4f3293e4b7f72b5e93e186891a3af49"
+    releasesEtag: W/"73a1f071384df16b6594c8e6f0cd942727bc6f996146509d5502ae73e10b6fc1"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

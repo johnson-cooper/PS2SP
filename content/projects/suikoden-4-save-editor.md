@@ -24,7 +24,7 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-19T18:12:24Z'
+  lastCommit: '2026-11-23T01:10:40Z'
 latestRelease:
   tag: v1.6.5
   name: v1.6.5 — Verification pass + slot-attribute fix
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/TheSparda/Suikoden-4-Editor/releases/tag/v1.6.5'
 activity:
   lastChecked: '2026-11-15T23:11:00.640Z'
-  lastSynchronized: '2026-11-21T02:16:43.048Z'
+  lastSynchronized: '2026-11-25T02:31:31.003Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8707ff47b2dee06e1d701ad852cfb0c2b0a8aeac0d8d88987eacea9700ca35f3"
-    releasesEtag: W/"bc39e824abb8214774ed9c3a8bed8c4e727ca3bf41cf9b84aa0fe53a198668ef"
+    repoEtag: W/"a06c9409cd6e579a80097e7a71eef268f70fe526a0a17a67e7410858eb2c5aba"
+    releasesEtag: W/"d1e0e6d3802c81a89cd123e82a1f20384f0d5e717850e9235266b120be9e8306"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

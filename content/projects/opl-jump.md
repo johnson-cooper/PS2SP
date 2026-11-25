@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-11-01T05:36:24Z'
   url: 'https://github.com/juankyt505/OPL-JUMP/releases/tag/v1.0.2'
 activity:
-  lastSynchronized: '2026-11-21T02:15:34.167Z'
+  lastSynchronized: '2026-11-25T02:30:12.733Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2421520ab941701d04c63af8e00077091e1c30297d32e670af771100bfcbf439"
-    releasesEtag: W/"ecfe5769f520401f2d6e4685a609515065125f42be822b275c75c9d7d4004a29"
+    repoEtag: W/"2bdbc38ab77d0486724cd02e5f01b34698ce152e3a8139d950af5d9bca36707e"
+    releasesEtag: W/"bbb68441d005c08aa7d2e2bf1a484c9d3fda5b570373fb171bb071f3b74e79ba"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

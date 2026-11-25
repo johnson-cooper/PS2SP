@@ -19,7 +19,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
   lastCommit: '2026-11-21T15:19:44Z'
 latestRelease:
@@ -28,9 +28,12 @@ latestRelease:
   publishedAt: '2026-11-21T15:19:45Z'
   url: 'https://github.com/Telvin7632/240pTestSuite-PS2/releases/tag/v3.00'
 activity:
-  lastSynchronized: '2026-11-21T16:24:35.870Z'
+  lastSynchronized: '2026-11-25T02:28:56.301Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"24dfe603e720044c347c903ef27352d91f5503edbb887d4c69ec37889c4f9c26"
+    releasesEtag: W/"38247c9ffa789e2e7fde34078f776a607efeeb3693915e85c4dfc5c8ea22b96d"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
@@ -45,5 +48,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

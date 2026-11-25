@@ -20,18 +20,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 6
+  stars: 9
   forks: 0
-  lastCommit: '2026-11-23T23:53:01Z'
+  lastCommit: '2026-11-24T14:00:33Z'
 latestRelease:
-  tag: Release
-  name: HyperToken 1.0
-  publishedAt: '2026-11-23T17:13:35Z'
-  url: 'https://github.com/HammMannCH/HyperToken/releases/tag/Release'
+  tag: Optimisation
+  name: HyperToken 1.1
+  publishedAt: '2026-11-24T13:58:37Z'
+  url: 'https://github.com/HammMannCH/HyperToken/releases/tag/Optimisation'
 activity:
-  lastSynchronized: '2026-11-24T01:20:59.707Z'
+  lastSynchronized: '2026-11-25T02:29:29.596Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"40c0b9dc9d448fc39b9c21868cc1965f8c8db3ac914496802e49c9be6f093123"
+    releasesEtag: W/"28e3acac6200d738e698ef6b8b3ed77d8f8378b2e7526ff5e91eb380f54af8b5"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

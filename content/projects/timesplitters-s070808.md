@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T02:16:46.030Z'
+  lastSynchronized: '2026-11-25T02:31:34.616Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"091b05edb00b8f536e1490ccff647cfc33999a538419d782a5cde86c1bf0a944"
-    releasesEtag: '"26a98d4f3a17f260a722119c5c8a029570aecd32e9919635f4f0b4f4eb57ee8d"'
+    repoEtag: W/"c8643d7176b90bb16928899da1045ef9ac57e90d374a22cee3fa4e23fe8b3bfe"
+    releasesEtag: '"ad1a1ec552bf400ecf3a617d2c9aa1202b8cfcc5dd53e2a67ba715368e1da051"'
 discovery:
   method: 'fork-network:GTTeancum/Timesplitters'
   confidence: 100

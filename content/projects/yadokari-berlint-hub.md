@@ -20,7 +20,7 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-02T11:51:11Z'
+  lastCommit: '2026-11-21T12:57:48Z'
 latestRelease:
   tag: switch-nightly-41245700196-1
   name: Switch Nightly Build (NRO) - run 41245700196
@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/berlint-hub/Yadokari/releases/tag/switch-nightly-41245700196-1
 activity:
-  lastSynchronized: '2026-11-21T02:16:54.870Z'
+  lastSynchronized: '2026-11-25T02:31:45.596Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5cb7ec808e5ff004b55da195b01db99e75eb913afd7c3e2f7a0b1c91f666c75f"
-    releasesEtag: W/"8989826f316fa58248f6930f4f8685b782c1485613f5c844f35c85388d3e4a54"
+    repoEtag: W/"6e63dec58bcca1c62ed1e2203aeaf88496f7bcdbf7b2b02df499e27ae09930df"
+    releasesEtag: W/"b8bcae31c8ebe0bc5a050f199c9e1e379ebfe24e04d7a70fdcfd18dfcfe93f54"
 discovery:
   method: 'fork-network:PalindromicBreadLoaf/ARMSX2-NX'
   confidence: 95

@@ -30,12 +30,12 @@ latestRelease:
   url: 'https://github.com/ThecangShengdance/Max2Ps2/releases/tag/v1.0.1'
 activity:
   lastChecked: '2026-11-06T07:24:38.594Z'
-  lastSynchronized: '2026-11-21T02:15:09.527Z'
+  lastSynchronized: '2026-11-25T02:29:43.126Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a6b942d52a97e3f84286894fc1640874000a77ad1e32b60ccac8e78fd3b24c99"
-    releasesEtag: W/"5c00a47e5ad6a825368dd115696a850e57cbc19ac7afb5360253d6044f5fcc49"
+    repoEtag: W/"2e76086111cd542ba8ec8afe55a54d187451c4818656e0affdef2e000f029530"
+    releasesEtag: W/"77d33d8a462c1e32fe7b734d628e7266dd8e21ec5e9e45a6c7eae40c386671b8"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

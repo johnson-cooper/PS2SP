@@ -23,22 +23,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 57
-  forks: 2
-  lastCommit: '2026-11-21T01:49:45Z'
+  stars: 61
+  forks: 3
+  lastCommit: '2026-11-22T15:17:38Z'
 latestRelease:
-  tag: v1.0.9
-  name: 'v1.0.9: EXP/gold multiplier, camera speed, update window'
-  publishedAt: '2026-11-21T01:47:46Z'
-  url: 'https://github.com/GranasSabre/Grandia3-OpenSkies/releases/tag/v1.0.9'
+  tag: v1.0.10
+  name: 'v1.0.10: new settings menu'
+  publishedAt: '2026-11-22T01:26:28Z'
+  url: 'https://github.com/GranasSabre/Grandia3-OpenSkies/releases/tag/v1.0.10'
 activity:
   lastChecked: '2026-10-26T14:34:04.716Z'
-  lastSynchronized: '2026-11-21T02:14:55.907Z'
+  lastSynchronized: '2026-11-25T02:29:26.679Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0601530cb325494f623449cb191ea923a7158906643401db2bc16002b3944d0f"
-    releasesEtag: W/"e3cb0660e15528cedd5a922b27e9c68db5dff0989c022c5232ad00a49e21d788"
+    repoEtag: W/"d7d30a3a3dbc3f1fdc57368f3833277b84a52687114c32ac27cecc5d207e2b7f"
+    releasesEtag: W/"650830178b2a20a29a8d07f5d5c53ec0e5029b9284c76310f8766e147de3a87a"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

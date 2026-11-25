@@ -23,9 +23,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 54
+  stars: 56
   forks: 1
-  lastCommit: '2026-11-19T12:14:38Z'
+  lastCommit: '2026-11-24T17:35:42Z'
 latestRelease:
   tag: v2.9.5
   name: Shadow of Rome Recompiled 2.9.5
@@ -33,12 +33,12 @@ latestRelease:
   url: >-
     https://github.com/Korvonordico/shadow-of-rome-recompiled/releases/tag/v2.9.5
 activity:
-  lastSynchronized: '2026-11-21T02:16:40.618Z'
+  lastSynchronized: '2026-11-25T02:31:28.821Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"96901996ea985eaaac31ea35abc64709165ffa66a2fb80416c8f19f64fcb3474"
-    releasesEtag: W/"7301e9f65e73362240520d8a9314b0ef79cff9ee0484ccc16cd13524f122abed"
+    repoEtag: W/"164aff2131231b4956fd2ec78063f65721c56062febdfad9868466a0d5e4da80"
+    releasesEtag: W/"c56c24b1e6efdf271db560f1a40e20b4588858e74e0c8b4556ac21c49c48032e"
 discovery:
   method: pending-recheck
   confidence: 100

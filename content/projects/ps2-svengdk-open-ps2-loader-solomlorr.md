@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T02:16:11.588Z'
+  lastSynchronized: '2026-11-25T02:30:56.563Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"30700ec07f29712e59deb6b6ef1646a9b4659d7925018cbe1f3566fa7c4f92cc"
-    releasesEtag: '"26a98d4f3a17f260a722119c5c8a029570aecd32e9919635f4f0b4f4eb57ee8d"'
+    repoEtag: W/"cd8af3fc52c87a8f53c84891913fe0ed08cfa249bffeca798f2f455d78d0e4a6"
+    releasesEtag: '"ad1a1ec552bf400ecf3a617d2c9aa1202b8cfcc5dd53e2a67ba715368e1da051"'
 discovery:
   method: 'fork-network:SvenGDK/Open-PS2-Loader'
   confidence: 100
