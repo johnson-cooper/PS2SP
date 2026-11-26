@@ -29,16 +29,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-16T01:11:58Z'
+  lastCommit: '2026-11-19T05:25:14Z'
 latestRelease:
   tag: latest
-  name: v2.0.0-nightly.208-26173f6-yaopl
-  publishedAt: '2026-11-16T01:11:59Z'
+  name: v2.0.0-nightly.313-2d74b8e-yaopl
+  publishedAt: '2026-11-19T05:25:15Z'
   url: 'https://github.com/viktortestmetrstandart/yaopl/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-16T03:08:35.121Z'
+  lastSynchronized: '2026-11-26T05:07:09.915Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"b94d5d0b5b1fe13c99b3de3773ec3afa526a9884589150a7be5255fd62bc7dec"
+    releasesEtag: W/"612bc1b51c29257a5cc60266026424ebabde022c2a5edbef8c8b63be80e418fa"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -58,5 +61,4 @@ relationships:
   forkOf: yaopl/yaopl
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

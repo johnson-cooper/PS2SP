@@ -23,22 +23,22 @@ source:
   repositoryId: '553831209'
 repository:
   archived: false
-  defaultBranch: hotfix/default-game-on-import
+  defaultBranch: license-compliance
   stars: 0
   forks: 0
-  lastCommit: '2026-10-04T19:16:25Z'
+  lastCommit: '2026-11-25T18:55:07Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-31T05:41:22.601Z'
+  lastSynchronized: '2026-11-26T05:04:51.642Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0bb4ca9c4e1932b2969914b1655954764f0d02f23a90f50243fe551552fadc6f"
-    releasesEtag: '"b2698f3bc425a78276de1d8fc6bd7bb2255a34bae88cfdf311a1da54908ed37a"'
+    repoEtag: W/"ef2b9b54808bd6c9bd671017282582ff7fe2980e058541494d29f257cf2b548a"
+    releasesEtag: '"7807fc945c82a55a373917423d07bcc65bba2c22ba0a38e4906861cea414cdb8"'
 discovery:
   method: 'fork-network:igorseabra4/IndustrialPark'
   confidence: 100

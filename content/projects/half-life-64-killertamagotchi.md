@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-25T20:12:12.988Z'
+  lastSynchronized: '2026-11-26T05:04:48.547Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c4e188830c44d4b8ef133511bf4df32cc59ecfc5cc0d15d3f32b0ccdee9f5701"
+    releasesEtag: '"7807fc945c82a55a373917423d07bcc65bba2c22ba0a38e4906861cea414cdb8"'
 discovery:
   method: 'fork-network:ToxyCola/Half-Life-Nintendo-64-Port'
   confidence: 95
@@ -49,5 +52,4 @@ relationships:
   forkOf: ToxyCola/Half-Life-Nintendo-64-Port
   source: ToxyCola/Half-Life-Nintendo-64-Port
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

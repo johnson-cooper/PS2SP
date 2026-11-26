@@ -25,7 +25,7 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-26T04:09:34Z'
+  lastCommit: '2026-11-22T00:53:59Z'
 latestRelease:
   tag: v0.12.0
   name: Function_2_C_Decompiler 0.12.0
@@ -34,12 +34,12 @@ latestRelease:
     https://github.com/FlyPhantomFly/Function_2_C_Decompiler/releases/tag/v0.12.0
 activity:
   lastChecked: '2026-10-26T07:00:06.885Z'
-  lastSynchronized: '2026-10-31T05:41:18.469Z'
+  lastSynchronized: '2026-11-26T05:04:43.498Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6feca4d99de309886101b946e2855d5acbdb462209b97c5f0fb47ab471563038"
-    releasesEtag: W/"9eab6a2270994414e5ebce5de9ef7085175705271732c51644068b8ecbf7cbef"
+    repoEtag: W/"a5ab0990cc980f2eb30dd5703e8e248e17f7b20f7153a4d618b599085ef77656"
+    releasesEtag: W/"4a6e3aa16d366b5915b6c024b14d2ae66534665cbe9f9774815eebec7da02f75"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

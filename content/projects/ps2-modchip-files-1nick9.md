@@ -18,21 +18,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 2
   forks: 0
-  lastCommit: '2025-09-22T14:26:18Z'
+  lastCommit: '2026-10-31T12:47:10Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-31T05:42:16.273Z'
+  lastSynchronized: '2026-11-26T05:06:07.778Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e5617a88624524e74c4c6392b2792279f802404c8bf5ec31c860b2787549c3cd"
-    releasesEtag: '"b2698f3bc425a78276de1d8fc6bd7bb2255a34bae88cfdf311a1da54908ed37a"'
+    repoEtag: W/"042cc485c1f0d75f71c164b801f6adab4e83c578f60cf2fd0b181a15ffa808d3"
+    releasesEtag: '"7807fc945c82a55a373917423d07bcc65bba2c22ba0a38e4906861cea414cdb8"'
 discovery:
   method: 'fork-network:m4x10187/ps2-modchip-files'
   confidence: 100

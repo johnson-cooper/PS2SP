@@ -20,19 +20,23 @@ source:
   url: 'https://github.com/ps2max32/quake1'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: ps2
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-22T13:50:22Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.0.0
+  name: v1.0.0
+  publishedAt: '2026-11-22T13:51:20Z'
+  url: 'https://github.com/ps2max32/quake1/releases/tag/v1.0.0'
 activity:
   lastChecked: '2026-11-22T18:03:17.818Z'
+  lastSynchronized: '2026-11-26T05:06:43.196Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"4fa454334738110d1d289c818afab58de4c3832d7e0c6a8d63efd6ea859953be"
+    releasesEtag: W/"e06cbe0e86f3408b37f763b62574eac83fa608973bae55adedc3d403a2bc1ccc"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 70
@@ -45,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

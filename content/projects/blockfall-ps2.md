@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-22T00:35:07Z'
   url: 'https://github.com/calcario-math/BLOCKFALL-PS2/releases/tag/Lan%C3%A7amentos'
 activity:
-  lastSynchronized: '2026-10-31T05:41:06.451Z'
+  lastSynchronized: '2026-11-26T05:04:27.840Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"45ba5fed40744533de5210160fb863a947d50855d8b9dfb5e92d486e81827f0c"
-    releasesEtag: W/"afb464fa39892fcfd87fea439f86218904303f72d600ad8ba9ec5dd2b2e8737e"
+    repoEtag: W/"fc76f3d6ea054cee4cc39f27d8f8d57c3f71b84c6e8b5f74e718d2a4ef7d2e0d"
+    releasesEtag: W/"45a080603f59c78fc89f1aa235999db1ac32ad1a1e2866fccd851358981dd04c"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

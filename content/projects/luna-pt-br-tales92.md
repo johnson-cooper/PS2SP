@@ -20,19 +20,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-26T22:34:39Z'
+  lastCommit: '2026-11-23T16:53:16Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v2026.11.8001
+  name: LUNA PT-BR v2026.11.8001
+  publishedAt: '2026-11-23T16:53:20Z'
+  url: 'https://github.com/tales92/LUNA-PT-BR/releases/tag/v2026.11.8001'
 activity:
-  lastSynchronized: '2026-10-31T05:41:33.767Z'
+  lastSynchronized: '2026-11-26T05:05:07.059Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7008494a501904b9153fc2173cbc4ffae64b9e7236b6a5418f39dd6d2a11c751"
-    releasesEtag: '"b2698f3bc425a78276de1d8fc6bd7bb2255a34bae88cfdf311a1da54908ed37a"'
+    repoEtag: W/"14bc87c7e3529b7436c7785b3d50cfb9e8cccbdb6aabe8ef025ce07d15966b02"
+    releasesEtag: W/"6e3a96e813185a9ca1adf4307d18ca460d6aeab497b4be1bb2dbdcdfaa6dc37a"
 discovery:
   method: 'incremental:"PS2 homebrew" in:name,description,readme'
   confidence: 100

@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-01T15:27:55.749Z'
+  lastSynchronized: '2026-11-26T05:06:13.493Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"abd82d19ed8c38455c01bcf115f7b09f7a18246330947e07eea306a4a6fe57a2"
+    releasesEtag: '"7807fc945c82a55a373917423d07bcc65bba2c22ba0a38e4906861cea414cdb8"'
 discovery:
   method: 'fork-network:Quincunx33/PS2-WebXperience'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: Quincunx33/PS2-WebXperience
   source: Quincunx33/PS2-WebXperience
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

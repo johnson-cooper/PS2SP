@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2024-09-16T18:45:59Z'
   url: 'https://github.com/AKuHAK/ROMIMG/releases/tag/Latest'
 activity:
-  lastSynchronized: '2026-10-31T05:42:45.407Z'
+  lastSynchronized: '2026-11-26T05:06:47.145Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0fb561137b235f3035f7001f7d7f8438cc0564562d76d062707f1b45c9529585"
-    releasesEtag: W/"9fa0dbf93ab13113343bbfeb437defa5b47721f7b5b42e4593ce054b645a6ed7"
+    repoEtag: W/"ec8d2034834ae275ba6c17bfc72eae626367b88a14e81e46258860bd87016374"
+    releasesEtag: W/"e3a63e5cd7c81c592240ab77570c1fe337c63c58841e865175c833d7b3a5d03f"
 discovery:
   method: 'fork-network:israpps/ROMIMG'
   confidence: 95

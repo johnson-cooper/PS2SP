@@ -15,25 +15,25 @@ homepage: 'https://zenxyz0.github.io/PS2-Save-Tools-Beta/'
 source:
   provider: github
   repository: zenxyz0/PS2-Save-Tools-Beta
-  repositoryId: '1433271520'
+  repositoryId: '1468782722'
 repository:
   archived: false
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-25T14:21:12Z'
+  lastCommit: '2026-11-24T04:36:03Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: release-1
+  name: Build 1
+  publishedAt: '2026-11-24T04:36:03Z'
+  url: 'https://github.com/zenxyz0/PS2-Save-Tools-Beta/releases/tag/release-1'
 activity:
-  lastSynchronized: '2026-10-31T05:42:18.083Z'
+  lastSynchronized: '2026-11-26T05:06:10.426Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6fc870f1dea5dd174db991b89a2acedfa16374fb21d124fbd60a5a9c70dc22bc"
-    releasesEtag: '"b2698f3bc425a78276de1d8fc6bd7bb2255a34bae88cfdf311a1da54908ed37a"'
+    repoEtag: W/"128f8a57e2f32f7a6c7b604ff24040d41e2e13452dbb91a0a50771c6552f4ebd"
+    releasesEtag: W/"57c3a7f773903d781bd27322f42a6f8bd31a30f4ed52fe9c57e5df879ede0d53"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 95

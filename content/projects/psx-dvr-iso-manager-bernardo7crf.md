@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-20T10:30:42.731Z'
+  lastSynchronized: '2026-11-26T05:06:40.678Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"dff015f8dbe9c3c15af4cc086dbea546e2bc0708ab0e087b84ff7eb557abb258"
+    releasesEtag: '"7807fc945c82a55a373917423d07bcc65bba2c22ba0a38e4906861cea414cdb8"'
 discovery:
   method: 'fork-network:adamix95-lab/PSX_DVR_ISO_MANAGER'
   confidence: 95
@@ -49,5 +52,4 @@ relationships:
   forkOf: adamix95-lab/PSX_DVR_ISO_MANAGER
   source: adamix95-lab/PSX_DVR_ISO_MANAGER
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

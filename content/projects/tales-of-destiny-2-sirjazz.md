@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-26T13:26:55Z'
+  lastCommit: '2026-11-25T17:30:45Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-31T05:42:49.612Z'
+  lastSynchronized: '2026-11-26T05:06:54.487Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ae19e474e66b9837d092e4f01aca51df9585e9a4d25b503d42ecca18cdb6d66a"
-    releasesEtag: '"b2698f3bc425a78276de1d8fc6bd7bb2255a34bae88cfdf311a1da54908ed37a"'
+    repoEtag: W/"23d6f5658769d7d6298fb4d6fb6082f9b4d36a6b4a058079039b947954b44571"
+    releasesEtag: '"7807fc945c82a55a373917423d07bcc65bba2c22ba0a38e4906861cea414cdb8"'
 discovery:
   method: 'fork-network:Gandorfin/Tales-of-Destiny-2'
   confidence: 100

@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-07-12T12:54:29Z'
   url: 'https://github.com/jpolo1224/pcsx2/releases/tag/2.5.9'
 activity:
-  lastSynchronized: '2026-10-31T05:41:56.215Z'
+  lastSynchronized: '2026-11-26T05:05:40.804Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"584fbb1fd53f5c526b6483b72f81e58f1feeee11300b1a313d6758eac2835034"
-    releasesEtag: W/"477709e572e1db685e7e896badba9e2e7c976708b11f37aa52ca8bc680628fb2"
+    repoEtag: W/"47b3162fbf5dc20335716e23c29595c14664928957eb90267b1cbf6d14f10ce6"
+    releasesEtag: W/"c429c1e40ab2c5935090075cbfa34a9f23d78adf530d209cca53bc803f1b5d12"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 100

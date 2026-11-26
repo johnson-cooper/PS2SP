@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 84
+  stars: 85
   forks: 2
   lastCommit: '2026-04-12T23:03:27Z'
 latestRelease:
@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-04-12T16:45:22Z'
   url: 'https://github.com/alex-free/tonyhax/releases/tag/v1.6.3i'
 activity:
-  lastSynchronized: '2026-10-31T05:42:51.078Z'
+  lastSynchronized: '2026-11-26T05:06:56.205Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d5217b8e5350c5a6f9ae981a653c733dd3cd05526b4935c3d48856ff99266a9c"
-    releasesEtag: W/"6b15aed08335d35e2c7ef715c5d180818c799993ce58af9d50e734b204615e4c"
+    repoEtag: W/"0fbfe01b1188304c2feadbb95b183db546492f0343703903e412cccb88418e82"
+    releasesEtag: W/"0076aa07754414c6fbd026c39510d51db25a1b506f5d23a6c0cc53bc5fb53b9b"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

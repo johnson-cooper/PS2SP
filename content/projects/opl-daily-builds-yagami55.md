@@ -35,9 +35,12 @@ latestRelease:
   url: >-
     https://github.com/YAGAMI55/OPL-Daily-Builds/releases/tag/v1.2.0-PSXPB-1.0-6f6aacf
 activity:
-  lastSynchronized: '2026-11-21T08:46:04.198Z'
+  lastSynchronized: '2026-11-26T05:05:31.158Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2f317fc4dc60aca849edf5e99d72f156996338e33c0da2355dd6b00273d7217d"
+    releasesEtag: W/"406fbf336897b0f255fb5a886c46e92f265dee3759758ed31fbc1f1d3281160c"
 discovery:
   method: 'fork-network:Jay-Jay-OPL/OPL-Daily-Builds'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: Jay-Jay-OPL/OPL-Daily-Builds
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-11-18T22:20:13Z'
   url: 'https://github.com/bucanero/ps2-master-patcher/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-11-19T02:49:39.009Z'
+  lastSynchronized: '2026-11-26T05:06:07.210Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ddf67a13db4f21dd0bb352a3d2f4655d09d2803526d6fa4b97a30fa39805c4be"
+    releasesEtag: W/"44b9579936492640e9500d53b1aebb92053dd3a159ea58447a647ded2d8b055c"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -44,5 +47,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

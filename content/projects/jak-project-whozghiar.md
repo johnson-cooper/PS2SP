@@ -22,19 +22,19 @@ repository:
   defaultBranch: master-dev
   stars: 1
   forks: 0
-  lastCommit: '2026-10-28T17:04:24Z'
+  lastCommit: '2026-11-17T01:02:44Z'
 latestRelease:
   tag: v0.3.9-whozghiar.1
   name: v0.3.9-whozghiar.1
   publishedAt: '2026-10-22T02:00:27Z'
   url: 'https://github.com/whozghiar/jak-project/releases/tag/v0.3.9-whozghiar.1'
 activity:
-  lastSynchronized: '2026-10-31T05:41:26.988Z'
+  lastSynchronized: '2026-11-26T05:04:58.246Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a5eb02cd16f01b108b217410a4bb4ce7569370e9856438c31da5541352e764c9"
-    releasesEtag: W/"4d12920dfa811f8db8eb6dd0a607193f4a67fead4baeb2982bf011e824f8f88e"
+    repoEtag: W/"c7bbbde9bb4771260a505038b9677512de8af22976ecef132d01d3b147622cac"
+    releasesEtag: W/"819a50d5ea947f1e11bc8ab9d378519ece3d524ae130017f84f039c5ba481ff5"
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95

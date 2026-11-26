@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: '2021-06-25T09:22:35Z'
   url: 'https://github.com/shooter0106/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-09T07:12:30.852Z'
+  lastSynchronized: '2026-11-26T05:05:28.416Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ada61b7f894d59b86293264f3adb114c1a6d4124d8764529affeda4a7fe7a3e2"
+    releasesEtag: W/"ab7fadc82399615154999cc62da9adadd9f100d3a891bf8515d7654bf56c0992"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: ps2homebrew/Open-PS2-Loader
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -35,9 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-26T03:07:38.081Z'
+  lastSynchronized: '2026-11-26T05:04:45.841Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"664d445108ff9b043a45eb45b1f3b9163b57642a9a60b2aed4a7a94460b93ad3"
+    releasesEtag: '"7807fc945c82a55a373917423d07bcc65bba2c22ba0a38e4906861cea414cdb8"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -54,5 +57,4 @@ relationships:
   forkOf: God-Hand-Rearmed/God-Hand-Rearmed
   source: LasVola/godhand-recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

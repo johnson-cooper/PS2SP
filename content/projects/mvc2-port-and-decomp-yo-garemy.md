@@ -32,9 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T16:24:35.870Z'
+  lastSynchronized: '2026-11-26T05:05:10.949Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"06b5f78f39d5bb72f04cc91e23d7a2155b7f2e98f8b5d1f9a61517be83f88dd9"
+    releasesEtag: '"7807fc945c82a55a373917423d07bcc65bba2c22ba0a38e4906861cea414cdb8"'
 discovery:
   method: 'fork-network:g-guthrie/mvc2-port-and-decomp'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: g-guthrie/mvc2-port-and-decomp
   source: g-guthrie/mvc2-port-and-decomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

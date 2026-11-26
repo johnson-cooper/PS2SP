@@ -20,19 +20,19 @@ repository:
   defaultBranch: cps2_improvements
   stars: 0
   forks: 0
-  lastCommit: '2026-10-30T18:32:30Z'
+  lastCommit: '2026-11-10T03:18:33Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-31T05:41:39.600Z'
+  lastSynchronized: '2026-11-26T05:05:15.784Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8515de6a107a971e04bdfe475cfa89b0d4678704a17cfe5818eb8d0926c87389"
-    releasesEtag: '"b2698f3bc425a78276de1d8fc6bd7bb2255a34bae88cfdf311a1da54908ed37a"'
+    repoEtag: W/"aaf63a0e7515ad0e3cf5990dc9b83dd9bee080709ce92821ee1863eadda2a850"
+    releasesEtag: '"7807fc945c82a55a373917423d07bcc65bba2c22ba0a38e4906861cea414cdb8"'
 discovery:
   method: 'incremental:ps2sdk in:name,description,readme'
   confidence: 100

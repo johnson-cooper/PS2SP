@@ -20,19 +20,19 @@ repository:
   defaultBranch: main
   stars: 5
   forks: 0
-  lastCommit: '2026-10-21T22:17:21Z'
+  lastCommit: '2026-11-01T16:54:42Z'
 latestRelease:
   tag: latest
   name: Latest Build
   publishedAt: '2022-08-06T17:00:08Z'
   url: 'https://github.com/CookiePLMonster/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-31T05:41:59.419Z'
+  lastSynchronized: '2026-11-26T05:05:44.398Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"295f7a4ea3c636375818ed7dbe0741f204b376d9fbf8b1483a59013b99a2e194"
-    releasesEtag: W/"010a3770313611f7cde7fa9886435983408034123b717335a3a1e3c18ceaa9ac"
+    repoEtag: W/"9a5d8a718b7b042321321e1f1c57ce6e224a9f173744ab9b5dcb6f5de6a7d7bb"
+    releasesEtag: W/"d0279bd69fbc83d9aec79d419b7920f16c729632cc95c1f37d753069aa939a85"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95

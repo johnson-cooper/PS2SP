@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/ohabibo/chaindive-english-patch/releases/tag/v1.1'
 activity:
   lastChecked: '2026-10-08T02:16:36.120Z'
-  lastSynchronized: '2026-10-31T05:41:09.315Z'
+  lastSynchronized: '2026-11-26T05:04:31.346Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5c5961183a76662e1d963f00eb1948ae085bf75d62c05c9e5e60460e1e0aecce"
-    releasesEtag: W/"f95421f3c6a87f62d3a3d3243de5280484e1cf314be2d6190c4a7aff43d46f76"
+    repoEtag: W/"e3e79e2e2a8170b5f8b21b807f2c0589e59cd471a5cbf86d16abb1a6d5ba3755"
+    releasesEtag: W/"f7edb8e5ce3710a6e4dd160bc638cc750ea3ab0af7602d10bef179a944b6c6ab"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

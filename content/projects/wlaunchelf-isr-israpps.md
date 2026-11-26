@@ -26,7 +26,7 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 324
+  stars: 327
   forks: 17
   lastCommit: '2026-08-28T23:22:14Z'
 latestRelease:
@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2026-01-14T03:21:46Z'
   url: 'https://github.com/israpps/wLaunchELF_ISR/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-31T05:42:57.091Z'
+  lastSynchronized: '2026-11-26T05:07:02.920Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3c99b2cc4d1c871860e537880e8c7b47bc9b1f84eaee4f5938ed1d82a5b69538"
-    releasesEtag: W/"75b67cdfadad0d9a86f1dc719d9102631e80c5f5afe27e0c102fed31b390a3ef"
+    repoEtag: W/"515e3ca5766b40147a23b4074204ad873cc9b020672e919742a47aa900a6b4a4"
+    releasesEtag: W/"5473c2d9a646a72b7ef77b8cc83afe3e9d8d1dfaaeab597b79bd262d356c4d74"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

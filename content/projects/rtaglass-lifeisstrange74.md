@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-13T18:46:35.249Z'
+  lastSynchronized: '2026-11-26T05:06:47.897Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"be3dadd1b92b12ac5e71ba1214ff6024518769332032032883816473cf9ea6e8"
+    releasesEtag: '"7807fc945c82a55a373917423d07bcc65bba2c22ba0a38e4906861cea414cdb8"'
 discovery:
   method: 'fork-network:RTAGlass/RTAGlass'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: RTAGlass/RTAGlass
   source: RTAGlass/RTAGlass
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

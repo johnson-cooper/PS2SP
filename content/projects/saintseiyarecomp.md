@@ -11,8 +11,8 @@ tags:
   - auto-discovered
 features: []
 authors: []
-license: null
-homepage: null
+license: MIT
+homepage: 'https://sidequest-lab.dev/projetos/saint-seiya-port'
 source:
   provider: github
   repository: matpdev/SaintSeiyaRecomp
@@ -20,21 +20,21 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 7
-  forks: 0
-  lastCommit: '2026-10-31T01:56:57Z'
+  stars: 37
+  forks: 3
+  lastCommit: '2026-11-19T15:00:56Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.2.10
+  name: 'Saint Seiya: The Hades PC port v0.2.10'
+  publishedAt: '2026-11-19T15:01:03Z'
+  url: 'https://github.com/matpdev/SaintSeiyaRecomp/releases/tag/v0.2.10'
 activity:
-  lastSynchronized: '2026-10-31T05:42:46.390Z'
+  lastSynchronized: '2026-11-26T05:06:48.465Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"993fca5425049c5853f331239cf62aa66cfc36c50c4cc153a6b728076edeb62e"
-    releasesEtag: '"b2698f3bc425a78276de1d8fc6bd7bb2255a34bae88cfdf311a1da54908ed37a"'
+    repoEtag: W/"f59f5dcc60e02452fc36227e79b96efc092c79e78773bc54dd0e245ad671555c"
+    releasesEtag: W/"822ff22a543ab46f93d1073e6743062675f8d4d1002e5df69471af1c19de26cc"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
