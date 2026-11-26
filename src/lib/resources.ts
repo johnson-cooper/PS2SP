@@ -122,7 +122,7 @@ import ps2iodbMultistate2Groups from "../../data/resources/ps2iodb-multistate-ic
 import psbbnAppDbDeepGroups from "../../data/resources/psbbn-appdb-deep.json";
 import psxPlaceHomebrewGamesDeepGroups from "../../data/resources/psx-place-homebrew-games-deep.json";
 import waybackLegacyPs2ModchipLoaderGroups from "../../data/resources/wayback-legacy-ps2-modchips-loaders.json";
-import githubDepthLiveGroups from "../../data/resources/github-depth-live.json";
+import { mergeDepthShards } from "./github-depth-shards.mjs";
 import externalGitLiveGroups from "../../data/resources/external-git-live.json";
 import megaExpansionWave3Groups from "../../data/resources/mega-expansion-wave3-2026-10-02.json";
 import megaExpansionWave4Groups from "../../data/resources/mega-expansion-wave4-2026-10-02.json";
@@ -137,6 +137,15 @@ import megaExpansionWave12Groups from "../../data/resources/mega-expansion-wave1
 import megaExpansionWave13Groups from "../../data/resources/mega-expansion-wave13-2026-10-02.json";
 import megaExpansionWave14Groups from "../../data/resources/mega-expansion-wave14-2026-10-02.json";
 import megaExpansionWave15Groups from "../../data/resources/mega-expansion-wave15-2026-10-02.json";
+
+// Sharded because the single file outgrew GitHub's 100 MB limit; see github-depth-shards.mjs.
+const githubDepthLiveGroups = mergeDepthShards(
+  Object.entries(
+    import.meta.glob<ResourceGroup[]>("../../data/resources/github-depth-live/*.json", { eager: true, import: "default" })
+  )
+    .sort(([a], [b]) => a.localeCompare(b))
+    .map(([, shard]) => shard)
+);
 
 export interface ResourceLink {
   name: string;

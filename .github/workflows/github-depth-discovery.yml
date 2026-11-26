@@ -8,7 +8,8 @@ on:
     branches: [main]
     paths:
       - "scripts/discover-github-depth.mjs"
-      - "data/resources/github-depth-live.json"
+      - "data/resources/github-depth-live/**"
+      - "src/lib/github-depth-shards.mjs"
       - "discovery/github-depth-state.json"
       - ".github/workflows/github-depth-discovery.yml"
 
@@ -55,13 +56,13 @@ jobs:
 
       - name: Commit depth discovery progress
         run: |
-          if [ -z "$(git status --porcelain -- data/resources/github-depth-live.json discovery/github-depth-state.json)" ]; then
+          if [ -z "$(git status --porcelain -- data/resources/github-depth-live data/resources/github-depth-live.json discovery/github-depth-state.json)" ]; then
             echo "GitHub depth discovery already current."
             exit 0
           fi
           git config user.name "ps2sp-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/resources/github-depth-live.json discovery/github-depth-state.json
+          git add -A -- data/resources/github-depth-live data/resources/github-depth-live.json discovery/github-depth-state.json
           git commit -m "[CF-Pages-Skip] chore(catalog): advance GitHub depth discovery"
           git pull --rebase origin main
           git push
