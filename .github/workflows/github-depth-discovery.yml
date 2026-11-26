@@ -62,7 +62,9 @@ jobs:
           fi
           git config user.name "ps2sp-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A -- data/resources/github-depth-live data/resources/github-depth-live.json discovery/github-depth-state.json
+          git add -A -- data/resources/github-depth-live discovery/github-depth-state.json
+          # The pre-shard single file is gone; stage its removal only if it is still tracked.
+          git rm --cached --quiet --ignore-unmatch -- data/resources/github-depth-live.json
           git commit -m "[CF-Pages-Skip] chore(catalog): advance GitHub depth discovery"
           git pull --rebase origin main
           git push
