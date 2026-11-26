@@ -20,21 +20,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 24
+  stars: 26
   forks: 9
-  lastCommit: '2026-08-01T07:01:09Z'
+  lastCommit: '2026-11-24T11:54:30Z'
 latestRelease:
   tag: v2.1.1
   name: 'integration to PS2SDK '
   publishedAt: '2026-03-10T19:27:00Z'
   url: 'https://github.com/ps2-mmce/mmceman/releases/tag/v2.1.1'
 activity:
-  lastSynchronized: '2026-11-11T15:13:12.184Z'
+  lastSynchronized: '2026-11-26T15:17:56.346Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2bb32aa34f9cea47bf0f65aadd60c517bcbe1c00b3879629ea0a42f46330b477"
-    releasesEtag: W/"d7064712b5d72474ff8878bb920eee9f6b28dd8cfd047445b7a9c1f249a1fb2c"
+    repoEtag: W/"fd058dd38918ef96324a5a0277467dd1e6156b8f534570e863c940575d0335a2"
+    releasesEtag: W/"559d7d6e999fd7350baa382920e2926e03b25581b507dc8bd8ecc95531a76b55"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

@@ -16,7 +16,7 @@ license: MIT
 homepage: 'https://github.com/retronas/retronas/wiki'
 source:
   provider: github
-  repository: macifyer/retronas
+  repository: mitechell/retronas
   repositoryId: '1329241376'
 repository:
   archived: false
@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-11T15:15:07.441Z'
+  lastSynchronized: '2026-11-26T15:20:00.069Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d571b8e2081e853efba013196d7fa3c8685eeb1ff2a2343b0b1da706a5d36ffe"
-    releasesEtag: '"4429150f34678cedd74c64579b30809858d8cdb312b1ed77eb714a79c20f6fb1"'
+    repoEtag: W/"5aa2db12b4be6e994444f655d955e3438e67d761e8e4f9bc7f8efcde5fc3b4d9"
+    releasesEtag: '"4a379f54e63716ee058ad0149b63163d56132c52d2eaa3a556019eed41a8343b"'
 discovery:
   method: 'fork-network:retronas/retronas'
   confidence: 95

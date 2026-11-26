@@ -27,12 +27,12 @@ latestRelease:
   url: >-
     https://github.com/madruck62-create/dragon-force-ps2-patcher-En-Fr/releases/tag/v1.0
 activity:
-  lastSynchronized: '2026-11-11T15:12:31.644Z'
+  lastSynchronized: '2026-11-26T15:17:13.793Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"61f1a926532acc993fa34740f792280b8203041ecf322171fdf09f69c49e41e0"
-    releasesEtag: W/"b6e2e753c9414bbe4f5632dd123ece3efc1ecad12fa7e880c6fd402b27419a83"
+    repoEtag: W/"453b86f71d1f30a210b0f7fe5d7284d98be78c1ceb66515c9edcccf5253e1be8"
+    releasesEtag: W/"ac5d330c37d6ae89b08b1f5e5c63cd07185795ec5b0c4c5d42f58d5ad5e49100"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -35,9 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-26T13:10:16.139Z'
+  lastSynchronized: '2026-11-26T15:19:57.609Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"bf0343a8038e30bb0a788bc7b2ec6a42a8c6778b243afc01275d59beefaae800"
+    releasesEtag: '"4a379f54e63716ee058ad0149b63163d56132c52d2eaa3a556019eed41a8343b"'
 discovery:
   method: 'fork-network:gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT'
   confidence: 95
@@ -55,5 +58,4 @@ relationships:
   forkOf: gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT
   source: gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

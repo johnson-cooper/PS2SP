@@ -34,9 +34,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T08:46:04.198Z'
+  lastSynchronized: '2026-11-26T15:18:19.697Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"ae4557bd16c2ad87433afc51cda313753c09ea2cf3882600b5d9eea80d8078b6"
+    releasesEtag: '"4a379f54e63716ee058ad0149b63163d56132c52d2eaa3a556019eed41a8343b"'
 discovery:
   method: 'fork-network:Jay-Jay-OPL/OPL-Daily-Builds'
   confidence: 95
@@ -53,5 +56,4 @@ relationships:
   forkOf: Jay-Jay-OPL/OPL-Daily-Builds
   source: ps2homebrew/Open-PS2-Loader
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

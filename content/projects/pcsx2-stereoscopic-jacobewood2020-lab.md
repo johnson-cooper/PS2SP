@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-24T01:20:59.707Z'
+  lastSynchronized: '2026-11-26T15:18:44.567Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7c026952c9cb0e5496733b2ca39d3b422749bdc5ad077ff5caadfa236c352c99"
+    releasesEtag: '"4a379f54e63716ee058ad0149b63163d56132c52d2eaa3a556019eed41a8343b"'
 discovery:
   method: 'fork-network:Stereoscopic3D/pcsx2-stereoscopic'
   confidence: 95
@@ -45,5 +48,4 @@ relationships:
   forkOf: Stereoscopic3D/pcsx2-stereoscopic
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

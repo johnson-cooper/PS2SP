@@ -22,19 +22,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-26T05:42:14Z'
+  lastCommit: '2026-11-25T00:17:06Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v1.0.0
+  name: PC port 1.0.0
+  publishedAt: '2026-11-21T05:39:11Z'
+  url: 'https://github.com/devin-thomas/guilty-gear-x-plus/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-11-11T15:12:50.491Z'
+  lastSynchronized: '2026-11-26T15:17:33.706Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"665f251dc5a82a591afc5f33dbef6122cbc991994c22ec2b74a118d633de81d0"
-    releasesEtag: '"4429150f34678cedd74c64579b30809858d8cdb312b1ed77eb714a79c20f6fb1"'
+    repoEtag: W/"51e84021ca1e541daacde4f24004f0bd46782b0872cf6bf145616a73bc8cd8b1"
+    releasesEtag: W/"985f77d1c73569c7cd045e4f3cd3044b63bd26f41103c4116a0c3909f9c51919"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

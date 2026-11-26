@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-06-29T04:29:34Z'
   url: 'https://github.com/JordanTheToaster/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-11T15:13:50.700Z'
+  lastSynchronized: '2026-11-26T15:18:36.814Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"afdab7249fd5da8b011d7167520765a14a64adabfa6d345c34756b2c417d3cfd"
-    releasesEtag: W/"f83f7394b68e3a15852f3bf9bf0aaef4446cebf0aae5e3e483074bb00de04747"
+    repoEtag: W/"85bfd01a92fd737a6516a6113cd85c5aa1271bc1eda78207166df57b52e76d6c"
+    releasesEtag: W/"3999f1e5a74b3dc7dc1bdddb47cfaa9eaab4944f99087db91fd4c0b687b6db6c"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95

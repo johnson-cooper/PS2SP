@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-17T13:53:37.544Z'
+  lastSynchronized: '2026-11-26T15:16:50.248Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d4694a76a172ea9ecb8ddcad48c7ef72243a75e2ca5b7a00470906a33ba534e1"
+    releasesEtag: '"4a379f54e63716ee058ad0149b63163d56132c52d2eaa3a556019eed41a8343b"'
 discovery:
   method: 'fork-network:SetiQyu/ARMSX2-PC'
   confidence: 95
@@ -44,5 +47,4 @@ relationships:
   forkOf: SetiQyu/ARMSX2-PC
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

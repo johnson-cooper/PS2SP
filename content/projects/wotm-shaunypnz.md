@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: '2026-11-01T09:23:16Z'
   url: 'https://github.com/shaunypnz/WoTM/releases/tag/v0.1.9-linux'
 activity:
-  lastSynchronized: '2026-11-13T11:35:27.480Z'
+  lastSynchronized: '2026-11-26T15:20:14.231Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"52418d1bc8dba7210c2bcb7fb9b7e9c453de9555001b471e9af0533d826f89e3"
+    releasesEtag: W/"25d81b42c9ee24b72814b55012b746ded5c7f27b5a430de9ee682fa28bc3f936"
 discovery:
   method: 'fork-network:yanm1103/War_of_the_Monsters_recomp'
   confidence: 95
@@ -51,5 +54,4 @@ relationships:
   forkOf: yanm1103/War_of_the_Monsters_recomp
   source: yanm1103/War_of_the_Monsters_recomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

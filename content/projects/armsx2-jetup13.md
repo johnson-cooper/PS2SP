@@ -20,7 +20,7 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2025-12-22T08:42:09Z'
+  lastCommit: '2026-11-24T03:12:21Z'
 latestRelease:
   tag: come.nanodata.armsx2-nightly-1.0.7-20251127-0924
   name: Nightly Build (DEBUG - 1.0.7) - 20251127-0924
@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/Jetup13/ARMSX2/releases/tag/come.nanodata.armsx2-nightly-1.0.7-20251127-0924
 activity:
-  lastSynchronized: '2026-11-11T15:12:06.633Z'
+  lastSynchronized: '2026-11-26T15:16:47.403Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"39b6eb9e9c923fa84654880a6a5358291ab29a93e3d5ff622d3fe193400461f0"
-    releasesEtag: W/"429a4714a618fc5aa56eea623aeee2d87e37956f350f87ec6fb91a4200e4269f"
+    repoEtag: W/"f54c33b214645ffb23fc36abf97b363ec02efe1b70533036fd8a1bba63ad3690"
+    releasesEtag: W/"2f4c7ad9afbbe1b1df212f194ce78e5bc813c288b84274902d7386373ffb4aa3"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

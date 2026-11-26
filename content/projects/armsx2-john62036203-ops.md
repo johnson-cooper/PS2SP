@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-26T21:39:55Z'
   url: 'https://github.com/john62036203-ops/ARMSX2/releases/tag/ios-arcade-intel-8'
 activity:
-  lastSynchronized: '2026-11-11T15:12:07.397Z'
+  lastSynchronized: '2026-11-26T15:16:48.160Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9d694554b3577a77e4479b8f315cc5a73b178aaf357a3bf138549ba8e7655556"
-    releasesEtag: W/"d340f28d35921b2fc6bfef81ccf49bb2a60618754aeadd5e20cb3a3344afd8c2"
+    repoEtag: W/"eff547a0a9fa08c73f80e7329b80922e845c8c52f067ae176e679eef8d3a9c94"
+    releasesEtag: W/"bd481fe61fa32bb80df249d857e325e4b189a09a53322ff61df46da3e8075110"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

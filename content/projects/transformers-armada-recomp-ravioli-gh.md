@@ -26,20 +26,20 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-11T06:20:34Z'
+  lastCommit: '2026-11-12T17:33:48Z'
 latestRelease:
-  tag: setup-v0.4.8
-  name: Setup v0.4.8
-  publishedAt: '2026-11-10T23:14:54Z'
+  tag: setup-v0.6.8
+  name: Setup v0.6.8
+  publishedAt: '2026-11-12T17:13:26Z'
   url: >-
-    https://github.com/ravioli-gh/transformers-armada-recomp/releases/tag/setup-v0.4.8
+    https://github.com/ravioli-gh/transformers-armada-recomp/releases/tag/setup-v0.6.8
 activity:
-  lastSynchronized: '2026-11-11T15:15:17.993Z'
+  lastSynchronized: '2026-11-26T15:20:09.886Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0390b50f524330bc09ce991550880cd0934d98ed0ea962cc85f724151bc3756a"
-    releasesEtag: W/"e8d17635b00777a165909018f267aa4a6eca366b273eac73f2e5f6a45bb984c2"
+    repoEtag: W/"8545c4acfe2801643f2b64e5c8b87f7a182bffa58e87aa4fa5ed96b037ead396"
+    releasesEtag: W/"99d0be1422ccb015faa5942b8c47f9bf711a566e75549e170cf522a987183f9f"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

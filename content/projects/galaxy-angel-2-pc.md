@@ -16,26 +16,26 @@ license: GPL-3.0
 homepage: null
 source:
   provider: github
-  repository: ObeseCatLord/galaxy-angel-2-pc
+  repository: ObeseCatLord/Galaxy-Angel-II-PC
   repositoryId: '1449755182'
 repository:
   archived: false
   defaultBranch: main
   stars: 2
   forks: 0
-  lastCommit: '2026-11-11T09:12:37Z'
+  lastCommit: '2026-11-26T08:35:25Z'
 latestRelease:
-  tag: v0.9.0
-  name: Galaxy Angel II PC 0.9.0
-  publishedAt: '2026-11-11T12:38:43Z'
-  url: 'https://github.com/ObeseCatLord/galaxy-angel-2-pc/releases/tag/v0.9.0'
+  tag: v0.12.1
+  name: Galaxy Angel II PC 0.12.1
+  publishedAt: '2026-11-26T08:35:25Z'
+  url: 'https://github.com/ObeseCatLord/Galaxy-Angel-II-PC/releases/tag/v0.12.1'
 activity:
-  lastSynchronized: '2026-11-11T15:12:45.127Z'
+  lastSynchronized: '2026-11-26T15:17:27.662Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"79ba3062c770b2ac3cb8ebcb5c48d1e5090044cf0f00c57077e66890745e1edb"
-    releasesEtag: W/"93e7e57bea3b86e2f12c900a35672fb4278180f19d5e419daaa2ad92a9cdfcd5"
+    repoEtag: W/"3c3c558022ddf364a0646a5c14b26e543ef43129a2a9753fc3c1dd8247d44b40"
+    releasesEtag: W/"0eb3efd0bb7421dc1c4fd746535c714e2544837675d03c7592079176900b89f4"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-11-19T20:28:20Z'
   url: 'https://github.com/Laudadio93/ps2-ps3-image-converter/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-11-19T20:58:49.736Z'
+  lastSynchronized: '2026-11-26T15:19:18.393Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"c906eb98aaa3df63c1e04600300fef367acd3496fdbd6a502fca6855b427f80b"
+    releasesEtag: W/"d7ef564705a6a8de043fee5179ecdd9683bb2fadd9b918d68c31c100685ddc3a"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -43,5 +46,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

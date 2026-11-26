@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-07-01T07:04:09Z'
   url: 'https://github.com/mmadalone/pcsx2x6/releases/tag/v1.0.4'
 activity:
-  lastSynchronized: '2026-11-11T15:14:05.545Z'
+  lastSynchronized: '2026-11-26T15:18:50.476Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2ef5a18a30a242b1ad393587ef81c686ed6aee0db55b262b8e1ae8ff63986d4d"
-    releasesEtag: W/"53e03fd6dfc6e2a393e5794b8fe881ca33ef1ddf96a63ca9f77c63d9a4fa246a"
+    repoEtag: W/"756e4baaebab71e9ac7363ebcfbc40461e98943adc3fdc7a7c662bf23abe8955"
+    releasesEtag: W/"fff79d98c3f79857bcedee44500a2a0df46a2eb5a91fabcf5e1a092e41beaab2"
 discovery:
   method: 'fork-network:PS2Homebrew-arcade/pcsx2x6'
   confidence: 95

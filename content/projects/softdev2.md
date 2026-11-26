@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2021-09-06T20:32:56Z'
   url: 'https://github.com/parrado/SoftDev2/releases/tag/v1.0.5'
 activity:
-  lastSynchronized: '2026-11-11T15:15:16.485Z'
+  lastSynchronized: '2026-11-26T15:20:08.512Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b64d99b063ddc7529c0eb6b5cd4df9e2aa7c59135e9637c8cdf0663e71f60813"
-    releasesEtag: W/"70d524f5fcd80bfc37b7b2c3df0f35f1e4f14a9e5d06875ca8f440445a6ac757"
+    repoEtag: W/"b9d1ecb7c956bd90023c5e9bd0be2afcbc92f087946726f15d76da192a71b8c8"
+    releasesEtag: W/"376af80e6bed2cff0ce84115be5d0c2cc0422a34e9a0630bc70e91874070678c"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

@@ -26,23 +26,23 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 240
-  forks: 9
-  lastCommit: '2026-11-11T14:39:57Z'
+  stars: 285
+  forks: 13
+  lastCommit: '2026-11-14T04:01:30Z'
 latestRelease:
-  tag: v0.5.0
+  tag: v0.6.1
   name: >-
-    v0.5.0 — Experimental Linux, CHD import, regional editions and accessibility
-    improvements
-  publishedAt: '2026-11-03T00:10:26Z'
-  url: 'https://github.com/Vnnc1/gow-native-pc/releases/tag/v0.5.0'
+    v0.6.1 — Stable in-game menu, native save slots, shipped PGO and reliable
+    keyboard QTEs
+  publishedAt: '2026-11-14T04:01:30Z'
+  url: 'https://github.com/Vnnc1/gow-native-pc/releases/tag/v0.6.1'
 activity:
-  lastSynchronized: '2026-11-11T15:12:47.394Z'
+  lastSynchronized: '2026-11-26T15:17:30.716Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c9b2f81881801221c0499618fcd8be4e9b397de7fb4a609c2df4f8ea7ef2dc0e"
-    releasesEtag: W/"01a3035362dd313d318a898f9c6d37d8535b50be71901cb8dad56e5018abcca7"
+    repoEtag: W/"d50bd19a47d7461d9a164e0ee8828f641aebeac656a883a5f222d20344c7eafb"
+    releasesEtag: W/"17d953687c5e82a60083901ecc8b5f4ef346673a5e619e6b88b7706d0996f146"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
