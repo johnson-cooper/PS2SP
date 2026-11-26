@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/Miguel0827/Ratatouille-PC/releases/tag/v1.1.1'
 activity:
   lastChecked: '2026-11-13T03:36:03.837Z'
-  lastSynchronized: '2026-11-21T23:18:19.119Z'
+  lastSynchronized: '2026-11-26T23:56:16.693Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6957585d5ccb5b95ad6fe404ae11e10f1ee9f64f5c8c1d0793775b3d2e48cb03"
-    releasesEtag: W/"c38aef0247a759fd94f55f432533c5429ba5b74265637d59bb62fca82d038cac"
+    repoEtag: W/"15f0225f65f783aadfc6d52d0161197dde27697615aa4907fe9f40bfeb7757b5"
+    releasesEtag: W/"a4fea62121bef5e57bf1854c8dc169a43c6f6dde8736f4a46426c3cf90727703"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

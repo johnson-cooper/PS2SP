@@ -15,7 +15,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -24,19 +24,23 @@ source:
   url: 'https://github.com/BTTFForever/rc-revenge-pro-re-amped'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-26T12:40:17Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.2.0
+  name: 'RC Revenge Pro: Re-Amped v0.2.0'
+  publishedAt: '2026-11-26T12:24:56Z'
+  url: 'https://github.com/BTTFForever/rc-revenge-pro-re-amped/releases/tag/v0.2.0'
 activity:
   lastChecked: '2026-11-26T13:10:16.139Z'
+  lastSynchronized: '2026-11-26T23:56:17.777Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"89140d2111224e6b9caa1460ad40e616845c858d33fdb1d0370840f1f1938217"
+    releasesEtag: W/"9d629286e9d0dc6cd5d93fda5fa1b144f0a89036fd7836cc7f3a8f0d2caadfe8"
 discovery:
   method: 'pending-promotion:incremental:"ps2 port" in:name,description,readme'
   confidence: 85
@@ -49,5 +53,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

@@ -20,19 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-21T17:24:04Z'
+  lastCommit: '2026-11-26T08:32:56Z'
 latestRelease:
-  tag: 2.9.5-mainui
-  name: 2.9.5 (MainUI)
-  publishedAt: '2026-11-17T19:16:15Z'
-  url: 'https://github.com/MainUI-Android/ARMSX2-mainui/releases/tag/2.9.5-mainui'
+  tag: 2.9.7-mainui
+  name: 2.9.7 (MainUI)
+  publishedAt: '2026-11-26T08:29:55Z'
+  url: 'https://github.com/MainUI-Android/ARMSX2-mainui/releases/tag/2.9.7-mainui'
 activity:
-  lastSynchronized: '2026-11-21T23:16:14.746Z'
+  lastSynchronized: '2026-11-26T23:53:51.773Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e01d2d8a5ddfb2fecc1596f4141ca44a9cc78d1e8ae895423a73e9adf95b567c"
-    releasesEtag: W/"ba2169c8b8c933df4f3c4de13dbcbe0cc4d3c373fb4ab38e1601116fac5b6cef"
+    repoEtag: W/"82b8e41a36f7b6cc3631dd05515154c30a955da62a18f70be525864f6bc21c76"
+    releasesEtag: W/"063db0e1e98e6568cc7d46faf0520cd5061b3b7aac2d1a016089a5308afa8903"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

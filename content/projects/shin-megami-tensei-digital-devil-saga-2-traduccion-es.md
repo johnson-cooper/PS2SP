@@ -35,12 +35,12 @@ latestRelease:
     https://github.com/johanderohan/shin-megami-tensei-digital-devil-saga-2-traduccion-es/releases/tag/v1.0
 activity:
   lastChecked: '2026-11-12T00:59:54.175Z'
-  lastSynchronized: '2026-11-21T23:18:21.944Z'
+  lastSynchronized: '2026-11-26T23:56:21.853Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"3d7490ff1ecb68e9c0ab8b32207bdd774d2922c74976d757110f01692c1010d0"
-    releasesEtag: W/"986175b9040b557c679cc21dc5ce63ec4ba4cfb092068364f1876ac154ffa86b"
+    repoEtag: W/"a21a1db3318bfc09dc80de677ce65d4539884b90d0be0a127aba5c6547632413"
+    releasesEtag: W/"da7984c6a2734e56c9153acf8c86440a93d8974654f33018dd270fbd9b793b52"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

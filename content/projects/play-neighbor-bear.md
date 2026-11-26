@@ -28,12 +28,12 @@ latestRelease:
   url: >-
     https://github.com/neighbor-bear/Play-/releases/tag/%E6%B5%8B%E8%AF%95%E7%89%88
 activity:
-  lastSynchronized: '2026-11-21T23:17:37.433Z'
+  lastSynchronized: '2026-11-26T23:55:28.423Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"04a73d137a2d4715092260a011687ffd0ad31ee8f624e0f57889e86ed066199e"
-    releasesEtag: W/"9df735b383185c75a99bef1805f018bdeff599a43f225cbfd46ac020870d5741"
+    repoEtag: W/"64cc687c54f954abe5a73f3d5d4b48ecdc8bb097c30b7c30eb73548adba7e0cb"
+    releasesEtag: W/"7566cdeda58c2c923bf2d5c70c3564294591295fa91add200650eeb88489cd53"
 discovery:
   method: 'fork-network:jpd002/Play-'
   confidence: 100

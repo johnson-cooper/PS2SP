@@ -20,22 +20,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 82
-  forks: 4
-  lastCommit: '2026-11-17T21:51:36Z'
+  stars: 112
+  forks: 5
+  lastCommit: '2026-11-26T15:14:01Z'
 latestRelease:
-  tag: '0.14'
-  name: '0.14'
-  publishedAt: '2026-11-17T21:51:36Z'
-  url: 'https://github.com/ZloiKILLER/nfshp2-port-win/releases/tag/0.14'
+  tag: '0.16'
+  name: '0.16'
+  publishedAt: '2026-11-26T15:14:02Z'
+  url: 'https://github.com/ZloiKILLER/nfshp2-port-win/releases/tag/0.16'
 activity:
   lastChecked: '2026-11-13T18:46:35.249Z'
-  lastSynchronized: '2026-11-21T23:17:03.927Z'
+  lastSynchronized: '2026-11-26T23:54:47.898Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5cfcb335d81b6708ace42fda381ab85c18632e434156dbe54223b82af343845c"
-    releasesEtag: W/"3d6c3e446e71f94f57f800f49c99d2bfe31a8824c3d98a10c3de72403d2850bc"
+    repoEtag: W/"e37e5903c8cf48ae133280f8d8bfbbfef07b92c2342e78eecd02922a50b9e98a"
+    releasesEtag: W/"f1e495781d691f76c18a38012213734a736a1c2466b09d9695549799a2274fd6"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

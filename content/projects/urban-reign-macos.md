@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 0
   forks: 0
   lastCommit: '2026-11-14T10:11:26Z'
 latestRelease:
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/srikanthamsa/urban-reign-macos/releases/tag/v1.4.1-macos'
 activity:
   lastChecked: '2026-11-13T11:35:27.480Z'
-  lastSynchronized: '2026-11-21T23:18:34.123Z'
+  lastSynchronized: '2026-11-26T23:56:36.249Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1be465a1812bf893d279efaba4738625796eb0e090334cd1f36b567f5d9578f9"
-    releasesEtag: W/"d2e11e2b25f8f3da8b427bed5bf9acad44cc66e9dca725b3b2dbb69c9841911b"
+    repoEtag: W/"824033811de5c3ee862d6c32c632f4bf830209865880b7a8de70b7c9694240aa"
+    releasesEtag: W/"fc5333be590d67acf2aaed20f4c1f66a90895f8c7285990a31c37b2e71a20f94"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80

@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-11-11T23:52:47Z'
   url: 'https://github.com/juankyt505/OPL-MMCE-JUMP-PS1/releases/tag/v1.0.0-beta1'
 activity:
-  lastSynchronized: '2026-11-21T23:17:17.438Z'
+  lastSynchronized: '2026-11-26T23:55:03.068Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"187ff2b9f8f2c0abd8402555382125d04796828e24e34bf090b996f1cbb7fcca"
-    releasesEtag: W/"fdcbccf2179114a6c7be9f4e682ae3a96be29c4ae451c36901d6f354b4fc2ea7"
+    repoEtag: W/"4d0d9108ab39805521dcb4e9818d4b35f481732349cdd7513edbfff9c0df2045"
+    releasesEtag: W/"c962fba5d2a38306a6bb73c21cdd5b126a54aaff8ac894ec15095ab021f7000f"
 discovery:
   method: 'incremental:"PS2 homebrew" in:name,description,readme'
   confidence: 100

@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T23:16:59.793Z'
+  lastSynchronized: '2026-11-26T23:54:43.684Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b3079a617a0b19ae907d84d5215a4ebb086e30e53661956f3ff1a6f95338686d"
-    releasesEtag: '"5eff475b42f948220d589ff51c528ecf667d80367b86cd901dbacb7d75c3869e"'
+    repoEtag: W/"56174cb03c98b9806e3c2fc7501e652a2e726872dff30bd5ba8d352d0d4c0e7f"
+    releasesEtag: '"38251304133231cd81a0aff9f6f46a1ed6d7bdf0b0fe929f842024adff31e335"'
 discovery:
   method: 'fork-network:eclipsebladestudioficial/NaedalusX64'
   confidence: 100

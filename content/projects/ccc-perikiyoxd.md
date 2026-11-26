@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T23:16:20.146Z'
+  lastSynchronized: '2026-11-26T23:53:57.806Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0edbd5acdb68b7e6a57435dc5c6470f61b8e355e7bd38cbdda61f835ec196999"
-    releasesEtag: '"5eff475b42f948220d589ff51c528ecf667d80367b86cd901dbacb7d75c3869e"'
+    repoEtag: W/"6cc637b850e82798c7c838497eaee6ba2fa2727fa86af73272cca496542f84b6"
+    releasesEtag: '"38251304133231cd81a0aff9f6f46a1ed6d7bdf0b0fe929f842024adff31e335"'
 discovery:
   method: 'fork-network:chaoticgd/ccc'
   confidence: 95

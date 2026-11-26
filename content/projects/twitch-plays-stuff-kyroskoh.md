@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T23:18:27.629Z'
+  lastSynchronized: '2026-11-26T23:56:28.458Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a772a09822d9764a3507cb33df9968c1562b43b4f3ce4aae470fd436f8718f3c"
-    releasesEtag: '"5eff475b42f948220d589ff51c528ecf667d80367b86cd901dbacb7d75c3869e"'
+    repoEtag: W/"412fade77ac1a293ce673fd843160c12b6887d7e94605bc367e4d325b1542b00"
+    releasesEtag: '"38251304133231cd81a0aff9f6f46a1ed6d7bdf0b0fe929f842024adff31e335"'
 discovery:
   method: 'fork-network:WhatAboutGaming/Twitch-Plays-Stuff'
   confidence: 95

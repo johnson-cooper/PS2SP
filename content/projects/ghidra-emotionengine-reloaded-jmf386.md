@@ -29,12 +29,12 @@ latestRelease:
   url: >-
     https://github.com/JMF386/ghidra-emotionengine-reloaded/releases/tag/unstable
 activity:
-  lastSynchronized: '2026-11-21T23:16:39.530Z'
+  lastSynchronized: '2026-11-26T23:54:19.948Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0aaa4ee33a215de0ac73a3628c64764abd03b4c2735e27605b8ae1088a9caa5e"
-    releasesEtag: W/"18775edd9947d5ad2d51d5d26def4bf88ed404f56e02741822e371b0c904a607"
+    repoEtag: W/"7d52d14b85c0822ab335ec47d3b56a5388fcbf8cc28289fffa9303ff7b3ced86"
+    releasesEtag: W/"d4b6cf51021393796fd1a94be8a34e2c9d83029525c3ffe9d5d3049b4943e9bc"
 discovery:
   method: 'fork-network:chaoticgd/ghidra-emotionengine-reloaded'
   confidence: 100

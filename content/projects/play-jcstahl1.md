@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-21T23:17:36.089Z'
+  lastSynchronized: '2026-11-26T23:55:26.816Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b7bcc79c4509c8af6e05523c170083fdd31c3a73ee7dec786df30792ba90e0b0"
-    releasesEtag: '"5eff475b42f948220d589ff51c528ecf667d80367b86cd901dbacb7d75c3869e"'
+    repoEtag: W/"2dc21b3169d4eec7d22ccba87b5c2309da56f63c7970d2afc170b99cd1917d8b"
+    releasesEtag: '"38251304133231cd81a0aff9f6f46a1ed6d7bdf0b0fe929f842024adff31e335"'
 discovery:
   method: 'fork-network:ReaverTeknoGods/Play-'
   confidence: 100

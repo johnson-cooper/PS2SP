@@ -20,20 +20,20 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-09-20T21:49:27Z'
+  lastCommit: '2026-11-26T20:51:58Z'
 latestRelease:
-  tag: v2.9.78-reliquary-1.9.4
-  name: v2.9.78-reliquary-1.9.4
-  publishedAt: '2026-09-20T22:13:23Z'
+  tag: v2.9.198-reliquary-1.10.0
+  name: v2.9.198-reliquary-1.10.0
+  publishedAt: '2026-11-26T21:09:37Z'
   url: >-
-    https://github.com/lemondrops/pcsx2-reliquary/releases/tag/v2.9.78-reliquary-1.9.4
+    https://github.com/lemondrops/pcsx2-reliquary/releases/tag/v2.9.198-reliquary-1.10.0
 activity:
-  lastSynchronized: '2026-11-21T23:17:28.579Z'
+  lastSynchronized: '2026-11-26T23:55:17.405Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"93d9016aac9023ae771254570ddfda4425107c4e12358d575858fe191f39b6b8"
-    releasesEtag: W/"f8551e04995a4124456b9145a942c28ae85aa0168131bb8a8fd4c15799d5c307"
+    repoEtag: W/"14245322f66cb35299a7028c2717b628b145eefff48f566cca384af19cfe3a35"
+    releasesEtag: W/"1c8e3d9e43bee13dde050b778767b262d59c156ca333f57d789080560b101ae5"
 discovery:
   method: 'fork-network:DiscoStarslayer/pcsx2-reliquary'
   confidence: 100

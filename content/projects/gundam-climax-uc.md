@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/retro-trans/Gundam-Climax-UC/releases/tag/v0.8.1'
 activity:
   lastChecked: '2026-11-12T08:50:51.748Z'
-  lastSynchronized: '2026-11-21T23:16:43.027Z'
+  lastSynchronized: '2026-11-26T23:54:24.217Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c6aab0d773a0c881ab5a3ef38a1695c4f543bb546fc2b58a9a978cdf6a20cf23"
-    releasesEtag: W/"cf06509b8ac8a5eab79d0810955427c66149e549daf6d3b56b1fd6cdb280454d"
+    repoEtag: W/"b3a95ee69cf3acf2249c64f716cd09cbf48f3dfa694a97a06efb0c2cd3a43051"
+    releasesEtag: W/"4c44917f5695de0865fb1eff9dc1bc5c9aa3a749ae15d6bb6a9bf8956336b5ab"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

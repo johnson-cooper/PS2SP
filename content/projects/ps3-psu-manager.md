@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/khant735/PS3-PSU-Manager/releases/tag/stage6v-phase2-run-61
 activity:
-  lastSynchronized: '2026-11-21T23:18:12.899Z'
+  lastSynchronized: '2026-11-26T23:56:09.114Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"1b2fbb03bc25ce4a02d58d6e99fc039517185f2c7682eff53e8fb89995f324a2"
-    releasesEtag: W/"b043b01725a84cfd7dceef7b09337efd270a6d31c37972b52958fbb9b29af5b6"
+    repoEtag: W/"947d00bf39a6c145625b03ed2e75a49c9b94ab1264c325fe0684b192c01232fd"
+    releasesEtag: W/"8d1bd0b4024f18e6426e1c367c23d649bc9b7ac4bff8c320b7fa2c2a9dc51214"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

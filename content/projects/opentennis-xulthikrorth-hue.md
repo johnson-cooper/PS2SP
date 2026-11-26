@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: '2026-11-14T11:28:22Z'
   url: 'https://github.com/xulthikrorth-hue/opentennis/releases/tag/beta'
 activity:
-  lastSynchronized: '2026-11-21T23:17:15.346Z'
+  lastSynchronized: '2026-11-26T23:55:00.835Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"dbccbe5476d451dc83e588f97dc30b67311f1c186b164d56a3a0878ff20bf1b2"
-    releasesEtag: W/"f0cf45dcd76958db1dd9e5707dd7b31ab1ab696eb3f3d450f3bcca44ba237b69"
+    repoEtag: W/"823859f344b36c527cd213aa647414cd3547dd52c4d9e1feef319a7432dde608"
+    releasesEtag: W/"a0c3d913a7db94e3c32fb32b31f248d138576fd258045d7ea87a98bb09aea0d2"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

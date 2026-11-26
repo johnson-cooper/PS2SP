@@ -30,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/Zed-Mod-School/fricked3-testing/releases/tag/v0.0.1-cluade.0
 activity:
-  lastSynchronized: '2026-11-21T23:16:38.143Z'
+  lastSynchronized: '2026-11-26T23:54:18.336Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6c7b0f71bfdf7a8e253407667b57c0f95d85e569d847bf6ae2e60147f17cbe8a"
-    releasesEtag: W/"88d2d8c5d9b6fbf29728686ac5b205ef616a9f1108db075c3a7a867b08ed588b"
+    repoEtag: W/"31f047867cdac3733fe84de19d81b494ce51283f7eff830c479a242089ba74d2"
+    releasesEtag: W/"59ab2c0d4fd240b15fbb4fcce4bfab99e6aeb79dce3d661be8aa39bc0af04838"
 discovery:
   method: 'fork-network:Zed-Mod-School/mod-base-test-1'
   confidence: 95

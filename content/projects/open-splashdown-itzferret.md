@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 1
+  stars: 2
   forks: 0
   lastCommit: '2026-11-13T13:55:10Z'
 latestRelease:
@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: '2026-11-13T13:55:10Z'
   url: 'https://github.com/ItZFerret/open-splashdown/releases/tag/v0.1-test1'
 activity:
-  lastSynchronized: '2026-11-21T23:17:13.699Z'
+  lastSynchronized: '2026-11-26T23:54:59.184Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0f1307ef4faf34bd303b646508913a39e7fc33b6177d50f4fab4934f944ab976"
-    releasesEtag: W/"583607bdd620fd1b3e424ac4387627be7904409f8c149aeef1c15a492f6884a6"
+    repoEtag: W/"18390f2cd3c3ed6c53979ce750a3ca3d88939cf0c58cef3694be2e159694ceb6"
+    releasesEtag: W/"e2f0dfd42efe8b640b4993069fb8adaef2125346bfc3125ccb6c0f93b98ef476"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
