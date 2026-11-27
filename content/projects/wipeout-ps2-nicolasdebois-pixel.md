@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-11-18T08:42:01Z'
   url: 'https://github.com/nicolasdebois-pixel/wipeout-ps2/releases/tag/v1.0-ps2v'
 activity:
-  lastSynchronized: '2026-11-18T13:27:32.696Z'
+  lastSynchronized: '2026-11-27T19:02:14.441Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"151fba1f72504dff022667fd5e8ddc1b5e55efbe23903b79f8fb4af9d3f4711d"
+    releasesEtag: W/"ef98ff47941909b8a0d33f2e372e241dc6859ef5c10766ea1e78b1672f52a35e"
 discovery:
   method: 'incremental:"ps2 port" in:name,description,readme'
   confidence: 100
@@ -47,5 +50,4 @@ relationships:
   forkOf: phoboslab/wipeout-rewrite
   source: phoboslab/wipeout-rewrite
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

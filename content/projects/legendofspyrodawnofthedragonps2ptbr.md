@@ -12,27 +12,27 @@ license: MIT
 homepage: null
 source:
   provider: github
-  repository: refresh50/LegendOfSpyroDawnOfTheDragonPS2PTBR
+  repository: refresh50/LegendOfSpyroDawnOfTheDragonPTBR
   repositoryId: '1359579985'
 repository:
   archived: false
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-02T22:39:05Z'
+  lastCommit: '2026-11-14T22:19:44Z'
 latestRelease:
   tag: '1.0'
   name: Tradução PT-BR
   publishedAt: '2026-09-06T23:57:31Z'
   url: >-
-    https://github.com/refresh50/LegendOfSpyroDawnOfTheDragonPS2PTBR/releases/tag/1.0
+    https://github.com/refresh50/LegendOfSpyroDawnOfTheDragonPTBR/releases/tag/1.0
 activity:
-  lastSynchronized: '2026-11-12T18:56:41.307Z'
+  lastSynchronized: '2026-11-27T19:00:27.893Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f3ce7a9832ebe9010f4782908141675c2110d9e937ff19719a3ff5d6714692f6"
-    releasesEtag: W/"4754d9786142e1f582080bb81d5263df02480be067383de28ca8eb66ab4eec82"
+    repoEtag: W/"50558d60a945f097ae5313cb1cca80f4cc63db3d20a502e6396502f5bd7cd801"
+    releasesEtag: W/"4bf6e107ea73466be2166b7affe224882fdb212c8ec91f4c28c226e1975e3264"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

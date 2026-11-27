@@ -19,7 +19,7 @@ license: null
 homepage: 'https://discord.gg/2GSXcEzPJA'
 source:
   provider: github
-  repository: FridiNaTor1/ProjectCane
+  repository: FridiNaTor1/ProjectCane-old
   repositoryId: '1404232719'
 repository:
   archived: false
@@ -31,14 +31,14 @@ latestRelease:
   tag: '0.4'
   name: '0.4'
   publishedAt: '2026-10-04T16:42:31Z'
-  url: 'https://github.com/FridiNaTor1/ProjectCane/releases/tag/0.4'
+  url: 'https://github.com/FridiNaTor1/ProjectCane-old/releases/tag/0.4'
 activity:
-  lastSynchronized: '2026-11-12T18:57:41.914Z'
+  lastSynchronized: '2026-11-27T19:01:23.822Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"655f49d4bacaa361c02641239d0bc835f3276b41f48db0db898e31d6d6235dbd"
-    releasesEtag: W/"b7f8dd32b95c12acde12622a90bd2d788f742cd4d97dc7ec4d1c153089559a34"
+    repoEtag: W/"dc5f04f84033119ddb0943892948846688bb922f0a0604bc7238abc9ee24ac78"
+    releasesEtag: W/"a8f7b19281abc1f23d11282e249c9b053f35547364dd4b79eb803d85fe3bc9a0"
 discovery:
   method: 'fork-network:theclub654/ProjectCane'
   confidence: 95

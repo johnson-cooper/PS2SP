@@ -19,21 +19,22 @@ source:
 repository:
   archived: false
   defaultBranch: probe
-  stars: 4
+  stars: 11
   forks: 0
-  lastCommit: '2026-11-10T04:29:24Z'
+  lastCommit: '2026-11-25T14:45:07Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: psbbn-mmce-v10-preview
+  name: PSBBN MMCE v10 — Community Game Compatibility Preview
+  publishedAt: '2026-11-17T01:49:17Z'
+  url: >-
+    https://github.com/dnunezx/PSBBN-Definitive-Project/releases/tag/psbbn-mmce-v10-preview
 activity:
-  lastSynchronized: '2026-11-12T18:58:22.218Z'
+  lastSynchronized: '2026-11-27T19:01:59.332Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"878e2bb52bb2565c08979a96dd96eb0ec3c02511f6f88b08b2dba2f63c586037"
-    releasesEtag: '"db0eeaf78c7cffaf6713f0d17b358b8c3fd7df257f1d689bfc9bb58c91a46e08"'
+    repoEtag: W/"edb92b4f99904394673dbb50b5769a658db3a4869d65f8404742798767ad401c"
+    releasesEtag: W/"74492feab265ce41c5c71d8d6cb673f466d59f89d87573bf91b7186b7121ef1c"
 discovery:
   method: 'fork-network:CosmicScale/PSBBN-Definitive-Project'
   confidence: 100

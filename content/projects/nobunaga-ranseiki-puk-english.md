@@ -34,12 +34,12 @@ latestRelease:
     https://github.com/damon-daemon/nobunaga-ranseiki-puk-english/releases/tag/v0.9.2
 activity:
   lastChecked: '2026-11-08T02:43:01.487Z'
-  lastSynchronized: '2026-11-12T18:56:48.945Z'
+  lastSynchronized: '2026-11-27T19:00:35.357Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"be45525d39e36e427ee63b49505e2b8b22b4883820679d706b1018495d3e1b6d"
-    releasesEtag: W/"8b350011b971eba562c788dd9630ab188538314f6fbe94a6a692ced6e4d503cf"
+    repoEtag: W/"2e57286c748b7c7632226789d17e91db1ca1d34710aa1be7a6c4bc46d097790d"
+    releasesEtag: W/"faf938d51f2e6db0d5d2e4f4d772fed3ae7d8b0772fe9905c5a726c4c0e57ff2"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

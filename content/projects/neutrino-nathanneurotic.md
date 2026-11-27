@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-10-16T15:37:46Z'
   url: 'https://github.com/NathanNeurotic/neutrino/releases/tag/udpfs-ack-e6f1392'
 activity:
-  lastSynchronized: '2026-11-12T18:56:46.978Z'
+  lastSynchronized: '2026-11-27T19:00:33.377Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"211c27580f81350085b8e1aadaf38f0afd83a18ae2230c51bdb6a958c6042c81"
-    releasesEtag: W/"782f2c4be9f71b8128368854826fcf0dce965cb5163a96775c627f73e6ad0b97"
+    repoEtag: W/"dea1120b362dfe90fc61dc76bc7225adb1416d4d10122052ba31035b93c37f26"
+    releasesEtag: W/"439427c230b4c1280444dab0739924706aa9c9720215fcd5b9482e3f5577e63c"
 discovery:
   method: curated-owner
   confidence: 100

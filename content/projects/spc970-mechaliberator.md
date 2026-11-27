@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/Libbers/SPC970-MechaLIBerator/releases/tag/v0.1.0-beta.1'
 activity:
   lastChecked: '2026-09-29T00:27:55.629Z'
-  lastSynchronized: '2026-11-12T18:58:33.233Z'
+  lastSynchronized: '2026-11-27T19:02:10.003Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"241b4c592b8c134cb3a2e69f08556abb51a58c24917727fcb5e86c27ef996262"
-    releasesEtag: W/"d73ed2c150b019be006ba88afc2ec9948a4a42ffa914401a98ce9e1bfd3a7b73"
+    repoEtag: W/"aff48b4cbd337130f17facb1a58b77163153a0078c1f783d083f098272eedd5e"
+    releasesEtag: W/"0282f857b67a06dd4185298f1cbf96230e86a364fbafc56f4ec71f849fd83c42"
 discovery:
   method: 'pending-promotion:github-search'
   confidence: 90

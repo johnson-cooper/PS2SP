@@ -30,12 +30,12 @@ latestRelease:
   url: >-
     https://github.com/khant735/PS2-MultiScreen-Network-Test/releases/tag/dev-develop-72
 activity:
-  lastSynchronized: '2026-11-12T18:57:51.359Z'
+  lastSynchronized: '2026-11-27T19:01:32.411Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"561a2e4b4d75ce59e8790b1050012d4acb119d6737fc391eccad27b1d389c3c3"
-    releasesEtag: W/"b87b597919df4a4372f9f46f47393c8376f07bc019eb2c550960bb654a2c3124"
+    repoEtag: W/"c8a66d8d46afc49a03e829e740453371e86607e36bd897a7322f519a4b009bb0"
+    releasesEtag: W/"05bd700a7c80fd07ca0b2ffed46c933ee3159d119f35da2f4fcfe4581182294d"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

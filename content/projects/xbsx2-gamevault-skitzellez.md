@@ -20,21 +20,21 @@ source:
 repository:
   archived: false
   defaultBranch: gamevault
-  stars: 1
+  stars: 2
   forks: 1
-  lastCommit: '2026-11-04T00:02:06Z'
+  lastCommit: '2026-11-25T05:46:42Z'
 latestRelease:
-  tag: gv-2.0.9.17
-  name: XBSX2 for Game Vault 2.0.9.17
-  publishedAt: '2026-10-22T22:46:16Z'
-  url: 'https://github.com/skitzellez/XBSX2-GameVault/releases/tag/gv-2.0.9.17'
+  tag: gv-top-2.0.9.33
+  name: XBSX2 for Game Vault 2.0.9.33 (self-update)
+  publishedAt: '2026-11-25T05:46:42Z'
+  url: 'https://github.com/skitzellez/XBSX2-GameVault/releases/tag/gv-top-2.0.9.33'
 activity:
-  lastSynchronized: '2026-11-12T18:58:41.011Z'
+  lastSynchronized: '2026-11-27T19:02:17.386Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5727928c943fe76d2fa1579fca7a31877140f708540e59cfecfeb2f24252d20f"
-    releasesEtag: W/"47bf97f0e78c73dde9bb32c5d60064e6a0452c94bde17de7e6576c510bcbfd36"
+    repoEtag: W/"3ce1ce1db152becaa890bcebd25b391d7813c647cdbcf89f466956ebb9ef2f2b"
+    releasesEtag: W/"9c89a7cd647cab029a604db4e95fa2347f6938c8272b33a23ac883f6d6ac8037"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

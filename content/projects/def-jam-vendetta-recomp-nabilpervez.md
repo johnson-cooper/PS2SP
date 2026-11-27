@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-12T18:56:20.146Z'
+  lastSynchronized: '2026-11-27T19:00:04.225Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"32687ef2ff72a9bff2560c8dc580a84817ed45915c6cea304c2c768f63012504"
-    releasesEtag: '"db0eeaf78c7cffaf6713f0d17b358b8c3fd7df257f1d689bfc9bb58c91a46e08"'
+    repoEtag: W/"a87df653469c1bbe36891d8cd0440cd139fad8a2e98acaca8cf8eea1e7a0e87b"
+    releasesEtag: '"eb3dd047e32702d30de12b64e51ca67b8bde230b10688610396d86cb841e3315"'
 discovery:
   method: 'fork-network:jcsix694/def-jam-vendetta-recomp'
   confidence: 100

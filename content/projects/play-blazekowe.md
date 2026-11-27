@@ -20,19 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-07-05T18:37:22Z'
+  lastCommit: '2026-11-20T17:34:28Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-12T18:57:35.271Z'
+  lastSynchronized: '2026-11-27T19:01:15.719Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"58160a2d0c5a260daec1db7fc4140ab2e2ed02cb7744b44a22118d5d13f0b1c3"
-    releasesEtag: '"db0eeaf78c7cffaf6713f0d17b358b8c3fd7df257f1d689bfc9bb58c91a46e08"'
+    repoEtag: W/"b862b9f625c869cdc98ed00ad34442f839a754c7cf6b5580c441330086cd060e"
+    releasesEtag: '"eb3dd047e32702d30de12b64e51ca67b8bde230b10688610396d86cb841e3315"'
 discovery:
   method: 'fork-network:jpd002/Play-'
   confidence: 100

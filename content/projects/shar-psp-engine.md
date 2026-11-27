@@ -13,7 +13,7 @@ tags:
   - released-active
 features: []
 authors: []
-license: null
+license: GPL-3.0
 homepage: null
 source:
   provider: github
@@ -22,19 +22,23 @@ source:
   url: 'https://github.com/robvagin/shar-psp-engine'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
-  forks: 0
-  lastCommit: null
+  defaultBranch: main
+  stars: 35
+  forks: 1
+  lastCommit: '2026-11-17T13:47:38Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: build-108
+  name: Build 108
+  publishedAt: '2026-11-17T13:47:40Z'
+  url: 'https://github.com/robvagin/shar-psp-engine/releases/tag/build-108'
 activity:
   lastChecked: '2026-11-27T04:32:55.319Z'
+  lastSynchronized: '2026-11-27T19:02:06.483Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2ff951c5b7f7bc18f7e4191959db962b533d30fd4902726a1e52b27dd9fb00b5"
+    releasesEtag: W/"e6a00060a3813c9894aa9c1abc653997595871671f0e3cc1200afa99fae51a29"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 80
@@ -47,5 +51,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.
