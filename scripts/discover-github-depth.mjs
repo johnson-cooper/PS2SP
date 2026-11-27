@@ -2,6 +2,15 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import matter from "gray-matter";
+import {
+  GITHUB_DEPTH_SHARD_COUNT,
+  GITHUB_DEPTH_SHARD_MAX_BYTES,
+  canonicalDepthUrl,
+  depthShardName,
+  mergeDepthShards,
+  serializeDepthShard,
+  shardDepthGroups
+} from "../src/lib/github-depth-shards.mjs";
 
 const token = process.env.GITHUB_TOKEN;
 if (!token) {
@@ -11,7 +20,9 @@ if (!token) {
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const PROJECTS_DIR = path.join(ROOT, "content", "projects");
-const OUTPUT_PATH = path.join(ROOT, "data", "resources", "github-depth-live.json");
+const OUTPUT_DIR = path.join(ROOT, "data", "resources", "github-depth-live");
+// Pre-shard single-file index; read once for migration, then removed.
+const LEGACY_OUTPUT_PATH = path.join(ROOT, "data", "resources", "github-depth-live.json");
 const STATE_PATH = path.join(ROOT, "discovery", "github-depth-state.json");
 
 const MAX_REQUESTS = Math.max(1, Number.parseInt(process.env.MAX_GITHUB_DEPTH_API_REQUESTS ?? "300", 10));
@@ -75,15 +86,7 @@ async function github(endpoint) {
   return response.json();
 }
 
-function canonicalUrl(value) {
-  try {
-    const url = new URL(value);
-    url.hash = "";
-    return url.toString().replace(/\/$/, "");
-  } catch {
-    return String(value).replace(/\/$/, "");
-  }
-}
+const canonicalUrl = canonicalDepthUrl;
 
 function encodeBranch(branch) {
   return String(branch).split("/").map(encodeURIComponent).join("/");
@@ -221,15 +224,23 @@ function ensureGroup(groups, category, description) {
   return group;
 }
 
+// group.links has ~200k entries; a linear scan per upsert made each run quadratic.
+const linkIndexes = new WeakMap();
 function upsertLink(group, link) {
+  let index = linkIndexes.get(group);
+  if (!index) {
+    index = new Map(group.links.map((item) => [canonicalUrl(item.url), item]));
+    linkIndexes.set(group, index);
+  }
   const key = canonicalUrl(link.url);
-  const existing = group.links.find((item) => canonicalUrl(item.url) === key);
+  const existing = index.get(key);
   if (existing) {
     existing.name = link.name;
     existing.keywords = [...new Set([...(existing.keywords ?? []), ...(link.keywords ?? [])])];
     return false;
   }
   group.links.push(link);
+  index.set(key, link);
   return true;
 }
 
@@ -276,7 +287,20 @@ for (const repo of knownRepositories) {
   }
 }
 
-const groups = await readJson(OUTPUT_PATH, []);
+async function readDepthGroups() {
+  let files = [];
+  try {
+    files = (await fs.readdir(OUTPUT_DIR)).filter((name) => name.endsWith(".json")).sort();
+  } catch (error) {
+    if (error?.code !== "ENOENT") throw error;
+  }
+  const shards = [];
+  for (const file of files) shards.push(await readJson(path.join(OUTPUT_DIR, file), []));
+  shards.push(await readJson(LEGACY_OUTPUT_PATH, []));
+  return mergeDepthShards(shards);
+}
+
+const groups = await readDepthGroups();
 const branchGroup = ensureGroup(
   groups,
   "GitHub — Branches & Fork Branches Live",
@@ -423,9 +447,26 @@ state.lastRun = {
   stoppedForBudget
 };
 
-await fs.mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
+const shardFiles = shardDepthGroups(groups).map((shard, index) => ({
+  name: depthShardName(index),
+  text: serializeDepthShard(shard)
+}));
+for (const { name, text } of shardFiles) {
+  const size = Buffer.byteLength(text);
+  if (size > GITHUB_DEPTH_SHARD_MAX_BYTES) {
+    throw new Error(
+      `${name} is ${size} bytes, over the ${GITHUB_DEPTH_SHARD_MAX_BYTES}-byte shard budget; raise GITHUB_DEPTH_SHARD_COUNT (now ${GITHUB_DEPTH_SHARD_COUNT}).`
+    );
+  }
+}
+await fs.mkdir(OUTPUT_DIR, { recursive: true });
 await fs.mkdir(path.dirname(STATE_PATH), { recursive: true });
-await fs.writeFile(OUTPUT_PATH, `${JSON.stringify(groups, null, 2)}\n`);
+const keep = new Set(shardFiles.map(({ name }) => name));
+for (const name of await fs.readdir(OUTPUT_DIR)) {
+  if (name.endsWith(".json") && !keep.has(name)) await fs.rm(path.join(OUTPUT_DIR, name));
+}
+for (const { name, text } of shardFiles) await fs.writeFile(path.join(OUTPUT_DIR, name), text);
+await fs.rm(LEGACY_OUTPUT_PATH, { force: true });
 await fs.writeFile(STATE_PATH, `${JSON.stringify(state, null, 2)}\n`);
 
 console.log(
