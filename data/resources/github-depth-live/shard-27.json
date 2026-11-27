@@ -4216,6 +4216,97 @@
         ]
       },
       {
+        "name": "LKNSI/jak-project — branch: v/jak2-debug-menu-give-stuff",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/jak2-debug-menu-give-stuff",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "LKNSI/jak-project",
+          "v/jak2-debug-menu-give-stuff"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project — branch: w/shadow3-wip",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/shadow3-wip",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "LKNSI/jak-project",
+          "w/shadow3-wip"
+        ]
+      },
+      {
+        "name": "LLMWorkStudy/jak-project — branch: w/jak3-decomp15",
+        "url": "https://github.com/LLMWorkStudy/jak-project/tree/w/jak3-decomp15",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "LLMWorkStudy/jak-project",
+          "w/jak3-decomp15"
+        ]
+      },
+      {
+        "name": "LLMWorkStudy/jak-project — branch: w/splitscreen-hack",
+        "url": "https://github.com/LLMWorkStudy/jak-project/tree/w/splitscreen-hack",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "LLMWorkStudy/jak-project",
+          "w/splitscreen-hack"
+        ]
+      },
+      {
+        "name": "Lrs121/jakdaxter — branch: v/format-jak1",
+        "url": "https://github.com/Lrs121/jakdaxter/tree/v/format-jak1",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Lrs121/jakdaxter",
+          "v/format-jak1"
+        ]
+      },
+      {
+        "name": "Lrs121/jakdaxter — branch: w/frame-limiter-tweaks",
+        "url": "https://github.com/Lrs121/jakdaxter/tree/w/frame-limiter-tweaks",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Lrs121/jakdaxter",
+          "w/frame-limiter-tweaks"
+        ]
+      },
+      {
+        "name": "Lrs121/jakdaxter — branch: w/progress-plus-fixes",
+        "url": "https://github.com/Lrs121/jakdaxter/tree/w/progress-plus-fixes",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "Lrs121/jakdaxter",
+          "w/progress-plus-fixes"
+        ]
+      },
+      {
         "name": "ltsyk/wrench — branch: fix/docs-typos-0730000052",
         "url": "https://github.com/ltsyk/wrench/tree/fix/docs-typos-0730000052",
         "keywords": [
@@ -64828,6 +64919,1056 @@
         ]
       },
       {
+        "name": "LKNSI/jak-project@bot/update-controller-db — goal_src/user",
+        "url": "https://github.com/LKNSI/jak-project/tree/bot/update-controller-db/goal_src/user",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "bot/update-controller-db",
+          "goal_src/user"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@ci/flag-asm-diff — goal_src/jak1/engine/game",
+        "url": "https://github.com/LKNSI/jak-project/tree/ci/flag-asm-diff/goal_src/jak1/engine/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "ci/flag-asm-diff",
+          "goal_src/jak1/engine/game"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@ci/flag-asm-diff — goalc",
+        "url": "https://github.com/LKNSI/jak-project/tree/ci/flag-asm-diff/goalc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "ci/flag-asm-diff",
+          "goalc"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@codex/jak3-subtitles-menu-items-slowdown-fixes — common/global_profiler",
+        "url": "https://github.com/LKNSI/jak-project/tree/codex/jak3-subtitles-menu-items-slowdown-fixes/common/global_profiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "codex/jak3-subtitles-menu-items-slowdown-fixes",
+          "common/global_profiler"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@codex/jak3-subtitles-menu-items-slowdown-fixes — goal_src/jak2/levels/demo",
+        "url": "https://github.com/LKNSI/jak-project/tree/codex/jak3-subtitles-menu-items-slowdown-fixes/goal_src/jak2/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "codex/jak3-subtitles-menu-items-slowdown-fixes",
+          "goal_src/jak2/levels/demo"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@d/decomp-inverse-mult — scripts/examples",
+        "url": "https://github.com/LKNSI/jak-project/tree/d/decomp-inverse-mult/scripts/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "d/decomp-inverse-mult",
+          "scripts/examples"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@d/jak2-test-extra-levels — game/graphics/opengl_renderer/loader",
+        "url": "https://github.com/LKNSI/jak-project/tree/d/jak2-test-extra-levels/game/graphics/opengl_renderer/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "d/jak2-test-extra-levels",
+          "game/graphics/opengl_renderer/loader"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@d/jak2-test-extra-levels — test",
+        "url": "https://github.com/LKNSI/jak-project/tree/d/jak2-test-extra-levels/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "d/jak2-test-extra-levels",
+          "test"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@d/jak2-test-extra-levels — test/offline",
+        "url": "https://github.com/LKNSI/jak-project/tree/d/jak2-test-extra-levels/test/offline",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "d/jak2-test-extra-levels",
+          "test/offline"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@d/jak3-elec-gate-lightning-quality — goal_src/jakx/engine/common-obs/driver",
+        "url": "https://github.com/LKNSI/jak-project/tree/d/jak3-elec-gate-lightning-quality/goal_src/jakx/engine/common-obs/driver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "d/jak3-elec-gate-lightning-quality",
+          "goal_src/jakx/engine/common-obs/driver"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@gh-readonly-queue/master/pr-2202-722ffa3f1922e118bc54a7ac2d9862d4f0f3a6cd — goal_src/jak2/engine/game",
+        "url": "https://github.com/LKNSI/jak-project/tree/gh-readonly-queue/master/pr-2202-722ffa3f1922e118bc54a7ac2d9862d4f0f3a6cd/goal_src/jak2/engine/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "gh-readonly-queue/master/pr-2202-722ffa3f1922e118bc54a7ac2d9862d4f0f3a6cd",
+          "goal_src/jak2/engine/game"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@j2/enemy — game/sound",
+        "url": "https://github.com/LKNSI/jak-project/tree/j2/enemy/game/sound",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "j2/enemy",
+          "game/sound"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@j2/enemy — goal_src/jak1/pc",
+        "url": "https://github.com/LKNSI/jak-project/tree/j2/enemy/goal_src/jak1/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "j2/enemy",
+          "goal_src/jak1/pc"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@test2 — goal_src/jak2/tools",
+        "url": "https://github.com/LKNSI/jak-project/tree/test2/goal_src/jak2/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "test2",
+          "goal_src/jak2/tools"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/add-finnish-mostly — scripts/examples",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/add-finnish-mostly/scripts/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/add-finnish-mostly",
+          "scripts/examples"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/arm-instructions — decompiler",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/arm-instructions/decompiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/arm-instructions",
+          "decompiler"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/compiler-report — tools/level_tools",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/compiler-report/tools/level_tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/compiler-report",
+          "tools/level_tools"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/customize-saves-and-settings-loc — goal_src/jak2/engine/game",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/customize-saves-and-settings-loc/goal_src/jak2/engine/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/customize-saves-and-settings-loc",
+          "goal_src/jak2/engine/game"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/debugging-window-hang — game/graphics/opengl_renderer/loader",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/debugging-window-hang/game/graphics/opengl_renderer/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/debugging-window-hang",
+          "game/graphics/opengl_renderer/loader"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/debugging-window-hang — test",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/debugging-window-hang/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/debugging-window-hang",
+          "test"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/debugging-window-hang — test/offline",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/debugging-window-hang/test/offline",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/debugging-window-hang",
+          "test/offline"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/deps-sdl-3-4-4 — goal_src/jak1/examples",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/deps-sdl-3-4-4/goal_src/jak1/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/deps-sdl-3-4-4",
+          "goal_src/jak1/examples"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/fix-bind-labels — common/global_profiler",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/fix-bind-labels/common/global_profiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/fix-bind-labels",
+          "common/global_profiler"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/fix-bind-labels — goal_src/jak2/levels/demo",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/fix-bind-labels/goal_src/jak2/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/fix-bind-labels",
+          "goal_src/jak2/levels/demo"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/fix-macos-screen-size — scripts/examples",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/fix-macos-screen-size/scripts/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/fix-macos-screen-size",
+          "scripts/examples"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/format-jak1 — common/global_profiler",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/format-jak1/common/global_profiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/format-jak1",
+          "common/global_profiler"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/format-jak1 — goal_src/jak2/levels/demo",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/format-jak1/goal_src/jak2/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/format-jak1",
+          "goal_src/jak2/levels/demo"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/integ-test — game",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/integ-test/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/integ-test",
+          "game"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/jak2-mirror-mode — goal_src/user",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/jak2-mirror-mode/goal_src/user",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/jak2-mirror-mode",
+          "goal_src/user"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/jak3-fix-load-game-crash — lsp",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/jak3-fix-load-game-crash/lsp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/jak3-fix-load-game-crash",
+          "lsp"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/jak3-unlock-everything — scripts/examples",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/jak3-unlock-everything/scripts/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/jak3-unlock-everything",
+          "scripts/examples"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/log-gpu-info — scripts/examples",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/log-gpu-info/scripts/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/log-gpu-info",
+          "scripts/examples"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/macos-apple-silicon — game/tools",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/macos-apple-silicon/game/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/macos-apple-silicon",
+          "game/tools"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/macos-fix-dylib — goal_src/jak1/engine/game",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/macos-fix-dylib/goal_src/jak1/engine/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/macos-fix-dylib",
+          "goal_src/jak1/engine/game"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/macos-fix-dylib — goalc",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/macos-fix-dylib/goalc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/macos-fix-dylib",
+          "goalc"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/macos-version-number-check — lsp",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/macos-version-number-check/lsp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/macos-version-number-check",
+          "lsp"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/nrepl-fixes — goal_src/jak2/engine/game",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/nrepl-fixes/goal_src/jak2/engine/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/nrepl-fixes",
+          "goal_src/jak2/engine/game"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/offline-test-fix — goal_src/user",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/offline-test-fix/goal_src/user",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/offline-test-fix",
+          "goal_src/user"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/persist-sound — goal_src/jak1/examples",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/persist-sound/goal_src/jak1/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/persist-sound",
+          "goal_src/jak1/examples"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/translations — game",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/translations/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/translations",
+          "game"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/update-fmt — goal_src/jak2/tools",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/update-fmt/goal_src/jak2/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/update-fmt",
+          "goal_src/jak2/tools"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/update-rapid-json — goal_src/jak2/levels/city/port",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/update-rapid-json/goal_src/jak2/levels/city/port",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/update-rapid-json",
+          "goal_src/jak2/levels/city/port"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@v/zydis-update — lsp",
+        "url": "https://github.com/LKNSI/jak-project/tree/v/zydis-update/lsp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "v/zydis-update",
+          "lsp"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/better-glow-flush — goal_src/jak1/engine/game",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/better-glow-flush/goal_src/jak1/engine/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/better-glow-flush",
+          "goal_src/jak1/engine/game"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/better-glow-flush — goalc",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/better-glow-flush/goalc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/better-glow-flush",
+          "goalc"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/dumb — goal_src/jak2/engine/game",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/dumb/goal_src/jak2/engine/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/dumb",
+          "goal_src/jak2/engine/game"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/fcs-debug-vis — game/graphics/opengl_renderer/loader",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/fcs-debug-vis/game/graphics/opengl_renderer/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/fcs-debug-vis",
+          "game/graphics/opengl_renderer/loader"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/fcs-debug-vis — test",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/fcs-debug-vis/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/fcs-debug-vis",
+          "test"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/fcs-debug-vis — test/offline",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/fcs-debug-vis/test/offline",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/fcs-debug-vis",
+          "test/offline"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/frame-limiter-tweaks — test/goalc",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/frame-limiter-tweaks/test/goalc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/frame-limiter-tweaks",
+          "test/goalc"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/frame-limiter-tweaks — tools",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/frame-limiter-tweaks/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/frame-limiter-tweaks",
+          "tools"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/gfx-blurry-fixes — common",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/gfx-blurry-fixes/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/gfx-blurry-fixes",
+          "common"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/jak3-decomp15 — custom_levels",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/jak3-decomp15/custom_levels",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/jak3-decomp15",
+          "custom_levels"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/jak3-decomp15 — game/mips2c",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/jak3-decomp15/game/mips2c",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/jak3-decomp15",
+          "game/mips2c"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/jak3-decomp15 — goal_src/jak2/examples",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/jak3-decomp15/goal_src/jak2/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/jak3-decomp15",
+          "goal_src/jak2/examples"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/jak3-eye-fix — scripts/examples",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/jak3-eye-fix/scripts/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/jak3-eye-fix",
+          "scripts/examples"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/jak3-minimap-tex — decompiler",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/jak3-minimap-tex/decompiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/jak3-minimap-tex",
+          "decompiler"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/maybe-fix-empty-draw — goal_src/engine/game",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/maybe-fix-empty-draw/goal_src/engine/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/maybe-fix-empty-draw",
+          "goal_src/engine/game"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/progress-plus-fixes — common/global_profiler",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/progress-plus-fixes/common/global_profiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/progress-plus-fixes",
+          "common/global_profiler"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/progress-plus-fixes — goal_src/jak2/levels/demo",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/progress-plus-fixes/goal_src/jak2/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/progress-plus-fixes",
+          "goal_src/jak2/levels/demo"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/progress-plus-fixes — test/game",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/progress-plus-fixes/test/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/progress-plus-fixes",
+          "test/game"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/sky-perf — game/graphics/opengl_renderer/loader",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/sky-perf/game/graphics/opengl_renderer/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/sky-perf",
+          "game/graphics/opengl_renderer/loader"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/sky-perf — test",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/sky-perf/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/sky-perf",
+          "test"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/sky-perf — test/offline",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/sky-perf/test/offline",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/sky-perf",
+          "test/offline"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/socket-tweaks — goal_src/engine/game",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/socket-tweaks/goal_src/engine/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/socket-tweaks",
+          "goal_src/engine/game"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/speedup-decomp — game/tools",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/speedup-decomp/game/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/speedup-decomp",
+          "game/tools"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/splitscreen-hack — common/global_profiler",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/splitscreen-hack/common/global_profiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/splitscreen-hack",
+          "common/global_profiler"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/splitscreen-hack — goal_src/jak2/levels/demo",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/splitscreen-hack/goal_src/jak2/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/splitscreen-hack",
+          "goal_src/jak2/levels/demo"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/stack-vars — goal_src/user",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/stack-vars/goal_src/user",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/stack-vars",
+          "goal_src/user"
+        ]
+      },
+      {
+        "name": "LKNSI/jak-project@w/tfrag-investigation — goal_src/levels/demo",
+        "url": "https://github.com/LKNSI/jak-project/tree/w/tfrag-investigation/goal_src/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LKNSI/jak-project",
+          "w/tfrag-investigation",
+          "goal_src/levels/demo"
+        ]
+      },
+      {
         "name": "llakssz/libsmb2@make_openssl_optional — cmake/Modules",
         "url": "https://github.com/llakssz/libsmb2/tree/make_openssl_optional/cmake/Modules",
         "keywords": [
@@ -65080,6 +66221,21 @@
           "llesieur99/ratchet-uya-decomp",
           "decomp/func-003b6410",
           "tools"
+        ]
+      },
+      {
+        "name": "LLMWorkStudy/jak-project@ci/flag-asm-diff — scripts/examples",
+        "url": "https://github.com/LLMWorkStudy/jak-project/tree/ci/flag-asm-diff/scripts/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "LLMWorkStudy/jak-project",
+          "ci/flag-asm-diff",
+          "scripts/examples"
         ]
       },
       {
@@ -105468,7 +106624,7 @@
         ]
       },
       {
-        "name": "liziyang168/jak-project@w/jak3-decomp15 — submodule: dependencies/zycore",
+        "name": "LLMWorkStudy/jak-project@ci/flag-asm-diff — submodule: dependencies/zycore",
         "url": "https://github.com/zyantific/zycore-c",
         "keywords": [
           "PS2",
@@ -105617,7 +106773,11 @@
           "lacamar/jak-project",
           "linux-aarch64",
           "liziyang168/jak-project",
-          "l10n_master"
+          "l10n_master",
+          "LKNSI/jak-project",
+          "codex/jak3-subtitles-menu-items-slowdown-fixes",
+          "d/jak3-elec-gate-lightning-quality",
+          "LLMWorkStudy/jak-project"
         ]
       },
       {
