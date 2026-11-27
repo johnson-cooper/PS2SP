@@ -1,0 +1,16 @@
+{
+  "repository": "Jasbenben/retro-gaming-graphics-skill",
+  "repositoryId": "1474343903",
+  "url": "https://github.com/Jasbenben/retro-gaming-graphics-skill",
+  "description": "Claude skill: make three.js games look like PS1, N64 or PS2 games — low-res Gouraud rendering, painted textures, PS1 wobble, box-modelled characters.",
+  "score": 70,
+  "evidence": [
+    "PS2-specific topic",
+    "repository description explicitly identifies PS2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-27T14:21:44.584Z",
+  "checkedAt": "2026-11-27T14:21:44.584Z"
+}
