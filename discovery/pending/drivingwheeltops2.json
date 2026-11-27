@@ -1,0 +1,16 @@
+{
+  "repository": "lucaslpsilveira/DrivingWheelToPS2",
+  "repositoryId": "997614188",
+  "url": "https://github.com/lucaslpsilveira/DrivingWheelToPS2",
+  "description": "Este projeto consiste em ligar um volante g920 a um ps2 com o auxilio de um arduino para enviar os dados do PC ao Volante.",
+  "score": 75,
+  "evidence": [
+    "repository description explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-unreleased",
+  "fork": null,
+  "discoveredAt": "2026-11-27T22:57:23.095Z",
+  "checkedAt": "2026-11-27T22:57:23.095Z"
+}
