@@ -14,7 +14,7 @@ tags:
   - fork
 features: []
 authors: []
-license: null
+license: MIT
 homepage: null
 source:
   provider: github
@@ -23,10 +23,10 @@ source:
   url: 'https://github.com/Neemo07/decomp.anything'
 repository:
   archived: false
-  defaultBranch: null
+  defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: null
+  lastCommit: '2026-11-07T18:31:24Z'
 latestRelease:
   tag: null
   name: null
@@ -34,8 +34,12 @@ latestRelease:
   url: null
 activity:
   lastChecked: '2026-11-07T19:37:34.160Z'
+  lastSynchronized: '2026-11-27T08:33:43.623Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"571a98fc3853a4647ae722b5094c897a91863ce62e1777d70174e8384dce703a"
+    releasesEtag: '"16208236851f74c42eac13873cc4181c55047f06f9f0e8a4ed3bfffb11ba8a51"'
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75
@@ -51,5 +55,4 @@ relationships:
   forkOf: giveen/decomp.anything
   source: giveen/decomp.anything
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

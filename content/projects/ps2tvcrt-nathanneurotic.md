@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-02T06:50:33.516Z'
+  lastSynchronized: '2026-11-27T08:36:48.199Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"47698e4a2a915ba587e29abecb4cc4caded08b9dfa64b571428984a596a433a6"
+    releasesEtag: '"16208236851f74c42eac13873cc4181c55047f06f9f0e8a4ed3bfffb11ba8a51"'
 discovery:
   method: 'fork-network:Kyllemn/PS2TVCRT'
   confidence: 95
@@ -47,5 +50,4 @@ relationships:
   forkOf: Kyllemn/PS2TVCRT
   source: Kyllemn/PS2TVCRT
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

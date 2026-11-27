@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2025-12-29T19:09:45Z'
   url: 'https://github.com/israpps/Enceladus/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-28T08:32:44.457Z'
+  lastSynchronized: '2026-11-27T08:33:50.292Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"69213df89a36120d2e2eb86a6bbd0a899b984cf6d4aeda68e3294d9bc34470c9"
-    releasesEtag: W/"0aaaf4fa38aa2d704968a60438ff81820d51486594447260c9cd5ba7de44e222"
+    repoEtag: W/"62fa7e081f4cb1d47e7459e8e2ebea562b20eb036549a83a3c617e601105f029"
+    releasesEtag: W/"32bf0b12f10de93de54ace922e1e0f7267a523b83005a4ba824911c2a33a50cb"
 discovery:
   method: 'fork-network:DanielSant0s/Enceladus'
   confidence: 100

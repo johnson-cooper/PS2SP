@@ -23,22 +23,22 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 5
-  forks: 0
-  lastCommit: '2026-10-28T07:53:43Z'
+  stars: 18
+  forks: 1
+  lastCommit: '2026-11-26T15:54:11Z'
 latestRelease:
-  tag: v0.1.23
-  name: Nightfire Rust 0.1.23 alpha
-  publishedAt: '2026-10-28T04:47:45Z'
-  url: 'https://github.com/YodaMMM/NightfirePort/releases/tag/v0.1.23'
+  tag: v0.1.44
+  name: Nightfire Rust 0.1.44 alpha
+  publishedAt: '2026-11-23T08:12:46Z'
+  url: 'https://github.com/YodaMMM/NightfirePort/releases/tag/v0.1.44'
 activity:
   lastChecked: '2026-10-20T15:22:35.905Z'
-  lastSynchronized: '2026-10-28T08:33:10.030Z'
+  lastSynchronized: '2026-11-27T08:34:38.314Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"be265446bdf563d48aec0fb170322bf47427dab3eea7c7a11ae8cdf2c51fefd7"
-    releasesEtag: W/"e9ffb27951c52148d93f92e44fb712529587bab40d361de686e462b41f4ca60c"
+    repoEtag: W/"6a5eaeb9af9b333a5f63d7457df93230b1d4581baa0fd84697ea70c857eb23dd"
+    releasesEtag: W/"30426575e40d8a547955cc65bd27d329d153a46dba16657d8224ccf71d495d34"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85

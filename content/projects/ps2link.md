@@ -21,9 +21,9 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 116
-  forks: 25
-  lastCommit: '2026-04-25T13:19:24Z'
+  stars: 117
+  forks: 26
+  lastCommit: '2026-11-24T20:08:12Z'
 latestRelease:
   tag: RenameMe
   name: v1.9.1
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/ps2dev/ps2link/releases/tag/RenameMe'
 activity:
   lastChecked: '2026-09-29T00:27:12.819Z'
-  lastSynchronized: '2026-10-28T08:34:02.634Z'
+  lastSynchronized: '2026-11-27T08:36:26.894Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"da7a8911b327b0b01f03da7f8a016b910ad5426140e08ad2ba1ca12f685a38d6"
-    releasesEtag: W/"351cd6599f9278a6ea1c5712988c6a95ffacc3e9fe15fcb1d268fdb0403c5f17"
+    repoEtag: W/"aa7715314329818db840b5d66a55d0d1e86ae8ef9c7d6bce53e987a26b8e0542"
+    releasesEtag: W/"f9579938a1ae25d4b7059d70127cceaf0fcdaa9f02fe9d9d65707c6bd83351d1"
 discovery:
   method: curated
   confidence: 100

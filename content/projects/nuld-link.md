@@ -17,7 +17,7 @@ source:
 repository:
   archived: false
   defaultBranch: nuld-av
-  stars: 0
+  stars: 4
   forks: 0
   lastCommit: '2026-11-16T17:45:40Z'
 latestRelease:
@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-11-16T17:24:25Z'
   url: 'https://github.com/danielnuld/nuld-link/releases/tag/v2.0.0'
 activity:
-  lastSynchronized: '2026-11-16T22:31:39.705Z'
+  lastSynchronized: '2026-11-27T08:34:39.634Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f038d22467ea73bcf30a3a69947241841ab62fa4535984cd8ce640d0a678df05"
+    releasesEtag: W/"61cd0eec4ccd2bd08b67180103f43488cfc35db1cdfe29e39164ef3a0b5a250e"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -42,5 +45,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

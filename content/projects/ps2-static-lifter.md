@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: '2026-10-22T15:14:17Z'
   url: 'https://github.com/takidz507/ps2-static-lifter/releases/tag/v1.0-ladder'
 activity:
-  lastSynchronized: '2026-10-28T08:33:57.225Z'
+  lastSynchronized: '2026-11-27T08:36:17.354Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e50a94103195ae40a090f55c897d12b6ec4d62dd8929c086f3676b581f46e9bd"
-    releasesEtag: W/"bb1384917316499aa0edcd0c34db29ef3aa0480b16f6e75a8c9fb91547034d3c"
+    repoEtag: W/"a39f6503a7e0bf7de1f8bf3854f4548628c17f67f856acadc0ffc7fddb85e0ee"
+    releasesEtag: W/"3117b9b3a9f003d7ba8fb3de74e9903778b802547c26cd7092c6b0591276f655"
 discovery:
   method: 'incremental:ps2sdk in:name,description,readme'
   confidence: 100

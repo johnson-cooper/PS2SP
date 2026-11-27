@@ -29,18 +29,18 @@ repository:
   lastCommit: '2026-10-17T11:38:35Z'
 latestRelease:
   tag: Releases
-  name: Version 1.0
-  publishedAt: '2026-10-17T11:37:24Z'
+  name: Version 1.0.1
+  publishedAt: '2026-11-19T23:45:28Z'
   url: >-
     https://github.com/TheTurkishDude/The-Incredible-Hulk-Ultimate-Destruction-P3D-Skin-Animations-Skeleton-Add-On/releases/tag/Releases
 activity:
   lastChecked: '2026-10-18T06:36:07.983Z'
-  lastSynchronized: '2026-10-28T08:34:26.966Z'
+  lastSynchronized: '2026-11-27T08:37:10.074Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8742e1327b3445ab0d822634a42a1ed54df7501f5636c79ae1ddc87f9a103dab"
-    releasesEtag: W/"73c392a3d1030a00e4f5a7018b68cf4cf2c6741082c23dab45230cd6d7f4d1dc"
+    repoEtag: W/"074d356fae4b7ed9b94e0601d95e846d4915487b63d934ada8b29f08bb3d73a5"
+    releasesEtag: W/"7ae03c104cd1e2a2c5fd303eacfe04198def859efae857906ecff957ec52d799"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85

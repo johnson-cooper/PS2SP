@@ -28,21 +28,21 @@ source:
 repository:
   archived: false
   defaultBranch: dualsense-bt
-  stars: 2
-  forks: 1
-  lastCommit: '2026-10-22T01:03:37Z'
+  stars: 3
+  forks: 2
+  lastCommit: '2026-10-31T21:06:06Z'
 latestRelease:
-  tag: '1.1'
-  name: 'v1.1: Improve a little bit latency of DualSense'
-  publishedAt: '2026-10-12T20:18:09Z'
-  url: 'https://github.com/rodrigoGalvanDev/OPL-DualSense-BT/releases/tag/1.1'
+  tag: '1.2'
+  name: 'v1.2: DS4 clones, Realtek dongles, Controller Setup, multitap'
+  publishedAt: '2026-10-31T20:40:03Z'
+  url: 'https://github.com/rodrigoGalvanDev/OPL-DualSense-BT/releases/tag/1.2'
 activity:
-  lastSynchronized: '2026-10-28T08:33:22.562Z'
+  lastSynchronized: '2026-11-27T08:35:04.215Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"047742780dcbc93deb70f36cd85cc32b16725327e3a43d0c16d833a5d442dba3"
-    releasesEtag: W/"f4bfffbf73272c52ed0f0eed2dd70f9d4f1e8a49706a704a46bccffc8cdd569b"
+    repoEtag: W/"dbdbebcdb87ae0c3977804e2273b6e3991f9d1bed29b0adb76cbaf5b250a333e"
+    releasesEtag: W/"e85b4c4166f05736e02b8ecb06e0d92ebc66f6e9883ee6157bd979b215fc53c7"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

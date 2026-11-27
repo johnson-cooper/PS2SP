@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-19T02:49:39.009Z'
+  lastSynchronized: '2026-11-27T08:37:05.895Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"a0796c12da36bda91924650b831b9785763c38360c1b5098f3db52b895a204a5"
+    releasesEtag: '"16208236851f74c42eac13873cc4181c55047f06f9f0e8a4ed3bfffb11ba8a51"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: DeZer04/sengoku-basara-2-heroes-id
   source: DeZer04/sengoku-basara-2-heroes-id
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

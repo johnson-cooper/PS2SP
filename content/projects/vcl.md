@@ -26,9 +26,12 @@ latestRelease:
   publishedAt: '2026-11-05T02:24:01Z'
   url: 'https://github.com/ps2build/vcl/releases/tag/v2026.11.04'
 activity:
-  lastSynchronized: '2026-11-06T00:33:31.672Z'
+  lastSynchronized: '2026-11-27T08:37:17.027Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"351462ef7eb9218edc528ae5466d9b51bd3a46d67a8fcac2d24913839861336c"
+    releasesEtag: W/"8b95d4a2af3ea6bbe4c228695ae506201b750d9502e34e07e3b34950add77d99"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -42,5 +45,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

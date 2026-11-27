@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/coregiu/rush-car/releases/tag/v3.0-finish-all-integrate'
 activity:
   lastChecked: '2026-10-26T14:34:04.716Z'
-  lastSynchronized: '2026-10-28T08:34:22.258Z'
+  lastSynchronized: '2026-11-27T08:37:02.222Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"be403eeb423f65ec004fd07bce2561130515e5e0547210a52a3268d0c4d41d8b"
-    releasesEtag: W/"999d36f024e60671d9b76cad5d65876a3aee92fb63b08986193f337100eb800c"
+    repoEtag: W/"9c1ddeb4c81fef5a6e8a506716a40b8418aed9b939adfe5dfd2326f2a5c9a6aa"
+    releasesEtag: W/"ea29feda2d3a5913e3cc15352d2cf0c41bf4bf1a2da25d91ef7db342913602d5"
 discovery:
   method: 'pending-promotion:incremental:topic:ps2'
   confidence: 80

@@ -22,19 +22,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-09-30T18:27:00Z'
+  lastCommit: '2026-11-04T03:19:56Z'
 latestRelease:
   tag: nightly
   name: nightly
   publishedAt: '2026-07-16T16:59:56Z'
   url: 'https://github.com/MayanKoyote/sd2psXtd-firmware/releases/tag/nightly'
 activity:
-  lastSynchronized: '2026-10-28T08:34:23.492Z'
+  lastSynchronized: '2026-11-27T08:37:04.198Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f53d5c6170a387abddd9c4768ef52f59174377ff0c0c638fb3b95b89a5024eb7"
-    releasesEtag: W/"72627f2ab659f3e6fbbbd7d0bf9d154e0d2b9ea00a284d72b6189f08ff8800fe"
+    repoEtag: W/"3028f1e478d442b6a3538946cf6bfd5acd23d53c7371c1804fbdee3452c1e1a7"
+    releasesEtag: W/"9623e172d6cf7898108dc1d0ab954829a398f63752e42d5f09cd2dea1e719a8c"
 discovery:
   method: 'fork-network:sd2psXtd/firmware'
   confidence: 95

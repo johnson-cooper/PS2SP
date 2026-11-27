@@ -26,19 +26,19 @@ repository:
   defaultBranch: wOPL-base
   stars: 0
   forks: 0
-  lastCommit: '2026-09-08T16:38:06Z'
+  lastCommit: '2026-11-02T21:42:11Z'
 latestRelease:
   tag: latest
   name: Latest beta - Double Unofficial OPL v1.2-beta-462
   publishedAt: '2026-07-24T01:25:43Z'
   url: 'https://github.com/mystyq/wOPL/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-28T08:34:33.465Z'
+  lastSynchronized: '2026-11-27T08:37:21.084Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c697b2f50fd525b66987a4500b2898ccff7af5b60a40cd6a6320e7c893dab2ec"
-    releasesEtag: W/"dc1841d02fe20d405b102bbdddf9b0f72ad56c5dc9a9195d44e98e59c7ade315"
+    repoEtag: W/"e3746a02d342dee0cba9677c621020dd20c43112aacbce532fb62e1f5d5ff37f"
+    releasesEtag: W/"06c521e5c5074f5b9748a80d5eb120960cfe8d94c1c8739d2b324fdb69a17807"
 discovery:
   method: 'fork-network:ps2homebrew/wOPL'
   confidence: 100

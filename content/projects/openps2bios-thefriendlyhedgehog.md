@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-30T16:14:43.736Z'
+  lastSynchronized: '2026-11-27T08:35:01.779Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d19093fc1caf651959da4911879b3e38a0fdab5fbf1e0ffd3f8af01e3d30f8cd"
+    releasesEtag: '"16208236851f74c42eac13873cc4181c55047f06f9f0e8a4ed3bfffb11ba8a51"'
 discovery:
   method: 'fork-network:TamaribaEmu/OpenPS2BIOS'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: TamaribaEmu/OpenPS2BIOS
   source: TamaribaEmu/OpenPS2BIOS
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-06T21:04:14.173Z'
+  lastSynchronized: '2026-11-27T08:34:11.715Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"017599ec841564afbcf145f58f14ea4ba08a96eab3dfc814d561c299b2eeb4f1"
+    releasesEtag: '"16208236851f74c42eac13873cc4181c55047f06f9f0e8a4ed3bfffb11ba8a51"'
 discovery:
   method: 'fork-network:Aloqas/jak-project'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: Aloqas/jak-project
   source: open-goal/jak-project
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

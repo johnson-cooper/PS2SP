@@ -33,12 +33,12 @@ latestRelease:
     https://github.com/Oblytoid/Pitfall-Lost-Expedition-PTBR/releases/tag/v0.9.1-beta
 activity:
   lastChecked: '2026-10-10T07:44:46.917Z'
-  lastSynchronized: '2026-10-28T08:33:43.896Z'
+  lastSynchronized: '2026-11-27T08:35:47.324Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"09e0e58cf34e7cdab434d821ec5b708e3bb77028f8f04cc3a839c650f129a1bd"
-    releasesEtag: W/"bb43c2077bcc3f8f8ccb9b98a074d0ddf96d20076cd9c1e0a776743f8d3e1e8b"
+    repoEtag: W/"16e6b3e5d5c6c51ee4c046c838e37b0cd4652f7189e0a00cd3f0bfd88d7e760d"
+    releasesEtag: W/"570bfd760be146a4e85a6443251b2921d0be59ad3cc3e476460143842e14f39b"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

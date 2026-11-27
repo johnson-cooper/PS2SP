@@ -13,8 +13,8 @@ tags:
   - prerelease-only
 features: []
 authors: []
-license: null
-homepage: null
+license: GPL-3.0
+homepage: 'https://openmx.dev/'
 source:
   provider: github
   repository: FIZL0/openmx
@@ -22,19 +22,23 @@ source:
   url: 'https://github.com/FIZL0/openmx'
 repository:
   archived: false
-  defaultBranch: null
-  stars: 0
-  forks: 0
-  lastCommit: null
+  defaultBranch: main
+  stars: 17
+  forks: 1
+  lastCommit: '2026-11-23T23:01:27Z'
 latestRelease:
-  tag: null
-  name: null
-  publishedAt: null
-  url: null
+  tag: v0.20.0
+  name: openMX 0.20.0
+  publishedAt: '2026-11-23T22:59:16Z'
+  url: 'https://github.com/FIZL0/openmx/releases/tag/v0.20.0'
 activity:
   lastChecked: '2026-10-28T19:07:21.883Z'
+  lastSynchronized: '2026-11-27T08:35:00.374Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"baf8e2e37600b81cc65e70c840bf1a99bcad18d23458b707c92b73d92ff3afeb"
+    releasesEtag: W/"cb0ece7cb693d7a96ef9aabb2072febbda8513422292f29bd7187c9951e6b756"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 80
@@ -47,5 +51,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically promoted from PS2SP's discovery review queue because it met the public catalog threshold. This entry is not yet human-verified; upstream repository and release metadata will continue to synchronize automatically.

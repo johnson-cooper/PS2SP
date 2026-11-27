@@ -23,16 +23,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-13T11:02:40Z'
+  lastCommit: '2026-11-26T22:29:38Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-13T11:35:27.480Z'
+  lastSynchronized: '2026-11-27T08:36:59.357Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"af078263e20f3035e4b3f14ce93be857a494cb01e78deffcaa2649ab4cf0c6f2"
+    releasesEtag: '"16208236851f74c42eac13873cc4181c55047f06f9f0e8a4ed3bfffb11ba8a51"'
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -49,5 +52,4 @@ relationships:
   forkOf: OpenRAC/rac5-sm-decomp
   source: OpenRAC/rac5-sm-decomp
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

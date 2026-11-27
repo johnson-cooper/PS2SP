@@ -30,9 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-04T08:00:34.410Z'
+  lastSynchronized: '2026-11-27T08:34:25.663Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"846ad42e498ce521039903a1de7f07aefa6a67e9366c21ace875d6d62f089132"
+    releasesEtag: '"16208236851f74c42eac13873cc4181c55047f06f9f0e8a4ed3bfffb11ba8a51"'
 discovery:
   method: 'fork-network:sp00nznet/linksawakening-portable'
   confidence: 100
@@ -52,5 +55,4 @@ relationships:
   forkOf: sp00nznet/linksawakening-portable
   source: sp00nznet/linksawakening-portable
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

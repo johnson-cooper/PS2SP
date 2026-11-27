@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: '2026-11-15T18:22:55Z'
   url: 'https://github.com/BruxinCore/Balatro-PS2/releases/tag/v1.0.0'
 activity:
-  lastSynchronized: '2026-11-15T23:11:00.640Z'
+  lastSynchronized: '2026-11-27T08:33:31.854Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"2ade3bc065f32a1c00ccbc3739efca905399b29934522e2bfdfb206a7271b651"
+    releasesEtag: W/"a02b1674c0597f36406112a4c703a00cd2d70d2529b1298166a4dc6bcb3fe574"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -46,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

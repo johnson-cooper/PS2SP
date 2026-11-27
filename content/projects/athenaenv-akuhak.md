@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: '2025-02-15T19:02:13Z'
   url: 'https://github.com/AKuHAK/AthenaEnv/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-28T08:32:29.935Z'
+  lastSynchronized: '2026-11-27T08:33:29.898Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6b7520e20d4198d6e3eee5c7ef536a2dc56ecf0eff56147783034c2f4208b0e7"
-    releasesEtag: W/"db360eac8bf1e20c65e92e4521556a990059b2e48a9499685523ef55e0f469c6"
+    repoEtag: W/"55e39fa4feb32926fe14f390aaa7e0805c189bf3f1674bdcf032114ecfda2723"
+    releasesEtag: W/"544e423b9d5c3aea7c1319a719f8cf8946a88d660898450efbdf8b543890f5c9"
 discovery:
   method: 'fork-network:DanielSant0s/AthenaEnv'
   confidence: 100

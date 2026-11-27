@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2024-01-19T06:42:18Z'
   url: 'https://github.com/ImaDoor2785/random-modding/releases/tag/0.2.6'
 activity:
-  lastSynchronized: '2026-10-28T08:34:20.661Z'
+  lastSynchronized: '2026-11-27T08:37:00.068Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"e7f03222e76923666eedac72c7ad893a8f705953e07a0d9493cbaea5c302de10"
-    releasesEtag: W/"68afd52f05a51ebee8770e524d036338ec75463feba48d4e61508d1a0303e301"
+    repoEtag: W/"de50b7e1c41359f866c95852a57e25075823716e0430ccf990417f664f687e36"
+    releasesEtag: W/"d9bbfa0b297c98e3b8f091f74c21f2d79c739bc14e872dd2a8955e5fff5ddc80"
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95

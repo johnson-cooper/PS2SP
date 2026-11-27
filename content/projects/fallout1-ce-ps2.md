@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-10-22T15:48:24Z'
   url: 'https://github.com/Nicolasalucin/fallout1-ce-ps2/releases/tag/v1.0.2-ps2'
 activity:
-  lastSynchronized: '2026-10-28T08:32:44.902Z'
+  lastSynchronized: '2026-11-27T08:33:50.944Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"ecad7630bd002821d9d9a8ac063e9b99485966f31fcf9952dde898181a3aef26"
-    releasesEtag: W/"b4bf9d3b915d104d6118903e6c9cbfab02d75b60a30fbbdd0c9cc85f95af1704"
+    repoEtag: W/"55f0cda5e5cd7355c83f41042e55f744b878c257d00992d1c2a5ac6e841b6294"
+    releasesEtag: W/"3d4ca37d74a4b6b26a95c90ee2b6f0d9c443351a6f1fd293dad413af379b23b7"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

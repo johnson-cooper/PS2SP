@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: android-port
-  stars: 0
+  stars: 2
   forks: 0
   lastCommit: '2026-10-20T23:04:54Z'
 latestRelease:
@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-10-14T16:21:09Z'
   url: 'https://github.com/anxiousintrovert/Chronicle-Android/releases/tag/v0.10'
 activity:
-  lastSynchronized: '2026-10-28T08:32:38.369Z'
+  lastSynchronized: '2026-11-27T08:33:41.567Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"77b18b748290ff5d5b9f2195e2268157e731ef08e5372d1474663fd759216ec4"
-    releasesEtag: W/"019b2ee8aff26c7c51974632a65de5847b3d4d8c77f6c40fd3af4c55cc288853"
+    repoEtag: W/"ff4c41a86c33d96be5692ed61ddd360a0ede48032cd1a3989dc1411cfdfe221b"
+    releasesEtag: W/"6161ea48a453aa88953f2ed58d9471e74654806626642acb015051eaa9b99b61"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95

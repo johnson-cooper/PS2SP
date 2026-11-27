@@ -35,12 +35,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-10-28T08:34:30.671Z'
+  lastSynchronized: '2026-11-27T08:37:15.774Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"af86bc341694314279d0695f46a06bea8a6b68e07fa85957ba195025519efe26"
-    releasesEtag: '"4c5ecd697451b273cf52052bd3a46e621bcbb235bd1aff8a6c92c491c1168c20"'
+    repoEtag: W/"382b69f3d7c5002cd364f69dba072994992331012fe94f0930dc4b67908eadf9"
+    releasesEtag: '"16208236851f74c42eac13873cc4181c55047f06f9f0e8a4ed3bfffb11ba8a51"'
 discovery:
   method: 'fork-network:Jay-Jay-OPL/uLaunchELF'
   confidence: 100

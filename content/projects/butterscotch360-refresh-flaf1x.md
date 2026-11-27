@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-06-12T18:06:40Z'
   url: 'https://github.com/flaf1x/Butterscotch360-Refresh/releases/tag/v0.2'
 activity:
-  lastSynchronized: '2026-10-28T08:32:36.867Z'
+  lastSynchronized: '2026-11-27T08:33:38.816Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8ffb8e07b819ddf43c5ffee1dacb91ae485e4e7e05e1432d0c1dcf51a75d86c7"
-    releasesEtag: W/"006f3a7b440beb5112d0e2f8e0d73d6cb67cb590b5f61e6bfa29f38bd6f98f89"
+    repoEtag: W/"000b0f895a2591ae031196abf64b72b7dedee176e3b23eb301c1a04775e95a82"
+    releasesEtag: W/"163ce3666501fc039364dda0a4d2502ba817fca6c76d993f3dd2481d18d03eda"
 discovery:
   method: 'fork-network:ceilingtilefan/Butterscotch-360'
   confidence: 95

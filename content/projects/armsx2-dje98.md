@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-09-07T20:06:29Z'
   url: 'https://github.com/DJE98/ARMSX2/releases/tag/2.6.8'
 activity:
-  lastSynchronized: '2026-10-28T08:32:26.766Z'
+  lastSynchronized: '2026-11-27T08:33:23.783Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"04c744c764c3e32e1a3331f20a5fc257c228ed3da40ce93b56c0c4fc3b3efc00"
-    releasesEtag: W/"d0b472b423190d70d61f11b2d6b5dcebc8f8d88f8ec81c6142f188cec5a6beca"
+    repoEtag: W/"c02771edb71d9c68453be52a6dcc6653f9fc7dacd9a52156ab55b172931f0373"
+    releasesEtag: W/"bafd2a7965096356a0c72deb323dfa70c8daf66958e501cbbdde1ebce84358de"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

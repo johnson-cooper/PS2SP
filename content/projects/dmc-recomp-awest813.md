@@ -23,7 +23,7 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-10-25T23:28:31Z'
+  lastCommit: '2026-11-23T02:29:46Z'
 latestRelease:
   tag: browser-runtime-e36d8ac
   name: Browser player for GitHub Pages
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/awest813/DMC-Recomp/releases/tag/browser-runtime-e36d8ac'
 activity:
   lastChecked: '2026-10-22T15:40:02.066Z'
-  lastSynchronized: '2026-10-28T08:32:42.314Z'
+  lastSynchronized: '2026-11-27T08:33:47.278Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c2ca0da727a0923e0cd3ad1d0b6c99fd0bc2242a709221b1b0c62f72ee066f8f"
-    releasesEtag: W/"355e10f4ecd251ba76300c2cd1f64b6bfc4dae19f4bef3f6264e2d561f7edce2"
+    repoEtag: W/"98c01c17d53f98cb81243826e97e040aa6b0dcf939738c05e3dccb0b49f058ff"
+    releasesEtag: W/"b50b6cd000bcefeff66789689042bde795bede10878d21b1ba1241651e6246b7"
 discovery:
   method: 'pending-promotion:incremental:ps2sdk in:name,description,readme'
   confidence: 75

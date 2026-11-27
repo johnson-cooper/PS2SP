@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-06-25T23:33:44Z'
   url: 'https://github.com/HayatoG/ARMSX2-NX/releases/tag/v1.2.0-nvk'
 activity:
-  lastSynchronized: '2026-11-04T01:40:14.557Z'
+  lastSynchronized: '2026-11-27T08:33:26.370Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7ab06bf1ab1212f6800425d17bad1d6d3669c5bc673c79e0d32623c0966c47db"
+    releasesEtag: W/"f04351d4a1998cfa835bb0d5e99e0e5e4e72d8dd6be2ee1909ce14dd146636f3"
 discovery:
   method: 'fork-network:PalindromicBreadLoaf/ARMSX2-NX'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: PalindromicBreadLoaf/Yadokari
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

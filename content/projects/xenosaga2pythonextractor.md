@@ -31,9 +31,12 @@ latestRelease:
   publishedAt: '2026-11-21T04:57:33Z'
   url: 'https://github.com/LinuxJessi/Xenosaga2PythonExtractor/releases/tag/v1.0.1'
 activity:
-  lastSynchronized: '2026-11-21T08:46:04.198Z'
+  lastSynchronized: '2026-11-27T08:37:23.425Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"6f5d37c2b40d62c3277c3c458b17320b01b71a74033af34c11e0cf65ae2ace7e"
+    releasesEtag: W/"426dc6c3f447d0a9c13c2fcd36c73e54349d97b6fcf6a9f14881e729cc317455"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -46,5 +49,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

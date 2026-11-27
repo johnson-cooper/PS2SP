@@ -20,19 +20,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-07-23T18:31:04Z'
+  lastCommit: '2026-11-27T00:20:26Z'
 latestRelease:
   tag: latest
   name: Latest Build
   publishedAt: '2026-04-13T01:34:37Z'
   url: 'https://github.com/Souzooka/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-28T08:33:38.421Z'
+  lastSynchronized: '2026-11-27T08:35:35.086Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f37c619ad118728eef9e3eb347ab63cd9e2b6c79e2c0f750ebaa330e488b9920"
-    releasesEtag: W/"8f683330b1625df888f13b9c4a2d006f6eaf18f58336af9f89575c696a577dbd"
+    repoEtag: W/"71aa02e64ad19fd24e4184ec776ead6885297bc0f9ff5d6ecfa06ad942eb7b4f"
+    releasesEtag: W/"7a42876d59882aa35ca2e3fa718a794351ca4f26cb5cf6951dda89a30419f746"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95

@@ -20,21 +20,21 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 0
+  stars: 1
   forks: 0
-  lastCommit: '2026-10-08T15:07:35Z'
+  lastCommit: '2026-11-13T12:53:27Z'
 latestRelease:
-  tag: v1.0.0-beta.1
-  name: PS2 Store for Playnite v1.0.0 Beta 1
-  publishedAt: '2026-10-08T15:07:36Z'
-  url: 'https://github.com/codermert/playnite-ps2-store/releases/tag/v1.0.0-beta.1'
+  tag: v1.0.1-beta.2
+  name: PS2 Store for Playnite v1.0.1 Beta 2
+  publishedAt: '2026-11-13T12:54:19Z'
+  url: 'https://github.com/codermert/playnite-ps2-store/releases/tag/v1.0.1-beta.2'
 activity:
-  lastSynchronized: '2026-10-28T08:33:46.954Z'
+  lastSynchronized: '2026-11-27T08:35:57.608Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f23a5754d7934301e5b01cac6ba82c8e513605d7e66f099cc79dcd9e101376ca"
-    releasesEtag: W/"ea939fd3935537eee742e9030bd3f5a9656ead299da8ab9f8cf7a9829eb1df25"
+    repoEtag: W/"e06392f46bbd8a1ea3099ef67f259c4fc02ca6f15c09967b8fc8b81bb1a4e37c"
+    releasesEtag: W/"459bd3815f1602a810abb92e746e91aec5397e5ad0b1bfa00ce4a97707c86fe6"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

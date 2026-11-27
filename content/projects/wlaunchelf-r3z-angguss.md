@@ -36,12 +36,12 @@ latestRelease:
   url: 'https://github.com/angguss/wLaunchELF_R3Z/releases/tag/latest'
 activity:
   lastChecked: '2026-09-29T00:33:10.663Z'
-  lastSynchronized: '2026-10-28T08:34:32.849Z'
+  lastSynchronized: '2026-11-27T08:37:20.034Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"06bbfff5adc7fb50837ebff922db92351987a458b51357afa98dea64a236a840"
-    releasesEtag: W/"7d34f5d2d544bafe570772b98988ee23b4bc740128768a1176a43454b9bfb699"
+    repoEtag: W/"7e3f9ce3a489211301b6872e64160a1b8a2dd1f671fdc4c69a254336abfa8842"
+    releasesEtag: W/"b2addaa9e21940416cdc2f149762fd1a06df37381b2e9447f1ee7fe3f49d4d28"
 discovery:
   method: github-maintained-fork
   confidence: 100

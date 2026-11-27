@@ -21,22 +21,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 232
-  forks: 18
-  lastCommit: '2026-10-09T09:41:13Z'
+  stars: 246
+  forks: 24
+  lastCommit: '2026-11-25T07:08:06Z'
 latestRelease:
-  tag: 1.4.0
-  name: 1.4.0
-  publishedAt: '2026-07-08T12:14:40Z'
-  url: 'https://github.com/sd2psXtd/firmware/releases/tag/1.4.0'
+  tag: 1.5.2
+  name: 1.5.2
+  publishedAt: '2026-11-25T07:12:08Z'
+  url: 'https://github.com/sd2psXtd/firmware/releases/tag/1.5.2'
 activity:
   lastChecked: '2026-10-01T03:27:44.437Z'
-  lastSynchronized: '2026-10-28T08:32:46.075Z'
+  lastSynchronized: '2026-11-27T08:33:53.281Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"dd7a487f66b47d60ff159a63b07eb80c1ff9cd06deeb8791f0b670eee4e74329"
-    releasesEtag: W/"b385c4e5d4e1f8a783dbe0648fb3af438c43a2189bcc60472797b2f5870b7006"
+    repoEtag: W/"ad1f8c57b43ae652f6b43d5cbf26d8125587a9fc9ba23b5625f8ccfe6c6fc949"
+    releasesEtag: W/"09a7bc5baa1a197639a439067ce06574b18101c9c3f41613b17bf99908657bef"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 80

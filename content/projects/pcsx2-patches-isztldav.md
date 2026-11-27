@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-07-06T20:41:25Z'
   url: 'https://github.com/isztldav/pcsx2_patches/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-10-28T08:33:36.732Z'
+  lastSynchronized: '2026-11-27T08:35:32.464Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fb879d06c072f8144c5eec8d08867cbd76becd869aff97ed2260e47c5f93a70c"
-    releasesEtag: W/"59d6cb67cf3fd2297c8ff7a9354c2344ca35181089c43391fd695fb832e0f07b"
+    repoEtag: W/"67a784fdbf1c93da6d6fc9854cf29f1a651331653d8be7242eba9e5e09bc85b3"
+    releasesEtag: W/"2b7d571a6ee96bb5d8124f0bec2ef9c84eda46d2235ea1769ac5648b1bffa80b"
 discovery:
   method: 'fork-network:PCSX2/pcsx2_patches'
   confidence: 95
