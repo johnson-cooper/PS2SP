@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/Hotwire114/ReBruised/releases/tag/v0.5.0'
 activity:
   lastChecked: '2026-11-21T21:54:17.097Z'
-  lastSynchronized: '2026-11-27T19:02:03.147Z'
+  lastSynchronized: '2026-11-28T19:00:03.265Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"6435db955778daca2e031c799affa43eedc9ba23d92fd32995d34370ff355952"
-    releasesEtag: W/"1aa28548472e1552fa3bc20834950d3ffdcc88071b01757e4be184c747656557"
+    repoEtag: W/"16dbdf4f38e24f9a33f7cd9ece5644fdb09bf20156385770517dc935647efe08"
+    releasesEtag: W/"fb11687c3fb1f2fcf9b6e45261ac1894a4f3505ec905ae2d67aa96d51778a862"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

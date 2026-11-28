@@ -23,9 +23,9 @@ source:
 repository:
   archived: false
   defaultBranch: master
-  stars: 286
-  forks: 30
-  lastCommit: '2026-11-27T08:25:38Z'
+  stars: 287
+  forks: 29
+  lastCommit: '2026-11-28T13:39:41Z'
 latestRelease:
   tag: v1.8.0
   name: v1.8.0
@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/ps2max32/neutrino/releases/tag/v1.8.0'
 activity:
   lastChecked: '2026-09-29T00:27:06.249Z'
-  lastSynchronized: '2026-11-27T19:00:33.949Z'
+  lastSynchronized: '2026-11-28T18:58:38.311Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"dc23342bd0f64efd3230044f2da0a15ce92864123cbfad9e629f8989154b8634"
-    releasesEtag: W/"46ead30463ee9ac2854221653b9972cbedced01ff9c63d13e5025af60c660017"
+    repoEtag: W/"b57d695c59f82ddf4d2bc738313e83052e76220885163ad8caca2601daad48ae"
+    releasesEtag: W/"7073028d7e69b3db4f90bc87714cfc96653bb012c357b3d3360b89618b9e5234"
 discovery:
   method: curated
   confidence: 100

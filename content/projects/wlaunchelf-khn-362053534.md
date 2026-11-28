@@ -32,12 +32,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-27T19:02:15.620Z'
+  lastSynchronized: '2026-11-28T19:00:17.422Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5f7f3911187c0dda3bfc4e348358b2789cdb7e3e3039569e63fe1ba3a0e27802"
-    releasesEtag: '"eb3dd047e32702d30de12b64e51ca67b8bde230b10688610396d86cb841e3315"'
+    repoEtag: W/"b855a91267d0dd9fbec4bf8758e889416eb08ea46eadc1485a1d870be2802c1a"
+    releasesEtag: '"4b3e631a2f87fc2d5fae449eef5c0bacbd56eec7bd81896f30fca423484c7ecf"'
 discovery:
   method: 'fork-network:NathanNeurotic/wLaunchELF_kHn'
   confidence: 100

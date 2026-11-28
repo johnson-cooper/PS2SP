@@ -36,12 +36,12 @@ latestRelease:
   url: >-
     https://github.com/huanghuangdaquan-beep/gow-native-pc-optimization/releases/tag/gow-native-pc-optimization
 activity:
-  lastSynchronized: '2026-11-27T19:00:15.028Z'
+  lastSynchronized: '2026-11-28T18:58:21.411Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"cdd5a18f6b57c70a4e4ba14a6790ad6f279e862d070486ef0078fcd5af796096"
-    releasesEtag: W/"3fceb9bde5e35ba556d2eaa7e457ac0b647b8b033d679bcc6dfacb5806761bf6"
+    repoEtag: W/"3ae66686c245a8e65eaa26ee6f0ad3f637caa0b54379241e62a122ad15a8a5d8"
+    releasesEtag: W/"9e1644297b0b65dfba8451e2d237f6375b24bf807bdfd4bbcc41015f69f407ff"
 discovery:
   method: 'fork-network:Vnnc1/gow-native-pc'
   confidence: 95

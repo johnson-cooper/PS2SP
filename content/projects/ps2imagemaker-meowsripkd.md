@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-27T19:01:42.716Z'
+  lastSynchronized: '2026-11-28T18:59:43.152Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2a8620e72f6d8f2fadb594733b9186e8688bbf2ff55e2e72f808997940f5ffb6"
-    releasesEtag: '"eb3dd047e32702d30de12b64e51ca67b8bde230b10688610396d86cb841e3315"'
+    repoEtag: W/"f24910deb11bf18cf893eb3c1694e57815c96e049fb76b837f79935002b76abf"
+    releasesEtag: '"4b3e631a2f87fc2d5fae449eef5c0bacbd56eec7bd81896f30fca423484c7ecf"'
 discovery:
   method: 'fork-network:Smartkin/PS2ImageMaker'
   confidence: 100

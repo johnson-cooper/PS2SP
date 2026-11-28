@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2023-08-12T17:29:43Z'
   url: 'https://github.com/rano9999/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-27T19:00:44.694Z'
+  lastSynchronized: '2026-11-28T18:58:48.941Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"7588534793593e51ce0e9fe89bb43d3339294310726b2eb072243550b722c5c8"
-    releasesEtag: W/"7d2870ffff3cb5ea6d57fdfab61ad19452abb85296b4219b5b3f37cf8f7f10c1"
+    repoEtag: W/"23f9e5d73ef7c66af65be6c72d4a890ec0d79acb85512f11b28e663982446c8e"
+    releasesEtag: W/"9f8f0613b074b7b465f76437d2515318d62c92744fe626115c526a49618432d9"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

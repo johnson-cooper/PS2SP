@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-11-01T13:52:12Z'
   url: 'https://github.com/mikeferreiraz/ARMSX2/releases/tag/fliperama'
 activity:
-  lastSynchronized: '2026-11-27T18:59:51.007Z'
+  lastSynchronized: '2026-11-28T18:57:59.551Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"502ad258e3c4e1647323ee485d5c0181b911bf44b4a624e0f8ea616a88e565c2"
-    releasesEtag: W/"5d6c15b350ab3ef4e8c495e2327de0f563c0319f16304dac800e0c7f250556af"
+    repoEtag: W/"7c575e6e6c777968cc53e6527a770075f9a3f710cc745ec268f5de237682a276"
+    releasesEtag: W/"e98c631396d597147d5f285ca141fd9924b72574d58e9b4e5658197aab667549"
 discovery:
   method: 'fork-network:ARMSX2/ARMSX2'
   confidence: 100

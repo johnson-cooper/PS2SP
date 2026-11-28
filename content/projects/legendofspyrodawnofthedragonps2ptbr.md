@@ -27,12 +27,12 @@ latestRelease:
   url: >-
     https://github.com/refresh50/LegendOfSpyroDawnOfTheDragonPTBR/releases/tag/1.0
 activity:
-  lastSynchronized: '2026-11-27T19:00:27.893Z'
+  lastSynchronized: '2026-11-28T18:58:32.915Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"50558d60a945f097ae5313cb1cca80f4cc63db3d20a502e6396502f5bd7cd801"
-    releasesEtag: W/"4bf6e107ea73466be2166b7affe224882fdb212c8ec91f4c28c226e1975e3264"
+    repoEtag: W/"2d9de7cc1bfb678de43011add1ae48e1a630be53f8392a17925a58fb44ed9091"
+    releasesEtag: W/"648970ec2d70064bb5a7e153ee601f190fe0aeefad07605a3d61049443a95063"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

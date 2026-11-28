@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/ps2max32/quake3/releases/tag/v1.1.2'
 activity:
   lastChecked: '2026-11-27T14:21:44.584Z'
-  lastSynchronized: '2026-11-27T19:02:02.651Z'
+  lastSynchronized: '2026-11-28T19:00:02.757Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a7028acb5a15d9a5f82becabbab64e659ba17a812bdab3db4183ca8afae69260"
-    releasesEtag: W/"426dab68c689efbc9b73ae0478b197691b2785871e5aa5e6bf8095557989ce1a"
+    repoEtag: W/"ca63f9d9ff45a9809021a42ba42f99e9f22158e6aa3443eed8f8a729ced45b6d"
+    releasesEtag: W/"15eeb3c5081ef58132cd1b5a3b560d08e52f345c59dbd78f943be0177c93471b"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 75

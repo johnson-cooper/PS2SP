@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-27T19:01:35.172Z'
+  lastSynchronized: '2026-11-28T18:59:35.968Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a868579cc3e2225302120621b5244de0598c478d920a099890a198fb18e69d18"
-    releasesEtag: '"eb3dd047e32702d30de12b64e51ca67b8bde230b10688610396d86cb841e3315"'
+    repoEtag: W/"53426b4dc861764d39ddbc57e2b949d05aa1ead3ce7026a66524b0fae8479d96"
+    releasesEtag: '"4b3e631a2f87fc2d5fae449eef5c0bacbd56eec7bd81896f30fca423484c7ecf"'
 discovery:
   method: 'fork-network:tschicki/PS2-Portable'
   confidence: 100

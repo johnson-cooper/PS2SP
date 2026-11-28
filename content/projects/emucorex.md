@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-11-26T21:53:27Z'
   url: 'https://github.com/sashkinbro/EmuCoreX/releases/tag/v0.6.3'
 activity:
-  lastSynchronized: '2026-11-27T19:00:05.445Z'
+  lastSynchronized: '2026-11-28T18:58:13.095Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4b178b7a90118b9fa06d15cc8d98ea0eca36dae90b312f00e45dfe4f9a489f68"
-    releasesEtag: W/"1a9acaed6c5c3c95733bc456096a5be51154e3e06b51d9f75b87ecd4d232b5a3"
+    repoEtag: W/"a32de9ef22e0167a9cdcd100ed31bd489e90358401a20605290253a010b633c5"
+    releasesEtag: W/"02d5f03458f843982b259818f0f6e113aa7ae179fcfdd66df9dbbe6054b931a1"
 discovery:
   method: pending-recheck
   confidence: 100

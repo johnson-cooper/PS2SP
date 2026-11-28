@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/robvagin/shar-psp-engine/releases/tag/build-108'
 activity:
   lastChecked: '2026-11-27T04:32:55.319Z'
-  lastSynchronized: '2026-11-27T19:02:06.483Z'
+  lastSynchronized: '2026-11-28T19:00:07.086Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2ff951c5b7f7bc18f7e4191959db962b533d30fd4902726a1e52b27dd9fb00b5"
-    releasesEtag: W/"e6a00060a3813c9894aa9c1abc653997595871671f0e3cc1200afa99fae51a29"
+    repoEtag: W/"9ad72e85de1378c4be5361dd9b8a7fb1e739e974e187cc417e50dd14059c96b0"
+    releasesEtag: W/"b3427b5278e2056c59c791acce5c97c0086168fe22bde639f2d512e79a44cb30"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 80

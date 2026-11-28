@@ -20,19 +20,19 @@ repository:
   defaultBranch: master
   stars: 0
   forks: 0
-  lastCommit: '2026-11-26T03:41:23Z'
+  lastCommit: '2026-11-28T18:52:46Z'
 latestRelease:
   tag: armsx2-custom-latest
-  name: ARMSX2 Custom (custom-e21d90d5)
-  publishedAt: '2026-11-26T03:41:24Z'
+  name: ARMSX2 Custom (custom-35778138)
+  publishedAt: '2026-11-28T18:52:47Z'
   url: 'https://github.com/SolaireRocks/ARMSX2/releases/tag/armsx2-custom-latest'
 activity:
-  lastSynchronized: '2026-11-27T18:59:53.091Z'
+  lastSynchronized: '2026-11-28T18:58:01.226Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c705ec27facef56edc51542ead32f78ff4c20e8b673ddbc0eb77d91a327c1926"
-    releasesEtag: W/"448d9d979b154ed46ee0bf8ff252bff6811e63b9121d8efed550fcaad1211352"
+    repoEtag: W/"96c27740819a5511ec5bc91d79f58adf016b56d0cc05fbefb70ec5b2a9c3b75f"
+    releasesEtag: W/"8acd10b934cad196bbe77797fe22faaee70fcf7907c8cf1964c496dadd485676"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 100

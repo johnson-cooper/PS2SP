@@ -25,21 +25,21 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-11-10T00:58:22Z'
+  lastCommit: '2026-11-28T06:21:52Z'
 latestRelease:
-  tag: v0.9.2
-  name: v0.9.2 (beta)
-  publishedAt: '2026-11-10T00:58:22Z'
+  tag: v0.9.3
+  name: v0.9.3 (beta)
+  publishedAt: '2026-11-28T06:21:53Z'
   url: >-
-    https://github.com/damon-daemon/nobunaga-ranseiki-puk-english/releases/tag/v0.9.2
+    https://github.com/damon-daemon/nobunaga-ranseiki-puk-english/releases/tag/v0.9.3
 activity:
   lastChecked: '2026-11-08T02:43:01.487Z'
-  lastSynchronized: '2026-11-27T19:00:35.357Z'
+  lastSynchronized: '2026-11-28T18:58:39.782Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2e57286c748b7c7632226789d17e91db1ca1d34710aa1be7a6c4bc46d097790d"
-    releasesEtag: W/"faf938d51f2e6db0d5d2e4f4d772fed3ae7d8b0772fe9905c5a726c4c0e57ff2"
+    repoEtag: W/"96d5e8a1ed5cce5a1da857e5c6db5ed98e0bf31c20b1dbc9bd9204ff79069f87"
+    releasesEtag: W/"1b6e88509b79ad128fdfd68bad7fec8cbbcec83e946bdef6eba32cd2e9e2abb3"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
