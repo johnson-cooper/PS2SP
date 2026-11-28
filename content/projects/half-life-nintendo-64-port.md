@@ -24,22 +24,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 120
-  forks: 6
-  lastCommit: '2026-11-13T00:17:29Z'
+  stars: 132
+  forks: 7
+  lastCommit: '2026-11-28T01:54:05Z'
 latestRelease:
-  tag: v1.4.5
-  name: Half-Life 64 v1.4.5
-  publishedAt: '2026-11-13T00:16:29Z'
-  url: 'https://github.com/ToxyCola/Half-Life-Nintendo-64-Port/releases/tag/v1.4.5'
+  tag: v1.5
+  name: Half-Life 64 v1.5
+  publishedAt: '2026-11-23T18:48:41Z'
+  url: 'https://github.com/ToxyCola/Half-Life-Nintendo-64-Port/releases/tag/v1.5'
 activity:
   lastChecked: '2026-11-13T03:36:03.837Z'
-  lastSynchronized: '2026-11-14T10:35:02.533Z'
+  lastSynchronized: '2026-11-28T10:28:33.419Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"844d06f1aad669178b45030761f745cc5e535f125cec537c050a19d7bb4e71e8"
-    releasesEtag: W/"d0104172f44b9420312b16d934895224741593a69d4b3683344ca928eefce2b8"
+    repoEtag: W/"f91669971d77b443b45ebfe168c9b902b9b05748df968878ce86e18d2af9c565"
+    releasesEtag: W/"89c63b265550837a20d032293c2e87c2e32f19a81a31af9fd0ba9c4ec6ddc5fe"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

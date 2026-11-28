@@ -14,7 +14,7 @@ license: null
 homepage: null
 source:
   provider: github
-  repository: jabberwockyfool/FlowerSunRainPS2-FR
+  repository: jabberwockyfool/FSRPS2-FR
   repositoryId: '1439661610'
   url: 'https://github.com/jabberwockyfool/FlowerSunRainPS2-FR'
 repository:
@@ -27,15 +27,15 @@ latestRelease:
   tag: V1.0
   name: F.S.R Patch FR V1.0
   publishedAt: '2026-10-30T12:26:20Z'
-  url: 'https://github.com/jabberwockyfool/FlowerSunRainPS2-FR/releases/tag/V1.0'
+  url: 'https://github.com/jabberwockyfool/FSRPS2-FR/releases/tag/V1.0'
 activity:
   lastChecked: '2026-10-30T16:14:43.736Z'
-  lastSynchronized: '2026-11-14T10:34:52.728Z'
+  lastSynchronized: '2026-11-28T10:28:21.949Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8a878353353ffc64ef46a9fa469f2286f10ae74e5bc5782ef60891570812bc4b"
-    releasesEtag: W/"afff136e9bbb50aac891f675f0eed39debf86d67d0f56079dae56962904dbb07"
+    repoEtag: W/"2b6414d0d017267a0f8d6f210e92411968e3ec93c099fbb633e529da370b1bb9"
+    releasesEtag: W/"1b88a89a9238aa0ded4287fdd746b6d4b19104200c0a7370bbcb95cda0884882"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

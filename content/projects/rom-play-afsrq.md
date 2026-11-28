@@ -24,16 +24,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-18T21:36:23Z'
+  lastCommit: '2026-11-23T03:51:14Z'
 latestRelease:
-  tag: v0.25.0
-  name: ROM Play 0.25.0
-  publishedAt: '2026-11-18T21:36:24Z'
-  url: 'https://github.com/afsrq/ROM-Play/releases/tag/v0.25.0'
+  tag: v0.30.0
+  name: ROM Play 0.30.0
+  publishedAt: '2026-11-23T03:35:01Z'
+  url: 'https://github.com/afsrq/ROM-Play/releases/tag/v0.30.0'
 activity:
-  lastSynchronized: '2026-11-18T21:36:13.229Z'
+  lastSynchronized: '2026-11-28T10:30:10.340Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"d7957f809915a44de8b467aa0172f27bf2656ca8c777fc0b3e3d4a934133057d"
+    releasesEtag: W/"7dd3212ddeccf91576738ca8fb3cc510b7c6421845801a6c8f9cefaf4147973f"
 discovery:
   method: 'incremental:"PlayStation 2" in:name,description,readme'
   confidence: 95
@@ -50,5 +53,4 @@ relationships:
   forkOf: RompEmu/RomP
   source: RompEmu/RomP
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

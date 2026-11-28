@@ -24,16 +24,19 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-11-28T01:54:22Z'
+  lastCommit: '2026-11-28T09:39:41Z'
 latestRelease:
-  tag: v0.1.0
-  name: Xenosaga Trilogy Port 0.1.0
-  publishedAt: '2026-11-28T01:28:23Z'
-  url: 'https://github.com/xenosagaport/xenosaga-trilogy-port/releases/tag/v0.1.0'
+  tag: v0.1.1
+  name: Xenosaga Trilogy Port 0.1.1
+  publishedAt: '2026-11-28T09:39:41Z'
+  url: 'https://github.com/xenosagaport/xenosaga-trilogy-port/releases/tag/v0.1.1'
 activity:
-  lastSynchronized: '2026-11-28T04:58:13.966Z'
+  lastSynchronized: '2026-11-28T10:30:27.549Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"7f7eb129d16a4931100576aa88fcfabfb0f0ce2efc379a2340e3d5851cc24175"
+    releasesEtag: W/"7b7b3d33746fe70beb7197629b509273179e6b03101c54fe638f756a889c2876"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100
@@ -47,5 +50,4 @@ verified: false
 featured: false
 hidden: false
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2016-12-29T20:02:56Z'
   url: 'https://github.com/Dr-Q/OPS2L/releases/tag/untagged-9466dde3aedcb2ad5b4d'
 activity:
-  lastSynchronized: '2026-11-14T10:35:36.416Z'
+  lastSynchronized: '2026-11-28T10:29:08.536Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"fc63c0652cf77bd11d444638330f1f1bf2122ede2d2bebd8be38facf677def5c"
-    releasesEtag: W/"42f422f520c80d1f97edf754399133a6e5fd8a1619d2dc07defed44a625a79fd"
+    repoEtag: W/"41021b4d9cf282c3a3bea2fde82706a1b58e51d64695d9cec69d6b86c80c7a8d"
+    releasesEtag: W/"5c9e04b894cefa337e990c1bffad3663c94c582811d012a7a9732854b50945f9"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

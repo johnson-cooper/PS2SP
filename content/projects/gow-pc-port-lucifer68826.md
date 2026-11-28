@@ -36,9 +36,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-28T04:58:13.966Z'
+  lastSynchronized: '2026-11-28T10:28:31.480Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"00355d8cd6d135f4c0d1866267d4dca6e42c31a647921bc30ceee07656f0c69c"
+    releasesEtag: '"bb6301cf9e40a9c1db503dc44c6335caa9105b2a2507d3f082e602c8620dd267"'
 discovery:
   method: 'fork-network:danielalves96/gow-pc-port'
   confidence: 100
@@ -55,5 +58,4 @@ relationships:
   forkOf: danielalves96/gow-pc-port
   source: danielalves96/gow-pc-port
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

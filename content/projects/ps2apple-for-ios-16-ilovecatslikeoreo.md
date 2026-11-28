@@ -29,9 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-26T13:10:16.139Z'
+  lastSynchronized: '2026-11-28T10:29:46.216Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"5d6a01537febeb9fb61ed3e87be5b8fd9308b74856254d4891d8e76806a1b570"
+    releasesEtag: '"bb6301cf9e40a9c1db503dc44c6335caa9105b2a2507d3f082e602c8620dd267"'
 discovery:
   method: 'fork-network:royilkom-alt/PS2Apple'
   confidence: 100
@@ -48,5 +51,4 @@ relationships:
   forkOf: royilkom-alt/PS2Apple
   source: royilkom-alt/PS2Apple
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

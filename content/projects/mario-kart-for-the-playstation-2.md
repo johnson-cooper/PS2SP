@@ -32,12 +32,12 @@ latestRelease:
     https://github.com/p44818862-byte/Mario-Kart-for-the-PlayStation-2-/releases/tag/v1.0.0
 activity:
   lastChecked: '2026-10-29T17:05:16.992Z'
-  lastSynchronized: '2026-11-14T10:35:17.977Z'
+  lastSynchronized: '2026-11-28T10:28:48.840Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2bc9e3714e029c191423a2cd747f17de2f7b6fa552aa9a253a30d9c84d0bb76d"
-    releasesEtag: W/"8d0cb0aa958bd77d52123e73b9859514c5fcecda48b577cb3c1f8098e8b0cb0c"
+    repoEtag: W/"231f4ac5ce8a9ddd406ed9d4459e5b27a07f5800acb903af7ed702320d3557c4"
+    releasesEtag: W/"837ead653d19751106e07e646de81279736a6db743e98d56b04755075185f73f"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 75

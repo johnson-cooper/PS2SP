@@ -21,7 +21,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 3
+  stars: 4
   forks: 0
   lastCommit: '2026-11-08T12:42:29Z'
 latestRelease:
@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: '2026-11-08T12:32:52Z'
   url: 'https://github.com/Okeanos86/BDMAssault/releases/tag/1.0.1'
 activity:
-  lastSynchronized: '2026-11-14T10:34:39.643Z'
+  lastSynchronized: '2026-11-28T10:28:07.961Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"72c139956230e4903a584cba72a3fc28cd763a655036b2c0a101caa12379790a"
-    releasesEtag: W/"88f695ad944ad6ec500d91119824bcc09e50eea923a2dff0bb4833cc21441dd8"
+    repoEtag: W/"66f391fc414ad8a580218a07a92566f21dc53a784a507e09f0abdc6c374222fc"
+    releasesEtag: W/"cc4f5e4825d48cf9320fd7e3d5c47f86b660c73231d04959727b235a9232bdb0"
 discovery:
   method: 'fork-network:israpps/BDMAssault'
   confidence: 100

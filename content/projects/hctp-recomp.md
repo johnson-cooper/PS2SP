@@ -23,22 +23,22 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 60
+  stars: 71
   forks: 2
-  lastCommit: '2026-11-04T16:15:15Z'
+  lastCommit: '2026-11-25T04:14:31Z'
 latestRelease:
-  tag: v0.3.5
-  name: HCTP Recompiled 0.3.5
-  publishedAt: '2026-11-04T16:15:15Z'
-  url: 'https://github.com/BigDaddyJRich/hctp-recomp/releases/tag/v0.3.5'
+  tag: v0.3.7
+  name: HCTP Recompiled 0.3.7
+  publishedAt: '2026-11-21T03:28:49Z'
+  url: 'https://github.com/BigDaddyJRich/hctp-recomp/releases/tag/v0.3.7'
 activity:
   lastChecked: '2026-11-04T22:12:45.517Z'
-  lastSynchronized: '2026-11-14T10:35:03.008Z'
+  lastSynchronized: '2026-11-28T10:28:33.991Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2bda5edf61941787131b79bd9412848794f310523d5e6efcf2d866ff88fe12bf"
-    releasesEtag: W/"ec721db4024e49fc68fa198f2bca1facc5971a0369af62a5caa04d9a1dd17da5"
+    repoEtag: W/"813cc33f9d6ef54b199e5df040c3eedacfde5a8706d8d4e23c610797731fba32"
+    releasesEtag: W/"b6a4a56832b9132bc5c442f3dbaa90754dd32ef9f171e79f3040ac4061e3216c"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 85

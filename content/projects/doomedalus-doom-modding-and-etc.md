@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-14T10:34:50.197Z'
+  lastSynchronized: '2026-11-28T10:28:18.592Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5fd06cf8cb627d94e9213eaa3aa805bce02d40b53ec65445ba2c21b686ea79aa"
-    releasesEtag: '"83febaa07196bb889373057850dbd348d5f7544ded357423bb2914f9d0ac24ca"'
+    repoEtag: W/"b964f1d6b0588b637f25a6e3b7228ac3cdff1899e73025dd96df3965bdc63adb"
+    releasesEtag: '"bb6301cf9e40a9c1db503dc44c6335caa9105b2a2507d3f082e602c8620dd267"'
 discovery:
   method: 'fork-network:DanielSant0s/Enceladus'
   confidence: 100

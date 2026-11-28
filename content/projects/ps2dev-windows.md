@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/VeroSilvaa/PS2DEV-Windows/releases/tag/v0.1.0'
 activity:
   lastChecked: '2026-10-31T01:03:27.533Z'
-  lastSynchronized: '2026-11-14T10:36:10.086Z'
+  lastSynchronized: '2026-11-28T10:29:48.220Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"998c81c672dd4b1dbeed66391cb388adc9de9bf585a0b6bb6f193adce90a6396"
-    releasesEtag: W/"0deebbc0a83d4ff8296098d97f2c60e3ba18ad3d2fdd11663f6f54a2721523ef"
+    repoEtag: W/"bdf1bb2fee00ac4a9ad05a37eb9496abbb98919161b09f6bbc813219d7169a65"
+    releasesEtag: W/"ab05ac85a62fff5ef1d961e2e4685a7da6835a59dd50e3f6c6ca480cf95e3bef"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 75

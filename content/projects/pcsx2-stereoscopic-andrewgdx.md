@@ -17,22 +17,22 @@ source:
   repositoryId: '1138823104'
 repository:
   archived: false
-  defaultBranch: master
-  stars: 18
-  forks: 1
-  lastCommit: '2026-03-06T23:31:18Z'
+  defaultBranch: stereoscopy
+  stars: 19
+  forks: 2
+  lastCommit: '2026-11-28T09:18:23Z'
 latestRelease:
-  tag: v0.1.1
-  name: v0.1.1 release
-  publishedAt: '2026-03-06T23:31:18Z'
-  url: 'https://github.com/AndrewGDX/pcsx2-stereoscopic/releases/tag/v0.1.1'
+  tag: pre-release
+  name: v2.8.2-stereoscopic-pre-release
+  publishedAt: '2026-11-27T16:32:40Z'
+  url: 'https://github.com/AndrewGDX/pcsx2-stereoscopic/releases/tag/pre-release'
 activity:
-  lastSynchronized: '2026-11-14T10:35:50.793Z'
+  lastSynchronized: '2026-11-28T10:29:24.301Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"4c3d711096f5d6c189d67e0ffe901c6cd786e34d734d0171932524cc22f95e83"
-    releasesEtag: W/"7b88cd35e4ec540ebb405e12a0fb5a84fdec5bea2b28183ef963a2b6279a8682"
+    repoEtag: W/"30be77ccc2a3ecff976cf4423996c703c06878e8028f4db97286117f6bbaf8df"
+    releasesEtag: W/"060b84abb78dbae151fc5b89211cad683f56ab3af24cce34471f37610284ac51"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 95

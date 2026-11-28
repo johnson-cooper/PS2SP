@@ -27,9 +27,12 @@ latestRelease:
   publishedAt: '2026-07-28T15:27:57Z'
   url: 'https://github.com/AeroX2/pcsx2/releases/tag/release-1.1.0'
 activity:
-  lastSynchronized: '2026-11-25T10:29:56.665Z'
+  lastSynchronized: '2026-11-28T10:29:09.672Z'
 automation:
   sync: true
+  github:
+    repoEtag: W/"f227fd0a086a0a4cb28fdaf100156e8fdb596e7aafcd1821c64b29d4670a4f23"
+    releasesEtag: W/"cb57b8ce33eaf6ee20abf2d1057d2df26c5110e67234fe90ffb519433592c1b9"
 discovery:
   method: 'fork-network:PCSX2/pcsx2'
   confidence: 95
@@ -46,5 +49,4 @@ relationships:
   forkOf: PCSX2/pcsx2
   source: PCSX2/pcsx2
 ---
-
 Automatically discovered by PS2SP. Relevance evidence is recorded in frontmatter; human curation can expand this entry without disabling automated repository metadata synchronization.

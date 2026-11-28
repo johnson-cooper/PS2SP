@@ -19,19 +19,19 @@ repository:
   defaultBranch: main
   stars: 0
   forks: 0
-  lastCommit: '2026-11-13T21:09:58Z'
+  lastCommit: '2026-11-25T19:37:48Z'
 latestRelease:
-  tag: v0.1.11
-  name: v0.1.11
-  publishedAt: '2026-11-13T21:09:58Z'
-  url: 'https://github.com/otavix010/otx-motor-ps2/releases/tag/v0.1.11'
+  tag: v0.1.36
+  name: Motor PS2 0.1.36
+  publishedAt: '2026-11-25T19:37:48Z'
+  url: 'https://github.com/otavix010/otx-motor-ps2/releases/tag/v0.1.36'
 activity:
-  lastSynchronized: '2026-11-14T10:35:36.885Z'
+  lastSynchronized: '2026-11-28T10:29:09.082Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"53b24c5f37fd83cf5719d161bcbc204ed5ac69cdca446e3178ab2da092518bcc"
-    releasesEtag: W/"741f2797d873daeaefb55cf8956049927f69d8bb93a91d0437eddad8fb7eca39"
+    repoEtag: W/"d8661da8bb2af65a5722ab252219dd572020f3f0490018d87bb9d85f09e854b6"
+    releasesEtag: W/"4b6d08d158f1952da4e6ef0811a9260756a5331eec20096c7548586c60a79dbb"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

@@ -24,7 +24,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 6
+  stars: 12
   forks: 0
   lastCommit: '2026-11-14T06:41:05Z'
 latestRelease:
@@ -34,12 +34,12 @@ latestRelease:
   url: 'https://github.com/Miguel0827/Crash-Tag-Team-Racing-PC/releases/tag/v1.4.1'
 activity:
   lastChecked: '2026-11-12T00:59:54.175Z'
-  lastSynchronized: '2026-11-14T10:34:45.712Z'
+  lastSynchronized: '2026-11-28T10:28:14.322Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9bbc312401e9917c44d5a37cac40ffa9dbd1fa38297e00c051fd2aaac6ea877d"
-    releasesEtag: W/"0987870a49899725c598ad69908175dd4261b5d3c521e9f25fdf354088bfb321"
+    repoEtag: W/"f40af5f69db9b73698f1bddaeba2652e5bff1afdc84cf54634aaea7ea5daf987"
+    releasesEtag: W/"0f5ab9056221bf0570f9e7ba180df115eba6c7dd122d7234093ba865e54c44ee"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85
