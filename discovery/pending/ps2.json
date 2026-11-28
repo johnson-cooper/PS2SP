@@ -1,0 +1,16 @@
+{
+  "repository": "the-chiic/ps2",
+  "repositoryId": "1475514906",
+  "url": "https://github.com/the-chiic/ps2",
+  "description": null,
+  "score": 85,
+  "evidence": [
+    "repository name explicitly identifies PS2",
+    "README explicitly mentions PlayStation 2"
+  ],
+  "origin": "incremental:ps2 in:name,description",
+  "maturity": "active-wip",
+  "fork": null,
+  "discoveredAt": "2026-11-28T14:32:08.474Z",
+  "checkedAt": "2026-11-28T14:32:08.474Z"
+}
