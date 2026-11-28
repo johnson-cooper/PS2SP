@@ -9104,6 +9104,19 @@
         ]
       },
       {
+        "name": "ZornTaov/jak-project — branch: d/decomp-inverse-mult",
+        "url": "https://github.com/ZornTaov/jak-project/tree/d/decomp-inverse-mult",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "ZornTaov/jak-project",
+          "d/decomp-inverse-mult"
+        ]
+      },
+      {
         "name": "Zryuu/sly1 — branch: zryu-dev",
         "url": "https://github.com/Zryuu/sly1/tree/zryu-dev",
         "keywords": [
@@ -9114,6 +9127,45 @@
           "repository",
           "Zryuu/sly1",
           "zryu-dev"
+        ]
+      },
+      {
+        "name": "zschwendi/jak-pad — branch: goalpad/arm64-aot-0044",
+        "url": "https://github.com/zschwendi/jak-pad/tree/goalpad/arm64-aot-0044",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zschwendi/jak-pad",
+          "goalpad/arm64-aot-0044"
+        ]
+      },
+      {
+        "name": "zschwendi/jak-pad — branch: v/crowdin-jak3",
+        "url": "https://github.com/zschwendi/jak-pad/tree/v/crowdin-jak3",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zschwendi/jak-pad",
+          "v/crowdin-jak3"
+        ]
+      },
+      {
+        "name": "zschwendi/jak-pad — branch: w/model-swap",
+        "url": "https://github.com/zschwendi/jak-pad/tree/w/model-swap",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "zschwendi/jak-pad",
+          "w/model-swap"
         ]
       }
     ]
@@ -110707,6 +110759,36 @@
         ]
       },
       {
+        "name": "Zed-Mod-School/mod-base-test-1@master — goal_src/jak2/levels/demo",
+        "url": "https://github.com/Zed-Mod-School/mod-base-test-1/tree/master/goal_src/jak2/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zed-Mod-School/mod-base-test-1",
+          "master",
+          "goal_src/jak2/levels/demo"
+        ]
+      },
+      {
+        "name": "Zed-Mod-School/mod-base-test-1@master — tools",
+        "url": "https://github.com/Zed-Mod-School/mod-base-test-1/tree/master/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Zed-Mod-School/mod-base-test-1",
+          "master",
+          "tools"
+        ]
+      },
+      {
         "name": "zengelan/Open-PS2-LoaderFritz@master — ee_core",
         "url": "https://github.com/zengelan/Open-PS2-LoaderFritz/tree/master/ee_core",
         "keywords": [
@@ -111398,6 +111480,1011 @@
           "Zorkats/PS2Recomp",
           "main",
           "ps2xRuntime/src/lib/gs"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@d/decomp-inverse-mult — goal_src/jak2/tools",
+        "url": "https://github.com/ZornTaov/jak-project/tree/d/decomp-inverse-mult/goal_src/jak2/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "d/decomp-inverse-mult",
+          "goal_src/jak2/tools"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@d/jak2-test-extra-levels — goal_src/jak2/levels/city/port",
+        "url": "https://github.com/ZornTaov/jak-project/tree/d/jak2-test-extra-levels/goal_src/jak2/levels/city/port",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "d/jak2-test-extra-levels",
+          "goal_src/jak2/levels/city/port"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@d/jak2-test-extra-levels — test/goalc",
+        "url": "https://github.com/ZornTaov/jak-project/tree/d/jak2-test-extra-levels/test/goalc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "d/jak2-test-extra-levels",
+          "test/goalc"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@d/korean-support — custom_levels",
+        "url": "https://github.com/ZornTaov/jak-project/tree/d/korean-support/custom_levels",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "d/korean-support",
+          "custom_levels"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@decomp/tippy — test/goalc",
+        "url": "https://github.com/ZornTaov/jak-project/tree/decomp/tippy/test/goalc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "decomp/tippy",
+          "test/goalc"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@j2/enemy — game/mips2c",
+        "url": "https://github.com/ZornTaov/jak-project/tree/j2/enemy/game/mips2c",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "j2/enemy",
+          "game/mips2c"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@master — goal_src/jakx/engine/common-obs/driver",
+        "url": "https://github.com/ZornTaov/jak-project/tree/master/goal_src/jakx/engine/common-obs/driver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "master",
+          "goal_src/jakx/engine/common-obs/driver"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@test2 — test",
+        "url": "https://github.com/ZornTaov/jak-project/tree/test2/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "test2",
+          "test"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/compiler-report — goal_src/jak2/examples",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/compiler-report/goal_src/jak2/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/compiler-report",
+          "goal_src/jak2/examples"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/debugging-window-hang — goal_src/jak2/engine/game",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/debugging-window-hang/goal_src/jak2/engine/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/debugging-window-hang",
+          "goal_src/jak2/engine/game"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/fix-bind-labels — test",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/fix-bind-labels/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/fix-bind-labels",
+          "test"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/fix-macos-screen-size — game/mips2c",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/fix-macos-screen-size/game/mips2c",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/fix-macos-screen-size",
+          "game/mips2c"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/jak1-progress-cleanup — custom_assets",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/jak1-progress-cleanup/custom_assets",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/jak1-progress-cleanup",
+          "custom_assets"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/jak2-debug-menu-give-stuff — common/formatter",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/jak2-debug-menu-give-stuff/common/formatter",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/jak2-debug-menu-give-stuff",
+          "common/formatter"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/jak2-debug-menu-give-stuff — game/graphics/opengl_renderer/loader",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/jak2-debug-menu-give-stuff/game/graphics/opengl_renderer/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/jak2-debug-menu-give-stuff",
+          "game/graphics/opengl_renderer/loader"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/jak2-debug-menu-give-stuff — goalc",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/jak2-debug-menu-give-stuff/goalc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/jak2-debug-menu-give-stuff",
+          "goalc"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/jak3-fix-load-game-crash — test",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/jak3-fix-load-game-crash/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/jak3-fix-load-game-crash",
+          "test"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/jak3-unlock-everything — goal_src/jak2/levels/demo",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/jak3-unlock-everything/goal_src/jak2/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/jak3-unlock-everything",
+          "goal_src/jak2/levels/demo"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/jak3-unlock-everything — tools",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/jak3-unlock-everything/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/jak3-unlock-everything",
+          "tools"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/log-gpu-info — lsp",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/log-gpu-info/lsp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/log-gpu-info",
+          "lsp"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/macos-fix-dylib — goal_src/jak2/levels/demo",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/macos-fix-dylib/goal_src/jak2/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/macos-fix-dylib",
+          "goal_src/jak2/levels/demo"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/macos-fix-dylib — tools",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/macos-fix-dylib/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/macos-fix-dylib",
+          "tools"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/macos-version-number-check — goal_src/jak1/engine/game",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/macos-version-number-check/goal_src/jak1/engine/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/macos-version-number-check",
+          "goal_src/jak1/engine/game"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/macos-version-number-check — goal_src/user",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/macos-version-number-check/goal_src/user",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/macos-version-number-check",
+          "goal_src/user"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/nrepl-fixes — goal_src/jak1/levels/demo",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/nrepl-fixes/goal_src/jak1/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/nrepl-fixes",
+          "goal_src/jak1/levels/demo"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/profiling-improvements — common",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/profiling-improvements/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/profiling-improvements",
+          "common"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/testing-steamdeck-regression — common/global_profiler",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/testing-steamdeck-regression/common/global_profiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/testing-steamdeck-regression",
+          "common/global_profiler"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/translations — common",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/translations/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/translations",
+          "common"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/update-macos — decompiler",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/update-macos/decompiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/update-macos",
+          "decompiler"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/update-macos — game/sound",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/update-macos/game/sound",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/update-macos",
+          "game/sound"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/update-macos — goal_src/jak1/pc",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/update-macos/goal_src/jak1/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/update-macos",
+          "goal_src/jak1/pc"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/update-macos — goal_src/jak3/levels/city/port",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/update-macos/goal_src/jak3/levels/city/port",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/update-macos",
+          "goal_src/jak3/levels/city/port"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/update-macos — scripts/examples",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/update-macos/scripts/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/update-macos",
+          "scripts/examples"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/update-rapid-json — goal_src/jak1/engine/game",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/update-rapid-json/goal_src/jak1/engine/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/update-rapid-json",
+          "goal_src/jak1/engine/game"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@v/update-rapid-json — goal_src/user",
+        "url": "https://github.com/ZornTaov/jak-project/tree/v/update-rapid-json/goal_src/user",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "v/update-rapid-json",
+          "goal_src/user"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/better-glow-flush — custom_levels",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/better-glow-flush/custom_levels",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/better-glow-flush",
+          "custom_levels"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/bsp-vis — goal_src/jak1/levels/demo",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/bsp-vis/goal_src/jak1/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/bsp-vis",
+          "goal_src/jak1/levels/demo"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/collide-j2 — game/mips2c",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/collide-j2/game/mips2c",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/collide-j2",
+          "game/mips2c"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/fake-target — test/goalc",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/fake-target/test/goalc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/fake-target",
+          "test/goalc"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/fbx — test",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/fbx/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/fbx",
+          "test"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/fcs-debug-vis — test/goalc",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/fcs-debug-vis/test/goalc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/fcs-debug-vis",
+          "test/goalc"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/fix-silly-merc-typo — goal_src/jak1/levels/demo",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/fix-silly-merc-typo/goal_src/jak1/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/fix-silly-merc-typo",
+          "goal_src/jak1/levels/demo"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/frame-limiter-tweaks — game/graphics/opengl_renderer/loader",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/frame-limiter-tweaks/game/graphics/opengl_renderer/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/frame-limiter-tweaks",
+          "game/graphics/opengl_renderer/loader"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/frame-limiter-tweaks — goal_src/examples",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/frame-limiter-tweaks/goal_src/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/frame-limiter-tweaks",
+          "goal_src/examples"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/frame-limiter-tweaks — goalc",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/frame-limiter-tweaks/goalc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/frame-limiter-tweaks",
+          "goalc"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/j3-engine-pt14-debug — decompiler",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/j3-engine-pt14-debug/decompiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/j3-engine-pt14-debug",
+          "decompiler"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/j3-engine-pt14-debug — game/sound",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/j3-engine-pt14-debug/game/sound",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/j3-engine-pt14-debug",
+          "game/sound"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/j3-engine-pt14-debug — goal_src/jak1/pc",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/j3-engine-pt14-debug/goal_src/jak1/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/j3-engine-pt14-debug",
+          "goal_src/jak1/pc"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/j3-engine-pt14-debug — goal_src/jak3/levels/city/port",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/j3-engine-pt14-debug/goal_src/jak3/levels/city/port",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/j3-engine-pt14-debug",
+          "goal_src/jak3/levels/city/port"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/j3-engine-pt14-debug — scripts/examples",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/j3-engine-pt14-debug/scripts/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/j3-engine-pt14-debug",
+          "scripts/examples"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/jak3-boot2 — goal_src/jak1/levels/demo",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/jak3-boot2/goal_src/jak1/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/jak3-boot2",
+          "goal_src/jak1/levels/demo"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/maybe-fix-empty-draw — test/decompiler/reference/levels/demo",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/maybe-fix-empty-draw/test/decompiler/reference/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/maybe-fix-empty-draw",
+          "test/decompiler/reference/levels/demo"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/old_compiler — goalc/emitter",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/old_compiler/goalc/emitter",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/old_compiler",
+          "goalc/emitter"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/old_compiler — old_compiler/cpp/goal",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/old_compiler/old_compiler/cpp/goal",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/old_compiler",
+          "old_compiler/cpp/goal"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/old_compiler — old_compiler/cpp/reader",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/old_compiler/old_compiler/cpp/reader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/old_compiler",
+          "old_compiler/cpp/reader"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/old_compiler — old_compiler/cpp/regalloc",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/old_compiler/old_compiler/cpp/regalloc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/old_compiler",
+          "old_compiler/cpp/regalloc"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/parent-method — goal_src/jak1/levels/demo",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/parent-method/goal_src/jak1/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/parent-method",
+          "goal_src/jak1/levels/demo"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/shrub-goal-formats — tools",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/shrub-goal-formats/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/shrub-goal-formats",
+          "tools"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/sky-perf — common/global_profiler",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/sky-perf/common/global_profiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/sky-perf",
+          "common/global_profiler"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/speedup-decomp — game/mips2c",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/speedup-decomp/game/mips2c",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/speedup-decomp",
+          "game/mips2c"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/splitscreen-hack — goal_src/jak1/examples",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/splitscreen-hack/goal_src/jak1/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/splitscreen-hack",
+          "goal_src/jak1/examples"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/splitscreen-hack — test/offline",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/splitscreen-hack/test/offline",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/splitscreen-hack",
+          "test/offline"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/stack-vars — lsp",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/stack-vars/lsp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/stack-vars",
+          "lsp"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/texture-anim-fixes — common",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/texture-anim-fixes/common",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/texture-anim-fixes",
+          "common"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/tfrag-investigation — game/mips2c",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/tfrag-investigation/game/mips2c",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/tfrag-investigation",
+          "game/mips2c"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@w/type-pass-2 — test/goalc",
+        "url": "https://github.com/ZornTaov/jak-project/tree/w/type-pass-2/test/goalc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "w/type-pass-2",
+          "test/goalc"
+        ]
+      },
+      {
+        "name": "ZornTaov/jak-project@z/extract-upgrades-test — game/mips2c",
+        "url": "https://github.com/ZornTaov/jak-project/tree/z/extract-upgrades-test/game/mips2c",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "ZornTaov/jak-project",
+          "z/extract-upgrades-test",
+          "game/mips2c"
         ]
       }
     ]
