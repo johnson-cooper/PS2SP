@@ -7284,6 +7284,32 @@
         ]
       },
       {
+        "name": "TheRealIndianBoi/jak-project — branch: v/add-finnish-mostly",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/add-finnish-mostly",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "TheRealIndianBoi/jak-project",
+          "v/add-finnish-mostly"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project — branch: v/debugging-window-hang",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/debugging-window-hang",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "repository",
+          "TheRealIndianBoi/jak-project",
+          "v/debugging-window-hang"
+        ]
+      },
+      {
         "name": "tihmstar/sd2psx_firmware — branch: feat/debug_usb",
         "url": "https://github.com/tihmstar/sd2psx_firmware/tree/feat/debug_usb",
         "keywords": [
@@ -85914,6 +85940,36 @@
         ]
       },
       {
+        "name": "rhatgadkar/jak-project@my-first-l — goal_src/jak2/levels/city/port",
+        "url": "https://github.com/rhatgadkar/jak-project/tree/my-first-l/goal_src/jak2/levels/city/port",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhatgadkar/jak-project",
+          "my-first-l",
+          "goal_src/jak2/levels/city/port"
+        ]
+      },
+      {
+        "name": "rhatgadkar/jak-project@my-first-l — test/goalc",
+        "url": "https://github.com/rhatgadkar/jak-project/tree/my-first-l/test/goalc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rhatgadkar/jak-project",
+          "my-first-l",
+          "test/goalc"
+        ]
+      },
+      {
         "name": "rhyskoedijk/libsmb2@builtin-ntlmssp — cmake/Modules",
         "url": "https://github.com/rhyskoedijk/libsmb2/tree/builtin-ntlmssp/cmake/Modules",
         "keywords": [
@@ -87536,6 +87592,111 @@
         ]
       },
       {
+        "name": "rooroo42/jak-project@master — goal_src/jak1/examples",
+        "url": "https://github.com/rooroo42/jak-project/tree/master/goal_src/jak1/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rooroo42/jak-project",
+          "master",
+          "goal_src/jak1/examples"
+        ]
+      },
+      {
+        "name": "rooroo42/jak-project@master — goal_src/jak1/levels/demo",
+        "url": "https://github.com/rooroo42/jak-project/tree/master/goal_src/jak1/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rooroo42/jak-project",
+          "master",
+          "goal_src/jak1/levels/demo"
+        ]
+      },
+      {
+        "name": "rooroo42/jak-project@master — tools/level_tools",
+        "url": "https://github.com/rooroo42/jak-project/tree/master/tools/level_tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "rooroo42/jak-project",
+          "master",
+          "tools/level_tools"
+        ]
+      },
+      {
+        "name": "root670/ps2rd@better-hook-code-detection — ee/elfldr",
+        "url": "https://github.com/root670/ps2rd/tree/better-hook-code-detection/ee/elfldr",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "root670/ps2rd",
+          "better-hook-code-detection",
+          "ee/elfldr"
+        ]
+      },
+      {
+        "name": "root670/ps2rd@better-hook-code-detection — iop/SMSMAP",
+        "url": "https://github.com/root670/ps2rd/tree/better-hook-code-detection/iop/SMSMAP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "root670/ps2rd",
+          "better-hook-code-detection",
+          "iop/SMSMAP"
+        ]
+      },
+      {
+        "name": "root670/ps2rd@better-hook-code-detection — iop/SMSTCPIP",
+        "url": "https://github.com/root670/ps2rd/tree/better-hook-code-detection/iop/SMSTCPIP",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "root670/ps2rd",
+          "better-hook-code-detection",
+          "iop/SMSTCPIP"
+        ]
+      },
+      {
+        "name": "root670/ps2rd@test — ee",
+        "url": "https://github.com/root670/ps2rd/tree/test/ee",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "root670/ps2rd",
+          "test",
+          "ee"
+        ]
+      },
+      {
         "name": "rorrexatnys/tyra@master — demo",
         "url": "https://github.com/rorrexatnys/tyra/tree/master/demo",
         "keywords": [
@@ -88996,6 +89157,96 @@
           "sanxswxw/pcsx2",
           "update-controller-db",
           "3rdparty/soundtouch"
+        ]
+      },
+      {
+        "name": "sarjona98/jak-project@build-level-iso-path — goal_src/jakx/engine/common-obs/driver",
+        "url": "https://github.com/sarjona98/jak-project/tree/build-level-iso-path/goal_src/jakx/engine/common-obs/driver",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "sarjona98/jak-project",
+          "build-level-iso-path",
+          "goal_src/jakx/engine/common-obs/driver"
+        ]
+      },
+      {
+        "name": "sarjona98/jak-project@master — game/mips2c",
+        "url": "https://github.com/sarjona98/jak-project/tree/master/game/mips2c",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "sarjona98/jak-project",
+          "master",
+          "game/mips2c"
+        ]
+      },
+      {
+        "name": "sarjona98/jak-project@master — goal_src/jak2/tools",
+        "url": "https://github.com/sarjona98/jak-project/tree/master/goal_src/jak2/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "sarjona98/jak-project",
+          "master",
+          "goal_src/jak2/tools"
+        ]
+      },
+      {
+        "name": "sarjona98/jak-project@vag-tools — goal_src/jak2/examples",
+        "url": "https://github.com/sarjona98/jak-project/tree/vag-tools/goal_src/jak2/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "sarjona98/jak-project",
+          "vag-tools",
+          "goal_src/jak2/examples"
+        ]
+      },
+      {
+        "name": "sarjona98/jak-project@vag-tools — goal_src/jak2/levels/demo",
+        "url": "https://github.com/sarjona98/jak-project/tree/vag-tools/goal_src/jak2/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "sarjona98/jak-project",
+          "vag-tools",
+          "goal_src/jak2/levels/demo"
+        ]
+      },
+      {
+        "name": "sarjona98/jak-project@vag-tools — tools",
+        "url": "https://github.com/sarjona98/jak-project/tree/vag-tools/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "sarjona98/jak-project",
+          "vag-tools",
+          "tools"
         ]
       },
       {
@@ -90644,6 +90895,21 @@
         ]
       },
       {
+        "name": "Silvathunder9-OpenGoalMods/Jak3StrafingMod@master — test/offline",
+        "url": "https://github.com/Silvathunder9-OpenGoalMods/Jak3StrafingMod/tree/master/test/offline",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Silvathunder9-OpenGoalMods/Jak3StrafingMod",
+          "master",
+          "test/offline"
+        ]
+      },
+      {
         "name": "simohsam32-cpu/Open-PS2-Loader@copilot/apply-missing-labels-and-comments — labs/opltestiso/ee",
         "url": "https://github.com/simohsam32-cpu/Open-PS2-Loader/tree/copilot/apply-missing-labels-and-comments/labs/opltestiso/ee",
         "keywords": [
@@ -92101,6 +92367,51 @@
         ]
       },
       {
+        "name": "Sparkey333/jak-project@master — goal_src/jak1/examples",
+        "url": "https://github.com/Sparkey333/jak-project/tree/master/goal_src/jak1/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Sparkey333/jak-project",
+          "master",
+          "goal_src/jak1/examples"
+        ]
+      },
+      {
+        "name": "Sparkey333/jak-project@master — goal_src/jak1/levels/demo",
+        "url": "https://github.com/Sparkey333/jak-project/tree/master/goal_src/jak1/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Sparkey333/jak-project",
+          "master",
+          "goal_src/jak1/levels/demo"
+        ]
+      },
+      {
+        "name": "Sparkey333/jak-project@master — tools/level_tools",
+        "url": "https://github.com/Sparkey333/jak-project/tree/master/tools/level_tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Sparkey333/jak-project",
+          "master",
+          "tools/level_tools"
+        ]
+      },
+      {
         "name": "SparrowLii/libsmb2@master — examples",
         "url": "https://github.com/SparrowLii/libsmb2/tree/master/examples",
         "keywords": [
@@ -92818,6 +93129,36 @@
           "spicybung/pcsx2",
           "master",
           "3rdparty/soundtouch"
+        ]
+      },
+      {
+        "name": "Squiggy0007/jak-project@master — goal_src/jak1/pc",
+        "url": "https://github.com/Squiggy0007/jak-project/tree/master/goal_src/jak1/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Squiggy0007/jak-project",
+          "master",
+          "goal_src/jak1/pc"
+        ]
+      },
+      {
+        "name": "Squiggy0007/jak-project@master — scripts/examples",
+        "url": "https://github.com/Squiggy0007/jak-project/tree/master/scripts/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "Squiggy0007/jak-project",
+          "master",
+          "scripts/examples"
         ]
       },
       {
@@ -97091,6 +97432,846 @@
           "therealdreg/okhi",
           "main",
           "stuff/espcode/managed_components/espressif__esp_modem/test/target_iperf/main"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@bot/update-controller-db — lsp",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/bot/update-controller-db/lsp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "bot/update-controller-db",
+          "lsp"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@d/korean-support — lsp",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/d/korean-support/lsp",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "d/korean-support",
+          "lsp"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@d/lang-pt — decompiler",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/d/lang-pt/decompiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "d/lang-pt",
+          "decompiler"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@d/lang-pt — game/tools",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/d/lang-pt/game/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "d/lang-pt",
+          "game/tools"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@j2/enemy — goal_src/jak2/levels/city/port",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/j2/enemy/goal_src/jak2/levels/city/port",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "j2/enemy",
+          "goal_src/jak2/levels/city/port"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@j2/enemy — test/goalc",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/j2/enemy/test/goalc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "j2/enemy",
+          "test/goalc"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@test2 — common/formatter",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/test2/common/formatter",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "test2",
+          "common/formatter"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@test2 — game/graphics/opengl_renderer/loader",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/test2/game/graphics/opengl_renderer/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "test2",
+          "game/graphics/opengl_renderer/loader"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@test2 — goal_src/jak3/engine/game",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/test2/goal_src/jak3/engine/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "test2",
+          "goal_src/jak3/engine/game"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/ci-vcc-again — game/mips2c",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/ci-vcc-again/game/mips2c",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/ci-vcc-again",
+          "game/mips2c"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/ci-vcc-again — goal_src/jak2/tools",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/ci-vcc-again/goal_src/jak2/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/ci-vcc-again",
+          "goal_src/jak2/tools"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/compiler-report — common/global_profiler",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/compiler-report/common/global_profiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/compiler-report",
+          "common/global_profiler"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/customize-saves-and-settings-loc — goal_src/jak1/examples",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/customize-saves-and-settings-loc/goal_src/jak1/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/customize-saves-and-settings-loc",
+          "goal_src/jak1/examples"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/customize-saves-and-settings-loc — goal_src/jak1/levels/demo",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/customize-saves-and-settings-loc/goal_src/jak1/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/customize-saves-and-settings-loc",
+          "goal_src/jak1/levels/demo"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/customize-saves-and-settings-loc — tools/level_tools",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/customize-saves-and-settings-loc/tools/level_tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/customize-saves-and-settings-loc",
+          "tools/level_tools"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/fix-bind-labels — test/offline",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/fix-bind-labels/test/offline",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/fix-bind-labels",
+          "test/offline"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/fix-portable — goal_src/jak1/examples",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/fix-portable/goal_src/jak1/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/fix-portable",
+          "goal_src/jak1/examples"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/fix-portable — goal_src/jak1/levels/demo",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/fix-portable/goal_src/jak1/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/fix-portable",
+          "goal_src/jak1/levels/demo"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/fix-portable — tools/level_tools",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/fix-portable/tools/level_tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/fix-portable",
+          "tools/level_tools"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/integ-test — common/global_profiler",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/integ-test/common/global_profiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/integ-test",
+          "common/global_profiler"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/jak1-progress-cleanup — common/global_profiler",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/jak1-progress-cleanup/common/global_profiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/jak1-progress-cleanup",
+          "common/global_profiler"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/jak2-mirror-mode — goal_src/jak2/examples",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/jak2-mirror-mode/goal_src/jak2/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/jak2-mirror-mode",
+          "goal_src/jak2/examples"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/jak2-mirror-mode — goal_src/jak2/levels/demo",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/jak2-mirror-mode/goal_src/jak2/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/jak2-mirror-mode",
+          "goal_src/jak2/levels/demo"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/jak2-mirror-mode — tools",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/jak2-mirror-mode/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/jak2-mirror-mode",
+          "tools"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/log-gpu-info — goal_src/jak2/levels/city/port",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/log-gpu-info/goal_src/jak2/levels/city/port",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/log-gpu-info",
+          "goal_src/jak2/levels/city/port"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/log-gpu-info — test/goalc",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/log-gpu-info/test/goalc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/log-gpu-info",
+          "test/goalc"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/macos-version-number-check — game",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/macos-version-number-check/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/macos-version-number-check",
+          "game"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/macos-version-number-check — game/sound",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/macos-version-number-check/game/sound",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/macos-version-number-check",
+          "game/sound"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/nrepl-fixes — game",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/nrepl-fixes/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/nrepl-fixes",
+          "game"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/nrepl-fixes — game/sound",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/nrepl-fixes/game/sound",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/nrepl-fixes",
+          "game/sound"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/profiling-improvements — game/mips2c",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/profiling-improvements/game/mips2c",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/profiling-improvements",
+          "game/mips2c"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/profiling-improvements — goal_src/jak2/tools",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/profiling-improvements/goal_src/jak2/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/profiling-improvements",
+          "goal_src/jak2/tools"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/translations — common/global_profiler",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/translations/common/global_profiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/translations",
+          "common/global_profiler"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/update-macos — test",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/update-macos/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/update-macos",
+          "test"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@v/update-rapid-json — test",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/v/update-rapid-json/test",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "v/update-rapid-json",
+          "test"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/bsp-vis — goal_src/jak1/pc",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/bsp-vis/goal_src/jak1/pc",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/bsp-vis",
+          "goal_src/jak1/pc"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/bsp-vis — scripts/examples",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/bsp-vis/scripts/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/bsp-vis",
+          "scripts/examples"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/collide-j2 — common/global_profiler",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/collide-j2/common/global_profiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/collide-j2",
+          "common/global_profiler"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/compiler-repl-structure — tools",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/compiler-repl-structure/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/compiler-repl-structure",
+          "tools"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/fake-target — tools",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/fake-target/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/fake-target",
+          "tools"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/fcs-debug-vis — tools",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/fcs-debug-vis/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/fcs-debug-vis",
+          "tools"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/fix-silly-merc-typo — game",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/fix-silly-merc-typo/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/fix-silly-merc-typo",
+          "game"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/fix-silly-merc-typo — game/sound",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/fix-silly-merc-typo/game/sound",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/fix-silly-merc-typo",
+          "game/sound"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/fix-wind — common/formatter",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/fix-wind/common/formatter",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/fix-wind",
+          "common/formatter"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/fix-wind — game/graphics/opengl_renderer/loader",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/fix-wind/game/graphics/opengl_renderer/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/fix-wind",
+          "game/graphics/opengl_renderer/loader"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/fix-wind — goal_src/jak3/engine/game",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/fix-wind/goal_src/jak3/engine/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/fix-wind",
+          "goal_src/jak3/engine/game"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/frame-limiter-tweaks — decompiler",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/frame-limiter-tweaks/decompiler",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/frame-limiter-tweaks",
+          "decompiler"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/j3-engine-pt14-debug — common/formatter",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/j3-engine-pt14-debug/common/formatter",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/j3-engine-pt14-debug",
+          "common/formatter"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/j3-engine-pt14-debug — game/graphics/opengl_renderer/loader",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/j3-engine-pt14-debug/game/graphics/opengl_renderer/loader",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/j3-engine-pt14-debug",
+          "game/graphics/opengl_renderer/loader"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/j3-engine-pt14-debug — goal_src/jak3/engine/game",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/j3-engine-pt14-debug/goal_src/jak3/engine/game",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/j3-engine-pt14-debug",
+          "goal_src/jak3/engine/game"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/jak3-eye-fix — goal_src/jak2/examples",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/jak3-eye-fix/goal_src/jak2/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/jak3-eye-fix",
+          "goal_src/jak2/examples"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/jak3-eye-fix — goal_src/jak2/levels/demo",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/jak3-eye-fix/goal_src/jak2/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/jak3-eye-fix",
+          "goal_src/jak2/levels/demo"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/jak3-eye-fix — tools",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/jak3-eye-fix/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/jak3-eye-fix",
+          "tools"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/jak3-minimap-tex — goal_src/jak2/examples",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/jak3-minimap-tex/goal_src/jak2/examples",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/jak3-minimap-tex",
+          "goal_src/jak2/examples"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/jak3-minimap-tex — goal_src/jak2/levels/demo",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/jak3-minimap-tex/goal_src/jak2/levels/demo",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/jak3-minimap-tex",
+          "goal_src/jak2/levels/demo"
+        ]
+      },
+      {
+        "name": "TheRealIndianBoi/jak-project@w/jak3-minimap-tex — tools",
+        "url": "https://github.com/TheRealIndianBoi/jak-project/tree/w/jak3-minimap-tex/tools",
+        "keywords": [
+          "PS2",
+          "PlayStation 2",
+          "GitHub",
+          "branch",
+          "nested project",
+          "repository internals",
+          "TheRealIndianBoi/jak-project",
+          "w/jak3-minimap-tex",
+          "tools"
         ]
       },
       {
