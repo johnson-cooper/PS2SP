@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-11-02T12:57:23Z'
   url: 'https://github.com/Chrispsz/OPL-Mod-PTBR/releases/tag/v1.2.0-Beta-ptbr.8'
 activity:
-  lastSynchronized: '2026-11-25T02:30:14.198Z'
+  lastSynchronized: '2026-11-28T02:01:20.501Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d2f22e7a5504747ecd8f62a284d56e829be5618645b6e592039ea914c1662a7d"
-    releasesEtag: W/"21d19aeef5e866be3cabea5db7c323b3be69516d4114343511cf78f3cbc894bf"
+    repoEtag: W/"0a6b5dc55986dee0d4f0596117179c8400c5490e898190823cea27ca8b60a362"
+    releasesEtag: W/"b36f7f4209ef08307c4c4e9724fe7de4218cfc9c1b1ebce8755c820bbba10e4d"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

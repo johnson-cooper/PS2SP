@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2022-08-25T01:43:08Z'
   url: 'https://github.com/israpps/opentuna-payload/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-25T02:30:11.081Z'
+  lastSynchronized: '2026-11-28T02:01:18.208Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9cc3e634a9a4d7f30573a9f1e705dceb93f446f6af0fef1af1affc5b37892b05"
-    releasesEtag: W/"9d0fff63f2ce1b2dfbae550dfd86ba6b903ad6d3c6e0a80f96f2af9e4a0ed0e5"
+    repoEtag: W/"562462263a0bc3f2585e3c6133af03405bfe809960bf8e266335c5cb627d5f75"
+    releasesEtag: W/"69d31c2a5edd9cf1d906f6b5bccd7f2609e0a04b64f2cba1471123703fc7bc65"
 discovery:
   method: 'fork-network:blckbearx/opentuna-payload'
   confidence: 95

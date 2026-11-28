@@ -31,12 +31,12 @@ latestRelease:
   publishedAt: '2022-09-17T01:15:03Z'
   url: 'https://github.com/himham-jak/adpcm/releases/tag/v1.1'
 activity:
-  lastSynchronized: '2026-11-25T02:28:58.087Z'
+  lastSynchronized: '2026-11-28T02:00:05.377Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"8766020a4d5f0703a9b3e4bc5f1b2d5e83c553bcc013e7629f9447a987a0ca8a"
-    releasesEtag: W/"43a08c9e55a3ea5d66c1e6697808a21963dccdee60bb804aa9782844bc726a93"
+    repoEtag: W/"91585b79a215ab9197fd5012e4a67637b60967e99b569e6ddbedd804c8d3cac9"
+    releasesEtag: W/"b085f63ecdeb7cf5cc3b92da676b834edafbc49df3053af99799d46cbbd08a36"
 discovery:
   method: 'fork-network:ps2dev/ps2sdk'
   confidence: 95

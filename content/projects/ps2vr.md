@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2026-11-03T15:04:40Z'
   url: 'https://github.com/gw2/PS2VR/releases/tag/v0.2.2'
 activity:
-  lastSynchronized: '2026-11-25T02:31:17.481Z'
+  lastSynchronized: '2026-11-28T02:02:23.507Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"af5ede2f0e094210fc30d0fcdb8f4e2f2aba1268ea23f1615f690a7f5c5942d0"
-    releasesEtag: W/"67f5500d31a9fedbe4ad8d5fc0d376b45eaeeb91d8ac45da020d9aa4298610af"
+    repoEtag: W/"8bc3986e0e962a4c76c2a9891928a8d0403bfae2d122f9663001f6a416ab23fb"
+    releasesEtag: W/"f25bc3adf9e8dd2776f5790cfd0482273aaff95dd578ebfeb66c08148cc323ab"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

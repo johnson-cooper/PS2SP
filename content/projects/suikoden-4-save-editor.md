@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/TheSparda/Suikoden-4-Editor/releases/tag/v1.6.5'
 activity:
   lastChecked: '2026-11-15T23:11:00.640Z'
-  lastSynchronized: '2026-11-25T02:31:31.003Z'
+  lastSynchronized: '2026-11-28T02:02:40.972Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a06c9409cd6e579a80097e7a71eef268f70fe526a0a17a67e7410858eb2c5aba"
-    releasesEtag: W/"d1e0e6d3802c81a89cd123e82a1f20384f0d5e717850e9235266b120be9e8306"
+    repoEtag: W/"695fbb4f32cd622c8bcc77498b439fa9b9b2ddaa72c47b3d7e275c88a2cdbec5"
+    releasesEtag: W/"9813e8a5a294887bd3a750953887d7b26c386d0661613c33d42dbfdf021b219c"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

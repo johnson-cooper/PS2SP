@@ -23,7 +23,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 7
+  stars: 9
   forks: 0
   lastCommit: '2026-11-23T16:26:37Z'
 latestRelease:
@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/moistman42069/JakAndDaxter-Quest-VR/releases/tag/v0.1.9'
 activity:
   lastChecked: '2026-11-14T19:29:01.311Z'
-  lastSynchronized: '2026-11-25T02:29:36.407Z'
+  lastSynchronized: '2026-11-28T02:00:44.992Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a0b6751783f34babd6c07158909de7640899f0d75b79ddd150298f51fef32595"
-    releasesEtag: W/"f30c2553a4c1487c4a53873aacf1be87071cd4f27992cb44470ecdc9d42a3edc"
+    repoEtag: W/"e71832af42693dc0e42e266700a265e47ca02901095ec3f67e0c625d22c7a953"
+    releasesEtag: W/"6e703d36fca9789cc16ee8ea1e394536bf17327f1bd650c3079faaa4b59abce4"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

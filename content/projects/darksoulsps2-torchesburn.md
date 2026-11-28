@@ -30,12 +30,12 @@ latestRelease:
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-25T02:29:16.585Z'
+  lastSynchronized: '2026-11-28T02:00:24.928Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"a9bc295c61b6067da12309c951fa763dbfd65579358192a44dcc7070bcdb6a80"
-    releasesEtag: '"ad1a1ec552bf400ecf3a617d2c9aa1202b8cfcc5dd53e2a67ba715368e1da051"'
+    repoEtag: W/"b5675efc1c3ec4375ba4530791d98bc774d0c2d382b1368fa66320ae0dd888ef"
+    releasesEtag: '"841649f0cd049c2d64f45b81101642da390da82cf68d1ea2752f93b1b1c85345"'
 discovery:
   method: 'fork-network:nekomancer01/DarkSoulsPS2'
   confidence: 100

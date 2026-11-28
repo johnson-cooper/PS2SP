@@ -25,19 +25,19 @@ repository:
   defaultBranch: dreamcast
   stars: 0
   forks: 0
-  lastCommit: '2026-11-18T22:43:03Z'
+  lastCommit: '2026-11-27T19:08:11Z'
 latestRelease:
   tag: null
   name: null
   publishedAt: null
   url: null
 activity:
-  lastSynchronized: '2026-11-25T02:29:31.151Z'
+  lastSynchronized: '2026-11-28T02:00:39.441Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"23ba0aa8700f29cb44a8c76901ff6b5a3e8feef9b039973f19b1790b3266c475"
-    releasesEtag: '"ad1a1ec552bf400ecf3a617d2c9aa1202b8cfcc5dd53e2a67ba715368e1da051"'
+    repoEtag: W/"c03a2346c57a18ea59d05992b42d0384d83c892a7e67d6e27ede094a1d32029a"
+    releasesEtag: '"841649f0cd049c2d64f45b81101642da390da82cf68d1ea2752f93b1b1c85345"'
 discovery:
   method: 'fork-network:open-goal/jak-project'
   confidence: 95

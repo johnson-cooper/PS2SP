@@ -22,7 +22,7 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 2
+  stars: 3
   forks: 0
   lastCommit: '2026-11-11T11:30:09Z'
 latestRelease:
@@ -32,12 +32,12 @@ latestRelease:
   url: 'https://github.com/gs-nasc/bomberman-land-3-translations/releases/tag/1.0'
 activity:
   lastChecked: '2026-11-11T18:03:48.531Z'
-  lastSynchronized: '2026-11-25T02:29:07.895Z'
+  lastSynchronized: '2026-11-28T02:00:16.490Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"f0cc8f60233745f5e8d4931f7f438e6539fe001bb2d8ad3ecffc9bcd0f3842dc"
-    releasesEtag: W/"0e3f7343f9f6c98b7b0832697ef8e7a1b7f157198410e752623e8df5420cc0bc"
+    repoEtag: W/"ea0e9fbe2ae96d25be60883a60f460b25da7cf6c71507838047383edd6fe792b"
+    releasesEtag: W/"de94b1fb91051ae54b052a762ce8edf5019e09c0832b06f7d505498b363a9805"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

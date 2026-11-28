@@ -29,12 +29,12 @@ latestRelease:
   url: >-
     https://github.com/R3BU1LD/PS2-Game-File-Transfer-Connector/releases/tag/PS2-FTP-CONNECTOR-VERSION-1-0
 activity:
-  lastSynchronized: '2026-11-25T02:30:53.828Z'
+  lastSynchronized: '2026-11-28T02:01:59.263Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"2f63b408e8f2df1d54af1c1613988add7fe58ee74b779cbfe17927ae16df8fe4"
-    releasesEtag: W/"9be073a1eebd4b5e433f5871e26bd6d884520c08f3b3d98960512e605986f6c7"
+    repoEtag: W/"a1744768ba765b8f113d21feb677dcda3f3bf2ba5de255d373be5f508c2163c5"
+    releasesEtag: W/"da3e0eb52f612d5080fbed9632348df8d93d600b50e7eb4fc9589e7c320e86d3"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

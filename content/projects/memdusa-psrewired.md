@@ -29,12 +29,12 @@ latestRelease:
   publishedAt: '2026-05-14T06:40:06Z'
   url: 'https://github.com/PSRewired/Memdusa/releases/tag/v1.0.2'
 activity:
-  lastSynchronized: '2026-11-25T02:29:43.631Z'
+  lastSynchronized: '2026-11-28T02:00:51.409Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"5294426b4cb2017ee8714a93ccfbb3ddc2fff2fbf4eb3874e0e3f93255a3b38c"
-    releasesEtag: W/"e2fffebc537402a12c252b2ba051859f3e5ffd6cbb41410cfb593ee784effcb8"
+    repoEtag: W/"a180215d8f379b4b0660b330ae821870f279f40253f4cda9ad102e854aa94ed7"
+    releasesEtag: W/"b5e64abf53e078491f0dafb45bd30dd487dc1af3ad6a78f0958289da66f7b903"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

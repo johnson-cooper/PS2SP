@@ -34,12 +34,12 @@ latestRelease:
   publishedAt: '2026-11-22T12:19:01Z'
   url: 'https://github.com/blueyonder1234/Open-PS2-Loader/releases/tag/latest'
 activity:
-  lastSynchronized: '2026-11-25T02:29:52.826Z'
+  lastSynchronized: '2026-11-28T02:01:00.357Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"460b434438403d2c39109663d1e2a033feef846a4379ba1fda0095d1719091db"
-    releasesEtag: W/"b91c9333bdce2f16dc1885c021bdadf584afa4e2ada68c878aca522e19670e8d"
+    repoEtag: W/"34c34d9c438911c85feb14fcab1d9916bb3bca888de4b2dd6555547a67843373"
+    releasesEtag: W/"6bfe84fd3c7845312107fd72aedcfc67638e1b81edcc3dfaf48cae7cc9cde0cb"
 discovery:
   method: 'fork-network:ps2homebrew/Open-PS2-Loader'
   confidence: 100

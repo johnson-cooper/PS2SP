@@ -23,7 +23,7 @@ repository:
   defaultBranch: master
   stars: 36
   forks: 7
-  lastCommit: '2026-11-25T02:07:21Z'
+  lastCommit: '2026-11-25T03:07:52Z'
 latestRelease:
   tag: v0.3.0
   name: v0.3.0
@@ -31,12 +31,12 @@ latestRelease:
   url: 'https://github.com/yanm1103/War_of_the_Monsters_recomp/releases/tag/v0.3.0'
 activity:
   lastChecked: '2026-10-29T22:00:32.843Z'
-  lastSynchronized: '2026-11-25T02:31:41.991Z'
+  lastSynchronized: '2026-11-28T02:02:51.591Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"9915c255dbc53e742c047ec32278afab3ae2121ba75e573569c78ebfb712b9b7"
-    releasesEtag: W/"fbcfb0777ad982479a1d5902ab76dcd5e19547d9c4e72fcc26811a0ff384d531"
+    repoEtag: W/"c9f74911d0830f65b475cbd2359469b40e0c9aea4ea129c920fde8ad27d5d2ff"
+    releasesEtag: W/"e15f0032bd6aad6eb90fe6dce578b664ba6d5372cf4a8a42ea72a4ebfc1a0f22"
 discovery:
   method: 'pending-promotion:pending-recheck'
   confidence: 90

@@ -26,12 +26,12 @@ latestRelease:
   publishedAt: '2026-10-22T06:40:36Z'
   url: 'https://github.com/AndreicoderHacks/ps2-xp/releases/tag/Ps2Xp'
 activity:
-  lastSynchronized: '2026-11-25T02:30:58.765Z'
+  lastSynchronized: '2026-11-28T02:02:03.819Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"0e2f40ad1222afd9fb3feab63274f03e7b6410dc0afcc7ac0c9fd1076eb8e27d"
-    releasesEtag: W/"6ffe96c45cccdc9ace53b09b28e51038a70a21c47c599b6082952f63c409b9e9"
+    repoEtag: W/"91978cbbd29814d1a4e14e7eaa3f6bbe0cc258d3c43752d4c5a36b6c5b039075"
+    releasesEtag: W/"0d0b01860369f22ce923b8e5d5ef8a4e1a5fdd101e744db235f373764aa20986"
 discovery:
   method: 'incremental:ps2 in:name,description'
   confidence: 100

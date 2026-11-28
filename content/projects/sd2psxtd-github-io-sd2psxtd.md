@@ -21,19 +21,19 @@ repository:
   defaultBranch: main
   stars: 17
   forks: 6
-  lastCommit: '2026-11-20T14:28:06Z'
+  lastCommit: '2026-11-25T07:25:10Z'
 latestRelease:
   tag: sc2
   name: prebuilt conquest card drop-in pack
   publishedAt: '2025-09-27T14:21:55Z'
   url: 'https://github.com/sd2psXtd/sd2psXtd.github.io/releases/tag/sc2'
 activity:
-  lastSynchronized: '2026-11-25T02:31:27.357Z'
+  lastSynchronized: '2026-11-28T02:02:36.531Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"b500b4b6e2456f7040af6c2d0589e0a0dda92edd6d9da60d6387e0df25f331d0"
-    releasesEtag: W/"1805c06f54df1f1cbbdc0f0a45acc66a95727f7a71319be4d4186e075f4ead4c"
+    repoEtag: W/"864fdb1ea8bc7b3838107113cdd84de0ec6216c7a71e25dcebeb239d79789772"
+    releasesEtag: W/"53166e6e304b630a63fffc8f7e9e27f2d3e21adff0efcf1c539f1441721f7013"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100

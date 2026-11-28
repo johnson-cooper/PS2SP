@@ -28,12 +28,12 @@ latestRelease:
   publishedAt: '2021-02-19T00:19:50Z'
   url: 'https://github.com/ps2homebrew/opentuna-RLE/releases/tag/v1.0'
 activity:
-  lastSynchronized: '2026-11-25T02:30:11.704Z'
+  lastSynchronized: '2026-11-28T02:01:18.744Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"79bbe3b2c78d13ca66adf5ff482ced6b440c66a5465f279747cafc3a57afed43"
-    releasesEtag: W/"ae8741ed4cba1349bf0d6fa2b81b7d3ee7b8dd6d90ab7db0d40d3116376a4d00"
+    repoEtag: W/"0f931c058cac64fe0c1d0117a6c88affc5e78fe502a19d9bb8f6b45320f44022"
+    releasesEtag: W/"67284f6e6fc8e4c5fb7a8f2ad4382ee72b00996bfddd50f9b7a48f57b3833aac"
 discovery:
   method: 'trusted-owner:ps2homebrew'
   confidence: 100

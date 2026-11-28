@@ -23,9 +23,9 @@ source:
 repository:
   archived: false
   defaultBranch: main
-  stars: 61
+  stars: 64
   forks: 3
-  lastCommit: '2026-11-22T15:17:38Z'
+  lastCommit: '2026-11-25T19:13:03Z'
 latestRelease:
   tag: v1.0.10
   name: 'v1.0.10: new settings menu'
@@ -33,12 +33,12 @@ latestRelease:
   url: 'https://github.com/GranasSabre/Grandia3-OpenSkies/releases/tag/v1.0.10'
 activity:
   lastChecked: '2026-10-26T14:34:04.716Z'
-  lastSynchronized: '2026-11-25T02:29:26.679Z'
+  lastSynchronized: '2026-11-28T02:00:35.305Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d7d30a3a3dbc3f1fdc57368f3833277b84a52687114c32ac27cecc5d207e2b7f"
-    releasesEtag: W/"650830178b2a20a29a8d07f5d5c53ec0e5029b9284c76310f8766e147de3a87a"
+    repoEtag: W/"c660e5b97f4416f95e47b676b2f94db263e88b1943a3568915998812977cbec2"
+    releasesEtag: W/"0f0689e418c24dbe5c2cb3d6baa5450e33b057c70a9f69731404510b8d2b93df"
 discovery:
   method: 'pending-promotion:incremental:ps2 in:name,description'
   confidence: 85

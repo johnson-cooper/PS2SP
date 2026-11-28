@@ -22,7 +22,7 @@ repository:
   archived: false
   defaultBranch: main
   stars: 21
-  forks: 0
+  forks: 1
   lastCommit: '2026-10-09T05:51:51Z'
 latestRelease:
   tag: v2.0.0
@@ -31,12 +31,12 @@ latestRelease:
   url: >-
     https://github.com/saildot4k/PlayStation2-Basic-BootLoader-Extended/releases/tag/v2.0.0
 activity:
-  lastSynchronized: '2026-11-25T02:30:44.310Z'
+  lastSynchronized: '2026-11-28T02:01:49.692Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d2b03aa2eee27a9da5cda2c7e502d6b7383564abf6d3529ed10789f37e75ae4a"
-    releasesEtag: W/"8ebba966faf82c2b955a61eb2543342c01771447f34fcd2622fb25d29b27a4ce"
+    repoEtag: W/"cf506d86db2a7fab18daf505770eb46e511ce06917577077cdc179c72d82d5fc"
+    releasesEtag: W/"1004c36e3fae787b475d4657d5e0404b75bdbb95203c8cf68189dd7bc30bdb60"
 discovery:
   method: 'starred:NathanNeurotic'
   confidence: 100

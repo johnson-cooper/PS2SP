@@ -26,21 +26,21 @@ repository:
   defaultBranch: main
   stars: 1
   forks: 0
-  lastCommit: '2026-11-23T22:00:17Z'
+  lastCommit: '2026-11-26T14:50:07Z'
 latestRelease:
-  tag: v0.1.0-preview.7
-  name: TOCA Race Driver 3 Windows 0.1.0-preview.7
-  publishedAt: '2026-11-23T09:54:23Z'
+  tag: v0.1.0-preview.8
+  name: TOCA Race Driver 3 Windows 0.1.0-preview.8
+  publishedAt: '2026-11-25T14:48:38Z'
   url: >-
-    https://github.com/PipeKnight/toca-race-driver-3/releases/tag/v0.1.0-preview.7
+    https://github.com/PipeKnight/toca-race-driver-3/releases/tag/v0.1.0-preview.8
 activity:
   lastChecked: '2026-11-22T18:03:17.818Z'
-  lastSynchronized: '2026-11-25T02:31:35.161Z'
+  lastSynchronized: '2026-11-28T02:02:45.404Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"d79c05bbc56f8b9232a46c075c6354446e1507d137dd8b48176966a7de077d02"
-    releasesEtag: W/"547a43a764aee7405a1af448375b53b18890c8aeac0afc7693a83b929b445b59"
+    repoEtag: W/"7c6be0074605691eb40ffbf5a7d2a7e604d79b5f457ffb3afb35109473560f4b"
+    releasesEtag: W/"fa358d02867bab5890b2a17e101111ba839070208d792c7f7b2d0afaab8ea4e9"
 discovery:
   method: 'pending-promotion:incremental:"PlayStation 2" in:name,description,readme'
   confidence: 85

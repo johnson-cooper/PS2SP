@@ -27,12 +27,12 @@ latestRelease:
   publishedAt: '2026-07-19T16:18:02Z'
   url: 'https://github.com/slimpuggamer/ROMVersionChecker/releases/tag/RC3'
 activity:
-  lastSynchronized: '2026-11-25T02:31:26.073Z'
+  lastSynchronized: '2026-11-28T02:02:34.629Z'
 automation:
   sync: true
   github:
-    repoEtag: W/"c3fbfc333d616cd62421ed1446871cc1e444ca040008c9c22b11f384e7c0a194"
-    releasesEtag: W/"0b8da313a814b5cb9f805896bb35de665085d3266aad899e5cdf1bb5819195bf"
+    repoEtag: W/"b6fcc68ddaab105540fa858c0028a13cccc363ef0bc39904b5050b86ea7d8adb"
+    releasesEtag: W/"a00016d1963587fa94995bc9657f61577c8a30b0f42ec3c7c0b806ae1a50ff1e"
 discovery:
   method: 'starred-curated:NathanNeurotic'
   confidence: 100
